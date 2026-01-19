@@ -154,9 +154,8 @@ def print_help():
     table.add_column("Description")
     table.add_row("quit, exit, q", "Exit")
     table.add_row("help", "Show commands")
-    table.add_row("reset", "Clear conversation history")
+    table.add_row("reset", "Clear screen and history")
     table.add_row("history", "Show conversation history")
-    table.add_row("clear", "Clear screen")
     console.print(table)
     console.print()
 
@@ -198,13 +197,10 @@ def main():
             if cmd == 'help':
                 print_help()
                 continue
-            if cmd == 'clear':
-                console.clear()
-                print_welcome(len(transcripts))
-                continue
             if cmd == 'reset':
                 history.clear()
-                console.print("[green]History cleared.[/green]")
+                console.clear()
+                print_welcome(len(transcripts))
                 continue
             if cmd == 'history':
                 if not history:
