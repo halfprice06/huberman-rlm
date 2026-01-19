@@ -1,0 +1,847 @@
+WEBVTT
+
+00:00.354 --> 00:22.238
+Welcome to the Huberman Lab Podcast, where we discuss science and science-based tools for everyday life. I'm Andrew Huberman, and I'm a professor of neurobiology and ophthalmology at Stanford School of Medicine. My guest today is Dr. Carolina Westland. Dr. Carolina Westland is an animal ethologist and expert in animal behavior.
+
+00:22.402 --> 00:32.574
+Dr. Westland and I discussed the relationship between humans and domesticated animals with a focus on the evidence-based protocols for optimizing the mental and physical health of our pets.
+
+00:32.706 --> 00:56.638
+Dr. Westland explains the best way to interact with our animals. Now, we may assume that the way we pet our animals and exercise them and feed them makes them truly happy. But as she points out, many of the things that people assume turn out to be false when it comes to our pets and their fundamental drives. She teaches us the very basic but powerful things that we can do to satisfy those drives, both for the animal's sake, of course, and to better our relationship with them.
+
+00:56.738 --> 01:23.230
+We also discussed the unique neurological and physiological requirements of different dog breeds. That's a fascinating conversation that stems from their lineage from wolves. And we'll tell you whether or not your particular breed, even if it's a mutt, should be exercised in a particular way, whether or not it needs additional forms of stimulation that you're not currently giving it, and so on. And because we both realize there are also cat owners out there too, we discuss the often misunderstood communication signals and social needs of cats.
+
+01:23.490 --> 01:53.470
+As you may know, there is a tremendous amount of debate out there about the best training and practices for taking care of our dogs and other animals. And so much of that is grounded in speculation and training outcomes, which of course are important. The conversation today with Dr. Westland approaches animal health and welfare through the lens of ethology and the species that our pets evolved from to provide actionable protocols that are grounded in science and that you can implement right away to improve your pet's wellbeing. So if you're a pet owner, this episode is going to be of immense value to you.
+
+01:53.506 --> 02:21.662
+If you're not a pet owner, you'll still learn a ton about animal biology and psychology, including yours. Before we begin, I'd like to emphasize that this podcast is separate from my teaching and research roles at Stanford. It is, however, part of my desire and effort to bring zero cost to consumer information about science and science related tools to the general public. In keeping with that theme, this episode does include sponsors. And now for my discussion with Dr. Carolina Westland. Dr. Carolina Westland, welcome.
+
+02:21.826 --> 02:50.142
+Thank you. I'm super excited for this conversation. Yeah, me too. I can barely contain myself. I think we have so much to learn from animals, and I think we have so much to learn from our relationship to animals. I also believe that we have all sorts of ideas about what animals experience, what they think about us, the relationship that we think we have with them. Oh, yeah. Today, you're going to set the record straight. To start off, could you just briefly list off
+
+02:50.242 --> 03:17.790
+some of the species of animals that your students have worked with and studied? Most of my students are like guardians of animals. So they're like dog owners or horse trainers, or there might be veterinarians. Some of them work in a zoo as a zookeeper or animal trainer and so on. So my students are really diverse and their knowledge levels is also really diverse from the sort of
+
+03:18.530 --> 03:47.518
+person who has their first dog at the age of 40 to somebody who's been training animals for 30 years? I grew up around a few horse people. My first girlfriend had a horse. And it was remarkable to me to see and to get some just external understanding of the relationship between human and animal through observing that. I think of all the relationships between animals and humans, the horse –
+
+03:47.714 --> 04:16.863
+human relationship seems to be the one where there's the most amount of physical contact, right? You ride a horse. You learn to read the horse's intentions. It learns to read yours through these subtle, you know, squeezing of the legs or kicking or not kicking hard, but, you know, like just like a nudge of the heel, just a slight tug on the reins. It's really remarkable. What
+
+04:17.442 --> 04:47.230
+does the horse experience the world as? I've heard before that, you know, they sort of have these orbs of awareness around them and that they're paying attention to things on the horizon, that they're clearly paying attention to things very up close to their body. But if you were to put us into the mind of a horse as best you can, how does the horse experience the world as a wild horse and with a rider on its back trying to steer it in a particular direction at a particular speed?
+
+04:47.490 --> 05:15.070
+As an ethologist, I tend to take a step back and look at sort of the species in general. And horses are prey animals. They are also herd animals. And I think that we as humans, we tend to not really understand how different animal species can be from ourselves in how they perceive the world and what's important to them.
+
+05:15.394 --> 05:43.038
+So horses being prey animals means that they're usually quite vigilant. So they're paying a lot of attention to the world. And they have this, their visual field is really big so they can sort of see what's happening back there. The issue I have with how we raise and keep horses today as an ethologist and sort of looking at how animals live their lives in the wild is that we keep them in a way that sort of challenges them in several aspects of that. So we tend to separate them differently.
+
+05:43.202 --> 06:09.022
+quite early from their mum, even though in the wild they would stay for a very long time. So I think some of the concerns that I have as an ethologist with how we raise horses is the early weaning that we sometimes see and also single housing for a species that's an aggregating species and also that in the wild they will forage up to 16 hours a day
+
+06:09.218 --> 06:38.558
+And when we bring them into captivity, we typically feed them in the way that promotes very quick eating, you know, for just a fraction of that time. And that can then lead to problem behavior. So for me, I think horses are probably one of the captive animal species where for many individual horses, the type of life that we're offering is really not that great. Interesting. Interesting.
+
+06:40.002 --> 07:07.838
+Dogs, I know, are very smell-oriented. They experience the world perhaps largely, but certainly quite a bit through their noses. They can sense odor instead of distance, and certainly up close. They like to get their nose right into things and sniff, get deep sniffs, and they're always collecting information with their noses. There's a huge range of dog breeds,
+
+07:07.938 --> 07:37.694
+And I think any discussion about dogs requires that we first kind of separate out some of the major differences, at least in terms of the purebred versions of them. When I see a mastiff versus a chihuahua versus like a scent hound, I'm looking at, to me, what appear to be very different animals. Is it true that certain dogs rely on their sense of smell far more than others? And if so, do the ones that rely on their nose –
+
+07:38.146 --> 08:03.998
+just not pay attention to what they're looking at unless you insist. I mean, the other version of this question is how should we interact with dogs differently depending on what breed of dog they are? Yeah. So I think I can't really answer the first part of that question. I don't know the extent to which different dog breeds, their sensory capabilities, how much that differs between different dog breeds. However,
+
+08:04.194 --> 08:29.182
+How to interact with different dog breeds? I think that's really a really interesting question because so during the process of domestication and in just the last couple of hundred years, really, we started selecting for different capabilities in the different dog dogs that we needed for different tasks, essentially.
+
+08:29.346 --> 08:50.174
+So if we look at a wolf hunting sequence, what they'll do is they'll do an orient response where they sniff and they're sort of looking for prey. And then they will do some eyeing and stalking behavior. So they'll focus and they'll do stalking and then they'll do chasing and then they'll do a grab bite.
+
+08:51.298 --> 09:16.958
+killing bite, then they'll dissect and then they'll eat the prey. So we have this whole predatory sequence that we see in wolves. And what happened during the process of domestication was that we sort of selected for certain aspects of that sequence in different breeds. So we'll have the sniffers, the hounds that are really great. And I guess maybe that answers your first question. I think that probably all dog breeds are
+
+09:17.186 --> 09:44.542
+enjoy sniffing. It's one of the big things that people are exploring a lot now is nose work. But anyway, back to this process of domestication. And then we had the pointers who we have really selected for that behavior. In a litter of puppies, we would select the one that was the most
+
+09:45.506 --> 10:15.390
+prone to do that behavior. And so over generations, we really sculpted that niche, so to speak. So a pointer will typically not proceed to the next behavior, the predatory sequence. And then we have like the border collies who might do some chasing or some eyeing and stalking and a little bit of chase, but ideally no grabbing. And we have the pure chasers, the greyhounds, for instance. And then we have the
+
+10:15.554 --> 10:38.910
+the grabbers, the retrievers. And then we have the killers, the terriers. People, I'm assuming, were anticipating you to say the pit bulls or the Dobermans. But anyone that's owned a terrier will know that they are great ratting dogs. They were bred to exterminate small rodents and stuff.
+
+10:39.010 --> 10:57.086
+Yeah. Anyone who's seen a Westie, those cute little West Highland Terriers, the little white ones, they're real cute. If one of those hears or senses a rodent in the wall, I've seen one stalk one for several days. It will move along. We used to call it rat TV. The Westie will...
+
+10:57.282 --> 11:21.086
+sense when and where the rodent is there with an absolute fixation. And if there's any way to get into that wall and kill that rodent, it's coming out with that rodent in its mouth. It's remarkable. The amount of dedication is just striking. And it's all about killing that rat. Yeah. So we systematically intentionally bred for that like a couple hundred years ago. And then we have the
+
+11:21.410 --> 11:51.102
+the ones that don't show much of the predatory sequence at all, that simply mostly just eat, which are the, what do you call them, the ones that help livestock guardians, they still like the sniffing. So they tend to retain the sniffing part and then specific breeds will have one or perhaps a few of the behaviors from the hunting sequence.
+
+11:51.234 --> 12:20.446
+So I think if we want to offer dogs a good life, we should understand where they are on that scale and also that the working dogs come sort of with this evolutionary backpack, their genetic backpack, will encourage them to really want to do that work. And then we have also the sort of...
+
+12:21.090 --> 12:47.134
+I think they're sometimes referred to as toy breeds, the lap dogs, who are not that interested in any of that working dog behavior. So I think we need to, with regards to the different breeds, we need to really understand what purpose they were bred for, I think. I'd like to take a quick break and acknowledge our sponsor, Our Place.
+
+12:47.298 --> 13:15.166
+Our place makes my favorite pots, pans, and other cookware. Surprisingly, toxic compounds such as PFASs or forever chemicals are still found in 80% of nonstick pans, as well as utensils, appliances, and countless other kitchen products. As I've discussed before in this podcast, these PFASs or forever chemicals like Teflon have been linked to major health issues such as hormone disruption, gut microbiome disruption, fertility issues, and many other health problems. So it's really important to try and avoid them.
+
+13:15.458 --> 13:39.518
+This is why I'm a huge fan of Our Place. Our Place products are made with the highest quality materials and are all completely PFAS and toxin-free. I especially love their Titanium Always Pan Pro. It's the first nonstick pan made with zero chemicals and zero coating. Instead, it uses pure titanium. This means it has no harmful forever chemicals and does not degrade or lose its nonstick effect over time. It's also beautiful to look at.
+
+13:39.714 --> 13:55.806
+I cook eggs in my Titanium Always Pan Pro almost every morning. The design allows for the eggs to cook perfectly without sticking to the pan. I also cook burgers and steaks in it, and it puts a really nice sear on the meat. But again, nothing sticks to it, so it's really easy to clean, and it's even dishwasher safe. I love it.
+
+13:55.970 --> 14:12.414
+and I basically use it constantly. Our Place now has a full line of Titanium Pro cookware that uses its first-of-its-kind titanium nonstick technology. So if you're looking for non-toxic, long-lasting pots and pans, go to fromourplace.com slash Huberman and use the code Huberman at checkout.
+
+14:12.546 --> 14:38.142
+Right now, Our Place is having their biggest sale of the season. You can get up to 30% off all products now through May 12th, 2025. With a 100-day risk-free trial, free shipping, and free returns, you can try Our Place with zero risk and see why more than 1 million people have made the switch to Our Place Kitchenware. Again, that's fromourplace.com slash Huberman to get up to 30% off. Today's episode is also brought to us by 8Sleep.
+
+14:38.306 --> 14:48.798
+Eight Sleep makes smart mattress covers with cooling, heating, and sleep tracking capacity. Now I've spoken before on this podcast about the critical need for us to get adequate amounts of quality sleep each and every night.
+
+14:48.994 --> 15:18.960
+Now, one of the best ways to ensure a great night's sleep is to ensure that the temperature of your sleeping environment is correct. And that's because in order to fall and stay deeply asleep, your body temperature actually has to drop about one to three degrees. And in order to wake up feeling refreshed and energized, your body temperature actually has to increase by about one to three degrees. Eight Sleep automatically regulates the temperature of your bed throughout the night according to your unique needs. Now, I find that extremely useful because I like to make the bed really cool at the beginning of the night, even colder in the middle
+
+15:18.960 --> 15:46.814
+of the night and warm as I wake up. That's what gives me the most slow wave sleep and rapid eye movement sleep. And I know that because Eight Sleep has a great sleep tracker that tells me how well I've slept and the types of sleep that I'm getting throughout the night. I've been sleeping on an Eight Sleep mattress cover for four years now, and it has completely transformed and improved the quality of my sleep. Their latest model, the Pod 4 Ultra, also has snoring detection that will automatically lift your head a few degrees in order to improve your airflow and stop you from snoring.
+
+15:46.978 --> 16:11.614
+If you decide to try Eight Sleep, you have 30 days to try it at home and you can return it if you don't like it. No questions asked, but I'm sure that you'll love it. Go to eightsleep.com slash Huberman to save up to $350 off your pod for Ultra. Eight Sleep ships to many countries worldwide, including Mexico and the UAE. Again, that's eightsleep.com slash Huberman to save up to $350 off your pod for Ultra. That's a...
+
+16:11.714 --> 16:39.646
+Beautiful and to me, completely novel description of the breakdown of different breeds. Not according to the dosing of wolf versus mastiff genes, which is what some of the more reductionist research papers on this really do. They have these charts. We'll provide a link to one that was published in Science Magazine about 10 years back that had this dosing of mastiff genes versus wolf genes. And...
+
+16:41.058 --> 17:10.623
+What you just described beautifully breaks down what one observes if you go to a dog park or the beach. My bulldog mastiff, Costello, he was a mudded bulldog. So I always say, you know, no underbite. So it wasn't this, it was this, right? So a proper bulldog before they inbred them so much that they have the underbite and the short snout, the brachycephalic, the breathing issues. But he neither stalked nor chased. Mm-hmm.
+
+17:10.753 --> 17:40.510
+nor was he interested in killing anything. He didn't have that sense to try and harm, but he certainly liked to consume. So he was at the end of that behavioral description. And what were they bred for? So I'll try and not take up too much time on this one because I want to learn from you. The original bulldog line was a cross between a mastiff, something like a mastiff, strong, large, high pain tolerance, and
+
+17:40.642 --> 18:00.190
+And a pug, short snout. And the gene cross there, and obviously the dog geneticists weren't thinking about specific genes, they were thinking about traits, was the short snout was great for what's called bull baiting because that short snout provides the kind of lever that when they bite down onto the nose of a bull, which is what they were used for, it was a pre-cognitive.
+
+18:00.290 --> 18:27.550
+a cruel practice, very hard to shake them loose. The bull could shake them and they're not going to shake loose. Just think about trying to pick something up with long tongs, right? The physics of this versus a clamp, right? Like a C clamp. Yeah. The mutation that takes the pain receptors out of the face or reduces them is close by another gene that is involved in generating the tensile nature of the skin. So this is why they have the jowls, the folds. And you can...
+
+18:27.778 --> 18:47.454
+I don't suggest anyone do this, but Costello, I'll just give an example. Sometimes, unfortunately, would like get a fish hook through his jowl when he was playing at the ocean or something. And he'd come up to me bleeding, smiling, you know, basically you have to take this thing out. So his pain tolerance was quite high. Pain tolerance was very high in the front of the animal, in the face. Yeah.
+
+18:47.554 --> 19:17.182
+toward the rear of the animal, you touch his back toe and it's, you know, so they have a gradient of pain receptors that runs high density in the back, low density of the front. So they were bred for bull baiting. And the original line has been bred out. It's people who care about the bulldog breed and bringing some more humane breeding practices to the bulldog, because it's a pretty brutal breed now, have tried to reestablish the original line, which again, were elbows back, no strong underbite.
+
+19:17.282 --> 19:46.590
+as opposed to what you see now. So that's the sort of brief history on the bulldog. They have to be born by cesarean because big shoulders, small hips. Anyway, the interesting thing about the bulldog, I always said, and this will take us back to behavior, was the contract that I felt I had with my bulldog was one of he would protect me to the death. You do notice that anytime they hear a noise or anything, they're hypervigilant. But
+
+19:47.266 --> 20:16.798
+If there's no impending threat, total relaxation. The most efficient use of energy of any species. So basically it was, I'll die for you, Andrew, but unless your life is in danger, I'm not gonna do anything. So maybe we could talk about temperament in dogs and how they experience their emotional life. I don't know if we can make general statements about this, but you've spent a lot of your time thinking about the emotional life of animals.
+
+20:17.218 --> 20:43.966
+What does a dog need in order to feel calm and safe? Great question. Yeah, so in order to feel calm and safe, I think perhaps we should go to the core effect space, which I think is one of the three emotional models that I find very, very useful in understanding what
+
+20:44.450 --> 21:12.670
+providing like a good environment for animals so that they can thrive really. So the core effect space is one way of depicting or conceptualizing emotions where we have like valence on the x-axis, so how pleasant or unpleasant something is, and we have arousal on the y-axis. So what you're asking is how can we make animals, and I'm not just dogs, but any species, how can we
+
+21:13.186 --> 21:39.038
+put them in quadrant two of that core effect space, essentially. So low arousal and pleasant. So where they're relaxed and they're feeling safe and they're sort of engaging socially with others and being sort of at ease, if you will. So how do we get there? And I think that some of the things to consider is then the absence of negative emotions. So
+
+21:39.234 --> 22:06.462
+Again, if we're in the core effect space in the quadrant four, with the high arousal unpleasant states, we'll find things like fear, aggression. So helping reduce that will sort of automatically help animals move to the right in the matrix. And in the lower quadrant three, with the unpleasant low arousal state, where animals tend to end up with their sort of
+
+22:07.842 --> 22:37.694
+bored or depressed is engaging them, providing an environment that's stimulating, that they can sort of do interesting things to help them move into the right side of the core effect space. And also to the top in that quadrant one is the high arousal pleasant state, but that would be like seeking or foraging behavior, exploration, play, sex.
+
+22:38.914 --> 23:03.774
+But as to your question, how do we get into quadrant two with feeling safe and sort of that warm, fuzzy feeling? So some of the things to do might be to, if the animal enjoys it coming from you and they often have to know you in order to really appreciate it, is like tactile stimulation, so petting essentially, or
+
+23:04.098 --> 23:33.438
+Something that might interfere is that we primates, we humans are primates and we're huggers. We tend to sort of go like this when we want to interact with an animal that we really like. And to many animals, this is restraint and really scary. And so the type of body contact that we offer to animals that we should consider whether they really enjoy it or not, whether they tolerate it or enjoy it. And one way of doing that is to offer a...
+
+23:33.538 --> 24:02.654
+consent test. So you might off your hand and scratch a little bit, ideally in a place that the animal really enjoys. So most dogs don't enjoy having a hand on top of their head, but rather perhaps here. On their neck. Or the upper chest, sort of. So you might do that for a few seconds and then you remove your hand to see, does the animal enjoy this and will they then reinitiate that contact or not? Or will they move away? And I have this issue with my cat now that he...
+
+24:02.914 --> 24:32.510
+is not very... He doesn't sort of enjoy petting as much as I do petting him. So I have to be really mindful that I really offer him the chance to say no thanks. So we might consider just touching the animal as you're calling it a consent test, like as a test, and then if they move toward you, then what is the pattern of tactile stimulation that dogs like? I've been reading up on this a little bit, and somebody...
+
+24:32.962 --> 24:58.750
+ran an experiment that I think is kind of interesting describing the differences between rates of petting. And it basically, the conclusion was that essentially they claim that all dogs are averse to very rapid touch, but that people tend to pet quickly. And they showed a beautiful example of just if one just deliberately strokes the animal very slowly, the animal's
+
+24:59.522 --> 25:11.102
+eyelids just start to hood. And you basically just diffuse the tension very quickly, which I think is interesting. You know, as humans, we think, oh, we want to pat the dog on its head. And for some reason, we...
+
+25:11.426 --> 25:41.022
+associate padding with fast padding or petting as a quick process. You're going to scratch and pet this animal where it very well could be that all the dogs out there are just dying for some really nice, slow strokes. Yeah. And I also think that that nice, slow stroke, if you're sort of in a calm, emotional state yourself, then we might tap into another interesting emotion theory, which is the polyvagal theory and this concept of co-regulation. So if you're really calm and relaxed,
+
+25:41.154 --> 26:09.854
+then you're sort of sending out these cues, these subtle cues that other individuals are reading and picking up on. And it seems that we do that vis-a-vis also our dogs and certainly also horses, it seems. So that just being calm and relaxed yourself can really help relax the dog. And what you say about the fast practice,
+
+26:10.178 --> 26:39.518
+petting or patting really makes sense to me. I know there's one study in horses that show that if you pat a horse, many horses find that aversive. So in other words, it's something that they'll work to avoid. And yet that is often how we try to reward them when they do something that we want. They do enjoy wither scratching. So back at the nape of the mane, if you scratch them there, they'll typically enjoy that. But I would say that...
+
+26:41.122 --> 27:08.990
+Different animals, different individuals will have these individual preferences and just trying to see what they like. And perhaps also if you're offering your hands like this, they might even scoot around to show you which body part they want scratched once they learn the rules of that communication. I feel like dogs want the part of their body scratched that they can't access on their own. Yes. I'm yet to meet a dog that
+
+27:09.474 --> 27:36.414
+doesn't like being scratched on its rump. Bump scratching is a big thing for many animals. Yeah. Like the top side of their back leg. Yeah. Right. Like right there. It's got to feel so good. Yeah. Because they can't get to that. As well as underneath their rear leg. Right. Like just kind of in the crook of the rear leg. With that soft skin there. Right. That. But.
+
+27:36.834 --> 28:00.830
+You know, having interacted with dogs that were more skittish versus more calm. Yeah. I totally agree that different animals, regardless of breed, just have a completely different relationship to touch. Yeah. And how quickly they want to interact. I've heard, and I don't know if it's true, that for dogs, space is a big thing. Yeah.
+
+28:00.962 --> 28:24.958
+I don't know if this is true. I'm sure someone will refute this. But the idea that if your dog runs up to you when you walk in or a dog runs up to you and it's a new dog you're just meeting and they touch you or they jump up on your shin, that it's their attempt to dominate you. Like this is my space. I'm controlling you. Because you wouldn't necessarily walk up to a dog that you just met and just get right in their space without –
+
+28:25.346 --> 28:55.134
+kind of them approaching you as well. What are your thoughts on this whole dominant submission thing on the basis of touch and space? That's like Pandora's box there, right there. Great. I don't have any stake in this. I just would like to learn and I would like people to learn so that they can have better interactions with and for animals. Sure. Yeah. So first of all, I think that actually we often do walk up to strange dogs that we never met before. We're like, hi, can I pet him? And then we start patting on top of the animal's head. Guilty. So I think that we do do that. Mm-hmm.
+
+28:55.298 --> 29:12.766
+And then this whole discussion about dominance is really interesting because as an ethologist, how we define dominance is completely different from how most people define it. And I actually, I looked into the encyclopedia to see how is...
+
+29:12.898 --> 29:41.566
+Dominance defined there. And I find that there's two lines of that definition. So one is the ethological definition of dominance, and one is the sociological definition of dominance. And I think that what we're doing often is that we're using the sociological definition on animals in a way that's, I think, unfortunate. Because the ethological definition is about priority of access to resources.
+
+29:42.530 --> 30:11.870
+Here's a resource. Here's like five individuals coming up to it. There's just one there. The dominant individual will have priority of access to that resource. The others simply have to wait or look elsewhere. And this reduces the risk of sort of confrontation and aggression and all the costs associated with that. So it's just, it's normal that animals who hang out together, who are like in a stable social group, will organize or have some sort of dominance hierarchy, which
+
+30:12.002 --> 30:41.982
+within them that allows this to take place, to reduce the risk of aggression. It tends to become exacerbated in captivity compared to in wild contexts because then the animals can disperse and there's a resource over there that they can go and get instead. But when we house them and we're offering, specifically we're offering like, here's, you have two cats or three cats and here's the food.
+
+30:43.202 --> 31:12.926
+you're putting the animals in conflict because cats are solitary hunters. So they actually do, if you have several cats, you should feed them in sort of separate locations to reduce that sort of heightened arousal that goes with that type of feeding. Okay, there's dominance among dogs or among dogs and other non-human animals. I'm thinking in terms of the relationship between human and dog and touch and space. I've heard that the dog,
+
+31:13.442 --> 31:42.590
+It touches you. It thinks it owns you. I've heard that if you move into a space that the dog is and it backs away, then it's, you know, it thinks of you as dominant. I've also heard that if the dog moves into your space very quickly, that it sees itself as kind of the leader in this relationship. There are a lot of theories out there about this. And I'm realizing that all these theories about animals must be very contentious because they lack the language to tell us
+
+31:42.754 --> 32:08.126
+what we want to know. So we're always sort of guessing when we're doing ethology. I would not label any of those situations that you described as a dominance interaction, actually. I would rather, if the dog backs away when you confront them, I would sort of rather label that as perhaps a fearful reaction, not submissive, as in giving you priority of access to a resource. Typically, feral dogs in the wild will form a
+
+32:08.322 --> 32:37.022
+linear dominance hierarchies with regards to the access to resources. And that might shift depending on what the resource is. So it's not like it's written in stone or anything. So it's like fluid and variable, but there's still typically some sort of like hierarchy when it comes to the priority of access to resources. Then we have another social role, which is the role as a leader and
+
+32:37.186 --> 33:03.294
+When I, as an ethologist, say leader, I mean the one that leads, that sort of walks first in line from one location to another. I like to take the example of elephants that when they migrate, it's typically one of the old females, the matriarch, who leads the way. She's the leader. So she'll help them find, she knows where to go, essentially. Yeah.
+
+33:03.554 --> 33:32.030
+And there's other social roles as well. There might be the controller, who is the animal who tends to initiate a change in activity. So we see this in cows, for instance, that all the cows are standing up and they're grazing. And then one cow, the controller, lies down and everybody else lies down also and they start ruminating. They will often synchronize their behavior, but they'll follow. It's not that
+
+33:32.354 --> 34:01.502
+one individual is sort of imposing on the others, but rather they do that and the others follow suit. Interesting. I have heard this, that when you walk your dog, that your dog should be next to you or behind you. Very few dog owners actually walk with their dog behind them. I live in an area that is frequented by dogs and owners. It's interesting to kind of interpret that as
+
+34:02.210 --> 34:31.071
+a question which is, if the dog walks in front, does it mean that it somehow is the leader? I mean, are humans just completely wrong about all this stuff? I think so. Great. I think that we carry a lot of... And actually, we haven't mentioned this, I think, but I have very little practical experience about dogs, with dogs. I haven't lived with dogs. I haven't trained dogs. But many of my students train dogs and I help them. But that also means that I don't carry any of these...
+
+34:31.362 --> 35:00.190
+sort of assumptions that you're supposed to have your dog behind you or beside you than if you don't. So, which means that I can look at that type of statement and go, really? Because I think that there's a lot of learning occurring, of course, that you teach the dog that if you stay at my side or behind me, then, you know, there won't be any unpleasantness. But if you pull ahead, I'm going to yank you back. So there'll be an unpleasant...
+
+35:00.962 --> 35:29.726
+consequence to the pulling behavior, which will then influence the animal's choice in staying next to you. But I think we very often, what we label as dominance can very often be just, if we just remove that label and we look at the animal's behavior, we can explain it in other terms. And again, I would not use, for me, dominance as an ethologist has to do with the priority of access to resources. So along the lines of priority,
+
+35:30.178 --> 35:55.934
+of access to resources. When I got my puppy, I was taught in the dog training course that I took with him that I should eat and then he should eat or that we could eat alongside one another different food. Although I confess, I often fed him steak. If it was appropriate food for a bulldog, I fed it to him.
+
+35:56.898 --> 36:25.278
+as opposed to letting him eat before me because of this access to resources thing. Is there any truth to that? This is taught in a lot of dog slash owner training. Because a lot of dog training is actually owner training. Yeah, yeah, yeah, sure. I mean, you have to set up the situation to work for you and the animal. But again, I would not frame that in terms of dominance. Dogs form relationships with us. But as far as I know...
+
+36:25.506 --> 36:54.942
+from the ethological perspective, we have no role in a dominance hierarchy among dogs. They know that we are different and they will respond, they will learn to expect that if in this context, that will happen, in that context, that will happen. And so we can often reframe that from in a different learning system than dominance. That's a novel perspective because I think that so much of what's out there in terms of dog slash owner training is really about not so much diversity,
+
+36:55.042 --> 37:23.838
+dominance, but really trying to establish a relationship where it's clear that you're the caretaker to quote unquote, make them feel safe so that their job is very clear. So they don't feel the anxiety of needing to perform roles that perhaps are yours. There's a lot like what you hear when you hear about parent child training, basically. So maybe given the sort of pattern of your answers over the last couple of questions, I should ask the question, um,
+
+37:24.130 --> 37:52.990
+which is a really straightforward one, which is how do you think about animals? Like, like what is your view of animals when you, when you think about them? I know you're interested in their welfare and improving their wellbeing and conditions, but how do you, like when you see a, an animal most people say, okay, well, that's a dog. That's a horse. That's a parrot. Can I interact with it? Maybe I don't want to, or maybe I have a phobia who knows, but how do you think about animals? Like what's driving this inquiry in terms of their, their emotional and their,
+
+37:53.218 --> 38:22.046
+First of all, I think that we humans are also an animal species. And that we tend to sort of put ourselves on a pedestal and thinking that we are one and then animals are like this, the other, as if it were homogeneous, which is, it really isn't. So each animal species have their own adaptation. We have our own adaptations.
+
+38:22.178 --> 38:48.510
+And all the other animal species that we surround ourselves with do as well. So I don't know if that really answers your question, but I tend to... So the work I do is to sort of try to help animals live better lives with humans. And that very often starts with understanding how that animal species would live in the wild and the type of...
+
+38:48.930 --> 39:16.638
+of life that they have, whether they're a predator, whether they're a prey animal species, how they process the world, the type of information that they take in. So, for instance, we might see a dog who's wagging his tail, and we might think that it's only happy dogs that wag their tails, but actually tail wagging is seen in many different contexts. And we might think of it as a visual communication thing.
+
+39:17.186 --> 39:43.646
+But actually, it could be that they're dispersing scent. The tail wag will sort of, that scent will waft over to you so you can take in information about my current emotional state. They definitely have scent glands back there. Oh, yeah. Yeah. Interesting. So can we interpret dog wags of different types? Is there a way to do that? So one very interesting thing is that the dog wagging with the predominant left wag is,
+
+39:43.810 --> 40:11.358
+Left for the dog? Left for the dog. So he's wagging on the left-hand side of his body. Tends to be associated with negative emotional states. And on the right tends to be associated with positive emotional states. And the same cats tend to look at the world from the left when in a negative emotional state and from the right when in a positive emotional state. So looking from the left, meaning the left eye slightly forward is...
+
+40:11.554 --> 40:36.894
+The head tilted, so the right eye. So taking in that information with this eye. If you're scary, I'm going to continue. Some people are just listening. They're not watching, so they can't see this. So what Carolina is describing is if the head is turned slightly to the side, so the left eye is forward, that's a negative. So they're looking at the stimulus with their left eye if that stimulus is fear-inducing. And the opposite to the right-hand side, if it's more...
+
+40:36.994 --> 41:06.014
+attractive to them. Yeah. So this is lateralized. Interesting. And then the tail wag, you said a dog wagging on the left-hand side, more negative right-hand side and more positive. What about full sweeps? Yeah, full sweeps. And I don't know the details here, but certainly the type of tail wag, whether it's sort of very low and fast or whether it's high and sort of stiff, will communicate different emotional states. Do you think that over time we learn
+
+41:06.402 --> 41:35.710
+these signals without realizing that we learn these signals. Yes, absolutely. Because we associate it with our dog being in a particular circumstance or behaving in a certain way. So studies have shown that we humans are actually, we learn to read dogs by exposure, even passive exposure, just living in an environment. And apparently, if we live in a culture where dogs live close with humans, we get better in reading dogs than in cultures where dogs don't interact that much with humans.
+
+41:35.842 --> 42:05.118
+So there's that. And there's also the issue that we are typically better at reading gross body language than we are at reading facial expressions. Apparently, one of the reasons being that dogs move different facial muscles when they make emotional facial expressions. They move different muscles than what humans do. What can you tell us about the facial expressions of dogs?
+
+42:05.890 --> 42:34.014
+Well, there's been some studies in the last couple of years that have looked at which muscles are moving when, in which contexts. So they'll expose the dog to different types of stimuli and they'll film the dog and look at what muscles are twitching, where is the face moving in response to these stimuli. So those types of studies have found that when a dog is exposed to, let's say,
+
+42:34.306 --> 43:02.366
+thunder or firework sounds, they will show a certain facial configuration. When their owner returns home after not being seen for several hours, they will show a different facial configuration and so on. So it seems that they do show facial expressions. It's just that some of those facial expressions are, it's not the same muscles that we show in the corresponding emotional state. So that would, I think, bias us to misreading the
+
+43:02.722 --> 43:30.782
+dogs' facial expressions from that perspective. But then again, if we live with dogs, we start... We won't observe just the facial expression. We will observe the entire dog. And we're often better off reading their body language than we are reading their facial expression. Even though I think that studies also show that the face is where we look first. Which behaviors in dogs are maintained...
+
+43:31.202 --> 43:50.494
+from interactions with other dogs when they interact with humans. For instance, if one is going to take a dog out on a walk and it's familiar with the sound of the leash coming off the hook or something like that, it's not uncommon for a dog to go into that long, full,
+
+43:50.594 --> 44:20.286
+you know, front leg stretch that people call down dog, you know, in yoga. And some people will say that's a kind of remnant of the puppy play kind of stance. Again, people say this stuff. People are often self-appointed dog experts. This is kind of interesting. And I've learned this from researching it online that the various camps of quote-unquote dog experts disagree vehemently with each other. I mean, they write to me saying, you know, they're
+
+44:20.386 --> 44:49.854
+evil. This person is cruel. You know, they blame each other of animal cruelty for different training tools. We'll talk about that a little bit later. But dogs will do this down dog type movement, whatever it means, with other dogs, and they'll do it with humans. Do you think it means the same thing in those two different contexts? Most probably does. That play bow that you're describing is what's referred to as a meta signal for play. So it's
+
+44:49.954 --> 45:18.174
+typically shown in a play context. And I haven't seen it described, but then again, I'm not a dog owner, but I haven't seen it described in the context of let's go for a walk. But certainly in the play context, as far as I know, dogs play a bit differently with humans than they do with other dogs, but they do enjoy playing with humans. And sometimes I think we humans have a hard time knowing whether it's
+
+45:18.754 --> 45:47.678
+what we're seeing is play or aggression because there will be elements from the aggressive repertoire within a play bow. But typically what we can do then is look for what's referred to as MARS, M-A-R-S. So M being the metasignals, so those play bows. Or in other species, it will be other behaviors that are sort of indicating that I want to play. I know chimpanzees have like 30 or 50 different metasignals for play. And
+
+45:47.874 --> 46:17.534
+M-A-A is for activity shift. So we'll see different behaviors. They might be chasing, they might be pouncing, they might be wrestling, biting each other. But you'll see these activity shifts and it's not in the same order as it would be if they were truly fighting. M-A-R-R is for role reversals. So you'll see that the dogs, if they're of different sizes or different sort of
+
+46:17.826 --> 46:42.398
+stamina or how big they are, how competent fighters they are, would be that they'll take turns winning and losing. Yeah, I've seen that. Yeah, because it's not fun playing if you lose all the time. So in order to keep playing, the bigger dog needs to lose sometimes. So they need to, in order to keep this interaction going, that's the way to do that. And the last one, S, is self-handicap.
+
+46:42.754 --> 47:05.790
+So the larger dog will self-handicap themselves. You might see them doing a tug of war and the large dog is just standing there and holding the thing and the small dog is like pulling and really trying to get the thing and the big dog is just standing there doing nothing. But then if a human takes over the toy and starts pulling, then the big dog will engage and start showing more of his strength and escalate that behavior.
+
+47:06.050 --> 47:32.062
+It's a beautiful thing when you see animals adjusting their level of kind of vigor in play so that the play can continue. It's very sweet. I mean, it speaks to a bigger question, which is, do dogs have empathy? Oh, I think so. Absolutely. I can't say I've seen any studies on it, but just, yeah. I mean, I think many dog owners are familiar with when we're grieving and
+
+47:32.962 --> 47:59.966
+A dog will often come closer as opposed to moving further away. I mean, I've seen some incredible moments. You know, we interpret these things, right? We anthropomorphize. But I had someone in my home years ago who was grieving a death in her family. And Costello came and, you know, put a paw on her knee. And it's hard to not interpret that as a meaningful moment of empathy. Who knows what he was –
+
+48:00.066 --> 48:28.702
+Maybe he was experiencing distress for all I know, but the more pleasant interpretation is that he wanted to extend comfort. I think it makes sense from the evolutionary perspective that social animals who live in a cohesive social group are good at reading each other's emotional state and also good at sort of trying to buffer negative emotions if possible.
+
+48:29.666 --> 48:43.614
+if it's possible to do that. And so I would expect it with any of the sort of more cognitively advanced species, I would expect some type of empathy. I'd like to take a quick break and acknowledge our sponsor.
+
+48:43.714 --> 49:05.758
+AG1 is a vitamin mineral probiotic drink that also contains adaptogens. I started taking AG1 way back in 2012, long before I even knew what a podcast was. I started taking it and I still take it every single day because it ensures that I meet my quota for daily vitamins and minerals. And it helps make sure that I get enough prebiotics and probiotics to support my gut health.
+
+49:05.922 --> 49:33.470
+Over the past 10 years, gut health has emerged as something that we realize is important not only for the health of our digestion, but also for our immune system and for the production of neurotransmitters and neuromodulators, things like dopamine and serotonin. In other words, gut health is critical for proper brain function. Now, of course, I strive to eat healthy whole foods from unprocessed sources for the majority of my nutritional intake, but there are a number of things in AG1, including specific micronutrients, that are hard or impossible to get from whole foods.
+
+49:33.570 --> 50:03.536
+So by taking AG1 daily, I get the vitamins and minerals that I need, along with the probiotics and prebiotics for gut health, and in turn, brain and immune system health, and the adaptogens and critical micronutrients that are essential for all organs and tissues of the body. So anytime somebody asks me if they were to only take one supplement, what that supplement should be, I always say AG1, because AG1 supports so many different systems in the brain and body that relate to our mental health, physical health, and performance. If you'd like to try AG1, you can go to drinkAG1.com
+
+50:03.536 --> 50:25.918
+and much more.
+
+50:26.050 --> 50:42.238
+Again, that's drinkag1.com slash Huberman to get the free one month supply of omega-3 fish oil plus a bottle of vitamin D3 plus K2 with your subscription. Today's episode is also brought to us by Juve. Juve makes medical grade red light therapy devices.
+
+50:42.338 --> 51:12.304
+Now, if there's one thing that I have consistently emphasized on this podcast, it is the incredible impact that light can have on our biology. Now, in addition to sunlight, red light and near infrared light sources have been shown to have positive effects on improving numerous aspects of cellar and organ health, including faster muscle recovery, improved skin health and wound healing, improvements in acne, reduced pain and inflammation, even mitochondrial function, and improving vision itself. What sets Juve Lights apart and why they're my preferred red light therapy device is that they use
+
+51:12.304 --> 51:28.702
+I use clinically proven wavelengths, meaning specific wavelengths of red light and near infrared light in combination to trigger the optimal cellar adaptations. Personally, I use the Juve whole body panel about three to four times a week, and I use the Juve handheld light both at home and when I travel.
+
+51:28.802 --> 51:57.918
+If you'd like to try Juve, you can go to Juve spelled J-O-O-V-V.com slash Huberman. Juve is offering an exclusive discount to all Huberman Lab listeners with up to $400 off Juve products. Again, that's Juve spelled J-O-O-V-V.com slash Huberman to get up to $400 off. I've always been delighted and curious about the fact that if two animals of the same species
+
+51:58.082 --> 52:23.262
+both receive food or a treat. It seems, I don't know, but it seems that they are paying attention to how much treat the other is getting. And as a sibling, I have an older sister who I get along very well with and always have. But when we were kids, I'll never forget like if there was a treat, like a milkshake or something, she would
+
+52:23.618 --> 52:50.110
+point out that she had slightly more than I did. If there was a slice of cake or something, it was as much as we would look at the slice of cake being served to us, we were looking to see how much the other one got. And this was a reflexive thing. And we're not competitive in any dimension, really. We've always respected each other's strengths and weaknesses in a way that's very complimentary. But when it comes to treats, I
+
+52:50.786 --> 53:19.422
+Humans and dogs pay a lot of attention to who's getting what. Fairness, yeah. There was this experiment done on capuchin monkeys by Franz Duval and his team. And apparently they did it and they published a paper on it and, you know, nobody read it. And then like a decade later, in preparation for a presentation, they redid some of the experiment and filmed it and he shared that.
+
+53:19.810 --> 53:49.342
+on the presentation. I don't know if you've seen it, but essentially it's two capuchin monkeys and they're next to one another so they can each see what the other is getting. And they're asked to do a task, like give a, the researcher hands them a rock and they hand it back to the researcher and then they get a reinforcer. So a treat as payment for that behavior. And so the first monkey gets a piece of cucumber and he's happy. He eats that cucumber.
+
+53:49.538 --> 54:18.910
+And then the researcher turns towards the second monkey and requests the same behavior, gets the same behavior and feeds that animal a grape. And capuchins are not too enthusiastic about cucumbers, but they really love grapes. So when she then turns back to the first monkey again and repeats the behavior and again feeds that one a cucumber that he was happy to eat, like,
+
+54:19.074 --> 54:40.766
+30 seconds ago, he actually throws a tantrum and throws it back at the researcher, sort of going, I saw that you fed the other guy a grape. And the audience is laughing. So it's like, I think we all recognize that situation that we take a front to somebody else getting paid better for the same quality of work.
+
+54:41.058 --> 55:02.046
+Yeah, I'm always interested in these studies that every few years, I didn't know that one, so thank you for sharing that, where there's something about resource allocation that's revealed. And then for every one of those, there will be a study that shows, for instance, I'm not going to get the details right here, but that crows will –
+
+55:02.274 --> 55:27.198
+teach each other ways to open boxes so that another one can get food, even if they don't have access to that food. It seems like an act of altruism. So we'll see fairness. We'll see altruism. A very different picture than this whole notion of dominance hierarchies in every member of a species is just trying to get the most that they possibly can, even at the expense of others. It's beautiful in a way. And we
+
+55:27.426 --> 55:42.718
+Again, have to be careful not to anthropomorphize, to not assume that members of a species are doing this because they're benevolent. That's a nice – I like that interpretation. But maybe as you pointed out before, that having a happy group makes for –
+
+55:43.810 --> 56:11.294
+more happiness for oneself. Absolutely. I think if the group is doing well, then everybody's better off. So we used to think that there was just sort of individual selection, but there is a certain amount of group selection also. The individual selection is stronger, but certainly if there's a group that collaborates better, that will do better than the group that isn't collaborating as well. And it's interesting, you've mentioned a few times now the risk of anthropomorphism. Mm-hmm.
+
+56:11.426 --> 56:38.046
+And I think that if we look at that as a sort of continuum from anthropomorphism, which we might then define as, you know, thinking that animals are just the same as humans, it's only just that they have some fur, so they're a bit different, but more or less the same. And on the other side is what we might refer to as anthropodenial. That was a term coined also by Franz Duval, the one with the Capuchin experiment,
+
+56:38.978 --> 57:05.150
+where we don't recognize that, in fact, there are commonalities between humans and other animal species. And I think that we, in our sort of fear of anthropomorphism, we have fallen into anthropodenial. And I think that the answer is probably somewhere in the middle, that we do share lots of commonalities with animals. I think that, for instance...
+
+57:05.410 --> 57:32.894
+Even though our perception of the world might be really different, how we process that information and the types of emotional and mood responses, changes in mood that we get in response to the environment are very much the same, although it will be different stimuli that different animal species pay attention to that are more or less relevant to them, depending on which species it is.
+
+57:33.186 --> 58:02.654
+But I think that we've fallen into, we've so avoided this topic of anthropomorphism. We've been so afraid of it that we've fallen into the other trap, which is sort of denying that they have anything to do with us. Let's talk about a species that can be divisive. Cats. Oh. My sister has cats and I don't mind them. I can't say I gravitate toward them, but I don't dislike them. You do own a...
+
+58:02.818 --> 58:32.350
+cat. Yep. And you're an animal ethologist. Tell us about cats from the perspective of an animal ethologist. When you look at a cat, what are you looking for to tell you something about whether or not it's a friendly cat? I mean, obviously, if its hair is standing up on its back and it's arching and it's hissing, that's obvious. But what are you looking at in the context of the way that cats evolved?
+
+58:32.514 --> 58:56.990
+and their species in general. So the common house cat that we have today as a pet evolved as a solitary hunter, but that aggregates in social groups, loose social groups, so they sort of hang out together, but it's not this really...
+
+58:57.154 --> 59:21.886
+cohesive group and they hunt on their own. So they'll eat on their own also. And me as an ethologist, what I tend to do when I look at an animal species is I look at three things. I look at their social environment. So typically with cats, I would then say that they, you know, they should, if they are raised well, so they've had the opportunity of spending enough time with mom,
+
+59:22.082 --> 59:47.454
+Typically, it should be up to 14 weeks, which I think that we see that in Sweden nowadays. I don't know how it is here in the US, but that seems to be long enough for the animal to actually learn how to be a cat so that they don't get too emotionally disturbed by the separation once we wean them and sort of put them in a new environment. So just looking at the social environment,
+
+59:47.874 --> 01:00:16.318
+But it is one thing that I do, the first thing that I do. The second thing that I do is I look at how do they get food. So again, cats are solitary hunters. So I would look into ways of, and they, as opposed to dogs, cats typically retain the whole hunting sequence. Sometimes the killing bite isn't quite there, but certainly the grab bite. And the fact that some cats will, if it's an outdoor cat that they might bring their pets
+
+01:00:16.706 --> 01:00:45.342
+prey back home is to me, it's simply, it's not that they want to gift you with their kill, but rather that they feel safe. So they're simply bringing their prey to a place where they feel safe. So it's not a gift. We can put that one to rest. I wouldn't say, I would not call that a gift now. I had a girlfriend in graduate school and her cat would catch these very large mice and
+
+01:00:45.826 --> 01:01:09.470
+And put them in our shoes at night. It was dreadful. Would the cat put them in the shoes or would the mice hide in the shoes? Well, they were dead when we found them. So I'm assuming that the cat would put them in the shoes. The cat also loved to retrieve tinfoil balls, little tinfoil balls. I've never seen a cat retrieve them.
+
+01:01:09.602 --> 01:01:39.550
+Yeah, yeah, yeah. At first I didn't... You can learn that. I wasn't too enthusiastic about the cat, and then I developed a really close relationship with it. At least from my side, I thought it was a close relationship. And he would catch mice, put them in our shoes at night while we slept. It was pretty unpleasant. You had to check your shoes in the morning. So those weren't gifts. I would not assume that they were gifts. No, no. From what I know, cats will sort of bring back what they catch in the morning.
+
+01:01:39.682 --> 01:02:06.718
+a place where they feel safe. And then they often lose interest if it's not moving anymore. So, and if, obviously, if your cat or that cat killed the mice, they had, that cat had progressed to the actual killing bite. Many cats don't do that. They only have the grab bite. So they'll just let the little rodent go to run off. I've seen that while they'll play with them, right, Dale? Yeah. So they'll let it go. And if the mouse is still
+
+01:02:07.330 --> 01:02:35.166
+they can actually sort of escape attention because the animal, the cat might grow bored and walk away. But the moment they start moving again, then they're sort of restarting that whole predatory sequence again. But back to your question about how to interact with cats or whether, how to read them. So that would be the third thing that I'm looking at is how do the animal species in front of me, how do they respond to perceived threat?
+
+01:02:36.066 --> 01:03:05.982
+And I'm saying perceived threat here because sometimes we are well-intended. We're like, hi, and we want to hug them because we're primates. And they really don't like that. So they will respond to us as if we were a predator. And I think that, again, comes down very much to the types of interactions, social interactions, the type of learning that the animal has had when they're really young. So, for instance, there's a study showing that if you...
+
+01:03:06.498 --> 01:03:35.934
+handle young kittens between the ages of like two and eight weeks for at least an hour a day. And when I say handle, I just mean that sort of interact with them and play and have them sort of on your lap and so on. They will become very social as adults. So they will be the type of cat that will jump up into your lap and fall asleep purring. If you interact with that young kitten less than like 15 minutes a day,
+
+01:03:36.098 --> 01:04:03.294
+They won't be fearful of humans, but they'll be more like walking up to you and saying hi and then walking away. The aloof cat. The aloof cat. Yeah. So I think the early life experiences can really shape the type of temperament, if you will, or how sort of vigorously animals respond to changes in the environment. What is this behavior of bumping, where the cat bumps its head,
+
+01:04:03.426 --> 01:04:33.214
+against you or your arm, is it to spread smell? Yeah, I would say that is scent marking. And when they're scent marking you, why are they scent marking? I would think that it's like something you do in your group. You do mutual scent marking, which means that everybody in the group smells more or less the same. So it's a way of sort of greeting and incorporating the others in the group. So there'll be a lot of scent exchange within the group.
+
+01:04:33.986 --> 01:04:59.038
+this type of species living in a group. That would be my guess as to why they do that. So is scent marking about territory as well? Like if a cat, you know, scent marks in corners and... Oh, yeah. But that's a different... That's typically not the... Because they have like multiple scent glands in the face that are... And one of them is used to scent mark sort of the inner territory of...
+
+01:04:59.778 --> 01:05:26.078
+And this is where they feel really safe. And then they usually have this urine scent marking, which is in the outskirts of the territory. And you might see this if, for instance, you have an indoor cat and they start peeing. And you bring out a piece of paper and a layout of your house or apartment. And you start sort of putting a little ring to where you find the
+
+01:05:26.306 --> 01:05:55.806
+The pee, that will give you a lot of information because if it's a territorial thing, it will typically be at the edges, at the windows or doors. If it's an elimination problem that the cat has, sort of maybe perhaps it hurts when he pees. So then he learns to associate pain with going in the box. And so the box starts representing painful experiences. So he'll start going outside of the box. But that type of behavior will be seen immediately.
+
+01:05:56.066 --> 01:06:23.390
+in that context instead. Interesting. So if your cat is urinating inside, you now have an experiment to run. The use of a litter box is a pretty interesting one to me. It's not one I spent a lot of time thinking about. But if you sort of step back and say, okay, here's this animal that we've domesticated, and it readily learns how to cover its waste, which is very different than a dog, which can be trained to withhold
+
+01:06:23.650 --> 01:06:48.766
+withhold until you go out on a walk. That's basically the two different strategies there. And I don't know what it is if you own a monkey or something else, but what is it about the covering of waste behavior? Is that something in cats? Is that a natural behavior they do in the wild? And if they roam, why do they bother? Is it...
+
+01:06:49.026 --> 01:07:16.862
+And then sort of tacked to this is that with dogs, oftentimes after they eliminate waste, they'll step away from it and kick dirt in the general direction. And I've heard it interpreted two ways. One is that they're trying to spread scent and the other is that they're trying to cover waste. So again, this is why I was interested in talking to an animal ethologist as opposed to a pet behavioral trainer, right? I'm also interested in that. But I think we have to, again, acknowledge that
+
+01:07:17.282 --> 01:07:36.510
+Much of the interpretation that we have about animals' behavior is just human interpretation. Yeah, certainly. So what is this covering of waste? Do we know what it's for in the wild, in cats? The covering of waste is a way to sort of reduce the risk of infection. I would assume that they also don't eliminate waste.
+
+01:07:36.706 --> 01:08:03.742
+close to where they eat. So if we have a house, a cat in our house, we shouldn't have the litter box next to the food, which I wish I had known where I had my first cat 20 years ago, because she had that very set up with the food right next to the litter box. And I would also assume that the behavior of dogs, when they sort of kick at their poop typically, right? Not pee, that it's a way of spreading scent. Yeah.
+
+01:08:03.970 --> 01:08:32.286
+Because if it were covering scent, the behavior would look very different, I think. But I haven't seen any sort of any scientific study on that topic. Okay. So cat owners take note, separate the food from the litter box by some distance. I was always somewhat surprised, although less so over time, how much determination and effort my bulldog would put into peeing on things.
+
+01:08:32.386 --> 01:08:58.910
+on walks. I feel like it was one of his great joys in life. There I go again, anthropomorphizing. But to smell something and then pee there, he seemed to have an endless supply of urine for this. It was really remarkable. Yeah. You know, as a scientist and someone who loves dogs and loved him, you know, more than words, I just was like, this is amazing. Like, he loves this behavior. Yeah.
+
+01:08:59.042 --> 01:09:16.159
+And he's also reading the female from the other dogs in the neighborhood. So the urine tells a lot of information to the other animal. It tells what gender, what reproductive state, perhaps also something about the animal's emotional state or mental state. So I wouldn't hesitate to say that that.
+
+01:09:16.417 --> 01:09:45.438
+That was one of the joys of life for dogs. After all, that's how they communicate. And they spend a lot of time doing it and they're willing to work to get access to that opportunity. So absolutely, I would think that it gives them positive emotional experiences doing that. So there's some innate drive in dogs, it seems, to read the emotional and hormonal states of other dogs that have been there. To me, it...
+
+01:09:45.537 --> 01:10:12.926
+It felt like their form of social media. Yeah, yeah. Like, I'm going to post here. What are other people posting here? What's going on? I mean, clearly there's some brain real estate devoted to this behavior. I'm not being facetious. I mean, I look at, you know, you get a human brain, 40% of that real estate is for vision. Another 40%, it's mixed in there with other stuff, is for motor behavior. We have...
+
+01:10:13.282 --> 01:10:41.342
+neural real estate for smelling and certainly for touch. But even if you're a massage therapist or you do touch-based work, even if you're a braille reader, the amount of neural real estate for these other things is vastly larger, except for the blind person where the visual stuff is taken over by the tactile stuff and auditory. So amount of real estate correlates. So when I see a behavior that's like, this is what
+
+01:10:41.570 --> 01:11:09.406
+This is one of the main things dogs do. Yeah, yeah, yeah. Yeah, it's pretty striking. So dogs descended from, they were domesticated from wolves correctly. Did that happen at independent locations around the earth? Don't really know the answer to that question. But it seems that they domesticated themselves, that it was sort of wolves that started hanging out next to human habitation and that it was sort of the least fearful and the sort of most...
+
+01:11:09.698 --> 01:11:36.158
+explorative wolves that dared do this. So it wasn't that we caught wolves and said, aha, I'm going to breed you now. But it was rather that it was like a symbiotic relationship that developed over time. Interesting. I don't know of any other species that does that, except maybe like certain fish or dolphins that follow fishing boats so they can get some of the catch. But that's different because...
+
+01:11:36.354 --> 01:12:06.238
+I see these Instagram videos of like an otter jumping on a kayak and there's some interaction that's regular. They, you know, that the person goes out on their kayak, they interact with this otter. So animals will do this, but usually there's some sort of food. It just sounds like food payoff is, and safety is really the key. Does that mean that animals at, at a very basic level are looking to optimize food intake and safety? And what does that tell us about zoos? I personally have a, a,
+
+01:12:06.562 --> 01:12:34.238
+pretty strong visceral reaction to zoos that have large carnivores. I realized we could have a discussion about elephants too, but I feel like large carnivores housed in zoos creates some issues for me. I won't go into what this is, but I'm also here that zoos have positive breeding programs, endangered species protection programs. What's your take on zoos?
+
+01:12:34.786 --> 01:13:02.366
+When we talk about zoos, it's perhaps good to talk about the evolution of zoos because back in the day, like 150 years ago, it used to be more or less a menagerie. You know, here's a lion and here's an elephant and here's a zebra and they were in little small cages and the only thing that you did was see the animal, really. Zoos today tend to have the purpose of doing a lot of conservation work. So there's...
+
+01:13:03.330 --> 01:13:31.390
+what's referred to as in-situ conservation, where you work to preserve wild habitats and creating national parks, et cetera, and sort of giving the opportunities for reintroduction of species and so on. And there's ex-situ conservation, which is then housing those animal species that are threatened with extinction in an environment. And ideally, that environment should then be good enough to promote
+
+01:13:31.746 --> 01:13:59.166
+species-typical behavior and so on. So I'm, I mean, I'm conflicted. I think that many zoos are sort of doing a lot of good in this effort and also educating the public. And many, I think that many people who go to zoos that might awaken in them an interest in animals, which I think is a good thing that we, that we,
+
+01:14:00.098 --> 01:14:26.238
+care about animals, but also that sometimes the housing isn't optimal. And certainly some species are a lot more difficult to keep in captivity compared to others. So polar bears are really difficult to keep because they're ranging carnivores. They walk miles and miles and miles, and it's really difficult to provide
+
+01:14:26.498 --> 01:14:55.070
+those species specific opportunities in captivity compared to other carnivores who have more of a different type of approach to predation. One of the things that really turned me on to just how more sophisticated cat species are than I ever assumed was something that happened when I was a postdoc also at Stanford.
+
+01:14:55.266 --> 01:15:20.574
+I was a member of the San Francisco Zoo. The San Francisco Zoo is an outdoor zoo by comparison to most other zoos I've been to, and I haven't been to that many, but it's a pretty nice landscape. There's an outdoor lemur. I call it an exhibit, but, you know, an indoor-outdoor lemur thing that's really amazing. There's some giraffes, all this. Well, around the time I was in – when I was a postdoc,
+
+01:15:21.314 --> 01:15:44.606
+just briefly tell this story. I was at the movies in San Francisco and I stepped out to get something to drink and the kid behind the counter said a tiger escaped from the San Francisco Zoo and is killing people. And I thought, what? Like, that's crazy. It turns out that was only partially true. What had happened is there was a tiger there, Tatiana, who they used to have these moats
+
+01:15:44.738 --> 01:16:11.102
+around the tiger enclosure. And it was very close to Christmas. People can look this up and get the details. And there were a couple of kids who were throwing either pine cones or throwing something at the tigers. Okay. The zoo was near shutting down. Tatiana either ran up or jumped the moat. I don't know how she did it. Got out and moved through the crowd. This is
+
+01:16:11.618 --> 01:16:39.614
+to me the interesting part. Moved through the crowd, completely ignoring most of the people that were around. Centered in on and killed one of the kids. Then moved to the second kid. Worked him pretty well. The authorities showed up. Killed Tatiana. This opened up a whole discussion in the zoo community. Raised a lot of kind of
+
+01:16:40.162 --> 01:17:00.350
+Complicated questions about enclosures, et cetera. The enclosures there, by the way, now are very different. They have these high glass as well. And of course, the ending was sad for everybody. I took a break from my membership there. I reactivated a few years later. They know I don't – that tiger, you know, obviously is gone. But I still am conflicted about it.
+
+01:17:00.482 --> 01:17:29.790
+about this whole picture. What's interesting to me is the intentionality of the tiger. So this was not a bloodthirsty tiger that just wanted to kill humans or eat humans. It was those two humans that pissed her off and those two humans were going to pay and they paid. The family sued the zoo and then it was a whole thing. I don't know how it ended up with the lawsuit, but it was a whole thing. So people can look this up online. When you hear that,
+
+01:17:30.658 --> 01:17:57.566
+that a tiger did that as opposed to just going into a frenzy the way humans sometimes go into a frenzy, attacking whoever and as many people as possible. What do you think? What does it tell us about tigers and their consciousness? I think we often don't give animals enough credit. To me, it's not surprising that she...
+
+01:17:57.922 --> 01:18:25.918
+She experienced something really unpleasant that she came to associate with two individuals. And that generated a negative emotional state and aggressive behavior that she then carried out, directed towards those two people. Does it surprise you how directed it was? No. As opposed to just, I mean, there were plenty of people around that were an easier, you know, easier kill. Yeah.
+
+01:18:26.018 --> 01:18:54.238
+I would think that a fearful animal might lash out at anyone, but an animal that is angry tends to be more premeditated in a way. Calculated. Calculated in a way. So I would expect that if you had scared the tiger, she might show defensive aggression, which is just lashing out at whoever is closest. But this was offensive aggression. And so that is premeditated.
+
+01:18:55.330 --> 01:19:04.190
+I'd like to take a quick break and acknowledge one of our sponsors, Function. Last year, I became a Function member after searching for the most comprehensive approach to lab testing.
+
+01:19:04.482 --> 01:19:34.448
+Function provides over 100 advanced lab tests that give you a key snapshot of your entire bodily health. This snapshot offers you with insights on your heart health, hormone health, immune functioning, nutrient levels, and much more. They've also recently added tests for toxins, such as BPA exposure from harmful plastics, and tests for PFASs, or forever chemicals. Function not only provides testing of over 100 biomarkers key to your physical and mental health, but it also analyzes these results and provides insights from top doctors who are
+
+01:19:34.448 --> 01:20:02.398
+expert in the relevant areas. For example, in one of my first tests with Function, I learned that I had elevated levels of mercury in my blood. Function not only helped me detect that, but offered insights into how best to reduce my mercury levels, which included limiting my tuna consumption. I'd been eating a lot of tuna while also making an effort to eat more leafy greens and supplementing with NAC and acetylcysteine, both of which can support glutathione production and detoxification. And I should say, by taking a second Function test, that approach worked.
+
+01:20:02.530 --> 01:20:17.726
+Comprehensive blood testing is vitally important. There's so many things related to your mental and physical health that can only be detected in a blood test. The problem is blood testing has always been very expensive and complicated. In contrast, I've been super impressed by function simplicity and efficiency.
+
+01:20:17.858 --> 01:20:46.398
+at the level of cost. It is very affordable. As a consequence, I decided to join their scientific advisory board and I'm thrilled that they're sponsoring the podcast. If you'd like to try Function, you can go to functionhealth.com slash Huberman. Function currently has a wait list of over 250,000 people, but they're offering early access to Huberman podcast listeners. Again, that's functionhealth.com slash Huberman to get early access to Function. Can we talk a little bit about the prey issue
+
+01:20:47.298 --> 01:21:14.494
+and stalking and capture and killing sequence. One of the things that I've always been fascinated by is when a, let's just use a cat as an example, could be large cat, could be small cat, is in its stalking mode that it essentially gets one ballistic strike opportunity before the chase is on or the animal gets away or it gets caught, right? And we'll see the...
+
+01:21:15.202 --> 01:21:41.918
+We had a cat when I was a kid that would like stalk and, you know, so obviously like creep up. And then right before it would leap at the prey, it would start shattering its teeth. I'm assuming that was behavioral suppression or something leaking through. What's going on when an animal does that very deliberate stalking, that calculation, and the
+
+01:21:42.018 --> 01:22:10.462
+like teeth chatters or like twitching is starting to occur. What is that? My guess would be perhaps some sort of displacement behavior, that there's motivation to move on in the sequence of behaviors to the next behavior, but it's not quite time yet. And so that sort of activation then gets an outlet through that behavior. But I really don't know. I don't know. I haven't seen this discussed. So it's almost like a hydraulic pressure or something. Maybe. Yeah. Interesting. Interesting.
+
+01:22:10.914 --> 01:22:40.638
+We've talked about dogs. We've talked about cats. Let's talk about birds. Okay. I had parrots when I was a kid. They were domestically bred little gray-cheeked dwarf parrots. It didn't turn out poorly. It didn't turn out great. They were, I didn't clip their wings because I couldn't bring myself to, and they flew around my room a lot and shit around the room a lot and threw a lot of food on the ground a lot and eventually made sense to give them to somebody who had an aviary. Mm-hmm.
+
+01:22:41.474 --> 01:23:08.062
+Parrots are smart, yeah? Yeah. What are parrots thinking about? I think what all animals are thinking about, where their next meal is going to come from, social interactions, and whether there's any threat anywhere. Is that really like 90% of their conscious life? I would say that if the animal doesn't feel safe, then it's very hard to engage the animal in any type of sort of
+
+01:23:08.194 --> 01:23:36.222
+If an animal is fearful and you try to feed them, they often won't take food, for instance. So the sense of safety has a very high priority because if you don't feel safe, you could die, essentially. So if you're in a situation where you don't feel safe, it's because that situation is potentially dangerous. There could be predators around, and then you must focus your attention on those predators because otherwise you're going to die. And that, of course, depends on the species. Some species are sort of aggregate in big species.
+
+01:23:36.834 --> 01:24:06.302
+if we're talking birds, and some are pair bonding species. But the social environment is really important, both with regards to, you know, parenting behavior. So sexual behavior, parenting behavior, raising young and so on. All of that also has high priority because it's essentially about furthering your genes into the next generation. And then foraging behaviors. Where am I going to get my next meal?
+
+01:24:06.754 --> 01:24:36.286
+we feed them on a plate. We're thinking like, we think that we're doing them a service. Like, here's your food on the plate. You don't have to do anything. But they come equipped to actually show their food-getting repertoire of behaviors. So typically, if we don't allow them to show those behaviors, we might see some problem behaviors popping up instead because they will redirect that energy, that intention into, I don't know, did you have any problems with the animals, sort of, the birds...
+
+01:24:37.058 --> 01:24:52.702
+you know, ripping your carpet or doing some of the stuff. Oh, they destroyed everything. I mean, they destroyed, I mean, they took great pleasure in ripping everything. Books, books, covers, yeah. Foraging behavior directed towards the wrong thing. Yeah.
+
+01:24:52.866 --> 01:25:14.526
+Yeah, I don't recommend anyone own parrots, frankly. That was an experiment gone wrong. Luckily, I think they're still alive. They live a very long time. Oh. And people can look up the Ecuadorian gray-cheek dwarf parrots. They have this beautiful orange under their wings. They have little gray cheeks. And they were called pocket parrots. You know, the excitement for me at that time
+
+01:25:14.850 --> 01:25:42.014
+I was young. I was probably 11 was that I'd be able to like carry them around in my pocket. They didn't want to do that at all. Um, anyway, um, it's interesting to think about this need for animals to express their natural repertoire of behaviors for dog owners. Um, I think that the common practice is to, you know, put out a bowl of food. Uh, would we be better off bringing the food to a park and going to the park and then having them eat there? Um,
+
+01:25:42.114 --> 01:26:10.270
+or somehow incorporating the roaming and prey-seeking behavior? I mean, how would one incorporate that into a more pleasant experience for the dog? Because what you're saying makes total sense. They need to express these behaviors. If they can't, it's going to come out some other way, maybe destructive to them or the environment. Essentially, I think that for dog owners, that what we can do is we can try to promote the different behaviors
+
+01:26:10.466 --> 01:26:40.286
+of the predatory sequence that that particular dog in front of us enjoys doing. I mentioned nose work as being one of the things that many dogs really enjoy. And interestingly, and this is just sort of the early days of scientific studies on the effects of nose work are really promising that one of the effects of nose work seems to be. So if you're not familiar with it, it's essentially that the animal has learned that he needs to find a specific scent.
+
+01:26:40.898 --> 01:27:10.558
+in an area. And so he sniffs the area, he roams the area, and he follows the scent, and he'll stop and mark when he finds the scent. And then he gets a reinforcer. So he gets rewarded for doing that. So that's essentially more or less a setup. And it seems that it helps regulate arousal so that animals who are sort of highly strung and almost have generalized anxiety get calmed down. And the ones that are sort of semi-depressed
+
+01:27:11.042 --> 01:27:38.206
+get sort of more enthusiastic about life. And also, if we're back in core effect space, again, we have this shift to the right-hand side of the core effect space. So we have positive valence associated with that. And it seems really interesting. Early days still, because this dog sport is like just, I don't know, 15 years old or something. It's not very old.
+
+01:27:38.914 --> 01:28:08.830
+So essentially what we can do is we can, every dog could do nose work. I think that would be an interesting sort of an outlet for that very first part of the behavioral sequence. And then I know that some trainers are working specifically to help dogs who chase wildlife, for instance. And it's about teaching the dog to stay in the first parts of the predatory sequence, to do the sniffing,
+
+01:28:09.250 --> 01:28:39.134
+the pointing and the eyeing behavior, and they're getting reinforced for that so many times so that it becomes like a feedback loop that they see a deer running across the road and they go, Mom, I saw a deer, and they get reinforced for that. And other dogs, like greyhounds, love chasing, that you allow them to do that. And then other dogs that really allow sort of, that really enjoy,
+
+01:28:39.362 --> 01:28:47.806
+carrying things that you allow them to do that and then give your poodle an old something to...
+
+01:28:47.970 --> 01:29:14.206
+rip apart, you know. Is that what poodles like to do? Disembowel things, yeah. Poodles like to kill and to the post-kill ripping apart. Yeah, ripping apart. Gosh, the name and the look of a poodle suggests a much more docile animal. So they really like to rip bodies apart. Yeah, as far as I understand, yes. That makes sense, given what I understand about the dosing of different genes. And then also I would, you know, rather than serving food on a plate, you might try scatter feeding.
+
+01:29:14.338 --> 01:29:42.302
+So just, or feeding it in a way that the animal actually has to work for it. So do some behavior, like one of these snuffle mats, you hide the food in there. So they have to actually spend some time looking for the food before consuming it. Because otherwise, if you serve it in a bowl, some animals simply, you know, they inhale it. It takes like 30 seconds and they're done. Costello ate like a seagull. Yeah. Really, he wouldn't chew his food. Yeah, it's interesting. The...
+
+01:29:42.594 --> 01:30:08.702
+The dog food training animal health world sells lots of things where you can put food inside of an object where they have to really work hard at it. I had mixed, you know, sort of mixed results with that because I have heard that in addition to exercise and wanting your proximity that animals, dogs in particular perhaps, really need that cognitive work
+
+01:30:08.866 --> 01:30:37.982
+that they get bored and they really need the challenge of working their mind. So much so that on rainy days when you, like if weather's really bad and you can't go out, that they need an immense amount of kind of like search and forage type behavior. So I strive to do that. And I know some people might hear this and just think, this is crazy. Like my dog just wants to curl up at my feet and it just wants to fetch the ball. But that's for fetching breeds. If I threw a ball to Costello, he would go to it.
+
+01:30:38.114 --> 01:30:59.038
+And then just sit on top of it. He had no interest whatsoever in doing anything with that in terms of retrieving it. Yeah. But he loved to just love to tug. So just, you know, if I tied a rope to a tree, for instance, he would jump on there and hold on. And I could swing him by his body, weight 90 pounds. Yeah. And he'd stay up there for 10 minutes. Yeah.
+
+01:30:59.170 --> 01:31:25.278
+Like the pleasure of chewing was clearly the strongest innate drive. So I think what I'm realizing is that understanding the sequence of natural behaviors, but also where in that sequence a particular breed really leans to. Absolutely, yeah. So sometimes it can be hard to know where your dog is on that scale, especially if it's like a mixed breed of some type. And then you can often actually just look at the conformation of the dog. So those very lean behaviors.
+
+01:31:25.410 --> 01:31:54.878
+I'm thinking greyhound now, the lean dog with not much muscle and very pointy snout tends to be the chasers. And the ones with more muscles, front muscles and bigger jaws tend to be the ones that rip things apart. Bulldogs, Rottweilers, Mastiffs. And some of the smaller ones, the pugs, the French bulldogs. I think people don't appreciate how the breeding down because people now...
+
+01:31:55.106 --> 01:32:04.670
+You know, a lot of people have dogs who live in apartments, you know, smaller dogs. Although there's this weird thing, you know, you talk to a vet of a family member who's a vet. You say, what's a great...
+
+01:32:04.802 --> 01:32:34.014
+apartment dog and they'll say Great Dane because they don't need a ton of space to roam but you have to walk them but they don't need long walks compared to like a little terrier sometimes needs to just go go go go go I mean needs two hours or more of activity I think you need to pay a lot of attention to the type of life that you're going to offer whether it's you know living in an apartment in a busy city or whether it's you know you're on a farm somewhere which breed of dog is going to adapt best to that lifestyle
+
+01:32:34.562 --> 01:32:59.710
+Do you think dogs like cities? I think many dogs get very stressed in cities because of the constant bombardment of sensory information. So there's noise. There's dogs. So if you're out walking on the street, there's constantly meeting strangers. And for many animal species, meeting strangers, A, doesn't happen very often, and B, causes...
+
+01:33:00.354 --> 01:33:29.214
+an increase in arousal because it could be, you know, friend or foe. It could be someone that you want to fight with. It could be someone you want to have sex with. You need to assess the situation. And I think that dogs are quite unique in that respect in that they have a high tolerance for strangers because many other animal species do not. And I think that we tend to forget that sometimes, that we introduce animals to animals that they don't know. We expect them to get along and they don't.
+
+01:33:29.538 --> 01:33:58.046
+that type of introduction needs to be done really carefully. Typically, we might start with just exchanging scents. So if you have one cat and want to get a second cat, for instance, they typically won't just accept the other the way that two dogs might do, for instance. So then you might have them in different rooms and you might rub one cat with one towel and rub the other cat with another towel and then exchange towels. And then you might want to...
+
+01:33:58.338 --> 01:34:28.126
+gradually incorporate other sensory modalities too so that they'll start hearing each other and finally that they start seeing each other and then at the end the tactile so the actual physical contact and if you do it that way you reduce the risk that they'll actually start fighting when you do the introduction because if you just put them together they might just escalate to aggression right away but if you do it gradually they that exchange of information will help them sort of figure out who the other is and reduce the risk of aggression
+
+01:34:28.386 --> 01:34:56.062
+think I've always been fascinated by, and there's a little bit of data starting to emerge on this as to what the mechanisms might be, is self versus other species recognition. Most notably that dogs, unless it's a dominance behavior, don't try to mate with cats, for instance. They might hump, but that's a separate thing. They're actually separate circuits. My colleague, David Anderson at Caltech,
+
+01:34:56.290 --> 01:35:25.022
+Did a really beautiful study. Can I just... The takeaway shows there are separate circuits in the brain for mounting behavior for sex versus mounting behavior for dominance. Oh, interesting. And the mounting behavior for dominance circuits exist in males and females of a species where only the male mounts for purposes of reproduction. So this notion of mounting as a dominance behavior is a very real thing, even in mice. In any case, setting mounting for dominance behavior aside...
+
+01:35:25.570 --> 01:35:54.526
+AKA humping. It's remarkable. Like a horse doesn't try and mate with a dog. Different species of animals seem to know self versus other. They don't have to learn it from their mom or dad or us. It's innate. It's innate. Yeah. For most species. There's actually a few exceptions being what comes to mind is certain waterfowl birds where
+
+01:35:56.034 --> 01:36:25.438
+female, and I can't say which species now, but some species of water bird. The female recognizes the male innately, but the male learns through sexual imprinting when they're young to sort of be attracted to females that resemble the female that reared them. And essentially this is because in those species, the males are typically very ornamented and sort of really fabulous looking, and the
+
+01:36:25.602 --> 01:36:53.278
+Females are cryptic. They're like camouflaged. So they're like brown. So the males need to learn what mom looks like. And when they grow up, they'll start courting females that look like mom. And so if you raise such a male with the wrong species, they'll start courting the wrong female. And of course, she won't be interested because he doesn't look like her female.
+
+01:36:54.114 --> 01:37:22.910
+golden standard of what a male of that species is supposed to look like. It's so interesting as a kid who had aquaria. You can tell I've had a lot of different animals. You know, I never successfully bred fish in captivity. I tried to breed cuttlefish in captivity in my lab. That didn't work, although I successfully raised them. But I got really into freshwater discus for a while and tried very hard to get
+
+01:37:23.266 --> 01:37:48.830
+breeding tank going it's very difficult um but occasionally you know someone in the aquarium community that i was a part of would succeed in getting you know breeding between uh discus fish but you never ever ever see an instance of like a discus fish trying to uh fertilize the eggs of a uh of a different species of fish they just know yeah and it's got to be for them odorant uh
+
+01:37:48.962 --> 01:38:16.062
+or presumably mixed sensory. It's really a striking aspect of, even in, I have friends who study flies. So if they study Drosophila of one particular type, one type of fruit fly will not try to mate with another type of fruit fly. And they look very similar to you and me. So there's something really powerful there. Yeah, I think that sort of, there's inbreeding avoidance is sort of,
+
+01:38:16.226 --> 01:38:46.174
+a mechanism that prevents many animal species from mating with someone who's too genetically similar to yourself since we get this inbreeding depression. But there's also sort of don't waste your time mating with someone that you can't even produce offspring. However, one other exception that came to mind was ungulates. Sometimes, and I have this memory of being, I was in Africa back in 1995,
+
+01:38:46.626 --> 01:39:15.358
+the Chimfunji Wildlife Orphanage, walking chimps into the forest to sort of rehabilitate them. And they had a young diker there, which is a very small, like, yay, hi, antelope kind of thing, who had been orphaned and raised, bottle raised, and sexually imprinted on humans. Whoa. So he came up and started, you know, humping me.
+
+01:39:15.554 --> 01:39:44.926
+more or less thinking that I was his kind. So that type of sexual imprinting is when predominantly, I think, males learn they imprint sexually on the type of individual that raised them. So that's the type of individual that they will then later also try to court. I think Conrad Lawrence had also in one of his books, he described some sort of corvid species who he also raised from young and who started...
+
+01:39:45.090 --> 01:40:14.334
+courting his secretary or someone. And the interesting story there was the courting behavior in this bird is vomiting, leaving like a present and offering food in any open surface or orifice. So he would try to sort of get her to open her mouth. And when she didn't, he would go and...
+
+01:40:14.530 --> 01:40:28.734
+leave the present in her ear instead. Disgusting. People can offset their disgust by... We'll provide a link to the now very famous picture of Conrad Lorenz, who won the Nobel Prize, I believe, for...
+
+01:40:29.122 --> 01:40:58.526
+His discoveries about imprinting where the geese would imprint on him. It's him swimming in a lake with the trail of baby geese behind him, the goslings behind him. So that's the other type of imprinting you're talking about. That's filial imprinting. So there are two types. There's the sexual imprinting where you learn who to mate with and there's the filial imprinting where you sort of learn who to feel safe with and they start following that individual. Which is what dogs do with us. Actually, I would say that
+
+01:40:59.042 --> 01:41:27.390
+Dogs don't imprint on humans. They grow attachment bonds to humans. What's the difference? So imprinting is typically a very fast process. It occurs within minutes or hours. Attachment takes longer and involves more senses. So imprinting tends to be, I think, visual, if I'm not mistaken, perhaps olfactory in some species. And attachment has previously mostly been studied in humans. So this bond that grows between
+
+01:41:27.554 --> 01:41:55.134
+caregiver and offspring. What's interesting also is that that attachment bond will grow in different ways depending on how the caregiver responds to the young one's needs, essentially. So you can have a secure attachment bond where the caregiver is very reliably responds to
+
+01:41:55.394 --> 01:42:22.302
+the needs of the young one. So that if they find themselves alone, they can self-regulate better. So their nervous system can more easily calm down again after a stressor than if they are insecurely attached. And so it seems that dogs form, rather than imprinting on humans, they form a type of attachment bond that
+
+01:42:22.530 --> 01:42:44.318
+And they can also be securely or insecurely attached to their persons. That's going to open up a whole set of ideas for people because this whole notion of secure, insecure, and then the D-babies in the classic Bowlby experiments that we've talked about before on this podcast where this kind of disorganized response is something that is thrown around a lot.
+
+01:42:44.450 --> 01:43:10.206
+nowadays in dating culture, relationship, pop psychology culture, like our people, is he or she securely attached? Is he or she avoidant? Is he or she anxious attached? Guess what, folks? It's also in your pets. So now you can start to get into that. In those classic experiments of Bowlby, just to summarize very briefly, mother and it was typically mother, although other caretakers now have been tested, but mother and child are separated. There's an
+
+01:43:10.402 --> 01:43:30.142
+A predictable, understandable, and healthy anxiety response that occurs. If the conditions are right, the kid eventually comes to play and relax a bit. If the conditions aren't right, they don't. That's all healthy. But the real test is on reunion with mom. Yeah. And also how they respond to a stranger.
+
+01:43:30.562 --> 01:43:58.206
+The strange situation test. Do they feel comforted and how do they approach mom when mom comes back? Is it eager to see and relax? Is it uncertain? Is it avoidant? That's what this test is about. Yeah, yeah. Or clingy also. Yeah. So the same types of experiments have been done on dogs. And it's been found that certain dogs are sort of insecurely attached. They'll be clingy or avoidant.
+
+01:43:58.306 --> 01:44:27.774
+And some are securely attached, so they'll be sort of more explorative. They'll recover quicker from the separation. So this is great. So if people drop off their dog at the dog sitter when they travel and then come back, the reunion tells you a lot about how that dog feels. Yeah. Sadly, I think that... And I'm not sure that I have any backup in any scientific studies here, but I suspect at least that probably...
+
+01:44:28.898 --> 01:44:57.150
+weaning predisposed dogs to insecure attachment. In this country, the typical idea is that puppies can be separated from their mother at about eight weeks. Do you feel that's too early? Yeah, as an ethologist, sort of looking at how the species live in the wild, what type of social interactions they have, and how can we best provide an environment to sort of promote natural behavior, I
+
+01:44:57.794 --> 01:45:17.182
+For me, eight weeks is way too early. So we have some studies from the, I don't know, 60s or something, where I think two researchers called Scott and Fuller did some separation studies, but that was with dogs aged like three, four, five, six weeks. And they found that
+
+01:45:17.282 --> 01:45:45.758
+that type of early separation was really detrimental. But as far as I know, there's been very few studies done beyond eight weeks. And of course, many people would then say that, okay, well, we have to do all that socialization stuff where the animal learns to sort of accept life with humans. That would then have to occur at the breeders rather than in the new environment. But actually...
+
+01:45:46.082 --> 01:46:15.582
+I'm not so sure because it seems that if you have secure attachment, you're better able to self-regulate after being exposed to something that will dysregulate. So you have an event happening, you get anxious and sort of fearful, and that then your nervous system is able to calm down again. And so I think that if we are
+
+01:46:15.778 --> 01:46:43.934
+if we simply allow dogs to have secure attachment, then perhaps the need for this, sometimes this socialization procedures are very elaborate. There's like a list of 100 things that the dog needs to be exposed to, you know, men with beards and children age 12 and people with shoes, you know, certain types of shoes and shoes.
+
+01:46:44.322 --> 01:47:12.734
+know, the vacuum cleaner and so on and so on. There's a whole list of things that you need to expose an animal to. And I would think that if the animal is securely attached so that they have learned self-regulation, being exposed to those things will not be such a big deal. But I don't think that we have the research to back up that assertion quite yet.
+
+01:47:13.634 --> 01:47:41.726
+I love this notion because we can't prepare humans, including ourselves, or animals for every circumstance, but we can train up neural circuits. I'm a neurobiologist after all. And so I...
+
+01:47:41.826 --> 01:48:09.470
+like to think of this more as opposed to preparing for events, you prepare for processes. So, you know, much has been said on this podcast and others about like deliberate cold exposure. You know, why take a cold shower? It's not about the specific benefits of the cold shower. It teaches you how to navigate having high adrenaline in your body, which is the universal generic response to stress. So you can export self-regulation from one situation to the other. Yeah.
+
+01:48:10.146 --> 01:48:34.366
+What you're describing is a much more important life stage example than deliberate cold exposure. It's about, as you said, being able to navigate attachments that are there, then gone, then there again. This is one of my major concerns. We don't want to go off on a tangent too far here. But since humans are animals, as you pointed out, about texting, you know, it is.
+
+01:48:34.498 --> 01:49:03.838
+Oftentimes texting can be a wonderful tool. It also can be a way that people don't learn to ever deal with, to self-regulate. You see this as the plane lands or the planes taking off. People frantically texting, which can be about, hey, my plane just arrived. It can also be about an inability to just deal with the real-life uncertainty that you're not in charge up there, the pilots and the weather conditions are. So in any case, I have a probably controversial question
+
+01:49:04.322 --> 01:49:30.846
+Okay. But we've opened up some Pandora's boxes, so why not? I opted to neuter my dog. Yeah. I did that when he was about six months old. I did that, honestly, reluctantly. People say, well, you know, men with their dogs and they don't want to neuter their dogs and it's for these, you know, whatever, Y-chromosome-related reasons or something. Perhaps it is. But...
+
+01:49:31.490 --> 01:49:59.390
+Really the reason I was reluctant was, A, I thought I might want to breed Costello at some point. The other is I spent two years of my life studying and researching and eventually publishing papers on the effects of early androgens on – I had a minor role in that study, but effects of early androgens on brain development. And you don't have to spend long in that field of hormones and development to know that hormones, testosterone and estrogen, have a powerful –
+
+01:49:59.490 --> 01:50:28.734
+powerful, powerful organizing effect on the brain of males and females. And that also occurs during adolescence. Right. And then there's the surge of hormone that comes. So, right, it happens in utero. And then those are the organizing effects. And then there are the activating effects, as you're pointing out, of hormones that then during puberty, the ovaries in females or the testes in males produce hormones that then act on this kind of template that was laid down. And so I knew that
+
+01:50:29.250 --> 01:50:56.638
+whatever testosterone, estrogen, et cetera, Costello had seen in utero, he'd seen. And that by removing his testicles, let's be honest what neutering is, all the men are cringing and the women are like, okay, got it. But if I said remove ovaries, they might have the different response. So by removing his testes, that he would not experience the activating effects of hormones. Okay, to make a long story short,
+
+01:50:56.898 --> 01:51:22.878
+It seemed he had a great life. He was a wonderful dog. When he got to be about nine years old, he had a lot of joint aching and pain. He had some extensive nail growth that was really, really fast. Some things were odd. I opted to do an experiment and I started injecting him with 50 milligrams of testosterone per week. The response was incredible. His vigor was...
+
+01:51:22.978 --> 01:51:51.870
+His joint pain, at least in terms of his willingness to go down the stairs quickly, to stand up quickly, incredible. He got two more years of what I thought was a great life. I hope it was. And what's interesting is that when I talked about this publicly on a few other podcasts, I injected my bulldog with testosterone after neutering him. I thought I was going to get a tsunami of criticism from the veterinary community. Okay.
+
+01:51:51.970 --> 01:52:20.510
+Instead, I received hundreds of emails saying, thank you. We actually actively discourage people from neutering their animals unless they're in a circumstance where that dog can get out and mate because we don't need more strays. And there are a number of health, positive health benefits to keeping hormones intact. And I'm going to start doing what you did with some of my patient dogs. Not one vet.
+
+01:52:20.930 --> 01:52:49.246
+Mind you, I have no training as a vet. Not one vet said, hey, you were out of line doing that. You shouldn't have been doing that. And I'll tell you, if I get another dog and it's a male dog, I'll be very careful to not let him out. And I'll be very careful with the training so he's not excessively aggressive. But I'm not going to neuter him. And I know this is going to activate some people. But I'd love your thoughts on neutering in male and female dogs in particular, given everything that you and I know about hormones and what we just talked about. Yeah.
+
+01:52:49.410 --> 01:53:19.358
+You're touching on several different things that I think are interesting. One, that it's very much a cultural phenomenon. That in Norway, I know that you're not allowed to neuter dogs unless for medical reasons. Really? Yeah. And in Western Australia, you're not allowed not to neuter dogs unless for medical reasons or if you want to breed them. So it's like very cultural whether neutering is something that you do or not in any given location. That's one. The second thing...
+
+01:53:20.066 --> 01:53:47.710
+is that you said that neutering is about removing testicles. Actually, there's other procedures that can be done, which is essentially just snipping the connection. So not removing testicles so that they continue producing all the stuff that they produce, but they can't reproduce sexually. Yeah, why don't we just give them vasectomies, why not?
+
+01:53:47.810 --> 01:54:17.598
+So the second thing is, and for females, the corresponding procedure would then be to sort of whatever it is. Tie the tubes. Yeah, tie the tubes, whatever it is. There's also a third option, which is chemical castration. That's reversible, that you can try to see what behavioral effects you get from a change of hormonal status. There's also this interesting thing that the...
+
+01:54:17.762 --> 01:54:43.294
+knowledge of the effects of castration or of neutering has really changed a lot in the last 20 years or so. It used to be in the 1990s that it used to be recommended because, you know, they wouldn't reproduce and there'd be less humping and some... So it was sort of promoted with regards to certain behavioral changes.
+
+01:54:43.842 --> 01:55:13.022
+Later studies have shown, and there's like more than 20 in the last 20 years or so, have shown that quite consistently that some of the effects of neutering might be, particularly in males apparently, and it depends on the age at which this is done also. And it has to do with the activation process, of course, is that you see an increase in fear, an increase in reactivity, aggressive behavior. You might see an increase in...
+
+01:55:13.922 --> 01:55:41.534
+noise, sensitivity, and so on. So it seems that, as you were touching on, the change in hormonal status not only has this physiology, the physical effects on the body, but also behavioral effects. Now, there's also an increase in the risk of certain cancers or certain physical problems,
+
+01:55:41.762 --> 01:56:08.478
+And a decrease in others. So I would suggest that once you do get your other, your next dog, that you discuss with a veterinarian the best option for that particular breed and that particular individual. Because it's going to be very breed specific. It's gender specific. And it's also the age at which these procedures are done. Okay. So to me, it's very interesting that in Norway, dogs are not allowed to be fixed except for medical reasons. In Australia, the
+
+01:56:08.802 --> 01:56:37.310
+They have to be, at least in Western Australia. So this idea of keeping dogs intact, so to speak, is not such a heretical one. But I think in the United States, a lot of this is still getting worked out. And I think the statistics say that the number of people with pets in the home now in the United States is like almost every home. Yeah. I think it's 40% of Americans own a dog. And I think in Norway, it's like 15%.
+
+01:56:37.410 --> 01:57:05.118
+So, and I think probably this ties in a lot to why the cultures have emerged so differently because there's a lot less sort of backyard breeding and so on and feral populations in Scandinavia of dogs. So we don't have this huge problem with overpopulation that you'll see in some other countries. So, and I think that here, a lot of the
+
+01:57:05.922 --> 01:57:34.110
+neutering is done to control the population predominantly as a way to sort of try to reduce the number of animals that are going to shelters and so on. Certainly there are a lot of dogs in shelters now during the pandemic people were adopting them like crazy so it was actually hard to get dogs and cats during that time. I don't know what the state of things is now someone can put that in the comments. I really have one last category of questions but it's a
+
+01:57:34.722 --> 01:58:04.702
+It's one that you've sort of touched on from various sides throughout today's conversation. And that relates to humans as animals. You know, I don't think one can be an animal ethologist or a neurobiologist for that matter who, you know, reads papers and does studies on other animals without at some point stepping back and making this realization like we're old world primates. We're the best at technology development. We're the best at technology development.
+
+01:58:04.866 --> 01:58:34.430
+you know, among all of the species. I mean, I don't think that's too much of a leap. We're certainly not as good at natural camouflage, catching and killing things with our hands. We need tools to do this. So we have our strengths. We have our limitations with respect to the other species. Is there anything in your training as an animal ethologist that, you know, causes you to reflect on human beings as, you know, particularly, I don't know,
+
+01:58:34.786 --> 01:59:03.998
+spectacular and particularly deficient in some way, like, or just any kind of musings about the human species, because that's a species we haven't talked about today. But I think a lot of what you're describing in terms of the breakdown of these sequence of behaviors, what makes us feel safe, you know, one can't help but wonder, like, what are some aspects of ourselves that perhaps if we thought about a little bit more deeply, we could really benefit from? One thing that leaps to mind is the extent to which
+
+01:59:04.226 --> 01:59:28.766
+cultural learning occurs in humans. For other animal species, they learn from trial and error. If I do this, that happens. First that happens, then that other thing happens. So classical conditioning and operant conditioning tie into sort of forming the animal's behavior. They also have social learning. They watch someone else and look at what they do.
+
+01:59:28.994 --> 01:59:58.270
+In this situation, I'm feeling a bit disconcerted watching you to see how you react. Oh, you don't seem to be that upset. Okay, I guess I don't have to be that either. Or you're interacting with that thing in that way. I guess I'll do the same. But it's like the influence is from the animals that are closest to you and from your own personal experience. And we sort of stand on the shoulders of giants, we humans, because we can...
+
+01:59:58.466 --> 02:00:22.302
+can read people's thoughts that are thousands of years old, literally. And so I think that's one of the biggest differences, I think, in our learning is that we used to be called man the toolmaker, as if toolmaking would be the thing that set us apart from other animals, until Jane Goodall reported that she'd seen
+
+02:00:22.562 --> 02:00:52.190
+chimpanzees making tools to, you know, the termite fishing behavior that she saw where they would break off a twig and take all the leaves off and then sharpen it so that they could insert it into a termite mound. And the termites would climb onto it and they could carefully extract it and eat the termites. So they made these tools. So, yeah, that would be, I guess, my first spontaneous reflection to your
+
+02:00:52.514 --> 02:01:20.446
+question. That's a great one, frankly, this idea that, you know, in addition to our ability to build sophisticated tools, that our ability to stamp down knowledge. And I mean, knowledge is always shifting. So some of the things that we've been discussing today and that I've said with great conviction might be proven completely false a year from now. So that's, I think, the interesting thing about science is that we're always having to question our assumptions.
+
+02:01:20.898 --> 02:01:49.534
+I appreciate you reminding us of that, that this is all a dynamic process. You know, it's, we, we can only do so much with this, uh, piece of meat in our skulls in terms of trying to decipher the world around us. But I do think that this, this idea of, um, this insight that we're unique in our ability to learn from things long ago, stamp down things now that people could potentially learn from, um, not just in the present, but in the future is incredible. And, um,
+
+02:01:49.826 --> 02:02:15.486
+many ways appropriate for where we're at now, which is you sitting here educating us about the different species. And I want to, I really want to extend my gratitude for the work that you do is very unique. People by now will realize that you're animal ethologist, but you pay attention to real world experiments run in a diverse range of settings. And it's clear that you have great care for the
+
+02:02:15.682 --> 02:02:43.166
+the species on the planet and how they interact. And you've also offered us some wonderful tools of how to improve the lives of our cats, our dogs, and to really hopefully make people somewhat of ethologists of themselves and of their interactions with animals. I think that's, for me, one of the biggest takeaways today is to really, people listening to this and watching this should really reflect not just on does the dog like to be pet here or there, but how is it that
+
+02:02:43.394 --> 02:03:09.534
+certain behavior is showing up in an animal. What does that reflect it because of its natural lineage and our own and to really think about those relationships and trying to improve them. So you've given us tremendous knowledge for its own sake, practical knowledge. And again, there's just so much care woven into everything you do that you've shared. So thank you for traveling such a long way to share with us. Thank you for having me. It's been a great discussion, I think. Thank you so much. Thank you.
+
+02:03:10.178 --> 02:03:20.318
+Thank you for joining me for today's discussion with Dr. Carolina Westland. To learn more about her work and to find links to the various resources discussed during today's episode, please see the show note captions.
+
+02:03:20.514 --> 02:03:50.480
+If you're learning from and or enjoying this podcast, please subscribe to our YouTube channel. That's a terrific zero cost way to support us. In addition, please follow the podcast by clicking the follow button on both Spotify and Apple. And on both Spotify and Apple, you can leave us up to a five-star review. And you can now leave us comments at both Spotify and Apple. Please also check out the sponsors mentioned at the beginning and throughout today's episode. That's the best way to support this podcast. If you have questions for me or comments about the podcast or guests or topics that you'd like me to consider for the Huberman
+
+02:03:50.480 --> 02:04:14.686
+Please put those in the comments section on YouTube. I do read all the comments. For those of you that haven't heard, I have a new book coming out. It's my very first book. It's entitled Protocols, an Operating Manual for the Human Body. This is a book that I've been working on for more than five years, and that's based on more than 30 years of research and experience. And it covers protocols for everything from sleep to exercise, to stress control,
+
+02:04:14.850 --> 02:04:34.846
+protocols related to focus and motivation. And of course, I provide the scientific substantiation for the protocols that are included. The book is now available by presale at protocolsbook.com. There you can find links to various vendors. You can pick the one that you like best. Again, the book is called Protocols, an Operating Manual for the Human Body.
+
+02:04:35.202 --> 02:05:00.158
+And if you're not already following me on social media, I am Huberman Lab on all social media platforms. So that's Instagram, X, Threads, Facebook, and LinkedIn. And on all those platforms, I discuss science and science-related tools, some of which overlaps with the content of the Huberman Lab podcast, but much of which is distinct from the information on the Huberman Lab podcast. Again, it's Huberman Lab on all social media platforms. And if you haven't already subscribed to our Neural Network newsletter,
+
+02:05:00.354 --> 02:05:18.942
+The Neural Network Newsletter is a zero cost monthly newsletter that includes podcast summaries as well as what we call protocols in the form of one to three page PDFs that cover everything from how to optimize your sleep, how to optimize dopamine, deliberate cold exposure. We have a foundational fitness protocol that covers cardiovascular training and resistance training.
+
+02:05:19.042 --> 02:05:39.774
+All of that is available completely zero cost. You simply go to HubermanLab.com, go to the menu tab in the top right corner, scroll down to newsletter and enter your email. And I should emphasize that we do not share your email with anybody. Thank you once again for joining me for today's discussion with Dr. Carolina Westland. And last but certainly not least, thank you for your interest in science.

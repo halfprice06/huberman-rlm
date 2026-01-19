@@ -1,0 +1,202 @@
+WEBVTT
+
+00:00.226 --> 00:26.142
+Welcome to Huberman Lab Essentials, where we revisit past episodes for the most potent and actionable science-based tools for mental health, physical health, and performance. I'm Andrew Huberman, and I'm a professor of neurobiology and ophthalmology at Stanford School of Medicine. Today's podcast episode is about jet lag, shift work, and we are going to discuss protocols that are backed by science
+
+00:26.274 --> 00:49.150
+that can support particular tools that you can use to combat things like jet lag, offset some of the negative effects of shift work and make life easier for the new parent, as well as for the newborn child, the adolescent, anyone that wants to sleep better, feel better when they're awake, et cetera. Let's just take a step back for a moment and remind everybody
+
+00:49.250 --> 01:19.038
+what we're talking about. The circadian rhythm is a 24 hour rhythm in all sorts of functions. The most prominent one is a rhythm in our feelings of wakefulness and sleepiness. You also have a rhythm in sleepiness and wakefulness that correlates with that. We tend to be sleepy as our temperature is falling, getting lower, and we tend to be more awake or waking when our temperature is increasing. We have a clock over the roof of our mouth,
+
+01:19.810 --> 01:47.198
+a group of neurons called the suprachiasmatic nucleus. That clock generates a 24-hour rhythm and that clock is entrained, meaning it is matched to the external light-dark cycle, which is, no surprise, 24 hours. Spending the earth takes 24 hours. So our cells, our organs, our wakefulness, our temperature, but also our metabolism, our immune system,
+
+01:47.778 --> 02:15.134
+our mood, all of that is tethered to the outside light dark cycle. And if we are living our life in a perfect way where we wake up in the morning and we view sunlight as it crosses the horizon, and then by evening we catch a little sunlight, and then at night we're in complete darkness, we will be more or less perfectly matched to the external or ambient light dark cycle. Very few of us do that.
+
+02:15.650 --> 02:44.478
+because of these things that we call artificial lights and this other thing that we call life demands. So today we're going to talk about when we get pulled away from that rhythm. So what is the perfect day? What does that look like from a circadian sleep wakefulness standpoint? You basically want to get as much light, ideally sunlight, but as much light into your eyes during the period of each 24 hour cycle when you want to be awake, when you want to be alert.
+
+02:44.578 --> 03:12.254
+And you want to get as little light into your eyes at the times of that 24 hour cycle when you want to be asleep or drowsy and falling asleep. How much is enough? Well, a good number to shoot for as a rule of thumb is to try and get exposure to at least 100,000 lux before 9 a.m., 10 a.m. maybe, but before 9 a.m., assuming you're waking up sometime between 5 and 8 a.m.
+
+03:12.866 --> 03:38.174
+The mechanism of circadian clock setting involves these neurons in your eye that send electrical signals to this clock above the roof of your mouth. And that system sums, meaning it adds photons. It's a very slow system. So here we're talking about trying to get that at least 100,000 photons, but not all at once. So what do you do? You go outside. Going outside, even on a cloudy day, could be 7,000, 10,000 lux. It's really remarkable.
+
+03:38.498 --> 04:08.030
+how bright it is, meaning how much photon energy is coming through. So try and get 100,000 lux before that 9 a.m. Now, if you can't do that because you live in an area of the world where it's just not bright enough, some people have sent me pictures from Northern England, it's just not bright enough in winter, then sure, you can resort to using artificial lights in order to get enough photons. And I'm putting out this 100,000 lux number as a target to get each day before 9 a.m.
+
+04:08.418 --> 04:38.046
+You can, in theory, get it all from artificial lights, but there are some special qualities about sunlight that make sunlight the better stimulus. Then I've recommended, based on scientific literature, that you look at sunlight sometime around the time when the sun is setting. And the reason for that, of course, is because it adjusts down the sensitivity of your eyes, because here's the diabolical thing. While we need a lot of photon energy early in the day to wake up our system and set our circadian clock and prepare us for a good night's sleep,
+
+04:38.210 --> 05:07.262
+14 to 16 hours later, it takes very little photon energy to reset and shift our clock after 8 p.m. And that's why you want to, as much as you safely can, avoid bright light and even not so bright light between the hours of 10 or 11 p.m. and 4 a.m. So let's talk about shifting clocks because for the jet lag person, this ability to shift the clock with light temperature exercise and food is vitally important
+
+05:07.394 --> 05:32.254
+for getting onto the new local schedule. And there's so much out there about jet lag today. I'm going to dial it down to one very specific parameter that all of you can figure out without any technology or devices and can apply for when you travel for work or pleasure or anytime you're jet lagged. And I want to absolutely emphasize that you don't have to travel to get jet lagged.
+
+05:32.386 --> 05:52.702
+Many of you are jet lagged. You're jet lagged because you're looking at your phone in the middle of the night, you're jet lagged because you're waking up at different times a day, you're jet lagged because your exercise is on a chaotic regime some days at this time, some days at that time, but there are some simple things that you can do. So that's where we're headed. I'd like to take a quick break and acknowledge our sponsor,
+
+05:52.834 --> 06:05.374
+Aeropress. Aeropress is personally my favorite way to brew coffee. It's similar to a French press, but it's much better. The Aeropress was designed in Palo Alto by Alan Adler, a former teacher at Stanford in the engineering department.
+
+06:05.570 --> 06:35.536
+Adler, who's a brilliant engineer and inventor, developed a unique brewing process that reduces the contact time that the water has with the ground coffee, leading to a rich, full-bodied cup of coffee without any acidity or bitterness every single time. Best of all, the entire brewing process takes less than one minute, and the cleanup is super easy. Aeropress has just launched their new premium model using the same patented design as the original model, but this addition has a truly elevated look and feel. It's handmade with double-walled glass and stainless steel features.
+
+06:35.536 --> 07:05.488
+It's incredibly well built, it's super sturdy, and it looks like a work of art. It's really nice. I leave it out on the counter specifically for that reason. I've been using my own Aeropress premium for a few months now, and I absolutely love it. With the holidays coming up, I can't imagine a better gift for any of the coffee lovers out there. With over 55,000 five-star reviews, Aeropress is the best reviewed coffee press in the world. If you'd like to try Aeropress, you can go to aeropress.com slash Huberman. That's A-E-R-O-P-R-E-S-S dot com slash Huberman
+
+07:05.488 --> 07:35.166
+Let's talk about what jet lag is. There are quality peer reviewed papers showing that jet lag will shorten your life. Jet lag is a serious thing. Now here's what's interesting. Traveling westward on the globe is always easier than traveling
+
+07:35.522 --> 08:04.126
+It's interesting because the effects of jet lag on longevity have shown that traveling east takes more years off your life than traveling west. Now, here's what's interesting. When we think about the effects of jet lag on longevity or this idea that it can shorten our lives, we have to ask ourselves, why? Why is that?
+
+08:04.386 --> 08:33.759
+And it turns out there's a pretty simple explanation for this. We've talked before about the autonomic nervous system, this set of neurons in our spinal cord and body and brain that regulate our wakefulness and our sleepiness. Turns out that human beings and probably most species are better able to activate and stay alert than they are to shut down their nervous system and go to sleep on demand. So if you really have to push and you really have to stay awake, you can do it. You can stay up later.
+
+08:34.114 --> 09:02.462
+but falling asleep earlier is harder. And that's why traveling East has a number of different features associated with it that because you're traveling East, you're trying to go to bed earlier. As a Californian, if I go to New York City, I've got to get to bed three hours early and wake up three hours earlier, much harder than coming back to California and just staying up a few more hours. And this probably has roots in evolutionary adaptation where
+
+09:02.594 --> 09:30.430
+under conditions where we need to suddenly gather up and go or forage for food or fight or do any number of different things that we can push ourselves through the release of adrenaline and epinephrine to stay awake. Whereas being able to slow down and deliberately fall asleep is actually much harder to do. So there's an asymmetry to our autonomic nervous system that plays out in the asymmetry of jet lag. All right, well, let's think about travel and what happens. Let's say you're not,
+
+09:30.818 --> 09:59.742
+going eastward or westward, but you're going north or south. So if you go from, for instance, Washington DC to Santiago, Chile, you're just going north and south. You're not really moving into a different time zone. You're not shifting. So you will experience travel fatigue. And it turns out that jet lag has two elements, travel fatigue and time zone jet lag. Time zone jet lag is simply the inability of local sunlight
+
+10:00.322 --> 10:28.318
+and local darkness to match to your internal rhythm, this endogenous rhythm that you have. So before we get too complicated and too down in the weeds about this, I want to just throw out a couple important things. First of all, some people suffer from jet lag a lot, other people not so much. Most people experience worse jet lag as they get older. There are reasons for that because early in life, patterns of melatonin release are very,
+
+10:28.450 --> 10:58.302
+stable and flat and very high actually in children. Then it becomes cyclic during puberty, meaning it comes on once every 24 hours and turns off once every 24 hours. And then as we get older, the cycles get more disrupted and we become more vulnerable to even small changes in schedule, et cetera, meal times, right? So jet lag gets worse as we age. I want to make changing your internal rhythm really easy, or at least as easy and as simple as one could possibly make it, I believe.
+
+10:58.498 --> 11:26.078
+What I want to talk about is perhaps one of the most important things to know about your body and brain, which is called your temperature minimum. Your temperature minimum is the point in every 24-hour cycle when your temperature is lowest. Now, how do you measure that without a thermometer? It tends to fall 90 minutes to two hours before your average waking time. Temperature actually is the signal by which this clock above the roof of your mouth
+
+11:26.370 --> 11:51.294
+entrains or collectively pushes all the cells and tissues of our body to be on the same schedule. Temperature is the effector. And once you hear that, there should be an immediate, oh, of course, because how else would you get all these different diverse cell types to follow one pattern, right? A pancreatic cell does something very different than a, you know, a spleen cell or a,
+
+11:51.394 --> 12:16.510
+a neuron, right? They're all doing different things at different rates. So the temperature signal can go out and then each one of those can interpret the temperature signal as one unified and consistent theme of their environment. Here's the deal. If you expose your eyes to bright light in the four hours after your temperature minimum, your circadian clock
+
+12:16.930 --> 12:45.726
+will shift so that you will tend to get up earlier and go to sleep earlier in the subsequent days. Okay? It's what's called a phase advance, if you'd like to read up on this further. You advance your clock. However, if you view bright light in the four to six hours before your temperature minimum, you will tend to phase delay your clock. You will tend to wake up later and go to sleep later. I tend to wake up at about 6 a.m.
+
+12:45.986 --> 13:15.390
+sometimes 6.30, sometimes seven. It depends a lot on what I was doing the night before, as I'm guessing it does for you. But that means that my temperature minimum is probably somewhere right around 4.30 a.m., which means that if I wake up at 4.30 a.m. and I were to view bright light at 4.35 a.m., I'm going to advance my clock. I'm going to want to go to bed earlier the subsequent night and wake up earlier the subsequent morning. And as I shift,
+
+13:15.682 --> 13:44.958
+my wake up time, my temperature minimum shifts too, right? If I were to view bright light in the four to six hours before 4.30 AM, guess what? The next night I'm going to want to stay up later and I'm going to want to wake up later the subsequent morning. Your temperature minimum is a reference point, not a temperature reading. Again, if you want to measure your temperature minimum and figure out what it is, 98 point whatever, 96 point whatever, that's fine. You can do that, but that information won't help you.
+
+13:45.250 --> 14:14.686
+What you need to know is what time your body temperature is lowest and understand that in the four hours or so just after that time, viewing light will advance your clock to make you want to get up earlier. So now you can start to see and understand the logic of this system. You can now start to shift that temperature according to your travel needs. Here's one way in which you might do that. Let's say I am going to travel to Europe, which is nine hours ahead, typically, from California.
+
+14:15.650 --> 14:39.934
+I would want to determine my temperature minimum, which for me is about 4.30 a.m., maybe 5.00 a.m., and I would want to start getting up at about 5.30 a.m. and getting some bright light exposure, presumably from artificial sources because the sunlight isn't going to be out at that time. Maybe even exercising as well. Maybe even eating a meal at that time. You would want to start doing that
+
+14:40.098 --> 15:10.078
+two or three days before travel. Because once you land in, or I land in Europe, chances are just viewing the sunrise or sunset in Europe is not going to allow me to shift my circadian clock. Some people say, get sunlight in your eyes when you land, but that's not going to work. Because one of two things is likely to happen. With a nine hour shift like that, either I'm going to view sunlight at a time that corresponds to the circadian dead zone, the time in which my circadian clock can't be shifted,
+
+15:10.946 --> 15:37.214
+or I'm going to end up viewing sunlight at a time that corresponds to the four to six hour window before my temperature minimum. So it's going to shift me in exactly the opposite direction that I want to go. So it can be very, very challenging for people to adjust to jet lag. So you need to ask, am I traveling east or am I traveling west? Am I trying to advance my clock or delay my clock?
+
+15:38.210 --> 16:05.374
+Viewing light, exercise, and eating in the four to six hours before your temperature minimum will delay your clock. Eating, viewing sunlight, and exercising, you don't have to do all three, but some combination of those in the four to six hours after your temperature minimum will advance your clock. And this is a powerful mechanism by which you can shift your clock anywhere from one to three hours per day, which is remarkable. That means your temperature minimum is going to shift out as much as three hours
+
+16:05.890 --> 16:35.870
+which can make it such that you can travel all the way to Europe. And as long as you've prepared for a day or so by doing what I described back home, and then doing it when you arrive, you can potentially accomplish the entire shift within anywhere from 24 to 36 hours. And so a lot of people are landing in Europe, getting sunlight in their eyes and throwing their clock out of whack or not shifting their clock at all. This brings me to the other thing that's highly recommended
+
+16:36.546 --> 16:58.686
+and I've mentioned this before, but you want to eat on the local meal schedule. If it's in your practice to fast, fast, that's fine. But when you eat, you want to eat within the local schedule for alertness. I'd like to take a quick break and acknowledge our sponsor, AG1. By now, many of you have heard me say that if I could take just one supplement, that supplement would be AG1.
+
+16:58.946 --> 17:28.030
+The reason for that is AG1 is the highest quality and most complete of the foundational nutritional supplements available. What that means is that it contains not just vitamins and minerals, but also probiotics, prebiotics, and adaptogens to cover any gaps you may have in your diet and provide support for a demanding life. For me, even if I eat mostly whole foods and minimally processed foods, which I do for most of my food intake, it's very difficult for me to get enough fruits and vegetables, vitamins and minerals, micronutrients, and adaptogens from food alone.
+
+17:28.130 --> 17:51.966
+For that reason, I've been taking AG1 daily since 2012. When I do that, it clearly bolsters my energy, my immune system, and my gut microbiome. These are all critical to brain function, mood, physical performance, and much more. If you'd like to try AG1, you can go to drinkag1.com slash Huberman to claim their special offer. Right now, they're giving away five free travel packs plus a year's supply of vitamin D3 K2.
+
+17:52.098 --> 18:21.310
+Again, that's drinkag1.com slash Huberman to claim that special offer. Okay, I talked about traveling eastward, but we haven't talked about traveling westward. Let's say you're traveling from New York to California or from Europe to California. The challenge there tends to be, how can you stay up late enough? Now, some people are able to do this because as I mentioned earlier, the autonomic nervous system is asymmetrically wired such that it's easier to stay up later than we,
+
+18:21.474 --> 18:50.366
+would naturally want to than it is to go to sleep earlier. So let's say you land and it's 4 p.m. and you're just dying. You're in California, you came from Europe, it's 4 p.m. and you really, really want to go to sleep. That's where the use of things like caffeine, exercise, and sunlight can shift you, right? If it's after your temperature peak, then viewing sunlight around 6 p.m. or 8 p.m. or artificial light, if there isn't sunlight, will help shift you later.
+
+18:50.626 --> 19:20.318
+It's going to delay your clock and you're going to be able to stay up later. The worst thing you can do is take a nap that was intended to last 20 minutes or an hour. I do this routinely and then wake up four hours later, or you wake up and it's midnight and you can't fall back asleep. You really want to avoid doing that. So provided it's not excessive amounts, stimulants like caffeine and coffee or tea can really help you push past that afternoon barrier and get you to sleep more like on the local schedule.
+
+19:20.738 --> 19:49.182
+and eating on the local schedule as well. A number of people have asked about the use of melatonin to induce sleepiness. Melatonin is this hormone that's released from the pineal gland. Melatonin induces sleepiness. Melatonin during development is also responsible for timing the secretion of certain hormones that are vitally important for puberty. Does melatonin control the onset of puberty? Not directly, but indirectly.
+
+19:49.410 --> 20:18.654
+Melatonin inhibits something called gonadotropin-releasing hormone, which is a hormone that's released from your hypothalamus, also roughly above the roof of your mouth and your brain. Gonadotropin-releasing hormone is really interesting because it stimulates the release of another hormone called luteinizing hormone, which in females causes estrogen to be released within the ovaries. It's involved in reproductive cycles. And in males, stimulates testosterone from the Sertoli cells of the testes.
+
+20:19.554 --> 20:45.982
+Melatonin is inhibitory to GNRH, gonadotrobin-releasing hormone, and therefore is inhibitory to LH, luteinizing hormone, and therefore is inhibitory to testosterone and estrogen. There's just no two ways about it. So melatonin is used widely for inducing sleepiness when you want to fall asleep in the new location that you've arrived. You can't fall asleep, you take melatonin, it helps you fall asleep. It does not help you stay asleep. In addition to that,
+
+20:46.114 --> 21:12.702
+Melatonin has been kind of touted as the best way to shift your circadian clock. I'm happy to go on record saying, look, if you need melatonin, you can work with a doctor or somebody who really understands circadian and sleep biology, go for it if that's your thing. But I, as always on this podcast and elsewhere, I have a bias toward behavioral things that you can titrate and control like exposure to light, exercise, temperature, et cetera, that have much bigger,
+
+21:13.218 --> 21:39.134
+margins for safety and certainly don't have these other endocrine effects that we've been thinking about and talking about. So if you want to take melatonin in the afternoon in order to fall asleep or in the evening, be my guest, that's up to you. Again, you're responsible for your health, not me. But for many people, melatonin is not going to be the best solution. The best solution is going to be to use light and temperature and exercise on
+
+21:39.330 --> 22:08.830
+either side of the temperature minimum to shift your clock, both before your trip and when you land in your new location and your clock starts to shift. Okay, so now you know my opinions about melatonin. Feel free to filter them through your own opinions and experiences with melatonin. And now you also understand what your temperature minimum is and how it represents an important landmark, either side of which you can use light temperature and exercise to shift your clock. Just to remind you a little bit about temperature,
+
+22:09.090 --> 22:33.598
+want to shift your clock, you could take a hot shower and then that will have a cooling effect after the hot shower. And if you were to get into a cold shower or an ice bath, if you have access to one, afterward, there's going to be a thermogenic effect of your body increasing temperature. So you can start to play these games with timing and hot and cold with meals, whether or not you eat or you don't eat, and with light exposure, whether or not you view light or you don't.
+
+22:33.922 --> 23:03.806
+view light. So now you can start to see why understanding the core mechanics of a system can really give you the most flexibility. And that really underscores the most important thing is that when you understand mechanism, it's not about being neurotically attached to a specific protocol, it's the opposite. It can give you great confidence and flexibility in being able to shift your body rhythms however you want. And when things get out of whack, you can tuck them right back into place. One thing that's common is that people need to do a quick trip. It's not always that you're going to go to, you know, on vacation for two weeks or
+
+23:04.546 --> 23:26.942
+you know, work someplace else for weeks on end. If your trip is 48 hours or less, stay on your home schedule. 72, that's when you start running into trouble. The transit time is also important, but I would say if it's three days or less, stay on your home schedule as much as you can. I'd like to take a quick break and thank one of our sponsors, Roka.
+
+23:27.106 --> 23:54.142
+I'm excited to share that Roka and I have teamed up to create a new style of red lens glasses. These red lens glasses are meant to be worn in the evening after the sun goes down. They filter out short wavelength light that comes from screens and from LED lights, the sorts of LED lights that are most commonly used as overhead and frankly, lamp lighting nowadays. And I wanna emphasize Roka red lens glasses are not traditional blue blockers. They're not designed to be worn during the day and to filter out blue light from screen light.
+
+23:54.818 --> 24:07.294
+They're designed to prevent the full range of wavelengths that suppress melatonin secretion at night, and that can alter your sleep. So by wearing Roka Red Lens glasses, they help you calm down and they improve your transition to sleep.
+
+24:07.426 --> 24:34.590
+Now I put my Roka red lens glasses on as soon as it gets dark outside and I've noticed a much easier transition to sleep, which makes sense based on everything we know about how filtering out shortwave lengths of light can allow your brain to function correctly. If you'd like to try Roka, go to Roka.com, that's R-O-K-A.com and enter the code Huberman to save 20% off your first order. Again, that's R-O-K-A.com and enter the code Huberman at checkout.
+
+24:35.426 --> 25:05.246
+Let's talk a little bit about a different form of jet lag that requires no planes, no trains, no automobiles, and that's shift work. Shift work is becoming increasingly common. Many of us are shift working, even though we don't have to. We're doing work in the middle of the night. We are working on our computers at odd hours, sleeping during the day. Here's the deal with shift work. If there's one rule of thumb for shift work, it's that if at all possible,
+
+25:05.794 --> 25:34.686
+you want to stay on the same schedule for at least 14 days, including weekends. Now that should immediately cue the non-shift workers to the importance of not getting too far off track on the weekend, even if you're not a shift worker. So sleeping in on Sunday is not a good idea. The most important thing about shift work is to stay consistent with your schedule. If you're going to work a shift where let's say you start at 4 p.m. and you end at 2 a.m., excuse me,
+
+25:35.490 --> 26:04.254
+Then there's some important questions that arise. For instance, should you see light during your shift? Well, this is a matter of personal choice, but ideally you want to view as much light as possible and as safely possible when you need to be alert. So that would mean from 4 p.m. to 2 a.m. And then you would want to sleep. So using light as a correlate of alertness and using darkness as a correlate of
+
+26:04.450 --> 26:30.142
+Sleepiness, what this means is see as much light as you safely can during the phase of your day when you want to be awake. So let's say you go to sleep at, you get home after this 4 p.m. to 2 a.m. shift, you maybe eat something, you go to sleep and you wake up and it's noon or 1 p.m. Should you get light in your eyes? You guessed it, you need to know your temperature minimum.
+
+26:30.786 --> 27:00.574
+You need to know whether or not your temperature is increasing or decreasing. And now we can make this whole thing even simpler and just say, if your temperature is decreasing, avoid light. If your temperature is increasing, get light. It's that simple. I'm going to pause there. And then I want to talk about kids and the elderly. In other words, how do we control sleep and circadian rhythms and wakefulness in babies, adolescents, teens,
+
+27:00.994 --> 27:30.270
+and aged folks. All right, as I mentioned earlier, melatonin is not cyclic. It's not cycling in babies. It's more phasic. It's being released at a kind of a constant level. And babies tend to be smaller than adults, they are. And so those concentrations of melatonin are very high. As a baby grows, those concentrations per unit volume are going to go down. Babies are not born with a typical sleep-wake cycle. And now all the parents are saying, tell me something I didn't know.
+
+27:30.370 --> 27:57.438
+Perhaps the most important thing, if you're having to map to a baby's schedule in order to make sure that they're getting changings and nursing, et cetera, at the appropriate times, is to try and maintain, if you can't sleep or you can't sleep continuously, to try and maintain your autonomic nervous system in a place where you're not going into heightened states of alertness
+
+27:57.570 --> 28:25.598
+when you would ideally be sleeping. Now, I realized that this could be translated to try and stay calm while you're sleep deprived, which is very hard for people to do, but this is where the non-sleep deep rest protocol surface again, and can potentially be very beneficial for people to be able to recover, not necessarily sleep, but for them to maintain a certain amount of autonomic regulation. Last night I woke up, I went to bed about 10.30, I woke up at three in the morning,
+
+28:26.018 --> 28:54.302
+I knew I wasn't feeling rested. I did a NSDR protocol. I fell back asleep. I woke up at 6.30. You need to teach your brain and your nervous system how to turn off your thoughts and go to sleep. And ideally you do that without medication, unless there's a real need. You do that through these behavioral protocols. They work because they involve using the body to shift the mind, not trying to just turn off your thoughts in the middle of the night. Similar circumstances can arise if you're taking care of a very sick loved one, you're up all night,
+
+28:54.594 --> 29:24.350
+Try and stay calm using NSDR protocols. I know it's harder to do than to say, but those protocols are there, they're free. There's research to support them. Try and get sleep whenever you can, but also try to get morning sunlight and evening sunlight in your eyes if you can. And if you can't get that, use artificial light. Once again, I've thrown a tremendous amount of information at you. I hope you will figure out your temperature minimum and start working with that to
+
+29:24.674 --> 29:52.254
+access the sleep and wakeful cycles that you want to access. I hope that you'll explore NSDR. You have now access to a lot of mechanism about sleep and wakefulness. I really believe that as we drill deeper and deeper into these mechanisms and you start hearing some of the same themes again and again, you're going to start to develop an intuition and an understanding of how these systems work in you and your particular life circumstances. So know your temperature minimum, understand light
+
+29:52.450 --> 30:21.534
+the early part of the day is valuable. Light when you want to be awake, provided it's not so bright, it's damaging. It's great for you whether or not it comes from screens or sunlight, but sunlight's better. Avoid light in the four to six hours before your temperature minimum, or else you're going to delay your clock, unless you're traveling and that's what you want to do, okay? Use temperature, increase temperature to shift your clock, decrease temperature to delay your clock. Thanks so much for your time and attention. I really appreciate it. See you next time on the Huberman Lab Podcast. And as always,
+
+30:21.634 --> 30:23.550
+Thanks for your interest in science.

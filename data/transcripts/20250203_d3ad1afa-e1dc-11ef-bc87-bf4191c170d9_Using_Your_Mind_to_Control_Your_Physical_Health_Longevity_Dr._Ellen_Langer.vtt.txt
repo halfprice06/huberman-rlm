@@ -1,0 +1,1495 @@
+WEBVTT
+
+00:00.354 --> 00:28.318
+Welcome to the Huberman Lab Podcast, where we discuss science and science-based tools for everyday life. I'm Andrew Huberman, and I'm a professor of neurobiology and ophthalmology at Stanford School of Medicine. My guest today is Dr. Ellen Langer. Dr. Ellen Langer is a professor of psychology at Harvard University and one of the world's leading pioneers in the mind-body connection, more specifically, how our thoughts impact our health.
+
+00:28.610 --> 00:34.750
+Dr. Ellen Langer was one of the first people to systematically explore the mind-body connection with scientific rigor.
+
+00:34.882 --> 01:04.848
+Her laboratory has made a large number of truly fascinating findings. For instance, today you'll learn about a study that Dr. Langer did in which she brought quite old people into her laboratory, or rather she designed a laboratory such that people lived in this laboratory, but the laboratory itself was designed to resemble the environment, everything from the types of furniture, the types of dishes, the types of music, et cetera, that those people had lived in 20 years prior. When those subjects lived in that laboratory for less
+
+01:04.848 --> 01:12.606
+than one week, the change in the environment and their interaction with that environment led them to have far more mobility,
+
+01:12.770 --> 01:42.736
+better cognitive function, and a large number of other markers of biological aging reversed, which is absolutely remarkable and speaks to the incredible power that the mind has over our biology. That's just one example of the sorts of experiments that Dr. Langer has done, again, with a tremendous amount of scientific rigor. So today, Dr. Langer and I talk about how the acquisition of knowledge, just simply learning about certain biological mechanisms, as well as your mindset about various aspects of your health and wellbeing can powerfully dictate your
+
+01:42.736 --> 02:03.358
+health and wellbeing. We talk about longevity. We talk about exercise and weight loss. We talk about infectious disease. In fact, we also talk about how mindset can impact cancer outcomes or rather overcoming cancer. We discuss examples, mechanisms, and practical application of those mechanisms. By the end of today's episode,
+
+02:03.458 --> 02:13.662
+I assure you that Dr. Ellen Langer will change the way that you think about the mind-body connection, the way you think about your health. And I assure you, it's not all just about positive thinking.
+
+02:13.762 --> 02:38.398
+In fact, Dr. Ellen Langer gets us to think differently about scientific questions, our health, and just about everything else in the world. You'll soon see she has a quite unique way of thinking, not just about science and health, but also about life in general and what makes for a truly good life. Dr. Ellen Langer is a true luminary and pioneer in this area of mind-body health, and she's a fabulous teacher as well.
+
+02:38.530 --> 03:01.054
+Before we begin, I'd like to emphasize that this podcast is separate from my teaching and research roles at Stanford. It is, however, part of my desire and effort to bring zero cost to consumer information about science and science related tools to the general public. In keeping with that theme, this episode does include sponsors. And now for my discussion with Dr. Ellen Langer. Dr. Ellen Langer, welcome. Thank you, Andrew.
+
+03:01.378 --> 03:17.694
+So great to have you here. There's so many topics that you've worked on and shed light on that impact our daily lives and our internal world and our external world and how they interact. I want to know your definition of mindfulness and
+
+03:18.178 --> 03:47.262
+It could take on practical forms, theoretical forms. No, and make it very simple. When most people hear the word mindful, sadly, they think of meditation. Meditation is great, but it's not mindful. You meditate in order to result in post-meditative mindfulness. So it's a practice. Mindfulness, as I study it, is a way of being. It's not a practice. It's the simple process of noticing. Now, you can get there in one of two ways. Bottom up.
+
+03:47.554 --> 04:02.878
+actively notice three new things about the person you live with, walk outside, notice three new things. Each time you do this, you see that you didn't know the thing you thought you knew as well as you thought you knew it. But you can also do it top down.
+
+04:02.978 --> 04:30.942
+Top down is recognize that everything is always changing. Everything looks different from different perspectives. Uncertainty is the rule. It's not the exception. So when you know you don't know, then you naturally tune in. So one of the things – I've said this so many times. Maybe this will be the last. One of the things we think we know best is how much is one plus one, Andrew? I'm going to assume it's still two. Two. Not always.
+
+04:31.074 --> 04:56.830
+If you add one wad of chewing gum to one wad of chewing gum, one plus one is one. You add one cloud to one cloud, one plus one is one. This is interesting. Somebody sent this to me the other day. You take one pizza and you add one pizza, one plus one is two. You take one lasagna and you add one lasagna, one plus one is one. It's just a bigger lasagna. You take one puddle and you add...
+
+04:57.122 --> 05:03.902
+Let's say I have two puddles there and you add some water in between and then you have one plus one plus one is one.
+
+05:04.706 --> 05:31.262
+Okay, so the point of it is that in the real world, 1 plus 1 probably doesn't equal 2 as a more often as it does. And since you're an educated individual, you might know that 1 plus 1 equals 2 if you're using the base 10 number system. If you're using the base 2 number system, 1 plus 1 is written as 10. Oh, my goodness. Somebody asks you, how much is 1 plus 1? Should you say 1, 2, 10, 10?
+
+05:31.650 --> 05:56.926
+And the point is that when you know you don't know, then you pay attention. In this context, let me see, I'll be a smartass and I'll say one. Or in this context, I know the person wants me to be obedient and I'll say two, so on and so forth. So when you don't know, you pay attention. When you pay attention, you have choices that otherwise you're blind to.
+
+05:57.570 --> 06:26.462
+It makes a very big difference. So when you're mindful, you don't know, you actively notice. As you're noticing, the neurons are firing, and 50 years of research has shown that it's literally and figuratively enlightening. And if you're going to do something, show up for it. Now, the problem is that most people are mindless almost all the time, and they're totally oblivious to it. When you're not there, you're not there to know you're not there. And most people are just not there.
+
+06:26.786 --> 06:56.062
+Now you want to ask me, how does that happen? Well, we're taught that. Schools, I think, are the biggest culprits. Schools are teaching us absolute answers. One plus one is two. Virtually everything that we're taught is as if the world is constant and going to stay that way. And the answer today is going to be the same answer as tomorrow. And so that certainty leads us not to notice. How did you come to realize this thing that
+
+06:56.450 --> 07:16.638
+We call mindfulness. I mean, certainly in the last 20 years, the notion of meditation as a valuable practice has become pretty common. Sure. And prior to that, it was considered a little bit alternative, hippy-dippy. Let me answer it. Okay. So it's very funny. Yeah.
+
+07:16.770 --> 07:37.598
+I'm glad in some ways I don't remember who this person was, but I started studying mindlessness. And I found myself, I'd walk into a mannequin, I'd apologize, you know, all sorts of things like that. And I said, well, this is kind of interesting to me. I'm speaking to somebody, we don't know who it was anymore, who said to me, you know, you are what you study.
+
+07:37.762 --> 08:05.758
+Okay, so then I switched it around from being mindless to being mindful. At that point, then I found out about meditation and Buddhism and all of this and started to learn about another way of being. What was exciting to me was that I had gotten through this Western scientific mode, so to speak, to many of the same consequences as the Buddhists had talked about for thousands of years.
+
+08:06.786 --> 08:32.735
+It's interesting how now in Western society we embrace this idea of presence, but it gets merged with these kind of more rigid terms like focus and attention. Yeah, and a focus is actually mindless. So it's interesting. Focus on your finger. Now, if you're concentrating, focusing, what you're going to notice is that
+
+08:33.506 --> 08:40.958
+your fingers, the image is moving around, right? And so when we try to hold something still,
+
+08:41.538 --> 09:11.504
+That's the wrong thing. You shouldn't tell people to focus. Now, instead of focus, look at your finger mindfully. That means you're going to notice new things. That's an ugly little finger. And what is that line there? Why is this red? And when you're doing that, when you're actively noticing, the image stays still. So when we give people instructions in school, focus, they think as a camera, hold it still. And whenever we're trying to hold ourselves the image, anything still, we're going to be performing.
+
+09:11.504 --> 09:39.006
+suboptimally. We need to let things vary. Things are always changing. So what happens is we confuse the stability of our mindsets, we're holding something still in our heads, with the stability of the underlying phenomena. So mindfulness as a practice of presence and exploration is perhaps a slightly better, perhaps, way to think about it? Yeah, but it's not a practice. You see, once you accept that...
+
+09:39.170 --> 09:45.566
+everything is uncertain, then you just tune in. You only don't tune in when you think you know.
+
+09:45.730 --> 10:15.696
+So if you were going to come visit me in Cambridge, you've never been to my house. You don't have to practice anything. You walk in, you'll notice things. Did she do that? What is that? Oh, look what she's reading. There's two dogs here. Exactly. Exactly. You'll notice without having to do any work. And that's the important thing because in the way I keep differentiating mindfulness as I study it with meditation, meditation is a practice for some people to sit still 20
+
+10:15.696 --> 10:42.558
+minutes twice a day is work. Mindfulness, as I study it, is what you're doing when you're having fun. You can't have fun unless you're actively noticing. So in fact, this act of noticing is energy begetting, not consuming. So it feels good. It's the essence of what you're doing when you're having the most fun. It's good for you. And it's so easy that
+
+10:42.946 --> 11:12.382
+I can't see any reason why anybody wouldn't embrace it. You know, that it's good for you. When you're mindful, people find you more appealing, charismatic. When you're mindful, the products you produce are enhanced, and it's healthier. I'd like to take a quick break and acknowledge our sponsor, BetterHelp. BetterHelp offers professional therapy with a licensed therapist carried out entirely online.
+
+11:12.642 --> 11:42.622
+Now, I personally have been doing therapy weekly for well over 30 years. Initially, I didn't have a choice. It was a condition of being allowed to stay in school, but pretty soon I realized that therapy is an extremely important component to one's overall health. In fact, I consider doing regular therapy just as important as getting regular exercise, which of course I also do every week. There are essentially three things that great therapy provides. First of all, it provides a good rapport with somebody that you can trust and talk to about pretty much any issue with. Second of all, it can provide support in the form of emotional support.
+
+11:42.722 --> 11:47.326
+and directed guidance. And third, expert therapy can provide useful insights.
+
+11:47.426 --> 12:17.392
+insights that allow you to better not just your emotional life and your relationship life, but of course also the relationship to yourself and your professional life and to all sorts of goals. BetterHelp makes it very easy to find an expert therapist with whom you resonate with and that can provide you those three benefits that come from effective therapy. Also, because BetterHelp allows for therapy to be done entirely online, it's super time efficient and easy to fit into a busy schedule. If you'd like to try BetterHelp, you can go to betterhelp.com slash Huberman to get 10% off your first month.
+
+12:17.392 --> 12:20.190
+And that's better help.com slash Huberman.
+
+12:20.450 --> 12:50.416
+Today's episode is also brought to us by Helix Sleep. Helix Sleep makes mattresses and pillows that are customized to your unique sleep needs. Now, spoken many times before on the Huberman Lab podcast and elsewhere about the fact that getting a great night's sleep is the foundation of mental health, physical health, and performance. Now, the mattress you sleep on makes a huge difference in terms of the quality of sleep that you get each night, how soft it is, how firm it is, how breathable it is, the temperature, all play into your comfort and needs to be tailored to your unique sleep needs. If you go to the Helix website
+
+12:50.416 --> 13:20.254
+you'll take a brief two minute quiz and it will ask you questions such as do you tend to sleep on your back your side of your stomach it will also ask you do you tend to run hot or cold during the night or the early part of the night etc things of that sort maybe you know the answers to those questions maybe you don't but either way helix will match you to the ideal mattress for you for me that turned out to be the dusk mattress d-u-s-k i started sleeping on the dusk mattress about three and a half years ago and it's been far and away the best sleep that i've ever had it's absolutely clear to me that having a mattress that's right for you
+
+13:20.418 --> 13:49.502
+does improve one's sleep. If you'd like to try Helix, you can go to helixsleep.com slash Huberman, take that two-minute sleep quiz, and Helix will match you to a mattress that is customized for your unique sleep needs. Right now, Helix is giving up to 25% off all mattress orders. Again, that's helixsleep.com slash Huberman to get up to 25% off. I think for a lot of people, a practice of meditation feels like the best or most effective
+
+13:49.730 --> 14:09.438
+you know, obvious gateway into this thing that we're calling mindfulness. It's one way, and I'm not demeaning, I did some research, you know, in the 80s on meditation, it's wonderful, it's just different. And they're not mutually exclusive, you can do both. And part of the advantage of meditating,
+
+14:09.986 --> 14:29.566
+Possibly has nothing to do with the meditation. Why are you going to meditate? You want to be a kinder, nicer person. You can just be kinder or nicer. But now if you're going to go to this trouble, 20 minutes twice a day, you're going to sit up and take notice and be a kinder, nicer person. So maybe it's the time investment as opposed to something –
+
+14:29.698 --> 14:58.878
+specific about the meditation practice. That's a heretical idea in the world of wellness. But they're not mutually exclusive, you know, so I'm not denying some of the more inherent properties, let's say. But there's this other piece to it. I love the way that you look at things that we take for granted as operating one way through this different perspective. Our mutual friend, Allie Crump, told me the story that at one point she was in it
+
+14:59.330 --> 15:25.374
+conversation with you and you said, well, maybe exercise and all its effects on our health is just an epiphenomenon. I mean, could you talk a little bit more about that? I think, first of all, I don't think most people are familiar with what epiphenomena are, but this idea of looking at things through a different portal seems so valuable, regardless of what the experimental outcome turned out to be. And perhaps we should touch on that experimental outcome about labor versus non-labor.
+
+15:25.538 --> 15:51.774
+There's so much there. I don't know where to go. I mean, we want to talk about that, the research. Yeah, let's talk about the study. Before we go to the study, though, let's go to the reason for the study, way back when. All right. So there's so many paths I can take here. Let's take them all. Okay, we'll start with one. So I did some research back in the 70s with people in nursing homes.
+
+15:51.970 --> 16:15.870
+And why did I do that? Because I had somebody in the family who was in a nursing home. It was very distressing to see people just sitting there doing nothing and barely existing. And so we had the idea that if we gave people choices, that might get them more engaged in their living. And so we did that. We gave people...
+
+16:15.970 --> 16:43.038
+encourage men to decide where to see people, whether to visit them in your room, in the lounge. You have to remember, you can't go into an establishment, a business, and turn the whole power structure around. So within reason, we came up with choices people could make. We gave them an opportunity to see a movie. You could see it on Tuesday or Thursday. We gave them a plant to take care of. The comparison group, the tender loving care group,
+
+16:43.138 --> 17:11.391
+We told them, you know, people will be visiting you and we'll set it up so you'll be visiting in the lounge. Everything was controlled in that way. You can see a movie and we'll let you know if you're going to see it on Tuesday or Thursday. Here's a plant and the nurses will care for it for you. All right. So we do this. We come back. I think it was three weeks. Actually, I don't remember. It's been so long.
+
+17:11.554 --> 17:37.566
+18 months later, first we took initial measures, come back 18 months later, those people who were given these choices live longer. And that was the beginning of all of my work on health in some sense. How could it be that making choices results in a longer life?
+
+17:38.146 --> 17:55.166
+All right, so what is there about choice-making? And then the choices were Mickey Mouse choices, you know. And you always have choice available, too. You can turn on a light switch. You can do it with your right hand, your right hand, your left hand, one finger, three fingers, whatever.
+
+17:55.362 --> 18:20.030
+Lift your foot. So many choices that you can bring to the table. If choice-making is good for you, why don't people do this? And that got me more into the mindlessness and mindfulness work now. Okay, so we have people living longer. How can it be that you're making choices, your mind is active, and your body complies?
+
+18:20.322 --> 18:43.582
+And so then I thought about it, not in one fell swoop, but realized that this whole notion of mind and body, these are just words. We come together, here I am, all of me, my fingers, my shoulders, my thoughts, as one thing. And if we put the mind and body back together...
+
+18:44.098 --> 19:08.478
+then the amount of control we have is enormous, right? Wherever I put my mind, I'm also putting my body. So in The Mindful Body, which started off as a memoir, I have lots of stories that show the leading up to this idea. Let me just tell you two very quickly. One was I got married. Andrew, you won't believe it. I was obscenely young.
+
+19:08.738 --> 19:37.886
+And you'll find that if you read the book, I was even younger than admitted because I was secretly married years before that. Okay. So I go, I'm 19 years old, I think. I go to Paris on my honeymoon. We go into this restaurant. I order a mixed grill. One of the foods there was a pancreas. My then husband, who was more sophisticated than I, more worldly, I said, which of these is the pancreas? He says, that. So I eat everything. I'm a big eater. Now comes the moment of truth.
+
+19:38.082 --> 20:00.030
+Can I eat the pancreas? Why I thought that being married meant I had to eat the pancreas, I still haven't figured out. But anyway, I start eating it and he starts laughing. Not good for newlyweds. And I ask him, why are you laughing? He said, because that's chicken. You ate the pancreas a long time ago. So I made myself sick.
+
+20:01.186 --> 20:25.310
+Okay. The other side of that, my mother had breast cancer that had metastasized to her pancreas. And then magically it was gone. Somehow she had made herself well. So I had many of these sorts of experiences. And talk about, you know, mine, I've been talking about this since, gosh, when did we first, since 79, right?
+
+20:25.570 --> 20:55.486
+So now people are talking about mind-body connection. It's not a connection. If you're talking about a connection between two things, it says they're separate, and you still have to deal with what's connecting them. When you put them back together, it's one thing. You don't have to deal with that mediator. And so the study you're asking about, which I'm surprised I'm having a junior moment, but I actually remembered the question you asked rather than a senior moment,
+
+20:55.586 --> 21:19.390
+that before I tell you about the study with Ali, the first study we did testing this mind-body unity was a counterclockwise study. So here what we did was we took elderly men, we were going to have them live in a retreat that had been retrofitted to 20 years earlier and had them live there as if they were their younger selves. So they talked about things from the past as if they were just unfolding.
+
+21:20.002 --> 21:39.902
+The results were incredible. Their vision improved, their hearing improved, their memory, their strength, and they looked noticeably younger. So that was very exciting and began all this mind-body unity work. Now comes the study that you're talking about with Ali, where...
+
+21:40.098 --> 22:09.534
+in a conversation that she and I had, she was my student, and she made proclamations about exercise and any proclamation, this is the short answer to your question, anybody proclaims anything, my mind immediately goes, well, when might not that be true? I'm starting to pick up on that. It's a gimmick, I guess. It's a gift is what it is. And so the question was that how important was the
+
+22:09.730 --> 22:30.174
+understanding of exercise to the effects of exercise. So we take chambermaids, and interestingly, the first question we ask is, how much exercise do you get? And they say they don't get very much exercise because to them, exercise is what you do after work. That's what the Surgeon General, who sits behind a desk all day, says.
+
+22:30.274 --> 22:58.654
+So you would imagine whether they realized they were getting exercise or not, since they're getting so much exercise, that they're going to be healthier than other people who are not getting them. They weren't. That's interesting. So now we divide them into two groups. Very simple study. Randomly divide them into two groups. In one group, we simply teach them their work is exercise. Making a bed is like working on this machine at the gym, doing the windows, whatever.
+
+22:58.882 --> 23:25.022
+So you have two groups, one who thinks they work as exercise, one who doesn't realize. We take many, many measures, and they're not eating any differently, one group from the other. They're not working any harder. Nevertheless, the group that changed their mind and now saw their work as exercise lost weight, there was a change in waist-to-hip ratio, body mass index, and their blood pressure came down.
+
+23:25.538 --> 23:55.504
+remarkable. Yeah. Yeah. And what I don't usually talk about, um, when I start talking about this is that this was a test of the nocebo effect. Most people know what a placebo is. You take something that's nothing and it has the effect as if it's something. You take a sugar pill thinking it's strong medication and, um, it plays out as if it was. A nocebo is the reverse. You're taking something. So here you're doing the exercise, but you don't realize it. And it, uh,
+
+23:55.504 --> 24:21.534
+It gets rid of the effect. An early study on this was, I don't remember who did it, and that was a senior moment. People were given Ipecac, and Ipecac is supposed to make you vomit. So if you accidentally had poison or whatever, you'd take Ipecac and vomit. So people are given Ipecac, people who have a problem vomiting, and they're told the Ipecac will stop their vomiting, and it stops their vomiting.
+
+24:22.242 --> 24:41.694
+So many placebo studies where you take people, they're rubbed with a leaf that they think is poison ivy. So it either is poison ivy or it's not poison ivy. You think it's poison ivy or you don't think it's poison ivy and your body reacts to your thoughts. If you think it's not poison ivy...
+
+24:42.242 --> 25:04.574
+You don't get the rash. If you think it is poison ivy, you do. Spectacular. Yeah. And so, you know, we've been studying this for forever. I think that placebos are probably our very strongest medicine. Although it's interesting that when people think that they were given a placebo, they get very upset. Yeah.
+
+25:04.738 --> 25:28.990
+You know, they should be excited because if the placebo didn't cure you, who cured you? You did it yourself. But placebos have gotten a bad rap, I think, primarily because of the pharmaceutical companies, right? You want to bring a drug to market. The way you do that is you have to run an experiment where the drug outperforms the placebo.
+
+25:29.858 --> 25:57.086
+And when it doesn't, damn it, I can't make all those billions of dollars without saying, wow, this sugar pill is mighty, mighty strong. I want to talk about three themes that you raised. The first one is this mind-body notion. And now even as I say it, mind-body, I feel like a hint of guilt because I completely agree that the division of mind and body is one of the greatest mistakes of people.
+
+25:57.442 --> 26:21.246
+thinking in psychology and Western medicine that ever existed. In fact, a lot of my, you know, secret mission in this podcast is to remind people every single episode, it seems that, you know, the brain and body are connected bi-directionally through the nervous system, but other systems too. Like there's no, there's no single system, hormone system, nervous system, immune system that doesn't
+
+26:21.570 --> 26:46.334
+you know, cross the blood-brain barrier and go back and forth. It's all because of Descartes. You know, Descartes was out to dinner and the waitress asked him if he wanted a salad and he said, I think not, and he disappeared. I think I am. I was about to ask, how was it that you... And after that, Andrew, I say, this is not my day job, so I don't have to be funny. I love it. I love it. I've spent a lot of time...
+
+26:46.690 --> 27:15.678
+trying to learn the history of medicine and the merge of philosophy and medicine. There's a wonderful book that if anyone is suffering from insomnia, they should check out because it's extremely detailed and difficult to listen to or read, but it's called The Prince of Medicine, which basically details all the reasons why we are so confused about how medicine is done and should be done. And it has to do with rules and restrictions and cultural conventions. And it's a whole barbed wire mess, basically. But it includes this mess that was created for us, which is this idea that somehow...
+
+27:16.450 --> 27:46.398
+because the brain is perhaps the seat of our consciousness. To many people, they believe that. But certainly, you know, like if I were to lose a few fingers on my left hand, I'm not sure I would fundamentally be a different person, but if I lost a few millimeter or the equivalent amount of real estate in my brain, my personality could very well change, perhaps for the better, some would say. And I'm probably now hoping for that event. But all kidding aside,
+
+27:46.562 --> 28:16.094
+You know, I think the mind-body distinction has really poisoned our thinking about what's possible. And the other experiments that you described point to what's possible. And I want to talk about those. But maybe if we could just hover on this notion of mind and body as a single thing, that there's an us. I don't want to get too philosophical here, but that there's an us and our body carries us forward in motor behavior. But like how should we conceptualize the self if we don't have a mind-body distinction?
+
+28:16.386 --> 28:39.806
+I don't know why that's a problem. I am who I am, period. How does that change whether we want to see me as having a mind, body, and elbows? Explain to me and then I will explain to you. Yeah. Well, what I love is – I'm going to first reflect. What I love is the –
+
+28:40.066 --> 28:54.622
+the flexibility of your thinking around these things. Again, it's like maybe exercise, the effects of exercise are epiphenomena or, you know, so in thinking about mind-body, I can't get my, no pun intended, my head around this –
+
+28:54.786 --> 29:23.966
+distinction that if I lose a certain piece of my body, I'm not fundamentally changed. But if I lose a piece of neural real estate, I'm fundamentally different. That's the only thing that anchors me to the idea that they're separate. Why is that true? I mean, if, you know, let's say you're an athlete and you lose two of your fingers, you're not going to be performing in the same way that you performed in the past, and surely you'd end up different. Yeah, I'll buy that explanation. Yeah. I mean, I'm just trying to probe this because I think—
+
+29:24.194 --> 29:49.278
+Nowadays, people think, oh, you know, if I breathe in a certain way, I'll change my state of mind, which is true. If I think differently, get stressed or relaxed, I'll change the way that I breathe. I mean, I think that we're starting to understand the bi-directionality of these things. I think some of the – even the work with the brain where to assess – this neuroscience now is crazy with fMRIs. And we want –
+
+29:49.410 --> 30:13.342
+No matter what happens, you want to see what's going on in the brain. And I think that implicitly in a backwards way, that leaves people away from realizing that whatever you're looking for is probably manifested every place. You know, I had this experience. I like doing strange things, and I was out in Kansas City.
+
+30:14.050 --> 30:41.822
+And so somebody said there's an iridologist. What is an iridologist? Sure, for fun. We'll go to the iridologist. So this person is looking in my eye, my iris, that's the iridologist part, and she said, you have a problem with your gallbladder. I thought, okay, that's great. We leave and have my time. I go back home, and I had a problem with my gallbladder.
+
+30:42.114 --> 30:51.806
+Really? Everything is everywhere. The problem is we don't have the technology to notice it. You know, so when you're happy, your skin...
+
+30:51.970 --> 31:20.510
+is different from when you're not happy. But who can see such small distinctions? But it's there. All we do is look to see where the brain is different. It's all one. Anything, I believe, anything that's happening on any level is simultaneously, simultaneously, not sequentially, more or less happening on every level. So a teardrop of sadness biochemically is different from a teardrop of joy.
+
+31:21.826 --> 31:48.574
+And so it's all there, we just have to notice. I have no memory now of what it was you said that led to that on my part, but I'm glad I said it anyway. Well, we're probing mind, body and their interconnectedness. And so this iridologist, I've never heard that term before. This iridologist, it could be, based on what we were discussing a few moments ago, it could be that the suggestion that there was a problem with your gallbladder led
+
+31:48.674 --> 32:06.142
+a problem with your gallbladder or do you think that she had some or he had some diagnostic knowledge? I hadn't even considered the former, which is strange to me. No, I just assumed that she was seeing something and...
+
+32:06.562 --> 32:31.454
+But your idea, but either way is fascinating, right? By somebody suggesting you have a gallbladder problem to have a gallbladder problem. That's wild. Yeah. What are your thoughts on things like acupuncture? And when I think about acupuncture, I'm not just thinking about the needles. The few times I've been to an acupuncturist, the first thing they do is they ask you to stick out your tongue. They are able to diagnose tongue texture and color and
+
+32:31.586 --> 32:58.494
+I think everything is everywhere, although there's, you know, I teach health psych at Harvard, and there's some data on it being mostly placebo. But, you know, and that sounds like a downer, but most of everything is placebo. What does that mean that virtually everything is controlled by our thoughts? And we need to embrace that to make the changes that most of us desire.
+
+32:59.938 --> 33:23.774
+So going to an acupuncturist itself means I want to find the answers and seek any more likely to find. And then you're in a position to improve. Might I ask what happened with your mom's mindset or life or psychological life that you think led to the – No, there's – it's a –
+
+33:23.906 --> 33:38.558
+An N of 1, you know, it's very hard to know. I knew that when she got sick, I believed at that point that being anything negative was going to...
+
+33:39.074 --> 34:09.040
+work in the opposite direction. And so I wouldn't let anybody in to see her who wasn't uplifting. You know, that was, I don't, there's no way of knowing if any of that mattered or not. I went and got her a very expensive set of golf clubs. She wasn't a big golfer, but, you know, my reasoning was that, you know, I must believe she's going to be better or why would I have spent the money? Her reasoning was, my reasoning must be that if I get these, she
+
+34:09.040 --> 34:38.046
+think that, you know, so it didn't work. We had these golf clubs that were never used. You know, I don't know. I believe that we have more control. At that point, I hadn't done all of these experiments that might have led me to push even harder. It was kind of funny, though, because the way I had cognized everything back then was the importance of perceived control.
+
+34:38.242 --> 35:05.950
+And so I had these data people living longer and so on. And yet, mindlessly, I virtually took over her life, deciding who can see or what she can do. But I don't know. And I don't think there would have been, with just one person, any way of knowing what led to the disease going away. But the fact that it went away was crucial to me. You know, I think...
+
+35:06.114 --> 35:30.590
+that we have to talk about the myths in medicine, that what people need to understand is that all science are probabilities. An experiment doesn't give you absolute facts. And we teach these probabilities as if they're absolute and give up a great deal of control by doing so.
+
+35:31.170 --> 35:58.942
+Now, you asked me before about how I came to certain things. Let me go back to an answer I should have given you. Many years ago, I was at a horse event, and this man asked me would I watch his horse for him because he wants to get his horse a hot dog. Hot dog? I'm a straight-A student. What is it, crazy? Horses don't eat meat. Sure, I'll watch your horse. He comes back with the hot dog, and the horse ate it.
+
+36:00.002 --> 36:01.470
+And that's when I realized
+
+36:01.570 --> 36:31.536
+everything I thought I knew could be wrong. And I thought, what does it mean, horses don't eat meat? How many horses were tested? And what were they tested with? How much meat mixed with how much grain? And what kind of grain? And how big are these horses? And when was the last, you know, and so on. And it all opened up. And I said, how could we make such a statement, horses don't eat meat? But when you think about science, that imagine if you did the experiment and you're trying to teach somebody what you found, you say, these particular horses who had
+
+36:31.536 --> 36:42.430
+eaten for three days, were given this grain, and under those circumstances, 80% of them didn't eat meat. That's a mouthful. You can't...
+
+36:42.690 --> 37:02.590
+communicate that way so you abbreviate it. Horses don't eat meat. So it's not in the telling that's the problem. It's in the receiving of the information. We have to know that these things are just not true to the one. But it's very important because every time you're given a diagnosis...
+
+37:03.138 --> 37:24.638
+You take the diagnosis as real. Well, it's not the case that they can be sure that all of these symptoms mean you have this disease. And if you have, quote, this disease, we don't know that all of the people who have it are going to follow. And it becomes very unlikely when you turn it all inside out that way. And so...
+
+37:24.738 --> 37:47.870
+Another part of this that we can get into or not is people's understanding probabilities in general and that you can't predict. Now, people ask for answers all the time, even the how much is one in one. Should I have the surgery? What is the disease that I have?
+
+37:48.034 --> 38:17.982
+And by recognizing that all information that's given is for the group, not for the individual. A few examples of this is kind of funny. I say, so Michael Jordan and I are going to have a foul shooting contest. We each get to shoot one basket. Who's going to win? Well, most people are just going to quickly say Michael Jordan. How much money are you willing to bet on this? One shot each.
+
+38:18.914 --> 38:43.102
+million dollars. I'll give you a million dollars if Ellen Langer wins. You give me, or I'll give you a million dollars if Michael Jordan wins. You give me half a million dollars if Ellen Langer wins. First, you think you'll take the bet. But when you think about it, no, he sometimes misses. She sometimes makes the basket. Maybe had a fight with his wife, didn't sleep well.
+
+38:43.362 --> 39:13.342
+You know, maybe she is in top form and this is now the moment she's going to make that basket. Or make it simple. He said to himself, let the older woman win. Why not? Really? You know, and when you think of all the reasons why it could be the case that I could win, all of a sudden you become less certain. Now, certainly if we were shooting 100 baskets, he would win. Let me give you another example I use too often because I don't know which of these will feel right.
+
+39:14.594 --> 39:42.846
+You go to a Mercedes parking lot. Pick your favorite car. And let's say there are 100 cars there. You choose one. And if it starts, I will give you a million dollars. If it doesn't start, you give me your full life savings, assuming it's under a million, capped at a million. Now, Mercedes are wonderful cars. Nobody is going to take that bet.
+
+39:42.978 --> 40:11.774
+Everybody knows sometimes it doesn't work. Sometimes the genius gets something wrong. Sometimes the car is a lemon and so on. So what we mean when we say, if you were going to start 100 cars, most of them are going to start. But you can't predict which one isn't going to. Well, in life, I'm happy if an operation is good for most people. I want to know, is it going to work for me? And there's no way to know that.
+
+40:11.874 --> 40:35.390
+You can never predict the individual case. But, Andrew, we don't have to worry about that because you can always predict or control your reaction to whatever is happening. So it doesn't matter as much. You see, if I can be happy, whether this occurs or the opposite occurs, I care less about others.
+
+40:35.522 --> 41:02.206
+which way it turns out. But right now we're all brought up in a world where we have these good things, we have these bad things, you've got to kill yourself to get the good things, step over whoever you can to avoid the bad things. Once you recognize that's all in your head, just be still. My favorite example, this for me was so funny, I'm doing one of these podcasts over Zoom and I'm trying to explain that
+
+41:02.498 --> 41:32.446
+evaluation is in your head, not in the things you're evaluating. I say as an example, so if the internet went out right now, wouldn't be terrible, I'd go have lunch. The internet went out just at that moment, and I did have lunch because I had put the suggestion in my mind. You know, most things don't matter. We don't recognize that, and I think I have a few one-liners that if people understand or care about nothing else that I've said,
+
+41:32.546 --> 41:51.838
+Take this to heart. That next time you're stressed, ask yourself, is it a tragedy or an inconvenience? It's almost never a tragedy. And so when you breathe, you know, I failed the test. I got, you know, dented the car. I missed the bus, whatever it is. So what?
+
+41:52.546 --> 42:22.302
+And so you take a deep breath and come back to yourself and realize that most of the things that make us crazed are unnecessary. You get a lot of this as you get older, but I teach my students this early on. Why wait? Why wait to recognize that you're the one who's almost always your worst enemy? I'd like to take a quick break and thank our sponsor, AG1.
+
+42:22.434 --> 42:52.400
+AG1 is an all-in-one vitamin mineral probiotic drink with adaptogens. I've been taking AG1 daily since 2012, so I'm delighted that they're sponsoring this podcast. The reason I started taking AG1 and the reason I still take AG1 is because it is the highest quality and most complete foundational nutritional supplement. What that means is that AG1 ensures that you're getting all the necessary vitamins, minerals, and other micronutrients to form a strong foundation for your daily health. AG1 also has probiotics and prebiotics that support a
+
+42:52.400 --> 42:53.662
+healthy gut microbiome.
+
+42:53.794 --> 43:23.760
+Your gut microbiome consists of trillions of microorganisms that line your digestive tract and impact things such as your immune system status, your metabolic health, your hormone health, and much more. So I've consistently found that when I take AG1 daily, my digestion is improved, my immune system is more robust, and my mood and mental focus are at their best. In fact, if I could take just one supplement, that supplement would be AG1. If you'd like to try AG1, you can go to drinkag1.com slash Huberman to claim a special offer. They'll give you five
+
+43:23.760 --> 43:47.614
+Buy free travel packs plus a year's supply of vitamin D3 K2 with your order of AG1. Again, go to drinkag1.com slash Huberman to claim this special offer. Today's episode is also brought to us by Juve. Juve makes medical grade red light therapy devices. Now, if there's one thing that I have consistently emphasized on this podcast, it is the incredible impact that light can have on our biology.
+
+43:47.778 --> 44:17.744
+Now, in addition to sunlight, red light and near infrared light sources have been shown to have positive effects on improving numerous aspects of cellular and organ health, including faster muscle recovery, improved skin health and wound healing, improvements in acne, reduced pain and inflammation, even mitochondrial function, and improving vision itself. What sets Juve Lights apart and why they're my preferred red light therapy device is that they use clinically proven wavelengths, meaning specific wavelengths of red light and near infrared light in combination to trigger the
+
+44:17.744 --> 44:45.694
+I use the Juve handheld light both at home and when I travel. If you'd like to try Juve, you can go to Juve spelled J-O-O-V-V.com slash Huberman. Juve is offering an exclusive discount to all Huberman Lab listeners with up to $400 off Juve products. Again, that's Juve spelled J-O-O-V-V.com slash Huberman to get up to $400 off.
+
+44:46.274 --> 45:12.158
+So much of our developmental wiring is based on learning how to predict what's going to happen next. I mean, you think about object constancy that kids, you know, of a certain age, you put a ball behind your back, they think it disappeared. Eventually, they realize just because you moved your arm and the ball behind your back doesn't mean that the ball is gone. This kind of thing. Sadly, though, then they believe the ball is still there when in fact the ball may be gone.
+
+45:13.314 --> 45:41.566
+Right. There's always a portal to a different outcome. And I'm catching on to your mode of thinking here. This is actually what I'm trying to do. Because I think, you know, the brain is a prediction-making machine. In addition to doing other things, it regulates heartbeat, all the autonomic stuff, right? Heartbeat, digestion, et cetera. It remembers things and it's a prediction-making machine. At least those three things. I feel like the prediction-making aspect of our neural circuitry is what
+
+45:41.826 --> 46:03.550
+leads us to this notion of having control or wanting control. Because I think a lot of what's happening in our conversation in the backdrop of these experiments is to what extent do we have control over outcomes? Well, it's interesting because our mindlessness, which results, I think, in part,
+
+46:03.714 --> 46:20.542
+to hold on to things, to have control, is the very thing that deprives us of control. Because, again, things are changing. You're holding it still in your mind. And, you know, so you're living with somebody or you meet somebody and, you know, right away you decide what, you know,
+
+46:21.026 --> 46:41.022
+size that person up. So now you can control your interactions with them. But what you're doing is ignoring all the times the person is not like that and all the ways that the relationship could have otherwise grown. You know, that we...
+
+46:41.122 --> 46:59.774
+In general, and this is, you know, I have a psychological treatment for chronic illness. It's all based on the same idea of change. Things are changing. We're always holding it still. And so you have the illusion that you're controlling things, you know, but it.
+
+47:00.258 --> 47:26.430
+In fact, you're giving up control by not recognizing for yourself or somebody else. You know, all of our statements of we can't do or we can do. You can't know whether you can or you can't. The fact that you did it doesn't mean that you can do it again. The fact that you couldn't do it doesn't mean you couldn't do it in the future. I feel like close to the end of each year, which we just, you know, passed recently, these lists come out. Oh, yeah.
+
+47:26.562 --> 47:46.142
+These resolutions are so mindless. But they're more than just mindless. They deny that what we did made sense or else we wouldn't have done it. That one thing that I told you is more important to me than anything else that I came to over all these years of study. Yeah.
+
+47:46.434 --> 48:14.494
+You know, so you're going to resolve that you're going to, I don't know, stop drinking, you're going to go to the gym, whatever these New Year's resolutions are, suggests that what you were doing instead of that thing you think you should be doing was not something you should have been doing. And I think that's never the case. I woke up early this morning and my first thoughts of the day, I like to think have some
+
+48:15.586 --> 48:43.806
+importance for something. Who knows? It's when my mind seems clearest for at least a nanosecond. And my first thought was that the pattern that I seem to be perpetually in is one of whatever I'm doing, unless I'm podcasting or reading a research paper, that my mind is constantly flitting to the other things that I think I should be doing. Yeah, that's sad. It's sad. And it's something I've been working on for a very long time. And I'm able to hold my
+
+48:44.258 --> 48:51.230
+for lack of a better word, attention on things to accomplish tasks in my life and to be present with people as it were.
+
+48:51.554 --> 49:21.520
+I thought... Let's go back a step because we both said it was sad. Why is it sad? I'm reconsidering that to be able to think of five different things instead of one could be an asset. Right. It could be an asset. I think that for me, what I realize is most of the shoulds are just total lies. Yeah. And also they don't... They're just lies. They're not actually coming from... I'm not hearing other people's voices in my head. Yeah, you should do
+
+49:21.520 --> 49:47.358
+this. It's, you know, not parental narrative or, or anything. It's just, it's just, it's just contamination of a, of a, like of a useless type. It's not like listening to the radio. I used to listen to the radio while I'd like make dinner or something. And it was so pleasant, right? You know, you hear, you hear an evening discussion about the news or talk, a talk show or whatever on the radio while cooking. And so that kind of quote unquote distraction felt really meaningful. I felt like
+
+49:47.650 --> 50:17.054
+I lived alone that I had other people in the room with me. This is different. This is, it feels as if it detracts from some essence of the behavior that I'm in, even if the behavior is just getting out of bed in the morning. Wait, so let me be clear. You get out of bed or start to get out of bed and you have several thoughts. Yep. And those thoughts bother you? Do they prevent you from getting out of bed? No, but they feel intrusive. They don't feel welcome. Right.
+
+50:18.146 --> 50:37.182
+Like, because I know what I'm going to do each day. I have a policy for myself of doing one work thing each day, maybe in one or two blocks. And I try and really put everything I have into those. It's kind of a recent evolution of not trying to do three things in a day. Maybe it's a function of getting older, but I get so much more satisfaction and get
+
+50:37.442 --> 51:04.030
+truly so much more done from just doing one thing in my life each day. I don't even understand the one thing idea, you know, that people talk about multitasking, which is what you're saying, and you're better not to multitask, but you're always multitasking, right? I mean, I'm moving my hands while I'm talking to you, and I'm sort of thinking and, you know, fixing my back in the seat. There are always lots of things going on. Mm-hmm.
+
+51:04.194 --> 51:32.254
+And I think that also tasks, you know, so let's say you're a kid and you're doing your social studies homework. And then you're doing your math homework. And so, and you go back and forth. So are you multitasking? It depends. If you see yourself as multitasking, then you're drawing boundaries between your math and your social studies. If you see yourself as doing homework, it's all part of the same thing.
+
+51:33.026 --> 52:01.566
+And so there's always a way that the task can be grouped as a single unit or you can see anything as multitasking. When you see it as multitasking, you're suggesting to yourself that there's going to be some conflict. There's some reason I'm leaving this to go to this. Well, maybe I'm running the script backwards. Let me put it differently. The level of satisfaction that I feel...
+
+52:02.338 --> 52:30.398
+from having, say, worked on a chapter of my book for a couple of hours or even 45 minutes or from going for a run without my phone and just enjoying the run, it still blows me away how much I enjoy things that would fall under the category of simple things or things that I experience in isolation as compared to how little...
+
+52:30.562 --> 52:45.310
+I enjoy and sometimes reflect on how punishing, quote-unquote, multitasking is, like being in a text conversation while I'm walking on the beach. No, no, but when you're texting while you're on the beach, probably –
+
+52:46.242 --> 53:11.326
+It's some kind of work text, right? There's something about it. And why are you doing it when you're on the beach? Because I can easily imagine, oh, I'm on the beach. It's wonderful. Let me text Andrew and say, Andrew, you're right. This time on the beach is wonderful. And texting wouldn't take away from it. You know, my life is much simpler. To me, all you have are moments, right?
+
+53:11.586 --> 53:41.566
+That's it. And if you make the moment matter, then the moment matters. And you can't make it matter more. It matters or it doesn't matter. And so the question, you know, when you're lost doing or found, really, I don't want to say lost when we're writing. I find myself when I'm writing. But when you're, you know, engaged in an activity, you know, you're making each of those moments matter. But, you know, they should matter as much. I had this thought that...
+
+53:41.570 --> 53:57.886
+I would help people who were stressed and I would say to them, okay, so assuming that their vision is reasonable, I would just thread a needle. Threading the needle. And then I'd ask them how they felt. And everybody's going to feel fine.
+
+53:58.562 --> 54:24.798
+Because you're actively engaged and doing something. You're not engaged in what people call monkey brain or whatever, worrying about tomorrow, worrying about, you know, so on. So to go back to your three things, you know, it's like the text on the beach is not an I love you text because I don't see why that would distract you. Yeah.
+
+54:24.994 --> 54:34.494
+I could imagine being anywhere doing multiple things where I'm sharing what I'm doing, but I'm not seeing them, you know, oh, I have to do this work thing.
+
+54:35.042 --> 54:59.774
+And then the question is, why see the work thing that way? And especially someone like you where you don't need any of this anymore anyway. Well, yeah, that's a discussion unto itself. No, no, no. But it's important. It's true. And so that if it's all fun, it doesn't matter. I was on this panel in Australia. Well, first, each of us gave a talk, some big shots. And then...
+
+54:59.874 --> 55:17.950
+unbeknownst, they brought us all out. And so we're sitting there and I'm the last one to be asked. And the question was, what's on your bucket list? And so the first person answers what's on the next person and we get five. Now it's my turn. So I've had some time to think about this. And
+
+55:18.434 --> 55:35.774
+You know, my first thought, I don't have a bucket list. But of course, you know that I'm going to say, well, it's good not to have a bucket list or else I'd have a bucket list. So then I'm able to say why I don't have a bucket list. You know, if you imagine you're like a glass, you know, and the water is...
+
+55:35.906 --> 55:53.950
+full or whatever, you know, vodka in this case, you know, that it's full, it's full. You can't do more than that. And so if the moment is meaningful, you don't have to be writing that book, being in love on a vacation in Paris.
+
+55:54.242 --> 56:24.062
+And so I think we have all these crazy notions. Even the idea of, and I've talked about this before, work-life balance. Ooh, that's scary to me. What that says, what life really means is some joy, right? Other than just being, you know, doing work 24-7 or however long people work, not 24-7. What is it? Three and a half. Anyway, that...
+
+56:24.962 --> 56:54.814
+It suggests that the work that we're doing has to be aversive. And because it's aversive, the only way to have a good life is to add this fun time. And I think that's sad. I think it's sad that people think life has to be stressful, that work has to be unpleasant. You know, that no matter what you're doing, I believe there's a way of doing it so that it's fun.
+
+56:54.914 --> 57:22.622
+I love that notion. I mean, I will routinely find these articles just get served up to me in my Google feed or something. Like the five things that people regret most on their deathbed. I think these lists are terrible. I do too. I think they're terrible because without fail, the number one, two, or three is always, I wish I hadn't worked as much. Yeah. I've derived tremendous pleasure from my work, but also tremendous relationships, tremendous love.
+
+57:22.754 --> 57:50.718
+tremendous, excuse me, levels of insight into what I think are insights anyway. Well, Claire, you wouldn't be having the experience now. Yeah, exactly. Exactly. I mean, I'm constantly in pinch me moments with the podcast. That was also true when I was running my lab and then I decided to transition more to this and other things. But I mean, this notion that one wishes they'd worked less, it's such a sad thing to even think about. But it also implies that
+
+57:50.850 --> 58:17.822
+you know, somebody who enjoys their work doesn't enjoy their family or their relationships. And that certainly isn't true either. So there are all these assumptions that are written into these lists. I'm actually quite opposed to lists of that sort in a short media article form, because I think, A, it clearly doesn't change behavior. I mean, people have been talking about, you know, drink less. Well, smoking was eradicated mostly from this country through different mechanisms. But, you know, sleep,
+
+58:17.986 --> 58:41.726
+sleep more, stress less. I mean, these lists come out and they don't change behavior at all. Not only that, but even a discussion about, let's say, something like sleep, I find it outrageous. We might even disagree on this here. But when people say, how much sleep do you need? Now, to me, if I just ran a marathon and
+
+58:43.010 --> 59:05.150
+That night, I probably need a different amount of sleep than if I stayed in bed eating candy, watching movies all day. And my age, everything should play a part in this. If I relax in the two or three hours before going to sleep, especially if I dim the lights, I actually require a full sleep.
+
+59:05.250 --> 59:35.216
+two to three hours less of sleep to wake up feeling refreshed. My criteria is what does it take to wake up feeling reasonably refreshed? So to go back to the mind-body unity studies, we have a study where we have people in a sleep lab. They wake up and the clock tells them they got two hours more sleep than they actually got, two hours fewer, or the amount of sleep they got. Biological and cognitive functioning follow perceived amount of sleep. Yeah, this is such an important study. I was going to bring it up later, but I'm so glad you brought
+
+59:35.216 --> 01:00:04.126
+it up now. These days, a tremendous number of people are tracking their sleep. I do it through my, you know, my sleep mattress cover. I love getting my sleep score. I like to see what I got. People do with the, with the aura ring or the whoop band or, you know, pick your favorite technology nowadays or Apple watch, whatever. If I understand this study correctly, the perception of how much sleep people got based on their knowledge of a number, a score, et cetera, dictates the cognitive perception.
+
+01:00:04.290 --> 01:00:19.678
+performance and their physical well-being. I mean, this runs countercurrent to everything in the wellness biohacking movement. It jibes, however, with the data that I'm aware of. I think it was a sleep lab at Stanford that, for instance,
+
+01:00:19.810 --> 01:00:47.006
+Positive anticipation of next day events reduces your sleep need and improves the quality of your sleep. Just being excited for the next day can make it such that the five hours you got is sufficient. The funniest thing is that if you have to wake up early in the morning to make a flight, okay, so you have to get up at 4.30 in the morning to make a flight, what most people will do is go to sleep early the night before so they can wake up early.
+
+01:00:47.618 --> 01:01:15.902
+but they're not going to be able to fall asleep because the amount of sleep they need is dictated by the day before, not the day to come. Well, I do think that there was a I'll sleep when I'm dead mindset that was diminishing people's health for a while. I do think it's great that books like Matt Walker's, you know, Why We Sleep, et cetera, came out. Although that book focused more on the bad things that happen if you don't sleep enough. And I think Matt, who's done a series on here about sleep, would now say, you know, it's great that we're...
+
+01:01:16.418 --> 01:01:26.334
+now focus largely on the things that one can do to get agency over one's sleep. But I think that there's such a thing as creating a sleep need anxiety and then people –
+
+01:01:26.722 --> 01:01:56.688
+Yeah, we're not going to dissolve into a puddle of our own tears on one poor night's sleep. Yeah, no, but it's also that if you're not sleeping, what is the reason for that? And if you're stressed, you know, obviously it's the stress that's the problem, not the number of hours sleep you're getting. Well, I always say if you're going to get less than your typical or required night's sleep, hopefully it's for good reasons. Hopefully you're having a good time. It's when you get the fire alarm in the middle of the night that it becomes a
+
+01:01:56.688 --> 01:02:25.310
+as you said, stressful. I'd like to just briefly go back to the counterclockwise study. Could you describe a little bit more about the practical aspects of that study? So these were people who, let's say, were on average how old? Was it somewhere between like 30 and 50? No, no, no, no, no. Counterclockwise, no, these were people who were 80. Oh, 80. Okay, excuse me. Yeah, but also that was when 80 was 80, not the new 60s.
+
+01:02:25.858 --> 01:02:36.990
+They were old. In fact, I remember when we were interviewing, I was interviewing people to see if they could be in the study. So they're down the hall. I'm in my office and I see them.
+
+01:02:39.042 --> 01:03:09.008
+They look like they're not going to make it down the hall to the office. And I'm saying to myself, why am I doing this? You know, that I'm taking on too much. You know, in fact, had I realized all the responsibility at that point that I was actually assuming, I probably wouldn't have done it. I mean, I was in charge of these people's lives, everything about them for, you know, for this five days without knowing these people, without a full medical, you know, support system or whatever. Yeah, if one or two of them had died, you could end up in a mess. Yeah, yeah. So I was fortunate that...
+
+01:03:09.008 --> 01:03:38.718
+None of that happened. So they were old. And it was interesting because they show up and they look really... Now it would probably be somebody 105. That's the way they presented. And you'd speak to the person and usually the adult daughter would do the answering rather than... So they were coddled. They were presumed to have all sorts of...
+
+01:03:38.882 --> 01:04:07.422
+problems and so on. Almost instantly when they got there, they changed. The feeling was almost palpable. Now, I did this thing. It wasn't good science, but so the first group that we took there was the reminiscent group. This was a group where they were going to reminisce for that week. So they always knew now was now and then was then, right? That was a control group.
+
+01:04:07.618 --> 01:04:37.118
+We get to the retreat and I'm in this van. People need to understand the study was back before Google, before we had the internet. So when I am playing music in the van going to the event, music from the past, this was a major thing to find this. Now it takes two minutes to ask Chad lately. Give me the 10 best songs back 20 years ago. At any rate...
+
+01:04:37.218 --> 01:05:00.798
+So I'm on the bus with them, music playing from the past playing. We get very close to the retreat and all of a sudden I realize that I was sexist at the time, oblivious, that none of my male graduate students were with me. That meant I had seven old men and at least seven heavy suitcases.
+
+01:05:01.922 --> 01:05:31.326
+There was no way I was going to carry their suitcases upstairs. So, unplanned for, we get off the bus and I say, you're in charge of your own suitcase. I don't care if you move it an inch at a time to get it to your room or you unpack it here, a shirt at a time, however you want to do it. Now, imagine nothing else, the difference between somebody who's coddled, who's not even thought to be able to respond to a question,
+
+01:05:31.490 --> 01:05:44.606
+You know, where the daughter or son would answer for them to now they're in charge of their whole lives. And that meant that even the comparison group was going to do well.
+
+01:05:44.802 --> 01:06:14.654
+which they did, just not quite as well as the other group. And for me, that was fine because, as you mentioned before, my work is all about possibility. I'm not interested in describing what is. I'm interested in seeing what may be. So if I got one monkey to say, hey, Ellen, that's nonsense, that would be fine if we couldn't train the rest of them. But it would lead us to different views of language.
+
+01:06:15.170 --> 01:06:45.118
+I love this approach to science of seeing what may be. I have to say there's this little script running in the back of my mind, and now I'm not going to judge it. The sorts of experiments and the general line of inquiry that you've been involved in for some time now, to me, runs countercurrent to my perception of, I'm just going to be honest because I'm a West Coast guy, the Harvard campus, and the idea that science is done in a particular way.
+
+01:06:45.474 --> 01:07:13.406
+You know, a very brief anecdote, you know, the folks that founded at the Esalen Institute in Big Sur were at Stanford at one point, they weren't professors, but there's a story, and I believe the story that they had proposed at that time, a class on mindfulness and breathing to bring Stan Graf through and some other people. And this was probably the late 70s, early 80s, and whatever the cultural norms were at Stanford at that time,
+
+01:07:13.538 --> 01:07:42.078
+they claim they were basically run off campus, went and started Esalen. I don't know if it's a true story, but I like the story anyway. My lab at Stanford ran a study on particular patterns of breathing along with David Spiegel and how it can be used to self-adjust stress levels and reduce stress levels. Okay, and nowadays there's grants given for this kind of stuff and meditation. So there's been a huge shift in the academic cultural milieu. But given that you've been running...
+
+01:07:42.178 --> 01:08:03.678
+these sorts of, you know, seeing what may be types of studies for a number of years at a campus that I consider is more kind of like East Coast dyed in the wool notions of how science is done. I want to know, A, how was it received early on? B, did you care? C, is it in your nature and has it always been in your nature to...
+
+01:08:03.778 --> 01:08:32.222
+kind of test the elements because I sense, but I could be completely wrong because I'm not a psychologist, that you delight in kind of not poking the bear, but playing with ideas that are kind of heretical. Well, I would use the methods of the field. It was just the questions that were different. So they weren't seen to be quite as different as you're suggesting. Did any of your colleagues think like... No, no.
+
+01:08:32.514 --> 01:08:53.471
+Great. Okay. No. I love hearing that because it shatters my notions of kind of East Coast Ivy League academia. I mean, perhaps behind my back, but. Well, clearly it's worked out. And nowadays, you know, there are multiple labs at Harvard working on happiness, you know, working on mindfulness. And I mean, you've pioneered an entire field in a way, but I'm more interested in the way of thinking that people.
+
+01:08:53.634 --> 01:09:12.286
+So it's interesting. Eight-year-old Ellen Langer, like, well, maybe cookies are the nutritious stuff. No, I understand. So I seem to be, you know, come hell or high water, I'm going to do it. I'm not like that at all. Interesting. More now than I'm older. But I tell a story.
+
+01:09:12.417 --> 01:09:30.942
+I don't remember what the point of it, the exact point was in the mindful body where I met the dentist. I'm a little kid. I don't remember how old. And I remember my mother came in and the dentist told my mother what a good patient I was. And all I remember was my saying, what were the other kids doing?
+
+01:09:31.522 --> 01:09:54.718
+So it wasn't as if I made a choice. I could do this or I could do – it never occurred to me. And so lots of these ideas are not against or – I don't know where they come from. I know Lee Ross when – so Lee was a professor at Stanford. And I remember having a conversation where he said, Ellen, you're from Mars. Yeah.
+
+01:09:54.818 --> 01:10:23.262
+And I said, I'm not so different. He says, okay, so you're a normal, not an exceptional Martian, but you're still a Martian. And then a colleague had a conversation. And I was flattered by this, but I think it wasn't meant to be flattering because they were worried what my reaction was, was that I'm from a different time. And so that plays differently if you're aware of it.
+
+01:10:23.778 --> 01:10:47.998
+You know, so like when I started painting, you know, I was breaking the rules to some people's minds. But no, I didn't know the rule. And so I was just doing what felt natural. I have to introduce you to my good friend Rick Rubin, who's been on this podcast a few times because he wrote The Creative Act. He's basically, his life has been spent, you know, trying to pull out the best...
+
+01:10:48.130 --> 01:11:03.998
+creative works from musicians and he's been involved in other things too. And he's just as a, you know, a kind of supernatural level of ability to do this. And he keeps coming back to this thing in our discussions, but also in his book and elsewhere about how the impediment
+
+01:11:04.098 --> 01:11:29.822
+The greatest impediment to the creative process is to think about the publicity or cultural milieu that it's going to exist in. That he really believes that these things are offerings to God, to the universe, to whatever that come through us. And that the barrier is the – it's almost like the self-awareness is the barrier. So one of the earlier titles of the mindful body was Who Says So?
+
+01:11:30.434 --> 01:11:58.142
+And, you know, realizing that everything that is was at one point a decision made by people with different motives, different histories, different needs. And when you put people, as I say, back in the equation, everything becomes mutable. Everything. You know, so here's where I am different from many other people, better or worse. I think in this case for better. You know, that I...
+
+01:11:58.338 --> 01:12:28.304
+everything can be changed. You know, you tell me you meet this, you know, this woman and she's too heavy. Weight can be lost. Hair can be grown. Everything can be changed. So I give a talk when I was very young and I'm here on the stage and, you know, the audience is all the way back here. And I knew that was going to make me nervous. So what I did was move all the chairs to be closer to me. Now, if you said to anybody, can you move the chairs? Everybody would say, of
+
+01:12:28.304 --> 01:12:55.134
+course. But mindlessly, it doesn't occur to you. It doesn't occur to you that what is doesn't have to be as it is. And the older I get, the more malleable everything seems to be. Even a thing, to go back, I don't know why this comes to mind, but it does. If an insurance company is making a decision about what drugs to insure,
+
+01:12:55.298 --> 01:13:17.758
+Now, who said that this disorder is better or more worthy than that disorder? I say, so these are people making this decision. So imagine that you have a group of nuns. They're the committee making the decision versus a group of lusty 50-year-old men. And they're deciding whether people should be reimbursed for Viagra, for example.
+
+01:13:18.146 --> 01:13:48.126
+And that's what it's all about, you know, that when you recognize that whatever is could be different as meetings. And I deal with this when I give lectures. You know, at some point I might say, look in the audience and see if there's usually a man. Is there a man here? It's about 6'5". Somebody always there. I don't know why. 6'5 men find me attractive. I don't know why. Anyway, I invite him to the stage and then we look ridiculous. I'm 5'3". He's 6'5".
+
+01:13:48.834 --> 01:14:17.342
+And I ask him to put his hand. He puts his hand up. His hand is three inches larger than mine. And then I just raise the question, should we do anything physical the same? And it's ridiculous. But one of us is teaching how to do it. So the more different you are from the person who wrote the rule, the more important it is for you not to mindlessly follow the rule. So you don't hold the tennis racket like this.
+
+01:14:17.922 --> 01:14:43.294
+If your hand is half the size of the person who, or twice the size or anything else, and people don't realize it. That everything that is was a decision. For something to be a decision means there was uncertainty. As soon as the decision is made, we forget all that uncertainty and act as if this is the way it's supposed to be. An example I often use, you know, tennis. So you have tennis.
+
+01:14:43.586 --> 01:15:13.552
+And everybody, when you think about this, and nobody's going to argue that, of course, the rules to tennis weren't handed down from the heavens. Somebody decided it should be two serves. And that's fine. But for me, three serves would be better. The first time, I kill it. It doesn't go in. Now I'm afraid to try to kill it again and learn from that because I don't want to double fold. So I have a little wuss second serve. I have three serves. I kill it. It doesn't go in. Now I learn from that. I kill it again, but I'm getting a little better. And I still have my back.
+
+01:15:13.552 --> 01:15:38.942
+up third serve. All right, so what is the point of that? That if I wrote the rules to the game, I would be a better tennis player. You would be better at whatever you're writing the rules to. So you think differently about yourself. You don't feel bad about it. In fact, you know, when people play tennis with me, we often play three serves. Why not? Everything about it is up for grabs.
+
+01:15:39.042 --> 01:16:07.902
+And, you know, so what happens is the lower down you are on the totem pole, the fewer of these things, games, ways of being that you yourself have created, the more you're trying to fit yourself into some form that isn't so comfortable. So we need to appreciate that rules, laws, everything. It's just somebody's decision about how things should be. And
+
+01:16:08.066 --> 01:16:36.286
+don't violate them purposely, but if they don't fit, you know, legality is not the same thing as morality. You know, by law, one was not allowed interracial marriage. By law, one was not allowed to be gay. By law, you know, so on and so forth. One wasn't allowed to drink at one point and so on. These are not moral issues. These are a group of people who are making a decision for the rest of us.
+
+01:16:36.738 --> 01:16:56.862
+If it doesn't hurt, fine. But, you know, if it does, fight it, deviate, at least live the life you want to live. I'd like to take a quick break and acknowledge one of our sponsors, Function. Last year, I became a Function member after searching for the most comprehensive approach to lab testing.
+
+01:16:57.154 --> 01:17:27.120
+Function provides over 100 advanced lab tests that give you a key snapshot of your entire bodily health. This snapshot offers you with insights on your heart health, hormone health, immune functioning, nutrient levels, and much more. They've also recently added tests for toxins, such as BPA exposure from harmful plastics, and tests for PFASs, or forever chemicals. Function not only provides testing of over 100 biomarkers key to your physical and mental health, but it also analyzes these results and provides insights from top doctors who are
+
+01:17:27.120 --> 01:17:55.070
+expert in the relevant areas. For example, in one of my first tests with Function, I learned that I had elevated levels of mercury in my blood. Function not only helped me detect that, but offered insights into how best to reduce my mercury levels, which included limiting my tuna consumption. I'd been eating a lot of tuna while also making an effort to eat more leafy greens and supplementing with NAC and acetylcysteine, both of which can support glutathione production and detoxification. And I should say by taking a second Function test, that approach worked.
+
+01:17:55.202 --> 01:18:10.398
+Comprehensive blood testing is vitally important. There's so many things related to your mental and physical health that can only be detected in a blood test. The problem is blood testing has always been very expensive and complicated. In contrast, I've been super impressed by function simplicity and
+
+01:18:10.530 --> 01:18:38.782
+at the level of cost. It is very affordable. As a consequence, I decided to join their scientific advisory board and I'm thrilled that they're sponsoring the podcast. If you'd like to try Function, you can go to functionhealth.com slash Huberman. Function currently has a wait list of over 250,000 people, but they're offering early access to Huberman podcast listeners. Again, that's functionhealth.com slash Huberman to get early access to Function. I feel like one of the major detriments to
+
+01:18:39.074 --> 01:19:00.542
+living the way that you're describing, which, by the way, has tremendous gravitational pull in my mind. Like, it's such a better way to go through life, right? And I subscribe also to this notion that pretty much everything was made up besides the laws of nature, right? I mean, to me, physics is real.
+
+01:19:00.674 --> 01:19:25.150
+And chemistry is real. Biology is real. It gets tricky because— They're all real, but it's our understanding of them that varies. So we haven't worked out all of physics yet. Sure. You know, or biology or any of these other things. So I don't think that we should set these aside and say those rules we should follow come hell or high water.
+
+01:19:25.378 --> 01:19:54.462
+Right. I mean, you know, seeing what may be like, I mean, I could say, listen, because of the laws of gravity, objects fall down, not up. But of course, there are, we could create exceptions to that. But that humans make up all sorts of rules. Culture dictates, group think dictates. And it seems that one of the major detriments to living in this freer way, this more exploratory way that we're talking about today, is this whole thing of theory of mind.
+
+01:19:54.562 --> 01:20:16.510
+You know, that we are able, for better or worse, to get into the minds of others and in some cases create ideas, true or not, about how we will be judged if we do A, B, or C. And in doing so, we give up some real estate. We give up some—
+
+01:20:16.642 --> 01:20:41.630
+We think we know, but are oblivious to the fact that every single, every single, it's a big statement, behavior can be understood in equal dimensions, equal potency as good or bad. Now, so that I can control what you're thinking. So you think that I'm gullible. You could persuade me that I'm gullible. I can try my hardest not to be gullible. But...
+
+01:20:41.730 --> 01:21:08.446
+I'm going to eventually be gullible. And the reason for that is that I value being trusting. And as long as I value being trusting, I'm going to be seen as gullible. As long as you value being flexible, you're going to be inconsistent. As long as you value being stable, you're going to be seen as boring and so on. And so this is what I said to you before in different terms that with all that I've...
+
+01:21:08.642 --> 01:21:36.318
+studied, found interesting over all these decades, the thing that meant the most to me was the realization that behavior makes sense from the actor's perspective or the actor wouldn't do it. Now, if you think about that, that means every single time you're demeaning somebody or yourself or you're coming up with a New Year's resolution, what you're doing is denying the sense of what you were doing.
+
+01:21:36.898 --> 01:22:06.206
+And saying, oh, you should have done something different. Okay. Once you realize that your behavior makes sense, you like yourself more, when you're realizing that in any relationship, anything that's difficult is difficult because one of you thinks there's a right way and is denying the other person's perspective. We did this thing so many years ago. I gave people a list of...
+
+01:22:06.370 --> 01:22:21.758
+I don't remember if it was 200 or 300 behavior descriptions. I'd say, circle those things about yourself that you keep trying to change, but you keep failing at. So for me, I'd circle impulsive, gullible, but I won't tell you the rest.
+
+01:22:21.858 --> 01:22:44.926
+Okay, then you turn the page over and in a mixed up random order are the positive versions of each of these. Now people are asked, circle those things you really value about yourself, my spontaneity and my being trusting. And as long as I value being spontaneous, I'm going to appear impulsive and so on.
+
+01:22:45.602 --> 01:23:03.902
+And so now that I have more respect for myself because what I did made sense, I carry myself differently. I'm not doing what you were just suggesting before where I'm tormenting myself and, you know, and so on. And the people I'm with, you know...
+
+01:23:04.066 --> 01:23:27.102
+There's a lot in the mindful body that deals with language and only a fraction of the sensitivity I seem to have to language in a different way from the way linguists would study it. But you have things, let's say forgiveness. We have all these terms that seem good. And you know because you're
+
+01:23:27.458 --> 01:23:54.366
+figured me out now that if you say it's good, I'm going to find a way it's bad. If you say it's bad, I'm good. Okay. So this is one of those. I don't want anybody, certainly not the person closest to me, to ever forgive me. I want to be understood. And if you understand, there's no reason to forgive me because my behavior will make sense or else I wouldn't do it. Okay. So
+
+01:23:54.626 --> 01:24:22.590
+How did this come about? I was asked to give a sermon. Sermon, I'm Jewish. I have to go to this church because I say yes to everything. And I'm going to give a sermon. What am I going to talk about? I know nothing about religion. Forgiveness. It's not religion, but it sounds religiously. All right, I'll think about forgiveness. I think about forgiveness. And what I came up with was sacrilegious, some would think. If you ask 10 people, is forgiveness good or bad?
+
+01:24:22.786 --> 01:24:52.478
+what are they going to tell you? It's good. If you ask 10 people, is blame good or bad? What are they going to say? It's bad. But you know, you can't forgive unless you first blame. So our forgivers are our blamers. That's interesting. Now, do you blame people for good things or bad things? You blame people for bad things, but things in and of themselves aren't good or bad. So what happens is the people who see the world negatively, who blame, then forgive. Hardly divine.
+
+01:24:53.058 --> 01:25:08.702
+Now, if you blame, it's better to forgive than not forgive. But if you understand why the person did what they did, it obviates the necessity for blame, which then obviates the necessity for forgiveness. I'd love to bypass blame.
+
+01:25:09.122 --> 01:25:36.478
+Yeah, well, that's, you know, I think that's the way to do it is to recognize in a more open-minded way the motivations that people have vary, the consequences. You know, no matter what you do, whatever negative thing it seems, positive things will follow if you allow them and you look at it that way. Can I ask you to—
+
+01:25:36.866 --> 01:26:03.038
+Oh, that's right. It's your podcast. Yes, you can. It's definitely not my podcast. We're here together. Could I ask you for any reflections that come up around this recent thought train I was on? I was laughing at the fact that our species, for whatever reason, seems to keep wanting to build technologies and that
+
+01:26:03.170 --> 01:26:28.734
+Much of our effort these days is focused on trying to undo some of the ills of the technologies that we've developed. So I use smartphones and I love them and I use social media and I think it's terrific for certain things. But of course, these things have issues, just like the automobile created issues, the television created issues and on and on. Okay. Fossil fuels and all of this. People will debate fossil fuels. But anyway, you get the point. Every technology brings with it some convenience. Um,
+
+01:26:28.866 --> 01:26:57.758
+or some way that humans have been able to overcome nature in some way or work with nature, right? You know, we can't fly, so we build planes. Okay. And I just decided to look at this through a different lens. Like, this is amazing. We're sending rockets into space. We'll probably colonize Mars not too long from now if Elon figures it out. And I get the sense that he probably will. We've got AI just this last week. There's this whole thing. And so then I started thinking like, you know,
+
+01:26:57.890 --> 01:27:25.438
+at what point do we just kind of stop? And the answer is pretty clear. It's unlikely that humans are ever going to stop this kind of itch to develop technology. And I thought, wow, you know, like we're the only species that does this. Like, you know, if the raccoons get together and they think, okay, like let's figure out how to pick locks, like actually how to pick locks as opposed to just go in through crawl spaces. If they've been working on that, they're still failing miserably, right? As far as I know.
+
+01:27:25.666 --> 01:27:41.182
+So it's something so unique to our species among the old world primates to develop technologies. Other animals do it. Crows do it. Other primates do it. But we special, I mean, we are really the utmost example of this. And
+
+01:27:41.858 --> 01:28:11.824
+I just wonder, what do you think the human compulsion is to develop technologies? I don't think there's a compulsion to develop anything in particular. I think there's a compulsion to develop. There's a compulsion. I wouldn't call it compulsion because that sounds negative. But I think that— A drive. Yeah. All mindfulness is is noticing new things, creating new things. With that creation, we're maximally alive. And so if we happen to be on the technology—
+
+01:28:11.824 --> 01:28:40.990
+trained, you know, than it's technology that's going to get our attention. The people who are in other areas, whether it's creating music, doing what you, you know, you and I do, it doesn't seem to me any different in principle. What do you think that's about? I'm not asking us to go into evolutionary psychology, but what do you think it is that humans have this generative spirit in their mind-body, same thing, to
+
+01:28:41.442 --> 01:29:04.222
+to express and to create things that have some durability in time or that are just an expression of where we are. I mean, it's so unusual. But I don't think that it's durability is what matters. I think then that becomes a social construction. You know, what is the group, the Asians, you know, monks who are going to create art?
+
+01:29:04.354 --> 01:29:30.718
+And, you know, as soon as it's finished, then you bring it down to the water and, you know, to show that nothing lasts. Yeah. Sandcastle, no selfie, I call it. You know, sandcastle, no selfie. You're just doing it to do it. I actually do a lot of writing these days that I like in my brain. I've always called sandcastle, no selfie. Like it's you're it's getting washed away. And then someone says, well, you could take a photo of it. It's like, no, actually, I just do it just to see. It's just a practice of getting out what I'm.
+
+01:29:30.818 --> 01:30:00.094
+feel I need to get out? Well, so for my mindfulness book, which I wrote way back when, the secretary I had then was a wonderful guy, but didn't know anything about computers and I knew less. And so I would give him something and I'd say, you know, insert this, page 20, whatever. And he would just sort of randomly, because he didn't know what he was doing either. And then at some point he lost an entire draft of the book.
+
+01:30:00.674 --> 01:30:13.822
+sort of imagine, you know, and my first thought was probably more typical than my second thought, which is to go crazy. Oh, my God. And then I said to myself, what makes me think that that draft
+
+01:30:14.018 --> 01:30:35.422
+better than the next draft that I can come up with. You know, in some sense, a version of your who cares. And then I just started working on it again. You know, at some point when you're writing these research papers, I think most people come to the point where first numbers count, right? How many publications, you know, then at some point,
+
+01:30:35.714 --> 01:31:01.054
+the game changes and you don't care about the number and that's freeing. And so it seems a little similar. I think that for people to recognize that that excitement can be gotten, the threading of the needle, as I said before, would make much of life feel different. So we did – this is going to seem –
+
+01:31:01.314 --> 01:31:21.278
+strange kind of answer here. But we took people who didn't like rap music, people who didn't like football, people who didn't like art. Okay, so a lot of haters. People don't like anything. One group is just given the activity. The next group is asked to notice one new thing about it.
+
+01:31:21.570 --> 01:31:51.536
+The next group, three new things about it. They're doing it or observing it? Well, if it's football, they're observing. It doesn't matter if you're observing the rear ends of the football players. Just noticing new things. And the more you notice, the more you like what you're noticing. And to recognize that that's how simple it is. Now, most people, especially when you're younger, you're waiting for something to pull you. Something to grab me and get me all excited. And how freeing if people were taught that you could
+
+01:31:51.536 --> 01:32:13.086
+grab it, whatever the it is, just by noticing. You don't have to hold on to the thing you're holding on to when you're recognizing that you could hold on to the next thing. I saw this Seinfeld. This was so funny. I thought, must have been old Seinfeld. After the show, he does a five-minute stand-up. And I'm going to
+
+01:32:13.634 --> 01:32:43.600
+not do it as well as he, but nor should I. He says, what is this thing with appetites? You go out to dinner and people say, don't eat the bread, you're going to spoil your appetite. There's so many appetites. You spoil this one, there's another one right behind it. And if you realize that that high, that total engagement, the passion you were feeling was not a result of anything particular about the person, the context, how free
+
+01:32:43.600 --> 01:33:10.942
+it would be. It'd be easy to let things go knowing that you can have that, you know, a moment later. This is why at some point in my life I'm going to tell my team six months and I'm done and I'm going to go do art. And I just don't want to scare anybody. But I just, I love the idea of being able to switch venue and possibly to even
+
+01:33:11.202 --> 01:33:41.182
+change identity, which is something I'd like to talk to you about. Well, the art is kind of interesting, you know, that I started painting when I was about 50 and I was one of those kids who couldn't draw. And I'm going to, so think of education. What mark might I have made on a page that would have led an elementary school teacher to, you know, to lead me to believe that I had no artistic ability? When you think of a difference between a Mondrian or Rembrandt, you know, I mean,
+
+01:33:41.666 --> 01:34:04.734
+People so different that it's sinful for people to think they know how things should be so they know who can do it and who can't as if there's only one way to do whatever it is. And I had this experience and it was very clear in my mind. So I have this painting and I have this friend who is an art collector.
+
+01:34:05.474 --> 01:34:34.622
+she drinks a little too much. She came over for a visit and she saw the painting, a very early painting of mine. And she looks at it and says, Ellen, there's something there. This is the important part. Just, now don't go thinking you're Rembrandt. Which wasn't nice, but she had a little too much, but it didn't matter. But my response was so important to me. I didn't say it because I didn't think it would go over well. But I said, and Rembrandt isn't me. Now,
+
+01:34:34.978 --> 01:35:02.558
+I would rather be the very best Ellen Langer than the 500,000th, 5 millionth, whatever, Rembrandt. And when you recognize that quality is a decision people are making, there is no absolute standard. You know, if you know anything about art, I mean, you know, let's take even the Impressionists, where people have paid so much money today, they were all rejected in their day.
+
+01:35:02.690 --> 01:35:31.838
+You know, when you realize that in some ways, and my work has suggested this to me, that if you're present when you're doing it, you're mindful when you're doing it, somehow that reveals itself in what you're doing. And whether or not it does, you're putting yourself on that canvas, and it's great fun. It's exhilarating. And, you know, when...
+
+01:35:32.098 --> 01:35:53.278
+somebody, you know, belittles it, it's strange to me. You know, where are those criteria coming from? No, different from in schools. You know, I'm very much in favor of trying to create mindful education because education
+
+01:35:53.410 --> 01:36:21.534
+As I said before, I think that it's our system of education that has caused most of the mindlessness. And, you know, a slide that I put on when I give some of these talks, in my view, that virtually, I don't really mean virtually. I have to say it because I'm an academic, right? All. I believe all of our ills, all of them, Andrew, personal, interpersonal, professional, global,
+
+01:36:22.178 --> 01:36:48.894
+the indirect or direct effect of our mindlessness. So here we have schools all over the country teaching these absolutes, propagated in magazines, newspapers, taught by our parents, taught to each other, all that are limiting us and causing the problems that we keep trying to solve and how easy it would be.
+
+01:36:49.026 --> 01:37:15.326
+If we just acknowledge everybody doesn't know something, everybody knows something else, everybody can't do something, everyone can do something else. So when you're grading that paper and you're so sure that this paper just doesn't make it, to presume that every smart person in the world would evaluate that the same way, I find distasteful.
+
+01:37:16.450 --> 01:37:38.046
+So, constant, you know, you give tests in school to find out what people don't know. Give tests to find out what they do know. Turns out it's the best way to learn. I researched an episode of a solo episode of this podcast I did to figure out what are the best ways to study and learn. It was based on a course that I had guest lectured in at Stanford. It turns out...
+
+01:37:38.434 --> 01:38:05.694
+We have to be careful now. I have to be careful with saying things like the best. One of the most effective ways to learn is to self-test for what one knows and doesn't know, but not for sake of evaluation, but for sake of enhancing recall and depth of consolidation. And I think all of us, at least in this country— Well, but I'm saying something a little different, you know, is you're saying how to remember, which I agree with that completely. But I'm saying that when we're testing people—
+
+01:38:06.690 --> 01:38:33.726
+we, whoever the we is, decided what is important to know to see, does that student know that, ignoring all the other things that student must know. You know, I said this before that, you know, I was lecturing in South Africa and they put me up in this very fancy hotel and I had taken a few hours off and I was down by the pool. And I, you know, there was this enormous amount of
+
+01:38:33.890 --> 01:38:46.462
+hotel space, real estate, that was totally unused. The only person who knew that was the lowly cabana boy, who nobody is going to ask what his opinion is.
+
+01:38:46.562 --> 01:39:13.310
+You know, everybody has a perspective that can add to the, you know, the larger piece. And by having this idea of there are those of us on top, we really know, you know, people expect, and I'm given this genius award. And, you know, shortly afterwards, every time you say, and you're supposed to be a genius? I never claimed. The danger of awards that carry things, titles like genius or even Nobel, you know, I'm not going to poke at my
+
+01:39:13.538 --> 01:39:31.102
+I have a few friends that happen to have Nobels because they've done beautiful work, but it's rare that people who get Nobels do much after that. They become great sources of fundraising for universities, so you get leveraged for that. But – and I don't think anyone's going to shed a tear for a Nobel Prize winner here. But I – this –
+
+01:39:31.234 --> 01:39:58.878
+Brings me to this notion of labels, not just rankings and performance, but labels. Sure. Labels hide all the ambiguity. So if I, you know, we can use grades. When I give a student an A versus a B, it sounds like they're very different. But imagine, and I've studied this with respect to health, that the person who gets an 89, right?
+
+01:39:59.746 --> 01:40:19.550
+So you go from an 80 to an 89, you get a B. A 90 to 100, you get an A. Nobody in their right mind would think there's a real difference between the person who's gotten the 89 and the person who's gotten the 90. But their worlds become very different.
+
+01:40:19.714 --> 01:40:38.686
+All the ambiguity is hidden. We studied this. It's the borderline effect, as we call it. So imagine, let's say you and I take an IQ test and, for argument's sake, that you get a 70, so you're normal. I get a 69, so I'm cognitively deprived.
+
+01:40:38.850 --> 01:41:08.816
+I could have sneezed and read the question wrong. I could have come up with multiple answers that could have been better than the one that got the question and the person who wrote the question and so on. But now we're put into two different categories. And because I'm cognitively deficient, I'm not given the training that I should be given. I no longer think well of myself. And so if you ask me to read certain things, I'd probably opt out and so on. And in a very short
+
+01:41:08.816 --> 01:41:32.894
+time, the difference between us becomes very real. Well, it's the same thing with a medical diagnosis. There is always somebody who's right below the border, who has it, or we'll say who doesn't have it below, and the person right above or at that has it, where the two scores are not meaningfully different.
+
+01:41:33.442 --> 01:41:59.934
+But where one then is told they have the disease and the other not, and the difference becomes real over time. And so we have data supporting that, and it's almost just a Gedanken experiment, a thought experiment. At some point, you have to put a limit. But you need to always know that it's made up.
+
+01:42:00.546 --> 01:42:26.238
+So, you know, what is the expiration date for this can of food? Well, I mean, there are people who actually go through their shelves and throw these things out because it's two weeks old, not realizing how did they come up with that date in the first place? Anyway, to go back to what you were saying, let me remind you now because I'm having the junior moment.
+
+01:42:26.338 --> 01:42:54.078
+that labels, names of things, these categories help us organize things, but more often or as often hold things still and cause problems. I did that first study way back when called a patient by any other name, and we made a videotape of a person being interviewed,
+
+01:42:54.754 --> 01:43:23.326
+and showed it to therapists who are either behavior therapists or Freudian types. And the person on the tape was called either a patient or a job applicant. So the exact same tape. When we called the person a patient, they were seen as having hidden this and problems in that and so on. When the person was called a job applicant, they were seen as well adjusted. I have a friend who was in elite, elite,
+
+01:43:23.490 --> 01:43:53.278
+Special Operations for a number of years. Very smart guy, very philosophical. And he once said to me, for reasons that I don't recall, he said, you know, the two most powerful but also dangerous words in the English language are I am. Because anything that follows the words I am will completely constrain your notions of what's possible and what's not possible. And I said, you know, why are you telling me this, right? Because I pointed out that he was from Special Operations. He said, you know, that he...
+
+01:43:53.506 --> 01:44:22.302
+And his teammates had a mode of refreshing their mindset around particular operations that were, because of the division of the military he was in, et cetera, it was quite varied. It wasn't like they were just sort of doing one type of thing. They had to be very adaptive. And he said that they had to completely wipe away this I am component of their vocabulary, except as it related to the word adaptive. It was like, I am adaptive. So, but there was never a title that
+
+01:44:22.530 --> 01:44:52.382
+who they were, what they were once they entered the context of a planning execution of one of these operations. Very interesting way of thinking about identity, how it shapes mindset, how it constrains it and opens doors and converts things into action or failure to execute. Yeah. I found it very intriguing, you know, because here's a guy who wouldn't normally think of this stuff, but it turned out he said that was a very potent tool for them.
+
+01:44:52.482 --> 01:45:16.990
+Well, I think that as soon as you're learning something and if you have your sense of as if you're going to be the same person over the next 70 years, for example, we don't actually cognize that, but without literally realizing that you're not going to be the same person, you take in whatever you've just learned and
+
+01:45:18.114 --> 01:45:27.294
+Continue doing it the exact same way. You know, we go back to tennis. You learn the game of tennis when you're 15. And now you're 40.
+
+01:45:27.714 --> 01:45:54.718
+You shouldn't be doing any of it the same way. Why do you think we get sick? And now you're 80. Again, and so what happens is your performance is not going to be as good as it could be because the 80-year-old body is trying to do it as if it's a 15-year-old rather than taking advantage of... There are positive things that happen as you get older. They're not all negative. You know, that... I mean, if I'm playing tennis with, I don't know...
+
+01:45:55.362 --> 01:46:24.286
+15-year-old kid, I'm going to win without having to move very much because they don't know what they're doing. So you don't need the same skills the more experience you have with the task necessarily at least. You see what I'm saying is that we freeze our own behavior. The way we learn everything, it just boggles the mind. You learn how to drive.
+
+01:46:24.610 --> 01:46:51.966
+And then you freeze the way you're learning how to drive when you know the least about how to drive. And that's the way you're going to do it for the rest of your life. A driving thing, just as I'm not really apropos of anything except in the car, that if you're driving on ice, what do you do? The car starts to skid. You're driving on ice. In California, you don't pay. I know what you don't do.
+
+01:46:52.194 --> 01:47:15.742
+You don't slam on the brakes. You come off, you slowly come off the gas. I've driven on the East Coast a little bit. That's exactly wrong, Andrew. That used to be the case. You say, so you've heard, this is the way we learn everything. You start on the way things are right now, that when you skid, we were told that what you're supposed to do is gently hit the brake and turn into the brake.
+
+01:47:16.546 --> 01:47:39.902
+Now that there are anti-lock brakes, the only way, the safest way to stop that car is to jam on those brakes. So just think about it because this is the way we learn everything. In this case, you're learning how to drive for safety's sake. And then you mindlessly continue that and it becomes very unsafe. I didn't get the memo.
+
+01:47:40.066 --> 01:48:10.032
+Okay, no, most people don't. That's why I brought it up now, seeming apropos of almost nothing. But we need to understand that things are changing and pay attention to the way that they're changing and change with it. And, you know, the more you hold yourself, you're talking about identity, the more you hold yourself still, the harder that's going to be. You know, I'm much older, as most people are, than I used to be, but
+
+01:48:10.032 --> 01:48:12.702
+I don't have any sense of age.
+
+01:48:12.834 --> 01:48:40.286
+I really don't. In fact, the other day, and the other day now means years ago, I was helping this woman with something, and somebody dear to me said, you know, you're probably 20 years older than she is. I had no sense. I thought I was helping this old person. Age is just not a relevant factor for me. Sometimes you want to be aware of age. We did some research where...
+
+01:48:40.418 --> 01:49:05.214
+We have people who, you know, they're accused in the environment that often tell us how old we are. And those are not always so good. So, for example, if I, at my age, I'm in a fancy store and I go to buy, let's say, a dress, a skirt, okay, it would be inappropriate for me to buy a miniskirt.
+
+01:49:05.794 --> 01:49:31.358
+I'm too old to be wearing almost nothing there, right? So clothing tells you how old the person is. Now, we did research, archival research, with people who wore uniforms. Now, if you're wearing a uniform from the first day you start working, you're there 30 years, there's no difference. Okay.
+
+01:49:31.714 --> 01:49:59.806
+There's no age-relevant cue. And in those situations, are healthier. Really? Yeah, because they're not getting the cue that they're old. I'd like to take a quick break and acknowledge one of our sponsors, Our Place. Our Place makes my favorite pots, pans, and other cookware. Now, I've discussed on this podcast before that the PFASs, or forever chemicals like Teflon, have been linked to major health issues such as endocrine disruption,
+
+01:49:59.938 --> 01:50:29.904
+that means hormone disruption, gut microbiome disruption, fertility issues, and many other health problems. So it's really important to avoid them. This is why I recently fell in love with Our Place products, especially one of their cooking pans, the Titanium Always Pan Pro. Our Place products are made with the highest quality materials and are all PFAS and toxin-free. They're beautifully designed and function extremely well for all your cooking needs. Most mornings I cook eggs in it, I cook ground beef in it, ground venison, and the Titanium Pan is also designed in a way that allows
+
+01:50:29.904 --> 01:50:59.102
+eggs and meat to cook perfectly without sticking to the pan. It's extremely easy to clean. And like all Our Place products, it's nice to look at when sitting on the counter or on the stove. For a limited time, Our Place is offering an exclusive 20% discount on their innovative titanium always pan pro designed to last a lifetime and completely toxin free. Visit fromourplace.com slash Huberman and use the code save Huberman 20 to claim the offer. So if one has parents, let's say who are
+
+01:50:59.266 --> 01:51:21.726
+quote unquote, slowing down a bit. And they're talking a little bit about some aches and pains in there. And there's a stairwell in the house, for instance. And they're starting to say things like, you know, at some point, we're either going to have to move into a place that doesn't have a stairwell or put one of those chair lifts or things or or or maybe just move into the downstairs. Do you think that
+
+01:51:22.146 --> 01:51:50.622
+And just thinking about that, they're going to accelerate the demise of their locomotor ability? Yeah, I do, actually. I think that when we start entertaining these negative thoughts and evaluating ourselves, we're always going to find evidence. As you get older, you start, oh, my God, am I forgetful? So you pay attention each time you forget, and that makes it even worse. When I said to my students in this health class,
+
+01:51:50.978 --> 01:51:59.486
+more kids at Harvard. This is on Thursday. I teach Tuesday and Thursday. I say, what was the last thing I said in class on Tuesday?
+
+01:52:00.290 --> 01:52:30.256
+Nobody remembers. I said, you must be getting dementia. All right. So that when a young person forgets, it's okay. They don't pay any attention to the forgetting. As you get older and you forget, you get less involved in what you're doing. If you're trying to learn something, you have the competing part of you saying that you're not going to remember this and so on. And independent of all of this, I think a lot of the loss in memory has nothing to do with memory.
+
+01:52:30.256 --> 01:52:40.222
+You know, when I was young and you're introducing me to people, I thought it was important for me to remember their names.
+
+01:52:40.706 --> 01:53:07.838
+Andrew, I know, doesn't speak well of me. I don't really care. You're going to introduce me to five of you. What do I care? If I'm going to need their names, chances are I will meet them again, right? So afterwards, if you say to me, remember Jim, and I say to you, which one was Jim? It wasn't that I forgot. To forget means I had to have learned it in the first place. And so if you don't learn it in the first place because you don't care, because you're –
+
+01:53:08.098 --> 01:53:37.790
+values change as you get older, then it's not a matter of forgetting when you don't know it in the second place. And I think that, you know, if we turn it around, because now I'm doing this because I know you expect it of me, and we say, what if you remembered everything? Everything. That would be terrible. How would you get through, you know, you wouldn't get to experience anything new. So forgetting, you know, serves a purpose. And...
+
+01:53:38.306 --> 01:54:07.870
+used to think, I never tested this, and now, we came up with this years ago, and I think it's probably wrong, but it's kind of fun, that people, as they get older, they become hard of hearing. But it also happens that the older you get, the more you realize nobody is really saying anything. And so, being hard of hearing protects you from a lot of that, you know, noise. Yeah, my grandfather used to turn off his hearing. You know, I started where I've always...
+
+01:54:08.130 --> 01:54:38.046
+had glasses for reading at night when my eyes would get fatigued or something. But recently I came to my awareness that my vision at a distance is very, very sharp. I'm like an eagle. I can, you know, read numbers for, you know, very far away. But my vision up close has been diminishing. I find myself straining a bit more even the day. So I started wearing, you know, eyeglasses. Or you should have the book further away. Or you should have the book further away. But, you know, I've just sort of defaulted to eyeglasses. And then, but I realized that because I,
+
+01:54:38.242 --> 01:55:04.958
+understand the neuroplasticity of the visual system, that I'm certainly accelerating the demise of my near vision by wearing glasses. And so I'm trying to, you know, balance the two. Well, do you know our vision study? This is kind of fun. So I'm in the doctor's office and like everybody else, I'm given the Snellen eye chart. The letters, the Snellen is the letters and numbers. Yeah. Okay. And, you know, but I'm different from most people.
+
+01:55:06.914 --> 01:55:36.542
+And I resent that the letters are getting smaller and smaller because it's creating an expectation that soon I won't be able to see. So I ask, what would happen if the letters got larger and larger, which would be to change the expectation that soon I will be able to see? So when we do that, people are able to see what they weren't able to see before. Now, most of us have trouble around two-thirds of the way down the chart. Mm-hmm.
+
+01:55:36.642 --> 01:56:00.190
+What we did was start the chart a third of the way down. So letters are smaller than on top. So now two-thirds of the way down that starting point, the letters are really small. And what happens is, again, people can see what they couldn't see before. Awesome. Yeah. So the idea that your vision has to get worse, I don't know.
+
+01:56:00.834 --> 01:56:13.694
+I think there are many, many instances where that's not the case. But also, the whole test of vision is bizarre. How often in your life are you looking at letters that make no sense?
+
+01:56:13.890 --> 01:56:35.998
+If I don't want to see you, I'm going to see you a lot sooner, be able to run away from you. If I'm hungry, I can see the restaurant sign much quicker than if I'm not hungry. I see things in color that are different in black and white, so on and so forth. And to lose all of that with a two-dimensional eye test seems to me...
+
+01:56:36.354 --> 01:57:03.774
+And again, we haven't touched on this, but it's probably important with respect to vision. It's true with everything. In fact, I tell people, you're wearing glasses. Try it without glasses. You want to see when you can see and when you can't see. With almost everything, we again hold things still when they're varying.
+
+01:57:04.386 --> 01:57:26.398
+Now, what I mean by this is that let's say with vision, my guess is that 11 o'clock in the morning, my vision is better than at 7 o'clock at night. The data, yes. Okay. I mean, it'd be hard for it now. So what does this say? This says maybe I should either have a nap.
+
+01:57:26.754 --> 01:57:45.022
+I don't nap, so I should have an energy bar. And even an energy bar is cute. It's just a candy bar. But you call it an energy bar, you're allowed to eat it. It's like you take a piece of cake, put it in a muffin tin. It's called a muffin. It's healthier than the piece of cake. Anyway, be that as it may. That...
+
+01:57:45.474 --> 01:58:10.846
+control, a great amount of control over our physical well-being comes about by attention to variability, which is just a fancy way of talking about mindfulness. Mindfulness is noticing change. That's what it means to be variable. All right. So if you took your glasses off and you saw for yourself, what are the times, what are the moments that you're having? I'm not talking about people who are
+
+01:58:10.978 --> 01:58:40.944
+almost blind, where I can see and when I can see. And then you ask yourself why. And then it may be the case that it's a particular font or more likely that you're tired and then you have other options. But once you start wearing them, it's like taking a laxative. You know, take a laxative once, it's fine. If you're taking a laxative all the time, you're teaching your body to depend on the laxative. You teach ourselves by some of these...
+
+01:58:40.944 --> 01:58:55.934
+things that are supposed to be helpful, then we teach ourselves to need them in ways we otherwise wouldn't. And so he did this attention to symptom variability with big diseases. So when you have a chronic illness,
+
+01:58:56.802 --> 01:59:23.934
+The way most people understand chronic illness is that there's nothing that can be done about it. Yeah, the word chronic implies that. Exactly. But all it means is the medical world doesn't have a fix. It doesn't mean there's nothing can be done. Now, you have your symptoms of the chronic illness. The presumption most of the time, I would think, is that the symptoms are going to stay the same or get worse. Nothing only moves in one direction.
+
+01:59:24.834 --> 01:59:49.022
+Sometimes it's a little better, sometimes a little... The stock market, if it's going up, it doesn't go up in a straight line, it goes up, down a little, you know, and so on. All right. So when it's better, why is it better? So we do this, we call people periodically, and we simply ask them, how is the symptom now? Is it better or worse than the last time we called, and why?
+
+01:59:49.122 --> 02:00:10.110
+Several things happen. The first, by engaging in the whole process, people feel less helpless. And that turns out to be good for your health. Second, once you start noticing that now it's a little better, or it can even be a little worse, you feel better because you thought that it was always maximally, I'm always in pain, I'm always stressed, whatever it is.
+
+02:00:11.170 --> 02:00:32.926
+or whatever I'm up to. By asking the question, why now is it better or worse than before? You engage in a mindful search. And I have decades of evidence that that mindfulness itself, the neurons of firing, that itself is good for your health. And then finally, I believe you're more likely to find a solution if you're looking for one.
+
+02:00:33.250 --> 02:01:01.342
+So we've done this with multiple sclerosis, chronic pain, Parkinson's, stroke, biggies, and in each case have very positive results. And the good thing about these sorts of things is that there are no negative side effects. And it doesn't mean that you have to stop doing any medical procedures you may be doing. But, you know, you're asking, you're back in charge of your own health care. Why does this hurt now?
+
+02:01:01.954 --> 02:01:31.070
+You know, stress. There are some people who think they're stressed all the time. Nobody is anything all the time. So I call you, Andrew, and I say, how stressed are you now and why? And we go through this over time. And then you find out, you know, you're stressed when you're talking to Ellen Langer. Well, then the solution is easy. Don't talk to me. I've been thinking about deadlines a lot lately. And we hear stories of, you know, people being told,
+
+02:01:31.266 --> 02:01:52.542
+need this done in 15 days. And if people are forced to do it in 15 days, somehow they're able to get it done in 15 days. And certainly there are limits to this. If you told me I need to write 1,000 pages in five minutes, there would be very little on each page. But staying within the bounds of reason of what we're talking about when we say there's a deadline in X number of days,
+
+02:01:53.282 --> 02:02:21.086
+Why do you think it is that our perception of what's possible tends to scale with A, what's been done before, so precedent or no precedent, the four-minute mile, for instance, until Bannister broke it. You know, no one else broke it. He broke it. Lots of people have broken it since and did immediately afterwards. So what do you think about this notion of what's possible in terms of preordained human decision constraints like
+
+02:02:21.282 --> 02:02:44.894
+No one can break the four-minute mile. Someone breaks the four-minute mile. Now we reset to a new reality in time and in sort of capability because I feel like much of what we believe about ourselves is also constrained by our beliefs about the outside world. And as you pointed out earlier, all of that's just a human script that is the play we're all in. Yeah. Yeah.
+
+02:02:47.042 --> 02:03:01.726
+I think that the first part is what guides most of us is what's been done before. And the fact that nobody has done it to me means nothing but to a lot of people. People create theories working backwards.
+
+02:03:01.826 --> 02:03:31.582
+which is they often take what is and then derive rules to explain why it has to be like that. Once you believe it has to be like that, then it doesn't occur to you to do anything other than that. But if we start off with the notions of science that I was talking about before, that it's all just probability, no absolutes, then it wouldn't occur to you to stay within the rigid boundaries.
+
+02:03:33.250 --> 02:04:00.062
+Not the best answer, but the only one that came to mind. No, it's a great answer. I'm trying to think about the use of the scientific method, which is what you use in your lab and in your research. And why it is that you haven't, it seems, challenged the scientific method itself, except at the level of like what hypothesis you're going to test. I mean, in order to do great science, I mean, at some point you need...
+
+02:04:00.162 --> 02:04:30.128
+need statistics you need sample size to be sufficient um you know the the rigor of your studies is as important as the um the originality of the questions you're asking and so it seems that you've you've embraced the scientific method as as at least useful yeah that's that's the key that to me it's a means of speaking to certain people and it carries with a certain gravitas but i by no means feel that it's giving answers that um
+
+02:04:30.128 --> 02:04:58.558
+are any more absolute. Well, as I said before, that all of the answers are probabilities. So it's just a language to use. You know, the counterclockwise study was criticized because I didn't publish it in a standard journal because my assumption of the comp... You know, it's very hard if you're doing something over a week's time to control for every possibility. And...
+
+02:04:58.658 --> 02:05:27.966
+What I was trying to do in that study was to show that vision, for example, can be improved. That lots of the things that people presume are wired in, as you get older, it gets worse and worse. That just doesn't have to be that way. But I'm having trouble remembering now because I know that I was going to write a paper taking the whole
+
+02:05:29.218 --> 02:05:58.942
+science of science apart never did. And if I had written the paper, I'd probably remember what I was going to say and answer your question. Well, it's a good one, but I don't think that there's anything that is described as absolute that's going to be right, whether it's physics, even physics, biology, psychology, anything, you know, that our methods can only take us so far.
+
+02:05:59.042 --> 02:06:28.446
+And the people who get beyond that are the people who don't presume that that's as far as you can go. You know, if you can go this way, you can go a little further. I was a chemistry major when I was an undergraduate. And the problem was I practiced Jewish chemistry, which was a little as good, a little more as better, which is not the way to do chemistry. But I don't know what it is that leads some people to be...
+
+02:06:29.058 --> 02:06:55.166
+rigid and to take everything that is told to them as if it must be and what it is that led me to a different way of being and testing it or just thinking that some of the things that people say just made no sense to me. Not long ago, we went through one of the biggest public health crises of at least my lifetime.
+
+02:06:55.298 --> 02:07:09.438
+least two major controversies arose. One was the extent to which masks should or shouldn't be worn and are useful or no. The other is about the so-called vaccines. And this is a
+
+02:07:09.634 --> 02:07:38.910
+Yeah, and I think those are beautiful examples because, you know, one can make an argument that you should wear a wet mask, but the other side also makes sense. The way masks were preventing, you know, even nonverbal communication, which is very important and important to people's health, right? Your relationships are not an inconsequential part of your well-being. And vaccines, you know, there is no treatment whatsoever.
+
+02:07:39.010 --> 02:07:48.958
+It's going to be good for everybody. Somebody very close to me, if given dexedrine, puts her to sleep. Dexedrine is basically speed. Exactly.
+
+02:07:49.058 --> 02:08:09.758
+And so when we recognize the uncertainty inherent in all of these things, I think we don't mandate things in quite the same way. Now, you can mandate that people wear masks, but it shouldn't be that people wear masks because we're absolutely certain that masks should be worn.
+
+02:08:10.338 --> 02:08:36.030
+other arguments to be made why people should wear masks. Or not wear masks. Or not wear masks. You know, whatever the case is going to be. And, you know, I think it's important that in the medical world, you know, that I think I gave this talk at one point and I thought I was talking to 5,000 women with breast cancer.
+
+02:08:36.258 --> 02:09:05.694
+it turned out there were lots and lots of physicians there. If I had known that, I might have spoken a little differently. I've been in that circumstance. I said, oh my goodness, because I was not flattering. I have great respect for most of these people. But then I found out afterwards that they were thrilled because they know they don't know. Operating on the world with an awareness that
+
+02:09:06.018 --> 02:09:35.038
+can't be sure, leads to a different humility, a different way of appreciating other people when they disagree with you, and so on. And I don't know how you do that at the higher level, you know, government and so on. But, you know, this is maybe a silly example, but meaningful to me. So I spend a lot of time in Mexico, and there's this very busy intersection, right?
+
+02:09:35.810 --> 02:10:00.158
+And there are no stop signs, there are no traffic lights, and there are no accidents. Because everybody knows there's no traffic light, there's no stop sign. You have to pay attention to what's going on. So lots of these rules and laws divert attention to as if there's only one thing that matters. So when you're
+
+02:10:00.258 --> 02:10:24.734
+to drive 60 miles an hour, what does that mean? You know, and, you know, that if you drive 70, you're going to get a ticket. Okay, so if you're not afraid of getting the ticket, but there are other considerations to how fast you might go. You know, the quality of your car, the quality of the roads, is it raining at the moment? How uncomfortable or comfortable the passengers are?
+
+02:10:25.314 --> 02:10:49.150
+And all of this gets, and much more, gets lost by having the rule, 60, as if that somehow is an absolute truth. Yeah, and experience matters, at least in my view. So, for instance, going back to vaccines, right? I'm not trying to create unnecessary controversy here, but it's absolutely clear to me that
+
+02:10:49.314 --> 02:11:10.494
+are people who believe that, for instance, the COVID vaccines were immensely valuable. On the whole, it saved lives, et cetera. And there are other people who are absolutely convinced that the vaccines caused injury, perhaps to them or to people that they know. And both sides, as it were, seem to know a lot about their side. And so the
+
+02:11:10.594 --> 02:11:39.518
+The discussions aren't really discussions because the people that felt that they had a vaccine injury know an immense amount about that injury, the context, and others who had it. The people who had a different experience of the vaccines or have a different stance of the COVID vaccine know a tremendous amount about the statistics and mass of what the general outcomes were as a consequence. Okay, so it's futile, right? Like it's not a meaningful discussion. Yeah.
+
+02:11:39.618 --> 02:12:06.590
+But it didn't have to be that way. We go back to the beginning and in school you're asked a question and expected to give a single answer. Life would be so different for us as we grow up if you gave multiple answers to whatever the question was. That immediately would make clear that there are alternative perspectives. Just a very simple change in schools. Well, then...
+
+02:12:06.722 --> 02:12:32.062
+I'd like to challenge an idea since that seems to be a challenging assumption. One of my ideas, no. No, not one of your ideas. I'd like to challenge the assumption that as people get older, they become more set in their ways. Because many times today I'm hearing that as one, and I'm getting older, I now can say I'm so happy I can say I'm almost 50. I actually love getting older. I feel better now. Me too. I feel better now at almost 50 than I did in my 20s. Yeah.
+
+02:12:32.162 --> 02:12:59.262
+And psychologically and physically. Yeah. And I felt great then. Yeah. So I challenge the assumption that we get worse with age. Yeah, no, I'm with you and I'm much older than you are. So do we get set in our ways or maybe we're more flexible in our thinking? I think that the older you are, let's say you've tried different ways of doing something and there's a particular way that works for you.
+
+02:12:59.778 --> 02:13:25.150
+And it doesn't matter if the other way is faster, is prettier, is whatever. This works. And so you can be seen as set in your way because you've made it because you know it doesn't really matter. I could do it that way, that way, or this way. I'm going to continue to do it this way. I think as you get older, presumably you've had more mindful experience because if you're a robot, you
+
+02:13:25.250 --> 02:13:50.334
+You're not going to be learning anything and getting more set or less set is an irrelevant question. I remember this goes back to the pancreas, my not eating the pancreas. I really believed I had to eat that pancreas to show that I was all grown up. So you get a little older and you realize – I wrote this blog once earlier.
+
+02:13:50.690 --> 02:14:20.656
+long time ago where you're two years old and you fall and you're screaming bloody murder because she scraped your leg. And then you're seven years old and Johnny or Janie didn't send you a valentine and you're distraught, you know, distraught. And then you're 13 years old and you have a pimple and oh my God, you know, no one's ever going to find me attractive. And it goes on and on. And at some point, this was all kind of silly. And, you know, and with that, you become easier. But sometimes that easier
+
+02:14:20.656 --> 02:14:50.238
+can be misunderstood by others. So let me give you an example. And I talk about this in the book. When I talk about three levels, you know, that in the example I use, I have The New Yorker is a wonderful magazine. But let's say we have three levels. Level one, people who don't read The New Yorker. Level two, people who read The New Yorker. Level three, people who don't read The New Yorker anymore. We could have them read it again, but let's just...
+
+02:14:50.370 --> 02:15:13.854
+Okay. Level one, not reading, and those not reading it anymore are very different. But they're seen as the same by the level twos. Level two people are the bane of my existence. All right. So let's say you have, you're young, you're uninhibited. Level one. Then you're like most people, you become very inhibited. Okay.
+
+02:15:14.690 --> 02:15:22.270
+Then hopefully you get to a certain point in life where you say, who cares? And you become disinhibited.
+
+02:15:22.562 --> 02:15:49.182
+Not uninhibited because you know the rule. You're just choosing not to follow it. But those at the level two will see the level three and think they're level ones because you can't see beyond your own level of development. When I was young, especially if I'm on an important show like yours, Andrew, and we just took a break for a minute and if I had eaten something and I got a spot on my sweater, I'd sit like this.
+
+02:15:50.018 --> 02:16:14.302
+Not even realizing how stupid does this look, right? But that no one should see that I got, you know. God forbid you're human, you spilled a piece of food. Who cares? So I do this thing with my students and it's very simple, but it has a very big effect on them. Where I tell them, you can't come to class next week unless you're wearing two different shoes. Right.
+
+02:16:15.682 --> 02:16:45.630
+Very hard. Some won't come to class. Most come. Then a large majority wear two different shoes that look the same, two different black sneakers. And then you have the bold where you're a red and a black sneaker. That's cool. And we talk about nobody even noticed. And if they notice, what are they noticing? Somebody who knows you is not going to judge you differently because you're wearing two different – they can assume there's some reason for it. And those who don't know you don't know you. So what do you care?
+
+02:16:45.954 --> 02:17:07.871
+wonderful young woman. I did this in my seminar as well. That was in the lecture class. She comes in. She says, Professor Langer, you won't believe what happened. I said, what happened? I'm in the elevator. There's this guy. He looks at my feet. He looks at my face. He looks at my feet. He looks at my feet and he points and he says, was that intentional? No.
+
+02:17:08.034 --> 02:17:21.727
+You know what I did? I said, no, what did you do? She said, I looked at his feet. I looked at his face. I looked at his feet. I looked, I pointed to his feet and said to him, was that, you know, and, you know, and,
+
+02:17:22.433 --> 02:17:44.606
+When people recognize that everything is sort of in some sense up for grabs, you know, that none of it really matters. It's so freeing. And there's so many ways that we constrict ourselves. And to make it an answer to your question, hopefully you get older and you realize that most of this, it just doesn't matter.
+
+02:17:45.474 --> 02:18:05.278
+You can learn that when you're younger. All you need to do is recognize that those people who you think are thinking you're ex, there are other people who are going to go, yay, you're ex. That you may love me because I'm trusting. You may dislike me because I'm gullible.
+
+02:18:05.378 --> 02:18:33.278
+So, you know, you can't please everybody, not because your behavior is unpleasant, but because all of it is up for their own definition and you can't control the way they're going to see it. It's like our sense of justice kind of gets in the way sometimes. I mean, sense of justice can be very important in society, so don't get me wrong. But, for instance, recently I had the experience where a news story came out. It wasn't about me. But...
+
+02:18:34.049 --> 02:19:01.886
+And those are the only ones you read, right? It came out and the headline was, well, I'm just going to say what it was, that so-and-so's home, this famous person's home, was destroyed in the L.A. fires. Had a description of what had happened. Had a photograph of the home before and after the devastation. And I immediately got upset because that was not their home. That was my home.
+
+02:19:02.433 --> 02:19:30.046
+Oh, my goodness. Okay. Now, I hadn't lived in that home in a while. So there was no reason for them to say that it was my home. I wasn't upset that they didn't say it was my home. But there was my Toyota 4Runner parked in the driveway. Oh, wow. Like, basically, the whole thing was made up. Yeah. And I actually know the reporter because they had tried to contact me once before. They had somehow got a hold of my phone number, which frustrates me in addition to that. And I realized— That was my fault. Yeah.
+
+02:19:30.146 --> 02:19:59.614
+And I realized they're just making up lies. They're not even attempting to fact check. Now, this was a minor thing whose home it was, perhaps. But they made a bunch of issues around this. And then another article came out about this person and another one. And I basically I don't believe anything that I read, certainly from that particular venue. And then I started to realize that probably half or more of what we read in traditional popular press is just made up.
+
+02:20:00.290 --> 02:20:23.774
+no one's fact checking this stuff because how could they like how could they know and of course i'm not going to pursue this in any kind of legal way i don't really care yeah but my sense of justice is what frustrated me and as soon as i went but what difference does it make that's kind of funny like like this reporter so desperate for a story and to capitalize on the the horrible events like felt that they needed to do and and i thought
+
+02:20:24.258 --> 02:20:38.046
+is like ridiculous and our species is just so weird. This is what I always default to in the end, whether or not it's about technology, about something else. I mean, real tragedies are real tragedies. And when those happen as the fires were, it upsets me. But
+
+02:20:38.722 --> 02:21:06.142
+So much of like what grabs our attention and the drama of things is just humans being ridiculous. Sometimes lying, sometimes in service to one thing or pretending it's in service to justice when in fact it's in service to themselves or a combination of things. And I think as I've hit this, like what I hope is a new vista in my life, I'm thinking to myself like, wow, we're really obvious people.
+
+02:21:06.242 --> 02:21:32.926
+Like we're so obviously silly. Like the game, I bring up Rick Rubin again. He has this saying that he repeats over and over to me. He said like there are only two truths, nature and professional wrestling. He loves professional wrestling. He watches hours and hours of professional wrestling. And I said, why do you do that? Isn't that? He said, it's made up and everyone knows it's made up. But it doesn't matter. Which is why it actually is one of the few things that's real.
+
+02:21:33.058 --> 02:22:00.318
+Because we all know it's made up. So whether or not they become allies or they become enemies in a given match or whether or not somebody breaks the rules and the ref pretends they don't see, it's theater. Yeah. And it's designed to show you the theater that is human nature. Yeah. I never had any appreciation for professional wrestling. But he's right. Yeah. And so once you start looking, it's all made up. It doesn't have to be made up or not. If you ask yourself, what difference does it make? The wrestling. Yeah.
+
+02:22:00.450 --> 02:22:19.614
+know any of it. So it's your house. It's somebody else's house. Exactly. I realized I was the one being ridiculous. I'm upset because there's some injustice. Because what? Because I don't want my forerunner in a news article about someone else's home. Maybe that person had a home that looked very similar. But I guess it was the break with my assumption that
+
+02:22:19.970 --> 02:22:34.814
+The traditional media tries to get things right. Yeah. That they at least try. And in this case, the person clearly didn't even try. They had access to the real information. They chose to lie. If you say there's something to be learned regardless of whether it's true or not—
+
+02:22:35.650 --> 02:22:52.318
+I thought you were going someplace else with this. I thought you were talking about the tragedy of the fire, which is an example I use in The Mindful Body to show that events are not good, bad things.
+
+02:22:52.834 --> 02:23:12.030
+Rather, our view of the event is what makes it good or bad. And so I had this experience. I was at a friend's house for dinner. I come back late, which never happens. And all of my neighbors were outside because my house had burned down. And, you know, just...
+
+02:23:12.194 --> 02:23:40.190
+Okay. A couple of funny things happened. They said they were able to save my dogs, which that wasn't funny. That was wonderful. But they couldn't save the parrot. I said, parrot? I didn't have a parrot. Well, Roger Brown, when he was alive, gave me this stuffed parrot that was in a cage. Oh, my. Okay. As a kid who owned parrots, I was like frightened for a moment. Couldn't save the parrot. Okay. So now I stay at a friend's house. And the next day I call the...
+
+02:23:40.290 --> 02:24:09.726
+insurance company, and the person comes over and he said this was the first time in his 20-year career that the damage was worse than the call. Most people, oh, my God, oh, my God, it's not so bad. Here, I had already lost everything, so it didn't make sense to throw my sanity away after it. Okay, so that was the first thing. I move into the Charles Hotel, and I'm a sight to be seen with my two little dogs.
+
+02:24:10.690 --> 02:24:39.070
+And it's Christmas. All the presents coming in were burned, all the ones going out. It's now Christmas Eve, and I go out for dinner. And I come back to the hotel room, and it's full of gifts. Not from the owner of the hotel, not from the management, but from the so-called little people, the chambermaids, the people who park my car, the waiters and waitresses. I'm
+
+02:24:39.298 --> 02:25:01.950
+Sandra, I tell you, I could not tell that story for months, maybe years, without it bringing tears to my eyes. It was beautiful. Every Christmas, I'm reminded about what feels to me the basic goodness of people. And I couldn't tell you except for one thing, what I lost in that fire. So, you know. One stuffed parrot.
+
+02:25:02.082 --> 02:25:27.518
+No, no, that – I don't remember that until right now. No, it was kind of fun. I was teaching – going to be teaching, you know, as soon as school began again, a large lecture class and all my notes were burned. So, oh my God, what am I going to do? And so what I did was I called a student who got an A in the course the year before, borrowed her notes, and
+
+02:25:27.618 --> 02:25:53.438
+And admitted those and taught the course. And it was the best course I ever taught because I was not relying on anything that I would then repeat in any absolute – I was totally there for each lecture. What do you think it is about hard events that are life-changing that anchor our –
+
+02:25:53.698 --> 02:26:03.742
+mindfulness. No, no. I don't think that they necessarily are. I think that, you know, if something happens, you know,
+
+02:26:04.258 --> 02:26:31.262
+take advantage of it and learn something from it. And, you know, so there's data, not from my lab or yours, but that people who have heart attacks and you live through a heart attack or a stroke, all of a sudden you realize, gee, this is not going to go on forever. I've got to start living. And it's a shame. I mean, I think most people are sealed in unlived lives. And, um,
+
+02:26:31.682 --> 02:26:58.942
+that you need a heart attack to wake you up or somebody else's death. My postdoc advisor, well, all three of my advisors died, suicide, cancer, cancer. So the joke is you don't want me to work for you. And I was very, very close with the middle one, but the last one as well. And he died of pancreatic cancer, as it were. And he died of pancreatic cancer, as it were.
+
+02:26:59.554 --> 02:27:21.406
+we did multiple Feshthrifts for him, celebrations of life, right? You know, there's like an academia, they can't get enough Feshthrifts and this, you know, and I'll never forget Ben getting up his, the celebration of life in front of all the big ups at Stanford and all these people and editors flew in. I mean, they were like over 200 people there, president of Stanford was there. And he said, you know, if I had, if I had known that,
+
+02:27:22.050 --> 02:27:49.086
+was going to be so celebrated and that people were going to be so kind to me, I would have, you know, died a lot earlier, you know? That was the first thing he said. And the second thing he said is, you know, if I could do it over again, you know, one of these, if I could do it over again things, he said, I would have never agreed to review so many papers, review so many grants, and I would have eaten a lot more sushi and a lot more ice cream. And that was it.
+
+02:27:49.250 --> 02:28:19.216
+he had a good relationship with death. I interviewed him for hours, even before I had a podcast. Yeah, I don't think people, when people are afraid of death, I don't think it's really death that they're afraid of. They're afraid of pain and having no control at that moment. The old people I know, studying this for so long, I know lots of very old people. None of them seem to be afraid of death. In fact, I ended my counterclockwise
+
+02:28:19.216 --> 02:28:42.334
+book with a conversation I was having with a friend who was 90-something. And she said, you know, Ellen, I'm not afraid of dying, but living is such fun. And I think that that's the way most of us should be. But there's something I wanted to say that we touched on before, and I don't think it's not really relevant now, but you'll find a way to
+
+02:28:42.498 --> 02:29:10.014
+I'll find a way to make it relevant, about spontaneous remissions. You know, I said that with my mother there was a spontaneous remission, and the medical world can't study spontaneous remissions or doesn't study. So they seem infrequent. And I think, you know, that how frequent does something have to be to give people a sense of hope that it's possible? Yeah.
+
+02:29:10.946 --> 02:29:35.646
+know, I don't think it has to be an everyday occurrence. Of course, the more frequent it is, the more likely. But when I think about spontaneous remissions, I personally think that they're much more common than the medical world is likely to believe. You know, once you're in a hospital, life is very different from the way...
+
+02:29:35.938 --> 02:30:03.486
+health is once you're out of the hospital. I don't mean that you're sick in one case and not sick in the other, but the attention that's given to it, the degree to which things become self-fulfilling prophecies. I think that if you believe that cancer is a killer, which is what people used to believe, then I think there are many ways that the cancer becomes a death sentence.
+
+02:30:03.938 --> 02:30:20.222
+You know, that the body learns to, well, you don't, even in a very mundane way, if you think you're going to die, you don't do those things that keep you alive. You know, you're not going to go out and get exercise, for example, if you thought that was good for you. I'm going to die anyway.
+
+02:30:20.546 --> 02:30:50.512
+The will to live is a very interesting thing. These super agers, the people that fall into that category. I hate that. No, I'm sure. Super memorizers, super tasters. As soon as we make a group of people the super group that says that whatever they're able to do is not available to everybody else. And I don't think that there's any evidence for that. Yeah. Well, I align with you on that stance. I mean, I use the name only because they're sometimes referenced as such. But –
+
+02:30:50.512 --> 02:31:19.166
+A focus of the podcast recently has been to emphasize that in that group and others, there's a brain area that's available to everybody because everybody has it, which is this anterior mid-cingulate cortex, which is activated when people embrace new forms of learning and challenges. And it does seem to correlate with maintaining cognitive function into later age. And it's roped into, excuse me, neurally it is roped into. It's linked up with the dopamine reward circuitry and other circuitries in a way that it's
+
+02:31:19.298 --> 02:31:42.942
+it somewhat to this notion of the will to live being related to the embracing new learnings or at least new challenges. You know that there was a story way back when. So there is this mental facility and people are on what's in their vernacular called the hopeless ward.
+
+02:31:43.874 --> 02:31:59.454
+And then they wanted to renovate the ward, so they move all of the people. So you're in the hopeless ward, now you're in a hopeful, you know, without it being called that. Then the renovation is finished, and people are returned to their old rooms, and many unexpected deaths occurred.
+
+02:31:59.554 --> 02:32:28.350
+This makes me wonder why we have names for hospitals like Hospital for Sick Children. Yeah. I've always been bothered by that title. Sorry for anyone that's been treated there and had a great experience because I imagine it's a great hospital. When you read The Mindful Body, I talk about a mindful hospital, which would be different from the ground up. And I'm now trying to – in Mexico, Canada, and –
+
+02:32:28.962 --> 02:32:51.518
+the states, Minnesota, trying to put up at least start with a mindful emergency ward and then become a whole mindful hospital. It should be very different. I mean, for the reasons that I'm presuming you're getting that. But, you know, do you know anybody who's ever walked through a hospital door that isn't stressed? I mean, no. Only walking out. Yeah.
+
+02:32:51.618 --> 02:33:19.486
+Yeah. No, but I believe that stress is by far the major killer. It's a very extreme position, Andrew. I was going to do this work with people in China before COVID. We take, let's say, a few hundred people who are just diagnosed with cancer, buried with cancer, and we find out how stressed they are. And nobody's going to be happy being told they have cancer. So we give them a little while. It's given three weeks to adjust to it.
+
+02:33:19.682 --> 02:33:34.462
+Then we measure this stress level every three, four weeks. I believe the stress level will predict the course of the disease over and above nutrition, genetics, and treatment.
+
+02:33:34.658 --> 02:33:59.230
+And stress is psychological, which takes me back to how all of this can be controlled by our minds. But anyway, so you go to a hospital, the first thing you are is stressed. You have the people working in the hospital who, especially during COVID, but it was always the case, suffer an enormous amount of burnout. Well, what is burnout? You don't get burnout if you're mindful. Right?
+
+02:33:59.362 --> 02:34:14.942
+You know, if I'm seeing you every day and I'm presuming you're the same, Andrew, I've seen before, your symptoms are basically the same. How are you, Andrew? I take your temperature. Everything is pretty much the same. It can be exhausting because I'm not getting anything.
+
+02:34:15.554 --> 02:34:39.902
+on the other hand, I'm noticing all the new things about you, then I'm being fed and my neurons are firing and I'm not going to burn out. Then we have lots of simple things. So when I was talking to Atul Gawande, he did some wonderful work on checklists. And, you know, in surgery, for instance, if they have a checklist, there are many fewer errors that are made. But he had just
+
+02:34:40.130 --> 02:35:07.838
+know, sent the last draft to the publisher so he wasn't going to be able to change it. I said, we need a mindful checklist. What is a mindful checklist? And you remember when we used to travel and you come back to the States and you had to fill out these forms and you're bringing any livestock. No, do you have any fruits and vegetables? You answer three of these and you don't answer any of the other. You just know it's no, no, no, all the way down the list. So a checklist and even the checklist in aviation, you know, the population,
+
+02:35:07.970 --> 02:35:30.910
+co-pilot flaps up, throttle open, anti-ice off, it becomes mindless. So remember the plane that was going from the Air Florida flight, going from Florida to Washington, D.C., so that's one warm climate to another warm climate, and they go...
+
+02:35:31.010 --> 02:35:54.110
+The point of it is that a checklist, well, better than no checklist, there's a better than better way. We talk a lot about that in The Mindful Body.
+
+02:35:54.242 --> 02:36:24.208
+So not, is Andrew in bed? Yes. What position is Andrew in, in the bed? You know, does Andrew have two eyes? But, you know, how much liquid can you see? So not yes, no, going beyond yes, no. Where you can only answer the question if you're actually looking at the person. So then you're noticing. Now, the wonderful thing about that is if I'm noticing you and being mindful of the person,
+
+02:36:24.208 --> 02:36:53.950
+about aspects of you, you feel noticed. And that's the way you feel cared for. And then the relationship grows. It keeps coming back to powers of observation, asking questions, depth as opposed to speed. Yeah. These seem to be the kind of basic contour. Yes, but it all follows from recognizing you don't know. So how do we get people to actually look for the changes? Yeah.
+
+02:36:54.402 --> 02:37:23.198
+people. When I was talking about attention to symptom variability, and I said before, imagine you're with somebody who is, you think they're losing it, they're forgetting. Now, if you think they're forgetting, you become intolerant every time they forget something because you forgot that it's not willful. They really just don't remember, number one. Number two, the only time you're paying attention is when they're forgetting. So you've not attended to all the times they're remembering.
+
+02:37:24.002 --> 02:37:51.422
+The problem seems worse. But if you were in fact attending to when are they misremembering, what are the circumstances, and you catch it early, you say that the person doesn't forget everything. They forget, I don't know, questions about restaurants, for example. Well, then, you know, probably they don't care. I'm going to be happy. I'm an eater. I'm going to be happy wherever we go.
+
+02:37:51.586 --> 02:38:19.230
+And so unless we're going to some place that's phenomenally expensive or we have to travel, whether we went to restaurant A, B, or C, I might not remember. For you, since you're very discerning, you're going to know you had a wonderful meal here and a horrible meal in the other three places. So for you, it matters. The point is when somebody doesn't know, why don't they know? And if you immediately assume it's because of dementia,
+
+02:38:19.394 --> 02:38:46.430
+You have a catch-all and are missing all of the subtleties that, in fact, would lead to different diagnoses. And so if the same thing in the nurse or doctor attending to the patient, if they're attending to the changes and asking themselves why, the smaller changes and the things that are not changing. I had a student many years ago who had MS, MS.
+
+02:38:46.530 --> 02:38:49.950
+And when somebody would ask her how she is, she's great.
+
+02:38:50.434 --> 02:39:20.400
+And then one person then said, but how could you be gracious? My arms work. My head is working. And went through all the parts of her that are not suffering. So you can always attend to what's wrong. You can't attend to everything. You know, playing tennis. You could attend to the wonderful shots you made. You can attend to the faults. And that's going to lead to very different states, right? If I attend to every time I hit that ball in a way I didn't think I could hit, I'm going to learn some.
+
+02:39:20.400 --> 02:39:45.982
+I'm going to be motivated to try it again. If I attend to every time I screwed up, I'm going to be embarrassed. I'm going to be afraid to expand and experience new things. I feel like— I've just combined 12 different areas. Yeah, and masterfully. And masterfully, yeah. Masterfully. And what I realize is that we're always to some extent in choice.
+
+02:39:46.178 --> 02:40:07.038
+they say. And I think to some people that will feel freeing, like, you know, I'm always in choice. I can, my house burned down. Well, you know, who knows what newness that will bring these kinds of things. But to some people. Only if they believe that there's a right answer. If you don't believe there's a right answer for
+
+02:40:07.170 --> 02:40:36.894
+If you believe there's a right answer, you want someone to give me that answer. Which surgery should I have? Oh, my God, I'm supposed to have a house, the house burned. You know, life is over. But if you realize that any experience is only experience through you and provides opportunities. I can certainly adopt that. I also can feel the parts of me that I assume are what other people experience as well, which is that when one has so many experiences
+
+02:40:37.154 --> 02:41:06.302
+of freedom over how to respond, that itself can feel a bit overwhelming. No, of course. So when Eric Fromm wrote Escape from Freedom, it was that same idea that you can be paralyzed by so many choices. But I think that's wrong. I think you're only paralyzed by the choices if implicitly you believe there's a right and a wrong choice. And when you recognize that they're all equal, it just doesn't matter. It's easy to choose them.
+
+02:41:06.562 --> 02:41:29.150
+it's choose your own adventure exactly yeah and that or make whatever you're doing an adventure you know if i can't be near the one i love i should love the one i'm near at one time that was considered uh okay nowadays well nowadays there are a couple things that are more complicated i would i would argue one earlier you mentioned coddling of people that are you know
+
+02:41:29.250 --> 02:41:57.374
+elderly. I hate that word now that I'm 77. Well, you are. But I'm a super senior. No one would guess that you're 77 and yeah, your vitality is undeniable. This notion of coddling, you know, Jonathan Haidt wrote the coddling of the American mind, Anxious Generation. I have to wonder what it's like for kids growing up nowadays and teenagers constantly being told about this disorder and that disorder and the idea that
+
+02:41:57.634 --> 02:42:25.534
+know, if you meet five out of 10 of the, you know, menu of criteria that you are, you might even be this thing. You are blank as opposed to just having blank or struggling with blank. Everything is, yeah. Yeah. And we certainly over prescribe medication in this country, certainly compared to other countries. You know, the vast amount of antidepressant and anti-anxiety medication is consumed in the United States. And certainly those medications can be valuable for people.
+
+02:42:26.082 --> 02:42:54.526
+I would argue, but they are over prescribed. I would also argue. So my question is, if one grows up being told that they are fragile, that there's threat everywhere, or even that there's threat everywhere on social media, let's just like push into that, into that dent a little bit too, because that's Jonathan's idea. You know, sitting here talking to you that now has me thinking, well, maybe I,
+
+02:42:54.946 --> 02:43:24.766
+My 18-year-old niece is perfectly capable of navigating this online landscape, and it's just me who's not capable of it. And so I'm going to decide that she's struggling. But maybe kids aren't getting enough physical activity, one could argue, on the basis of data. But do you see where I'm going here? When one can kind of pivot to different lenses to look at something through, it increases the number of options. But then at some point we have to decide, are we coddling our kids too much or are we not coddling them too much?
+
+02:43:25.186 --> 02:43:54.046
+It reminds me of an argument back, I guess, when I was your age. And the question was violence on TV. And were kids being exposed to this violence, becoming more violent? And I never quite understood it because if you were my child and we were sitting there watching this violence, I'd go, oh, and you would see that my reaction to it was negative and you'd learn –
+
+02:43:54.210 --> 02:44:21.054
+not to engage in that or to recognize the effects on other people. What I'm saying is that rather than the medium being the message, the medium, you know, people say to me, is technology good? Technology isn't anything, the tools. And if they're used mindfully, they're good. If they're used mindlessly, you know, they're not good. And
+
+02:44:21.154 --> 02:44:40.510
+And so I think it's silly. You know, there's data showing that kids who are college kids, for example, who use a lot of social media, have lower self-esteem and all of this. You know, and I present this to them and I say, this is silly. You're not now going to...
+
+02:44:40.610 --> 02:44:53.022
+off Facebook because of these data. But let's look at it. You're Harvard students, for God's sakes. Why is it that you're only going to post the picture where you look the prettiest, talk about the, you know,
+
+02:44:53.218 --> 02:45:22.814
+Have the nerve to turn it around. Hey, would you believe what I looked like last night when you're having that bad hair day or something didn't go well? Just have the guts to do that. So it's not the social media. It's the lying that – or the mistaken assumption when you see all of the successes that that's the more general truth. Everybody but you is having these successes. Yeah.
+
+02:45:22.946 --> 02:45:41.054
+Yeah, certainly social media gives a literal score for followers and likes and things of that sort. So it's thumbs up, thumbs down. I mean, literally scoring performance in terms of what other people think. It's certainly training those circuits very robustly.
+
+02:45:41.282 --> 02:46:08.702
+If people learn the three levels that I was explaining before, then you'd see that what looks like it's not very good, in fact, may be quite something. You know, you have people who are poor and they can't spend a lot of money on their appearance. And then you have everybody else who's spending a lot of money on their appearance. They have some of these very, very rich people who, you know, I had this...
+
+02:46:08.834 --> 02:46:35.326
+editor for mindfulness, wonderful woman. She has recently died. And the first time we went out, this is when I was young and it was wonderful how they're going to send me all these free books and they take me out all the time to get me to publish with this company, it's both of that company. And I'll never forget this. We go for this meal and she looked poor.
+
+02:46:35.906 --> 02:47:02.494
+I didn't eat anything. I chose the cheapest thing on the menu because I knew she was paying – I found out she was one of the richest people in New England. So that's the level three where you have so much, you hide it and – Well, this is interesting because when I was growing up, unless people had money to purchase things, they would drive older cars and things like that. With credit, that changed. Yeah. And –
+
+02:47:02.690 --> 02:47:28.414
+I have friends who like to wear very, very fancy watches. I also have friends who have far more money than them and choose to wear no watch. So it's getting harder to discern, except at the extremes, of course. It's getting harder to discern who has what, and maybe that's a good thing. Again, at the extremes, it's obvious. The homeless issue in Los Angeles and everywhere in California is so...
+
+02:47:28.514 --> 02:47:52.222
+so troubling and so sad what's happening. But setting that aside, I think nowadays we have less information about people's values even just by looking at them. When I was growing up as somebody wore a particular T-shirt with a particular band, you kind of knew if you were part of the same group, all of that's gone now. It's all leveled. But people could be asked at any stage, why is somebody –
+
+02:47:52.450 --> 02:47:59.838
+Why are you dressed this way? Why is somebody doing what they're doing? And when asked now, you're only given a single answer.
+
+02:47:59.970 --> 02:48:29.086
+when you're given multiple answers, you see the three levels, you know, they're doing it for this wonderful reason, for this awful reason. It has this meaning, that meaning. And that's what you want, things to be obscured. You don't want to be pigeonholed. Because if you think you know what I'm going to say because of this belief of who I am, you're not going to listen to me. And then we're not going to have a conversation that's going to be interesting. And that's a waste. I know that you're not a fan of
+
+02:48:29.346 --> 02:48:54.910
+particular activities as a way to increase longevity or particular activities as a way to increase mindfulness. But could we say that having somewhat of a mindset of playfulness with ideas and one's environment could potentiate longevity? So I have these lyrics in the books. A friend of mine, Zoe Lewis, wonderful entertainer, and she sings a song that I just love, You're Never Too Old to Be Young.
+
+02:48:55.170 --> 02:48:59.966
+And sure, I think that one should be playful.
+
+02:49:00.162 --> 02:49:30.128
+Now, a side effect of that is I think you'll be happier and healthier. And if you're happier and healthier, I think you'll live longer. But the reason to do it, the problem with most people now is that everything they're doing is for some other reason. I'm taking this medication so that eventually. I'm going to the gym so that eventually. I think who knows what's going to happen eventually. I feel lucky that I enjoy exercise and always have. But if I didn't, I don't know.
+
+02:49:30.128 --> 02:49:40.030
+Oh, how do you get yourself? Yeah. I don't like exercise. That's exercise. I was telling somebody the story actually just yesterday.
+
+02:49:40.162 --> 02:50:03.038
+I was visiting friends many, many years ago in Vero Beach. And they said in the morning, let's go to Captain Jack's. I'm thinking, Captain Jack's, it's going to be breakfast. And I'm thinking, I'm going to have a big breakfast. Why not? I'm going to take a long walk to get there. And, you know, I'm very excited. So we get down to the beach and we're walking to Captain Jack's. And then there's this stick in the sand that says on it, Captain Jack's.
+
+02:50:03.170 --> 02:50:33.136
+it is was the end point to our walk you know well for me uh if i had known the walk was just for the walk i probably would have enjoyed it much less you know that um if i'm in paris and shopping or window shopping i walk you know 10 miles a day and enjoy myself thoroughly but if you said let's go for a walk of even five miles and it's just to walk now this is mindless i'm not suggesting this is a good thing but um
+
+02:50:33.136 --> 02:51:01.310
+you know, activities that are meant to be fun and that are easy to engage and are fun will be good for you. And if you see it as exercise, if you're doing it for some other reason, it's a shame because even the exercise for exercise sake should... I won't do it if it isn't fun. I don't know if that's a privileged position. But now, that's not that...
+
+02:51:01.442 --> 02:51:29.022
+You know, I say I won't do it if it isn't fun. I think that this is something that I do well is to make almost anything be fun. Well, that's a great skill. Yeah, yeah. I was talking to my mom last night and she was saying, you know, not much is happening here. And I kept saying, no, like, tell me, what are you guys up to? It had been a while. And she said, well, I don't have this, like, big exciting life, you know. And I said, what's going on? And she said, okay, well, if you really want to know, there's this new plant.
+
+02:51:29.186 --> 02:51:57.470
+Yeah.
+
+02:51:58.018 --> 02:52:24.638
+I was interested in what was going on in her garden. And so what was trivial to her was actually interesting to me and it represented a really good bridge to a number of things. I have to say that we were talking earlier about how one frames past, present, and future. I don't know if we were talking about it in that way, but in thinking about age, longevity, and what's possible, the word that came to mind that
+
+02:52:25.250 --> 02:52:43.454
+like to just pressure test a little bit is nostalgia. And I have this feeling, and I hope I'm wrong because I've been wrong about most things today in a way that I'm learning from, that nostalgia can be perhaps kind of a dangerous line of thinking. This idea that things used to be great. Oh, yeah.
+
+02:52:43.714 --> 02:53:13.680
+now they're not why can't they be like why can't they what and i thought to myself what a terrible um sense or emotion but um and it led me to some practical questions like should we go to high school reunions um and i thought well no if we're all we're gonna do is uh you know uh embrace nostalgia yes if it makes us feel like we're 19 again exactly um this kind of thing and and here you can substitute reunions with should i look at photo albums yeah like like i don't know how i feel about photos from the past i
+
+02:53:13.680 --> 02:53:20.894
+I used to collect them and cherish them. And now sometimes when I look at them, it just makes me long for something.
+
+02:53:20.994 --> 02:53:47.102
+And I think I need to learn how to pivot through that. So what are your thoughts on nostalgia and just notions of how we think about our past in general? I don't think they're very different from what you've already covered. In that fire, I lost all the photos. And it didn't occur to me that I had lost all of them for years because I didn't look at them. So I could help a lot. I thought a lot of that's very true. I think...
+
+02:53:47.618 --> 02:53:53.118
+You know, when I was young, some of my friends were keeping a diary.
+
+02:53:54.018 --> 02:54:19.614
+And I never kept a diary. And so then my feeling was I'd rather just be living than recording. But it depends on how you record it. If you're reliving it while you're recording it, then you're living. It's the same thing. You know, one activity is really no better than another if you're doing it mindfully. Now, this is hard for people to accept. And if I say to you that if you're cleaning a toilet,
+
+02:54:19.842 --> 02:54:36.638
+that the distinctions you're drawing are no better or worse than if you're trying to come up with a theory of relativity or understand Einstein's theory of relativity. A distinction is a distinction is a distinction. And so that's why these...
+
+02:54:36.770 --> 02:55:04.990
+little things that you're noticing, your mother's weed is no less important, although she thought you might see it as less important, than you're having just interviewed somebody that she thought was phenomenal. Once you notice, you notice, and that's the whole ballgame, and there's always something to notice. And if you're noticing it without the stress overlay that some people add to the
+
+02:55:05.090 --> 02:55:27.198
+lives, which I can't understand. It's no different from a game. You know, I use this example and I think that my students must think I'm crazy. And so if I believe that, I should come up with a different example. But you're flossing your teeth. Now, you can floss your teeth mindlessly.
+
+02:55:27.778 --> 02:55:56.766
+in which case you resent being there, you're spending the time because you're thinking that it's good for you, but you'd rather be doing something else. You're not there, you're flossing, but your mind is thinking about a party you're going to go to, for example. To me, make it fun, it's so easy. I mean, you play little games, like can I predict how much junk is going to come out as a fun, and which teeth, which part, you know,
+
+02:55:56.866 --> 02:56:18.302
+Everything can be made into a game. I had this – you can maybe figure out how to bring this product to market. But it was called – I have so many of these. It's called WeGo, a way of training your child to use the toilet. And so it's not very hard. We'd sell. You could sell them.
+
+02:56:18.434 --> 02:56:47.390
+little vials of chemicals that when you add it a few drops to urine it changes color but so each of these vials will change the color uh to a different color and the adults would buy that yeah and the kid is you know has to guess either to the parent or just for themselves you know is this going to be yellow green blue you know what it becomes fun um gamifying um things is one of the the great pleasures of parenting yeah you know and earlier you were talking about what
+
+02:56:47.490 --> 02:57:13.982
+your grandkids call you? Cosmic leader. Cosmic leader. But you can play these games with them and then they reach their adolescent and teen years and then they claim they don't like those games. But as a former child and then teen, now I delight in some of the games that my parents played with me when I was little because it brings me back to the notions of imagination. Yeah.
+
+02:57:14.370 --> 02:57:37.374
+No, I think that one of the worst things that the world teaches us is that we have work and we have play, as if these are two distinct categories. In fact, I think if you were to ask somebody just one question to determine how mindful they are, it might be, how much do you need a vacation? Right.
+
+02:57:38.434 --> 02:58:07.358
+I mean, I've never taken one. No, but need and want are two different things. And if I really need a vacation, that means my working is being done mindlessly. And that's a shame. If you can't find a way to do it so you enjoy it, go someplace else. It's not worth the price you're paying. And for people that say, well, that's a luxury. I need to work in order to survive and feed my family, et cetera. How does one reconcile that?
+
+02:58:07.778 --> 02:58:10.398
+Well, then learn how to make it fun. Mm-hmm.
+
+02:58:11.106 --> 02:58:41.072
+You know, that anything can be made. It's fun. Just you make it a game. You try to figure out, guess what's going to happen. Can you do it differently from the last time? Can you do it with your eyes closed? I mean, you know, it's fun. You know, get down on, not related to your work, but you get down on all fours and see the world that your cat or your dog sees. You know, close the lights and see what it's like being blind. Try to get through the day without hearing.
+
+02:58:41.072 --> 02:59:10.206
+I wanted to do this thing 50 years ago, which was to create a building that simulated old age. And so if you took the 50-year-old and they spent even a short time in that building where it's colder than usual because there's less oxygen in your blood, your field of vision arrows, that they would expand each of their abilities.
+
+02:59:10.690 --> 02:59:32.062
+At a time that it's easy. But the problem with that was a 50-year-old doesn't want to imagine being 80 years old. You've done some beautiful studies on healing and time perception. Could you just describe that experiment? Sure, sure. I love this paper. I love this experiment so much. Peter Ungle and I did this when a graduate student. We inflict a wound. Now, it would have been...
+
+02:59:32.162 --> 03:00:01.406
+dramatic if we could really cut you up. But we're not sadists. And even if we were, the review committees wouldn't let us do it. So it's a minor wound, but it's still a wound. And we have people individually sitting in front of a clock. Unbeknownst to them, for a third of the people, the clock is going twice as fast as real time. For another third of the people, it's going half as fast as real time. And for the last third, it's going real time. And the question is,
+
+03:00:01.698 --> 03:00:25.150
+people would assume that wound's going to heal how that wound heals has nothing to do with the perception of time. But it turns out that it healed based on clock time. Now, when you add that to some of the things that we've already said, you end up with a very different picture. You broke a ROM and you asked the doctor, how long is it going to take to heal? How does he know
+
+03:00:25.826 --> 03:00:52.094
+I mean, it's a ridiculous question. Lots of people have broken arms. You know, even if this were somebody who studied broken arms and he stopped studying yesterday, today there are new people with broken arms that might have different rates of healing. But people give an answer. And depending on the way the doctor gives that answer, I think it's important. The doctor says it's going to take you, and I'm making this, I don't know how long it'll take, it's going to take you a month.
+
+03:00:52.194 --> 03:01:18.526
+You organize yourself in such a way that it's going to take a month. But I think if the doctor instead, which is what I would recommend, said, we really don't know. Some people heal faster than others. The fastest healing time that I personally know of is, let's say, two weeks. And if you can heal faster than that, then good for you. And if not, it's fine also. Okay.
+
+03:01:18.914 --> 03:01:46.014
+there are advantages to not healing that people don't realize. You know, if you've broken your right arm and it's taking a long time to heal, that means you're using your left arm. And if you're using your left arm, you're exercising the right side of your brain, which is going to be good for many tests. I don't know how we ended up right-handed or left-handed. Are you ambidextrous? I'm right-handed. I
+
+03:01:46.146 --> 03:01:54.846
+I'll occasionally go into hook righty, but I'm a righty. My dad was naturally left-handed. They forced him to be right-handed. Oh, interesting. Because I'm...
+
+03:01:54.978 --> 03:02:23.230
+sort of ambidextrous, mostly right-handed. But people don't realize that if you're using your right hand, it's controlled by the left part of your brain, your left hand, the right part of your brain. And wouldn't it be nice to exercise both parts of our brain? And so we're doing research where we get people. This is really interesting because it's not just using. So this work was begun, gosh, I can't tell you how many years ago, and for one reason or another, never got finished. And
+
+03:02:23.330 --> 03:02:51.742
+Initially, it was just getting people to use their right or of a left hand. Now it's more sophisticated where it's using your left hand with an awareness that you're using it or not. And I think that the effect on the brain will only obtain if you're aware. Oh, this fits so beautifully. I don't want to spend too much time on this, but I'm, and you're probably aware of these experiments, but just for sake of our listeners, um,
+
+03:02:52.194 --> 03:03:13.118
+You probably know that your colleagues at Harvard, David Huell and Torrance and Wiesel, won the Nobel Prize for brain plasticity, critical periods of vision, et cetera. And they had this sort of doctrine that they stated in the 80s and it lasted until the, gosh, until the early and mid 2000s that there was no significant brain plasticity involved.
+
+03:03:13.250 --> 03:03:39.134
+adult humans that it literally shut down. Mike Merzenich and a guy named Greg Reconzone at UCSF did these beautiful studies. I'll try and describe this really quickly, where they would have their subjects pay attention to little bumps on a rotating drum of different coarseness or fineness. And then there was a tone playing in the room. And if they were told to discriminate when the bumps were changed from
+
+03:03:39.362 --> 03:04:01.886
+to just slightly less coarse or more coarse, the subject would signal, okay, that happened. And then over time, the area of the brain responsible for touch in adults expanded the map of that. So adult plasticity. What was very interesting, however, is if they did the exact same thing, but they were told to attend to slight changes in the frequency of the tone,
+
+03:04:02.114 --> 03:04:28.350
+it didn't matter what they were doing with their fingers. The auditory cortex changed and the somatosensory, the touch map didn't. And so it's proof positive that it's not just a behavior in adulthood, but the combination of behavior and awareness of the shift in perception that drives adult plasticity. And I find those studies to be, well, first of all, they aren't discussed enough. That feature isn't discussed enough. And second of all, it basically says that,
+
+03:04:28.514 --> 03:04:35.198
+Awareness is the gate to brain change. Sure. And I think that fits perfectly with everything that you've been talking about.
+
+03:04:35.330 --> 03:05:05.296
+I don't see how it could be otherwise, actually. But to go back to the doctor telling you how long it's going to heal, it tends to be now a self-fulfilling prophecy. So given that doctors have this influence over us, they need to be more responsible in the information they're given. And we can't know how long it's going to take to heal. People today are different from people 20 years ago. They ate different things. The activities were different. The air was different and so on. And so
+
+03:05:05.296 --> 03:05:19.966
+from where these norms derived. In fact, whenever I speak to anybody, I get lots of calls from people who were given these dread diagnoses. And the first thing I tell them is, it takes so long to do these studies.
+
+03:05:20.834 --> 03:05:42.046
+Then it takes forever to analyze the data. And then it takes another forever to publish it. And then eventually when you're going to hear about it, it's already old news. So the information you're reading now was true for people who lived 10 years ago. 10 years is a lot.
+
+03:05:42.210 --> 03:05:53.182
+A lot of things happening. And always with the intention of getting people to be less absolute in their understanding of any of this.
+
+03:05:53.314 --> 03:06:21.374
+that they can imagine all sorts of possibilities. But, you know, even the thing that I just said a moment before, that it's important for people to realize the advantage in using their, you know, their left hand if they're right-handed or their right hand if they're left-handed. And then at the same time, recognizing that when they break a leg, when somebody breaks a leg, that forces you to
+
+03:06:21.474 --> 03:06:50.302
+do everything differently. And if you attend to that, that can be a wonderful thing. You know, I don't know how I got to see these things. It's very strange to me when I think of what things have influenced me. I don't know how old I was, Andrew, but I'm watching this thing on television and there's this woman who has no arms, who's got a knife between her toes, who's slicing a tomato. And, you know, it's a lot of years
+
+03:06:50.562 --> 03:06:56.446
+I've seen and done a lot of things, but for me to remember that and that –
+
+03:06:56.578 --> 03:07:22.750
+Even when we're taught to do something, we're taught a single way. It's so much more fun to be taught multiple ways. I mean, when I hurt my right arm, I'm playing tennis poorly, but I'm still playing with my left hand. We have such a deficit model of life. Yes, yes. And this also fits with the Kahneman stuff, right? That people work much harder to avoid a loss than they will for a gain. And it seems to be...
+
+03:07:22.914 --> 03:07:49.534
+See, now that's interesting because when I go to teach that, I have so much trouble keeping track of what's the loss and what's the gain because I don't see the world that way. You've transcended the typical notion of loss. Whether I've transcended or not, I just think differently. But everybody accepts that. And to see the gain in the so-called loss of a loss in the so-called gain, you
+
+03:07:49.634 --> 03:08:00.670
+you just end up with a very different world. Well, I'm not as evolved in that aspect, certainly others as well as you are, but when I started my lab,
+
+03:08:00.770 --> 03:08:27.998
+I used to teach my students something, which was, okay, we're going to get a lot more rejections and have to do a lot more revisions than we are going to get acceptances on papers and grants. So the best thing that you can do, which is what I had to do for myself, one of the best things you might consider would have been a gentler way to say it, but I said one of the best things you can do, because that's the way I talk sometimes, is to create a long arc of positive feedback feedback
+
+03:08:28.226 --> 03:08:54.974
+when something good happens, but that when something negative happens, let yourself feel it acutely and then move on fast. And like, so if I were to plot this, it would basically be like an accepted paper will delight me and motivate me for many, many months, if not years, but a rejection or a tough revision where we're looking at another year or two of experiments, it was, I'd allow myself maybe a day and a half of just being, you know, utterly crushed and then
+
+03:08:55.138 --> 03:09:19.550
+Yeah, but another way, you know, when I say put people back in the equation, that's what you need to teach them, which is the responses you're getting. These reviews are not from a bunch of sages in the sky. Certainly not. Certainly not. They're just a group of people, a group of people with different biases and so on. And, you know, it doesn't mean you were wrong. Yeah.
+
+03:09:19.682 --> 03:09:44.126
+And reviews, I learned from my postdoc advisor, and I love this, is he used to say reviews always make papers better, even if you hate them. They always make papers better. They never make papers worse. Sometimes they make papers a little bit harder to track because, like, there's this weird figure put in just to satisfy a reviewer. Kind of like, what is this? But everyone eventually realized what that figure is about anyway. And so I adopted the idea that
+
+03:09:44.290 --> 03:10:14.256
+reviews, red ink, critical feedback are just ways of getting better, which has also been essential in the podcasting sphere. Because if I've ever gotten anything wrong, believe me, I hear about it in the comments. And sometimes it can be embarrassing, but it's, you just look at it as an opportunity to address your humanness and move forward, you know, correct it and move forward. But I think a lot of people try and maintain this air of perfection, like there's some sort of Fabergé egg, that instead of living life like a work of art where it has dimples and cracks and acne and all the rest, and it's human, it's
+
+03:10:14.256 --> 03:10:34.910
+I think a lot of people want to present themselves to the world like a Fabergé egg, like that's just absolutely flawless. But the problem with that is going out the next day. You can be that Fabergé egg on day one, but now you've got to maintain that. I mean, the first paper that I published came back without a comment.
+
+03:10:35.778 --> 03:10:59.806
+Not a comment, not a correction, not a typo. What a dangerous thing to happen. Exactly. It was awful. Yeah, that was not my experience. Well, it set me up for, you know, expectations. What do you mean for the next one? But I think also that it's once you recognize that this is an opinion rather than a statement of fact, you know.
+
+03:11:00.450 --> 03:11:20.734
+And then when you – what I tell my students is that when you get a comment, it doesn't mean that the comment is right. It means that whatever you wrote wasn't appreciated in the way you wanted it to be appreciated. And they're guessing at, well, if you did it this way rather than that way. Yeah.
+
+03:11:21.058 --> 03:11:50.558
+Papers that are not accepted today may be accepted tomorrow, the same paper. I mean, I can't tell you how many times people say, can't be, and then it becomes the standard. You mean in terms of a field and what's acceptable? Yeah. Yeah, things have certainly changed. And look, you've done a tremendous amount to pioneer that change. I mean, it's not one study or 10 study or 20 studies. I mean, there's now a catalog of incredibly groundbreaking work that you've done.
+
+03:11:51.170 --> 03:12:19.582
+know if you used intentionally or you're just following your interests, but that have transformed the way that we think about the mind and its role in our physiology and so on. I was hoping to get your reflections on something that I sometimes say that's probably wrong, but that is helpful to me because, and hopefully to other people too, because it, I think, captures some of the circuit dynamics related to reward and reinforcement. And it sometimes resurfaces on the internet that addiction is
+
+03:12:19.906 --> 03:12:47.966
+other things, is a progressive narrowing of the things that bring someone pleasure. And I used to attach to that statement, you know, enlightenment, if there is such a thing, is a progressive broadening of the things that bring us pleasure. And one thing that struck me throughout today's conversation is that it seems like you're able to look at pretty much anything through a bunch of different facets, take on other points of view, so strong theory of mind, while holding on to your own
+
+03:12:48.258 --> 03:13:16.606
+perceptions, right? You're not drifting off from yourself. You're remaining of self, but taking on other perspectives. And that flexibility of thinking and that expansiveness, like looking at things as good, bad, maybe, I don't know, I don't know what's true or what could be true and really challenging preconceived notions seems very powerful. Do you believe in enlightenment? And was the description I just gave anything of
+
+03:13:16.706 --> 03:13:44.798
+like the way you enjoy it? No, I'm very flattered. You know, I think that when you're walking around and you don't see and all of a sudden you see, you can say that you're enlightened. I guess in a not so grandiose way that that simple thing that I keep saying, recognizing that behavior makes sense.
+
+03:13:45.026 --> 03:14:10.174
+leads you to such a different view of people. You don't have people who are good and bad, people who are addicted and not addicted. You don't have A students and failing students. Everything just organizes itself differently and you come to appreciate the individual talents that people have. And when you can do that,
+
+03:14:10.402 --> 03:14:37.662
+I don't know if you want to call the person enlightened, but life just is easier and nicer. You know, it's nicer to walk outside and be trusting of people and not to be afraid of this bastard or that one who's going to come and get you. I mean, I went to with a friend. This was so many years ago to an AA meeting to see what it was like.
+
+03:14:37.890 --> 03:14:59.390
+And I had left my pocketbook over here, wherever that is you can see. And we walked over here for whatever reason. And I said, I left my pocketbook over there. And then I thought, you know, so what? If somebody takes it, they probably need it more than I do. And it was so freeing.
+
+03:14:59.490 --> 03:15:22.302
+You know, just not to care about all these things that somehow we're implicitly, sometimes explicitly taught to care about and always evaluating ourselves. You know, that little song feeling that, let me sing. I enjoy singing. I can't carry a tune, so what? Why should somebody...
+
+03:15:22.626 --> 03:15:49.118
+me feel bad about singing, and maybe I'll become a better singer, or maybe I'll sing in some way that'll teach somebody, you know, some new trick that they hadn't thought about before because of my inadequacy. Why are people evaluating themselves at every moment rather than feeling good about the things they know that they can do and who decides what's important to be able to do?
+
+03:15:49.250 --> 03:16:07.134
+I don't know how to most articulately share it, but it's just a very different life. You know, a life where you don't – I just don't believe that stress is necessary. I don't believe that there's anybody in this world that's better than I am.
+
+03:16:07.682 --> 03:16:26.974
+I also don't believe I'm better than anybody else. It's very different where everything, especially among those of us who are academics, where every minute you're given a grade and even the number of papers you got accepted determines your pecking order and so on. It's also silly.
+
+03:16:27.202 --> 03:16:54.782
+And then you have the money people. And I have $20 billion, so I'm better off than people. I'm a better person than people have $10 billion. It's sad to me when, in fact, I think all of it is engaged in order to feel good about yourself. That's all. Why do I need that money? Why do I need those A's? Why do I need those successes so that I'll like myself? Right.
+
+03:16:55.202 --> 03:17:20.062
+like yourself. Recognize that you're likable. Why not? That may seem simple-minded, but it's gotten me to wherever I am. It has indeed, and it's helped a tremendous number of people, both in the form of scientific findings, which are then shared with people through books and through podcasts and outcasts.
+
+03:17:20.194 --> 03:17:48.414
+just so grateful that you came here today to share with us. This is really as vast as it's been, you know, just a subset of the discoveries that you've made. So, you know, a couple of things. First of all, thank you for coming here today. It's been my pleasure. I've thoroughly enjoyed this and I love, love, love your work and it's caused me to think differently about things. And today's discussion is going to make me, and I know so many other people will think
+
+03:17:48.706 --> 03:18:13.374
+about everything. I mean, very, very few discussions that I'll hold will make me rethink my thinking about everything. This one certainly will. And, and also for continuing to do the work that you're doing. I mean, it's, it's clear that you embody and live the, the discoveries that you make. And, and it's not just an academic pursuit that then, you know, allows you to collaborate.
+
+03:18:13.474 --> 03:18:27.166
+all the, appropriately collect all the amazing awards and titles, but that it really serves and that you live it. So thank you for that as well. And then two more questions, very briefly. The first one is,
+
+03:18:27.266 --> 03:18:51.166
+Doesn't matter how long the question is. It's the answer that matters. So you asked me the brief question for a long answer. The floor is yours, but would you consider coming back? Oh, sure. Again, to share with us some additional findings is the second to last question. And then I'm just thinking that maybe the last question is so that it sticks in people's minds. Would you be willing to share the song? Yeah.
+
+03:18:51.394 --> 03:19:19.166
+Oh, Andrew. All right. Yes, I'm going to sing this. Now, you have to remember, though, that I'm singing this because I think singing is fun and it shouldn't matter how good a voice you have. Okay, so here we go. This is to the old Sarah Lee commercial. And everybody doesn't like something, but nobody doesn't like Sarah Lee. Everybody doesn't know something, but everyone knows something else.
+
+03:19:19.330 --> 03:19:46.558
+Everyone can't do something, but everyone can do something else. So what have I lost by singing that? I know I can't sing. Now you know I can't sing. But do you think my not being able to sing means I can't write, think, or do whatever it is that I do better than singing? No, of course not. I love the song. And thanks for saying you'll come back again. Thank you so much. Thanks for having me.
+
+03:19:47.106 --> 03:19:59.966
+Thank you for joining me for today's discussion with Dr. Ellen Langer. I hope you found it to be as fascinating as I did. To learn more about Dr. Langer's work, to find links to her books and workshops and other resources, please see the show note captions.
+
+03:20:00.130 --> 03:20:30.096
+If you're learning from and or enjoying this podcast, please subscribe to our YouTube channel. That's a terrific zero cost way to support us. In addition, please click follow for the podcast on both Spotify and Apple and on both Spotify and Apple, you can leave us up to a five-star review. If you have questions for me or comments about the podcast or guests or topics you'd like me to consider for the Huberman Lab podcast, please put those in the comment section on YouTube. I do read all the comments. Please also check out the sponsors mentioned at the beginning and throughout today's episode. That's the best way to support this podcast.
+
+03:20:30.096 --> 03:20:50.206
+For those of you that haven't heard, I have a new book coming out. It's my very first book. It's entitled Protocols, an Operating Manual for the Human Body. This is a book that I've been working on for more than five years, and that's based on more than 30 years of research and experience. And it covers protocols for everything from sleep to exercise to stress control, protocols,
+
+03:20:50.338 --> 03:21:10.334
+protocols related to focus and motivation. And of course, I provide the scientific substantiation for the protocols that are included. The book is now available by presale at protocolsbook.com. There you can find links to various vendors. You can pick the one that you like best. Again, the book is called Protocols, an Operating Manual for the Human Body.
+
+03:21:10.626 --> 03:21:33.790
+If you're not already following me on social media, I am Huberman Lab on all social media platforms. So that's Instagram X, formerly known as Twitter, Facebook, LinkedIn, and Threads. And on all those platforms, I discuss science and science-related tools, some of which overlaps with the content of the Huberman Lab podcast, but much of which is distinct from the content on the Huberman Lab podcast. Again, that's Huberman Lab on all social media platforms.
+
+03:21:33.954 --> 03:21:55.454
+If you haven't already subscribed to our Neural Network newsletter, the Neural Network newsletter is a zero cost monthly newsletter that includes podcast summaries, as well as what we call protocols in the form of one to three page PDFs that cover everything from how to optimize your sleep, how to optimize dopamine, deliberate cold exposure. We have a foundational fitness protocol that covers cardiovascular training and resistance training.
+
+03:21:55.586 --> 03:22:15.774
+of that is available completely zero cost. You simply go to HubermanLab.com, go to the menu tab in the top right corner, scroll down to newsletter and enter your email. And I should emphasize that we do not share your email with anybody. Thank you once again for joining me for today's discussion with Dr. Ellen Langer. And last but certainly not least, thank you for your interest in science.

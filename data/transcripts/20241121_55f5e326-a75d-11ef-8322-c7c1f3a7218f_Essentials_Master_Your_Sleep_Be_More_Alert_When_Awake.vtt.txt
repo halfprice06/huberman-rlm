@@ -1,0 +1,271 @@
+WEBVTT
+
+00:00.226 --> 00:30.110
+Welcome to Huberman Lab Essentials, where we revisit past episodes for the most potent and actionable science-based tools for mental health, physical health, and performance. I'm Andrew Huberman, and I'm a professor of neurobiology and ophthalmology at Stanford School of Medicine. Today's podcast episode is all about sleep. We're also going to talk about the mirror image of sleep, which is wakefulness. Now, these two phases of our life, sleep and wakefulness, govern
+
+00:30.306 --> 00:58.750
+everything about our mental and physical health. And we're not just going to talk about what's useful about sleep. We're also going to talk about how to get better at sleeping. And that will include how to get better at falling asleep, timing your sleep and accessing better sleep quality. In doing so, we're also going to discuss how to get more focused and alert in wakefulness. So if you're like most people, which includes me, you have some challenges with sleep, at least
+
+00:58.914 --> 01:28.446
+every third or fifth night or so, and maybe even more often. So we're really going to go tool heavy today and talk about tools that can help you fall asleep, sleep better, and emerge from sleep feeling more rested. So what determines how well we sleep and the quality of our wakeful state? Turns out that's governed by two forces. The first force is a chemical force. It's called adenosine. Adenosine is a molecule in our nervous system and body that builds up
+
+01:28.546 --> 01:55.838
+the longer we are awake. So if you've just slept for eight or nine or 10 really deep restful hours, adenosine is going to be very low in your brain and body. If however you've been awake for 10, 15 or more hours, adenosine levels are going to be much higher. Adenosine creates a sort of sleep drive or a sleep hunger. And a good way to remember this and think about adenosine is to think about caffeine.
+
+01:56.610 --> 02:26.078
+Caffeine, for most people, wakes them up. It makes them feel more alert. Caffeine acts as an adenosine antagonist. What that means is that when you ingest caffeine, whether or not it's coffee or soda or tea or in any other form, it binds to the adenosine receptor. It sort of parks there, just like a car would park in a given parking slot, and therefore adenosine can't park in that slot. Now, when caffeine parks in the adenosine receptor slot,
+
+02:27.138 --> 02:55.454
+nothing really happens downstream of that receptor. The receptor can't engage the normal cellular functions of making that cell and you feel sleepy. So the reason caffeine wakes you up is because it blocks the sleepiness receptor. It blocks the sleepy signal. And this is why when that caffeine wears off, adenosine will bind to that receptor sometimes with even greater, what we call affinity, and you feel the crash, you feel especially tired.
+
+02:55.906 --> 03:25.182
+Caffeine has a lot of health benefits. It also, for some people, can be problematic for health. It can raise blood pressure, et cetera. Caffeine increases this molecule that's a neuromodulator that we call dopamine. We discussed this in episode one, which tends to make us feel good, motivated, and give us energy because as you may have learned in episode one, dopamine is related to another neuromodulator called epinephrine, which gives us energy. In fact, epinephrine is made from dopamine.
+
+03:25.410 --> 03:52.478
+So let's just take a step back and think about what we're talking about when we're talking about sleepiness. If you've ever pulled an all-nighter, you'll notice something interesting. As morning rolls around, you'll suddenly feel an increase in your energy and alertness again, even though adenosine has been building up for the entire night. Why is that? The reason that is, is because there's a second force which is governing when you sleep and when you're awake, and that force
+
+03:52.578 --> 04:20.990
+is a so-called circadian force. Circadian means about a day or about 24 hours. And inside all of us is a clock that exists in your brain and my brain and the brain of every animal that we're aware of that determines when we want to be sleepy and when we want to be awake. That block of sleep and when it falls within each 24-hour cycle is governed by a number of different things.
+
+04:21.697 --> 04:42.078
+but the most powerful thing that's governing when you want to be asleep and when you want to be awake is light. And in particular, it's governed by sunlight. Now I can't emphasize enough how important and how actionable this relationship is between light and when you want to sleep. It's quite simple.
+
+04:42.178 --> 05:07.998
+on the face of it, and it's quite simple to resolve, but people tend to make a big mess of this whole circadian literature, frankly. So let's just break it down from the standpoint of what's going on in your brain and body as you go through one 24-hour day. Let's start with waking. So regardless of how well you slept at night or whether or not you were up all night, most people tend to wake up sometime around when the sun rises.
+
+05:08.322 --> 05:38.046
+When you wake up in the morning, you wake up because a particular hormone called cortisol is released from your adrenal glands. Your adrenal glands sit right above your kidneys and there's a little pulse of cortisol. There's also a pulse of epinephrine, which is adrenaline from your adrenals and also in your brain and you feel awake. Now that pulse of cortisol and adrenaline and epinephrine might come from your alarm clock. It might come from you naturally waking up, but it tends to,
+
+05:38.242 --> 05:59.998
+alert your whole system in your body that it's time to increase your heart rate, it's time to start tensing your muscles, it's time to start moving about. It's very important that that cortisol pulse come early in the day, or at least early in your period of wakefulness. When you wake up in the morning and you experience that rise in cortisol, there's a timer that starts going
+
+06:00.482 --> 06:29.566
+and these are cellular timers and they're dictated by the relation between different organs in your body that says to your brain and body that in about 12 to 14 hours, a different hormone, this hormone we're calling melatonin, will be released from your pineal gland. So there's two mechanisms here, a wakefulness signal and a sleepiness signal. And the wakefulness signal triggers the onset of the timer for the sleepiness signal. I'd like to take a quick break and thank our sponsor,
+
+06:29.666 --> 06:30.494
+AG1.
+
+06:30.594 --> 07:00.560
+AG1 is an all-in-one vitamin mineral probiotic drink with adaptogens. I've been taking AG1 daily since 2012, so I'm delighted that they're sponsoring this podcast. The reason I started taking AG1 and the reason I still take AG1 once and often twice a day is because it is the highest quality and most complete foundational nutritional supplement. What that means is that AG1 ensures that you're getting all the necessary vitamins, minerals, and other micronutrients to form a strong foundation for your daily health. AG1 also has probiotics,
+
+07:00.560 --> 07:03.582
+and prebiotics that support a healthy gut microbiome.
+
+07:03.746 --> 07:33.712
+Your gut microbiome consists of trillions of microorganisms that line your digestive tract and impact things such as your immune system status, your metabolic health, your hormone health, and much more. So I've consistently found that when I take AG1 daily, my digestion is improved, my immune system is more robust, I rarely get sick, and my mood and mental focus are at their best. In fact, if I could take just one supplement, that supplement would be AG1. If you'd like to try AG1, you can go to drinkag1.com slash Huberman to claim a special
+
+07:33.712 --> 08:02.750
+Okay, so the rhythm of cortisol and melatonin
+
+08:02.978 --> 08:28.862
+is what we call endogenous. It's happening in us all the time without any external input. In fact, if we were in complete darkness, living in a cave with no artificial lights whatsoever, these rhythms of cortisol and melatonin would continue. So if you were in complete darkness, it would happen once per 24 hour cycle, but it would be somewhat later and later each day, whereas
+
+08:29.186 --> 08:56.478
+Under normal circumstances, what happens is you wake up, and what happens when you wake up? You open your eyes. When you open your eyes, light comes into your eyes. Now, the way this system works is that you have a particular set of neurons in your eye, they're called retinal ganglion cells. When light comes into the eye, there's a particular group of retinal ganglion cells or type of retinal ganglion cells that perceives a particular type of light
+
+08:56.578 --> 09:09.918
+and communicates that to this clock that resides right above the roof of your mouth called the suprachiasmatic nucleus. And the suprachiasmatic nucleus has connections with essentially every cell and organ of your body.
+
+09:10.210 --> 09:38.718
+Now, it's vitally important that we get light communicated to this central clock in order to time the cortisol and melatonin properly. When I say properly, I can say that with confidence because we know based on a lot of evidence that if you don't get your cortisol and melatonin rhythms right, there are tremendously broad and bad effects on cardiovascular health, metabolic effects, learning,
+
+09:38.818 --> 10:02.142
+depression, dementia. So let's think about what happens when we do this correctly and how to do it correctly. When we wake up, our eyes open. Now, if we're in a dark room, there isn't enough light to trigger the correct timing of this cortisol melatonin thing, these rhythms. You might say, well, why won't any light do it? Well, it turns out
+
+10:02.338 --> 10:30.462
+that these neurons in our eye that set the circadian clock and then allow our circadian clock to set all the clocks of all the cells and organs and tissues of our body responds best to a particular quality of light and amount of light. And those are the qualities of light and amount of light that come from sunlight. So these neurons, what they're really looking for, although they don't have a mind of their own,
+
+10:30.562 --> 10:58.366
+is the sun at what we call low solar angle. The eye and the nervous system don't know anything about sunrises or sunsets. It only knows the quality of light that comes in when the sun is low in the sky. The system evolved so that when the sun is low in the sky, there's a particular contrast between yellows and blues that triggers the activation of these cells. However, if you wake up a few hours after the sunrise, which I tend to most days personally,
+
+10:58.594 --> 11:26.526
+You still want to get outside and view sunlight. You don't need the sunlight beaming you directly in the eyes. There's a lot of photons, light energy that's scattered from sunlight at this time. But the key is to get that light energy from sunlight, ideally, into your eyes. It's critically important that you get outside to get this light. I had a discussion with a colleague of mine, Dr. Jamie Zaitzer, who's in the Department of Psychiatry and Behavioral Sciences.
+
+11:27.266 --> 11:47.902
+at Stanford, a world expert in this. And he tells me that it's 50 times less effective to view this sunlight through a window, through a car windshield or through a side window of a car than it is to just get outside with no sunglasses and view light early in the day.
+
+11:48.194 --> 12:17.982
+Once the sun is overhead, the quality of light shifts so that you miss this opportunity to time the cortisol pulse. And that turns out to be a bad thing to do. You really want to time that cortisol pulse properly because we'll get into this a little bit more later, but a late shifted cortisol pulse, in particular in 9 p.m. or 8 p.m. increase in cortisol is one of the consequences and maybe one of the causes of
+
+12:18.178 --> 12:47.518
+a lot of anxiety disorders and depression. So it's kind of a chicken egg thing. We don't know whether or not it's correlated with, it's the cause or the effect, but it's a signature of depression and anxiety disorder. Bringing that cortisol pulse earlier in your wakeful period, earlier in your day, has positive benefits ranging from blood pressure to mental health, et cetera. I'm not going to list them all off because there's just so many of them, but many, many positive things happen when you are getting the cortisol early in the day
+
+12:47.842 --> 13:16.670
+far away from your melatonin pulse. Okay, so how long should you be outside? Well, this is going to vary tremendously because some people live in environments where it's very bright. So let's say it's Colorado in the middle of winter, there's a snow field, there's no cloud covered, you walk outside, there's going to be so much photon light energy arriving on your retina that it probably only takes 30 to 60 seconds to trigger the central clock and set your cortisol and melatonin rhythms properly.
+
+13:16.770 --> 13:43.806
+get everything lined up nicely. Whereas if you're in Scandinavia in the depths of winter and you wake up at 5 a.m. and the sun is just barely creeping across the horizon, then goes back down again a few hours later, you probably are not getting enough sunlight in order to set these rhythms. So many people find that they need to use sunlight simulators in the form of particular lights that were designed to simulate sunlight.
+
+13:43.906 --> 14:12.542
+You could say, well, the lights in my house or my phone are really, really bright, right? Everyone's telling us to stay off our phones at night because they're really bright. But guess what? It turns out that early in the day, your retina is not very sensitive, which means you need a lot of photons, ideally coming from sunlight to set these clock mechanisms. So looking at your phone or artificial lights is fine if you wake up before sunrise, but it's not going to work to set these clock mechanisms.
+
+14:12.802 --> 14:36.094
+So you want to use sunlight. If you can't see sunlight because of your environment, then you are going to have to opt for artificial light. And in that case, you're going to want an artificial light that either simulates sunlight or has a lot of blue light. Now, without going off course here, you might be saying, wait, I've heard blue light is bad for me. Actually, blue light is great for this mechanism during the day.
+
+14:36.290 --> 15:03.966
+A lot of people will say, oh, I should be wearing blue blockers throughout the day. No, that's the exact wrong thing. That should be reserved for late in the evening because light suppresses melatonin. Sunlight inhibits the pineal. It prevents it from releasing melatonin. Darkness allows the pineal to release melatonin. So the pineal is not the gland or the organ of sunlight. It is the gland of darkness, in fact,
+
+15:04.578 --> 15:34.366
+Melatonin can be thought of as a sleepiness signal that's correlated with darkness. So get up each morning, try and get outside. I know that can be challenging for people, but anywhere from two to 10 minutes of sunlight exposure is going to work well for most people. If you can't do it every day or you sleep through this period of the early day, low solar angle, don't worry about it. The systems in the body, these hormone systems and neurotransmitter systems that make you awake at certain periods of the day and sleepy at other times are,
+
+15:34.658 --> 16:03.390
+operating by averaging when you view the brightest light. Some of you, many of you might be asking, what else can help set this rhythm? Well, it turns out that light is what we call the primary Zeitgeber, the time giver, but other things can help establish this rhythm of cortisol followed by melatonin 12 to 16 hours later as well. The other things besides light are timing of food intake,
+
+16:03.906 --> 16:29.342
+timing of exercise, as well as various drugs or chemicals that one might ingest. Not illegal drugs, although those will impact circadian mechanisms as well. The other thing is sunset. When the sun is also at low solar angle, low close to the horizon, by viewing sunlight at that time of day in the evening or afternoon, depending on what time of year it is and where you are in the world,
+
+16:29.698 --> 16:58.142
+These melanopsin cells, these neurons in your eyes signal the central circadian clock that it's the end of the day. There was a really nice study that showed that viewing sunlight around the time of sunset, doesn't have to be just crossing the horizon, but circa sunset, within an hour or so of sunset, prevents some of the bad effects of light in preventing melatonin release later that same night.
+
+16:58.658 --> 17:20.510
+So let me repeat this, viewing light early in the day is key, viewing light later in the day when the sun is setting or around that time can help protect these mechanisms, your brain and body, against the negative effects of light later in the day. So let me talk about how you would do that. You'd go view the sunset or you would go outside in the late afternoon or evening
+
+17:20.609 --> 17:47.902
+Again, if you want to do this through a window at work, that's fine, but it'll take 50 times longer. So the best thing to do is just to get outside for a few minutes, anywhere from two to 10 minutes, also in the afternoon. Having those two signals arriving to your central clock that your body, your internal world knows when it's morning and knows when it's evening is tremendously powerful. There's always a lot of questions about how long, how much, how do I know if I've had enough? You'll know because your rhythm will start to fall
+
+17:48.098 --> 18:16.414
+into some degree of normalcy. You'll start to wake up at more or less the same time each day. You'll fall asleep more easily at night. Generally, it takes about two or three days for these systems to align. So if you've not been doing these behaviors, it's going to take a few days, but they can have tremendous benefits and sometimes rather quickly on a number of different mental and physical aspects of your health. I'd like to take a quick break and thank our sponsor, Eight Sleep. Eight Sleep makes smart mattress covers with cooling, heating, and sleep tracking capacity.
+
+18:16.578 --> 18:46.544
+Now I've spoken before on this podcast about the critical need for us to get adequate amounts of quality sleep each night. Now one of the best ways to ensure a great night's sleep is to ensure that the temperature of your sleeping environment is correct. And that's because in order to fall and stay deeply asleep, your body temperature actually has to drop by about one to three degrees. And in order to wake up feeling refreshed and energized, your body temperature actually has to increase about one to three degrees. Eight Sleep makes it very easy to control the temperature of your sleeping environment by allowing you to program the temperature of your
+
+18:46.544 --> 19:11.166
+mattress cover at the beginning, middle, and end of the night. I've been sleeping on an Eight Sleep mattress cover for nearly four years now, and it has completely transformed and improved the quality of my sleep. Eight Sleep recently launched their newest generation of the Pod Cover called the Pod 4 Ultra. The Pod 4 Ultra has improved cooling and heating capacity. I find that very useful because I like to make the bed really cool at the beginning of the night, even colder in the middle of the night, and
+
+19:11.330 --> 19:41.296
+warm as I wake up. That's what gives me the most slow-wave sleep and rapid eye movement sleep. It also has snoring detection that will automatically lift your head a few degrees to improve your airflow and stop your snoring. If you'd like to try an 8sleep mattress cover, you can go to 8sleep.com slash Huberman to access their Black Friday offer right now. With this Black Friday discount, you can save up to $600 on their Pod4 Ultra. This is 8sleep's biggest sale of the year. 8sleep currently ships to the USA, Canada, UK, select countries in
+
+19:41.296 --> 20:10.430
+in the EU and Australia. Again, that's eightsleep.com slash Huberman. Now let's talk about the bad effects of light because light is not supposed to arrive in our system at any time. And nowadays, because of screens and artificial light, we have access to light at times of day and night that normally we wouldn't. Now, earlier I said that you need a lot of light in particular sunlight to set these clock mechanisms.
+
+20:10.786 --> 20:34.494
+That's true, but there's a kind of diabolical feature to the way all this works, which is the longer you've been awake, the more sensitive your retina and these cells are to light. So that if you've been awake for 10, 12, 14 hours, it becomes very easy for even a small amount of light coming from a screen or from an overhead light to
+
+20:34.690 --> 21:04.222
+trigger the activation of the clock and make you feel like you want to stay up later, make it harder to fall asleep and disrupt your sleep pattern. Okay, so the simple way to think about this is you want as much light as is safely possible early in the day, morning and throughout the day, including blue light, and you want as little light coming into your eyes, artificial or sunlight after say 8 p.m. And certainly you do not want to get bright light exposure to your eyes between 11 p.m. and 4 a.m. And here's why.
+
+21:04.930 --> 21:32.766
+that arrives to the eyes between 11 p.m. and 4 a.m. approximately, suppresses the release of dopamine, this neuromodulator that makes us feel good as sort of an endogenous antidepressant, and can inhibit learning and create all sorts of other detrimental effects. It does this through a mechanism, for those of you who want to know the neural pathways, that involves light to the eyes that's then signaled to a structure called the habenula,
+
+21:32.866 --> 22:01.790
+When that habenula gets activated, it's actually called the disappointment nucleus because it actually makes us feel less happy and more disappointed and can lead to certain forms of depression in the wakeful state. Now, if you wake up in the middle of the night and you need to use the bathroom or you're on an all night flight and you need to read or whatever it is, fine. Every once in a while, it's not going to be a problem to get bright light exposure to your eyes in the middle of the night.
+
+22:02.146 --> 22:30.334
+If you think about our lifestyle nowadays and being up late looking at phones, even if you dim that screen, you're triggering this activation because your retinal sensitivity and the sensitivity of these neurons has gone up late in the day. For those of you that are experiencing challenges with mood, those of you that have anxiety, learning problems, issues focusing, the questions I usually get are, how can I focus better? One of the best ways you can support your mechanisms for good mood, mental health, learning, focus, metabolism, et cetera, is to
+
+22:30.786 --> 22:56.510
+take control of this light exposure behavior at night and not get much or any bright light exposure in the middle of the night. These cells in our eye, these neurons that signal the central clock reside mostly, not exclusively, but mostly in the bottom half of our retina. And because we have a lens in front of our retina and because of the optics of lenses, that means that these cells are actually viewing our upper visual field.
+
+22:56.962 --> 23:25.182
+is probably not coincidental that these cells were essentially designed to detect sunlight, which is overhead, of course. So if you want to avoid improper activation of these neurons, it's better to place lights that you use in the evening low in your physical environment. So on desktops or even the floor, if you want to go that way, as opposed to overhead lights.
+
+23:25.762 --> 23:53.694
+So overhead fluorescent lights would be the worst, that would be the worst case scenario. Lights that are overhead that are a little bit softer of the sort of yellow or reddish tints would be slightly better, but dim lights that are set low in the room are going to be best because they aren't going to activate these neurons and therefore shift your circadian clock. But let's talk about what light can do in terms of shifting us in healthy ways.
+
+23:54.242 --> 24:18.302
+The way to think about this whole system, again, is you've got adenosine building up depending on how long you've been awake and it's making you sleepy. And then you've got their circadian mechanisms that are timing your wakefulness and timing when you want to be asleep, mainly through cortisol and melatonin. But there are a bunch of other things that are downstream of cortisol and melatonin. Like we tend to be hungrier during our wakeful period than late at night. Some people like to eat it late at night,
+
+24:18.402 --> 24:45.982
+But if you're finding that you can't become a day person or a morning person, shifting your light exposure, exercise, and food intake to the daytime will help. Jamie Zaitzer and colleagues did a beautiful study showing that if you turn on the lights before waking up, so around 45 minutes to an hour before waking up, even if your eyelids are closed, provided you're not under the covers, after doing that for a few days,
+
+24:46.210 --> 25:13.918
+that increases your total sleep time and shifts forward the time at which you feel sleepy. It makes you want to go to bed earlier each night. Now in a kind of a diabolical way, they did this with teenagers who are notorious for wanting to wake up late and stay up late. And what they found was bright light flashes, just turning on the lights in their environment, overhead lights, because they're trying to activate the system. And that's why they're using overhead lights. Even through the eyelids, before these kids woke up,
+
+25:14.562 --> 25:44.158
+then made those kids naturally want to go to bed earlier and they ended up sleeping longer. So that's something you could try. You could put your lights on a timer to go on early in the day before you wake up. You could open your blinds so that sunlight is coming through. And again, if you curl up under the covers, then it's not going to reach these neurons, but it's remarkable the light can actually penetrate the eyelids, activate these neurons and go to the central clock. That study illustrates a really important principle of how you're built, which is,
+
+25:44.322 --> 26:05.982
+you have the capacity for what are called phase advances and phase delays. And I don't want to complicate this too much. So the simplest way to think about phase advances and phase delays is that if you see light late in the day, and in particular in the middle of the night, your brain and body for reasons that now you understand
+
+26:06.786 --> 26:35.134
+will think that that's morning light, even though it's not sunlight because you have this heightened sensitivity and it will phase delay, it will delay your clock. It will essentially make you want to get up later and go to sleep later. So the simple way to think about this is if you're having trouble waking up early and feeling alert early in the day, you're going to want to try and get bright light exposure even before waking up because it will advance your clock. It will, it's sort of like turning the clock forward. Whereas if you are,
+
+26:35.330 --> 26:57.182
+having trouble waking up early, you definitely don't want to get too much light exposure or any light exposure to your eyes late in the evening and in the middle of the night, because it's just going to delay your clock more and more. And what you're trying to do is provide them anchors. You're trying to provide them consistent, powerful anchors so that your cortisol, your melatonin, and then everything that's
+
+26:57.506 --> 27:23.998
+that cascades down from that, like your metabolism and your ability to learn and your sense of alertness, your dopamine, your serotonin, all that stuff is timed regularly. One of the reasons why there's so much challenge out there with focus and anxiety and depression, there are a lot of reasons for that, but one of the reasons is that people's internal mechanisms aren't anchored to anything regular.
+
+27:24.194 --> 27:52.670
+These systems again will average, but if you can provide them consistent light anchors early in the day and in the evening and avoiding light at night, you will be amazed at the tremendous number of positive effects that can come from that at the level of metabolic factors, hormones, and just general feelings of wellbeing. And this is why whenever people ask me, what should I take, which is one of the most common questions I get, what supplement should I take? What drugs should I be taking? What things should I be taking? The first question I always ask
+
+27:53.218 --> 28:13.278
+ask them is, how's your sleep? And 90% of the time they tell me they either have trouble falling asleep or staying asleep, or they don't feel rested throughout the day. A brief note about naps. Naps provided that they're less than one ultradian cycle, provided they're 20 minutes or 30 minutes, or even an hour, can be very beneficial for a lot of people.
+
+28:13.378 --> 28:40.510
+You don't have to take them, but many people naturally feel a dip in energy and focus late in the afternoon. In fact, if we were going to look at wakefulness, what we would find is that you get that morning light exposure, hopefully, your cortisol goes up, people start feeling awake, and then around two or three or four in the afternoon, there's a spike in everything from alertness to ability to learn, some metabolic factors drop, and then it just naturally comes back up, and then it tapers off as the night goes on.
+
+28:41.218 --> 29:09.758
+For some of you, naps are great. I love taking naps. Some people, they wake up from naps feeling really groggy. That's probably because they're not sleeping as well as they should at night or as long as they should at night. And so they're dropping into REM sleep or deeper forms of sleep in the daytime. And then they wake up and they feel kind of disoriented. Other people feel great after a nap. So that's another case where just like with caffeine, you sort of have to evaluate for yourself. I'd like to take a quick break and thank one of our sponsors, Roca.
+
+29:09.858 --> 29:31.390
+Roka makes eyeglasses and sunglasses that are the absolute highest quality. I've been wearing Roka readers and sunglasses for years now, and I love them. They're lightweight, they have superb optics, and they've lots of frames to choose from. I'm excited to share that Roka and I have teamed up to create a new style of red lens glasses. These red lens glasses are meant to be worn in the evening after the sun goes down.
+
+29:31.522 --> 29:49.502
+They filter out short wavelength light that comes from screens and from LED lights, the sorts of LED lights that are most commonly used as overhead and frankly, lamp lighting nowadays. I wanna emphasize, Roka red lens glasses are not traditional blue blockers. They're not designed to be worn during the day and to filter out blue light from screen light.
+
+29:50.210 --> 30:02.686
+They're designed to prevent the full range of wavelengths that suppress melatonin secretion at night and that can alter your sleep. So by wearing Roka Red Lens glasses, they help you calm down and they improve your transition to sleep.
+
+30:02.818 --> 30:32.784
+Most nights I stay up until about 10 p.m. or even midnight, and I wake up between 5 and 7 a.m., depending on when I went to sleep. Now I put my Roka Red Lens glasses on as soon as it gets dark outside, and I've noticed a much easier transition to sleep, which makes sense based on everything we know about how filtering out shortwave lengths of light can allow your brain to function correctly. Roka Red Lens glasses also look cool, frankly. You can wear them out to dinner or to concerts or out with friends. So it turns out it is indeed possible to support your biology, to be scientific about it, and
+
+30:32.784 --> 31:02.654
+to remain social after all. If you'd like to try Roka, go to roka.com, that's R-O-K-A.com and enter the code Huberman to save 20% off your first order. Again, that's R-O-K-A.com and enter the code Huberman at checkout. Okay, so naps are going to be good for some people, not for others. I personally like to take a nap around three or 4 p.m., but there's a practice that I've adopted in the last five years that I've found to be immensely beneficial that is sort of like napping, but isn't napping.
+
+31:03.234 --> 31:27.646
+It's a thing that they call yoga nidra. Yoga nidra actually means yoga sleep, and it's a sort of meditation that you listen to. Meditation and yoga nidra scripts have been immensely helpful for me in terms of accelerating the transition to sleep. So they involve taking a few minutes, 10 to 30 minutes or so, just like you would for a nap, and just listening to a script almost passively.
+
+31:27.810 --> 31:55.806
+And it has you do some particular patterns of breathing and some other kind of body scan like things that can really help people learn to relax, not just in that moment, but get better at relaxing and turning off thinking in order to fall asleep when they want to do that at night. In other words, they're always good for you because it's a training mechanism by which you self-train your nervous system to go from a state of heightened alertness that you don't want to heightened relaxation that you do want.
+
+31:55.970 --> 32:15.454
+And so it's really teaching you to hit the brake. And that brings us to an even more important point perhaps, which is we've all experienced that we can stay up if we want to, right? If we want to stay up late on new year's or we want to push an all nighter, some people can do that more easily than others, but we're all capable of doing that.
+
+32:15.906 --> 32:38.654
+but it's very hard to make ourselves fall asleep. And so there's a sort of asymmetry to the way our autonomic nervous system, which governs this alertness, calmness thing, the sympathetic and parasympathetic nervous system, there's an asymmetry there where we are more easily able to engage wakefulness and drive wakefulness. We can force ourselves to stay awake. Then we are able to force ourselves to fall asleep.
+
+32:38.786 --> 33:03.550
+And one of the things that I say over and over again, and I'm going to continue to say over and over again, is it's very hard to control the mind with the mind. When you have trouble falling asleep, you need to look to some mechanism that involves the body. And all the things I described, meditation, hypnosis, yoga nidra, all involve exhale emphasized, breathing, certain ways of lying down and controlling the body. We're going to get into breathing.
+
+33:03.650 --> 33:10.782
+in real depth at another time. But all of those involve using the body to control the mind rather than trying to, you know,
+
+33:11.490 --> 33:39.134
+wrestle your mind into a certain pattern of relaxation. And when we're having trouble controlling the mind, I encourage people to look towards the body, look toward sunlight, avoid sunlight and bright light if that happens to be late at night. So there's a theme that's starting to emerge, which is in order to control this thing that we call the nervous system, we have to look back to some of the things we discussed earlier, like sensation, perception, et cetera, but we have to ask, what can we control? Well, I'm talking about controlling light exposure,
+
+33:39.330 --> 34:03.838
+controlling your breathing and body, non-sleep deep rest, or what I hereafter we will refer to as NSDR, non-sleep deep rest, as a way to reset one's ability to be awake after you emerge from NSDR. So to get some more wakefulness and ability to attend, some emotional stability reset, as well as make it better and easier
+
+34:04.194 --> 34:30.270
+to fall asleep when you want to go to sleep at night. Now, non-sleep deep rest does have some research to support it. There's a beautiful study done out of a university in Denmark, I will later provide a link to that study, that showed that this meditation and yoga nidra type meditation allows dopamine and other neuromodulators in an area of the brain called the striatum that's involved in motor planning and motor execution,
+
+34:30.626 --> 34:58.974
+to reset itself. In other words, this NSDR can reset our ability to engage in the world in a way that's very deliberate. Okay, so what about things that we can and maybe should or should not take in order to control and access better sleep and better wakefulness? There are a couple of things that are directly in line with the biology related to falling and staying asleep and directly in line with the biology of wakefulness. There's a whole category of things like stimulants
+
+34:59.170 --> 35:28.638
+cocaine, amphetamine, and prescription stimulants that are the prescription ones were designed for the treatment of narcolepsy. So things like modafinil or armadafinil that are designed to create wakefulness. They are all essentially chemical variants of things that increase epinephrine and dopamine. Now, of course, I'm of the standpoint that things like cocaine amphetamine are just across the board bad. They have so many addictive and terrible effects. In the proper setting,
+
+35:28.770 --> 35:53.438
+prescribed by the proper professional, things like modafinil for narcolepsy might be appropriate. I know that a lot of people out there take Adderall, even though they haven't been prescribed Adderall, in order to increase wakefulness. That is essentially, well, it's illegal for one, but it's also, it's abusing the system in the sense that you're pushing back on the adenosine system slightly differently than you do caffeine.
+
+35:53.538 --> 36:15.518
+it will make you feel more alert. There tends to be a heavy rebound and they do have an addictive potential. There are also some other effects of those that can be quite bad, but there are some supplements and some things that are safer, certainly safer, and that in cases where you're doing all the right behaviors, you're exercising and eating correctly, and you're still having trouble with sleep, that can be beneficial.
+
+36:15.778 --> 36:45.694
+for falling and staying asleep. Now, I want to be very clear, I am not pushing supplements. I'm just pointing you towards some things that have been shown in peer-reviewed studies to have some benefit. The first one is magnesium. There are many forms of magnesium, but certain forms of magnesium can have positive effects on sleepiness and the ability to stay asleep, mainly by way of increasing neurotransmitters like GABA. There are a lot of forms of magnesium out there, but one in particular is magnesium threonate,
+
+36:45.858 --> 37:10.878
+T-H-R-E-O-N-A-T-E, which you have to check to see if this is right for you, check with your doctor. The other thing is theanine, T-H-E-A-N-I-N-E, 100 to 200 milligrams of theanine for me also helps me turn off my mind and fall asleep. Interestingly, theanine is now being introduced to a lot of energy drinks,
+
+37:11.586 --> 37:31.038
+in order to take away the jitters that are associated with drinking too much caffeine or with some other things that are in the energy drinks. So just a consideration. Again, I'm not here to tell you what to do or not do, but just want to arm you with information. The thing about theanine and magnesium is taken together, they do,
+
+37:31.202 --> 37:51.006
+for some people they can make them so sleepy and sleep so deeply that they actually have trouble waking up in the morning. So you have to play with these things and titrate them if you decide to use them. Again, if you decide to go this route, I would not start by taking supplements. I would start by getting your light viewing behavior correct. And then think about your nutrition and then think about your activity and then think about
+
+37:51.138 --> 38:18.814
+whether or not you want a supplement. We already talked about melatonin earlier. There's another supplement that could be quite useful, which is Apigenin, A-P-I-G-E-N-I-N, which is a derivative of chamomile. 50 milligrams of Apigenin also can augment or support this kind of creation of a sleepiness to help fall asleep and stay asleep. As a important point, Apigenin is a fairly potent estrogen inhibitor. So women,
+
+38:18.914 --> 38:47.198
+who want to keep their estrogen levels high or at whatever levels they happen to be at should probably avoid apigenin altogether. And men take that into consideration as well. If men need estrogen also, you don't want to completely eliminate your estrogen. That can create all sorts of bad effects on libido and cognition, et cetera. So apigenin in some people is going to be a pretty strong estrogen inhibitor. So keep that in mind. So thank you so much for your time and attention. And above all, thank you for your interest in science.

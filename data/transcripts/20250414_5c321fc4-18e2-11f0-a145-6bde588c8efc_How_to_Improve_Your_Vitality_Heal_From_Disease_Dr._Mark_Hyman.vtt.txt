@@ -1,0 +1,1126 @@
+WEBVTT
+
+00:00.354 --> 00:29.790
+Welcome to the Huberman Lab Podcast, where we discuss science and science-based tools for everyday life. I'm Andrew Huberman, and I'm a professor of neurobiology and ophthalmology at Stanford School of Medicine. My guest today is Dr. Mark Hyman. Dr. Mark Hyman is a medical doctor and an internationally recognized leader in the field of functional medicine. He is a practicing physician and the head of strategy and innovation at the Cleveland Clinic Center for Functional Medicine.
+
+00:29.986 --> 00:52.894
+Today, we discuss what is functional medicine, how the different systems of the body interact to improve or degrade our health, the science of mitochondria and metabolic health, nutrition, inflammation, and how you can leverage these factors to improve your physical and mental health and cognitive performance at any age. We also talk about how to confront any health challenges you might face by taking a systems-level approach.
+
+00:53.090 --> 01:05.566
+Dr. Hyman's work is unique in that it integrates conventional medicine, because after all, he is an MD, with what he calls good medicine, which is an amalgamation of the best practices from both traditional and alternative approaches.
+
+01:05.762 --> 01:33.886
+During today's discussion, you'll see that Dr. Hyman's expertise on a diverse range of topics really comes through. For instance, we talk about food, both sourcing, micronutrients, macronutrients, timing. We talk about exercise, and we talk a lot about supplementation and which supplements can provide tremendous benefit for certain people in particular. Dr. Hyman grounds all that knowledge in the latest discoveries in human biology to provide you with actionable tools that you can apply in any case and at any age.
+
+01:34.050 --> 02:03.614
+By the end of today's episode, I'm certain that everybody will glean at least one and very likely several important protocol updates that they can incorporate to improve their general health. And now for my discussion with Dr. Mark Hyman. Dr. Mark Hyman, welcome. Thanks, Andrew. It's so good to be here. Great to see you. We go back a few years. Yeah, like almost 10. Yeah, it's been awesome to see your arc and you were at it long before I met you. I think to kick things off,
+
+02:05.442 --> 02:30.270
+probably best if you explain to people what functional medicine is and what your orientation towards health and medicine is. Because I think there are a few misconceptions out there, both about functional health and you, but I think also you provide a very unique perspective. You've been at this vista that no one else has had, where you know people who are deans of medical schools, you know people who are biohackers, you know the general public, you've-
+
+02:30.530 --> 03:00.446
+treated and treat patients, and you also are an experimentalist with yourself to the extent that you find and can make suggestions about things that can help people. So yeah, tell us how you parachuted into this whole thing and how you look at this whole thing that we call health and medicine. Yeah, thank you, Andrew. And I would say that I didn't choose what I'm doing, it chose me. I was super healthy, fit, riding my bike 100 miles a day,
+
+03:00.642 --> 03:29.534
+I was 36 years old and then wham, I got really sick. And I went from being able to memorize 30 patients in a day and dictate their notes and ride my bike 100 miles to not knowing where I was at the end of a sentence and not being able to barely walk up the stairs and I got hit with chronic fatigue syndrome. And I tried to figure out what it was. I went to doctors at Harvard, Columbia, here, everywhere and they're, oh, you're depressed, take some Prozac, this and that. And I realized that I,
+
+03:29.666 --> 03:33.086
+traditional medicine wasn't having the answers. And
+
+03:33.986 --> 04:02.814
+even though I sort of came from the perspective of like a yoga teacher before I was a doctor, you know, I studied Buddhism. Were you? Yeah. You were a yoga teacher? I was, it was back in the 80s. You're a tall guy, long mat. They didn't have yoga mats when I was doing yoga. He put a towel on the ground. There was no Lululemon. It was like on top of like the East West bookstore in New York City, there was like one yoga class in the early 80s. Okay. That was it. And I studied Buddhism in college, but I also studied systems thinking and systems theory and Gregory Bateson and, you know, the nature of,
+
+04:02.946 --> 04:32.894
+network effect of life and biology and everything else. And so I kind of went through medical school, but when I came out, I was pretty straight traditional medicine doctor. But then I got sick. And it turned out that I had gone to China to live there for a year and work as a doctor to help start expatriate medical clinics, because there were no Western medical clinics in China, and people were terrified, there were 60,000 expatriates to go to the Chinese hospital. So I spoke Chinese because I studied Asian studies, I went there. But what I inadvertently had happened was
+
+04:33.250 --> 04:59.390
+I got exposed to huge amounts of mercury from the air because they burned coal. And coal expels lead and mercury and lots of other toxins. And there's 10 million people in Beijing and the city at the time, and they all heated their homes with raw coal. And I had an air filter that I would clean out every day and breathe the black soot in. So I got like a whopping dose of mercury. And it took a couple of years for it to kind of cause this problem. But from one day to the next, I went from
+
+04:59.650 --> 05:27.230
+being great to not being great. My gut broke down. I had diarrhea for years. My cognitive function completely went south. It was like I had dementia, ADD, and depression all at once. I ended up having autoimmune stuff going on and just rashes and sores, and I couldn't think. I literally almost had to go on disability. And I met a person who introduced me to this guy, Jeff Bland, who studied with Linus Pauling and had a very different view of health that really was more around
+
+05:28.002 --> 05:51.518
+framework of the body as a network, as a system, as an ecosystem where everything is connected and that it wasn't reductionist, it was inclusive. And when we go to medical school, we were taught to ask for the symptoms, look for the signs, do the lab testing and come up with a singular diagnosis to explain everything. And if there's extraneous symptoms that don't fit the thing we're looking for,
+
+05:52.226 --> 06:21.374
+then we dismiss it. If you go to the doctors for migraines and you say, well, I got irritable bowel, oh, go see the GI doctor. Or I have a rash, you go, oh, see the dermatologist. But the truth is the body's connected and everything's connected. And so functional medicine is really about understanding the body as a network, as a system. And it's a meta framework for understanding biology. I think of it as an operating system. It's not based on just diagnostic testing or supplements, which a lot of people think it is.
+
+06:21.506 --> 06:45.502
+it's really based on understanding the network about. So we were doing microbiome testing. We didn't call it that. It was just poop testing back then. We were looking at hormones, at mitochondria, at inflammation, at insulin resistance, at all the things that are toxic, environmental toxins and their role in health. And we're trying to understand how the body started to sort of work. And through that process, I literally had to reverse engineer my way back to health by understanding all the systems. So my
+
+06:45.666 --> 07:04.222
+Adrenal shut down. My thyroid wasn't working. My mitochondria were terrible. My muscle enzymes were super high, like CPK were super high because I had a mitochondrial injury, which is the little factories in your cells that make energy. I had severe cognitive issues and neurotransmitter issues and sleep issues. I mean, immune issues, rashes. So my whole system...
+
+07:04.322 --> 07:33.118
+So I literally had to learn every system of the body and how it worked and how it connected every other system and then create a healing plan for myself and that allowed me to recover. So that really taught me that there's this new way of thinking and I remember when I was working at Canyon Ranch as a medical director and I would see all these patients coming in and I started to think, well, I'm gonna try to do this on my patients and see what happens and just apply these principles.
+
+07:33.410 --> 08:01.630
+I call them the laws of biology, right? We don't have laws of biology that we can easily describe or laws of medicine. We have laws of physics, but that doesn't mean there aren't laws of biology. And what functional medicine, I believe, is, is the first clinical application of this understanding of the laws of biology. And there's like scientists like Lerar Hood, who created the Institute for System Biology, and folks like at Harvard, like Kazim Barbasi, who was studying this and wrote a book called Network Medicine about the body as a network. But for me, I had to start to
+
+08:01.762 --> 08:28.958
+you know, apply this in clinic. And so I would, people come into autoimmune diseases or with intractable depression or with terrible gut issues or dementia or autism or you name it, diabetes. And I would apply these principles and they get better. And I literally, I would say, eat this way, don't eat that, you know, simple stuff. Like it was not that complicated. And six weeks later, I'd say, their follow-up visit, I'd say, oh, so how are you doing? Oh, all my sins are better. I'm like,
+
+08:29.090 --> 08:58.750
+what? Really? Your migraines are gone? Because I couldn't believe it. It was such a shock to me as a traditionally trained physician that people were actually getting better. And so then I knew. I knew this was something real, even though it was sort of 30 years ago, it was just sort of not even on the radar. It still is pretty much not on the radar, although like New York Times is doing articles about it now. Things are changing. Things are changing. Slowly, but they're changing, I think, which sort of dovetails with the question I was going to ask, which is how did the medical establishment view this
+
+08:58.850 --> 09:18.622
+You know, these days it's so complicated without, you know, taking off on a tangent here, you know, the word expert is gated politically. Like one side feels like they, you can only be called expert if you're with their camp. The other side is now associated with kind of more of a, like a wellness aspect.
+
+09:18.818 --> 09:44.542
+aspect and, you know, and I don't even have to say which side I'm referring to here. And it's, it's become a real clash of, you know, we only believe in randomized control trials or, um, you know, there's clearly evidence that, you know, nutrition matters. And it's like, of course, both things are important. And so what you're describing here is that you, this intersection, and there really isn't a political home for the intersection, unfortunately, maybe in these, um, new, uh,
+
+09:44.770 --> 10:12.382
+in this new... I didn't know cells had a political ideology. That's right. That's right. No, that's right. I got the red cell and the blue cell. Exactly. And that's what I love about you is that you have friends in both camps and you're willing to trudge forward. What did the medical establishment think? And how many of you are there now? Yeah. It's a great question. I mean, I remember talking about leaky gut almost 30 years ago. And
+
+10:12.642 --> 10:42.494
+talking to allergists and immunologists. People thought you were crazy. And people thought I was a loony tune. Same thing with chronic fatigue, by the way. I remember when chronic fatigue syndrome was considered psychosomatic. Yeah. It's, you know, people are crazy if they think they have this. And we now know, like fibromyalgia, chronic fatigue, and leaky gut, this all used to be, for those that are listening, they're a little bit younger than Mark and I, that that was considered pseudoscience. Just the whole notion. There are now departments...
+
+10:43.010 --> 11:06.302
+at major university medical centers devoted to each one of these. That's right. Maybe not whole departments, but sectors within departments. Yeah. I think it's crazy how things have changed. And so now we have people who are talking about mitochondria in medicine, like Christopher Palmer, who's a Harvard professor, a psychiatrist who's studying psychiatric disease and the publication of
+
+11:06.466 --> 11:34.590
+diet and nutrition to treat bipolar disorder and schizophrenia or- I will say Stanford, sorry to cut you off, now has a division within our department of psychiatry on a metabolic psychiatry. In large part, thanks to Chris's work. Yeah. Yeah. And yeah, so metabolic psychiatry is about the role of sort of insulin resistance and inflammation in the brain is causing depression and causing anxiety and more severe things like bipolar disease since born and schizophrenia.
+
+11:34.690 --> 12:03.038
+These are the things that I saw, like in my patients. So I wasn't an academic, but I would just look at their story and listen to it. And I would look at the underlying biology because, you know, you talk about this sort of intersection of the sort of the biohacking kind of wellness and medical community. Lee Hood has a term for this. He calls it scientific wellness. And when people ask me what functional medicine is, I say it's a science of creating health as opposed to the science of treating disease. When you create health, disease goes away as a side effect. So if you optimize your basic...
+
+12:03.362 --> 12:32.734
+body systems, your gut, your immune system, your mitochondria, your detox system, your hormonal regulatory system. When you optimize those things, symptoms go away. And you don't have to treat all the different branches of the trees and the leaves on the trees. You treat the root and the trunk, which is what functional medicine does. I'd like to take a quick break and thank our sponsor, Juve. Juve makes medical grade red light therapy devices. Now, if there's one thing that I have consistently emphasized on this podcast, it is the incredible impact that light can have on our biology.
+
+12:32.898 --> 13:02.864
+Now, in addition to sunlight, red light and near infrared light sources have been shown to have positive effects on improving numerous aspects of cellular and organ health, including faster muscle recovery, improved skin health and wound healing, improvements in acne, reduced pain and inflammation, even mitochondrial function, and improving vision itself. What sets Juve Lights apart and why they're my preferred red light therapy device is that they use clinically proven wavelengths, meaning specific wavelengths of red light and near infrared light in combination to trigger the opposite
+
+13:02.864 --> 13:30.846
+I use the Juve handheld light both at home and when I travel. If you'd like to try Juve, you can go to Juve spelled J-O-O-V-V dot com slash Huberman. Juve is offering an exclusive discount to all Huberman Lab listeners with up to $400 off Juve products. Again, that's Juve spelled J-O-O-V-V dot com slash Huberman to get up to $400 off.
+
+13:31.042 --> 13:44.414
+Today's episode is also brought to us by Eight Sleep. Eight Sleep makes smart mattress covers with cooling, heating, and sleep tracking capacity. Now I've spoken before on this podcast about the critical need for us to get adequate amounts of quality sleep each and every night.
+
+13:44.610 --> 14:14.576
+Now, one of the best ways to ensure a great night's sleep is to ensure that the temperature of your sleeping environment is correct. And that's because in order to fall and stay deeply asleep, your body temperature actually has to drop about one to three degrees. And in order to wake up feeling refreshed and energized, your body temperature actually has to increase by about one to three degrees. Eight Sleep automatically regulates the temperature of your bed throughout the night according to your unique needs. Now, I find that extremely useful because I like to make the bed really cool at the beginning of the night, even colder in the middle
+
+14:14.576 --> 14:42.430
+of the night and warm as I wake up. That's what gives me the most slow wave sleep and rapid eye movement sleep. And I know that because Eight Sleep has a great sleep tracker that tells me how well I've slept and the types of sleep that I'm getting throughout the night. I've been sleeping on an Eight Sleep mattress cover for four years now, and it has completely transformed and improved the quality of my sleep. Their latest model, the Pod 4 Ultra, also has snoring detection that will automatically lift your head a few degrees in order to improve your airflow and stop you from snoring.
+
+14:42.562 --> 15:11.166
+If you decide to try Eight Sleep, you have 30 days to try it at home, and you can return it if you don't like it. No questions asked, but I'm sure that you'll love it. Go to eightsleep.com slash Huberman to save up to $350 off your Pod 4 Ultra. Eight Sleep ships to many countries worldwide, including Mexico and the UAE. Again, that's eightsleep.com slash Huberman to save up to $350 off your Pod 4 Ultra. For example, can I tell you a quick story? Please. I want to tell a story about a patient I had at Cleveland Clinic.
+
+15:11.778 --> 15:40.190
+Which actually, by the way, was amazing that Toby Cosgrove, who's one of the most renowned figures in medicine and was the CEO of Cleveland Clinic for years, invited me to come start a center for functional medicine there. And we've done, you know, been 10 years now, we've done a ton of research. This one patient came to see me and she had a whole list of problems. And that's why I jokingly call myself a holistic doctor because I take care of people with a whole list of problems. I want to know everything. And functional medicine is inclusive rather than exclusive. It's like rather than discarding things that don't fit your...
+
+15:40.834 --> 16:04.062
+diagnosis, we wanna know everything about you, how you were born, whether you were breastfed, whether you took antibiotics, any traumas, any toxins you're exposed to, whether you eat fish, like we wanna know everything. And so this woman came to see me, she had psoriatic arthritis, which was a terrible disease where your joints break down, you got those heartbreak of psoriasis, the rashes and itchy plaques on your skin. But she had a whole bunch of other stuff too. She had migraines, she had prediabetes,
+
+16:04.322 --> 16:32.030
+She had depression. She was a 50-year-old health coach who, I mean, life coach and business coach who was very successful but was struggling. She had terrible reflux, irritable bowel syndrome. So she had all these clusters of diseases. And I said, gee, what do these things have in common? What's the root? Inflammation. And I know you've talked a lot about this on your podcast, but inflammation is sort of the root of many chronic illnesses, whether it's obesity, diabetes, heart disease, cancer, dementia, autism, depression. I mean, the list goes on and on. Autoimmune, allergy, obviously. And I said, why don't,
+
+16:32.290 --> 16:51.742
+why don't we look at your gut? Because you're having a ton of gut symptoms. You have terrible bloating, distention, what I call food baby. You know, when you eat something, you get a food baby. And she also had been on a history of lots of antibiotics and steroids for her rheumatoid arthritis. And so I said, look, why don't we just treat your gut?
+
+16:52.130 --> 17:17.022
+and then see what happens. So we put her on an elimination diet. We eliminated all the inflammatory foods, things that were causing fermentation that could kind of cause the bad bacteria in her gut to ferment the foods and cause the bloating and leaky gut. We basically took out dairy, gluten, grains, sugar, processed foods, put her on whole foods, anti-inflammatory, microbiome healing diet. We gave her, I think I gave her vitamin D, fish oils, some probiotics, really simple stuff.
+
+17:17.442 --> 17:45.278
+And I said, come back in six weeks and we'll do some diagnostics and in the meantime, do this program and then come back. She came back and she said, well, all my symptoms are gone and I stopped all my medication. I'm like, oh, I didn't ask you to stop your medication. But she was on Stellara, which costs $50,000 a year. It's an immune biologic. She was on a host of other drugs from her psychiatrist, from her migraine doctor, for her irritable bowel, for her reflux. I mean, it was like a whole pile of pills. She was off everything and she had no symptoms and she was all better and she lost 20 pounds.
+
+17:45.794 --> 18:13.694
+And it wasn't an anomaly or a miracle. It was just following the principles of how the body works. And in that textbook, Network Medicine, they talk about how we need to understand mechanisms and causes, not just symptoms and diagnoses. And we need to understand that there's multi-causality for different problems. So it may be not just one thing that causes the disease, right? You might have toxins. It might be your diet. You might have your microbiome issues. You might have some other...
+
+18:13.922 --> 18:39.710
+trauma or stress, and all those things like kind of are the soup that then breaks the system down so it gets sick. And so my job is basically to see where are the things that are broken down and how do I help repair them, how to remove the root causes, whether it's mercury or whether it's mold or whether it's your microbiome having dysbiosis or whether it's a trauma that you need to deal with through MDMA-assisted psychotherapy, which hopefully will be passed soon. There's all sorts of things
+
+18:40.002 --> 19:05.278
+do to help the body but we have to have the the framework for having the right assessment of someone otherwise they don't get better and and you know i've had the privilege as working canyon ranch to my own private practice of doing tens of thousands of dollars of testing potentially on tens of thousands of patients over decades and seeing literally millions and millions of data points of their story and their labs and their treatment and their outcomes and so i have this really
+
+19:05.378 --> 19:32.030
+deep understanding of all the ways in which these systems interact and connect. And so I think people can map out what's happening in their biology in ways that now tell them what's really going on. And we're seeing that happening, that the testing committee is growing and that people wanna know what's going on in their bodies and they're using wearables and they're using CGMs and all kinds of self-diagnostic tools, which I think are important because people aren't getting the answer from the traditional medical system. Well, and a lot of physicians, unlike you, frankly,
+
+19:32.930 --> 19:57.342
+don't look very healthy, which people would say, okay, well, it shouldn't be about looks, but if I was at the dentist and I look up and my dentist is snaggle toothed and decaying teeth, it doesn't bring me a lot of confidence. You look pretty good for a hundred, huh? You look great and you're super vital. I think this idea of systems biology and health is really important for people to understand because
+
+19:57.826 --> 20:26.110
+You know, I always say, well, there are two sayings. I didn't say the first. The first one was taught to me when I was a graduate student, which is, you know, a drug is a substance that when injected into an animal or human produces a scientific paper. Meaning anytime you manipulate a variable, there are two things that if you, oftentimes, if you inject a drug at a high enough dose, you'll see an effect. If you deprive sleep, you'll see an effect. And that points to several things, but I think both of them
+
+20:26.210 --> 20:55.230
+have a vector in the direction of this system's biology. You know, if everything modulates everything else. So if your gut is off, it's gonna modulate your sleep, which is gonna modulate your cognition. And if you were to boost your, you know, some vitamin level ridiculously high or have it ridiculously low, it's involved in thousands of processes in the body. And so if you look at any one of those, you might see a subtle effect. I think the challenge of reductionist science and reductionist medicine is...
+
+20:55.810 --> 21:24.414
+because the goal in good science is to isolate variables, you can't by definition actually look at a whole system. Although now with AI, maybe you could explore how adjusting one variable impacts pretty much every major system of the brain and body. But it's just very hard to do. And as somebody who's done laboratory science for gosh, well over 25 years and instructed other people how to do it and graduate students and postdocs, I mean, it's an art, but it's limited experience
+
+21:24.546 --> 21:54.206
+in terms of what it can reveal. And we work as a system. So I think this is what we're getting at here. So you're saying the scientific process itself precludes us from really understanding things because we can't study things in the way that need to be studied? Well, yeah. Let's say you come into my lab and I wanna study how increasing L-carnitine, for instance, impacts your mood, immune system function, and sleep. I can do that study, but even that is just an infinitely complex study. I could do dose response. I'll probably do oral versus injectable.
+
+21:54.370 --> 22:21.406
+And then I can't control, unless it's in laboratory animals, on a same genetic background, I can't control whether or not one person's having a Snickers and the other person is having a Snickers and telling me, and then one person's lying. I mean, it is so hard to do controlled science. So what we end up doing is we end up creating very artificial environments, very artificial conditions, and isolating variables and outcomes. And at the same time, genomics, sequencing, proteomics have...
+
+22:21.634 --> 22:49.118
+allowed us to identify interesting genes that have a potential role in longevity or stem cells and Yamanaka factors. And so I feel like it cuts both ways. And so as a physician, when somebody comes in and I'm asking this question so that people can think about their own health, if people are feeling like not well, right? Where do you start? Like this thing, like where do you start? You start with how you're sleeping, how you're eating, skin tone. I imagine you can look at somebody
+
+22:49.570 --> 23:14.558
+and kind of get a sense of their vibrancy at the level of their eyes. Like, where do you start? I can tell people's blood works, and I was just looking at them. There you go. So where do you start? Like, what should we, when we look in the mirror in the morning, what are we looking for? I think that's a great question. I think that, you know, just to back up one second, I think, you know, you talked about, you know, putting high dose of something in or a lack of sleep. Functional medicine is about understanding
+
+23:15.586 --> 23:45.502
+the answer to two very simple questions and then designing a treatment model based on the answers to those questions. And the questions are one, what are you exposed to that's interrupting your normal function? Hence functional medicine. What is it, what is this bugging you? What's pissing your system off? Is it, and there's a short list, Andrew, it's toxins and it can be internal endogenous toxins or external toxins like heavy metals or pesticides or glyphosate or a million other things. It's,
+
+23:46.082 --> 24:15.614
+infections or microbes. So it can be post-COVID syndrome with persistent spike protein. It can be Epstein-Barr virus that leads to MS. It can be Lyme disease. It can be your microbiome being off, which is the truth for most of us. It's allergens, which are things that your body's reacting to, both environmental allergens or it could be food allergens or food sensitivities, which is not truly an allergen, but it's more of an adverse reaction to food from leaky gut. It can be poor diet, which I think most of us understand what that is. It can be
+
+24:15.746 --> 24:43.070
+stress and that can be physical, mechanical stress, like being hit by a car or psychological stress, or the meaning you make from a psychological stress, which is really what caused you to be sick. I know you've had Gabor on your podcast. No, not yet. We haven't had Gabor on. But we've had a number of people talking about the relationship between mind and body and stress. And certainly it's a profound connection. Yeah. So you have this list of five things that interacts with your genome and is really what we call the exposome.
+
+24:43.778 --> 25:09.694
+What your genes are exposed to is far more predictive than your genome. Your exposome includes the sum total of everything you're exposed to on the positive and the negative, all the things I just listed, but also all the ingredients for health. So I identify what are the impediments for health and then what are the ingredients for health? And the ingredients for health are not complicated. We're biological organisms, right? Despite trying to live outside of our biological constraints, we need the right kind of food, right? Whole food. What does that look like?
+
+25:09.826 --> 25:25.982
+Michael Pollan said, eat food, mostly plants, not too much, right? Or not too much, mostly plants, something like that. And it's basically eating foods that's as close to nature as you can find it. Grew out of the ground or had a pulse. Yeah, yeah, basically right. He says, eat food that's...
+
+25:26.114 --> 25:55.550
+Grown in a plant, not made in a plant. And I used to lecture at these churches and I'd say, it's really simple to figure out what to eat. Ask yourself, did God make it or did man make it? Did God make a Twinkie? No. Did he make an avocado? Yes. Would our ancestors recognize it? Yeah. Like, would your great grandmother know what a Lunchable was or a Go-Gurt was? So this generally means eating foods that are single ingredient foods or foods that combine only- Combine single ingredient foods. Single ingredient foods. Like, you look at a label. I read the labels. You look at it. Do I recognize this? Would I have this in my kitchen?
+
+25:55.714 --> 26:23.934
+Do I have butylate hydroxy toluene in my kitchen or red dye number three? Probably not, right? Unless you're a grandma making cupcakes that are really red. But so food. Fruit, vegetables, meat, fish. Yeah. Fruit, vegetables, yeah. Quality dairy. Yeah. I mean, I've written so many books on this, the Pegan Diet, Food, What the Heck Should I Eat? I wanted to call it Food, What the Fuck Should I Eat? But my publisher wouldn't let me. Nowadays, they probably would. I feel like they curse everywhere. So there's like, we can dive into nutrition, but just assume like you need-
+
+26:24.034 --> 26:49.438
+depending on your age and your sex and your, what you're doing with your life, you need the right nutrition of whole real food. Can I just ask you, we'll just quickly double click into there. What's your view on seed oils? Oy. No, just, you know, I mean, I'll say mine, I like olive oil and butter, coconut oil and things like avocados and some Brazil nuts and walnuts and stuff. So since I don't count calories, I kind of have an intuitive sense. Yeah.
+
+26:49.538 --> 27:10.014
+of what I'm taking in, how much fat, how much protein, how much starch, how much, you know, fibrous carbs, et cetera. So for me, like I wouldn't pick canola oil because I could pick olive oil. Right, right. Then I make sure it's real olive oil. And, but I don't think seed oils necessarily will kill me, but guess why they, I know they won't kill me because I don't eat them.
+
+27:10.274 --> 27:38.046
+we should be eating whole food fats as much as possible, right? Avocados, coconut, nuts and seeds, omega-3 fats from fish, olive oil, which is the most minimally processed oil you can get, extra virgin olive oil. And we're eating nuts and seeds. We're getting a lot of omega-6s. So the big theory behind seed oils is that it's omega-6 rich, it's imbalanced with omega-3s, it causes inflammation. The way they're produced and grown is...
+
+27:38.210 --> 28:07.294
+problematic. They're usually GMO crops like canola oil. They spray lots of chemicals on them. Those chemicals get in the oil. They're manufactured in an industrial way that oxidizes them, that uses hexane to get rid of some of the compounds in it, deodorizes them, bleaches them, and then they're easily oxidized. So would I want to eat an industrial food product? Probably not. Do we know for sure that it's a problem? I think the data is mixed. I mean, there's some studies that show epidemiologically that
+
+28:07.650 --> 28:30.046
+You know, people who eat more of these plant-based oils or seed oils have reduced risk of diseases. So we don't know what they're doing and there's food frequency questionnaires and these studies are proving correlation, not causation. And what it's replacing. Sorry to interrupt here, but, you know, I'll see the data that seed oils are better for people than butter. Okay. I like grass-fed butter, but I don't eat it in excess. Yeah.
+
+28:30.146 --> 28:59.678
+I once joked about that and I like, I made some jokes early on and having a podcast, not realizing the implications. But anyway, I'm very careful now. I have some butter in moderation. But so I could imagine that if you're eating a lot of lard and butter and bacon fat and you replace it with seed oils, you'll get healthier. But maybe, maybe, but you could imagine, I guess it depends on what else you're ingesting. Cause the carb, the starch fat combination is the one that gets people in my opinion. But right. Somebody could be eating a lot of meat and fruit and doing okay. Don't eat,
+
+28:59.874 --> 29:26.526
+like your butter with a bagel, put it on your broccoli. Because the saturated fat, refined starch combo is what's killing us. I wish people would really hear you on this. It's not fat per se. It's not starches per se. It's the combination of fat and starch, and in particular, fat, starch, and sugar. Yeah. Well, starch, sugar, I mean,
+
+29:26.626 --> 29:54.078
+below the neck. Your body can't tell if it's a bowl of sugar, a bowl of cornflakes, or a bagel, or a bowl of sugar. So if I put a pad of butter on a bowl of white rice, is it that bad? No, not really. Okay. But if I put a pad of butter on a muffin, it's bad news bears. Yeah. You're doubling down on the sugar, yeah. And I think, you know, to answer your question about the seed oil, the data's not really completely answering this. And it's part of the problem with nutrition. It's not a nutrition science. The one large
+
+29:54.466 --> 30:15.454
+randomized controlled trial that was done on like 9,000 people, not on 90 people or 50 people or 30 people, which a lot of these studies are, but on 9,000 people that were randomized in a psychiatric hospital. It would be unethical to do today. It was done by Ancel Keys. It was the Minnesota Coronary Experiment funded by the NIH, where they basically gave half the group
+
+30:15.746 --> 30:40.670
+butter, and half the group corn oil. Now, corn oil is a pure omega-6 oil, as opposed to soybean, which is mixed omega-3, canola mixed omega-3, 6 oils. And what they found was striking. They found that the group that had the corn oil, for every 30-point drop in LDL cholesterol, the risk of death from heart attacks or strokes went up by 22%.
+
+30:40.962 --> 30:59.678
+which is completely the opposite of what we think in medicine, which is LDL is the boogeyman. LDL is the bad cholesterol or L for lousy cholesterol. It's not so simple. And I think, I think these oversimplification of, you know, let's say these CEDAOs lower LDL, therefore they're good. It's just too simplistic.
+
+30:59.810 --> 31:27.038
+But would I, for example, have a corn oil that was expeller-pressed or that was organic or canola oil that was or sunflower or safflower oil? Yeah. I mean, I'm not worried about those in small amounts. But that's not what most people are doing. Most people are eating, most of their diet is ultra-processed food. 60% of adults, 67% of kids is basically junk food. And the major oil in those are these refined oils. So is it the oils? Is it the junk food?
+
+31:27.138 --> 31:55.294
+They're just a vehicle for this. And we've increased our consumption, for example, of the main seed oil or bean oil, it's not really a seed, is soybean oil by a thousand fold since 1900. Now, I'm sort of an evolutionary thinker. I'm like, how are our bodies designed and what should we be doing with them? And you talk a lot about light and that's like, you went to sleep with the sun, you woke up with the sun. It was just how things were. And you had circadian rhythms and our whole biological,
+
+31:55.586 --> 32:24.158
+clocks and rhythms are screwed up because of how we live. Yeah, well, we evolved under the major constraint of sunrise and sunset. That's right. And artificial lighting is a wonderful thing, but I think there's highly processed light. It's devoid of long wavelengths, the eradication basically of incandescent bulbs and all these LEDs and- Highly processed light. And daylight savings times. It's really messing people up. It means, oh, it's just an hour. No, actually it's your mental health. When it comes to the seed oil thing,
+
+32:24.258 --> 32:54.014
+I actually predict that seed oils will lose. I think in the end, it's just obvious. Like, why wouldn't people just say, you know what? The seed oil thing may or may not be a problem. I'm just going to eat olive oil and a little bit of butter. Yeah, that's kind of my view. It seems so simple to me. That's my view. Like, it's kind of my view is if you have a new to nature kind of compound or an unnaturally high amount of something that we're having in our diet, I mean, sugar was always around. We would get honey, whatever. But we'd have 22 teaspoons a year as hunter-gatherers. Now we have that every day for every American. Right.
+
+32:54.210 --> 33:15.198
+If you had a magic wand and you could get rid of seed oils or you could get rid of highly refined sugars in a modern American diet, which one would you? Yeah, no contest. It's starch and sugar that's driving our metabolic crisis, like by a huge factor, by a huge factor. Does that mean no pasta, no bread? It doesn't mean no, no anything. It just means...
+
+33:15.458 --> 33:44.798
+The volume of stuff we're eating is like, we're eating pharmacologic doses. It's 152 pounds of sugar and 133 pounds of flour, which has a higher glycemic index than sugar. Really? Yeah, well, that's how it's set. It's set at white bread as 100, and then sugar's 80, because it's fructose and glucose. So you have to break that apart. And so your glycemic load, which is how it affects your blood sugar, fructose doesn't raise your blood sugar. Glucose raises your blood sugar. So where did we go wrong? Because I was a teen in the 90s.
+
+33:45.474 --> 34:12.703
+Until I discovered fitness, I didn't eat poorly at home. My mom cooked whole food. I did. We had Pop-Tarts, Kraft Macaroni and Cheese. We weren't allowed that stuff. Tang. Fleischman's margarine. We weren't allowed that stuff. But we had our like Honey Nut Cheerios. Because I look like some preserved. We had our Honey Nut Cheerios and things like that. But we ate mostly whole foods. And then not from – there wasn't a whole foods market back then, but whole unprocessed, minimally processed foods. But I ate my fair share of –
+
+34:12.802 --> 34:38.654
+you know, pizza slices and burritos in college and stuff like that. But, and I was active, but I wasn't a serious athlete. But then somewhere around 2010 forward, I feel like everything, you know, again, just to be very direct, there was probably one kid or two kids in my school that were obese. Now, depending on where you live, you see 60, 70, 80% of kids are obese. Yeah.
+
+34:39.138 --> 35:05.630
+So, I mean, what happened? I wanna answer that, and then I wanna come back to the loop of what I was trying to complete on the big thought of like, how does a body work and how do you create health and what do you do? Please, yeah. Because you asked me that question, I wanna lose that question. What happened was there was this rise in cardiovascular disease in America, and there was this thought that saturated fat and fat was the bad guy.
+
+35:05.730 --> 35:34.430
+And this was the McGovern report in the 70s that went on to be dietary guidelines, that went on to be the food pyramid. And the food pyramid essentially told us that fat was the enemy. So it's only at the very tippy top, fat's known as sparingly. Bottom of the pyramid was six to 11 servings of bread, rice, cereal, and pasta a day. Which sounds like a recipe for being hungry all the time. And being obese. Right. Now, we didn't know at the time, but it became really clear that that was a bad idea.
+
+35:34.754 --> 36:04.126
+pretty quick and the hockey stick rise in obesity, type two diabetes tracks perfectly with that information. The American public trusted the government. They trusted the scientists. And when they said fat's bad, carbs are good, everybody listened. Eggs are bad. Eggs are bad, fat's bad, cholesterol's bad. Red meat's bad. Red meat's bad. So people ate less red meat, they ate less eggs, they ate less fat. And then we got snack well cookies. We got like low fat ice cream and like,
+
+36:04.386 --> 36:30.942
+And the sugar just went through the roof. And so that's when you see this explosive rise. And then there's other factors. Our microbiome affects our weight. Environmental toxins affect our metabolism. So there's a whole bunch of things happen in tandem. But that probably is the single biggest thing. So if someone is asking for me, should I worry about soybean oil or sugar and starch, it's 100% sugar and starch. I'd like to take a quick break and acknowledge one of our sponsors, Function.
+
+36:31.170 --> 36:55.390
+I recently became a function member after searching for the most comprehensive approach to lab testing. While I've long been a fan of blood testing, I really wanted to find a more in-depth program for analyzing my blood, urine, and saliva to get a fuller picture of my heart health, my hormone status, my immune regulation status, my metabolic function, my vitamin and mineral status, and other critical areas of my overall health and vitality.
+
+36:55.522 --> 37:25.374
+Function not only provides testing of over 100 biomarkers key to physical and mental health, but it also analyzes these results and provides insights from top doctors. For example, in one of my first tests with Function, I learned that I had an elevated level of mercury in my blood. Function not only helped me detect that, but also offered insights on how to best reduce my mercury levels, which included limiting my tuna consumption, and frankly, I had been eating a lot of tuna at that time, while also making an effort to eat more leafy greens and supplementing with NAC and acetylcysteine.
+
+37:25.506 --> 37:36.830
+Both of which can support glutathione production and detoxification. And by the way, it worked. My mercury levels are now well within healthy range. Comprehensive lab testing like that is super important for health.
+
+37:36.930 --> 38:00.734
+because basically a lot of things are going on in our blood and elsewhere in our body that we can't detect without a quality blood and urine test. And while I've strived to get those tests for many years, it's always been overly complicated and frankly, quite expensive. Function dramatically simplifies all of it and makes it very affordable. I've been so impressed by Function that I decided to join their scientific advisory board, and I'm thrilled that they're sponsoring this podcast.
+
+38:00.866 --> 38:25.982
+If you'd like to try Function, you can go to functionhealth.com slash Huberman. For this week only, April 14th to April 20th, 2025, Function is offering a $100 credit to the first 1,000 people to sign up for a Function membership. To get this $100 credit, use the code Huberman100 at checkout. Visit functionhealth.com slash Huberman to learn more and get started. Today's episode is also brought to us by Roca.
+
+38:26.082 --> 38:56.048
+I'm excited to share that Roka and I recently teamed up to create a new pair of red lens glasses. These red lens glasses are meant to be worn in the evening after the sun goes down. They filter out short wavelength light that comes from screens and from LED lights, which are the most common indoor lighting nowadays. I want to emphasize Roka red lens glasses are not traditional blue blockers. They do filter out blue light, but they filter out a lot more than just blue light. In fact, they filter out the full range of short wavelength light that suppresses the hormone melatonin. By the way, you want melatonin
+
+38:56.048 --> 39:24.734
+high in the evening and at night, makes it easy to fall and stay asleep. And the short wavelengths trigger increases in cortisol. Increases in cortisol are great in the early part of the day, but you do not want increases in cortisol in the evening and at night. These Roka Red Lens glasses ensure normal, healthy increases in melatonin and that your cortisol levels stay low, which is again, what you want in the evening and at night. In doing so, these Roka Red Lens glasses really help you calm down and improve your transition to sleep.
+
+39:24.866 --> 39:51.678
+Roka Red Lens glasses also look great. They have a ton of different frames to select from, and you can wear them out to dinner or concerts, and you can still see things. I don't recommend you wear them while driving just for safety purposes, but if you're out to dinner, you're at a concert, you're at a friend's house, or you're just at home, pop those Roka Red Lens glasses on, and you'll really notice the difference in terms of your levels of calm and all the sleep stuff I mentioned earlier. So it really is possible to support your biology, be scientific about it, and remain social at the same time.
+
+39:51.778 --> 40:18.270
+If you'd like to try Roka, go to Roka.com. That's R-O-K-A.com and enter the code Huberman to save 20% off your first order. Again, that's Roka.com and enter the code Huberman at checkout. So the 90s low-fat thing. Yeah, was a disaster. And I wrote a book called Eat Fat, Get Thin where I cataloged the whole history of how we got there and what the problems were and what the science is telling us about what we should be eating, about...
+
+40:18.498 --> 40:45.854
+the reconsidering saturated fat being bad, it's bad if you're eating it in the context of starch and sugar. For most people, it's not. And if you're obese or metabolically unhealthy, it actually can be better for you. There's a lower risk of diabetes and epidemiological studies with butter and milk fat. So I think we have to kind of like, I know nutrition is a very complicated subject. Or not, right? I don't know. I mean, do you think that nutrition is a very straightforward subject? It should be. It should be.
+
+40:45.986 --> 41:12.574
+Yeah, and I confess I've had some pretty diametrically opposed views from guests on this podcast. We had Robert Lustig on the podcast. We had Lane Norton on the podcast. You get those two on separate podcasts and they are like at loggerheads with one another, right? Now, Lane's correct in that total caloric load matters. It's not everything, but it matters. I would say many people have a hard time limiting their intake of starchy carbohydrates, especially if you put...
+
+41:12.674 --> 41:41.278
+a little bit of fat on there. It just becomes a different food entirely. Eating a bowl of white rice is pretty tasty. Eating a bowl of white rice with a pat of butter and a little bit of salt on there is a completely different experience. A piece of sourdough bread is one thing. A piece of sourdough bread soaked in a little bit of olive oil with some salt, I'm eating half the loaf. Pretty good, pretty good. And I have pretty good self-control. So this is where I think like we, there's, the debates have become almost silly. And I appreciate that you're being very direct with us here. So,
+
+41:41.442 --> 42:07.934
+Take us back. So you said there are ingredients for health and there are impediments to health. Yeah, so the ingredients for health are, again, not a long list because we're human beings. We need the right food, we need the right amount of nutrients, and it's different for different people. You might not know this, but Bruce Ames did an incredible paper who recently died, one of the giants of science, saying that one-third of our entire DNA codes for enzymes. All enzymes require cofactors. Most cofactors are vitamins and minerals.
+
+42:08.322 --> 42:36.862
+And there's a huge genetic variability in how much different people need. Some people need 1,000 units of vitamin D, some people need 5,000. Some people need 400 micrograms of folate. Some people need 4,000 micrograms of folate. And so he kind of explained that very carefully. So he has to find the right amount of nutrients for you. You need the conditionally essential nutrients, which people don't think are absolutely essential, but things like CoQ10 and various things that the body requires that we may not get enough. Then you need light, you need water, you need clean air, you need...
+
+42:37.058 --> 43:01.470
+movement, you need rest, and I would say that in the parasympathetic state, kind of what I mean by rest, you need sleep, you need connection, love, meaning, purpose. These are all ingredients for health. And any one of those can make you sick, whether it's just being isolated and alone or not having a purpose in your life. If you have meaning and purpose in your life, there's a gem in paper published that you're likely to have seven years longer. Now,
+
+43:01.602 --> 43:29.022
+If you cut out all cancer and heart disease from the face of the planet, the extension of life expectancy is seven years. The mind is incredible. I have a colleague at Stanford who works in the sleep division, sleep medicine. And he said, and I shouldn't tell people this because everyone's supposed to get enough sleep, right? But he said if you positively – he has a study that shows that if you positively anticipate next day events, your sleep need is actually reduced pretty substantially. That's good. And the quality of sleep that you get is –
+
+43:29.250 --> 43:58.782
+Well, that's why I slept so good last night. I was looking forward to this. Exactly. Well, these small things, right? Cause we all know the experience of like, I only slept five hours, but I got this thing today I'm really looking forward to. You feel great. And so I'm not, I don't think people should only sleep five hours once people need more than that. So the idea is basically with functional medicine, you take out the bad stuff and you put in the good stuff. And each person has a different set of bad stuff and a different set of good stuff. And you have to be detective. And it's the opposite of traditional medicine, which is just use a single drug to treat a single mechanism with single disease and a single outcome.
+
+43:59.362 --> 44:23.806
+You have high blood pressure, take a high blood pressure drug to lower your blood pressure. We need multimodal treatments for multi-causal diseases. And so what in English that means is we need to do a lot of different things. Like if you want a garden, you don't just say, I'm going to put the plant in the air and not water it and not give it soil. Or you're saying, I'm just going to plant it in the soil, but no light and no water.
+
+44:24.290 --> 44:51.198
+I mean, you know, and this is the way science is. I remember trying to do a study on Alzheimer's at Cleveland Clinic and the top scientist there was like, we wanted to study these multimodal dimensional approaches to call it a black box approach. Everybody's getting a different treatment. It's super personalized, customized, based on their own biology. There's no one such thing as Alzheimer's or different Alzheimer'ses. I don't know if that's a word, but you know what I mean? And that's why we failed so miserably with the amyloid hypothesis because we're just looking at the end stage phenomenon, which is plaque,
+
+44:51.810 --> 45:12.830
+going into an area that's inflamed to kind of deal with the inflammation. What caused the inflammation is really the question. And it can be variable things. So we start to kind of map these out. And when you do that and you actually get to the root causes and you try to treat all the things that are out of balance, people get better. So if you have a vitamin D deficiency and a folic deficiency and you have a
+
+45:12.962 --> 45:41.950
+you know, tons of small bowel overgrowth and you have heavy metals and you have all these different problems, you can't just treat one thing and expect the person to get better. You've got to look at all those things. And some are more primary, some are secondary, but that's the job of a functional medicine doctor. It's a detective. And for me, what's exciting is, you know, you said how many people do this? Not that many. How many people are like experts who've done this for decades and have seen thousands of patients? A few hundred. Wow. You know, have we trained a hundred thousand people? We've
+
+45:42.402 --> 46:12.350
+have 3,500, I think, certified, another, I think, 3,000 or 4,000 in the pipe to be certified, not that many people who can do this. And that's part of why I created this company called Function Health, which you've been so supportive of, which is to allow people to understand what's going on in their own biology, to be empowered to be the CEO of their own health, and to get the data that's going to help them identify the different things that are going on to actually do something about it. Before we move to health metric monitoring, I do want to ask about
+
+46:12.578 --> 46:39.390
+ingredients for health. You talk about them. They're your protocols. You don't use that framing, but that's the framing. It's take out the baths and put in the good stuff. The body knows what to do. It's got an innate healing system. Just give it a chance. I think what's so terrible about traditional medicine, it has many wonderful features, is that at least the way it's communicated in this country is that it assumes that people are lazy and uninterested in their own health. And I fundamentally disagree. Hence,
+
+46:39.490 --> 47:09.054
+this podcast, your podcast, et cetera. I agree too. I believe people want and are willing to take care of themselves if they know how. Okay, so let's just assume that the pillars of health, right? Like sleep, sunlight, exercise, nutrition, social connection, stress modulation, microbiome, et cetera. Okay, assuming that people are making some effort to do those things correctly or a lot of effort, what are some of the things that you believe cannot be accessed through...
+
+47:09.570 --> 47:33.598
+diet and behaviors that warrant supplementation. And I've been interested in supplements and taking supplements for 35 years. So to me, when people say, oh, supplements aren't regulated, I say, actually they are regulated to some extent, right? Like they're monitored. You want to find ones that are third-party tested. Indeed, there are a lot of junk supplements out there. There are probably a lot of supplements that don't do much. There are probably a lot of supplements that are only
+
+47:33.826 --> 47:46.782
+use cases for certain people who have a major deficiency. But what are some of the things that are just very difficult to get from food and from sun? Because we hear, you know,
+
+47:47.010 --> 48:10.462
+The soil is depleted magnesium. It's hard to get enough D3. If you were to list out, let's just say about 10 things that you feel like, listen, you probably could get it from food, but it's just hard to get these micronutrients. What are those things? And by the way, folks, this is not a preloaded conversation. We've never had this conversation. I know what I take, but I'm just curious. Because people will try hard to get things from food, but what are the things that they –
+
+48:10.754 --> 48:38.270
+can't get from food or can't get from food easily that you believe everyone should take. Great question. I thought you were going somewhere else. I thought you were going where, what are the things if you did everything perfectly and you're still sick, what do you do? Oh, well, we'll get to that. We'll get to that. There's a list of those things. We will get to that. 80% of it you can take care of, but there's some things you need help. We can talk about that. I think because of how dramatically our diets changed after the industrial revolution and because of urbanization and our disconnection from nature,
+
+48:38.882 --> 49:03.806
+We have a lower nutrient intake than we did as hunter-gatherers. I just came back from Africa and went to the Hadza tribe, which is one of the last hunter-gatherer tribes, and I got to spend a few days with them. The nutrient density of the diet was so much higher. Omega-3s, vitamin D, you're outside running around on a loincloth, or if you're not, you're living in some coastal area, you were eating extremely fatty fish, which is one of the great sources of vitamin D in the food. They were eating...
+
+49:03.938 --> 49:30.366
+phytochemicals at an incredible rate through eating 800 different species of plants. Now we have three main ones and 12 of them are altogether comprised probably 95% of our diet instead of 800 plants with all kinds of phytochemicals and vitamins and minerals. The soils we're growing food in have depleted the organic matter because of industrial farming and soil erosion. And the organics matter, the living soil is what actually helps to
+
+49:30.978 --> 49:46.398
+allow the plants to take up the nutrients from the soil so that there's a symbiotic relationship between organisms in the soil and the plant. And it uses them to help get nutrients free so they get into the plants. So where there's less magnesium, there's less zinc, there's less all these things in our diet.
+
+49:46.658 --> 50:14.654
+And when you look at the surveys of the American population, there's an ongoing government survey called the National Health and Nutrition Examination Survey. It essentially goes around the country with vans, tests people's blood all the time, and this is like a decades-old survey. And it's incredible because you get all this data. They find that like 90-plus percent are low in omega-3s, probably 80% are insufficient or low in vitamin D, 50-something percent are magnesium deficient, about the same iron, you know,
+
+50:14.754 --> 50:38.622
+Zinc a little bit less, selenium a little bit less. And it depends on where you live and what you do and also depends on your diet, you know, so, and what your stage of life is and what your age is and how your absorption is. For example, when you're older, you know, you get decreased ability to absorb nutrients and decreased ability to absorb, for example, vitamin B12. So at different ages, you might need different things, right? And so what are the basics that I think everybody should take? I think
+
+50:38.882 --> 50:58.654
+Everybody should take omega-3 fats, at least a gram or two of EPA, DHA. Most people need between two to 4,000 international units of vitamin D3. I think a good multivitamin can cover the rest for most people. And when I say good multivitamin, I mean one with the right bioavailable forms of nutrients. I was in the hospital recently for back surgery.
+
+50:58.946 --> 51:15.230
+And this resident came by and he was attending, saying, well, I said, I think I need some magnesium because I'm taking all these painkillers for my surgery and I don't wanna be constipated. He said, oh, you can get this one. I'm like, I said, that's magnesium oxide. That's not well absorbed.
+
+51:15.586 --> 51:42.014
+Not the greatest for- You eating magnesium citrate? Yeah. So I said, and he was like, oh, that's really interesting. I didn't know that. He wrote it down. So I think- Yeah, I have a lot of friends who are physicians and I'll tell you, they come to me for health advice. So that tells you something. That's right. I'm not an MD. Yeah, folks, magnesium, magnesium citrate, great laxative. Yeah. Glycinate for muscles, glycinate and threonate for brain and sleep. Yeah. And glycinate for also if you're not-
+
+51:42.306 --> 52:11.550
+you know, tend to be constipated, it's one that you can tolerate and not be constipated. It also helps with detoxification and sleep and other things. And so those are the big ones. And I think, you know, I've been diagnostically testing people for decades of nutritional testing. With Function, we do deep nutritional tests, including omega-3 testing and homocysteine, looking at methylation, which is a really important thing you've talked about in the podcast, B12, folate, B6. We do vitamin D testing. And we see over 67% are deficient. And this is important to understand, Andrew.
+
+52:11.650 --> 52:41.054
+67% are deficient at the minimum level to prevent a deficiency disease. Not the optimal level that you might think is good, like vitamin D over 45 or a ferritin iron store over 45. They're like, oh, if your vitamin is 30 or more, you're okay. Or if your ferritin is 16 or more, you're okay. Well, if your ferritin is 16, you're going to be tired, you're going to have brain fog, you could have potentially hair loss, you could have insomnia, and that's just having low iron stores. And so when we're looking at that, we're like seeing what an incredibly...
+
+52:41.602 --> 53:06.238
+depleted population we are in terms of the nutrients we have. So I wish we wouldn't need them and I wish we didn't need them. But the fact is that unless we're eating a very structured diet, and I had a patient once who was at OCD and she's like, I don't want to take any vitamins. I said, okay. She says, but I'm going to eat, I know there's pumpkin seeds have zinc. So I'm going to have like 14 pumpkin seeds a day and I need 200 micrograms of
+
+53:06.850 --> 53:27.582
+selenium. So I'm going to take four Brazil nuts a day. And she went on and on like, I know I need this nutrient, so I'm going to have this much liver a day. And so she was able to figure it out, but it's not easy. So it sounds like magnesium getting a gram of EPA, omega-3, 3,000 IU minimum of D3 per day is
+
+53:28.066 --> 53:49.854
+some iron, some zinc, selenium. Sounds like the basics. And would that be true for teens? For example, you're an older guy, you don't wanna take a lot of iron because you're not getting rid of it and you can get iron toxicity. So if you're a menstruating woman, you need more iron. But what I think is the key is figuring out what's right for you. Tests, don't guess. Most people don't know. And some people may need, you know,
+
+53:50.050 --> 54:10.750
+10,000 units of vitamin D to get the same blood level as somebody else with 1,000. And that's because there's different vitamin D receptors and they're genetically determined and you can't know by just guessing. Right. I totally agree. But I also totally know that a lot of people won't blood test. So the argument against supplements has always been you just –
+
+54:11.234 --> 54:40.606
+are creating expensive urine, which is a silly one because that's based on water soluble vitamins only, right? And by the way, it's a stupid argument because you're like, why drink water? I just pee the rest out. I mean, like, while I'm creating- It's a silly one. But the list that we just talked about, D3, omega, magnesium, maybe some iron if you're not an older guy, zinc, selenium, it seems to me those would be good things for most everybody to add to their already-
+
+54:41.154 --> 55:10.014
+healthy diet that has enough prebiotic, you know, postbiotic fiber. And we're seeing iodine interesting because people are eating the iodized salts. They're having sea salt and Himalayan salt. We got too fancy with our salt. We need table salt. We're not eating iodized salt. Now, iodine is not normally found in salt, but it was added to salt. It's a fortification to prevent goiters or thyroid problems. But a lot of people have thyroid issues. One in five women and one in 10 men have low thyroid function and 50% are not diagnosed with
+
+55:10.146 --> 55:38.142
+And sometimes just a little iodine supplementation can help. Or you can eat seaweed, you know, or fish. But a lot of people don't eat seaweed or fish. So, you know, that's how you would get iodine otherwise. So I think people need to kind of figure out what's going on with themselves and based on their diet and their preferences. And if you're a vegan, I mean, you know, I think, you know, we're seeing tremendous deficiencies in vegans if they're not supplemented. We hear a lot nowadays about methylated B12. Mm-hmm.
+
+55:38.242 --> 56:07.166
+I decided to just start taking methylated B12. Is there a danger to taking methylated B12 if you quote unquote don't need it, if you're not a poor methylator? It depends on what you're taking. Mostly not, but you can over-methylate or under-methylate. And so you don't want to be doing too much of either the other. And there's genetics that are involved in actually assessing how your methylation pathways work. So the genetics are on B12, around B6, around folate. And you have multiple genes that regulate all these different pathways.
+
+56:07.394 --> 56:30.590
+So it depends is the answer. But for most people taking a good multivitamin, and when I say good, I mean it doesn't have any fillers or binders or additives. It's not blue. It doesn't have titanium dioxide in it. It has forms of the nutrients that actually can get utilized and it's more and better by the body. We talked about magnesium oxide versus glycinate or citrate. And that you...
+
+56:30.754 --> 56:59.710
+that you make sure the company has integrity, that they've third-party tested for the purity and the potency, meaning if it says 1,000 units on the label, it's 1,000 units, not 10,000 or 2,000. And then it hasn't had any cross-contamination with ad as their chemicals. So sometimes you get something with an herbal product that comes from China, the company didn't realize it was full of lead or whatever. Now we're seeing all these plant proteins with lead in them. Yeah, I want to make sure that we talk about the impediments, things like mold, air, water, cleanliness,
+
+57:00.354 --> 57:24.958
+things of that sort. But I want to spend just a little bit longer on this supplement thing. Maybe because it's so near and dear to my heart and because it has sparked a lot of confusion for me, not supplements per se, but the reaction to them. By traditional medicine? Yeah. Why is it that supplementation...
+
+57:25.122 --> 57:51.902
+has received so much pushback from the medical community. And yet I would argue that since 2020, you're going to find vitamin D3 and omegas, essential fatty acids and magnesium in many, many more people's kitchens, meaning they're taking it then prior to that. And this reminds me of yoga, yoga,
+
+57:52.226 --> 58:21.630
+resistance training, yoga was for yogis, resistance training was for bodybuilders and people in the military. Now everybody knows men and women, maybe even young people should do it as there's some argument that they should. I have my thoughts about young people lifting really heavy, but in any case, the breath work, there's a lot of science now, meditation, there's tons of science. So these things that at one point were considered niche, biohacking, woo and unsafe, inevitably have been,
+
+58:21.762 --> 58:50.654
+seem to become mainstream. And I think supplements is starting to happen now. Yeah, well, it was interesting. When I got to Cleveland Clinic in 2014, I said, let's do a survey. There's 3,000 physicians. Let's do a survey of the physicians about their beliefs, practices, desires, goals, needs around supplements. I was shocked. We got a lot of answers. And I'm not remembering the exact percentages, but I'll give you the sort of ballparks. Like,
+
+58:51.138 --> 59:18.206
+It was over, like, do you take supplements yourself? Like over 70% of the doctors did. Do you recommend supplements to your patients? Probably like 20% or less did. Would you like to have a source where you knew the quality and had recommendations about the safety? Yes, we desperately want to do that. Would you prescribe them to your patients more if you did? Yes, and I'm like, and it's used, if you look at every medical specialty, cardiologists are using CoQ10, right, and fish oil, and you've got
+
+59:18.306 --> 59:48.254
+gastroenterologists using probiotics, and obviously OBGYNs recommend supplements for prenatal vitamins, and you've got pediatricians recommending certain vitamins for kids. So you look across all the specialties, and you're like, well, they're already kind of integrated, kind of on the margins, but integrated into their practices. I think there's this kind of weird thing where you'd go to a conference, and I would do this, doctor, how many people recommend supplements to their patients? And you know, a few hands would go up. How many of you guys take supplements, and like, most of the audience would raise their hand? And I thought that was so peculiar, because
+
+59:48.386 --> 01:00:15.070
+In medicine, we're told from a scientific perspective that they're probably expensive urine. And yet most doctors personally want to take them for themselves. That says a lot. It does say a lot. And I think we're entering an era where I think there's more and more science. We're understanding more about the complexity of individuality and biochemical individuality. And this was, this was, you know, this personalized precision medicine. This is where we're all headed. Right. And, uh,
+
+01:00:15.362 --> 01:00:39.550
+one of the fathers of sort of the thinking in functional medicine was Roger Williams, who discovered pantothenic acid or vitamin B5. He wrote a book called Biochemical Individuality. And actually his book was the one that got me interested in this in college, because I lived with a nutrition PhD student who was talking about basically the gut flora of cows when he was studying to understand fiber and the microbiome. And he gave me a book called Nutrition Against Disease by Roger Williams.
+
+01:00:39.714 --> 01:01:08.830
+And this is like in 1980. And I read it and I was like, oh, wow, this is nutrition is such an important thing. So I think doctors are beginning to understand the value of nutrition, the value of nutritional sort of supplements, the value of testing for nutrients. It's still slow, but I think we're going to get there. There's a whole generation of physicians and scientists that I do think in the current shift in funding for science, different conversation entirely, are going to retire.
+
+01:01:09.026 --> 01:01:36.734
+And I'm not sure it's a bad thing. I don't mind saying this. I don't mind saying it. I think they've done a really wonderful job and now it's time to pass the baton. The younger generation and the forward thinking, you know, people in their 60s and 70s are changing the game. It's a very different game now. And I think it's hard for them to understand that. And it's got to be scary. But –
+
+01:01:36.962 --> 01:02:06.270
+the younger generation is much more versed. I will say that I actually would like your reflections on something. For someone that's listening to this conversation and you think, oh goodness, now I have to buy organic foods and buy all these supplements. And let's say somebody has a limited budget. Do you think it's fair to say, okay, if you have a limited budget, you would be very wise to get cardiovascular exercise at least three days a week, do some resistance training, which can be done with body weight. And could you say, eat, you know, eggs, fish, meat, fruits, and vegetables
+
+01:02:06.690 --> 01:02:35.070
+Nuts and seeds and olive oil and you... And you're there, right? And if you look at the cost of buying food out versus that, you're probably coming out ahead. Because I'm thinking about the college student. I'm thinking about me in college or as a postdoc or a graduate student. So I think for people that have more disposable income, it makes sense. You eat as well as you can, organic, you supplement, you blood test. And I want to talk about those things. Let's talk about some of the impediments. And I do want to keep budgetary...
+
+01:02:35.554 --> 01:03:04.190
+restraints in mind because I think people fall into the category of poor, some disposable income, and lots of disposable income. And all too often in the biohacking sphere, we're talking about that last category. And we don't want to lose anyone along the way. So air. We had fires here in Los Angeles. It was dreadful. The beach now all the way down to Marina del Rey. I ran down there yesterday. It was completely
+
+01:03:04.898 --> 01:03:34.654
+littered with chunks of charcoal. They mow it under the sand. It's going out to ocean. Most people don't, listening to this probably, don't live in Los Angeles. How bad is our air in the United States, Northern Europe, Australia? Like, is there any clean air left? I mean, yeah, maybe in the mountains in Colorado. Okay, so the air is dirty. I think, you know, compared to what is the answer? Like, if you go to India or China or some of these developing nations or
+
+01:03:34.978 --> 01:04:04.862
+not even developing anymore, the air is so bad. I mean, they have all kinds of petrochemical products they burn, they have coal factories. I mean, it's just, it's really bad. So in America, I think the air quality in general is much, much higher. I think when you have things like wildfires, it's a different ballgame than just the wood smoke itself. If it's just a tree's burning is bad enough, but then you burning houses and batteries and plastics and you've got PFAS chemicals. And we actually found that
+
+01:04:05.058 --> 01:04:30.782
+Those chemicals go up on their function testing and people live in the LA who've actually been in the fires. Yeah, I need to get tested again since... Because I haven't been tested since the fires. I mean, I feel fine. Yeah. But I got out of town. I drove up to San Luis Obispo. Yeah. Parked myself at a big pink hotel called the Madonna Inn and looked at the horses and worked on my book. That's good. The air felt clean. Yeah. But is the air clean when there isn't a fire? Yeah.
+
+01:04:31.554 --> 01:04:59.294
+I mean, not necessarily. I mean, for example, and it just, just help people understand that air, air moves. It's not like there's just LA air or, you know, Colorado air in Seattle. They had a big mercury problem in the air because of China, because Northeast China, like Beijing and Harbin in the winters, they just burn huge amounts of coal and it goes up in the air and it goes across in the, in the Gulf streams and the, and the, and the air streams, whatever they call them.
+
+01:04:59.490 --> 01:05:17.982
+And it gets all the way to Seattle and it rains heavy metal rain. And so no matter where you live, you're kind of exposed to the collective air. There's some for sure areas that are much cleaner. But I think that most people, if you have an air filter in your house where you spend most of your time, you're probably okay. So is it a separate unit?
+
+01:05:18.178 --> 01:05:47.262
+air filter? Yeah. You can get one for your house, which most houses have, and make sure you change the filters. Or you can get a special HEPA air filter if you live in a more urban area or more environmentally toxic area. I love to exercise outside. Is running and breathing harder outside? In LA or in general? Well, I like to do that wherever I go. But when I'm in New York City, I love to run along the freeway, probably breathing in a lot of junk. You are. Yeah. I mean, and the question is, what's going to
+
+01:05:47.362 --> 01:06:04.350
+be a problem for you. Like all of us are toxic soups, right? So it's just the amount over time that builds up and then eventually sometimes things can happen. It causes cardiovascular disease, it causes dementia, it causes cancer, it causes diabetes. So toxins are direct causes of these things among other things, diet and other things.
+
+01:06:04.450 --> 01:06:32.350
+I think, you know, you can't go crazy about it. I mean, we living in the 21st century, we are where we are, unless you want to move to like some remote island in the South Pacific or something. Iceland's looking pretty nice. Iceland's looking good. Yeah. I mean, like Greenland seemed to be the 51st state. Is that going to happen? I don't know. I'm just joking. I'm making fun of it. But I mean, you know, like there are places, but I think for most of us, we have to just manage it. And like we filter our water. I think, you know, I wouldn't drink tap water. There's,
+
+01:06:32.482 --> 01:07:00.926
+an average of 37 or eight wastewater contaminants, including drugs, including pesticides, including glyphosate. I mean, like hormones, if women are taking the pill or taking hormone replacement therapy, where does that go? There's some amount that gets excreted in the urine. It goes into the water treatment plants. They don't filter that stuff out. I mean, they get the bugs out, but you're getting all that stuff in your water. So having a reverse osmosis water filter is a good idea. But I think the cost thing is really important, Andrew. I think one of the people...
+
+01:07:01.538 --> 01:07:29.150
+the problem people think about is that, oh, it's expensive to be healthy. And I think that's a myth. I think you mentioned a lot of foundational things like eating real food, exercising, getting up to sleep, managing stress, breath work. These are things that are free. Your breath is free. You can move your body. You can do body weight if you can't even afford bands. Food is interesting because the food industry has been very good at brainwashing Americans that they need highly processed, cheap junk food.
+
+01:07:30.274 --> 01:07:58.526
+not accounting for the actual cost of that food, which is $3 for every $1 you spend on that food, you're gonna spend $3 in collateral damage to your health, to the economy, to the environment, to social fabric. I mean, this is a Rockefeller report on the true cost of food. But if you actually just look at the actual price of the food, if you eat real food, it doesn't have to be expensive. Now, you might not be getting a $70 ribeye that's grass-fed from New Zealand. You might be getting like short ribs that aren't organic or grass-fed. That's okay.
+
+01:07:58.722 --> 01:08:15.422
+like whole grains, beans. I mean, I grew up, you know, like poor and we used to have like, you know, have, you know, liver and onions, you know, which is like the cheapest. I mean- And that's chicken liver. Chicken liver, yeah. Chicken, chopped liver, you know, what are you going to say? Chicken liver, not for me. But, you know,
+
+01:08:15.714 --> 01:08:42.846
+there's been studies that it may cost the same or maybe 50 cents extra day to eat well. And there's a guide from the environmental working group called good food on a tight budget, which is how to eat well for you and for your wallet on the planet. And there, you know, we, we grew up, we have borscht, like it was, was short ribs, which is like the cheapest kind of meat, onions, cabbage, carrots, tomato, can of tomatoes. It's pretty darn cheap. And you could feed your, like a family of like six for a few bucks, you know? So, and, and,
+
+01:08:43.138 --> 01:09:11.710
+There's been a lot written about this, but the food industry is great at convincing us that it's elitist, that it's expensive, that it's all organic. Forget about organic, not organic, regenerative, not regenerative. If you don't have a lot of resources, just focus on eating real food and you will do better and feel better and be more productive and walk around not feeling like crap. Do you think that one of the reasons food and nutrition is so complicated in this country is that with the exception of the hamburger, the hot dog, apple pie, and...
+
+01:09:12.002 --> 01:09:34.718
+ice cream, that there isn't really an American cuisine. What's wrong with all that? Years ago- Hot dogs, hamburger, apple pie ice cream. Right. Years ago, I had a girlfriend who was from the south of France. She grew up very modestly, did not have wealth at all. But her family ate very well.
+
+01:09:35.170 --> 01:10:01.470
+They put a lot of effort into food. They put a lot of time into food. And she knew about – she was in her early 20s. I was in my mid-20s. And she knew probably 200 recipes for soups and soufflés. I mean it was like – it was amazing. I ate very well. So I feel like one of the things that's really missing in this country is a sense of pride in the healthy food that we can produce here. And there's never really been a history of it. No.
+
+01:10:01.986 --> 01:10:31.966
+we have kind of a picture of the farmer and the rancher. And then on the West coast, you have more of the kind of like natural food movement or the healthy food movement, Alice Waters and Michael Pollan and that kind of thing. But that's considered kind of hippy dippy. I lived in Berkeley, so I can say that. And so, and they've made great effort to try and popularize that. But I think that's one of the reasons that we've commoditized food now. And so American food is junk food, cotton candy. That's true. You know, what happened was, and it was after the World War crisis,
+
+01:10:32.770 --> 01:11:01.566
+because my mother and grandparents were pre that generation. So they had an incredible food culture of real food. My grandmother tells me stories or told me stories, she died, of plucking chickens at the local butcher so she could get a nickel to go to the movies. But I feel like that came by way of people's ethnic past because they were first and second generation immigrants. Fair enough, fair enough. But still, what happened was the industrialization of the American food system. So after World War II, there was all these bomb-making factories and all these biochemical factories
+
+01:11:01.730 --> 01:11:21.534
+biological warfare factories. So they got turned into bomb factories, got turned into fertilizer, which was nitrogen. And the biological weapons were pesticides and herbicides. So basically pesticides are biological weapons. They're neurotoxins. That's how they kill the insects. They force sterilize them. Yeah, and then we thought everything industrial is good.
+
+01:11:21.698 --> 01:11:46.558
+know, remember in the 60s, you probably remember, they had like Better Living Through Chemistry through DuPont and didn't realize it was killing everybody, right? And the World's Fair, and I mean, I grew up in Queens and the World's Fair was in Queens in 1965 and I went and I didn't obviously remember that skit, but I've seen things about it. So the industrialization of the food supply, the agricultural industrialization with mechanization, the destruction of the soil, the production
+
+01:11:47.138 --> 01:12:15.134
+overgrowing of starchy carbohydrate crops to feed a growing hungry world. We wanted that. Like we now produce 500 calories more per person in America than we actually need to eat. And we export a lot of that. So the industrialization was a thing. And then in the 50s, the food industry started to make a lot of processed food. And they were completely taken off guard because there's this woman named Betty who was a home ec teacher who was part of the federal extension workers that was a
+
+01:12:15.618 --> 01:12:44.190
+paid for federal program to send people out to young families to teach the mothers how to, and it was sexist because it was the mothers, how to cook and how to garden and how to grow their own food and how to be independent and how to eat real food. It was like really great. And there was a big meeting in Minnesota around that time, General Mills sponsored, but all the big food companies came and they decided convenience had to be king and we had to make that a value. They invented Betty Crocker, not a real person,
+
+01:12:44.322 --> 01:13:12.734
+Benny Cracker cookbook, you might remember that cookbook, but it was like, oh, add one can of Campbell's cream of mushroom soup to your casserole, or add one roll of Critz crackers to your broccoli casserole. So they insinuated that, and there were TV dinners, and I grew up in that area, and then there was like, you know, the food of astronauts, like Tang, and Fleischmann's margarine, better than butter, and so it was- And there was a cup of noodles. Yeah, yeah, so we basically got this whole culture of like convenience, and then you deserve a break today from McDonald's, and we basically disenfranchised people from their kitchens, we
+
+01:13:13.314 --> 01:13:35.678
+have whole generations of Americans who don't know how to cook, who don't know anything about shopping or where vegetables come from. I mean, Jamie Oliver did a whole television show series in West Virginia where kids didn't know what a tomato was and they saw a tomato or a carrot or they couldn't name a vegetable, right? Because they had never seen one. And now most of America is like that. And so they have succeeded in disenfranchising ourselves from our kitchen,
+
+01:13:35.842 --> 01:14:02.750
+We need to, they've hijacked our kitchens, our brain chemistry, our metabolism, our hormones. We need to take it back. And it's like the body snatchers. Like we really need to take our bodies back, own our own biology, understand that we're in charge, understand that we shouldn't abdicate our help to anybody else, including the doctor. You have a doctor as a partner, as an advisor, as a collaborator, but like they're not God and they don't know everything. And now with the advent of self-testing, like functional health is like $1.37 a day.
+
+01:14:02.946 --> 01:14:25.662
+It's still money, but it's affordable for most people. And it's a lot less than a latte. Yeah, it's like, and we do $15,000 for the test for $499 a year. And you get a panel of tests that tells you what's really happening. And people can own their data and own their biology and be proactive and preventive and actually understand what's happening way before they get into real trouble. I'd like to take a quick break and acknowledge our sponsor,
+
+01:14:25.762 --> 01:14:47.838
+AG1 is a vitamin mineral probiotic drink that also contains adaptogens. I started taking AG1 way back in 2012, long before I even knew what a podcast was. I started taking it and I still take it every single day because it ensures that I meet my quota for daily vitamins and minerals. And it helps make sure that I get enough prebiotics and probiotics to support my gut health.
+
+01:14:47.970 --> 01:15:17.936
+Over the past 10 years, gut health has emerged as something that we realize is important not only for the health of our digestion, but also for our immune system and for the production of neurotransmitters and neuromodulators, things like dopamine and serotonin. In other words, gut health is critical for proper brain function. Now, of course, I strive to eat healthy whole foods from unprocessed sources for the majority of my nutritional intake, but there are a number of things in AG1, including specific micronutrients, that are hard or impossible to get from whole foods. So by taking AG1 daily, I get the vitamin
+
+01:15:17.936 --> 01:15:29.822
+vitamins and minerals that I need, along with the probiotics and prebiotics for gut health, and in turn, brain and immune system health, and the adaptogens and critical micronutrients that are essential for all organs and tissues of the body.
+
+01:15:29.986 --> 01:15:59.952
+So anytime somebody asks me if they were to only take one supplement, what that supplement should be, I always say AG1 because AG1 supports so many different systems in the brain and body that relate to our mental health, physical health, and performance. If you'd like to try AG1, you can go to drinkag1.com slash Huberman. For this month only, April 2025, AG1 is giving away a free one month supply of omega-3 fish oil along with a bottle of vitamin D3 plus K2. As I've highlighted before in this podcast, omega-3 fish oil and
+
+01:15:59.952 --> 01:16:28.414
+vitamin D3 plus K2 have been shown to help with everything from mood and brain health to heart health and healthy hormone production and much more. Again, that's drinkag1.com slash Huberman to get the free one month supply of omega-3 fish oil plus a bottle of vitamin D3 plus K2 with your subscription. The confusion for me has been the pushback on self-directed health. You know, I had something come to mind as you were saying all this, which is that
+
+01:16:29.090 --> 01:16:58.046
+I do believe that until health becomes a point of national pride for Americans, that we're going to become the sickest nation in the world. No, we are already. Well, we're going to continue to be right. But there's this thing that happens when you start taking care of your health. And I know this because in college, I decided to stop drinking as much as everyone else around me drank. It was, it was insane. It was unbelievable. The amount of binge drinking and just the frequency, like Wednesday, Thursday, Fridays, I was like, this is crazy. And,
+
+01:16:58.146 --> 01:17:25.918
+And I got really into working out and sleep and studying. And I had to be a bit lonely in order to preserve that life. But I got teased a lot for being healthy. But the point being that it still takes some self-confidence, rigidity, and kind of determination to push off the people like, oh, it's so self-focused to focus on your health. You're spending money on these, on vitamin D3,
+
+01:17:26.050 --> 01:17:55.102
+you know, or, oh, you can't have a slice of pizza. It's like, no, you can, but the point is maybe you don't want to because you have a certain amount of self-pride, not because pizza can't be amazing. There are some amazing pizzas, by the way, but most pizza's crap and some pizza's amazing. And it's worth it to wait for the amazing pizza, in my opinion. So I guess the idea here is what we really need, it seems, is it's kind of a psychological, cultural, medicine revolution. And
+
+01:17:55.554 --> 01:18:07.198
+True revolution given the way things are going with the obesity rates. And so I do want to talk about Maha, Make America Healthy Again. I'm not formally involved in Maha. I know people.
+
+01:18:07.490 --> 01:18:36.190
+involved in it. And I am in discussions with them. They've asked questions. I've provided answers where I could provide answers. But the pushback on Maha is what I'd like to understand because you and I sit from a unique vantage point and you in particular, where you have a lot of colleagues and understanding of the traditional medical community. So as they always say, like, that's not the guy you got to get. You don't need to get the guy that's like watching podcasts and taking supplements and... But
+
+01:18:36.386 --> 01:19:03.774
+What about the guy or gal who was like, I don't know, my doctor says this is crazy. They wanna like get rid of vaccines and they want everyone doing pushups and, you know, and they don't wanna take those Zempic. And, you know, and so maybe, because I see you, Mark, as somebody who can potentially bridge this divide. Knowing people on both sides, I really see you as somebody who can do that. I'm not saying that just because you're sitting here and large part you're sitting here because of that. So how do you change people
+
+01:19:04.578 --> 01:19:18.590
+millions of people's mindset about health when now Maha has become a red label thing. How do you do it? It's crazy. Either Republicans are going to get healthy and Democrats aren't. It's crazy to me. Or there's an opportunity here. And I do think that...
+
+01:19:19.106 --> 01:19:48.446
+I know they're drawing you in for this, and I'm so glad they are, because I do think that you're somebody who really believes in inclusivity in the real sense of the word. So what do you think it's going to take to make America healthy? And this is not Maha propaganda. This is just, can Maha do it? What do they need to do better? What can you do? What can we all do? Great question. And it was funny to me, I was thinking as you were talking about how when Michelle Obama started her Let's Move campaign, it was a...
+
+01:19:48.674 --> 01:20:09.630
+issue. A lot of the people who were like pushing this agenda was Shelley Pingree, who's a Democrat from Maine, or Tim McGovern, who's from Massachusetts, or Cory Booker, who introduced all these bills about food safety in the last Congress. And all of a sudden, it flipped and became a Republican issue, which is staggering to me. And we now see bills and
+
+01:20:09.858 --> 01:20:38.686
+you know, a few dozen states or more actually. Now every day I hear about new bills that are helping push forward an agenda to fix our food system. And before you dive in, I will, I just want to see this answer with one thing. Forgive me, audience. They don't like it when I interrupt. But the goal of the left, if I may, seems to be to make anyone associated with health and Maha on the right, a jock, not a scientist. Yeah. That's what I'm seeing. They're trying to take away their science credential. Yeah.
+
+01:20:38.786 --> 01:21:01.470
+and make them a jock. Now, Bobby Kennedy is not a formally trained scientist, but the scientists that are going into NIH directorships, who I can't share who they are besides Jay, it's been announced, the other ones, but you know who they are. These are serious scientists. These aren't jocks. These are people that may or may not lift weights. But there seems to be this effort to say, we're going to strip Maha of its power
+
+01:21:01.698 --> 01:21:25.534
+by making it a bro science biohacking jock thing, real science is about reductionist stuff. And I just say, listen, it's all valuable. And so I'm fundamentally frustrated and it hasn't even begun. So educate us. I mean, listen, my friend Rick Warren said, I'm not left wing or right wing. I'm for the whole bird. Otherwise you'll fly around in circles. I like that. Who said that? Rick Warren.
+
+01:21:25.634 --> 01:21:51.006
+Who's Rick Warren? Rick Warren is the head of Saddleback Church, which is an evangelical church in Southern California. We did a whole program with this church where we got 15,000 people to lose a quarter million pounds in a year by doing health together in groups. And it was amazing, actually. I love that quote. It was a great quote. And health isn't red or blue or purple. It's like a human issue. And to make it partisan, it doesn't make any sense to me.
+
+01:21:51.330 --> 01:22:17.406
+And yet we live in a partisan world and anything the Democrats do, the Republicans are going to hate. Anything the Republicans are going to do, the Democrats are going to hate. It's like, Hey guys, can't we just talk to each other and have civil discourse and agree on the things we can agree on and disagree on the things we're going to disagree on. And I know that I know behind the scenes, there's collaboration bipartisan on these issues. There's bipartisan caucus that. Well, on the psychedelic issue, I was at a meeting where, you know, governor Rick Perry, former governor Rick Perry, Texas,
+
+01:22:17.538 --> 01:22:43.806
+like who describes himself as a knuckle dragging Republican. Those are Rick's words, by the way, Rick's a very nice guy. And there were several members of the Dems there. And you got Rick Doblin, who was like a counterculture conscientious objector during the Vietnam War. And they're all up there being proponents for psychedelics for the treatment of PTSD and veterans. So they've joined hands. I think that's one area that's very exciting. It's not happening in nutrition.
+
+01:22:44.034 --> 01:23:11.710
+It's not happening on this thing of get exercise. Those have become red labels. Yeah. It's unfortunate because, you know, Americans are suffering. You know, Americans are really suffering. 93% of us have some metabolic dysfunction, psychiatric illnesses on the rise in both kids and adults. Autoimmune diseases are skyrocketing. Obviously, obesity is a huge problem. Diabetes is a huge problem. You know, heart disease, deaths are going down, but the incidence is going up, meaning you're
+
+01:23:11.906 --> 01:23:41.598
+There's more people getting it, but because we have better treatments, they don't die from it. Same thing with cancer. So we're not winning on the health front in the war on chronic disease. We're losing disastrously. And so we have to come together as a country to solve this. And it's unfortunate it's been polarized. I think the good part about COVID was that people became aware that this edifice of science and medicine had cracks in it and that they needed to be more empowered around their own health and to start questioning things. And I think-
+
+01:23:42.050 --> 01:24:11.774
+That's part of the genesis of this bigger, wider movement around make America healthy again and why Bobby Kennedy was able to catalyze a huge base. He was Democratic candidate at first. Then he was independent. Now he's in the Republican administration. It doesn't mean he shares all the ideology that they have, but he cares about this issue. And so I think what's happening behind the scenes is there's a lot of bipartisan interest in how do we begin to address this. Look, the health care bill is $5 trillion.
+
+01:24:12.770 --> 01:24:41.726
+Of that, the government, federal government pays 40%. It's one in three federal tax dollars. So one in three dollars that you pay for your taxes goes to healthcare. Of that, 80% is mostly for chronic disease. It's either preventable or reversible through intensive lifestyle therapy. And some things are on the margins. If insurance is private, how does that work? Like, how is it that my money is going to take care of somebody who has heart disease? For example, like...
+
+01:24:41.826 --> 01:25:11.102
+If you get on to Medicare Advantage, that's a government program, but it's administered by Humana or by Cigna or by these insurance companies kind of deploy federal resources to deliver healthcare. But if you actually look at the end-to-end, whether it's Medicare, Medicaid, Indian Health Service, federal employees, children's health program, you just add up all the things that the government pays for, it's almost $2 trillion a year for healthcare.
+
+01:25:11.202 --> 01:25:40.670
+Most people don't realize that. So the government has enormous levers. And when I was sitting in my office treating my patients who are just endless stream of people with chronic illnesses coming in, diabetes, obesity, autoimmune disease, this, that, and the other thing, I'm like, why is this patient sick? Well, it's mostly because of the food they're eating. And if that's the problem, then what's the cause of the food they're eating? Well, it's our food policies. And what's the cause of our food policies? It's the food...
+
+01:25:40.834 --> 01:26:07.774
+industry that has pressured our government into creating a food system that's harming us. And we have very different policies than they do in Europe. For example, they don't allow many GMO foods or glyphosate. They don't- High fructose corn syrup? They have it there, but it's limited. I mean, more limited. There's 10,000 additives to food in America. There's 400 that are allowed in Europe. Okay. Let me ask you a question about toxins because I've been watching this very closely online recently. And
+
+01:26:07.938 --> 01:26:33.278
+Folks who are more of the traditional science background who are kind of like to spend a lot of their time trying to debunk folks like you or people that talk about food additives say that these are infinitesimally small amounts of these dyes, that the amount required to kill a rat, like the – is 3,000 times higher. My stance on this is the same as going through the X-ray machine at the –
+
+01:26:33.410 --> 01:26:57.854
+at the airport, which is true. You can walk through and not get cancer. It's dose, frequency, and duration. But if you're going through it multiple times per month or year, then, you know, and it's compounding with other things. So it's, like you said, dose, frequency, and duration. And the interactions. Like, you know, when these things are studied, they might be studied one at a time. But what if you put thousands of them together, whether it's environmental chemicals or food additives,
+
+01:26:57.954 --> 01:27:21.246
+And I don't think the food out of themselves, although there are many that are problematic, that are linked to cancer, linked to allergy, linked to ADD, I think there are a lot of data about this. But the real issue is where do you find these? You find these in extremely low quality health destroying foods that are ultra processed foods, that are high in starch and sugar,
+
+01:27:21.442 --> 01:27:49.342
+high in refined oils, high in these additives. Right, they're not creating orange steaks. Yeah, you're not getting these chemicals when you order broccoli at a restaurant, right? So how do you tease out all of it? How do you do human trials on this? It's very hard. But in Europe, they have the precautionary principle was you have to prove it's safe before we add it to the food supply. Crisco is a great example. Crisco was invented in 1911. It was shortening because there was a butter shortage. And so they basically...
+
+01:27:50.050 --> 01:28:19.422
+which is blowing hydrogen atoms into liquid vegetable oil that makes it act like an animal fat, like lard or butter. And it was cheap and it was good. So it was in the supply from 1911 to 2015. It wasn't until 50 years after the data started to become clear that this was a cause of heart attacks, that this was very dangerous. We shouldn't be eating margarine. I remember a tub of that in our cupboard when I was a kid. Yeah, I grew up on fleshless margarine, you know? And it was a,
+
+01:28:19.970 --> 01:28:48.798
+And it wasn't until the scientists who'd been studying for 50 years, it was 90 years all the time, sued the FDA and forced them to really do something about it that it got taken off the generally recognized as safe list, which is called the GRASS list. Now, you asked about Maha, well, one of the first things Robert F. Kennedy did, and I helped advise him on this, was to help address the GRASS problem. Because there's something called the GRASS loophole. If you're a food company, you can go to the FDA and say, hey, I got this great new chemical that
+
+01:28:49.186 --> 01:29:18.206
+We checked it out. Totally safe. Not a problem. We're going to add it to the food. Just take our word for it. And the FDA goes, great. No problem. You go right ahead. Imagine if a drug company did that and said, oh, we have this great new drug. We've done all our tests. It's perfectly safe. It's very effective. Can you please give us approval? And we're not going to give you any data. That's exactly what happens in America. Now, that's different than in Europe, which they do the opposite. You have to prove that it's safe before it's added to the food supply.
+
+01:29:18.370 --> 01:29:42.366
+Here you're innocent until proven guilty, which is fine for humans, but not for chemicals we put in our food. The other day I saw something on X that if true, and I'll put a link to it, was probably the most troubling thing I've ever seen in public health discourse. And I want that to lead to a question for you.
+
+01:29:42.498 --> 01:30:08.638
+This was an example of a hearing in Washington where a young woman, I believe she's from Austin, who's a kind of like health food advocate. Influencer. Yeah, advocate. But with training from a university down there, was lobbying against soda in the government-funded lunch program. Lunch or food stamp? SNAP program. SNAP is the food stamp.
+
+01:30:08.770 --> 01:30:37.022
+It's called Supplemental Nutrition Assistance Program, but there's no N in there. Our goal is to put the N back and snap. Just to clarify, food security is having enough calories. Nutrition security is having enough nutrients. We provide it for food security, meaning you can get all your calories from soda and sugar, but that doesn't mean you have nutrition security. And we see many of the people who receive these federal aid programs are the ones who are most sick. Right.
+
+01:30:37.122 --> 01:31:02.238
+the most using our healthcare system. Thanks for that clarification. This young woman advocating for healthier food was arguing for getting a sugary soda. This wasn't diet soda, sugary soda out of the SNAP program. And she made her case. It was a terrific case, well articulated, I think, and it was well received by both the blue side and the red side of the room. And then she
+
+01:31:02.466 --> 01:31:32.190
+Someone tapped into the microphone. This was a gentleman representing the American Heart Association. Oh. The American Heart Association. And he proceeded to say that he opposed the removal of sugary soda. Do you know why? I thought, okay, this has got to either be AI generated, it's fake. But then one of the women on the panel who was listening, okay, one of the people making decisions or at least running it up the flagpole for decisions, said, wait, do you realize what you're saying? And he just kept repeating this like a broken record.
+
+01:31:32.770 --> 01:31:59.198
+And I thought, okay, the American Heart... If it was the American Soda Association or Beverage Association or Hydration Association even, I would have thought, okay, maybe there's something here. But he was there representing the American Heart Association. I have no skin in this game, okay? I don't drink sugary soda. I can answer that question. And I was shocked. And I will provide a link to this in the show note captions. I was shocked. You shouldn't be. You shouldn't be. And I thought to myself, this guy's arguing for sugary soda on...
+
+01:31:59.298 --> 01:32:28.318
+behalf of the American Heart Association, and these are sugary sodas that the American taxpayer is paying to try and help some of the least healthy and lowest income people in the country drink more soda. And it wasn't like take away soda and don't replace it with anything. It was, you know, replace it with some other food. There's double bucks for fruits and vegetables. Right. Or even water. Right. So I was shocked. Yeah. I verified it's real. Yeah. And okay, so...
+
+01:32:28.994 --> 01:32:57.502
+I'd like your thoughts on that, but I'm guessing what they are already. But here's what I wanna know. Is the FDA and our government so strongly impacted by these food companies? You hear this, but it always sounds like a bunch of conspiracy stuff. Let me roll it back, Lowe. Like is General Mills, like, and really like lobbying behind scenes? I mean, is there really a network of people trying to harm us for profit? 100%, yes. So I was telling the story about how I was in my office seeing patients with diabetes.
+
+01:32:57.666 --> 01:33:26.942
+like what caused the food policy. And then I started to go down that rabbit hole. And I wrote a book called Food Fix, How to Save Our Health, Our Communities, Our Economy, Our Communities, and Our Planet One Bite at a Time, where I mapped out from field to fork the problems with our food industry, how it's making us sick, how it's costing us trillions of dollars, and how to fix it. And then I started a nonprofit where I'd been in Washington doing this work over the last five years, way before it was Maha was a thing. And what you just described is part of a large, cohesive strategy
+
+01:33:27.042 --> 01:33:52.990
+by the food industry to undermine science, manipulate public trust and information to control the government and academic institutions and many things. So I'll just kind of lay it out for you. Sounds conspiracy. It sounds like it is. And it kind of, I wouldn't say it's a conspiracy. It's just their business strategy, right? Which is to circle the wagons. Okay. They fund the American Heart Association. So the food and farm industry spend...
+
+01:33:53.218 --> 01:34:12.702
+$192 million that they give to the American Heart Association. What does the American Heart Association do with it? They educate people about nutrition. They hold meetings. They have scientific panels. But what is the basis for sugary soda? Like there can't – there's no single argument for sugary soda. If you get $20 million from the soda industry – I mean –
+
+01:34:12.994 --> 01:34:38.846
+It's like that, Andrew. Maybe diet soda. Then we could argue artificial sweeteners, but at least we know it can help people lose weight. They're adjusting less sugar. No. This is like 40% of the Academy of Nutrition and Dietetics, which is the national nutrition organization, comes from the food industry, the American Diabetes Association, the American Academy of Pediatrics, the American Family Practice. This has to change. Coca-Cola gave multi-million dollar...
+
+01:34:39.394 --> 01:35:09.054
+donation to the American Academy of Family Practice. And there were family doctors that quit in droves because of this. When did this start? I think it's been growing. And so there's multiple strategies they have. One is massive lobbying. Two is funding professional associations. But was this in the 80s, the 90s? I think it's been slow creep since probably the 70s, is my guess. If you look in the 60s and the beach pictures, like there's nobody overweight, right? When I was growing up, there were probably two fat kids in school. Yeah, yeah. They've done all these strategic things around lobbying, around funding professional associations, funding
+
+01:35:09.314 --> 01:35:37.278
+academic research, 12 times as much academic research on nutrition as the federal government spends. They co-op social groups like NAACP and Hispanic Federation, so they won't oppose things like, things that they care about, or they'll oppose things they care about like soda taxes. And they fund fake science groups like the American Council on Science and Health. It's attacked me, maybe attacked you too. I'm sure they will after this episode. Unbiased science and all these great sounding organizations that are simply front groups
+
+01:35:37.378 --> 01:36:06.270
+for misinformation, crop life. And so they have a whole strategic approach that is very detailed. And I map the whole thing out in my book and how it's so insidious and how it happened while everybody else was asleep. And I know personally now that some of these big associations that are the lobby groups for these big food companies and ag companies and sea companies, that they're circling ranks, that they're creating a war plan, that they have a complete strategy of how to put forth
+
+01:36:06.626 --> 01:36:33.630
+miss kind of, I would say, manipulative science. They have grassroots lobby efforts where they're activating fake grassroots movements. They're lobbying. They're looking at how to pressure state governments to not do what they're doing. I mean, I know personally the governor of West Virginia who has now, there's a state bill to actually, which probably hopefully passed by the time this podcast comes out, that gets rid of the chemicals and the food in West Virginia, which is the fattest state in the nation.
+
+01:36:34.018 --> 01:37:03.678
+And I know the amount of pressure, millions and millions of dollars of pressure they're putting on him to not do it. It's going to destroy their businesses. It's going to destroy the economy. It's going to create the people of West Virginia suffering. I mean, so much pressure on politicians who don't actually understand these issues. And so they're like – and I remember – Well, it's confusing. Even as somebody who is fairly versed in health and nutrition, like I'm – I'll give you an example. It's not confusing. I'll give you an example. So I was working on a bill that was with Andy Harris who was a doctor in –
+
+01:37:03.874 --> 01:37:29.790
+Congress to do a pilot study to see the impact, not to change policy, just to see the impact of what would happen if you took soda off the list of acceptable things you could buy with food stamp dollars. Just to do a pilot in a couple of states. We think, well, let's just do a scientific study and see what happens. The Democrats were completely opposed to it. They shut the whole thing down. On what grounds? The hunger groups.
+
+01:37:30.146 --> 01:37:57.438
+based on this idea of like, we're going to take care of the poor. It's discriminatory. It's aggressive. It's going to hurt the poor. And the hunger groups that are these big groups that try to deal with hunger in America are funded by, and their boards of directors are staffed by people from Big Food. So if you just follow the money, you see how it all is connected and how it all flows together. And what are Big Food? So like, what are the companies? Okay. So there are companies you know about. There's
+
+01:37:57.602 --> 01:38:14.558
+Even things like Primal Kitchen, which you think is like a great natural brand and started by Mark Sisson and it's salad dressings and ketchup without high fructose corn. It's a great product. They're all bought up by the big food companies like Mondelez or by Kraft. Kraft Heinz, for example, bought that or Hugh Chocolate,
+
+01:38:14.850 --> 01:38:35.294
+Thank God we'll stay the same forever because Jason Karp was a friend, made sure they would. But they bought Hugh Chocolate, which we think is a natural brand. It's the biggest selling premium chocolate in America. So they buy all the other companies. So it's Nestle, it's Gene Leaver, it's The Known, it's Mondelez, it's Kraft Heinz. So it's a few companies that really probably 10 or so companies that basically are the big companies. And then there's all the...
+
+01:38:35.618 --> 01:39:05.470
+wagon, seed, and chem company. That's all consolidation. So there used to be like hundreds of seed companies. Now there's five. There used to be like dozens of fertilizers companies. Now there's just a few. If I take a step back from this, I say, okay, well, Mark's, I haven't tried Primal Kitchen, but I hear good things, right? Mark seems like a very health conscious guy. So Mark Sisson, right? So if his brand was bought up by one of these major companies, why aren't they promoting the healthier foods in their catalog? Well, they do. They do. But also without, if there's like Jason Karp from With Hue Chocolate,
+
+01:39:05.986 --> 01:39:31.710
+made them in the contract, promised they would never change the ingredients ever. I see. And when you often get these other products that have been bought up by these big companies, they modify the recipes, they make it cheaper, they squeeze their margins to be bigger. So it's not like you're gonna get like, you know, Amy's whatever pizza or whatever sounds like great healthy pizza, but they modify it. I see. And so I think, you know,
+
+01:39:32.066 --> 01:39:54.622
+As a whole, they still get most of their profit margin from their legacy products of junk, right? So they don't want to cannibalize that, but they also want to suck up the rest of the market so they have a monopoly. I see. But there's probably a few dozen CEOs that are in control of everything from what seeds are planted to what chemicals are sprayed to the –
+
+01:39:54.786 --> 01:40:19.710
+companies that process the food to the fast food companies. It's not that many companies. And it's a few dozen CEOs that control the biggest industry in the planet that employs more than everybody else because everybody eats. It's like $16 trillion. So are you and Bobby going to change the way that works? I mean, that's the goal. I mean, the idea is to raise awareness, to create transparency, to help people understand what's what, and to take the veil back and say,
+
+01:40:19.810 --> 01:40:33.246
+You can choose whatever you want to eat. We're not taking away your McDonald's, we're not taking away your soda, but like at least you should know what's going on. If you go to South America, you're from Argentina, I'm sure you've been there not in the too recent past. If you pick up something that's not good for you,
+
+01:40:33.410 --> 01:40:58.206
+It tells you on the label. It's like black warning signs and hazard signs and stop signs. Well, there the opposite problem exists. As the child of a first-generation immigrant, my dad always said the United States is the one country where the poor are overweight because calories are cheap. You go to Argentina and you see these neighborhoods of immense poverty, right? And people are not overweight. People are struggling to find food.
+
+01:40:58.306 --> 01:41:27.294
+Some are, some aren't. Like if you look at, there was a whole series in the New York Times a few years ago about how, for example, Nestle went into the ghettos of, I think, Peru and Colombia and they were just, Brazil, and they were just pushing through local community members and reps who would drive around with little carts or push the carts around where there's not even a street to sell all this crappy processed food to people for pennies, right? And so that's what they've done. They've infiltrated everywhere on the planet. It was far back as 1981,
+
+01:41:27.458 --> 01:41:56.574
+and I did a public health expedition with Johns Hopkins to Nepal. We got off the plane at some remote airport on a grass strip and then we walked for a week up into the, almost to Tibet. And, you know, there were no roads, there were no cars, there was no electricity, there was no running water, but there was Coca-Cola. And you see these Sherpas literally with like probably, I don't know, 100, 200 pounds of Coca-Cola on their back climbing up the mountains bringing into every little village.
+
+01:41:58.050 --> 01:42:19.230
+I mean, there's even a TED Talk on this by, I think I was somewhere, Melinda Gates or something about how Coca-Cola is a business model for how we get safe stuff around the world because they had the incredible distribution. So even where you can't get water, you can get Coca-Cola. Where they actually need quality. Protein is what's scarce. It's often cheaper than water in many countries, like in Mexico. Wow.
+
+01:42:19.362 --> 01:42:48.638
+I think we have to face the fact that we've had this sort of unadulterated, uninhibited run from the industry, and now there's somebody talking about why they need to think about doing things differently, how they need to reformulate, how they need to be partners. I mean, there was a big meeting with the Consumer Brand Association, Robert F. Kennedy, last Monday in the White House, where he said to them, essentially, here's what you need to do. Do it, or we're going to make you do it. Get the crap out of the food, and let's get focused on
+
+01:42:48.770 --> 01:42:56.766
+the harm that this is causing in terms of the amount of starch and sugar and processing and products in there that are not good for human health. And, and,
+
+01:42:56.994 --> 01:43:25.022
+If you don't, we're going to do something about it. They can create better front of package labeling to transform people's perception of what's good or not. And labels are super confusing in this country. I mean, I know how to read them, but you have to be a PhD or study this your whole life to understand how to read the nutrition facts label, how to read an ingredient list, what it means, what the serving size is, what the calories are, what the this and that is. It's like, you know, it's not easy for the average American. It should be easy. It's intentionally confusing. 100%. Well, single ingredient or minimal ingredient foods solve that.
+
+01:43:25.218 --> 01:43:53.982
+I'd like to take us from one controversial topic. And thank you, by the way, I should say before moving on from that, for being involved and staying involved. I know your inherent goodness and your desire to keep things nonpartisan and to do what's best for people and to keep it out of the politics as much as possible. I mean, these are the things I've been working on for years. And so I'm just – You're just being you. I'm just being – whether it's medically tailored meals or raising the awareness around chronic disease or the effective toxins in our environment or the –
+
+01:43:54.114 --> 01:44:23.934
+of sugar and starch in our metabolic crisis. I mean, these are things that are not new. I've talked about these for decades. Now all of a sudden it's a political issue. I don't understand why. You're not putting on a new hat. You're not putting on a new hat. Government's putting on a new hat, getting involved in these things. I'm hopeful. They've always been involved, but they just have been involved unknowingly by allowing policies to be implemented that support things like soda and junk food. If you look at other countries' food assistance programs, you can't buy that shit. Right, right. Let's talk about something almost as controversial. One
+
+01:44:24.418 --> 01:44:53.854
+something that I have kind of a neutral opinion on that I think is a beautiful scientific story, which is GLP-1 agonists. You know, discovered on the basis of the Gila monster, which doesn't need to eat very much over or synthesizes a lot of this peptide, which limits its hunger. And it works at the level of the brain and at the level of the gut. There are, however, lots and lots of cells, including neurons,
+
+01:44:53.954 --> 01:45:21.662
+outside the appetite system that use and bind GLP-1. The drugs that increase GLP-1, we had a guest on here. So Zachary Knight came out on here and beautifully explained how the drugs that increase GLP-1 increase it many thousand fold above natural levels to have it exert its effect of reducing hunger. It is reducing obesity. Yes, people lose muscle. They break it down for us.
+
+01:45:21.762 --> 01:45:48.126
+Let's assume that somebody has just had a terrible time losing weight. They don't even feel like they can exercise for either motivational reasons or they're structurally – we all know they should exercise and maybe they'll get there, one would hope. But you can't exercise your way out of a bad diet. Right, right. Do you think there are use cases for GLP-1 that warrant its prescription? And what's the controversy with GLP-1 all about? Is it the dependents, the insurance? Right.
+
+01:45:48.226 --> 01:46:14.558
+I mean, we don't have three hours to parse this, but- I can give you the quick- Yeah, what's your view on GLP-1? Because I think some people have clearly benefited from it. Other people probably don't need it at all. I don't take it. I wouldn't take it, but I'm pretty good at regulating what I put in my mouth. Look, I mean, I think that, like you said, this is a molecule that the body naturally makes to regulate appetite, but it's being given at doses that are far greater than that, which our body naturally makes. And when you-
+
+01:46:14.818 --> 01:46:43.934
+overdo something, there are downstream consequences. Insulin is a peptide. Ozempic is a peptide. GLP-1, these drugs are peptides. These are small mini proteins. Think of that as what a peptide is. And insulin, if you take too much of it, will kill you. Like literally you'll go into hypoglycemic shock. So when you start messing with big doses, it has not side effects. We call these side effects. These are just effects we don't like and we call them side effects. They're effects of the drug.
+
+01:46:44.130 --> 01:47:12.542
+And they can lead to everything from things you mentioned like muscle wasting, which is a big problem because you lose the weight and you lose muscle and fat. And if you lose half of it as muscle, then your metabolism slows down because muscle burns sometimes as much calories as fat. And when you gain the weight back, if you stop, which over 65% of people do. Is that right? Yeah. People who come off it gain the weight back. 100%. They just start eating more again. Yeah. And they have lower muscle mass. And then you're in a worse situation because you have a lower muscle mass. So you could eat literally –
+
+01:47:12.674 --> 01:47:40.702
+the same amount of calories as you were before you lost weight and gain weight because your metabolism is messed up. What if they exercise using resistance training to offset that? I personally think it should be illegal to prescribe these drugs unless they're combined with a nutrition consult to educate people about their protein requirements that are increased and with an exercise or a trainer, a physiologist or a trainer to help them develop a strength training program. And then I'd be more okay with it. And I think doses also, do we need the doses that
+
+01:47:40.834 --> 01:48:04.990
+People are prescribed through pharmacologically approved drugs or there's a whole black market of GLP-1 peptides you can buy for 20 bucks a month, not 16 or 1700 bucks a month. People are starting to discover those. They're very inexpensive. They're very inexpensive. And you have to know what you're doing and you have to probably get the guy to the physician. And there are doctors who do prescribe these sort of sub-pharmacologic doses that are being given. And they work. And they can be...
+
+01:48:05.154 --> 01:48:30.558
+that can be a useful tool, but they're a tool like anything else. And I was mentioning my nonprofit Food Fix, the woman who's working with us there lost 112 pounds in the last few years working with me without GLP-1s. I've had literally probably dozens and dozens and dozens of patients who've lost 100 pounds or more without these drugs and naturally keep their weight off and regulate their appetite when they understand how to use food as medicine
+
+01:48:30.658 --> 01:48:59.934
+regulate their hormones, their peptides, their brain chemistry, their microbiome, all of which regulate our appetite and weight. So there's ways to do it. It's harder and some people are stuck and I'm not opposed to using these drugs, but we have to understand they come with risks and they have increased risk of bowel obstruction, increased risk of pancreatitis, increased risk of potentially thyroid issues, of kidney issues. And I think people need to, if they're monitoring their cells, fine, you should get a DEXA scan before and during and after. You should be checking your
+
+01:49:00.098 --> 01:49:26.686
+kidney function tests and your amylase and your lipase because it can cause pancreatitis, you'd be checking what happens to your other hormones and what happens to your liver function tests, which can be affected by these drugs. And the longer you take them, the more the side effects are. So for example, initially we were seeing very little data and then the data started coming in. And for example, if you're on it for four years, your risk of bowel obstruction goes up by four and a half fold. That's by 450%. Or your risk of pancreatitis goes up by 900%. That's
+
+01:49:26.850 --> 01:49:52.318
+It seems like a lot. It is a lot, but pancreatitis is a more rare condition. But it does have an adverse impact. And a lot of people have nausea, vomiting, all kinds of other side effects that are sort of more mild, not as serious, but they come with side effects. So I think, can they be used as part of an overall strategy with nutrition counseling, exercise counseling, and integrating lower doses and modifying the dosing regimen? Yeah, absolutely.
+
+01:49:52.578 --> 01:50:22.366
+but I don't think most people need it if they understand how to change their hormones, their brain chemistry, and their biology without that. And that's the power of food is medicine. And when I say food is medicine, I'm not saying that as a sort of a general, oh, food can be healthy or not healthy. I'm saying food literally can be used as a drug, and different foods have different properties. And again, you don't use the same drug for every disease. You would prescribe different diets for different problems. For example, if you look at the crisis in mental health in this country, we have a severe mental health crisis.
+
+01:50:22.466 --> 01:50:47.454
+And we've used ketogenic diets in neurologic conditions like epilepsy in medicine for decades. We now know, for example, that ketogenic diets can be very effective for schizophrenia, for things like autism, for Alzheimer's, for people with bipolar disease or depression or anxiety. And this has to do with its effect of the metabolism and the way it affects our brain and our mitochondria.
+
+01:50:47.618 --> 01:51:17.584
+And I wrote a book about this ultra mind solution. I say this, I wrote a book about everything. I pretty much have. You've written a lot of books. I've written like 20 books. I'm impressed. You're working on what? I mean, it's big enough to serve as a workout for lifting. No, it's not that thick. It doubles as an advice book and a training. It's got a lot in there. But you have an impressive catalog of really terrific books. But Mayo Clinic just got funded over three
+
+01:51:17.584 --> 01:51:41.758
+million to do research on the role of ketogenic diets and serious mental illness. You mentioned Stanford has a department of metabolic psychiatry. At Harvard, they have a similar department of nutritional psychiatry. What about other diets? So ketogenic, a lot of people think of that as high protein. It's really more high fat, moderate protein, very low starch, right? What about for cancer and cancer avoidance?
+
+01:51:41.954 --> 01:52:04.606
+Again, when you look at the data, cancer rates are going up and it's because our metabolic crisis is going up and many cancers are obesity related, colon cancer, breast cancer, pancreatic cancer, many, many prostate cancer, and they're driven by insulin resistance. And we know the cancer has a metabolic capacity to only burn carbs, it can't burn fat. So if you stop carbs and you eat fat, you can often,
+
+01:52:04.738 --> 01:52:33.214
+change the trajectory of cancer. Is that true for all cancers? Are there any cancers that react negatively? Yeah, I don't think that's true for all cancer. For certain lymphomas, I probably don't think it is. But Siddhartha Mukherjee, I don't know if you've had him on the podcast, but he's an incredible giant in the field of medicine, a brilliant scientist at Columbia. He was actually an oncologist who wrote a book called The Emperor of All Maladies. Oh, yeah. He wrote that book? Yeah, he wrote that book. He wrote The Cell. He wrote The Gene. That was a book about cancer. Yeah, yeah. He wrote a book called The Gene, The Cell. And he talks about
+
+01:52:33.346 --> 01:53:02.238
+his research on ketogenic diets for reversing stage four melanoma, stage four pancreatic cancer, very impressive stuff. Yeah, you probably couldn't like a connection to it. Well, I remember the Emperor of All Maladies. I read that and I read The Eighth Day of Creation in the same, roughly the same time period, both super impressive books. I didn't realize he was involved in a ketogenic diet. Yeah, but there's a whole metabolic theory of cancer. So I think that's key. And certain cancers like brain cancer responds incredibly well. If you have a glioblastoma, which there's really no treatment for, it can be very effective.
+
+01:53:03.202 --> 01:53:32.126
+Yeah, I'll tell you, having lost some friends to cancer, pancreatic cancer and glioblastoma are the two. I mean, I don't want any cancer, but those are the two I really don't want to get. These are all super important topics. It seems to come back over and over again to these pillars of health. Food, circadian rhythm, meaning sleep-wake cycles. Obviously, the last 50 years in this country were characterized by like smoke less or don't smoke. We now know alcohol is problematic for cancers and other things. Not to say that one can't enjoy it.
+
+01:53:32.386 --> 01:54:00.702
+I drink every once in a while, but I don't personally drink, but I don't have a propensity for alcohol either. So it's easy for me to say. I've had to become a little bit softer on my stance on this because I think like if you told me that caffeine was bad, I'd tell you I'm drinking it. I'd say, how long do I have? Yeah. It's like Warren Buffett. He's like, I don't care if I eat this shit. If it makes me live a couple of years less, I'm still going to do it. Right. So some people like a drink now and again, and I'm sure I would say do as you want.
+
+01:54:00.802 --> 01:54:30.750
+do as you want, but know what you're doing. But I'd like to talk a little bit about markers that are an outgrowth of this conversation about food. So blood markers. So ApoB is one that gets a lot of attention nowadays. For years, all we heard was you want your HDL high, you want your LDL low. Now we also realize that elevated ApoB can be problematic. And I and many people I know who eat
+
+01:54:31.522 --> 01:55:00.862
+Some meat, it's not meat heavy diet, but some good quality meat. We're not talking about deli meats and things like that. Fruit, vegetables, and limit starchy carbohydrate intake to some extent, maybe not completely, but to some extent, have observed elevated ApoB when we do that, including olive oil, butter, coffee, yerba mate, this kind of thing. So healthy diet, largely anti-inflammatory diet. Noticed elevated ApoB as compared to when some of that
+
+01:55:01.122 --> 01:55:21.598
+red meat, even if it's grass-fed meat, is replaced with things like fish or chicken and so on, which makes me wonder if there really is a red meat, again, quality red meat, ApoB link. And should I worry if my ApoB is elevated? My ApoB is a little bit elevated, but I haven't
+
+01:55:22.018 --> 01:55:49.758
+yet gone on any prescription drug to lower it. I'm taking some other approaches. Yeah. It's a great question. And I learned that from Function. And yes, they're a sponsor of this podcast, but I hadn't had an ApoB test. And that was the problem. I go to the doctor, I get a blood panel and it didn't include ApoB. You got like your 19 tests and they have the same old stuff and you get your regular cholesterol panel. It was like height, weight, you know. I mean, the regular cholesterol panel is what most doctors use to manage cardiovascular risk, which is your total, your LDL, HDL, and triglyceride levels.
+
+01:55:50.626 --> 01:56:17.630
+That's just like so 20th century. The way we look at cardiovascular risk now is way more complicated and we need to look at the quality of the cholesterol, which is the particle size and number. And we were talking earlier about sugar and starch, insulin resistance. Insulin resistance is essentially a metabolic state where your body can't respond like it normally should to insulin and you need more and more insulin to keep your blood sugar normal. That has secondary consequences.
+
+01:56:18.210 --> 01:56:41.598
+which causes your cholesterol to become abnormal. So it may not raise your LDL per se, but it'll lower your good cholesterol, or HDL, which there's good and bad HDL, so it's a little more complicated than that. But it'll raise your triglycerides, and it will raise your ApoB. It'll raise your particle number of LDL particles, and it'll make the size of those particles small.
+
+01:56:41.954 --> 01:57:09.694
+are all things that people should be testing. Do all these biomarkers, including ApoB. But ApoB, all you can get is an ApoB from your doctor. Even the American Heart Association recognizes this as a better predictor of your risk of having a heart attack than your LDL cholesterol. And yet they're trying to include soda. Sorry, had to go back to it. And the way I think about ApoB, because there's really cool tests now. You can use mass spec to look at C-peptide and insulin to look at your insulin resistance, which is really cool. But if you can't get that,
+
+01:57:10.434 --> 01:57:36.734
+You can ask your doctor for an ApoB because it's sort of a surrogate marker for every non-good type of cholesterol particle. So what do you advise somebody if they're ApoB? Is 90 or above? Yeah. So you can test yourself. Everybody's in one. So the next thing I was going to say was that we treat all lipids as sort of a uniform approach, which is everybody should drive their LDL under 70. Under 70. Under 70. That's what cardiovascular...
+
+01:57:37.090 --> 01:58:03.358
+recommendations are. How do you do that? Exercise, nutrition? It can be diet, it can be exercise, it can be drugs. Are you a fan of statins? Not a big fan, but they're a tool. It's like, am I a fan of hammers? Well, yeah, when I need one. But not for everybody. And I think the key thing to understand is that if you're looking at your cardiovascular risk, you have to look at the quality of these cholesterol particles. And there's also a large amount of
+
+01:58:03.522 --> 01:58:28.350
+variation or heterogeneity in the population in the response to the exact same food. And I'll just tell you a quick story. I had one patient, she was overweight, couldn't lose weight, pre-diabetic, inflamed, and she was really struggling. And I said, well, look, let's try a ketogenic diet. There's good data on it. Let's see what happens.
+
+01:58:28.578 --> 01:58:53.374
+Her cholesterol dropped 100 points. Her triglycerides dropped 200 points. Her HDL went up 30 points. She lost 20 pounds. She felt great. Her inflammation levels normalized. She did great. Another guy heard about a ketogenic diet who was in his 50s, one of my patients, elite athlete, was like riding his bike 50 miles a day. He was in his mid-50s, super fit, thin, lean. He said, I want to try it.
+
+01:58:53.634 --> 01:59:20.862
+heard it's good for performance. I'm like, okay, but let's monitor your numbers. And we did. And the opposite happened. His total cholesterol went through the roof. His LDL went through the roof. His particle number went up through the roof. I'm like, wow, same diet, different response. And I've talked to Ron Krause about this. He's from Oakland. You might know about him. He discovered the particle size concept. He basically used MRI machines and now he's got a different technology, which measures the quality and the
+
+01:59:20.962 --> 01:59:49.502
+number of your cholesterol particles, not just the weight of them, which is what you get with a regular test. And so we saw this variation and we realize now in the population, it depends on who you are. So there's a whole category of people called lean mass hyper-responders. You're maybe one of those where you're fit, you're healthy, you're athletic, and you eat saturated fat and boom, you know, your numbers kind of go wacky. Or you could be an overweight diabetic person and they do the opposite of
+
+01:59:49.890 --> 02:00:18.942
+you'll lower your LDL like this woman. So it depends on your metabolic type, on your level of insulin resistance, on your overall health. And people can switch over. So let's say you're an overweight diabetic and you become ripped and healthy and fit, then the same food might have an opposite effect on you at that point. And it all has to do with cholesterol transport, cholesterol synthesis in the liver. It's kind of a little complicated scientifically. I know you might have a guy named Nick Norwitz from Harvard on the podcast who's great. He can talk about this all day long. Nick has great online content. Folks should check out Nick Norwitz's...
+
+02:00:19.138 --> 02:00:47.422
+X and Instagram handle. Very smart kid. Very smart kid, very spirited. I've encouraged him from the first time I saw his content to keep going. Yeah, he's great. He's like, he's a Oxford PhD in metabolism. Harvard. He's got Harvard MDs, graduating medical school this year. And you're not afraid to go against the grain. No. He just goes with his experience and the data. Yeah, you're explaining about different diaspora people. He had colitis and almost died. He went on a carnivore slash keto diet and actually ended up curing it and is fit and healthy now.
+
+02:00:47.522 --> 02:01:16.670
+But his cholesterol, his LDL went up to 500. Is that where it sits now? Yeah. And so there's a whole group of these people that have LDLs that are through the roof who would make most cardiologists have a heart attack just looking at the number. So what do we do? Let's say someone takes an ApoB test, function or from their doctor, and they've got an ApoB that's like 110. What do you do? Well, the NIH basically is great. They now said that the N of 1 research is among the highest quality research. And what that means is you compared to you.
+
+02:01:16.994 --> 02:01:32.926
+I don't want to compare myself to a 70-kilogram white male from Kansas or some five-foot-tall woman from, I don't know, Afghanistan. We're all different. And so we need to see what happens to our biology. That's why I believe tests don't guess.
+
+02:01:33.186 --> 02:02:02.846
+something, follow it up and track it. How often? Depends on what you're doing. Lipids change very quickly. Typical person. Lipids can change within a month. So I give people a month of changing a diet or changing a lifestyle or behavior to see what happens. Vitamin D can take longer. If you're low, it can take up to three months to rebuild. If your iron is low, it can take three months to rebuild your iron. So it depends on the test. But you can quickly see changes in your insulin resistance, in your insulin levels, in your blood sugar levels, in your lipid levels by changing diet. And
+
+02:02:02.978 --> 02:02:31.966
+You have to be systematic, right? I mean, you can't, yeah. Yeah, I mean, I had a patient who was, I have a program called the 10-Day Detox Diet, which essentially is a whole foods diet, which eliminates a lot of the inflammatory foods that are problematic for people. And it creates an incredible, like quick response. It's like, I call it setting your body back to its original factory settings. And she was like, I wanna check my blood after 10 days. I'm like, no, it's gonna be a waste of money. We shouldn't do it. Your numbers aren't gonna change that much. But she insisted. And I was like, okay.
+
+02:02:32.162 --> 02:03:00.798
+And she did. And the numbers just dramatically changed. Her lipids, her insulin, her blood sugar, inflammation levels. So the body is like a, you change the inputs and the outputs change dramatically. So I think it's really about finding out what's going on for you. So Andy, I'll say, well, try to go off of meat and see what happens to your APLB or try to add more, this kind of fat. Well, I started eating more tuna and eating a little bit less beef. And then I did a function test and I discovered my mercury was elevated. By the way, I learned something the hard way also.
+
+02:03:00.930 --> 02:03:28.446
+a few years prior to that, which is, I know this sounds crazy, but check your dishwasher. Some of them have mercury thermometers that are leaky. Now, I was told the mercury from the mercury thermometers in dishwashers is biologically inert, but I'll tell you, it's not pleasant to see a bunch of little mercury beads floating around on your dishes. I mean, considering it's the most potent toxin known to humans other than plutonium, I would probably avoid all forms of mercury. So do you eat tuna?
+
+02:03:28.866 --> 02:03:54.622
+Rarely. Oh, I love tuna sushi. And rawly. Okay. But I actually, you know, have little hacks where you can take a chelating drug after you go to a sushi restaurant. Like what? DMSA. It's FDA-approved drug for heavy metal chelation. Prescription. Prescription. DMSA? Yeah. Okay. Yeah. What dosage? Depends. You can do like 500 milligrams or- You'll take that after you go out to sushi? Yeah. I mean, it's kind of like a-
+
+02:03:54.754 --> 02:04:24.720
+a doctor hack I could do, or you can ask your doctor for it. I don't recommend it. It's like, you know. Well, as long as we're on this side, let's talk. I love the range of topics we're touching into today, by the way. Because by the way, I almost died from mercury poisoning, so I know how to manage it, how my body works. I've checked my genes and why I don't detox. This is from the China. Yeah, I know how to up-regulate my detox pathways through food, through supplements. Are you a fan of sulforaphane? Absolutely. When I did the episode on microplastics and peach glasses, I started taking sulforaphane and increasing my cruciferous vegetable intake.
+
+02:04:24.720 --> 02:04:53.406
+regulates glutathione, which is the body's main detoxifying compound. So do you also take N-acetylcysteine? I do, yeah. Daily? Daily, yeah. How much? 600. 600 milligrams? Yeah. Okay, I'll do three or four times that if I feel a cold coming on, but I don't take it daily. I should probably take it daily. Well, considering we live in a toxic soup, I mean, we just can't get away from it. In the air, the water, the food. N-acetylcysteine, we already talked about the omegas and the basics, magnesium, et cetera.
+
+02:04:53.986 --> 02:05:19.006
+What are some things that when people start to hit their 40s, 50s, 60s that you think they should add in for their health? And is there anything female-specific or male-specific? For sure. I mean, you know, what's really frightening, Andrew, is that because of the diet we have, which is hormonally regulating –
+
+02:05:19.138 --> 02:05:47.774
+sugar and starch tend to screw up both men's and women's hormones. It makes women more like men and men more like women. So you get PCOS in women, which is hair growth on your face, loss of hair on your head, and androgen. It's androgen. Yeah. And then for men, their testosterone goes down. The bigger your belly, the lower your testosterone. So when you start your sugar, you get belly fat. So, I mean, young men have low testosterone. I would have said...
+
+02:05:48.066 --> 02:06:15.646
+you asked me 20 years ago, I said, well, you know, you start checking in your forties and seeing the changes that happened. But now I think we got to start looking earlier. And a lot of guys are getting on TRT young. I'm on a bit of a campaign now to discourage that. Yeah, I don't think it's a good idea. I think that if they're doing everything right, like eating, right, and exercising, and that doesn't mean over-exercising. If you overtrain, like if you're running, running, running, your testosterone is going to be diminished for sure. But encouraging them to do everything they can with behaviors and-
+
+02:06:15.746 --> 02:06:38.334
+including nutrition and some supplementation before getting on TRT because of the reduction in sperm count that comes from TRT, unless you offset it with HCG. So, you know, I've said before in the podcast, I take 25 milligrams of cipionate every other day, staggered with HCG, 600 IU every other day. I've been open about that from the beginning, but I started at age 45.
+
+02:06:38.594 --> 02:07:07.838
+And I do free sperm every year just because there's some age related effects on sperm and like, why not? It's very inexpensive to cryopreserve. But I think young guys are, it's scary that their testosterone is so low. Especially if they're not overweight. So what's going on? Well, also there's endocrine disrupting chemicals. So her heavy metals, pesticides, a lot of these are what we call xenobiotics, meaning they're foreign kind of compounds that are biologically active. And there's a whole,
+
+02:07:08.002 --> 02:07:33.054
+on this that I read almost 30 years ago called Our Stolen Future by Theo Colburn, which lays out, it was kind of like the Rachel Carson Silent Spring version of a few years ago, which talked about the reproductive effects of these petrochemical toxins that are everywhere in our food, our water, in our air, and they affect fertility rates, they affect birth rates in terms of male and female. Shauna Swan was on this podcast and
+
+02:07:33.218 --> 02:07:52.286
+if it wasn't for her and her incredible work and the fact that she's such a skeptic of any data that I don't think people would respect the data on pesticides as much as they do. Because I think it took somebody with her kind of front facing image to, you know, she's not,
+
+02:07:52.482 --> 02:08:17.438
+she talks a lot about the environmental working group and the real hardcore science types are like, oh, they're anti-environmental working group. I was shocked to learn that a lot of people in the scientific community are like anti-environmental working group. I thought, how could that possibly be? They call it woo science. I mean, the politics and all this are really complicated, but what do you do to remove heavy metals? Just to answer your question about what you should be testing. I think most people should be testing
+
+02:08:17.666 --> 02:08:36.574
+you know, depending on where you are and what age you are, but your hormonal panels on a regular basis. So sex hormones, male would be free testosterone, total testosterone, estradiol. DHT as well. DHT, sometimes we have hair loss that can be treated for men. For women, same thing, they need FSH, LH,
+
+02:08:37.250 --> 02:09:06.814
+sex hormones like estradiol, progesterone, testosterone for women as well, DHA sulfate, which can be an indicator of PCOS. And we're seeing with our function, could be about 150,000 members now. We have literally 10s. 150,000. We have tens of millions of biological data points. And we can see anonymized data showing the trends in the population. And it's not good. And then the good news is you can do something about it. Can insurance cover a blood test like function? Yes, if you get your health savings account
+
+02:09:06.914 --> 02:09:28.798
+your FSAs, you can use those for function health testing. But if you don't have that and you can't use that, regular insurance doesn't cover it yet. I'm hoping we're going to change that. Yeah, is that in the cards? That's in the roadmap for sure. Because once we can prove that we create value, and we're seeing this, when people use function, they get their lab test done and then we follow them for a few
+
+02:09:28.930 --> 02:09:55.358
+every six months. And we can see the changes in the biomarkers toward the positive, how many people go from abnormal to normal. And it's not just by knowing their tests. There's tens of thousands of pages of content that have been highly curated and scientifically referenced on what to do if you have this or that normal biomarker. So you ask me, what do I do for mercury? If you get a positive mercury and you double clicked on that, you would get a very deep analysis of what you need to do. Here's the way to reduce your exposures through...
+
+02:09:55.554 --> 02:10:08.574
+water and air. Here's how you reduce your exposure to food by reducing these kinds of fish, eating more of these kinds of fish. Are you a fan of using charcoal as a chelator? I don't think charcoal is great for heavy metals, no. I think it's good for binding anything.
+
+02:10:08.674 --> 02:10:37.662
+So we use it. How does one take charcoal? I've been a little bit cautious about taking charcoal. You can take it as capsules. When I was in the ER though, we used to use it. If people came with a drug overdose, we'd make them drink a cup of charcoal, literally. Their teeth would turn black. It was awful. So if I- You try to kill yourself and it's punishment for trying to kill yourself. This is gallows humor that only a physician could laugh at. I know a number of physicians and they all have this gallows humor. I think it's a survival type. You have to, you have to, because you're like in situations which would make you otherwise go crazy. Let's say I want-
+
+02:10:37.762 --> 02:10:51.870
+to remove some heavy metals and toxins from the body, I could take a charcoal tablet. No, you can take a tablet, but I wouldn't do that. What I would say is one, reduce your exposure is number one. You're eating tuna, big fish. It's basically the bigger the fish,
+
+02:10:52.034 --> 02:11:20.670
+More than mercury. I don't eat much tuna anymore. So small fish, salmon, I call it the smashers. Small wild salmon, mackerel, anchovies, sardines, and harring. All your favorite fish. All your favorite fish. But is there anything I can take? So here's what I would do. I would, you know, there's a, I don't have any relationship with this company. It's called Seatopia.fish. It sources fish around the world from regeneratively. Oh, yeah, I've seen their stuff. Regenerative fish farms. So it's farmed, but it's healthy.
+
+02:11:20.866 --> 02:11:42.206
+and it doesn't have all the heavy metals, and you can get good fish. There are some small tuna farms that are like smaller tunas where they actually do this too, but they don't source from there. Second is I would upregulate all of your endogenous detox pathways. So your body has a system of elimination. When doctors say detox is bullshit,
+
+02:11:42.306 --> 02:12:08.702
+You poop, you pee, you breathe, you sweat. Like this is your, your liver has a whole series of pathways that are detoxification pathways. Your kidney does, your gut does. I mean, this is what your body does, right? Your poop, pee, sweat, you know, all these things. So you have to up regular body's own systems. So you need to take foods that up regular liver. You mentioned eating more surface vegetables. You could add more garlic. You could actually juice cilantro as a great hack for,
+
+02:12:08.930 --> 02:12:37.118
+getting rid of heavy metals. Really? Yeah, it doesn't taste very good. I like cilantro. But juicing like a couple of bunches of that every day will help bring it down. And then there are things like fiber to help bind it. So you talked about charcoal, that's a binder, but just eating a higher fiber diet will help you eliminate things faster through your colon, like heavy metals. Do you believe in gut cleanses? There's this, I don't know, but I'll just talk about it. There's this fermented plum
+
+02:12:37.634 --> 02:12:57.822
+that someone gave me. No, it comes in a beautiful packaging, like this orange and black packaging. It's a fermented plum or pomelo that a friend of mine said, listen, you have to stay home the next day, but you take this before you go to sleep, you drink like 16 ounces of water, you go to sleep, you wake up in the morning and you're not going anywhere that
+
+02:12:58.018 --> 02:13:16.030
+except a few trips to the bathroom, but it completely empties your digestive tract. Well, then you can get a colonoscopy and get that too through the prep. So it's not something that I, well, I tried it because I was like, all right, I'll give this a try. Is it healthy or unhealthy or neutral to do a complete digestive tract?
+
+02:13:16.162 --> 02:13:43.678
+I mean, I think it depends how you do it and what's causing it. But it can disrupt your gut flora. So your gut will really repopulate often with the flora that it had. But part of the reason we're so sick is our gut flora is so harmed by C-sections, antibiotics, lack of breastfeeding. The infant formula itself is a microbiome harmful compound for many reasons. I'm not saying women shouldn't use formula, but there's better formulas and worse formulas. And
+
+02:13:43.906 --> 02:13:49.118
+And so we kind of like had a lot of gut issues. We've taken antibiotics, we've eaten food that's
+
+02:13:49.314 --> 02:14:18.174
+to our microbiome, we are exposed to toxins. So somebody might wanna flush their system. I think it can be helpful. And for example, we do this, for example, people have liver failure and you're an alcoholic and you have liver failure. Now liver failure comes mostly from eating sugar and starch. They changed the name, by the way, from non-alcoholic fatty liver disease to metabolic associated fatty liver disease, which is just kind of, so yeah. And so those people, if they come in with liver failure, they get crazy.
+
+02:14:18.466 --> 02:14:41.438
+Literally, it's called hepatic encephalopathy. You get delirium, they are seeing things, they literally go nuts. The treatment, you give them a sterilizing antibiotics, you kill everything in their gut called neomycin, and then you give them lactulose, which makes you poop your brains out. And then they basically flush all that out, and all the toxins that you can't metabolize from your microbiome get flushed out, and you come back to normal cognition.
+
+02:14:41.538 --> 02:15:09.054
+Wow. And it's a standard medical treatment. It's like basically what you learn in medical school. Wow. So there is an argument, and I've done this with autistic kids who've had gut issues with certain different issues. Parkinson's, if you're constipated, your risk goes up by 400%, and that's a toxin-related neurological disease. Well, this thing is a hammer. It was sort of given to me as a joke, and I thought, all right, well, this is going to be no big deal. You're going to be fine. Don't worry. Yeah. No, I only did it –
+
+02:15:09.154 --> 02:15:32.478
+twice on separate occasions. And I was like, okay, that wasn't super pleasant, but I just wanted to know, is it a valuable tool? And I wasn't interested in taking a drug and it's like this fermented fruit or something like that. I did hear that from a colleague at Yale who studies the microbiome that if we fast or if we evacuate our digestive tract,
+
+02:15:32.642 --> 02:15:58.558
+in kind of an aggressive way like that, that the healthy microbiome needs some time to replenish itself. It does, that's right. It's not like when you fast, you start eating away at the unhealthy and healthy microbiota, or they aren't fed. And so it's not across the board a good thing necessarily. Yeah, yeah. So you want to be careful of that. But I think in terms of answering your question about metals, so you want to upregulate, you reduce your exposure, you want to upregulate your pathways
+
+02:15:58.690 --> 02:16:06.910
+And then you can upregulate the pathways by nutrients. So we talked about N-acetylcysteine. So anything that boosts glutathione, lipoic acid,
+
+02:16:07.202 --> 02:16:30.206
+all the methylating B vitamins, B12, folate, B6, making sure you have enough protein, because a lot of the phase two pathways in your liver that help you detoxify are dependent on amino acids, like eucleonidation and glutathione. It's an important detoxifying compound, and you want to basically open up all the pathways to get rid of it. So I have a very specific detox protocol for heavy metals, includes all that, and sometimes DMSA and binders.
+
+02:16:30.434 --> 02:16:57.278
+I use silica. I use alginates from seaweed and others. I don't use charcoal for that. But you can safely remove metals from your body. That's what happened to me. I was able to do it and I'm not demented anymore. I don't have like chronic fatigue syndrome. And if you look at pictures of me in my 30s, you're like, wow, you look terrible. Well, I met you 10 years ago. And you truly have aged backwards. And you look great then. You look super vibrant then. Like you have a ton of energy. Yeah.
+
+02:16:57.410 --> 02:17:22.014
+And I think you embody a lot of the things that people would like for healthy aging. And I know you also exercise and you do all the things. I'd like to talk about some of the kind of more cutting edge things that are happening that I've not tried, but that I'm curious about. And you wanna know if I've done them or not? Well, or maybe, or just- I've tried everything pretty much. Actually, something I have tried, but that-
+
+02:17:22.114 --> 02:17:49.918
+not an expert on, but we've done a couple of podcasts about, but I'd like your thoughts on peptides. What are some of the peptides that you think can be useful to people if they can afford them and work with a doctor where they can get it safely? Let's just assume all that. What are the peptides that you think are of real value to people who aren't like really sick, but are doing everything they can? Optimization. Yeah. Optimization and just, yeah, generally trying to point all the boats in the direction of health. And it depends on what your needs are, what's happening with health and
+
+02:17:50.306 --> 02:18:17.502
+like anything you're using, it should be used for a purpose, right? And peptides are simply mini proteins that have biological effects. And I think of them as your body's superhighway of information and connectivity that drives everything. So they regulate your sex hormones, your growth hormone, your metabolic health, nerve function, I mean, sexual desire. I mean, there's a million peptides, like GLP-1 is a peptide.
+
+02:18:17.602 --> 02:18:31.006
+Insulin's a peptide, right? So there are tens of thousands of peptides that are made by the body that are used to regulate everything. And so there's a number of them that have been available that have been studied well. Some of them are on the market, like
+
+02:18:31.234 --> 02:18:56.734
+know, Ozambic or insulin or by Lisi, which is something called PT-141. It's for hyposexual women, right? Yeah, for women. But you use it for men. It works for- But it's FDA approved for women. It's FDA approved for women. It works for men too. Is it Kispeptin? Is that- No, it's not Kispeptin. It's a- I'm going to butcher the name. It's like- It starts with a B, Blemelotide or something like that. And, you know, it does make you nauseous. So you need to take a-
+
+02:18:56.834 --> 02:19:20.862
+Be careful. You don't want to throw up while you're having sex. Definitely not. Not too sexy, but it does work. But there's a number of, depending on your needs. For example, if you're athletic and you're in the gym a lot, you want to increase recovery and repair, there's peptides like BPC-157 and TB-500 and GHK that are regulatory peptides for tissue repair and healing.
+
+02:19:21.570 --> 02:19:43.871
+There are peptides that you can use for immune function, like thymus and alpha-1, which is great if you're getting a cold or you have an immune issue or you have COVID or... What's the pathway for thymus and alpha? We don't have to go through every biochemical step, but is the logic there that you're increasing the number, excuse me, of T cells and B cells? Yeah. So basically, you know...
+
+02:19:43.969 --> 02:20:13.118
+When you're born, you have a giant thymus gland, which takes up your whole chest. Really? Yeah. If you look at a baby, just take a Google image and put it up there. It's basically like your whole sternum, it's like this big. But it involutes or shrinks as you get older and it kind of becomes smaller. But it's still a source of your immune function and it helps with building your immune resilience. And as we age, it gets worse and worse. And so the thymus alpha-1 does increase your white blood cell function and number and it helps improve that.
+
+02:20:13.314 --> 02:20:41.566
+Then there's peptides that are like a great like PT-141 for sexual function. There's peptides like Kisopeptin that increases testosterone. There's ones like ipamorlin and intestinal hormone that may help growth hormone. Do you take it – you don't have to share what you take, but do you think any of these are kind of mainstays for people over 40 if they can afford them? Some of them I think, but you have to be careful because they're not like just taking a vitamin. I mean if you take an overdose of vitamin D, you'll get in trouble or –
+
+02:20:41.858 --> 02:21:05.182
+If you have other fat-soluble vitamins like vitamin A, you'll get in trouble. Most water-soluble vitamins are not going to get in trouble. Although beef sick, you have to be careful with an overdose. And magnesium, if you take too much of it, you just poop your brains out. And vitamin C, the same thing. So your body can manage. But peptides are very powerful compounds. I mean, look at Ozempic. I mean, look at insulin. I mean, these are very powerful compounds. Not to be messed around. No. So you really need someone who's educated.
+
+02:21:05.826 --> 02:21:32.382
+And it, well, they should be usually a doctor or some licensed professional who has studied and understands this. And they should be used with monitoring to the side effects, the effects, the effects on your lab work and hormones. What about cycling them? Yeah. So you don't want to necessarily always take them all the time. And you want to do cycle them, particularly ones that stimulate things like growth hormone. You don't want to be on that all the time. I worry about BPC-157 because in my experience, it is effective at treating minor injuries and things like that. Yeah.
+
+02:21:32.482 --> 02:22:00.478
+People now just take it continuously and it increases angiogenesis, growth of capillaries and vessels and things like that. And if you have a tumor, you do not want to increase angiogenesis to the tumor. You just wouldn't know if that was happening. There's no way to know until that tumor starts creating problems. Right. Although that's another thing, cancer screening is so antiquated, right? We do such poor jobs of cancer screening with colonoscopy, pap test, mammogram. What's a better cancer screening?
+
+02:22:00.962 --> 02:22:27.710
+There's a new technology that has been developed using fragments of DNA that are released into the bloodstream from cancers way before it ever shows up on a scan or an imaging, which you can pick up cancers a year, two or three before they ever show up on any kind of other test. And it's called gallery. It screens 50 of the most common cancers, many of which there's no screening test for, and it,
+
+02:22:27.810 --> 02:22:57.630
+false positive rate, which is what you worry about, is very low, like half a percent. That means it shows you have a cancer when you actually don't, which can be very terrifying. It's about 75% accurate in finding the cancer early if you find it. And it's great. I mean, we've picked up so many people with issues. One in 188 of our members who've tested with this test have a cancer that they wouldn't have known about otherwise, and they can catch it in early stages before it kills you. The pushback on this early detection was surprising to me. Not this one in particular, but
+
+02:22:57.794 --> 02:23:19.614
+a few years ago, I paid for a Pronovo scan. Yeah, yeah. Then I started seeing some of the pushback on whole body MRIs from people in the standard medical community. So I asked my good friend, a neurosurgery at UCSF, Eddie Chang. I said, hey, what do you think of these whole body scans? And he said, I get people coming in all the time who have identified brain tumors and aneurysms and issues, but...
+
+02:23:19.714 --> 02:23:38.014
+they were completely unaware of that they would probably be dead in the next five to 10 years. And by the way, I don't get paid by Prenuvo. I don't have any deal with Prenuvo or any other of these whole body imaging things. And I realized there's a cost. So I think the implication is from the people that give pushback, like, oh, these things are expensive and we're going to
+
+02:23:38.210 --> 02:24:07.742
+We're gonna push back on them as a tool because we don't want people to feel badly if they can't get them. We don't want to make- They're gonna become commoditized. They're gonna become cheap. Just like we're able to get like $15,000 a test for 499, we're gonna be able to get a whole body's game for 300 bucks. It's happening. It doesn't have to be 3000 bucks. So that's coming. And I think we're gonna lean into that and function in the future, but it's really important to understand that you want data on your body as much as you can have and as much as you can afford. And the healthcare system should pay for it. They don't,
+
+02:24:08.258 --> 02:24:34.942
+don't understand the value of this because they don't see the benefit as the people transfer insurance companies so regularly and jobs so regularly that they figure, oh, if I invest in somebody's health and the next guy's going to get the benefit, you know, if I'm United, then Aetna will get the benefit or Signal will get the benefit. And I see, you know, it's kind of like a, it's a perverse incentive system. But I think, you know, data driven healthcare is the future. Really imagine, imagine a place where you can have all your personal health data,
+
+02:24:35.074 --> 02:25:04.414
+And this is where we're going, where you can have all your biomarker testing, where you can have all your wearable data, your full genome, your microbiome, all imaging data, not just the whole body scan, but looking at your body composition, looking at AI heart scans that tell how much plaque you have and much more. With your medical history, with all the world's scientific literature informing it, with knowledge experts also overlaying their knowledge and expertise onto it, in a platform that allows you to create
+
+02:25:04.610 --> 02:25:33.982
+Period. So think about like an AI chat bot that's just based on you. Like it's your data. And what now in medicine is so amazing is we try to like make diagnoses and understand what's going on with people with such limited data sets. About them. About them. They're so antiquated. And so you've got guys like Lee Hood, who's literally measuring thousands and thousands of data points on patients. And he's using his project called the Phenome Project. I think it's called Phenome Health, where he's...
+
+02:25:34.146 --> 02:26:00.542
+being able to say, oh geez, I can detect this from a few molecules in the blood, I can see what's going on with your microbiome, or a few molecules in your blood, I can see if you're gonna be at risk for Alzheimer's. And now we offer this for, you think there was no test for Alzheimer's, right? You had to do a brain biopsy, or you had to wait till you got, you know, you forget your name of this or that or the other thing. And now we can, through blood testing, look for things like P-tau 217 and amyloid 4240,
+
+02:26:00.738 --> 02:26:28.830
+shows. What can you do in response to that? Let's say somebody is- That's a good question. That's a great question. I mean, Alzheimer's is a tough one. I followed this field for a long time. I had people working in the bench right across from me as a postdoc. There have been so many hypotheses, not just the plaques and tangles thing, not just the beta amyloid hypothesis, but I'll tell you, my friends who are neurologists are not optimistic. They're not, but they're not looking at the problem the right way, right?
+
+02:26:29.346 --> 02:26:53.438
+It's sort of like the blind man and the elephant. They're looking at their one thing and they don't see an answer. But you guys like Richard Isaacson, who was at Cornell and now he's in Florida, who if you haven't had on your podcast, you should, who's a neurologist studying Alzheimer's and looking at deep diagnostics and personalized approaches to address the root causes and seeing remarkable outcome reversals. He had a special on Alzheimer's.
+
+02:26:53.666 --> 02:27:13.214
+I think CNN was Sanjay Gupta, where they literally showed that you can take these biomarkers and if you find them early enough, you can intervene. And again, I've done this with dozens of patients who had dementia who were able to stop or reverse it. I have more right. With diet? Not just diet, it's everything. So Alzheimer's is, it's like saying, it's like just saying,
+
+02:27:13.346 --> 02:27:37.054
+you can't remember stuff. Like, you know, we have all these fancy names we give to diseases and then we say, oh, I know why you can't remember things. You have Alzheimer's. No, Alzheimer's is the name we give to people who can't remember things. It's a certain specific type of problem. It's a constellation of issues. But then the question is what causes it? And there are multiple causes. It's called type 2 diabetes, type 3 diabetes of the brain, or it's caused by insulin resistance. We know diabetics have four times the rate of Alzheimer's.
+
+02:27:37.314 --> 02:28:05.470
+could be caused by environmental toxins like heavy metals. It could be caused by mold or it could be caused by Lyme disease like Chris Christopherson had, or it could be caused by change in the microbiome or by nutritional deficiencies. I had one woman who was like diagnosed with early dementia and she had, she was older, brilliant woman, but was starting to lose it. Turned out she had severe methylation issues and B vitamin deficiency and folate deficiency. And I treated her with a vitamin B12 shot and some B vitamins and she came right back. So
+
+02:28:05.762 --> 02:28:32.830
+It's a multi, again, multi-causal, multi-modal treatments. You've got to figure out all the causes and you've got to treat all the problems. If someone has mercury issues and mold issues and they have Lyme disease and they have gut issues and they have prediabetes and they have methylation issues, you've got to treat all those things. And then you can see real change in people's biomarkers. Ketogenic diets have been affected, but it's not like a keto diet will fix everybody with Alzheimer's or that chelation will fix everybody with Alzheimer's or that...
+
+02:28:33.026 --> 02:29:01.246
+fixing their diabetes will fix everybody with Alzheimer's. You have to find all the things and treat all the things. Like if your roof has 30 holes in it and you plug 25 of them and it rains, it's still going to get wet in your house. And that's the opposite of how medicine is practiced. And I ran into this at Cleveland Clinic and we were trying to study Alzheimer's and we had a guy who really wanted to look at the black box of functional medicine. People come in, you do personalized care, out the other side, what happens? And the head of science there was like, no, no, we can't do that. We can only study one thing at a time.
+
+02:29:01.794 --> 02:29:31.550
+vitamin D, we'll do that study. Then we'll do fish oil study. Then we'll do diet study. Then we'll do exercise study. Then we'll do whatever study. I'm like, that's not how the body works. You need, you know, if you want to grow a plant, you can't just say, I'm just going to give it water and soil, but no light, or I'm going to give it light, but no soil, or, you know, like, it just doesn't make sense. So- The whole context. Yeah, functional medicine is really about understanding this model and how do you apply it in a personalized way. And Richard Isaacs has done it. Dale Bredesen's done it. And their results are amazing. And I personally have seen this in my patients where they either-
+
+02:29:31.810 --> 02:29:58.110
+Stop progressing or they reverse it. Now, sometimes they do progress and it's hard, but I've had patients who've done incredible for years and years and years. Well, about a year ago, somebody who's probably one of the finest cardiologists in North America contacted me of all people and asked, what do I know about ketogenic diet for the treatment of Alzheimer's? And I said, I've known him since I was a kid because he had a family friend, a phenomenal cardiologist. And I said, yeah.
+
+02:29:58.210 --> 02:30:23.390
+this is an odd moment because I remember years ago, I said I was gonna go into neuroscience and he said, why would you go into neuroscience? Like there's nothing to the, like neuroscience is a ridiculous field. Why would you do that? I think he- The joke about neurologists is you diagnose an adios. Like there's nothing to do. You could do a diagnosing problem, but you can't do anything about it. So exactly to that point. So, but he was very curious because his father had Alzheimer's and he was exploring the ketogenic diet for
+
+02:30:23.490 --> 02:30:45.406
+treatment of Alzheimer's for his dad and he was observing some really impressive results. So here's a cardiologist among the best asking me what I've seen about this. And I said, well, I know of Dale Bredesen's work and I'm learning as I go and we will cover this on the podcast. This is very informative. I want to make sure that we hit the other kind of cutting edge things.
+
+02:30:45.698 --> 02:31:08.254
+curious if you take anything to augment NAD. I take sublingual NMN every day. I don't get paid by a company that makes NMN. I take it – the most noticeable effects that I've observed are increased energy. My hair grows super fast when I take NAD and my nails grow super fast. Those are not effects I was trying to achieve, but that's what I've observed. Do you take NMN
+
+02:31:08.642 --> 02:31:30.142
+are or do you do NAD infusions? Yeah, I do. And why? I think, you know, when you look at the data and I wrote a book called Young Forever and talk about longevity and the pathways. And when you look at the fundamental regulatory systems in the body around cellular repair, healing, renewal, regeneration, we have a built-in healing system. Like everybody understands that. If you cut your skin, you
+
+02:31:30.466 --> 02:31:59.582
+and go, oh, would you please heal and please recruit these stem cells and read these angiogenesis factors and bring cytokines over here to do that. Your body knows what to do. Same thing you break a bone. It's got its own healing system. So in the body, I call these longevity switches. But they regulate not just longevity, but they regulate chronic disease and much more. And they're embedded ancient pathways that exist from worms to humans. mTOR, MPK, sirtuins, and insulin signaling pathways. And
+
+02:32:00.098 --> 02:32:28.318
+NAD in the body works to activate one of those longevity switches called sirtuins, which are involved in DNA repair. So when you get 100,000 hits a day to your DNA as it's unraveling and re-raveling and it kind of gets damaged, you need an army to go out and fix it, right? A bunch of carpenters kind of like repair that broken DNA. NAD stimulates that. It also stimulates mitochondrial biogenesis, forming new mitochondria, improves mitochondrial function, improves insufficiency.
+
+02:32:28.418 --> 02:32:34.686
+insulin sensitivity, improves mTOR, induced autophagy.
+
+02:32:34.786 --> 02:33:01.278
+a lot of redundancies in these pathways, but it's really quite amazing when you see how the body is organized. And so NAD is one of the things that's not going to make you live forever or cure every disease, but it's an optimization tool because as you get older, NAD levels decline. And so your mitochondria decline, your energy declines, and it's great for all of that. So I take it and I think- How do you get NAD- I get 1,000 milligrams of NMN. Okay. So you take that daily? Yeah.
+
+02:33:01.442 --> 02:33:31.358
+Yeah, I do the sublingual NMN and occasionally I'll get an NAD infusion, but it's so unpleasant. As it goes in, it's like you're getting stomped on by an elephant. Slowly, slowly, but you do feel great afterwards. Exosomes. Yeah. Have you had them? I've had them. I've given them. What are they and why would you get them? So again, the body has this amazing healing system and it's part of the body's healing system. And this whole field you're talking about, whether it's peptides, whether it's exosomes,
+
+02:33:31.554 --> 02:33:55.550
+And it's part of this field of regenerative medicine. How do we regenerate and heal and repair by activating our body's own built-in systems, which are way better and way stronger and work way faster than most medications, if you know how to use them. So exosomes are essentially the little packets of healing information that are inside stem cells. And there's thousands of them. And they get released immediately.
+
+02:33:56.226 --> 02:34:25.470
+Think of like little kind of like, you know, when you blow bubbles when you're a kid, it's like these little bubbles of stuff that go out into the body and then they go to where they're needed and then they release the packets of information that contain growth factors, healing factors, anti-inflammatory factors, tissue repair factors. And that's how the body tends to repair and heal. And so I remember once I had COVID really bad and I, afterwards, I've never really felt depressed. I may have been sad, obviously, in my life and lost parents and had things happen. They were, you know, life issues.
+
+02:34:25.762 --> 02:34:50.366
+I felt physiologically depressed. Like my brain felt terrible. I couldn't think. That's how I felt with COVID too. Yeah, cognitive issues. I was like, I'm an idiot and I'm depressed and I want to kill myself. And my higher self is like, this is not me. And I took a load of exosomes, IV. I just got them because I'm a doctor. I can get them. And I gave them to myself. And literally within hours, I was resurrected.
+
+02:34:50.530 --> 02:35:11.422
+It was amazing, yeah. And I've used it for my knee. I have a meniscus injury. I've used them in my knee. I've used them in my back. So I think they can be very effective. I use them intravenously for- Is it done in the United States? You can. You can give exosomes in the United States. So it's FDA approved? Yeah. But they're approved for skin issues or this thing. So there's like an off-label uses what they use them for.
+
+02:35:11.682 --> 02:35:39.838
+A lot of things like stem cells, you have to go out of the country to do it. And there's a regulatory issues or safety issues. I'm still scared to do stem cells. I understand. I mean, you want to not play with this stuff, but you also, you know, it can be used effectively. Like my wife, for example, is a runner and she kind of tore her knees up and had patellofemoral syndrome and couldn't walk. And I mean, she's younger than I am and she shouldn't be feeling that like she's 80 years old on her knees. We went to Costa Rica to a very reputable center
+
+02:35:39.970 --> 02:36:06.238
+And I knew the founders of it. I inspected the laboratory. I had the scientists who harvested them, who grew them, what they did, their testing practice. I did my homework. And she ended up having no knee problems after she got her stem cells in her knees. And I was like, that's amazing. And this is like probably close to two years later. That's awesome. I mean, I've heard great things from many people. I haven't felt a need to do stem cells, so that's why I haven't done it. But I'm curious about exosomes and
+
+02:36:06.370 --> 02:36:28.926
+cautiously exploring the peptide space. We talked about some other supplements. Look, Mark, we've covered a ton. It was a whirlwind. I know. I'm ADD. I'm like, what are we talking about? No, no. At the same time, I mean, we talked about food as medicine. Yeah. Talked about core supplements that people really should perhaps not even think about as supplements anymore, but
+
+02:36:29.378 --> 02:36:56.446
+that's sort of up to the, that's in the ear of the beholder. My joke on that is this. I said, people say, do you need supplements? I'm like, no, you don't need supplements, but only under certain conditions. You drink pure clean water, you breathe pure clean air, you wake up with the sun, you go to bed with the sun, you have no chronic stress, you're exposed to no environmental toxins, and you're only hunting and gathering your own wild food. If that's you, you don't need any supplements. And it's the 1930s, right? So yeah, things like D3 omegas, I like that answer. Magnesium,
+
+02:36:56.546 --> 02:37:26.174
+Selenium iodine, a case, you made a case for table salt in addition to all the fancy salts that we all enjoy. Or just having seaweed and fish, you know. Seaweed and fish, but not tuna. And thank you for touching on air and lack of cleanliness and air, heavy metal poisoning, things to be cautious about there's ways to detox and for illustrating that detoxification is possible through known pathways, that anti-aging longevity, whatever you want to call it,
+
+02:37:26.274 --> 02:37:49.502
+and bodily repair pathways are inherent in us. And so we can encourage them. And I also really wanna thank you for being willing to wade into the- Swamp. The swamp that is the public health debate right now, but especially the corner of the swamp that is, for lack of a better way to put it, the big food FDA relationship and what you
+
+02:37:49.602 --> 02:38:14.718
+and Bobby Kennedy and others. I hope that they will recruit from the left. I know Cory Booker has been actively involved in this. He's on the left clearly. And trying to clean up the food supply, give people options. What I heard is that it's not about forcing things, but it's about giving people options and knowledge. Transparency, education. So like I really appreciate you and the entire –
+
+02:38:14.850 --> 02:38:30.814
+of people that care about their health, whether they realize it or not, they appreciate you because you're a real pioneer in this field and you've trudged some really challenging waters. And I happen to know, and I feel very good saying that it is your inherent good nature. I think that's allowed you to go through
+
+02:38:31.202 --> 02:39:01.168
+swamp after another, after the other with your optimism and your kindness of spirit intact. So thanks. You're a real role model to everyone who cares about their health and who's trying to help others care about their health. Yeah, I'm a pathological optimist. But the good news is optimists live longer, even if they're wrong. I was thinking about this the other day. I met your new dog. And forgive me for saying this, but Lenny's got a great attitude. You know what my first thought was? It's kind of like Mark. He crawled up on my lap, although you didn't crawl up on my lap. I just want to make the point that he has no
+
+02:39:01.168 --> 02:39:30.494
+stranger danger. Yeah. He was very, but he's a, he's a really wonderful and beautiful dog, by the way. He's an impressive dog. And you just have that good nature about you. And I know you want the best for people. I just don't like people suffering when they don't need to. I feel like I'm, I'm having a glass of water. They're thirsty and there's a giant glass wall between us. And that's why I've been working my whole life to kind of get the message out about how people can heal, whether it's on their own or whether through my books or through a free education, my podcast, your stuff. I mean, it's,
+
+02:39:30.658 --> 02:39:57.438
+It's a public service because people are suffering and they don't need to. I feel that. I know everyone listening feels that. And thank you for everything that you've done. And again, for being such a pioneer and keep going. Thanks. Thanks, Andrew. Thanks, Mark. Thank you for joining me for today's discussion with Dr. Mark Hyman. To learn more about Dr. Hyman's work and to find links to the various sources discussed during the course of this episode, please see the show note captions.
+
+02:39:57.666 --> 02:40:27.632
+If you're learning from and or enjoying this podcast, please subscribe to our YouTube channel. That's a terrific zero cost way to support us. In addition, please follow the podcast by clicking the follow button on both Spotify and Apple. And on both Spotify and Apple, you can leave us up to a five-star review and you can now leave us comments at both Spotify and Apple. Please also check out the sponsors mentioned at the beginning and throughout today's episode. That's the best way to support this podcast. If you have questions for me or comments about the podcast or guests or topics that you'd like me to consider for the Huberman Lab
+
+02:40:27.632 --> 02:40:51.838
+please put those in the comments section on YouTube. I do read all the comments. For those of you that haven't heard, I have a new book coming out. It's my very first book. It's entitled Protocols, an Operating Manual for the Human Body. This is a book that I've been working on for more than five years, and that's based on more than 30 years of research and experience. And it covers protocols for everything from sleep to exercise, to stress control,
+
+02:40:52.002 --> 02:41:11.998
+protocols related to focus and motivation. And of course, I provide the scientific substantiation for the protocols that are included. The book is now available by presale at protocolsbook.com. There you can find links to various vendors. You can pick the one that you like best. Again, the book is called Protocols, an Operating Manual for the Human Body.
+
+02:41:12.354 --> 02:41:42.320
+And if you're not already following me on social media, I am Huberman Lab on all social media platforms. So that's Instagram, X, Threads, Facebook, and LinkedIn. And on all those platforms, I discuss science and science-related tools, some of which overlaps with the content of the Huberman Lab podcast, but much of which is distinct from the information on the Huberman Lab podcast. Again, it's Huberman Lab on all social media platforms. And if you haven't already subscribed to our Neural Network newsletter, the Neural Network newsletter is a zero-cost monthly newsletter that includes podcast summaries as well
+
+02:41:42.320 --> 02:42:07.998
+as what we call protocols in the form of one to three page PDFs that cover everything from how to optimize your sleep, how to optimize dopamine, deliberate cold exposure. We have a foundational fitness protocol that covers cardiovascular training and resistance training. All of that is available completely zero cost. You simply go to Hubermanlab.com, go to the menu tab in the top right corner, scroll down to newsletter and enter your email. And I should emphasize that we do not share your email with anybody.
+
+02:42:08.226 --> 02:42:16.094
+you once again for joining me for today's discussion with Dr. Mark Hyman. And last, but certainly not least, thank you for your interest in science.

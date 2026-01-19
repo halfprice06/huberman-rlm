@@ -1,0 +1,292 @@
+WEBVTT
+
+00:00.226 --> 00:28.382
+Welcome to Huberman Lab Essentials, where we revisit past episodes for the most potent and actionable science-based tools for mental health, physical health, and performance. I'm Andrew Huberman, and I'm a professor of neurobiology and ophthalmology at Stanford School of Medicine. And now for my discussion with Dr. Justin Sonnenberg. Justin, thanks so much for being here. Great to be here. I am a true novice when it comes to the microbiome.
+
+00:28.482 --> 00:50.142
+So I'd like to start off with a really basic question, which is, what is the microbiome? I think, you know, just to start off with clarifying terminology, microbiome and microbiota quite often are used to refer to our microbial community interchangeably, and I'll probably switch between those two terms today. The other important thing to realize is that these microbes are...
+
+00:50.370 --> 01:14.910
+not just in our gut, but they're all over our body. They're in our nose, they're in our mouths, they're on our skin, basically anywhere that the environment can get to in our body, which includes inside our digestive tract, of course, is colonized with microbes. And the vast majority of these are in our distal gut and in our colon. And so this is the gut microbiota or gut microbiome. And the
+
+01:15.074 --> 01:41.310
+density of this community is astounding. You start off with a zoomed out view and you see something that looks like, you know, fecal material that digests inside the gut and you zoom in and you start to, you know, get to the microscopic level and see the microbes. They are just packed, you know, side to side, end to end. It's a super dense bacterial community, almost like a biofilm to the point where it's thought that, you know, around 30%
+
+01:41.506 --> 02:10.015
+of fecal matter is microbes, 30 to 50%. So, it's an incredibly dense microbial community. We're talking of trillions of microbial cells and all those microbial cells, if you start to get to know them and see who they are, break out in the gut probably to hundreds to a thousand species. Most of these are bacteria, but there are a lot of other life forms there.
+
+02:10.178 --> 02:36.894
+Archaea, which are little microbes that are bacteria-like, but they're different. There are eukaryotes. So, you know, we commonly think of eukaryotes in the gut as, you know, something like a parasite, but there are eukaryotes, there are fungi, there are also little viruses. There are these bacteriophages that infect bacterial cells.
+
+02:37.122 --> 03:03.358
+And those actually outnumber the bacteria like 10 to one. So they're just everywhere there, they kill bacteria. And so there's these really interesting predator-prey interactions. But overall, it's just this really dense, complex, dynamic ecosystem. Are microbiota seen in newborns? In other words, where do they come from? And dare I ask, what direction do they enter the body?
+
+03:03.458 --> 03:27.454
+There have been some studies that have looked at whether there are microbes in the womb and microbes colonizing the fetus. And there's some debate about this, but overall it looks like that's not a big part of the equation of microbial colonization. And so each time an infant is born, it's this new ecosystem. It's like an island rising up out of the ocean that has no species on it. And suddenly there's this like land rush for,
+
+03:27.586 --> 03:56.382
+you know, this open territory. There also are a lot of different trajectories that developmental process can take because our microbiota is so malleable and so plastic, and those trajectories can be affected by all sorts of factors in early life. So an example is whether an infant is born by C-section or born vaginally. Infants that are born by C-section actually have a gut microbiota that looks more like human skin
+
+03:56.642 --> 04:24.318
+than it does like either the birth canal, the vagina microbiota, or the mother's stool microbiota. Compound on top of that, whether you're breastfed or formula fed, whether your family has a pet or doesn't have a pet, whether you're exposed to antibiotics, there are all these factors that really can change that developmental process and really change your microbial identity eventually in life.
+
+04:24.450 --> 04:49.406
+we know from animal studies that depending upon the microbes that you get early in life you can send the immune system or metabolism of an organism or other parts of their biology in totally different developmental trajectories so what microbes you're colonized with early in life can really change your biology how do i know if my microbiome is healthy or unhealthy
+
+04:49.570 --> 05:17.438
+Context matters a lot. What's healthy for one person or one population may not be healthy for another person or population. And I will say that there's no single answer to this, but there's some really important considerations. Perhaps the best way to start talking about this is to go back to the inception of the Human Microbiome Project, which was this program that NIH started. They invested a lot of money in 2008, 2009 for really propelling
+
+05:17.538 --> 05:44.990
+the field of gut microbiome research. It was becoming evident at that point that this was not just a curiosity of human biology, that it was probably really important for our health. Through those studies, we really started to get the image that there is this tremendous individuality in the gut microbiome. And so it's really hard to start drawing conclusions after initial pass of that project of what is a healthy microbiome
+
+05:45.410 --> 06:15.262
+But the other thing that we started to realize at the same time, there were studies going on documenting the gut microbiome of traditional populations of humans, hunter-gatherers, rural agricultural populations. And those studies were really mind-blowing from the perspective of, you know, all these people are healthy, they're living very different lifestyles, and their microbiome doesn't look anything like a healthy American microbiome. And so one possibility is that
+
+06:15.394 --> 06:45.182
+In the industrialized world, we have a different microbiome from traditional populations and that microbiome is well adapted to our current lifestyle and therefore healthy in the context of an industrialized society. And there probably are elements of that that are true. But another possibility is that this is a microbiome that's gone off the rails, that it is deteriorating in the face of antibiotic use and all the problems associated with industrialized diet, Western diet.
+
+06:45.282 --> 07:06.622
+And that even though the Human Microbiome Project documented the microbiome of healthy people, healthy Americans, that what they really may have been documenting there is a perturbed microbiota that's really predisposing people to a variety of inflammatory and metabolic diseases.
+
+07:07.714 --> 07:27.262
+By now, I'm sure that many of you have heard me say that I've been taking AG1 for more than a decade, and indeed, that's true. The reason I started taking AG1 way back in 2012, and the reason why I still continue to take it every single day, is because AG1 is, to my knowledge, the highest quality and most comprehensive of the foundational nutritional supplements on the market.
+
+07:27.458 --> 07:54.590
+What that means is that it contains not just vitamins and minerals, but also probiotics, prebiotics, and adaptogens to cover any gaps that you might have in your diet, while also providing support for a demanding life. Given the probiotics and prebiotics in AG1, it also helps support a healthy gut microbiome. The gut microbiome consists of trillions of little microorganisms that line your digestive tract and impact things such as your immune status, your metabolic health, your hormone health, and much more.
+
+07:54.754 --> 08:24.720
+Taking AG1 consistently helps my digestion, keeps my immune system strong, and it ensures that my mood and mental focus are always at their best. AG1 is now available in three new flavors, berry, citrus, and tropical. And while I've always loved the AG1 original flavor, especially with a bit of lemon juice added, I'm really enjoying the new berry flavor in particular. It tastes great, but then again, I do love all the flavors. If you'd like to try AG1 and try these new flavors, you can go to drinkag1.com slash Huberman to claim
+
+08:24.720 --> 08:38.206
+If my gut microbiome was dysbiotic, it was off early in life, can I rescue that through
+
+08:38.433 --> 09:06.110
+proper conditions and exercise, or is there some sort of fixed pattern that's going to be hard for me to escape from? Yeah, there's a big field that's emerging now that we refer to as kind of reprogramming the gut microbiome. And the issue that I think we're seeing in the field is that microbiomes quite often, whether they're diseased or healthy, exist in stable states. They kind of tend towards this
+
+09:06.210 --> 09:35.134
+well that has gravity to it in a way, biological gravity, where it's really hard to dislodge that community from that state. So even individuals, for instance, that get antibiotics, you take oral antibiotics, the community takes this huge hit. We know that a bunch of microbes die, the composition changes, and that represents a period of vulnerability where pathogens can come in and take over and cause disease. But if that doesn't happen,
+
+09:35.522 --> 09:58.206
+the microbiota kind of works its way back to something that is not exactly like, but similar to the pre-antibiotic treatment. We know with dietary perturbations, quite often you'll see a really rapid change to the gut microbiome. And then it's almost like a memory where it snaps back to something that's very similar to the original state, even though the diet
+
+09:58.530 --> 10:27.134
+remains different. And so there's this incredible, what we refer to as resilience of the gut microbiome and resistance to change, or at least resistance to establishing a new stable state. So that doesn't mean it's hopeless to change an unhealthy microbiome to a healthy microbiome, but it does mean that we need to think carefully about restructuring these communities in ways where we can achieve a new stable state that will resist
+
+10:27.266 --> 10:50.622
+the microbial community getting pulled back to that original state. And one of the kind of simplest and nicest examples of this is an experiment that we performed with mice where we're feeding mice a normal mouse diet, a lot of nutrients there for the gut microbiota, things like dietary fiber. And we switched those mice
+
+10:50.978 --> 11:14.750
+half the mice to a low fiber diet. And we were basically asking the question that, if you switch to kind of a Western-like diet, a low fiber, higher fat diet, what happens to the gut microbiota? And we saw the microbiota change, it lost diversity. It was very similar to what we see in the difference between industrialized and traditional populations. But when we brought back a healthy diet,
+
+11:14.946 --> 11:39.998
+a lot of the microbes returned, it was fairly, there was this kind of memory where it went back to very similar to its original state. The difference is that when we put the mice on a low fiber, high fat diet, and then kept them on that for multiple generations, we saw this progressive deterioration over the course of generations, whereby the fourth generation, the gut microbiome was a,
+
+11:40.674 --> 12:05.214
+you know, a fraction of what it originally was, let's say 30% of the species only remained something like 70% of the species had gone extinct or appeared to have gone extinct. We then put those mice back onto a high fiber diet and we didn't see recovery. So in that case, it's a situation where a new stable state has been achieved. In that case, it's probably because those mice don't actually have access
+
+12:05.346 --> 12:34.910
+to the microbes that they've lost. And we actually know that we did the control experiment of mice on a high fiber diet for four generations. They maintain all their microbes. If we take those fourth generation mice with all the diversity and do a fecal transplant into the mice that had lost their microbes, but had been returned to a high fiber diet, all of the diversity was reconstituted. So your question of like, how do we establish new stable states? How do we get back to a healthy microbiota?
+
+12:35.042 --> 13:04.094
+have taken a lot of antibiotics or have a deteriorated microbiota, it's probably a combination of having access to the right microbes. And we can talk about what that access looks like. It may look like therapeutics in the future. There are a lot of companies working on creating cocktails of healthy microbes, but it'll be a combination of access to the right microbes and nourishing those microbes with the proper diet. What's the idea about cleanses and fasting as it relates to the health or the dysbiosis of the microbiota?
+
+13:04.194 --> 13:33.118
+Yeah, I mean, we know that like, you know, in studies that are being done now to reprogram the gut microbiota to install a completely new microbial community, the first step is to wash away the resident microbial community that's there. So if you're in the process of acquiring a really good microbiota and you know how to do that, then the flushing everything out is great. Otherwise, what is happening is you're kind of leaving rebuilding of the community to chance. Like, what is it? And so,
+
+13:33.314 --> 14:02.846
+what microbes are going to colonize, who's going to take up space after you do this flush or cleanse. And I think it's a little bit like playing Russian roulette. You may end up with a good microbial community in there afterwards. You may not. You certainly want to pay close attention to what you're eating while you're doing the reconstitution of the community after you do something like that. It sounds to me that avoiding processed foods is a good idea. Or heavily processed foods in general. And I mean, not that,
+
+14:02.946 --> 14:29.278
+the occasional consumption is necessarily bad, but consuming processed foods is just bad for the microbiome. Can we say that categorically? For sure. Okay. Yeah, you're exactly right. And we can break down, there's a lot of data of why different components of processed food are so bad for us and so bad for our microbiome. And I can talk about a few examples of that. But the flip side of this, the plant-based diet, if you're eating a bunch of complex,
+
+14:29.410 --> 14:54.174
+fibers that feed your gut microbiota. Your gut microbiota produces these substances called short chain fatty acids, things like butyrate. And it's known that these short chain fatty acids play really essential components, both in terms of fueling colonocytes, enforcing the barrier, keeping inflammation low, regulating the immune system, regulating metabolism. Your gut microbiota is just producing this vast array of
+
+14:54.274 --> 15:15.230
+fermentation end products that then get absorbed into our bloodstream and have all of these tremendous cascading effects that appear to be largely beneficial on our biology. Now, processed foods, I think, is this other dimension where you have all of these weird chemicals, artificial sweeteners, weird fats, a lot of refined, simple nutrients.
+
+15:15.330 --> 15:42.174
+The simple nutrients we've talked about, but we know that, for instance, artificial sweeteners can have a massive negative impact on the gut microbiome and can lead us towards metabolic syndrome, actually. There's been beautiful work out of the Weizmann Institute on this. And then emulsifiers, these compounds that are put in processed foods to help them maintain shelf stability so things don't separate. And so all the moisture content is retained appropriately.
+
+15:42.274 --> 16:04.510
+Many of these are known to disrupt the mucus layer. And as soon as you start disrupting that barrier, that can lead you in the direction of inflammation. And in animal models, we know that can lead towards metabolic syndrome as well. So there's components of processed food that are, when studied in isolation, known to have a direct negative impact on gut biology and the microbiota. I do want to make sure that
+
+16:04.642 --> 16:31.966
+we distinguish artificial sweeteners from non-caloric plant-based sweeteners. Do we know anything about plant-based non-caloric sweeteners or low-caloric sweeteners? Very little. A lot of those have a lot more bang for the buck. They're incredibly sweet, so it takes a really small amount for them to trigger a huge amount of sweetness. And so it's depending upon the mechanism of action by which these sweeteners that are not sugar,
+
+16:32.066 --> 16:52.734
+are impacting our biology, it may be that those are actually less negative or more healthy than the ones that are artificial, just because it requires less of them in the food for us to perceive that sweet taste. Historically, there are, I think, traditional populations that use these, for instance, to sweeten
+
+16:52.866 --> 17:18.046
+you know, sweetened different foods that our bodies just kind of know how to deal with those compounds better than the ones that are synthetic. But I think the, you know, the studies still need to be done. Do you actively avoid artificial sweeteners, sucralose, aspartame, saccharin? You personally? Yeah, you know, I do. I avoid them, but I'm not, you know, I think that just doing things in moderation makes it a lot
+
+17:18.178 --> 17:39.198
+easier and doing things slowly makes it a lot easier. And so, so there are very few rules that I have that are hard and fast. I'm, I'm a pretty flexible eater. I don't believe that having an artificial, you know, having a diet Coke, um, will, you know, somehow cascade into some terrible disease or something like that. I'd like to take a quick break and acknowledge our sponsor Juve.
+
+17:39.298 --> 18:02.942
+Juve makes medical grade red light therapy devices. Now, if there's one thing that I've consistently emphasized on this podcast, it is the incredible impact that light can have on our biology and our health. Red light and infrared light have been shown to have remarkable effects on cellular and organ health, including improved mitochondrial function, improved skin health and appearance, reduced pain and inflammation, and even for improving vision itself.
+
+18:03.106 --> 18:28.190
+Recent research shows that even relatively brief exposure to red and infrared light can meaningfully improve your metabolism and blood sugar regulation. Now there are a lot of different red light therapy devices out there, but what sets Juve lights apart and why they're my preferred red light therapy device is that they use clinically proven wavelengths, meaning specific wavelengths of red light, near infrared and infrared light in exactly the right ratios to trigger the cellular adaptations for health.
+
+18:28.450 --> 18:54.974
+Personally, I use the Juve whole body panel about three to four times per week for about five to 10 minutes per session. And I use the Juve handheld light both at home and when I travel. If you'd like to try Juve, you can go to Juve spelled J-O-O-V-V.com slash Huberman. Right now Juve is offering a special holiday discount of up to $600 off select Juve products. Again, that's Juve, J-O-O-V-V.com slash Huberman to get up to $600 off.
+
+18:55.906 --> 19:18.334
+I'd love to talk about fiber and fermented foods because you and Chris had a, what I think is a really interesting and exciting paper comparing inflammatory markers of people who ate a certain amount of fiber or a certain amount of these fermented foods. Let me take, before I dive into that study, let me take a step back because I think the reason that we did this study goes back to this
+
+19:18.530 --> 19:48.510
+kind of epiphany that we had while studying the gut microbiome. Because I think when we started studying it at Stanford, we were thinking about it as this kind of newly appreciated aspect of our biology, almost like finding an organ that we didn't know was there and starting to think about like all the drug targets that were there. Can we go in with small molecule drugs and think of ways to manipulate this community to ameliorate disease? And this is largely the mindset of Western medicine and largely born out of the era of infectious disease,
+
+19:48.610 --> 20:14.270
+You wait for an infection to start a bacterial infection. You treat with antibiotics. And, you know, that's the way medicine is practiced. And that's become less successful over time as we've moved into this era of inflammatory Western diseases and largely moved out of the era of infectious diseases, at least infectious bacterial diseases, that this paradigm of waiting for diseases to appear and come into the clinic
+
+20:14.722 --> 20:37.150
+is not really very effective in the context of inflammatory Western diseases, autoimmune diseases, metabolic syndrome, heart diseases and inflammatory disease, the list goes on and on. And so we started to think a lot about how can we get out in front of this? How can we think about preventative ways of dealing with this crisis of metabolic and inflammatory diseases?
+
+20:37.250 --> 21:06.046
+And this tremendous, beautiful body of literature started to come forward in the field that showed that the gut microbiome is absolutely critical to modulating our immune status. So if you change the microbiome, you can fundamentally change how the immune system operates. And we know that the immune system is at the basis of a lot of these diseases, inflammatory chronic diseases. And so it brought up this possibility that maybe the fact that we're not
+
+21:06.210 --> 21:34.366
+nourishing this community well enough maybe the fact that it's deteriorated over time due to all of the things that go along with an industrialized lifestyle antibiotics and so forth maybe we have a microbiome right now in the industrialized world that is setting our immune system at a set point simmering inflammation that's driving us towards these inflammatory diseases and wouldn't it be wonderful if we could figure out how to
+
+21:34.978 --> 21:52.862
+use diet specifically, but just kind of learn the rules of how to reconfigure both the composition and function of our gut microbiome so that inflammation was different in our bodies so that each one of us was less likely to go on and to develop an inflammatory disease. Our flagship study
+
+21:52.994 --> 22:07.774
+We wanted to understand if we put people on a high fiber diet, how would that affect their microbiome and immune system? And if we put them on a high fermented food diet, a diet rich in live microbes and all the metabolites that are present from fermentation in foods,
+
+22:07.938 --> 22:35.870
+how would that change microbiome and immune system? The idea was in the case of the high fiber diet, just increasing plant-based fiber. So can you eat more whole grains, more legumes, more vegetables, nuts, get the fiber up in the range of, you know, from 15 to 20 grams per day, up to over 40 grams per day. So can you kind of double or more the amount of fiber that you eat per day? The people that were eating the high fermented food diet,
+
+22:36.098 --> 23:05.694
+they were instructed to basically eat foods that you could buy at a grocery store that were naturally fermented and contain live microbes. Yogurt, kefir, sauerkraut, kimchi. We instructed people to eat non-sweetened yogurts. A huge pitfall in this area is you can have a yogurt loaded with bacteria, kind of the base of what's healthy, and then a ton of artificial flavoring and sugar loaded on top of that. Manufacturers put a ton of sugar in.
+
+23:05.986 --> 23:12.190
+after the fact to kind of mask the sour taste of fermented foods, which is hard for some people to become accustomed to.
+
+23:12.290 --> 23:37.342
+getting used to that sour flavor is difficult, but people really should try to stay away from those fermented foods that are loaded with sugar. And that's what we instructed people in this study. A lot of people shy away from the high quality fermented foods because they can be quite costly. I'll just refer people to a resource in Tim Ferriss' book, The 4-Hour Chef. He actually gives an excellent recipe for making your own sauerkraut, which basically,
+
+23:37.506 --> 23:45.822
+involves cabbage and water and salt, but you have to do it properly because you can grow some, not necessarily lethal, but some,
+
+23:45.986 --> 24:15.806
+somewhat dangerous bacteria if you don't scrape off the top layer properly, but he gives beautiful instructions for how to do this in vats. You can make large amounts of truly fermented sauerkraut just from cabbage, water, and salt if you're willing to follow the protocol. You know, if you can get your hands on a SCOBY, kombucha is another one that's super simple. It's like- You can grow your own. You can just make your own and it's super easy to do. I make it, I constantly have a batch of kombucha going at home. And it's just, you know, it's a SCOBY, a symbiotic community of bacteria and yeast
+
+24:15.906 --> 24:32.382
+that you brew tea, you add sugar to it, and you put the SCOBY in, and you wait a week or two depending upon the temperature, and then you just move the SCOBY over to a new batch, and you're old. What the SCOBY was in is kombucha, and it's wonderful.
+
+24:33.090 --> 24:54.846
+How much fermented food were they consuming? Eating servings, ounces, how many times a day, early day, late day? The general instructions were for people to eat as much fermented foods as possible, more is better. People during the height of the intervention phase were up over six servings on average per day of fermented foods. So kind of two servings at each meal. And the
+
+24:55.074 --> 25:17.758
+you know, ounces or weight or size, it really depended on what the fermented food was. And we just told them to stick to what was a recommended dose on the package that they were buying. You know, for kombucha, it'd be like a six to eight ounce glass sauerkraut, like a half cup or something like that. And same with yogurt. The big signal really was in the fermented food group. We saw
+
+25:18.018 --> 25:47.102
+all the things that you would hope to see in a Western microbiota and Western human. We saw this increase in microbiota diversity over the course of the six weeks while they were consuming the fermented foods. We can't always say that higher diversity is better when it comes to our microbial communities. We know there are cases, for instance, bacterial vaginosis where higher diversity is actually indicative of a disease state. But we know in the context of the gut and for people living in the industrialized world,
+
+25:47.394 --> 26:13.022
+higher diversity is generally better. We know that there's a spectrum of diversity. People with higher diversity generally are healthier. If you can push your diversity higher, you're in better shape. And so we saw that increase in diversity. And then the major question is what happened to the immune system as these people were increasing their gut microbiota diversity through the fermented foods? So we did this massive immune profiling and we see,
+
+26:13.154 --> 26:39.166
+you know, a couple dozen immune markers, inflammatory markers decrease over the course of the study. So we measure these at multiple time points throughout the course of the study, and there's kind of this stepwise reduction in things like interleukin-6 and interleukin-12, a variety of kind of famous inflammatory mediators. And then even if you go into the immune cells and you start looking at their signaling cascades
+
+26:39.298 --> 27:07.166
+we see that those signaling cascades are less activated at the end of the study compared to the beginning of the study, indicating an attenuation of inflammation. So kind of exactly what we would hypothesize would lead to less propensity for inflammatory disease over time. That's a huge extension of a very short study. So did people say they were feeling better in any way? And if so, what did you observe? And again, we're highlighting these as ANIC data. You know, tons of people say they,
+
+27:07.266 --> 27:28.542
+more energy they think more clearly they sleep better and it's really hard to uncouple like is this because you know these people have taken charge now of what they're eating and just feel better in general for being in control of kind of what they're doing or is there this cascading um set of effects that are actually kind of emanating from the gut brain axis and and i should say you know that the list
+
+27:28.674 --> 27:53.502
+of this goes on and on. There are people who claim that their complexion improves and that they're, you know, allergies, and there's probably all sorts of ripple effects. If you can affect your inflammation, we know that you can affect your cognition. We know that you can affect your, you know, your skin and inflammation that's occurring on your skin. So I really think that there is a basis for a lot of those anecdotes. It may just be hard to see in a short study
+
+27:53.602 --> 28:20.222
+and in a small cohort of people over a short period of time. We also have a standardized stool measure that people use, and there was kind of less constipation, better bowel movements over the course of both of these interventions. So it did seem like bowel habits improved, which a lot of times can lead to better moods, but we weren't able to measure that.
+
+28:20.546 --> 28:24.126
+I'd like to take a quick break and acknowledge one of our sponsors, Function.
+
+28:24.226 --> 28:54.206
+Last year, I became a Function member after searching for the most comprehensive approach to lab testing. Function provides over 100 advanced lab tests that give you a key snapshot of your entire bodily health. This snapshot offers you with insights on your heart health, hormone health, immune functioning, nutrient levels, and much more. Function not only provides testing of over 100 biomarkers key to your physical and mental health, but it also analyzes these results and provides insights from top doctors who are expert in the relevant areas. For example,
+
+28:54.242 --> 29:19.358
+In one of my first tests with Function, I learned that I had elevated levels of mercury in my blood. Function not only helped me detect that, but offered insights into how best to reduce my mercury levels, which included limiting my tuna consumption. I'd been eating a lot of tuna, while also making an effort to eat more leafy greens and supplementing with NAC and acetylcysteine, both of which can support glutathione production and detoxification. And I should say, by taking a second Function test, that approach worked.
+
+29:19.490 --> 29:34.686
+Comprehensive blood testing is vitally important. There's so many things related to your mental and physical health that can only be detected in a blood test. The problem is blood testing has always been very expensive and complicated. In contrast, I've been super impressed by function simplicity and
+
+29:34.850 --> 30:03.262
+at the level of cost. It is very affordable. As a consequence, I decided to join their scientific advisory board and I'm thrilled that they're sponsoring the podcast. If you'd like to try Function, you can go to functionhealth.com slash Huberman. Function currently has a wait list of over 250,000 people, but they're offering early access to Huberman podcast listeners. Again, that's functionhealth.com slash Huberman to get early access to Function. What sorts of interesting things did you observe in the fiber group?
+
+30:03.362 --> 30:33.342
+data seem to be telling us that if you start off with a diverse microbiota, maybe one that's better equipped to degrade a wide variety of dietary fiber, you're more likely to respond positively to it. If you have a very depleted gut microbiome, you're not as likely to be able to respond to it. And thinking back to that experiment that we talked about before with the multi-generational loss of fiber fermenting microbes in mice that were fed a Western diet, it may be that
+
+30:33.602 --> 31:00.542
+Many of us in the industrialized world have a microbiome that's so depleted now that even if we consume a high fiber diet, at least for a short period of time, we don't have the right microbes in our gut to degrade that fiber. And this has actually been observed by other groups. Beautiful study out of University of Minnesota, looking at immigrants coming to the United States. And within nine months, but certainly over the course of years, immigrants that come here lose a
+
+31:00.674 --> 31:25.438
+a lot of the diversity in their gut microbiome, but a lot of the fiber degrading capacity in their gut microbiome too. So it could be that over time, this becomes a one-way street and it's hard for us to recover the microbes that actually can degrade the fiber. And I think that this probably intersects with sanitation in our environment and the fact that we don't have access to new microbes that might help us degrade the fiber that we actually,
+
+31:25.538 --> 31:49.662
+you know, have lost these microbes and they're in some ways irrecoverable without deliberate reintroduction of fiber degrading microbes. Well, you have children, do you encourage them to interact with pets and dirt and stuff in the environment provided that stuff wasn't immediately toxic? Exactly. Certainly just with infectious diseases in general, it's really important to be aware of, you know, the,
+
+31:50.082 --> 32:09.694
+the possibility for compromising your health through the spread of germs. And so that is just, hand washing is important and we have to be careful with the spread of germs. But I do think that the sanitization of our environment has gone overboard with the,
+
+32:09.794 --> 32:35.262
+various things being impregnated with antibiotics, you know, shopping carts and things like that and toothbrushes. And, you know, it's like antibiotics and, you know, things for killing microbes are everywhere. And when we were raising, you know, when our daughters were young and we were making these decisions, the calculations that we would make were really one, uh,
+
+32:35.746 --> 33:00.350
+How likely are they to encounter a disease-causing microbe? If we've been out on a hike or in our garden, just kind of working in the dirt or whatever, maybe it's not as important to wash your hands before you have lunch, even if there's a little bit of dirt on them. If they've been in a public playground where maybe there's other kids with germs or maybe even chemicals like pesticides and herbicides that are being used,
+
+33:00.450 --> 33:24.158
+maybe it's more important than to wash your hands. Certainly if you've been in the grocery store or on the subway, probably a good idea to wash your hands. So I think you really need to think about kind of the context of it. And exposure to microbes from the environment is likely an important part of educating our immune system and keeping the proper balance in our immune system. And it's just a matter of figuring out
+
+33:24.290 --> 33:52.382
+the right way to do that safely. What's the thought about probiotics for the typical person that's not recovering from a round of antibiotics or that has been prescribed them? So I think the first thing to say is buyer beware because it's a supplement market, it's largely unregulated. And that means that there are a lot of bad products out there and a lot of products that even though they're not intended to be bad, just don't have great quality control. There have been several studies that have taken off the
+
+33:52.546 --> 34:21.374
+over-the-counter, just kind of off-the-shelf probiotics, surveyed what's in there based on sequencing and shown that what is in there does not match what's on the label. So there are places that probiotic companies can send their product to have it independently validated. So you want to look for that sort of validation on a product. There also are names that are just very well-known. And, you know, it's...
+
+34:22.338 --> 34:39.263
+their reputations are on the line, so they probably invest a little bit more in quality control than maybe some of the other lesser known names. Because there's such a huge range of products and because each person is their own little caper when it comes to the microbiome, it's really hard to know
+
+34:39.426 --> 35:06.014
+whether there are great products for a given indication. The really good advice that I've heard is try to find a study that supports in a really well-designed study. And this is very hard for people who aren't scientists to evaluate. So if you're experiencing a medical problem or want to consult a doctor, that might be helpful. But finding a study where a specific probiotic has successfully
+
+35:06.114 --> 35:29.214
+done whatever it is you're looking for and then sticking with that probiotic is really the best recipe for as a place to start in this space, I think. And what about prebiotics? Because there are a number of reasons why I can imagine that prebiotics would be beneficial. The studies that have been done on prebiotics, it's really kind of a mixed bag of results. The
+
+35:29.506 --> 35:37.406
+There have been studies done with purified fibers where you actually see microbiota diversity plummet over the course of the study because
+
+35:37.602 --> 36:06.142
+you get a very specific bloom in a small number of bacteria that are good at using that one type of fiber. And that's at the expense of all the other microbes that are in the gut. And so it's really hard to replicate with purified fiber what you'd get, for instance, at a salad bar in terms of the array of complex carbohydrates that you would be exposing your microbiota to. And I think the kind of broad view of this in the field is that
+
+36:06.306 --> 36:35.486
+consuming a broad variety of plants and all the diverse fiber that comes with that is probably better in fostering diversity in your microbiota than purified fibers. Now, there are, again, a lot of people who benefit from purified fibers, either for GI motility or for other aspects of GI health problems that they've been experiencing. Again, I think it's the type of thing where you have to try to find the thing that's right for you. But there are
+
+36:35.682 --> 36:44.638
+There also are studies that suggest that if you layer rapidly fermentable fibers on top of a Western diet,
+
+36:44.930 --> 37:11.454
+you actually can result in weird metabolism happening in your liver because you have this incredibly rapid fermentation of fiber along with a lot of fat coming into the system. At least that's the theory. And in a mouse study that was published a few years ago, they actually see that a subset of the mice develop hepatocellular carcinoma when they're fed a high dose prebiotic- Liver cancer. Liver cancer on top of a
+
+37:11.650 --> 37:30.238
+on top of a Western diet. So whether that's representative of human biology, we don't know, but purified fibers are definitely very different, both in terms of the diversity of structures, but also in terms of how rapidly they're fermented in the gut. Because if you are eating plants,
+
+37:30.338 --> 37:51.006
+The complex structures there really slow the microbes down in terms of fermentation, and you end up with a slow rate of fermentation over the length of your colon, as opposed to this big burst of fermentation that can happen if you eat something that is highly soluble and easily accessed by the microbes. So you've covered a tremendous amount of information,
+
+37:51.202 --> 38:14.622
+incredibly grateful. Where can people find out more about the work that you're doing? We can certainly provide links and you have a book on this topic. So could you tell us about the book where we can learn more about the Sonnenberg lab and the work that you're doing? Maybe people will even try and enroll in some of these studies. Yeah. So Erica, my wife and I wrote a book called The Good Gut. And that really was a response to how we were
+
+38:14.818 --> 38:27.198
+changing our lives in response to being in the field, being very familiar with the research, seeing that a lot of our friends that weren't studying the gut microbiome, but were very well-informed, many of them scientists, were not doing the same things we were doing.
+
+38:27.298 --> 38:53.950
+And it was very clear that it was just the lack of information funneling out of the field to other people. And so we wanted to make that accessible to people who are not microbiome scientists. And then, you know, in terms of kind of connecting with our research, certainly there's the Center for Human Microbiome Studies at Stanford, which is kind of our home base for doing a lot of these dietary interventions. We list the studies there, give more information on what we're doing.
+
+38:54.114 --> 39:07.998
+And then we have a lab website too that people can go to and read more about our research. And we're always looking for participants for our studies. Thank you so much for your time and for the work you do. And I hope we can do it again. Thanks, Andrew. This was a great conversation. Terrific.

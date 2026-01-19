@@ -1,0 +1,274 @@
+WEBVTT
+
+00:00.226 --> 00:27.902
+Welcome to Huberman Lab Essentials, where we revisit past episodes for the most potent and actionable science-based tools for mental health, physical health, and performance. I'm Andrew Huberman, and I'm a professor of neurobiology and ophthalmology at Stanford School of Medicine. This podcast is separate from my teaching and research roles at Stanford. Before we begin today, just want to acknowledge that if you're watching this on YouTube, yes, I have a bandage on the left side of my face.
+
+00:28.034 --> 00:34.110
+I was trying to cook something for Costello and I, and I got burned, burned myself. It was cooking accident. I'm fine.
+
+00:34.242 --> 01:04.208
+No need to dwell on it, we can move on. But I just wanted to let you know, everybody's going to be okay. He got a great meal, I got a burn and a great meal. Today we're going to be talking about hormone optimization. And we're mainly going to be focusing on estrogen and testosterone and their derivatives. Now estrogen and testosterone and their derivatives are what we call sex steroids. But I just want to emphasize that estrogen and testosterone are present in everybody. It's their ratios that determine their effects. So today we're going to talk about how specific types of
+
+01:04.208 --> 01:19.070
+particular patterns of cold exposure, as well as particular patterns, believe it or not, of breathing can impact sex steroid hormones, both estrogen and testosterone. So one of the first things to understand if you want to optimize your hormones,
+
+01:19.234 --> 01:35.230
+is where they come from. There are a lot of different glands in the body that produce hormones. But when we're talking about the sex steroid hormones, estrogen and testosterone, the major sources are ovaries for estrogen and the testes for testosterone, although the adrenals can also make testosterone.
+
+01:35.906 --> 02:02.302
+Now, there are also some enzymes. Enzymes are things that can change chemical composition. And the enzymes that we're going to talk about today are the aromatases mainly. The aromatases convert testosterone into estrogen. So in a male, for instance, that has very high testosterone, some of that is going to be converted into estrogen by aromatase. The important thing to know is that prepubescent females make very little estrogen.
+
+02:02.434 --> 02:20.382
+And when we talk about estrogen, we mainly talk about estradiol, which is the most active form of estrogen in both males and females. So prepubescent females, very low levels of estrogen. During puberty, levels of estrogen, AKA estradiol, basically skyrocket. And then across the lifespan,
+
+02:20.962 --> 02:46.494
+Estrogen is going to vary depending on the stage of the menstrual cycle, but as one heads into menopause, which typically takes place nowadays, somewhere between age 45 and 60, levels of estrogen are going to drop and then post-menopause levels of estrogen are very low. As well, testosterone will fluctuate across the lifespan. Testosterone is going to be relatively low pre-puberty in males. During puberty, it's going to skyrocket and then
+
+02:46.722 --> 03:12.990
+The current numbers are that it drops off at about a rate of 1% per year. So let's talk about other sources of these hormones, and then it will make clear what avenues you might want to take in order to optimize these hormones. The other glands and tissues in the body that make these hormones, testosterone and estrogen, as I mentioned briefly, are the adrenals. So the adrenals ride on top the kidneys and the release of these
+
+03:13.666 --> 03:41.726
+steroid hormones from the adrenals, in particular testosterone and some of its related derivatives are mainly activated by competition. Pretty interesting. There's a lot of evidence in animals and humans that competitive scenarios, at least short-lived competitive scenarios can liberate testosterone from the adrenals. I'd like to take a quick break and thank our sponsor, Eight Sleep. Eight Sleep makes smart mattress covers with cooling, heating and sleep tracking capacity.
+
+03:41.890 --> 04:11.856
+Now I've spoken before on this podcast about the critical need for us to get adequate amounts of quality sleep each night. Now one of the best ways to ensure a great night's sleep is to ensure that the temperature of your sleeping environment is correct. And that's because in order to fall and stay deeply asleep, your body temperature actually has to drop by about one to three degrees. And in order to wake up feeling refreshed and energized, your body temperature actually has to increase about one to three degrees. Eight Sleep makes it very easy to control the temperature of your sleeping environment by allowing you to program the temperature of your
+
+04:11.856 --> 04:36.446
+mattress cover at the beginning, middle, and end of the night. I've been sleeping on an Eight Sleep mattress cover for nearly four years now, and it has completely transformed and improved the quality of my sleep. Eight Sleep recently launched their newest generation of the Pod Cover called the Pod 4 Ultra. The Pod 4 Ultra has improved cooling and heating capacity. I find that very useful because I like to make the bed really cool at the beginning of the night, even colder in the middle of the night, and
+
+04:36.642 --> 05:04.702
+warm as I wake up. That's what gives me the most slow wave sleep and rapid eye movement sleep. It also has a snoring detection that will automatically lift your head a few degrees to improve your airflow and stop your snoring. If you'd like to try an Eight Sleep mattress cover, go to eightsleep.com slash Huberman to save up to $350 off their Pod 4 Ultra. Eight Sleep currently ships in the USA, Canada, UK, select countries in the EU and Australia. Again, that's eightsleep.com slash Huberman.
+
+05:05.250 --> 05:27.998
+So let's talk about competition because it turns out that competition is a powerful influence on the sex steroid hormones and the sex steroid hormones powerfully influence competition. So most people don't realize this, but most males of a given mammalian species never get to reproduce. In fact, they never even get to have sex at all.
+
+05:28.258 --> 05:50.974
+And we don't often think about that, but testosterone plays a powerful role in determining which members of a given species will get to reproduce, which ones of that species will actually get access to females. And so here I'm not talking about humans specifically, but it's well known in species like elephant seals, in species like
+
+05:51.106 --> 06:16.830
+antlered animals and rams, for instance, that the higher levels of testosterone correlate with access to females. Now, one interpretation of this is that the females are detecting which males have high testosterone and selecting them. They're more receptive to them, but it's actually more so that the males that have higher testosterone forage further and will fight harder for the females.
+
+06:16.962 --> 06:41.726
+And this is really interesting because there's very good evidence now that testosterone can reduce anxiety, promote novelty seeking and promote competitive interactions. And so before you leap too far with this in your mind and think about all these human behaviors, just stay with me because there's a little bit of biology here that makes it all make sense. And it turns out to be pretty simple. We have a brain region
+
+06:41.890 --> 07:07.198
+called the amygdala. In Latin, that just means almond, but the amygdala is most famous for its role in fear. We hear a lot about fear and the amygdala, but the amygdala is really involved in threat detection. It sets our thresholds for anxiety and what we consider scary or too much. Testosterone secreted from the gonads and elsewhere in the body binds to the amygdala and changes the threshold for stress.
+
+07:07.394 --> 07:35.966
+So I've said before on previous versions of this podcast and on other podcasts, that testosterone has this incredible effect of making effort feel good. But what I was really referring to is the fact that testosterone lowers stress and anxiety in particular in males of a given species. Testosterone increases generally lead to more foraging, more novelty seeking, increases in libido and increases in desire to mate.
+
+07:36.162 --> 08:00.766
+So it is the case that increases in testosterone promote competitive and foraging type behaviors in humans and in non-human mammals. But it's also true that competition itself can increase androgens such as testosterone. Now, some people have come to the conclusion that if you win, your testosterone goes up, and if you lose, your testosterone goes down.
+
+08:00.962 --> 08:29.566
+And to some extent that's true, but that's not a direct effect on the gonads. That's actually mediated by the neuromodulator dopamine. We talked about dopamine in the episode on motivation and drive and dopamine and testosterone have a remarkable interplay in the body. Dopamine is actually released in the brain in ways that has the pituitary, this gland that sits over the roof of your mouth, release certain hormones that then go on to promote the release of more testosterone. And indeed winning promotes more
+
+08:29.698 --> 08:58.270
+dopamine and later more testosterone. However, in the short term, just competing increases testosterone independent of whether or not you win or lose. So testosterone is driving the seeking of sex and estrogen is promoting the actual act of sex from female, so-called receptivity, consensual receptivity. In males, it's interesting to point out that testosterone is promoting seeking of sex, but it's also,
+
+08:58.402 --> 09:09.726
+estrogen in males, that's important for libido. If estrogen levels are brought too low, then men will completely lose their libido. So it's not simply the case that high levels of testosterone
+
+09:09.986 --> 09:39.614
+produce a lot of sex and mating behavior and low levels of estrogen are good across the board, you actually need both in both males and females. It's just that in females, the testosterone levels are always going to be lower than the estrogen levels. And in males, the estrogen levels are always going to be lower than testosterone levels. So just as there are behaviors that can increase testosterone, there are behaviors that can decrease testosterone. And one of the most well-characterized ones in humans is becoming a parent.
+
+09:39.874 --> 10:09.406
+So expecting fathers have an almost 50% decrease in testosterone levels, both free and bound testosterone. It turns out that these effects of reduced testosterone, increased estradiol and reduced cortisol can all be explained by an increase in prolactin. It is a well-known phenomenon that testosterone is going to drop, prolactin is going to increase, estradiol is going to increase in males and females that are expecting children.
+
+10:09.634 --> 10:29.470
+The other behavior that markedly reduces testosterone in both males and females and markedly reduces the desire for seeking sex and sex itself is illness. And many of you might say, well, duh, when people will feel sick, they don't feel like seeking out mates, they don't feel like having sex. But have you ever wondered why that actually is?
+
+10:29.602 --> 10:55.230
+Well, it turns out that it can be explained by the release of what are called inflammatory cytokines. So cytokines are related to the immune system, they travel in the lymph and in the blood, and they attack invader cells like bacteria and viruses. And under conditions of illness, we make a lot of different cytokines. Some of them are anti-inflammatory, but some of them are pro-inflammatory. And the best known example of a pro-inflammatory cytokine is
+
+10:55.554 --> 11:23.774
+IL-6, and it's known that IL-6, when injected into individuals, will decrease the desire for sex and eventually will reduce levels of testosterone and estrogen, independent of feeling lousy. Now IL-6 doesn't just travel to the gonads and shut down the gonads, it actually has ways to interact with some of the receptors that the steroid hormones, estrogen and testosterone bind to, and impact those receptors so that the sex steroid hormones can't have their effect.
+
+11:23.906 --> 11:52.062
+In short, and put simply, inflammatory cytokines like IL-6 are bad for sex steroid hormones. One of the main behaviors that's been shown to be associated with poor levels of estrogen relative to age match controls for people with ovaries, or lower levels of testosterone compared to age match controls for people with testes is apnea. So what is apnea?
+
+11:52.162 --> 12:11.070
+Apnea is under breathing or mainly cessation of breathing during sleep. So people are holding their breath and then they'll suddenly wake up. People who are dramatically overweight also suffer a lot from apnea during sleep. And it's well established that going into deep sleep
+
+12:11.266 --> 12:39.550
+and getting the proper patterns of slow wave sleep and REM sleep are important for hormone optimization. Breathing itself can be adjusted in the daytime waking hours in ways that can powerfully impact both sleep, reduce incidence of sleep apnea, and also help to optimize various hormones, even just by breathing in particular ways while awake. Believe it or not, being a nasal breather and avoiding being a mouth breather can actually positively impact hormones.
+
+12:39.682 --> 12:54.814
+and in particular the hormones, testosterone and estrogen. Although the way that it does that is by making you a better sleeper, which allows you to produce more testosterone and the appropriate amounts of testosterone and estrogen.
+
+12:55.202 --> 13:23.614
+It does that in part through indirect mechanisms because deep sleep supports the gonads, the ovaries and the testicles and their turnover of cells and the production of cells. Remember in the ovary, particular cells and the egg follicles themselves make estrogen and in the testicle that the Sertoli cells and the Leydig cells are important for the formation of sperm and for testosterone respectively. So what does this all mean?
+
+13:23.810 --> 13:50.814
+we have to be breathing properly to get your breathing and sleep right so that your sleep can actually be deep enough and you're not entering apnea states. Getting proper sleep can really offset all the reductions in testosterone and estrogen and reductions in fertility that occur if we don't get enough sleep. But seldom is it discussed how sleep actually adjusts things like testosterone and estrogen. And it does it by modifying cortisol. So the molecule cholesterol can be
+
+13:51.298 --> 14:16.222
+converted into testosterone or estrogen, but there's a competition whereby the cholesterol will turn into cortisol and not testosterone, or it'll turn into cortisol and not estrogen if stress levels are too high. So the simple version of this is getting your breathing right during the waking hours, meaning primarily unless you're working out really hard or there's some other reason why you're
+
+14:16.386 --> 14:44.958
+maybe eating or speaking, that you need to be breathing through your mouth, you should be a nose breather. There's really good evidence for that now. And in sleep, you also want to be a nose breather because that's going to increase the amount of oxygen that you're bringing into your system and the amount of carbon dioxide that you're offloading, okay? So the simple version of this is get your breathing right. So how do you do that? How do you get your breathing right? Well, for some people that have severe sleep apnea, they're going to need the CPAP machine. This is a machine that you actually put on your face and it helps you breathe properly and sleep.
+
+14:45.538 --> 15:00.030
+In the daytime, the best way to get good at nasal breathing is to dilate the nasal passages. Because a lot of people have a hard time breathing through their nose. And one way to do this is to just breathe through your nose more. And one way to do that is that when you exercise in particular,
+
+15:00.130 --> 15:26.302
+cardiovascular exercise, most of the time, provided you're not in maximum effort, you should be nasal breathing. Now, for a lot of people, nasal breathing during exercise is hard at first, but as you do it, because the sinuses have a capacity to dilate over time, you'll get better at it. So my advice would be breathe through your nose while exercising, unless you're in maximum effort. Pretty soon what you'll find is you actually can
+
+15:26.786 --> 15:51.582
+create more output than you would if you were breathing through your mouth. Learn to be a nasal breather, has positive cosmetic effects, it reduces apnea, it offloads more carbon dioxide, it increases lung capacity, it dilates the sinuses, and it prevents apnea in sleep. So unless you have severe apnea and you need the CPAP, becoming a nasal breather can have all sorts of positive effects by reducing cortisol, reducing apnea, and
+
+15:51.970 --> 15:59.998
+indirectly raising testosterone and estrogen in the proper ratios. I'd like to take a quick break and acknowledge our sponsor, AG1.
+
+16:00.130 --> 16:30.096
+AG1 is a vitamin mineral probiotic drink that also includes prebiotics and adaptogens. As somebody who's been involved in research science for almost three decades and in health and fitness for equally as long, I'm constantly looking for the best tools to improve my mental health, physical health, and performance. I discovered AG1 way back in 2012, long before I ever had a podcast or even knew what a podcast was, and I've been taking it every day since. I find that AG1 greatly improves all aspects of my health. I simply feel much better when I take it.
+
+16:30.096 --> 16:59.838
+it. AG1 uses the highest quality ingredients in the right combinations, and they're constantly improving their formulas without increasing the cost. Whenever I'm asked if I could take just one supplement, what would that supplement be? I always say AG1. If you'd like to try AG1, you can go to drinkag1.com slash Huberman to claim a special offer. Right now, they're giving away five free travel packs plus a year's supply of vitamin D3 K2. Again, that's drinkag1.com slash Huberman to claim that special offer.
+
+17:00.002 --> 17:10.238
+The second piece of behavioral advice relates to the viewing of light. And many of you have heard me talk about this before, and I'm not going to belabor the point that
+
+17:10.561 --> 17:40.528
+Viewing bright light within the first hour of waking, whether or not it's from artificial light or ideally from sunlight, has these powerful effects on sleep and wakefulness. But we have to return to this if you want to understand how light can impact hormones, because hormones, light and dopamine have a very close knit relationship. So much so that your light viewing behavior can actually have a direct effect on hormone levels and fertility. I think most people don't really understand how powerful this relationship is between light
+
+17:40.528 --> 18:07.294
+dopamine hormones. And when dopamine levels are high, as I mentioned before, there's a tendency for more gonadotropin releasing hormone, luteinizing hormone, follicle stimulating hormone, all the hormones that come from the hypothalamic pituitary axis and stimulate estrogen and testosterone release from the ovary and testes. So how does this translate to a protocol? If you want to optimize testosterone and estrogen, you need to get your light viewing behavior
+
+18:07.426 --> 18:31.966
+Correct. It's not just about optimizing your sleep, which is also important. It's about getting a sufficient amount of light in your eyes so you have sufficient levels of dopamine. So the simple protocols for that I've reviewed before, but it means getting anywhere from two to 10 minutes of bright light exposure in your eyes early in the day. It is not sufficient to do this with sunglasses unless you have to do that for safety reasons. It's fine to wear prescription lenses and contacts.
+
+18:32.098 --> 18:54.526
+If you can't get sunlight for whatever reason, you want to use bright artificial light, but that is absolutely critical for timing the cortisol release properly, limiting cortisol release to the early part of the day, getting increases in dopamine that are going to promote the production of testosterone and estrogen to healthy levels. The other aspect of light viewing behavior that's extremely important is to avoid
+
+18:54.626 --> 19:14.942
+bright light exposure to your eyes in the middle of the night. If you're viewing bright light in the middle of the night, you are suppressing dopamine release. If you're suppressing dopamine release, you are suppressing testosterone levels. So you can't even begin to talk about supplements and other ways to optimize testosterone, diet and its effects on testosterone and estrogen and fertility and reproductive behavior, et cetera.
+
+19:15.042 --> 19:44.830
+until you get your breathing right, until you get things like your light viewing behavior right. So bright light early in the day and throughout the day is great. And avoiding bright light in the middle of the night is not just about not disrupting your sleep, it's also about optimizing the sex steroid hormones. Okay, so we've talked about breathing, we've talked about light. Let's talk about a third element that there seems to be some excitement about lately for other reasons, but that can actually have some pretty profound influences
+
+19:44.962 --> 20:13.150
+on hormone levels, and that's heat and cold. So as always, rather than just offer a tool, I'm going to tell you the underlying science as it relates to naturally occurring phenomenon, because in understanding that and understanding the mechanism, you're going to be in a far better position to understand the tools and mechanisms and how you might want to adjust them for your own life. So now you understand the relationship between light, day length, dopamine, and hormone levels.
+
+20:13.282 --> 20:40.830
+everyone should realize that temperature and day length are linked. Temperature and day length and sunlight, those are all intimately related because of the systems that we evolved in, right? So nowadays there's a lot of interest in using cold as a way to stimulate testosterone. Sounds pretty crazy, but believe it or not, that and things like ice baths and cold showers can have positive effects on the sex steroid hormones.
+
+20:41.346 --> 20:56.030
+what happens is there's a rebound in vasodilation after cooling. So cooling causes vasoconstriction. And then after the cooling, there's a rebound vasodilation and there's more infusion of blood into the gonads.
+
+20:56.386 --> 21:21.438
+Put simply, we don't know whether or not cold and heat directly affect the production of testosterone and estrogen. We only know that cold and heat can modulate those probably through indirect mechanisms like controlling the amount of blood flow by way of shutting down or activating the neurons. Now let's talk about particular forms of exercise and how they modulate the steroid hormones.
+
+21:21.666 --> 21:47.902
+Interesting is when you start digging into the more mechanistic studies, what you find is that heavy weight trainings, but not weight training to failure, where completion of a repetition is impossible, leads to the greatest increases in testosterone. So anywhere from one rep maximum to somewhere in the six to eight repetition range in males or females, increases testosterone significantly. And it does it,
+
+21:48.034 --> 22:05.950
+for about a day, sometimes up to 48 hours. Now, many of you might be endurance athletes or also enjoy exercise besides heavy weight-bearing exercise. And there are several studies exploring whether or not endurance activity can increase or decrease
+
+22:06.210 --> 22:25.598
+androgen levels and whether or not you combine endurance activity and weight training, whether or not that has any effect if you do the endurance activity first or second. And the takeaway from all of this was that endurance activity, if performed first, leads to decreases in testosterone during the weight training session
+
+22:26.050 --> 22:51.454
+as compared to the same weight training session done first, followed by endurance activity. In other words, if you want to optimize testosterone levels, it seems to be the case that weight training first and doing cardio type endurance activity afterward is the right order of business. Now, when these are done on separate days, it doesn't seem to have an effect. They showed no statistical interaction, but it seems that if you're going to do these in the same workout episode, that it's,
+
+22:51.554 --> 23:17.278
+move heavy loads first, then do cardiovascular exercise. So there's a little bit of data looking specifically at how endurance exercise impacts testosterone and its derivatives. And it's very clear that high intensity interval training, sprinting, et cetera, which somewhat mimics the neural activity that occurs while moving heavy weight loads is going to increase testosterone. There's ample evidence for that in the literature.
+
+23:17.442 --> 23:44.030
+Endurance exercise that extends beyond 75 minutes is going to start to lead to reductions in testosterone, presumably by increases in cortisol. So now let's switch over to talking about estrogen. So there are many people who are trying to optimize their estrogen levels. And one of the places where this shows up a lot, and I get a lot of questions about is menopause. So menopause, as I mentioned earlier, is this fairly massive reduction in the amount of estrogen
+
+23:44.290 --> 23:55.998
+that is circulating in one's blood, mainly because the ovary is now depleted of some estrogen production of its own, the eggs are not being produced, they've been depleted, et cetera.
+
+23:56.098 --> 24:14.782
+So menopause is characterized by a variety of symptoms, things like hot flashes, things like mood swings, things like headaches, in particular migraine headaches. There can be a lot of brain fog. It can be very, very disruptive for people. So what are the various things that one can do for menopause? Well, one of the most
+
+24:15.458 --> 24:42.366
+is that physicians will prescribe supplemental estrogen. So this is hormone therapy where somebody takes either oral estrogen or they'll take it or they'll use a patch or a pellet, some way to secrete estradiol into the system. And that has varying success depending on the individual. Some people respond very well to it. Other people really have challenges with it. And there are a lot of side effects associated with it for some people, not others. In addition,
+
+24:42.594 --> 25:10.142
+There's a concern always about supplementing estrogen when there's a breast cancer background in the family, or there's concern about breast cancer for any reason, because a lot of those cancers are estrogen dependent. And that's why drugs like tamoxifen and anastrozole and drugs that block either aromatase or block, excuse me, estrogen receptors directly were initially developed. I'd like to take a quick break and acknowledge one of our sponsors, Function.
+
+25:10.274 --> 25:40.240
+Last year, I became a Function member after searching for the most comprehensive approach to lab testing. Function provides over 100 advanced lab tests that give you a key snapshot of your entire bodily health. This snapshot offers you with insights on your heart health, hormone health, immune functioning, nutrient levels, and much more. They've also recently added tests for toxins, such as BPA exposure from harmful plastics, and tests for PFASs, or forever chemicals. Function not only provides testing of over 100 biomarkers key to your physical and mental
+
+25:40.240 --> 26:10.192
+health, but it also analyzes these results and provides insights from top doctors who are expert in the relevant areas. For example, in one of my first tests with Function, I learned that I had elevated levels of mercury in my blood. Function not only helped me detect that, but offered insights into how best to reduce my mercury levels, which included limiting my tuna consumption. I've been eating a lot of tuna, while also making an effort to eat more leafy greens and supplementing with NAC and acetylcysteine, both of which can support glutathione production and detoxification. And I should say,
+
+26:10.192 --> 26:28.574
+say by taking a second function test, that approach worked. Comprehensive blood testing is vitally important. There's so many things related to your mental and physical health that can only be detected in a blood test. The problem is blood testing has always been very expensive and complicated. In contrast, I've been super impressed by function simplicity and
+
+26:28.706 --> 26:56.574
+at the level of cost. It is very affordable. As a consequence, I decided to join their scientific advisory board and I'm thrilled that they're sponsoring the podcast. If you'd like to try Function, you can go to functionhealth.com slash Huberman. Function currently has a wait list of over 250,000 people, but they're offering early access to Huberman podcast listeners. Again, that's functionhealth.com slash Huberman to get early access to Function. Okay, so now let's talk about the role of specific compounds.
+
+26:56.674 --> 27:19.326
+some of which, many of which can be taken in supplementation form to optimize sex steroid hormones. It's very clear that certain collections of nutrients are useful for promoting testosterone and estrogen production in their proper ratios. And those things are what I would call the sort of usual suspects, vitamin D,
+
+27:19.490 --> 27:45.502
+which is important for so many biological functions, including endocrine functions, zinc, magnesium, et cetera. One of the things that's been shown time and time again to have very negative effects on sex steroid hormones, testosterone mainly in men, estrogen mainly in women, is opioids. The opioids dramatically reduce levels of testosterone and estrogen, and they do that mainly by
+
+27:45.826 --> 28:14.814
+disrupting the receptors on gonadotropin releasing hormone neurons, these neurons within the hypothalamus that communicate to the pituitary. And in fact, people that take large amounts of opioids or even take low levels of opioids for long periods of time will develop all sorts of endocrine syndromes. That's been shown over and over again. Gynecomastia or male breast development in males, disruptions to the ovary in females. It's really a quite terrible situation. So excessive opioids are,
+
+28:15.522 --> 28:20.510
+very problematic for sex steroid hormones. Now there's an entire industry devoted to
+
+28:20.642 --> 28:50.608
+and various things that people can take to increase testosterone, some of which have scientific data to support them, some of which do not, and some of which have anecdotal support and some of which do not. There are supplements, in particular Tonga Ali, which has this other name, it's something I call Tonga Ali. Sometimes it's called, and these, forgive me that it's hard to pronounce, but Uricoma longifolia jack. This has been shown in several studies and you can find these
+
+28:50.608 --> 29:00.734
+on examine.com or you can go to PubMed if you like, I've looked at these, that it does seem to have some pro fertility, pro free testosterone and subtle aphrodisiac effects.
+
+29:01.442 --> 29:31.408
+It does also seem to be a slight anti-estrogen. So the reports of this, people take this anywhere from 400 to 800 milligrams a day. Again, I'm not suggesting you do that, but that's kind of what's out there. And there is some decent scientific literature to support the fact that it liberates some of the bound testosterone and allows more free testosterone to be available. Some of the reported quote unquote side effects are things like excessive alertness and insomnia if it's taken too late in the day and so forth. But I encourage you to explore
+
+29:31.408 --> 30:00.030
+if increasing free testosterone is something that you're interested in doing. People with different backgrounds and conditions, as we talked about for menopause and estrogen, have to be careful because when you're starting to modulate hormones, you're starting to modulate not just the tissues that thrive on binding of those hormones, but remember, the reason why there's so much breast cancer and there's a reason why there's so much testicular cancer is that any tissue that undergoes rapid re-reaching
+
+30:00.194 --> 30:23.198
+of particular cells. So there's a lot of reproduction of cells and shedding of uterine lining and the reproduction of cells and eggs in the ovary. And in the testes, there's the production of Leydig and Sertoli cells. And there's this kind of ongoing production of sperm. That's why those tissues are particularly vulnerable to the development of cancers. And many of those cancers are androgen sensitive. That's why
+
+30:23.778 --> 30:47.614
+one of the major treatments for prostate overgrowth or prostate cancer is to give anti-androgenic drugs. It's really about trying to prevent testosterone from encouraging growth of tumors. So I want to really emphasize the caution there because it is easy when thinking about optimizing estrogen and testosterone to just think, oh, more is better. More is definitely not better. Any tissue that
+
+30:47.778 --> 31:17.758
+recycles itself is prone to cancers and those tissues thrive on androgens and estrogens to create more tumors. So you have to be careful anytime you're modulating hormones, especially androgens and estrogens. And while we're talking about supplementation, the effects of supplementation, I would say in some individuals can be quite dramatic, but they're always, always, always, except in extreme cases, going to be far more subtle than would be, for instance, just in
+
+31:18.018 --> 31:44.254
+injecting testosterone or injecting estrogen, et cetera. So I think we should just be honest and upfront about that. So thus far in terms of talking about optimizing hormones and in the discussion of supplementation, I haven't really talked about things that actually affect the brain directly, that increase the pituitary output and things of that sort. We've mainly been talking about things that free up testosterone or that increase estrogen at the level of the periphery.
+
+31:44.418 --> 32:10.366
+but if you remember way back to the beginning of this episode, hormones are made in different locations in the body and there are hormones that promote the release and the production of hormones from other tissues in the body. And one of the main hormones for that is luteinizing hormone. Luteinizing hormone again comes from the pituitary, circulates, and either goes to the ovary to promote various aspects of egg maturation, as well as production of estrogen.
+
+32:10.466 --> 32:35.838
+and to the testes to promote testosterone and sperm production. And the prescription version of increasing luteinizing hormone is something called HCG or human chorionic gonadotropin, which has been synthesized and is now available as a prescription drug. It's taken in various contexts for increasing fertility, both by males and by females, it can increase
+
+32:36.482 --> 33:01.534
+for all the reasons that now make sense. It can increase sperm production, it can produce ovulation frequency, it can produce the number of eggs even that are deployed in a given ovulation, although that's not always a good thing. It basically is pro-fertility, pro-testosterone, pro-estrogen, depending on your background. And what's interesting is HCG was initially
+
+33:01.634 --> 33:30.622
+collected and synthesized from pregnant women's urine. And believe it or not, before it was synthetically made and sold as a prescription drug, there was actually a black market for pregnant women's urine where people would buy the urine. I don't know, I'm guessing that they probably just consumed it, which is weird. But in any case, human chorionic enatropin is now available as a prescription drug and it's
+
+33:30.754 --> 33:56.190
+one of the things that many people use to increase testosterone or estrogen for increasing fertility, but there are certain supplements, not many, that apparently can increase luteinizing hormone and thereby can increase testosterone and estrogen. And one of the more well-documented ones is Fadogia agrestis, that's F-A-D-O-G-I-A, separate word A-G-R-E-S-T-I-S, which
+
+33:56.834 --> 34:25.822
+at least according to the literature that I was able to find can increase levels of luteinizing hormone and thereby levels of testosterone or levels of estrogen. The side effect profile of Fidoji agressis hasn't really been documented, so it's a little unclear. I just want to emphasize that anytime someone's going to start taking supplements or modifying sex steroid hormones, getting blood work done is extremely important for safety reasons and also just to know whether or not things are working.
+
+34:25.922 --> 34:49.342
+because all of these things are subject to negative feedback, talked about this previously, previous episode, but if testosterone goes high or too high, it can feed back and shut down luteinizing hormone, which will then shut down further testosterone production. Likewise, if estrogens are going too high or they're going too high at various phases of the cycle, that can start to throw off various other hormones, including
+
+34:50.018 --> 35:16.926
+FSH, progesterone, LH. The menstrual cycle itself is a just absolutely exquisite balance of feedback of luteinizing hormone kept low and constant, at least for the first 14 days of the cycle, then mid cycle, there's a peak. And that's typically when ovulation occurs. That's why pregnancy is most likely during the middle of the 28 day cycle. FSH kind of goes up and then down across the first 14 days.
+
+35:17.154 --> 35:47.134
+taking anything or really modifying one's estrogens or testosterone on that background of the menstrual cycle is really going to disrupt the way those things interact. And it's just such an exquisite feedback loop. So I'm not saying don't do that, but you definitely want to be aware of what you're doing. And blood draws are one way to do that. Monitoring cycles for ovulating females is another way to do that. And in males, having a good window into what's going on with testosterone, DHT, aromatase, estradiol,
+
+35:47.554 --> 36:12.126
+LH, et cetera, is just vital. And it's really part and parcel with the practice of thinking about optimizing these incredible things that we call sex steroid hormones, estrogen and testosterone and their derivatives. So once again, we covered a tremendous amount of information. I hope that you'll come away from this with a deeper mechanistic understanding of how the brain and body are interacting to control the output and
+
+36:12.354 --> 36:40.382
+the ways in which these incredible things that we call sex steroid hormones work and influence us. I hope you'll also come away with some ideas of things that you can do in particular behavioral practices that can improve sleep and your relationship to light, et cetera, because those things really set the foundation, not just for healthy steroid hormone output, but for all sorts of health effects and for both the psychology and the biology of
+
+36:40.514 --> 36:58.430
+your nervous system. In closing, I hope you'll leave today's episode with a much richer understanding of the mechanisms that control the endocrine and nervous system in the context of estrogen and testosterone, as well as take away various tools that you might choose to apply. And as always, thank you for your interest in science.

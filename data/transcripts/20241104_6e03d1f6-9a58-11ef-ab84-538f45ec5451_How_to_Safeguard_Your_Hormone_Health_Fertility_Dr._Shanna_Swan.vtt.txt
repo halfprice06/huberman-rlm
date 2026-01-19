@@ -1,0 +1,922 @@
+WEBVTT
+
+00:00.386 --> 00:28.702
+Welcome to the Huberman Lab Podcast, where we discuss science and science-based tools for everyday life. I'm Andrew Huberman, and I'm a professor of neurobiology and ophthalmology at Stanford School of Medicine. My guest today is Dr. Shauna Swan. Dr. Shauna Swan is a professor of environmental medicine and public health at the Mount Sinai School of Medicine. She is a world expert in how exposure to various toxins
+
+00:28.866 --> 00:45.822
+and compounds in the food and environment impact our reproductive health. She focuses on how these compounds in our air, in our food supply, in our water supply, in cosmetics, even in household items, impact the developing fetus, children, and adults.
+
+00:45.922 --> 01:15.888
+at the level of their reproductive biology, so things like testosterone and estrogen, and the pathways within the brain and body that are impacted by testosterone and estrogen, but also how all of those things in our environment and that we put into our body impact our health on a daily basis and our long-term health. So during today's discussion, you will learn why fertility rates are indeed dramatically dropping from year to year and have been for quite some time now. You'll also learn why testosterone levels are dropping,
+
+01:15.888 --> 01:26.430
+why sperm counts are dropping, why things like polycystic ovarian syndrome are increasing in women, and what we can do about it. In fact, during much of today's discussion,
+
+01:26.530 --> 01:55.294
+Dr. Swan emphasizes the things that you can do every single day, and that in fact turn out to be very simple. They involve certain things to do and certain things to avoid in order to limit your exposure to these environmental toxins and their impact. So by the end of today's episode, you will be highly informed by the world expert on endocrine disruptors and environmental toxins. And you will also be highly informed in terms of how you can have agency, how you can take control of your health
+
+01:55.522 --> 02:15.070
+in relation to these various compounds. Before we begin, I'd like to emphasize that this podcast is separate from my teaching and research roles at Stanford. It is however, part of my desire and effort to bring zero cost to consumer information about science and science related tools to the general public. In keeping with that theme, I'd like to thank the sponsors of today's podcast.
+
+02:15.266 --> 02:36.766
+Our first sponsor is Element. Element is an electrolyte drink that has everything you need and nothing you don't. That means the electrolytes, sodium, magnesium, and potassium in the correct ratios, but no sugar. We should all know that proper hydration is critical for optimal brain and body function. In fact, even a slight degree of dehydration can diminish your cognitive and physical performance to a considerable degree.
+
+02:36.866 --> 03:06.832
+It's also important that you're not just hydrated, but that you get adequate amounts of electrolytes in the right ratios. Drinking a packet of Element dissolved in water makes it very easy to ensure that you're getting adequate amounts of hydration and electrolytes. To make sure that I'm getting proper amounts of both, I dissolve one packet of Element in about 16 to 32 ounces of water when I wake up in the morning, and I drink that basically first thing in the morning. I'll also drink a packet of Element dissolved in water during any kind of physical exercise that I'm doing, especially on hot days when I'm sweating a lot and losing water.
+
+03:06.832 --> 03:35.390
+and electrolytes. There are a bunch of different great tasting flavors of Element. And now that we're entering the winter months, at least here in the Northern hemisphere, Element has their chocolate medley flavors back in stock. I really like these chocolate flavors, especially the chocolate mint when mixed into hot water. And of course, despite being a bit colder outside, hydration is still critically important. In fact, a lot of people don't realize this, but even when it's cold out, it's easy to get dehydrated. And that's because the air is dry. And so even though you don't notice the accumulation of sweat on your skin,
+
+03:35.522 --> 04:04.894
+you can still be losing a lot of water and electrolytes. If you'd like to try Element, you can go to drinkelement.com slash Huberman to claim an Element sample pack with the purchase of any Element drink mix. Again, that's drinkelement, spelled L-M-N-T, so it's drinkelement.com slash Huberman to claim a free sample pack. Today's episode is also brought to us by Roca. Roca makes eyeglasses and sunglasses that are of the absolute highest quality. I've been wearing Roca readers and sunglasses for years now, and I love them.
+
+04:05.282 --> 04:18.270
+They're lightweight, they have superb optics, and they have lots of frames to choose from. I'm excited to share that Roca and I have teamed up to create a new style of red lens glasses. These red lens glasses are meant to be worn in the evening after the sun goes down.
+
+04:18.370 --> 04:36.382
+They filter out short wavelength light that comes from screens and from LED lights, the sorts of LED lights that are most commonly used as overhead and frankly, lamp lighting nowadays. And I wanna emphasize, Roka red lens glasses are not traditional blue blockers. They're not designed to be worn during the day and to filter out blue light from screen light.
+
+04:37.058 --> 04:49.534
+They're designed to prevent the full range of wavelengths that suppress melatonin secretion at night and that can alter your sleep. So by wearing Roka Red Lens glasses, they help you calm down and they improve your transition to sleep.
+
+04:49.634 --> 05:19.600
+Most nights I stay up until about 10 p.m. or even midnight, and I wake up between 5 and 7 a.m., depending on when I went to sleep. Now I put my Roka Red Lens glasses on as soon as it gets dark outside, and I've noticed a much easier transition to sleep, which makes sense based on everything we know about how filtering out shortwave lengths of light can allow your brain to function correctly. Roka Red Lens glasses also look cool, frankly. You can wear them out to dinner or to concerts or out with friends. So it turns out it is indeed possible to support your biology, to be scientific about it,
+
+05:19.600 --> 05:42.942
+to remain social after all. If you'd like to try Roka, go to Roka.com, that's R-O-K-A.com and enter the code Huberman to save 20% off your first order. Again, that's R-O-K-A.com and enter the code Huberman at checkout. Today's episode is also brought to us by BetterHelp. BetterHelp offers professional therapy with a licensed therapist carried out entirely online.
+
+05:43.042 --> 06:13.008
+Now I've been doing weekly therapy for well over 30 years. In fact, I consider doing regular therapy just as important as getting regular exercise, including cardiovascular exercise and resistance training exercise, which of course I also do every week. Now there are essentially three things that great therapy provides. First, it provides a good rapport with somebody that you can really trust and talk to about any and all issues that concern you. Second of all, great therapy provides support in the form of emotional support, but also directed guidance, the dos and the not to dos.
+
+06:13.008 --> 06:42.960
+And third, expert therapy can help you arrive at useful insights that you would not have arrived at otherwise. With BetterHelp, they make it very easy to find an expert therapist with whom you can really resonate with and provide you with these three benefits that I described. Also, because BetterHelp is carried out entirely online, it's very time efficient and easy to fit into a busy schedule with no commuting to a therapist's office or sitting in a waiting room or looking for a parking spot. So if you'd like to try BetterHelp, go to betterhelp.com slash Huberman to get 10% off your first month.
+
+06:42.960 --> 07:08.734
+betterhelp.com slash Huberman. And now for my discussion with Dr. Shauna Swan. Dr. Shauna Swan, welcome. Dr. Andrew Huberman, thank you. I'm super excited for today's conversation. I've followed your work for a number of years. I've seen some of your appearances on other podcasts and I got to see you speak while we were both in Copenhagen
+
+07:08.930 --> 07:37.086
+I was in the audience. You didn't know I was there, but incredible stuff that you've been doing as a researcher, as a public educator, as a writer. Let's kick off by just asking the basic question. Are there things in our environment, including our food, that are diminishing our reproductive and overall health? And if so, which are the ones that you think about and perhaps
+
+07:37.282 --> 08:05.534
+if you could just mention a few of the more salient, maybe even shocking, but salient results that you've observed over the years. Like what was the kind of like, whoa, result or results that have really steered your attention in the last couple of decades? And I'll just say what we were talking about before we were on the microphone, which is that you are a skeptic. You are not somebody who walks out into the world and looks for things that could be messing up our
+
+08:05.698 --> 08:34.302
+our biology, messing up our health, and yet you've found some. So if you could just share with us what you've observed and what you find really compelling and important for people to know about, we can dive in there. That was a lot of questions. I could probably talk for a long time. Feel free. I won't speak until you're done. No, but I want to break it up. Let's break it up. So I think the first question about was, are there forces, chemicals, agents in the environment that can affect our reproductive health? Yes?
+
+08:35.042 --> 09:02.430
+OK, so my answer to that is yes. I think there's no question about that. The question comes down to when and in whom and at what dose and so on and so forth. But whether there are, let's just say broadly, things, yes, of course. The category that I focus on are manmade, primarily manmade,
+
+09:02.658 --> 09:31.934
+chemicals, although I do also include the influence of other factors, factors of choice, for example, sleep, exercise, that kind of thing. We can talk about that. But let's just focus here on the chemicals, because I think that's what led me to do a lot of my research and to write the book that I wrote. And so my thesis is that
+
+09:32.194 --> 10:00.030
+chemicals in the environment, that's a very broad class, so we'll have to say some chemicals in the environment at the right time to the right organism affect fertility. Okay. So, and let me just say fertility is one area that I focused on, but actually this class of chemicals that I'm primarily interested in are those that affect the body's hormones. So those are known as
+
+10:00.226 --> 10:24.542
+hormone-disrupting chemicals or endocrine-disrupting chemicals, hormone-altering chemicals, whatever. You know, there's a lot of names. But that helps you focus on where to look for the effects. Because if it's hormone-altering, you can now have something to really ask. Okay, here's a chemical. Does it affect a hormone? Which hormone? When? How? How?
+
+10:24.962 --> 10:54.270
+And then you start, that's almost laying out an experiment right there, right? So focusing in on hormone disrupting chemicals, I think is useful. Absolutely. Yeah. And I think much of what we'll talk about today probably centers on the estrogen and testosterone pathways as they relate to masculinization or feminization of the brain and body. Right. And sperm and egg quality. So I'm a reproductive epidemiologist.
+
+10:54.402 --> 11:20.446
+got there in an indirect path. I think probably my work on oral contraceptives led me there most directly. And oral contraceptives are endocrine disrupting chemicals. That's what they're designed to do. Right? That's what they're designed to do, change your body's hormones, your reproductive hormones. So it's interesting, way back when, when I worked
+
+11:20.866 --> 11:49.950
+on the study at Kaiser on oral contraceptives, which was the largest study of its kind in the world, actually, trying to figure out were there adverse effects of oral contraceptives? If so, you know, for whom and when and how much and so on. And so that was a very great study. And coming forward in time, I, you know, I studied environmental chemicals, not so much pharmaceuticals for,
+
+11:50.594 --> 12:20.222
+quite a while when I was at the California Department of Health Services. And then I had an aha moment. I was flying to Japan with my friend John Brock, who's a chemist at CDC, wonderful chemist. And we had long flights. We were talking about this and that. And he says, Shauna, you should look at phthalates. And I'm going, why should I look at phthalates? I never heard of phthalates.
+
+12:20.546 --> 12:49.086
+And he said, well, we can now measure them at the CDC and we see they're in everybody. They're in women of reproductive age, fact one. Fact two, colleagues at the NTP have shown something they are calling the phthalate syndrome. And so he explained. What is NTP? National Toxicology Program, sorry. Thank you. For using alphabet. No, quite all right.
+
+12:49.474 --> 13:18.398
+National Toxicology Program, a governmental research center. And their job is to look at chemicals and see what is the toxicity. So it could be reproductive, it could be carcinogenicity, it could be neurotoxicity, that's what they do. And so they had signaled out these phthalates as being reproductively toxic and specifically to males and specifically when exposure
+
+13:18.690 --> 13:47.966
+is in utero. Pregnant mom is exposed to phthalates and somehow the fetus is disrupted. Yes. If you don't mind, I'd like to know, is mom ingesting phthalates in the form of food? Is she inhaling phthalates? Are they landing on her skin? What are the modes of entry into the body of the mom that, let's just assume it goes through the placental barrier into the fetus and is impacting fetal development? Right. So-
+
+13:48.162 --> 14:18.142
+In those experiments, it was through food. But we are exposed in all those ways you mentioned. Every way that something can get into our body, phthalates get in there. But let's come back to that. Let me go to the experiment at NTP. So what they did at NTP, National Toxicology Program, they fed mother rats various doses of these various phthalates. And what they found was no changes in the females are not at
+
+14:18.306 --> 14:46.270
+that they found at that time. The female offspring. Female offspring, sorry. But in the male offspring, they found that the genitals were, I would summarize it by saying, incompletely masculinized. So I'll explain what that is. So for that, I have to back up and say something you probably know very well, but I'll just explain it. The genital tract initially is a ridge. It's a single ridge. It's the same in males and females.
+
+14:46.434 --> 15:16.318
+It's not sexually dimorphic at the beginning. And then under the influence of testosterone, in a very specific window called the male programming window, in rats it stays, I think, nine to 12 of gestation. A very short window. To orient people, I think rat-mouse gestation is about 21 days or so? Yeah. Okay. So for us, it'll be early first trimester. Okay. But that comes later. So at that time, if they...
+
+15:16.514 --> 15:42.494
+feed their mother that chemical in her food, then her male offspring are born with changes in his genitals, or more likely to, right? And so what they tend to have is a smaller penis, less descent of the testes, more likely to have undescented testicles. There are internal changes that we didn't get into before,
+
+15:42.626 --> 16:11.070
+in our human study because we can't look there, but the epididymis, there are changes and so on. The whole genital tract is altered. And the most important measure for me, as it turned out, and for humans, and perhaps for animals, is something that the animal scientists had studied for a long time, for actually 90 plus years, but had never been studied in humans.
+
+16:11.682 --> 16:41.470
+And that is the distance from the anus to the genitals. This collection of changes in the male genitals was given the name the phthalate syndrome. Now you're a physician and I challenge you to think of any syndrome aside from alcohol. You know, there are fetal alcohol syndrome, of course, there's a syndrome. But note what syndrome is attached to a chemical class.
+
+16:42.082 --> 17:10.782
+just for technical purposes. I'm a PhD, not a clinician, but I worked on neural development for many years and then prior to that, some endocrine stuff. So I'm facile with the general terms. One that comes to mind would be, for instance, the thalidomide babies, right? A miscarriage, anti-miscarriage drug that changed limb development. That's a very extreme example. I would say for in...
+
+17:11.298 --> 17:39.806
+Human normal development, what I'm most familiar with are the early organizing effects of androgens that convert to estrogen on external phenotype, which is basically nerd speak for during development, the Y chromosome produces, it leads to the production of a number of genes and eventually proteins through RNA, et cetera, that are including testosterone and dihydrotestosterone
+
+17:40.386 --> 18:10.366
+that in the brain organizes the brain male and causes the growth of the penis or organizes, meaning it sets up the penis to then during puberty when the penis is exposed to testosterone and estrogen and DHT, it's a bunch of things, not just testosterone, the penis grows. So that- And lots of other things. Right, lots of other things, right? So the word soup that I just put forward is basically saying that there are a lot of things in development where hormones
+
+18:10.722 --> 18:37.150
+set up a potential to respond to other hormones later. It's not that testosterone grows the penis during development. It does that, but more so it establishes a potential for the penis to grow when exposed to things later during puberty. Do I have that right? Right. As far as the name goes, which is the phthalate syndrome, there is thalidomide. It's not usually called thalidomide syndrome, but it
+
+18:37.570 --> 19:04.254
+could be, so you're right about that. But it's extremely rare and there is no environmentally, you know, a chemical in the environment as opposed to a pharmaceutical that is given a syndrome. So this is very, very unique. And so I thought, wow, John's telling me this on the plane, right? Something in the environment that is basically having an endocrine and body disruptive effect.
+
+19:04.482 --> 19:33.406
+at least on par with alcohol, fetal alcohol syndrome and thalidomide syndrome. Right. So when, well, at this point it was only animals, right? Cause John was telling me about the NTP study, which was in rats. And so I thought, wow, you know, I like puzzles. So my first question was, is this happening in humans? You might ask that, you know, as a natural thing to ask. Great question. And then I thought,
+
+19:34.178 --> 20:02.014
+How would we find out? And answering that question took me 10 years. Okay. And so if you think about, okay, phthalate in the mother, changes in the genitals of the offspring, connect them. How do we do that? Right? So we have to start with phthalates in the mother. So how do we know that? Well,
+
+20:02.594 --> 20:31.806
+Fortunately or not, I had stored a lot of urine from pregnant women from a study that I was doing on sperm count. I just got the women's urine coincidentally, if you will. I thought, well, save it. You know, it's not expensive and not hard. Minus 80 degree freezers. Doesn't take a lot of room. Put it in there. So I had this urine saved from pregnant women. And then...
+
+20:31.970 --> 21:00.990
+I knew from John that we could look in the urine for phthalate metabolites. So these are products that the body forms when they're exposed to phthalates and you can measure them in urine. So I thought, okay, I could get that urine. I could look at the phthalate metabolites and then I'd know what the mother is exposed to. And based on the animal data, we have good evidence that it actually makes its way to the fetus.
+
+21:02.530 --> 21:28.062
+So then I thought, okay, then maybe there's a change in the babies. So then I had to get the babies. So fortunately, I had done this study on pregnant couples, pregnant women and their partners, and I was able to call them and say, would you come in and let us measure your baby's genitals, right? How willing were parents to let you do that? Yeah.
+
+21:28.290 --> 21:55.230
+They were okay. Most of them were okay with that. Yeah, yeah. Well, they trusted us. They had been in a study with us and we were reputable. Those babies were still... Young, but not newborns. So this was a while later. The babies that we actually got were on average, I think, about 12 months old. So not ideal maybe because the rats had been measured at birth. The rat genitals had been... But...
+
+21:56.002 --> 22:22.494
+That's what we could do at that time. Yeah, the reason I ask is there's always the potential for ongoing phthalate exposure to the newborn. Absolutely. But I suppose in either case, you're able to draw some potential link between, or potentially draw a link, I have to be careful with my language there, between phthalate exposure in utero and ex-utero and these external biomarkers. I mean, given that the critical window is quite short and quite early,
+
+22:22.594 --> 22:40.478
+By the way, let me just say, when the rats, they did a lot of work on this critical window. And when the rat moms were exposed before day nine, it did nothing. And when they were exposed after day 12, it did nothing. So it was only the exposure during that critical window is...
+
+22:40.610 --> 23:09.982
+Very delicate. And it's by the way, true of the brain as well. So teasing out what is the critical window is one of the challenges that we have when we work with these chemicals. So I wasn't so much worried about exposure in the delivery room and in their feed as in the first year of life, because I knew that it was unlikely to change these measures. Do other things, but maybe, but not these measures. So then the question became kind of what you were asking is what do we measure?
+
+23:11.106 --> 23:39.326
+What do we actually measure? And if you think about a newborn rat or mouse, their genitals are pretty small. And it's very difficult to know exactly how that corresponds to the human genital system and what you see at birth, you know, when you spread a boy's legs. And so I got a pediatrician in Los Angeles who
+
+23:39.426 --> 24:08.830
+worked with me on how to make that translation and how to do this exam. And that took us quite a while because we really wanted to come as close as we could. What was clear was that the anus part of it was easy. You go to the center of the anus. So that was easy. Then what's the other landmark? What's the genital landmark? So it turns out there are in males too, and in females there are too as well. So, but let's just talk about males. So for males, the best,
+
+24:09.378 --> 24:37.918
+place to measure and actually closest to the rat measurement is the place where the tissue changes, where the scrotum inserts. And that, it goes from rugated to smooth tissue. And at that point, it's pretty clear, pretty easy to measure. The other measure, and that was the interscrotal distance. And the other measurement we took was the anopenile distance. And that was the insertion, the anterior insertion of the penis,
+
+24:38.242 --> 25:05.950
+The part closest to the body. Closest to the head, yeah. Closest to the head. Yeah. And that was not so obvious because you don't have a change in tissue there. So where exactly do you put your caliper? And we had a lot of discussion about, do you press down? Where exactly do you make that mark? And actually, the anus coronal is the...
+
+25:06.082 --> 25:35.518
+measurement with the least variance because you can measure most precisely. But the anal penile is another measurement. And then you can do something similar in females, and we did that, but we maybe don't have to go into that now. So we designed this exam, and we did a lot of work to make sure it was repeatable across examiners. And what we finally did was bring the mothers in, bring the babies in, and...
+
+25:35.810 --> 25:59.166
+got three measurements. And then on every 10th baby, we got an independent examiner to get three measurements. So we could look at within and between examiner variation. You understand this is the first time this had been done this way in humans. There was a Mexican study that tried to do this and I never learned very much about it. And I was
+
+25:59.362 --> 26:26.238
+Excited that they had done this, but I'm not sure how it relates to this. I've just mentioned that out of honesty. You know, there's somebody in Mexico did this. But to my knowledge, this is the first time it was used as a toxicological measure in humans. Right. So we did that study. We related those measurements to what CDC had measured in the urine of our women, collected while they were pregnant.
+
+26:28.098 --> 26:57.950
+and we found the phthalate syndrome. Could you explain what the correlation was between phthalate metabolite levels, which is, I believe- Not by number, because I don't remember it anymore, but there was a significant, let's just take the AGD. The AGD of mothers who had higher levels of three, the most anti-androgenic phthalates, I'll tell you what those are in a minute, had significantly shorter-
+
+26:58.818 --> 27:23.614
+anogenital distance. And then I have to say that, which I haven't said and should have, that anogenital distance is sexually dimorphic. So it tends to be 50 to 100% longer in males than females. That makes sense if you think about what's going in that space. There's a lot of real estate in males between the anus and, you know, let's say the penis.
+
+27:23.970 --> 27:47.198
+insertion much more than in females. So it's natural that that will be longer, but that's... I began doing some work looking at other species and it turns out that that's true in all mammalian species except two, and one is the hyena and one is the elephant. So in the hyena,
+
+27:47.810 --> 28:16.414
+I'm just saying this because you might be amused by it. You know about hyenas? I do. I know more about hyena genitalia than I'd like to admit. And I can tell you why after you educate us, but I'll keep my explanation brief. But I'm very familiar with hyena genitalia. So I know Stephen Glickman who works with, you might know him too, he works in Berkeley. He was my instructor when I was a graduate student at Cal. Oh my God.
+
+28:16.834 --> 28:46.430
+And I used to run in Tilden Park, I suppose I'll tell it now. And there was a colony of wild hyenas, but they were behind Chainlink. It's actually a favorite hike of mine up the Strawberry Canyon Trail. And a good friend of mine, Brian Prendergast, who's now a professor at the University of Chicago, worked on the prairie voles that were also housed at that facility. And a fun thing to do was to go see the hyenas with Steve. They're brutally dangerous animals.
+
+28:47.074 --> 29:15.774
+and Steve has tons of stories about them. We should probably resist our temptation to spiral into that. Maybe sometime I'll do a little evening chat podcast where I tell Steve Glickman stories. He's a delightful person. And yeah, let's just say this. The female hyenas have clitorises larger than some of the male hyena penises, and those females give birth through those clitorises, as we both know. So you will not be surprised to know...
+
+29:16.002 --> 29:45.406
+that the female HD is longer than the male. Right, because they're heavily androgenized. Exactly. As I recall by androstenedione. Actually, I don't know that. It became popular during the era of steroids in professional baseball because androstenedione was being used pretty frequently in baseball at that time. Anyway, we could go down the spiral of hyenas. But also in terms of behavior, the female is the alpha.
+
+29:46.594 --> 30:16.350
+They eat first. Yes. They're physically and hierarchically dominant in hyenas. So it's really interesting, isn't it, that they would have a longer, more masculine intergenerational distance. Elephants, we won't go into now, but they're kind of midway in many things. So including they're about equal intergenerational distance in males and females. Other than that, humans and other species, male animals,
+
+30:16.482 --> 30:45.022
+Androgenal distance is 50% to 100% longer. However, so three phthalates, diethylhexylphthalate, DEHP, dibutylphthalate, DBP, and butylbenzylphthalate, BBZP, are the most anti-androgenic testosterone-lowering phthalates, and those are the ones that were associated with a shorter androgenal distance in males. Okay.
+
+30:45.378 --> 31:12.990
+In human males. Human males and animal. So we replicated that animal study in humans. And then, because you know this is how it is in science, I had to do it all again, right? So I started a whole new study. And that study is still going on. The children are still being followed. I think we started in 2012.
+
+31:13.346 --> 31:40.158
+The first paper on inogenital distance came out in 2005, had a pretty big impact. So these are studies where you're looking at the inogenital distance in relatively newborn humans, then tracking that distance. No, that's a different... Tracking is another study. Okay. This is just two studies on demonstrating the Thaler syndrome in...
+
+31:40.802 --> 32:01.886
+human males. Okay. So the first one I described, the second one, the replication, and the second one is the one that's going on still. So, and what it does to their reproductive function, we don't know the kids are only 12 years old now. So we would like to know that and we will know that. Okay. But I have another answer for you about that. So...
+
+32:02.050 --> 32:31.262
+So we started the second study and the second study, which is called TIDES, which is the Infant Development and Environment Study. By the way, these are both in four cities in the United States. And there we did it right. So we got the urine in the first, early urine, because we knew that could be important. We didn't have that option in the first one. Remember those urine samples were accidental. We got them when we could, right?
+
+32:31.618 --> 32:52.702
+We got repeated urines, one in each trimester, to look at the effects in different trimesters. And then we examined the babies at birth, which is what the rats... So we came much closer to replicating the rodent study. And we saw it again. I'd like to take a quick break and thank our sponsor, AG1.
+
+32:52.834 --> 33:22.800
+AG1 is an all-in-one vitamin mineral probiotic drink with adaptogens. I've been taking AG1 daily since 2012, so I'm delighted that they're sponsoring this podcast. The reason I started taking AG1 and the reason I still take AG1 once and often twice a day is because it is the highest quality and most complete foundational nutritional supplement. What that means is that AG1 ensures that you're getting all the necessary vitamins, minerals, and other micronutrients to form a strong foundation for your daily health. AG1 also has probiotics,
+
+33:22.800 --> 33:25.822
+and prebiotics that support a healthy gut microbiome.
+
+33:25.986 --> 33:55.952
+Your gut microbiome consists of trillions of microorganisms that line your digestive tract and impact things such as your immune system status, your metabolic health, your hormone health, and much more. So I've consistently found that when I take AG1 daily, my digestion is improved, my immune system is more robust, I rarely get sick, and my mood and mental focus are at their best. In fact, if I could take just one supplement, that supplement would be AG1. If you'd like to try AG1, you can go to drinkag1.com slash Huberman to claim a special
+
+33:55.952 --> 34:25.502
+More phthalate exposure equates to shorter
+
+34:25.601 --> 34:54.942
+anogenital distance in males, it was approaching the distribution in females. It sounds like the distributions moved more closely together. Yes. Right. Yes. Although it wasn't the females that moved. Sorry. The male distribution- Became more like the female. Became more- Right. Feminized. I could say feminized, but more female-like in its- But these boys also had smaller penises, less descent of the testes, smaller scrotums. So they were smaller-
+
+34:55.138 --> 35:22.942
+You know, everything was in their genital areas. Are all the secondary sex characteristics of puberty in males, Adam's apple, facial hair growth, thickening of the vocal cords, therefore lowering the voice, et cetera, are those all later activating effects of hormones or are there precursors to those that are present in males? Because in mice, as I recall, like I couldn't tell you
+
+35:23.586 --> 35:48.798
+like we call it in the laboratory, people always chuckle at this, but it's like sexing the animals when you, you know, look to determine if it's a male or female. When they're really young, you have to like look carefully at first, right? And then you get pretty good at it. As they get older, it gets easier. But when the mice are, you know, feet down, back up, you know, you can't really tell. You can't really tell. Right.
+
+35:49.090 --> 36:17.790
+As the mice get older, their testicles become visible in the males even from above. But, you know, as far as I know, there aren't really external markers. So you may have found the one truly external biomarker of maleness. Of maleness. And so I do want to say one thing about females because then that will lead me to my conclusion about the role of this measure. So if the mother is exposed to more testosterone...
+
+36:18.562 --> 36:47.870
+than expected. You might expect that her female offspring would have a more male anogenital distance. Is that the case? Yes. So it's a bi-directional effect. Yes. Can we also presume that if the mother either secretes or is exposed to more androgen, then the males can become hypermale? No. I don't know what that would be. We never saw anything that would be hypermale. So the
+
+36:48.258 --> 37:18.142
+The yes I said to you was the result of a study where we looked at the girls born to women with PCOS. So women with PCOS, as you know, have excess testosterone. Polycystic ovarian syndrome. Oh, sorry. Polycystic ovarian syndrome. We've talked about it a little bit before in the podcast. It's associated with, my understanding is it's associated with elevated levels of androgens. That's right. And these women often have facial hair and, you know,
+
+37:18.242 --> 37:36.926
+Not just the moms, but the people, the women with PCOS have elevated androgens. Yes. We're not talking about pregnant moms anymore. Exactly. And so in our study population, we did a search for women who had diagnosis of PCOS and took that as a marker of higher...
+
+37:37.186 --> 38:06.590
+testosterone exposure and then looked at the girls and yes, those girls had a longer, quote, more masculine intergenital distance. What age group were you looking at? In the infants. In the infants. Oh, the PCOS was at pregnancy at the time they were pregnant. So presumably people between their like somewhere in their 20s out to their 40s. Yeah. So adult human females who have PCOS tend to, we know they have higher levels of androgens.
+
+38:07.202 --> 38:35.070
+but they also have more male-like anogenital distance. They do not, their daughters do. Their daughters do. Thank you for that clarification. Yes, their daughters. And so put this together, this measure is a look inside the womb at the androgen level that the fetus is exposed to at that time, which is amazing because you can't go in there
+
+38:35.330 --> 39:01.566
+without disturbing, you know, you can't. And so this is very early first trimester. You can't even get, you know, fluid and so on. So this tells you, this is like a readout of what was in, you know, in the fluid at the time. So then your next question was, what does this mean for
+
+39:01.890 --> 39:31.550
+later fertility. Yes? Yeah. What is the impact of this early androgen exposure to female offspring or let's just say reduction in functional androgen exposure to male offspring? The reason I'm using loop-de-loop languages, as you probably know, but for the audience, not trying to complicate things here, but a lot of the masculinizing effects of hormones in fetal development is actually
+
+39:31.874 --> 40:01.534
+testosterone that's converted into estrogen. So it can get pretty tricky. But maybe for sake of simplicity today, we'll just stick with androgen effects on masculinization with the understanding that some of those effects are the consequence of testosterone being converted into estrogen. It's just that people form such strong associations falsely that testosterone is maleness and that's not true. And estrogen is femaleness and they both...
+
+40:01.634 --> 40:29.598
+It just gets really murky. But for the time being, you identified an external biomarker of fetal androgen, aka masculinization, via the mother. That's right. Got it. Okay. So then we asked, the question you've asked and many people asked, who cares? Why would we...
+
+40:30.274 --> 40:59.870
+worry about a boy having a slightly smaller anagenital distance? Well, I can tell you there are many boys that are probably worried about it right now. Right. They probably got the ruler and the calipers out right now. But I'm going to answer that question. Right. So I told you that our kids are too young. They're not producing sperm right now. Right. So we had to go to an adult population. Right. And so we went to
+
+41:00.002 --> 41:28.862
+was population of college students in Rochester, New York. And what we did there was make an assumption, which is based on animal data. It's true in animals. We've been following the animal path here all along. So in the animals, my colleague, Earl Gray, who did these studies said- His name is Earl Gray? Yeah. That's cool. Yeah. He said, AGD is forever. Yeah.
+
+41:29.890 --> 41:59.230
+Anogenital distance is forever. Now, what that means is it's not like your anogenital distance today is what it was when you were born. Of course, you're a bigger person, but that means adjusted for body size, right? So if you assume that AGD is forever, if you're born with a short for your size AGD, then when you're 20, you'll have a short for your size AGD. Okay? Can we assume that? Okay. So if we assume that, then if we get these college students to come in,
+
+41:59.714 --> 42:29.310
+and we can measure their anogenital distance, we're getting a reflection of what it was when they were born, okay? And then we can get their sperm count. And then we can see if they're related. And that's what we did. So we got this population of volunteers, paid them $75, and one of the guys said, for 75 bucks, you can do anything. And so what we did was we measured their anogenital distance,
+
+42:29.410 --> 42:56.862
+And then we got them to give a semen sample and complete a questionnaire and things you do in a study. We'll link to that study, but I have a couple of questions about the controls in that study, just for sake of people understanding how a study like this would be done. I don't expect you to recall all the details, but you're adjusting for body size and body weight. Yeah. Height, weight. What are the factors that would scale here that would allow you to normalize?
+
+42:56.962 --> 43:24.862
+In other words, what you're trying to do is backtrack to what it likely was at infancy. No, we didn't actually try to go back. Let me just tell you what the results were. In this group of men, if they had a longer anagenetal distance, they had a higher sperm count. Got it. So you were correlating those two measures. Right. And then if we wanted to say something about, we didn't try to say anything about how it was when they were born. We just said, okay,
+
+43:25.026 --> 43:47.198
+We'll take that assumption that this reflects their early AGD if we want to say something about early AGD and sperm count. So it's easy to say AGD is related to sperm count because we measured that. We saw that, a correlation. That's published. If we want to say their early AGD at birth and their sperm count
+
+43:48.418 --> 44:16.222
+that's a leap of faith in some sense because we don't have their early. For these guys in Rochester, we didn't measure their age to eat at birth. Were there any conditions of being a participant in the study such as refraining from alcohol, cannabis, et cetera, in the 90 days prior? No, no, no. 90 days being the duration of a spermatogenesis? Yeah, I don't remember that. These are college students, so presumably some of them are drinking. Okay, but in the end, it was a robust link.
+
+44:16.834 --> 44:41.534
+And then Mike Eisenberg, who you might know at Stanford. Yeah, my colleague at Stanford. He's been on this podcast. Yeah, yeah, yeah. Good, good. So he's a colleague of mine too. And he looked at men in an infertility clinic and those who had born children and those who had not born children. And the men who had born children had a longer in a gentle distance than men who had never born a child. Never born, but were trying. Yes, yes.
+
+44:42.434 --> 45:11.262
+These were not people who opted out. These were people who were having challenges with fertility versus success with fertility. And by the way, the question of how you measure AGD in an adult man is a different question than how you measure it in a newborn. And we did a lot of work on that and Michael helped with that too. So it sounds like... Oh, and may I ask, were the sperm counts that were on the... Let's just say the lower...
+
+45:11.906 --> 45:40.798
+like the lower quartile, where the quote unquote lower sperm counts, like functionally lower? Because I always wonder about this. Like it's come up in a number of discussions like with Robert Sapolsky, with Mike Eisenberg, and now I'm asking you, when we hear that sperm counts are going down, are they going down to the point where fertility is impacted? That's really one of the, I think, functional questions. So I'm going to, let's lay aside the question of AGD, right? That's an,
+
+45:40.930 --> 46:07.902
+really interesting, but let's talk about sperm count. Okay. So there's a beautiful study among pregnancy planners out of Denmark quite a long time ago. And in that study, what they did was take couples that were trying to conceive that had never...
+
+46:08.546 --> 46:32.542
+or not recently, I can't remember, used oral contraceptives. And then they saw what the sperm count was and how long it took them to conceive, right? Time to pregnancy in relation to... And what they showed is a really interesting curve, which has never been corrected to my knowledge. It's what I use and what I think people use, which is that if you...
+
+46:32.930 --> 47:02.654
+I wish I could draw it here. You should have a board, a white board. The problem is a lot of people are listening, but maybe we can talk people through it. So just think about a curve where you go all the way down to zero. That would be no sperm. And then as the probability of conceiving is zero, so you're looking at sperm count along the x-axis and months to conception. And what you see is that
+
+47:02.914 --> 47:29.150
+you have no sperm you don't have no conception if you go up to around 40 45 there's a steep increase so the more sperm you have 40 45 million million per milliliter and this is million per milliliter uh just so just pure concentration not number of motile sperm this is just how many sperm we're not talking about quality no no just the number okay and and when you have 45 to 50 million per milliliter and below
+
+47:29.538 --> 47:58.654
+it matters a lot what your sperm count is. You know, people say it doesn't matter. Yeah, if you get in this range where the probability of conception is dropping off really rapidly, it matters a lot. And then around 45 to 50, it starts to level off. And then after that, after certainly after 100, probably 75, it doesn't matter at all. So 100 million sperm per milliliter of semen. Yes. So can you see this? Mm-hmm.
+
+47:58.754 --> 48:26.078
+Okay, so when people say, does sperm count matter for fertility? Yes, it matters a lot if it's low, and no, it doesn't matter at all if it's high. So we just have too many sperm. I mean, I don't, but humans, you know. So nature runs a probability game, overproduced sperm. Right. Some of those will be high quality, some will be low quality. Exactly. Depending on their age, that is, when they were generated.
+
+48:26.338 --> 48:56.254
+Or their conditions. Or their conditions, how much heat exposure, et cetera. So nature runs a probability game. That's right. Hoping that the best quality sperm will fertilize the egg. Right. So below 45,000, excuse me, below 45 million. Million per milliliter. Below 45 million sperm per milliliter of semen, the sperm count really matters. It drops off precipitously. That's right. Once you get up to 75, 100 million sperm.
+
+48:56.450 --> 49:23.294
+per milliliter of sperm. It's all good. You're good to go. Right. And sperm counts range anywhere from, it could be low eight, nine, 10 million per milliliter in the very low situation. It could be zero in some people, right? All the way up to 400 million. There's a huge range. That's right. And that's a function of age. It's a function of genetics. It's a function of presumably phthalate exposure. Yeah.
+
+49:24.130 --> 49:50.910
+I'd like to take a quick break and thank one of our sponsors, Function. I recently became a Function member after searching for the most comprehensive approach to lab testing. While I've long been a fan of blood testing, I really wanted to find a more in-depth program for analyzing blood, urine, and saliva to get a full picture of my heart health, my hormone status, my immune system regulation, my metabolic function, my vitamin and mineral status, and other critical areas of my overall health and vitality.
+
+49:51.042 --> 50:07.070
+Function not only provides testing of over 100 biomarkers key to physical and mental health, but it also analyzes these results and provides insights from top doctors on your results. For example, in one of my first tests with Function, I learned that I had two high levels of mercury in my blood,
+
+50:07.234 --> 50:37.200
+This was totally surprising to me. I had no idea prior to taking the test. Function not only helped me detect this, but offered medical doctor informed insights on how to best reduce those mercury levels, which included limiting my tuna consumption, because I had been eating a lot of tuna, while also making an effort to eat more leafy greens and supplementing with NAC, N-acetylcysteine, both of which can support glutathione production and detoxification and worked to reduce my mercury levels. Comprehensive lab testing like this is so important for health.
+
+50:37.200 --> 51:07.152
+it for years, I've always found it to be overly complicated and expensive. I've been so impressed by Function, both at the level of ease of use, that is getting the tests done, as well as how comprehensive and how actionable the tests are, that I recently joined their advisory board, and I'm thrilled that they're sponsoring the podcast. If you'd like to try Function, go to functionhealth.com slash Huberman. Function currently has a wait list of over 250,000 people, but they're offering early access to Huberman Lab listeners. Again, that's Function Health
+
+51:07.152 --> 51:32.958
+dot com slash Huberman to get early access to function. We were on to the fact that sperm counts are dropping. There's a relationship to anogenital distance and there's a relationship between anogenital distance and phthalate exposure. And then I asked the question, you know, okay, we're hearing about sperm counts dropping, but is it functionally relevant? Is that one of the reasons why fertility is dropping? And we've also got the female side where we've got women with
+
+51:33.090 --> 52:01.502
+elevated androgens. So we can talk about that a little bit later. And then of course, we have the sociobiology piece where people are opting out, or it's also economics in some cases, opting out of having kids. Right. So let's go back to sperm count because we haven't really talked about that. It's a kind of a different path. And my introduction into phthalates was not through sperm count.
+
+52:01.730 --> 52:31.006
+It was through this question of my colleague asking me, you should look at this, and challenged, and I looked at it, and that was a really, really interesting journey that I went on. But there was a separate for a while journey that I was on, and that started in the late 1990s when I was asked to join a committee of the National Academy of Sciences. And that committee was assembled
+
+52:31.138 --> 53:00.990
+to look at the question of whether hormonally active chemicals, endocrine disrupting chemicals in the environment posed a threat to human health. Because at that time it was like, well, yeah, we hear about this, but should we care, right? And so that committee wanted to consider a study that had come out of Denmark a few years earlier, which claimed that sperm count
+
+53:01.250 --> 53:30.366
+had dropped 50% in 50 years. Wow, that's a huge drop. That's what we're seeing worse than that, by the way, now. So, okay. They said to me, I was the only statistician on the panel, would you look at this and see if we need to consider this in our deliberations? And as I mentioned, I'm skeptical and I looked at it and I thought, I don't think so. That was my initial reaction. And that was because
+
+53:31.810 --> 53:58.174
+First of all, I didn't know who had written this. I just saw it in a journal and it was not very big and not very many figures, not very much data. And I thought of it and I thought, that's a big claim for a little paper. But I'll look at it because it's important. And so what I did then was to think about all the factors that were
+
+53:58.402 --> 54:27.774
+we epidemiologists call confounders, things that might have caused that decline if it wasn't real biologically. And so we could think of some of them together. Maybe the method of counting sperm had changed so that later methods counted fewer sperm in the same sample. That's certainly possible. But it turned out that wasn't the case because they actually had all used the same method.
+
+54:27.938 --> 54:57.374
+And maybe the men had changed. So maybe there's a, you can't get a sperm count at random. You have to get somebody to volunteer, right? So who were these men? Or were they very different, you know, in the early part of the study, in the late part of the study, in a way that maybe in the late part of the study, there were men with lower sperm count and they were more concerned, you know, maybe they were more obese. That's pretty plausible. Obesity is related to sperm count, fertility. Um,
+
+54:57.666 --> 55:25.918
+and maybe they smoked more and maybe, and so on and so forth, right? So what I did was to get the 61 studies, go through them and try to extract information on all the factors that could explain the decline. So I created a multivariable model and ran that model. And to my astonishment, when I was done,
+
+55:27.522 --> 55:56.798
+the slope of the decline was exactly the same to the first decimal place. It had not explained anything. And I was like, oh my God, this looks like it might be real. And for those listening, what Dr. Swan is describing is being the excellent scientist that she is, she went and looked for all the things that could impact the result that were not related to what the main conclusion was.
+
+55:56.898 --> 56:26.654
+seem to be, which is that sperm counts were going down over time. Right. Right. And this is really important to, because I think what we're talking about here in parallel to the main conversation is how to do really great science, especially in human populations that are out there living, you know, some of these men probably, you know, smoke some cannabis. I'm not saying that reduces sperm count. It might reduce sperm motility, however, we covered that in the podcast. Now that all the cannabis folks go, well, you know, so-and-so got
+
+56:26.786 --> 56:51.550
+so-and-so pregnant when they were doing a lot of weed. And I always say, okay, well, there are a number of other factors, right? But alcohol, there's frequency of ejaculation, right? The requirement to abstain for 48 to 72 hours to up to five days prior, et cetera. All these factors that men may or may not faithfully report, but you assume that if some are telling the truth and some aren't,
+
+56:51.810 --> 57:19.262
+that there's an equal distribution of that. So all the different things, right? This is so very different than looking at, for instance, ovarian reserve, like the number of eggs where you use ultrasound and you use AMH levels. And sure, things can impact that, but it's a little different than when taking sperm counts. So thank you for doing the study so carefully and for repeating them so many times. I mean, many of the studies that you've done are
+
+57:19.458 --> 57:33.982
+or you've done follow-up on the sperm count studies across multiple years. You know, as you said, the first study was in 1992, then you did one in 2017, then there was one again, and there was an update I noticed online. So you are extremely thorough.
+
+57:34.114 --> 58:03.678
+And it probably reflects your early training in math and statistics and probability theory. You're not somebody to just kind of go in and go, oh, yeah, like in these people that eat a few too much of this, then there's a little bit less of that. So I just wonder if today's discussion feels like we're really, we're laving through this, that's intentional. And it's important for people to hear these kinds of claims are not the sort of thing that you could, people make them all over the board, but
+
+58:03.778 --> 58:30.334
+work like this needs to be done with an extremely meticulous eye and consideration of all the variables. Well, good scientific method. Yeah. Yeah. And I would say, especially with human epidemiological work, because of the number of potential confounding variables. Right. So when I saw that and actually did another study to select my own studies and not accept HER61 studies that had been published, that...
+
+58:30.754 --> 58:52.062
+Elizabeth Carlson had published. So new studies, came up to more recent times, went back further, did it again, found exactly the same thing. OK, so there were three looks at that. And I thought, OK, I'm going to accept this now. Sperm count is declining. And why? I turned to the why.
+
+58:52.450 --> 59:21.502
+Okay, because up and down now, we hadn't said anything about why. We just said, is it doing that? Yes. Okay, now we believe it is declining. Why? And so then I thought quite a lot and talked to people and ruled out genetics because it was too fast. It's two generations. It's too fast. 50 years, two generations. So if it's not genetics, then it's environment. And so what is it about the environment that could do this? So I asked, okay,
+
+59:22.626 --> 59:48.574
+In the environment, there could be things that are making sperm decline. So if you think about how you might look at that, you might design the study that I designed next, which is another study. And by the way, this preceded the AGD. So we had four cities in the United States that we picked with different environments. And then we got men to come in and we used...
+
+59:49.282 --> 01:00:15.390
+the same equipment at each place. We used the same method of selecting the man. The technicians were trained centrally at UC Davis. We had very good quality control. So samples were sent around every quarter to make sure that everybody was measuring things the same way. We didn't want drift, right? And then we got their urine. And that's how I had those urine samples.
+
+01:00:15.522 --> 01:00:35.038
+If you wanted to do this study and you wanted to get a representative sample of men, where would you go? Because you can't, I can't ask a guy in the street to give me a semen sample right now. I mean, it's not, it's not something you get very, you know. So I thought, how can I get a representative sample and...
+
+01:00:35.138 --> 01:01:04.094
+which would teach me something about a larger population called the parent population. So here's a sample. It should represent the parent. So how do I ensure that? And what I decided was to sample partners of pregnant women because pregnant women all come to medical care, almost all. And if their partners will give a semen sample, then we have a representative sample. And we know what we're looking at. So that's what we did. So this is a, the semen study is the,
+
+01:01:04.674 --> 01:01:34.654
+study of partners of pregnant women. And of course, they'll have slightly higher semen quality because they got their partner pregnant. And so we had their urine, we had their blood, and we looked at their semen quality. And then we decided to look at pesticides. And the reason we look at pesticides was because there was a lot of gradation across our four centers in pesticide use. And
+
+01:01:34.914 --> 01:02:03.262
+And what we found was really extraordinary that men who were living in central Missouri, where I was living at the time, who were in the middle of an agricultural belt where there was spraying all the time for soybeans and so on, those men had half as many moving sperm as men in Minneapolis. Whoa. Whoa. Huge.
+
+01:02:03.842 --> 01:02:33.374
+And then we went one step further. And within Missouri, we looked at a sample of men who had very high sperm parameters and very low sperm parameters and showed that five pesticides were significantly higher in the men with the low sperm parameters. That included motility, morphology, you know, all the parameters. So these are pesticides that are being sprayed in the air on crops. You mentioned soybeans. What other types of crops? I don't know.
+
+01:02:33.730 --> 01:02:58.558
+I don't remember. So plant and fruit crops, presumably. Yeah, whatever they were growing in Columbia, Missouri at that time. And just to make sure I understand that it's not that the men need- Soybeans, corn and soybeans. Corn and soybeans. But we're not talking about eating corn and soybeans. We're talking about living in an area where pesticides are being used by, is it still called dust crop?
+
+01:02:58.658 --> 01:03:20.734
+Yeah, we didn't go into how they got these. We just looked in their urine and there were the metabolites. The metabolites don't get in their urine unless they were exposed. Exposed through the air or exposed by eating corn and soybeans? We don't know. We don't know. Okay. We don't know. But this was not a particularly... We didn't sample farmers only or anything like that. So it was whoever came in to the...
+
+01:03:20.994 --> 01:03:50.782
+Remember how we got these men? Their wives were pregnant. They were having prenatal care at the University of Missouri. So that's where we got them. Whoever happened to come in to the prenatal clinic and agree to be in our study, the male's urine was measured for these pesticides. I'm sure a number of people, including myself, are wondering in what other products are these five pesticides present?
+
+01:03:51.266 --> 01:04:18.078
+Are these commonly used pesticides or is it something about- They're called the triazine pesticides. Atrazine was the most widely used and it's a huge use around the world. I mean, it's highly, one of the largest commercial pesticides. So these were very big players in the pesticide field. A relevant theme there would be, maybe we could take a moment and talk about Atrazide and its effect on
+
+01:04:18.274 --> 01:04:45.598
+male sexual behavior in amphibia. And we'll come back to the sperm studies because when I was a graduate student at UC Berkeley, I had the wonderful experience of taking a course from the now, I think you mentioned he's a dean. There are multiple deans on campuses. Tyrone Hayes is a wonderful researcher who established a link through his research between atrazine exposure and
+
+01:04:46.114 --> 01:05:13.854
+male sexual behavior of amphibia. Yes. Could you elaborate on that result? Yeah. So Tyrone first caught frogs in the wild in environments that were more or less exposed to atrazine and showed effects on development and sexual behavior. Then in his lab, he actually exposed them. So he knew exactly who was exposed and how much. And he showed that
+
+01:05:14.626 --> 01:05:38.974
+And I can't tell you what percent or what, you know, but a significant number of frogs exposed to this pesticide atrazine chose to mate with other male frogs. Tried to mate with other male frogs, presumably unsuccessfully. Well, they mounted them. He has photos of the males mounting males. And so presumably this is a neural...
+
+01:05:39.106 --> 01:06:08.286
+that occurred, neuroendocrine change, but ultimately neural since mounting behavior is controlled by... Actually, we now know the hypothalamic nuclei that control this. David Anderson, who's been on this podcast, has people in his laboratory that... Including a former graduate student of mine working on this specific issue of what the circuitry is. That's a remarkable result. It's been kind of...
+
+01:06:09.538 --> 01:06:39.166
+you know, used and misused out there in the media and in popular culture. But if nothing else, it suggests that the organization of the neural circuits and neuroendocrine pathways that control sexual, I don't want to say partner, because it's mating thing. Frogs aren't monogamous, but sexual preference are significantly impacted by this atrazine. Yes. And it suggests that
+
+01:06:39.522 --> 01:07:07.998
+that other environmental chemicals can as well. And I don't know if we'll have time to go there, but I did work on neurodevelopmental outcomes in relation to prenatal phthalate exposure. And so I think the overarching idea here is that the brain, like the genitals, is sexually dimorphic. And there's many people, by the way, who will take offense at that. Really? Yeah. Yeah.
+
+01:07:08.290 --> 01:07:38.142
+I think there's, I mean, going back to the work of Frank Beach and the psychology department at UC Berkeley. I know. Showed this in beagles. It's been shown in pretty much every species. But I'm just telling you that- But it's not a better worse. I think this is what people need to hear. Like dimorphic does not mean better worse. It means different. Right, different, right. And that there are, for example, advantages to spatial reasoning in a male, which are related to testosterone.
+
+01:07:38.242 --> 01:08:00.382
+Right? You know that. I mean, I think there... Yeah. I mean, my understanding of this literature, and I'm not an expert in this particular aspect, which is the behavioral phenotypes. But, you know, like the medial preoptic area of the hypothalamus is known to be sexually dimorphic, dependent on testosterone converted into estrogen during development, et cetera, et cetera. And there's just so much evidence of this. Mm-hmm.
+
+01:08:01.186 --> 01:08:27.870
+How it links to behaviors I think can be reasonably placed into ethologically relevant, evolutionarily logical arguments when talking about rodents or beagles or even rhesus macaque monkeys. I think where people get a bit inflamed is when people try and take the sexual dimorphisms that have been observed in animal brains
+
+01:08:27.970 --> 01:08:45.566
+or even in human brains and tack those to specific abilities or lesser abilities. I think that's when people sort of go, wait a second, like I have much better sense of direction than my husband. And you go, well, yeah, like, you know, and then you go, well, does that mean that she has higher testosterone than him? And then maybe, and then, and pretty soon you're,
+
+01:08:45.890 --> 01:09:13.246
+You're in almost a no man's land, a no person's land of confounding variables. But I really appreciate that you raised this. And also that you said it and I didn't because I feel safer that way. But look, there is a very simple, outdated questionnaire and it's play behavior. It's called the PSAI. It's been used for years. Have you heard? It's rough and tumble play.
+
+01:09:13.410 --> 01:09:38.590
+Yes. Yes. And there are 24 questions on there and they are sexually dimorphic. I guess you could say that, you know, my child likes to play with dolls. My child likes to play dress up. My child likes to play rough and tumble, et cetera. And we gave that questionnaire to our population and looked at the answers and
+
+01:09:38.881 --> 01:10:07.262
+that the mothers gave, both in our population, by the way, and a Swedish population of a colleague there, Carl Bornahag, Gustav Bornahag. And what we found, higher phthalate levels, these anti-androgenic phthalics were associated with less masculine male typical play in our male boys. So...
+
+01:10:07.810 --> 01:10:37.054
+This is phthalate exposure to the mom. Baby is born in the young human child. Yeah, I think it was four years of age. Four years of age, less rough and tumble type play among the boys whose mothers were exposed to more phthalates during a critical period of development. Now you can see that's a politically loaded issue now. I mean, you know, well, I think we're, I mean, let's have some fun with this in-
+
+01:10:37.218 --> 01:11:05.662
+in the scientific sense. The notion of dimorphism is, you know, okay, male and female brains are different, right? And male, female defined in almost all those studies as presence of a Y chromosome. And then people say, well, there's X, Y, Y, and then there's XX, Y. Okay, but most of the time you're talking about XX chromosome or XY chromosomes at birth. Forget everything else for the moment. These are always distributions. This is what I think people need to know. We're not talking about, these are not,
+
+01:11:05.762 --> 01:11:28.542
+This is not two hills of data separated by a valley. These are overlapping distributions. Right? So you get males with a, quote unquote, female-like distribution. You get females with a, quote unquote, male-like distribution. And I think as long as we acknowledge that, then we're just talking statistics. Right. We're not placing any cultural or
+
+01:11:28.674 --> 01:11:57.950
+any value on it really whatsoever. Right, right. But if you could make the analog to the intergenital distance, it's kind of similar. You know, you have the same exposure, phthalate exposure, you have something changed statistically. We don't see huge differences in the boy's genitals. And we don't see huge, I don't, we know these kids have not been scanned, so we don't know how their brains look. But based on their answers, we don't see huge differences. We see tendencies. We see they are more likely
+
+01:11:58.626 --> 01:12:23.870
+if they had been exposed to these phthalates, to want to play dress up and have tea parties. More likely. Doesn't mean that they're all going to, but that's the direction and so on. So I think we have to just think about more likely, not absolute. Yeah. And of course, there are also the sociobiological variables, such as if a young boy has a sibling that's
+
+01:12:24.258 --> 01:12:50.078
+sister, there's more likely to be dresses around, right? She's going to, if he has two older brothers, there might be more rough and tumble play happening in the house. And I have some friends that are women who have older brothers and those women are, you know, some of them roll jujitsu or do, you know, and I know some women who are only children who do martial arts and, and, and fight. Right. You know? So, so I think that none of this is deterministic as we know.
+
+01:12:50.338 --> 01:13:19.966
+But let me just add, we did control for the sex of the sibling, older sibling. And we also asked about the parent's attitude just towards same-sex play. So how would you feel if your child, your male child, played with dolls? Would you be discouraging? Would you encourage? Because it has a lot to do with what's in the house. You know, if you say, did your child play with dolls? Well, what if there were no dolls? This is super interesting to me. I don't want to reveal too much, but I agree just because it's not
+
+01:13:20.098 --> 01:13:43.902
+It's just an N of one, but I grew up in a household where I have a sister, but then after a certain age, I received very strong messages about what sorts of play were gender appropriate. And I think I also just naturally defaulted to, there were a bunch of boys that lived in my neighborhood. They had older sisters, so all the sisters hung out together. It's kind of interesting, and all the younger brothers.
+
+01:13:44.034 --> 01:14:13.278
+pretty much hung out together. And the guys that weren't, didn't have siblings or had brothers for siblings. So there was a really strong divergence, but I grew up in the set that was in the seventies and early eighties when things were, let's just say culture was more dimorphic then clearly. I mean, there were television shows like all in the family, which the entire basis of the show was the wife going back to work and the husband being confused about it. I mean, nowadays people will go like, what? That's wild. I have to ask because I know people are wondering and I'm wondering what are some non-pesticide
+
+01:14:13.442 --> 01:14:40.094
+sources of phthalates that we have agency over, that we can take control over. Right. So let me correct you. It's not that sources of phthalates necessarily. Pesticides, there are phthalates in pesticides, but that's not the worst player in the story. If you look at the different classes of phthalates,
+
+01:14:41.122 --> 01:15:09.630
+exposures that are hormonally active, right? Pesticides are, phthalates are, bisphenols, like bisphenol A. BPA. BPA, certain metals are, there's the PFAS chemicals, there's all these different classes, right? And if we want to go into what in our daily life exposes us to these things, that's another story that,
+
+01:15:10.498 --> 01:15:38.846
+we can talk about, but they're going to be different depending on the class, right? So let's throw our arms around all of those for the moment. And I'll just ask you, given that you're an expert in this area, what are the top three to five sources of endocrine disruptors that we have agency over? And let's forget about pregnancy for the moment, since we're all out of the womb, if we're listening to this.
+
+01:15:39.458 --> 01:16:08.990
+Some people will be pregnant as they listen to it. But would you say it's drinking out of plastic bottles? Is it laundry detergent? Is it rubber tires that are cascading down on us through the air and we're inhaling them? I mean, presumably all of the above. But which ones that we have agency over do you think are the most, let's just say, concerning where people could make better choices? I would say...
+
+01:16:09.634 --> 01:16:36.606
+foodborne exposures, exposures in the food, in the food packaging, in the food storage, in the food, in the cooking utensils. We can go through the various things, but we're doing that all the time. We're eating all the time. We're getting food into us. And these are bringing in, in a very
+
+01:16:36.834 --> 01:17:02.334
+you know, in a way that we have some control over, some agency over, you know, we can make changes in our foods. Very close to that is drink, you know, food and beverage. So I, first of all, I've talked about this a lot. I've written about it in my book. I'm also, as you know, involved in a movie where in the movie that might be a good
+
+01:17:02.626 --> 01:17:24.670
+time to talk about that. What we do in the movie, the movie is about six couples that are infertile. Okay. They haven't been able to conceive in 12 months. That's the definition. And then a company that I work with, Million Marker out of Berkeley, has a trained staff that interviews them.
+
+01:17:24.802 --> 01:17:51.646
+not only them, but anyone who signs into this company, interviews them and ask them what they use. What do they use for their facial care? What do they use for their shampoo? What do they use for their cleaning products and their laundry detergent? And what do they store their food in? And on and on and on. So this is long inventory that they take of all products that people are aware of using. Okay. And...
+
+01:17:52.386 --> 01:18:21.694
+based on that, we identify likely bad players in the list. So how we do that is another, you know, we can talk about that later. But then in the film and in this little, it's actually an experiment that I designed and we're called an intervention. And we are then intervening in their exposures by changing out these things that they told us. So we will tell them,
+
+01:18:21.858 --> 01:18:46.878
+You know, don't use any product with fragrance, for example. That's a major source of exposure to phthalates. Any product. Any fragrance product. If fragrance is added- So no perfume, no lotions, soap with fragrance. Right. Even essential oil fragrances like lavender. Essential oil is a tricky- Right. It's a mix. It's a mix. Yeah. So I'm going to- That's guarded. But anything, you know-
+
+01:18:47.554 --> 01:19:17.086
+Spray deodorants, roll-on deodorants. Laundry detergent. Shampoo. Yep. If you can smell it, it's probably affecting your hormones. I'm so happy about this answer. Not because I have any stake in any company related to fragrance-free stuff, but I have a very strong sense of smell and I either love or hate smells and I hate synthetic smells. Like going through the duty-free, especially in a European airport with all the perfumes, and I'm just going to hold my breath. I know. It feels like I'm
+
+01:19:17.282 --> 01:19:43.006
+breathing poison. I know. Well- Well, you are actually. Yeah. Yeah. Yeah. In some sense. And most soaps, right. Yeah. Super interesting. So that's your primary intervention is to tell them get rid of anything with fragrances. No. Okay. That's only one thing we get rid of. So then we talk about how the plastics that they use to store their food, food storage containers, try to get them to get rid of those if they're made of plastic.
+
+01:19:43.106 --> 01:20:11.006
+We try to get them to get rid of their nonstick pans because of the PFAS chemicals that are in those and so on and so forth. So we go through all steps of their life and try to tell them how to make changes that will reduce their exposure. But presumably also changes, like if the man is obese, for instance, you might have him walking a bit more. No, no, no. You don't touch any of that? Well, you see, Andrew, if we did that, we would be mixing up
+
+01:20:11.138 --> 01:20:40.286
+two interventions. We would be mixing up an obesity intervention. I see. This is a study. I'm sorry. I thought that this group is missioned with helping couples get pregnant. No, no. Okay. This is a study to look at what happens if you make these product-related changes. Great. Just product-related changes. Exactly. Love it. Exactly. We would love to do and probably will do another study, separate one on obesity. And a lot of these chemicals, just to let you know, are obesogens. They increase obesity.
+
+01:20:41.026 --> 01:21:09.598
+There's a book out called Obesogens. You can read about them. And so, you know, it's very, you know, there is some overlap. So by reducing some of these chemicals that are in your food storage containers, you're also reducing obesogens. So it's not a clear, you know, yes, no. We gave them a box, each couple. I went to their house. Six couples around the United States with a big box. And in this box are these alternative products. And so...
+
+01:21:10.466 --> 01:21:38.206
+you know, straws and bamboo spoons and, you know, $500 per box. I think it was approximately. It had to do with their personal, you know, exposure. And then they made these changes. Now, unlike another study that you reported, they are at the end quite happy to keep doing this, by the way. They love this. They love doing this. It was so...
+
+01:21:38.402 --> 01:22:06.846
+It's gratifying to see that they felt in many, many ways their life got better. I'm pretty careful in what I... So I hesitate to say this because the data is not hard, but the impression is that they are happy, happier. They're sleeping better, they report more energy and so on and so forth, having made these changes. We need to follow that up with hard data. I'm not writing that.
+
+01:22:06.978 --> 01:22:26.206
+But I can say and I can write that they felt very positive and we're going to go back and see if they did continue. We need to do that. But at the end of the three months, and hopefully in six months, they are still making these changes in their lives.
+
+01:22:26.530 --> 01:22:55.390
+You collect data on whether or not they were able to conceive after having made these changes. Yes, we did, but I actually can't talk about that. Can't talk about it until the babies are born. Just kidding. And we did get their sperm count at the beginning and the end and had some very interesting data on that. Too early to report. Too early to report. Let me ask you this then. I appreciate the not wanting to share specific results until all the data are in and it's published.
+
+01:22:56.226 --> 01:23:19.038
+If somebody listening were having trouble conceiving for 12 months or more, are the sorts of replacement interventions, product interventions that you're talking about here, things that you would at least feel comfortable saying might be a good place to start or to explore? Absolutely. Absolutely. There's no harm.
+
+01:23:19.202 --> 01:23:39.966
+None of the changes are putting people at risk or doing anything that could be harmful to them. I'm sure of that. We're very careful. Some are going to be cost saving. I think that's where drinking out of plastic bottles far less, if at all. Just for reasons related to wanting to reduce waste, I
+
+01:23:40.098 --> 01:23:58.046
+I use a mason jar or I use these or ceramic, although you'll probably tell me that the lining on the ceramic mug might have endocrine disruptors. No, I don't. Okay, great. Okay. Well, then I'll keep drinking. But it's very reassuring to me that there are things that we can do in terms of cost-saving elimination or replacement of
+
+01:23:58.210 --> 01:24:26.174
+consumables that can improve endocrine status, maybe fertility also. If you can buy in bulk, bring a container to the store and fill it up, a glass jar, instead of buying something in plastic, you're winning on both ends because those bulk products are cheaper. One of the things I did with the couples was go shop with them. And we went around and we looked at various products. And for example, we looked at the produce and there was the option to buy freestanding products
+
+01:24:26.786 --> 01:24:50.238
+of lettuce, heads of lettuce, or wrapped up in plastic bunches of lettuce. And I said, let's compare the price. I actually didn't know until we did it. But the freestanding unwrapped lettuce was cheaper. And I think that's, you know, because that makes sense because there's a work involved in wrapping it up and in the container and so on. And so not only are you getting something that's more
+
+01:24:50.626 --> 01:25:18.206
+sick, but it's more expensive. When it comes to reducing BPA exposure and some of these forever chemicals that you mentioned, it seems like reducing fluid intake from plastic vessels is going to be number one. The primary source of BPA is in the lining of cans. So any drink or soup or anything that comes in a can is going to be...
+
+01:25:18.914 --> 01:25:48.414
+Any can, all can. Any can, unless it's a high-end, you know, elite company that's made the change from BPA to an alternative lining. And they'll say that. So, and by the way, BPA has some bad relatives such as BPS and BPF. And maybe you'd be interested in this story. So when it came out that BPA was estrogenic, which is what it is, and by the way,
+
+01:25:48.578 --> 01:26:13.982
+It's kind of the evil twin of phthalates because phthalates are anti-androgenic and BPA is estrogenic and phthalates make plastic soft and BPA makes plastic hard. You don't want either. Okay. So when this came out that this was a bad thing, the manufacturers started selling things that say BPA free. I'm sure you've seen that. The trick is that...
+
+01:26:14.466 --> 01:26:34.430
+Instead of BPA, they use BPS. Sneaky rats. And BPF. And these are chemicals. These are lookalikes. They're analogs and they're just as harmful. Sneaky, sneaky, sneaky. I'm not a conspiracy theorist, but it's just so dirty. It's so dirty. It's like, it's, you know, right now is a really important time
+
+01:26:34.722 --> 01:26:58.750
+be having this discussion because there's been a lot of movement on Capitol Hill and there's been a lot of movement on social media about trying to call attention to metabolic syndromes and highly processed foods and issues like this. And it's become unfortunately politicized. I mean, I hear this stuff and I just think to myself, the only good faith that we can really trust is our own desire to
+
+01:26:59.458 --> 01:27:25.374
+healthier and to have our families and friends be healthier and to try and consume and not consume things on the basis of that. My belief is that we can't trust any larger agency to either protect or harm us. It's like they're going to do what they're going to do. We just have to be informed as opposed to trying to dismantle the systems that led to this, which just seems like infinitely complicated.
+
+01:27:25.570 --> 01:27:54.046
+Maybe you can do that, but I'm far less optimistic. And now that I'm 49 years old, I can say things like, now that I'm 49, I feel like. But what you're saying is really important. If I look at a can, it says BPA free. It doesn't mean anything. It could have BPSs or other endocrine disruptors. Right. So drinking out of glass vessels, drinking out of ceramic vessels. Metal. Metal, but not cans, not metal cans, not aluminum cans. Right. Not cans, no.
+
+01:27:54.146 --> 01:28:23.230
+Goodness. Okay. You know, you can get a metal water bottle. It's not lined with BPA. Steel. Steel. Steel. And is it true that microwave safe means it just means that the plastic won't melt in the microwave, but it's- Do never, never put plastic in a microwave. So here's the story. The BPA phthalates, plasticizers are added to the plastic.
+
+01:28:23.586 --> 01:28:51.710
+but they're not chemically bound to it. So if you put anything in a container that has these chemicals in it, and then put it in a hot environment, they will come out of the plastic and go into the food. So if you're in a microwave or you put your bottle in the car and the sun comes in and it warms up the bottle and then the stuff goes into your water.
+
+01:28:52.002 --> 01:29:21.406
+You don't wanna mix these chemicals and your food, but if you do, the worst thing is to do it in a heated environment. I think about all the food that was consumed in college in the 90s and 2000s, like the cup of noodles with the styrofoam, the things in packaging. Stuff like that is pretty straightforward to eliminate once one understands and decides. Then we start getting into the more nuanced thing of like, okay, you can buy a really...
+
+01:29:21.826 --> 01:29:50.174
+nice tasting anyway, grass fed, grass finished steak, but it's wrapped in plastic. Well, or you can go to the butcher, but most people don't have time to go to the butcher. Or you can get strawberries at the farmer's market, blueberries at the farmer's market, which is what I try to do, but sometimes I buy strawberries at the market and they have those plastic flip top things. And of course I recycle the plastic. How bad is it if you rinse the strawberries off with good clean water that,
+
+01:29:50.370 --> 01:30:16.574
+were in the plastic container. We have to do that experiment. I don't know. Yeah. So I guess, so it sounds to me like not drinking out of cans, not drinking out of plastic bottles. It's going to be not microwaving plastic ever. And in general, just avoiding plastic intake. If you can afford it, buy organic. So you're going to avoid the pesticides and then phthalates are actually added to pesticides. And
+
+01:30:16.834 --> 01:30:45.662
+They're added because they increase absorption. So you know the, you want your pesticides to get into the plant, right? And to kill the bad stuff and insects. And so the same property of phthalates that makes them good for pesticides also makes them good for our hand cream. Just mentioning, absorption, absorption. Anything that's absorbed in the body is gonna have phthalates in it. And it also holds scent.
+
+01:30:46.498 --> 01:31:13.022
+color. So it's added to those scents and it's also added to your lipstick and to your color, you know, whatever you put on your face and so on. Anything that holds scent and color, that's going to be thallies. I'm sorry. I've been accused online of being a sunscreen truther. I'm not a sunscreen truther. I'm going to keep repeating this as many times as I can. I understand that UV damage to the
+
+01:31:13.122 --> 01:31:42.366
+skin can cause certain cancers. I get that. I agree with that. The data are pretty clear to me based on having researched this pretty extensively and talked to many, many people, including derm oncologists, that mineral-based sunscreens like zinc oxide and titanium dioxide, but certainly zinc oxide, are safer than the chemical sunscreens. A lot of people get upset when I say that and they say, well, in Europe, there's tons of evidence that the chemical-based sunscreens are safe. Okay, fine. You use them. I'm not going to
+
+01:31:42.690 --> 01:32:08.702
+The point being that UV damage is bad. There are ways to protect ourselves from the sun, including physical barriers like clothing, hats, et cetera. But pretty much all sunscreen that I'm aware of is designed to be absorbed. So what do we do if we want to get some UV protection from whatever kind of sunscreen we deem safe for ourselves?
+
+01:32:08.802 --> 01:32:37.438
+but we want to avoid these exposures to these other things. What do we do? Do we have to hunt really carefully for the right sunscreen? Yeah, I think that's a good idea. Are you familiar with Environmental Working Group? Is there another one out of the Bay Area? No. Oh, okay. I don't know actually where they are. They're pretty big. Sounds familiar, but I can't say I'm familiar with them. They have consumer guides. And in those consumer... So Environmental Working Group, I'm not part of them, but I...
+
+01:32:37.890 --> 01:33:01.502
+like their work. And in these consumer guides, you can put in the product and they have categories. You can put sunscreen, if we had time, we could do it right now. And then you can put the name of your sunscreen and it'll give you a number. And then if the number is less than 10, it'll tell you why. Are they independent of any funding? Yeah, they're totally independent. That question will probably come up for you too.
+
+01:33:02.146 --> 01:33:31.550
+People will say, where did she get her funding? You know, people get very suspicious about this. I can tell you that. Yeah, that would be great. Yeah. So I am a tenured professor at Mount Sinai. Get some salary there because I'm only part-time. And I have a funder, one funder, who funded my sperm decline, second sperm decline analysis and the publicity of my book. So it's a foundation. So it's philanthropy.
+
+01:33:31.906 --> 01:33:55.358
+Yeah, it's philanthropy. Yeah. And it's actually not a lot of money. And so there's no reason to think that anything that you're telling us is linked to like the food industry or an alternative product or anything. I'm very, very careful not to endorse any product because I don't want that complication. Yeah. Thanks for clarifying that. I wasn't suspicious. But I think nowadays people have just been taught to
+
+01:33:55.650 --> 01:34:23.838
+appropriately so. They've been taught to say, well, wait, where does this funding come from? Because a lot of the studies that led to the food pyramid, for instance, people were under the impression that somehow that was biased by companies that were funding the work. And I don't know. I haven't done the forensics on that. I don't have the time or the energy. All I know is that when it comes to what people eat, when it comes to what people put on their body, it becomes a very personal thing.
+
+01:34:24.066 --> 01:34:53.342
+and it's woven in with a lot of psychological and emotional issues. Yeah. Yeah. Yeah. Okay. What are a few things that you do and or avoid in light of what you know about these endocrine disruptors? And by the way, it goes without saying that you're in spectacular cognitive and physical shape for any age, but it's really remarkable.
+
+01:34:53.506 --> 01:35:23.230
+feel comfortable sharing this because someone else published it online recently. You are soon to enjoy your what birthday? 89th. 89th birthday. Amazing. And with all the talk about longevity, cognitive and physical longevity, everyone's thinking, including me, like, what does she do? Well, she avoids all these endocrine disruptors. And she has a wonderfully rich life of curiosity and other things. But yeah, what are some other things that you do and avoid in light of what you know, for which there may or may not be a
+
+01:35:23.490 --> 01:35:50.750
+controlled study, but I think we're all just curious. We'll frame this as what you do. So water, our water, I worry about the water. I studied water for a long time in my past life. So we actually distill our water. So we have a tabletop distiller. My husband, Steven, cleans it out. There's a lot of gunk in it, by the way, even though it's San Francisco that has clean water, at the end of the day, after you've distilled the water,
+
+01:35:50.882 --> 01:36:11.422
+is a lot of good. So you distill the water, so this is not reverse osmosis. No, distilling. Okay. Yeah. So it's steam distilled and then it condenses in a glass container. And then we put that in glass containers in the fridge. And it tastes really good, by the way. Really, really. Somebody was just over and he said, this tastes like melted snow.
+
+01:36:11.618 --> 01:36:41.246
+I thought it was lovely. And you use that for drinking, for coffee, for tea, for cooking too? If you make rice, you're using distilled. Actually, no. No. But for ice cubes and whenever I can think about it. We can't use too much because you'd be too busy. You always did. But he does it once a day. It's just the two of us. So water is important. We try to leave our shoes at the door. Tell me about that one. Well, dust that you bring in contains a lot of the...
+
+01:36:41.346 --> 01:37:09.950
+particularly the PFAS chemicals. So that's actually, I'm not 100% good on that, but we try to do that. And I'm careful with the products I put on my face. I check them out the way I suggested an environmental working group. And I go to the farmer's market. I always buy organic, always buy organic. But I know that's a cost issue for some people.
+
+01:37:10.178 --> 01:37:33.598
+And an availability issue for some people. But in San Francisco, you can do that. Some areas where I don't do more of what I should, I think, I'm starting to be aware of the chemicals in clothing. We haven't talked about that. But it turns out there's a lot of, particularly in, it's a problem for workout wear, where
+
+01:37:33.730 --> 01:37:56.990
+because you're absorbing so much, you're sweaty, you're hot, and you're bringing these chemicals into your body. And that may be one of the interventions that we do, get a bunch of athletes to use safe clothing and traditional clothing and see what their body burden is. That's how you know. So erring toward cotton as opposed to synthetic materials? Synthetics, right.
+
+01:37:57.186 --> 01:38:13.918
+Right. And the dyes are important. So you don't want, you want maybe plant-based dyes. It's not my area of expertise. I have a colleague who I work with on this and I'll go with her advice. But I'm just saying that's another area that I think people will soon be paying attention to.
+
+01:38:14.018 --> 01:38:41.502
+There's also the area that is much more difficult, which is what's in building materials and furniture. But a lot of these PFAS and the flame retardants are in our furniture and in our building materials. And trying to think about how to build, I was asked about safety in a new village that's being built in California, by the way. And it's really challenging to think about if you were going to do this right and you were going to build
+
+01:38:41.698 --> 01:39:10.686
+town that was toxic free, how would you do that? I'm thinking about that. I'm thinking about the opener of the Simpsons and doing the exact opposite where like in the opener of the Simpsons, there's like a three eyed fish and there's the chemical plant. And I'm just thinking, you just look at the opener of the Simpsons, you do the inverse of everything that's there. The inverse of everything that's there, including alcohol intake, you know, which is robust on the Simpsons.
+
+01:39:10.818 --> 01:39:40.446
+But interesting. So and when it comes to food sourcing, like non-fruit, non-vegetable food sourcing, is there anything we can do? I mean, it's so hard for people to get eggs from farms. I mean, you can if you go to a farmer's market, but this stuff can get pretty tricky, pretty expensive. And most people listening are not going to be, you know, living in Sonoma where they might have a neighbor that has chickens or something. Yeah. It's a hard problem.
+
+01:39:40.642 --> 01:40:08.798
+It is a hard problem. And I think maybe people asking for it more would help. I don't know. I mean, in San Francisco, I'm lucky because I can just get, you know, just on the phone, fresh direct order, and I know it's okay. But I know that's not the case everywhere. So I think being aware, honestly, is a really big step. If you are aware that this is something you want
+
+01:40:09.090 --> 01:40:30.046
+change, you will find ways to change it. It's interesting because a few years back, there was a lot of discussion about dyes in children's toys, in particular toys from overseas, right? Remember, kids are not... Young babies are always gnawing on stuff and teething. And there was a lot of attention like, hey, like what's in these sippy cups? And my understanding...
+
+01:40:30.146 --> 01:40:55.838
+is toys and sippy cups. And my understanding is that BPAs were banned from sippy cups. Phthalates. Phthalates, excuse me. Based on my work. Based on your work. Thank you so much. Thank you for the clarification truly and for the work that led to that. We have this innate, thankfully, innate reflex to protect our young as does every, most every species. Thank goodness.
+
+01:40:56.194 --> 01:41:25.534
+We know that baby skin is more absorbent than older skin. We know. And so there are literally laws in place and restrictions in place to make sure that some of this stuff is minimized in young kids. But then we sort of after age 12, we're kind of like, OK, well, it's a free for all. It depends on your budget where you go. And so we can't rely on governing bodies to do this. But I think it's a useful conversation, especially given your relationship to Scandinavia, which is a fun one to elaborate on, to illustrate that.
+
+01:41:26.434 --> 01:41:54.430
+of the discrepancy between the US and Europe. What sorts of chemicals are banned in Europe, in food, in lotions, et cetera, that you're aware of that are prominent here in the US? Maybe that's a good filter to place some of this choice making through. Europe has had a policy called reach and under reach
+
+01:41:55.106 --> 01:42:22.366
+you have to show that a chemical is safe before it's put into the marketplace. So the way our system is here, it's put in the marketplace, and then if somebody gets worried about it, they might do a study, they might find harm. Remember how long it took me to find that phthalate connection? It was 10 years. Two studies, 10 years. $10 million, by the way. So if you're going to wait for that,
+
+01:42:23.490 --> 01:42:43.070
+I don't know, given the number of chemicals out there, 80,000 or more, forget it. So I think the REACH policy of testing before something's put in the market is making a big difference in Europe. And I think that's one reason why they're much better off. Are those animal tests?
+
+01:42:43.362 --> 01:43:12.670
+or animal and human tests that they're doing over there? Whatever defines safety. It depends on the chemical. It depends on what the product is. I can't answer that in general. So that might be a good avenue for changing legislature here, right? To install something similar to REACH. Absolutely, but it's not going to happen, I don't think. No? No, because there's too many forces against that. It's very, very hard for manufacturers to make changes. I'll give you one example.
+
+01:43:13.410 --> 01:43:41.758
+So you know that, you might not know, but should know that phthalates are very prevalent in the hospital setting. If you think of a tube, to dialysis, to chemotherapy, to IV, it's all phthalates, right? And that's going into your body. And there was recently a bill passed in California that DHP could not be in IV bags. It's fantastic, a success. In the actual bag?
+
+01:43:42.146 --> 01:44:11.390
+The bags could not contain these endocrine disruptors. DEHP, yes. DEHP specifically. DEHP. Diethylhexyl phthalate, the most anti-endrogenic phthalate. So that was a great step forward, but that's like one chemical, right? In one product. And that was a battle. So you see how hard it is to do this. Extremely hard. There's a company, B-Bron, which makes hospital products, and they...
+
+01:44:11.618 --> 01:44:40.926
+very forward thinking and they set up a factory in Florida to make alternative IV bags out of another product, polyolefin. And the problem is that we're not sure about the safety of polyolefin. So it gets really difficult. You can say remove DHP, but now we scientists have to say, what does it mean for a chemical to be safe? And we don't know that.
+
+01:44:41.954 --> 01:45:11.102
+I don't mean to disillusion you and your listeners. No, that's okay. I mean, I- That's a huge challenge that we're up against. We know it's safer. We know it's safer. And we know what the bad actors are. And we know the things we don't want to be exposed to. But we have to be careful when we think about what do we want to put in instead. Does that- Yeah. I'm thinking about this. A former president of Stanford, who has also happened to be a family friend years ago, he's since
+
+01:45:11.234 --> 01:45:37.854
+asked Don Kennedy when he retired as president at Stanford went in. My understanding is that he went and directed the FDA. And I was just thinking to myself, like, when did this happen? Because I know he was super into health. He was like an avid runner. He was very fit, well into his seventies. Yeah. Hip replacement kept running or maybe it was knee replacement. I don't know. The guy was obsessed with health. And so I don't think that there's
+
+01:45:38.338 --> 01:46:03.166
+there's a lack of interest in health at the level of things like the FDA. And, but there's clearly a problem. And I'm just trying to think of solutions. And it seems to all boil down to what we can take control of in our home. Like when we go to a restaurant, it's challenging to know what they're doing in the kitchen. And at some point it becomes neurotic to
+
+01:46:03.618 --> 01:46:30.718
+Although I know people that won't go to restaurants where they use seed oils. There's this whole new thing cropping up about avoiding seed oils, but maybe they're more significant issues. Who knows? The seed oil crowd is pretty intense. And I like olive oil anyway, so I err to that. But I think if people are interested in limiting their exposure to these endocrine disruptors, one of the key questions that's going to come up again and again, especially in light of PCOS and sperm counts is...
+
+01:46:31.970 --> 01:46:59.326
+We can't control what happened to us during pregnancy. But once we have some sense of agency over what we put into our body and how we put it into our body, do you think that there's plasticity and resilience to this system? So, God forbid, if somebody was exposed to a lot of these things early on, by making changes, can they rescue themselves to any degree? No.
+
+01:46:59.426 --> 01:47:27.006
+So it's really just dependent on what your parents did. Yes. That's not to say that your own exposure cannot change things further and make things worse. But here's a fact. If a male's mother smokes when he's in the womb, then he has a, this is a Danish study, by the way, 50% reduction in sperm count. If his mother smoked while he was in the womb, how much smoking are we talking? I don't know. I don't remember. Okay.
+
+01:47:27.362 --> 01:47:56.606
+But the reason I bring this up is because there's nothing he can do to change that. Okay? If he smokes as an adult, he has, I think, a similar reduction in his sperm count. He can stop and his sperm will be restored. He can get his sperm health back. But whatever happened in the womb stays in the womb, if you will. It's developmental. It's not going to, you know, it's going to be there for life. And that's true for the brain as well.
+
+01:47:56.706 --> 01:48:17.534
+I think anybody who's thinking of conceiving a pregnancy or pregnant has a responsibility to really learn how to reduce their exposure because these things are, by the way, passed on for several generations. It's your child and your child's child because the germ cells...
+
+01:48:17.986 --> 01:48:42.206
+your grandchild are going to be carried within your child. So germ cells are not germs as in infectious germs. It's the cells that will produce the egg and sperm that germinate, hence the word germ. So it's a huge responsibility. And I think people should take it very seriously that they're going to be affecting the
+
+01:48:42.658 --> 01:49:09.790
+health of subsequent generations. Some labs say it's seven generations. I don't know if that's true, but certainly three generations are affected. And so I should mention my book. Can I mention that? Yeah, please. I'll mention it. Yeah, I believe I mentioned it in my introduction. Yeah. So in Countdown, two words, by the way, because if you say countdown one word, you won't find it. But Countdown, we have two chapters on things you can do.
+
+01:49:10.210 --> 01:49:37.630
+very practical things you can do. And also websites you can go to and links you can go to. Now this came out in a while ago, so 21. So there are many more things now, but I think it's a good start. How lonely are you in this expedition of identifying endocrine disruptors in food, in pesticides, in the sorts of things you're talking about? Is there a whole field of this, of
+
+01:49:37.730 --> 01:50:06.078
+of excellent people? Are you a small team of people that are against the grain? I mean, I confess, I don't know many people doing the sorts of work that you're doing, but you're the most public facing and prominent. And I guess my question is, is the NIH funding a lot of this sort of thing? Absolutely. We're an army and it's not, and it's international. And there is now a global organization
+
+01:50:06.306 --> 01:50:35.902
+Plastics Treaty under negotiation, by the way. Tell us about the Plastics Treaty. People are trying to create, get passed by various countries, an international plastics treaty. I don't want to talk a lot about it. I'm not involved in that process. But in the process, you could see, if you looked into there, hundreds of scientists and concerned citizens and activists and, you know,
+
+01:50:36.994 --> 01:51:04.510
+in legislation who are working to specifically on the chemicals and plastic. Now, plastic is really a bad actor. But it is not the only bad actor. So I want to just mention that plastic is really important, but pesticides are not plastic and so on. So there are many other classes that you have to worry about, but certainly controlling our exposure to plastic is huge.
+
+01:51:04.866 --> 01:51:33.854
+You asked about scientists in this area. Yes, there's a huge amount of science going on in this. And it's funded by NIH and it's funded by the EU. And primarily, I think those are the two funders of Scandinavia has funding within Scandinavian countries. So there's a lot of work and a lot of very good people working really hard. But it's a huge problem. And it's been here.
+
+01:51:34.050 --> 01:52:02.398
+since, well, plastic started to rise in popularity in 1950. So we have like 75 years to battle against and it's not going down anytime soon. Lifespan is increasing pretty significantly, presumably in large part because of the reduction in smoking. And control of infectious disease. And control of infectious diseases. But lifespan is definitely increasing.
+
+01:52:02.562 --> 01:52:32.542
+whereas the use of plastics has clearly increased. And so I guess one could argue that we're living longer, but we are less robust than we were, less reproductively competent. The people that are reflected in that long lifespan were not necessarily exposed early in life, which is when it's most critical. So I was born in 1936. There was no plastic then.
+
+01:52:33.282 --> 01:53:02.142
+was no, you know, and there were other things, of course, but not as they are today. So I don't think that you can make the inference that because we're living longer plastic growth, you know, the growth of the plastics in the trees somehow driving that longevity. Absolutely not. Absolutely not. I think what it's driving is decrease in fertility. And what's happening is that the shift in populations is pretty dramatic. We're getting
+
+01:53:02.370 --> 01:53:29.822
+You know, the pyramid used to be like this. I'm making a triangle with my arms showing very few people on top and a lot of people on the bottom. But what's happening is that that's getting inverted. So we're getting more and more people on top and fewer and fewer people on the bottom. Birth rates are way down. Birth rates are way down. And so this is an enormous problem for societies because the people in that small support group at the bottom can't...
+
+01:53:30.306 --> 01:53:59.102
+the society to support the large growth on top. You see what I'm saying? Is this true in other countries as well? Yes, absolutely. Absolutely. It's all over the world. And the decline in fertility, in my mind, is probably, well, one of the biggest challenges we're facing now because it's everywhere. It's very acute. And there's only limited things we can do to
+
+01:53:59.650 --> 01:54:27.614
+to counter it. There's a wonderful website, it's by the World Bank, put out by the World Bank. It's called Fertility Data. And if you go in there, you can see what is the fertility rate every year, but you can plug in a country or a year and see what the fertility rate in each country in the world each year, and you can see that. And what you see is that a decline,
+
+01:54:27.938 --> 01:54:57.790
+About the same rate as sperm decline, by the way, about 50% in 50 years. And the critical point for fertility is two. So what's that mean? That's called replacement. And that's two people replace themselves with a total fertility rate of two. Actually 2.1 because you have a little bit of loss. But 2.1, you're good to go, society. When you fall below that, you're shrinking. And there are many countries in the world
+
+01:54:58.050 --> 01:55:25.758
+are below that, including the United States. And for example, the worst I've seen is actually South Korea, which is at 0.78. Wow. Japan is at 1. Wow. So large parts of the world are just not replacing themselves. And why that is, is maybe another discussion, or we can talk about it. I don't know if you want to go into that. But it's not just sperm count, for sure.
+
+01:55:26.338 --> 01:55:51.774
+Along those lines, let's talk about egg count and quality. You mentioned the PCOS results earlier. Before we were on mic, you mentioned an interesting study that you did about the use of electric blankets and assessing whether or not the use of electric blankets had impacted egg number or quality in women. And the answer was? Actually, what we looked at in women, I'm sorry,
+
+01:55:51.874 --> 01:56:15.486
+correct you, but it was the outcome of their pregnancy, their fertility, and if they got pregnant, how did that turn out? Excuse me. Thank you for that clarification. But I'm sure there'd be a lot of other studies that have looked at that. I just have been away from that field for a long time. But so far, I don't see convincing evidence that the use of cell phones or other
+
+01:56:15.810 --> 01:56:44.574
+exposures to electromagnetic radiation are affecting our pregnancies and our fertility. That's not to say it's not happening, but I have not looked at it. And I don't like to make statements about things I haven't looked at. My understanding of the cell phone data for sperm count and motility, aka quality, is I discussed a meta-analysis covering this on the podcast previously, is that there are some heat effects
+
+01:56:44.802 --> 01:57:13.214
+of cell phone use and keeping the phone in the pocket that may, I wanna be careful here, impact sperm count and motility quality, but direct effects of EMFs on sperm, there's no evidence that it is disrupting sperm, at least to my knowledge. I honestly have to say, just gonna say I don't know, but I do know that heat is related to fertility and sperm count. Right.
+
+01:57:14.210 --> 01:57:32.542
+You can look at the birth rates as a function of the month of conception. And you can see that, for example, in warm months, in warm climates, there's less. Heat does play a role, but how much that's tied to cell phone use, I think that's something that's now
+
+01:57:32.642 --> 01:57:56.830
+under investigation by a lot of groups, and we'll see what they find. Yeah, the data on sitting more than a few hours a day, on having legs that are very large as a consequence of obesity, or even just legs that are large, heating the scrotum, those data are fairly, I would say, solid in terms of the relationship to reducing sperm count. Heat is not good for sperm, which is why the
+
+01:57:57.026 --> 01:58:19.038
+has the features that it does to move the testicles further or closer to the body. Getting back to egg count and quality, there's some evidence that girls are entering puberty earlier, but that women are also undergoing perimenopause menopause earlier. Do we know what
+
+01:58:19.330 --> 01:58:47.678
+is the consequence of? There are several new papers actually on the menopausal age showing relation to a number of chemicals, but I can't quote them to you right now. I don't remember which class it was that they looked at, but I think that's right. I think there is growing evidence that earlier, fewer... It's also called premature ovarian failure, so that women are just not...
+
+01:58:48.322 --> 01:59:18.206
+producing the eggs as long as they used to. But I just want to say something about the fertility. Can we go back to fertility? So when this comes up, and I'm sure you've seen the literature, there's a lot of literature on this that say fertility is going down, fewer children are being born. A, people say, well, that's a good thing because it's less of a load on the planet, which is another discussion. And
+
+01:59:18.306 --> 01:59:45.598
+Then they say, well, this is due to choice, that people are choosing to have fewer children, and they're choosing to delay childbearing until they're no longer as fertile. They're using more contraception. Women are more educated. They're entering the workforce. All of these social factors are given as the reason for decline in fertility. And I just...
+
+01:59:46.050 --> 02:00:11.646
+I need to point out whenever I hear this that it's not just human fertility that's declining. The number of species that are becoming extinct is increasing rapidly. And there's been for at least 40 years evidence that those pesticides that affect us are affecting animals as well. And so
+
+02:00:12.002 --> 02:00:40.734
+The decline in fertility in non-human species cannot be attributed to delayed childbearing or use of contraception or entering the workforce. Or rent crisis, right? And it's interesting because we usually hear first about species that are about to go extinct, that are badly endangered. I don't know what the proper language is, but it was about to go distinct. Like the Florida panther. Or we hear that there are these species that like there's
+
+02:00:40.962 --> 02:01:07.774
+very small subset of them left. The black-footed ferrets in Montana. I think one ferret, his name is Scarface, sired something like 300 litters that then led to the, eventually they started out breeding, because if you do too much inbreeding, obviously it's not good. But then they were able to at least partially recover, maybe fully recover those populations. And people forget the domino effect of these ecosystems when one species is compromised. Like when the,
+
+02:01:07.906 --> 02:01:35.454
+Black-footed ferrets, I know it might sound kind of silly, but were compromised in terms of their populations. The prairie dog population went up. The grasses were getting eaten far more. And then there's all these downstream consequences on bugs and I'm not an expert in this, but one doesn't have to be an expert to understand, like, you move one pin here and the whole web moves. And so, or you move one node and the whole web
+
+02:01:35.554 --> 02:02:05.342
+And that's what nature has been doing for millions of years, right? But at some point, it is conceivable, no pun intended, that we are going to be the species on the endangered species list, right? I mean, that's not like an outrageous sci-fi movie. No, no. That's right. Like at some point, humans might be added to the endangered species list. With the exception that we have, we're very clever. And so we found a lot of ways to do medically assisted research.
+
+02:02:05.634 --> 02:02:35.326
+conception. Right. ICSI, the literally gentle grabbing of one sperm and forcing it to fertilize the egg is something we've covered on this podcast in our fertility episode with Natalie Crawford and a solo episode that I did. There are questions that people have, reasonable questions about whether or not the offspring of those types of scenarios are the same as the genetic
+
+02:02:35.490 --> 02:03:04.798
+probability experiment, as you mentioned before, of having 200 million sperm and then letting nature select the one that is most robust in that environment. Yeah. And the number of technologies is increasing. We're a very clever species. And for example, I don't know if you've heard of gametogenesis. So it is now possible to create an embryo from a sperm cell
+
+02:03:05.186 --> 02:03:29.566
+From a skin cell, a skin cell can produce a sperm cell and an egg cell. So you give it the right transcription factors and you can... So this is kind of interesting, exciting, and scary, right? This is like the... What is it? I think the vultures, the females... There's some way in which two female vultures or maybe a single female vulture can...
+
+02:03:30.050 --> 02:03:56.798
+create offspring in the absence of a male. There's also a three-party IVF. I don't know if you're aware of this. This was developed where there's a mitochondrial disease. You can take the two eggs, one from the intended mother. You take the nucleus, so you get the DNA. You put it into an egg of somebody where the DNA has been removed, but where the spindles, which are rich with mitochondria, are from typically a much younger
+
+02:03:56.930 --> 02:04:26.366
+And then you use a sperm. So it's actually three parents. It's the spindle of one mom, the DNA of another mom, and a sperm. They do this in the UK for mitochondrial disease. It's still illegal in the United States as far as I understand. And it's done in other countries. And in theory- Legal issues must be- Yeah, but in theory, this would allow women of any age, provided they still have eggs, to have their DNA propagated forward because they could-
+
+02:04:26.466 --> 02:04:52.926
+The DNA can be put into a younger egg that has the spindle quality that allows for the production of more cells. I mean, this can and has been done in humans. Yeah. Yeah. So we're, I mean, you and I won't think of all the things that will be developed in the next 10, 20 years to meet the challenge of declining fertility by ordinary animals.
+
+02:04:53.698 --> 02:05:18.814
+I mean, I think that's how we're going to solve this problem for us. We're going to just be smarter and smarter about how to do a medically assisted conception. And then the question is going to be, and it'll take time to know this, is whether there are effects in the offspring, adverse effects in the offspring.
+
+02:05:19.202 --> 02:05:42.782
+it's a little tricky because for example if you use the sperm of an infertile couple and you see let's say the son is subfertile that's born that way but you do it you know in a test tube or whatever and then you can say well maybe that's because the father was infertile and he's got inheritance from the father from that you know you know what I'm saying so you can't
+
+02:05:42.882 --> 02:06:12.766
+know whether the, if you see an adverse effect in an offspring, you have to be very careful that it's not something that they've gotten because of problems that led the couple to seek assisted reproduction. You see, you follow me? Yep. Yeah. Yeah. Super challenging, fascinating problem. So in anticipation of this sit down together, I put a question out on X, formerly known as Twitter. I let
+
+02:06:13.122 --> 02:06:42.270
+People know that I was hosting an expert in endocrine disruptors, in phthalates and pesticides, reproductive implications, et cetera. And I asked for questions and they came up with a huge number of excellent questions, many of which you've already answered. Things like, is tap water safe? What can we do to our tap water? You mentioned you distill water. My understanding is that reverse osmosis provided there's mineral
+
+02:06:42.466 --> 02:07:12.350
+remineralization, excuse me, difficult word to say, can also be effective, et cetera. There were a lot of questions about cosmetics and laundry detergents. I don't know if we discussed laundry detergents. What do you use in terms of laundry detergent or that is presumably one can find? I don't even remember. Okay. Don't go by my products. Okay. For one thing, I'm not going to be pregnant anytime soon. No. The...
+
+02:07:13.698 --> 02:07:37.470
+believe there are some solutions related to the, like instead of bleach, people can use hydrogen peroxide. I can't speak about specific products, actually. Okay. You know, I can tell you who can, and you might like to talk to her. So you remember I mentioned Million Marker, the company that did the inventory? Not the company, well, they are a company, but so they, look at Million Marker, I think you'd be interested.
+
+02:07:38.050 --> 02:07:59.774
+And the person who runs that, Jenna Wah, is a Chinese American and a friend of mine, and we're going to be writing a grant together. And she participated in the film. So our participants sent their- So if you go to Million Marker, you log on, and if you agree,
+
+02:07:59.938 --> 02:08:25.598
+pay whatever it is, $199, I think. You send your urine in. They give you a kit. You send your urine in. And they test it for all these things in your urine. So you know what's in your body. You might want to think about it. It might be interesting. And then if you pay another $100, I think you get this counseling and so on, blah, blah, blah. So you can see the different levels. But she knows all about products. I don't know about products because it's a moving target. And also, I don't like to...
+
+02:08:26.370 --> 02:08:49.342
+about product names because it sounds like I'm endorsing them. Yeah. Right. And we won't expect you to give product names and I'll follow your recommendation that you just gave. Somebody asked about food dyes, just generally the dyes in foods. I saw an incredible study recently that Science Magazine covered. So Science Magazine, very reputable, of course. Yellow number five, I forget what the
+
+02:08:49.570 --> 02:09:13.086
+I don't know what Si's name is, but the thing that makes Cheetos really bright, they put it on the bellies of adult mice and it literally makes them translucent. Oh yeah, I saw that. You can see the organs. I saw that. It's wild. It's so scary. It's so scary. I sent it to Rogan and he was like, whoa, his version of whoa. I was like, I also said, whoa. He probably said, holy shit, right?
+
+02:09:13.218 --> 02:09:41.950
+No, he said- Or worse? No, no. I'm not going to say what it said, but he didn't curse. There were a number of questions about household items. Again, we're not looking for specific products, but for instance, soaps, body wash, cleaning sprays, floor cleaners, laundry-related cleaners. Do any or all of these contain endocrine disruptors unless one is careful to find the ones that count? Okay. Receipts, how serious-
+
+02:09:42.210 --> 02:10:11.550
+Should we be concerned about the BPAs and other endocrine disruptors on receipts? Yes. And my suggestion is just ask for an electronic receipt and then you don't have to deal with it. But they're definitely absorbed into your body. Any impact of endocrine disruptors of the sort we've talked about today on the thyroid system? Yes. Presumably in the bad direction. Yeah. I mean, this is an interesting point. Let me just say another word about it.
+
+02:10:11.650 --> 02:10:41.406
+So there was an ongoing study in the Faroe Islands off Denmark, and they studied PFAS chemicals and showed that people who fished there, there were fisher people, and they ate the fish, and they were getting high levels of PFAS in their body and had, and this is published, effects on their immune response. So
+
+02:10:41.634 --> 02:11:07.230
+My concern, and I don't know if anyone's looked at this, is given everyone's vaccination, is our response to vaccination now altered by these chemicals? I don't know, but I think it's a really interesting question. But there is a whole field of the effect of these chemicals on the thyroid system, and there's a lot of evidence that it's adverse. Can these endocrine disruptors be detoxed
+
+02:11:07.362 --> 02:11:35.422
+the body. Is there anything that we can do? What's the quickest ways? Things like sweating. Are there ways to improve liver clearance of these endocrine disruptors? The answer to that depends on the class of chemicals. So the chemicals that are water soluble, in particular the phthalates and the bisphenols, leave the body in a matter of hours. You don't have to do anything. You just have to stop taking them in, right? The
+
+02:11:35.586 --> 02:11:58.270
+chemicals, the PFAS chemicals, pesticides are... So it has to do with how they're handled by the body. Are they put into the... If they're water soluble, you pee them out. If they're fat soluble, they're going to be around for a long time. So it just depends on the chemical structure of the compound.
+
+02:11:59.202 --> 02:12:27.774
+was a question about nonstick pans. You covered that earlier. If someone had to pick between nonstick coated pans versus seasoned iron pans. No question, iron. There's no risk associated with seasoned iron pans. A number of other questions such as why does Europe have such more stringent laws, et cetera. Lots of questions about atrazine, questions about ointments and fragrances you've covered. And I must say that I
+
+02:12:28.066 --> 02:12:48.478
+I scroll through these hundreds of questions, if not more, you've done an amazing job at clarifying for us what's known, what is not known, and essentially where it's a probably should avoid, definitely avoid. And look, we just
+
+02:12:48.802 --> 02:13:18.430
+just don't know. Right. Well, you know, I have to distinguish between we just don't know and I just don't know. I mean, there are many things that I don't know. Sure. It's a huge field. So, you know, maybe with some, you know, ask the question of ChatGPT. Yeah. We'll be certain to ask ChatGPT and we will be certain to ask other experts in these areas. But I just want to make very clear that
+
+02:13:19.938 --> 02:13:49.470
+I and everyone listening and watching truly appreciate the work that you've been doing in this area for a number of years. We're so grateful that you took that airline flight with this chemist that you mentioned, that you stored the urine of those pregnant women, that you analyzed it, and that you've gone down this path of exploring things that are really disruptive to our health and potentially to the existence of our species as a
+
+02:13:49.826 --> 02:14:18.750
+As we talked about earlier, there is the possibility that we go extinct, not because of a meteor, but because we fail to replace ourselves and that we fail to replace ourselves because we destroy our biological ability to replace ourselves. I think it's hard for people to internalize that very real possibility because we feel ourselves sitting in traffic with thousands of other people and go, there's too many people, right? This kind of thing. But I want to thank you for the work that you've
+
+02:14:19.138 --> 02:14:42.430
+doing and continue to do for your willingness to write books and to educate the public on podcasts like this and others because these are topics that are pretty emotionally loaded for people. I don't think anything gets people quite as inflamed as the idea that what they've been ingesting and exposed to, especially in terms of consumables that they've spent their hard-earned money on,
+
+02:14:42.690 --> 02:15:07.262
+been harming them and their offspring and generations to follow, that there's something that really lands deep in that way. But you've also offered us a lot of possibility and a sense of agency over these things. And I love that you weave your math and statistics and probability theory background into all of this, because what comes through is
+
+02:15:07.490 --> 02:15:28.894
+intense curiosity, intense rigor, and a real desire to do good. So thank you so much for joining us and please come back again as you make more discoveries. It's been really fun. Thank you for joining me for today's discussion with Dr. Shauna Swan. To learn more about her work and to find a link to her excellent books on these topics, please see the links in the show note captions.
+
+02:15:29.058 --> 02:15:56.798
+Also, I should mention that if you're interested in learning more about microplastics and endocrine disruptors, I did a solo episode of the Huberman Lab podcast on that topic, and that is also linked in the show note captions. If you're learning from and or enjoying this podcast, please subscribe to our YouTube channel. That's a terrific zero cost way to support us. In addition, please follow the podcast on both Spotify and Apple by clicking follow on Spotify and Apple. And on both Spotify and Apple, you can leave us up to a five-star review.
+
+02:15:56.962 --> 02:16:03.486
+Please also check out the sponsors mentioned at the beginning and throughout today's episode. That's the best way to support this podcast.
+
+02:16:03.586 --> 02:16:33.470
+Also, if you have any questions for me or comments about the podcast or guests or topics that you'd like me to consider for the Huberman Lab podcast, please put those in the comment section on YouTube. I do read all the comments. For those of you that haven't heard, I have a new book coming out. It's my very first book. It's entitled, Protocols, an Operating Manual for the Human Body. This is a book that I've been working on for more than five years, and that's based on more than 30 years of research and experience. And it covers protocols for everything from sleep to exercise, to stress control,
+
+02:16:33.634 --> 02:16:53.630
+protocols related to focus and motivation. And of course, I provide the scientific substantiation for the protocols that are included. The book is now available by presale at protocolsbook.com. There you can find links to various vendors. You can pick the one that you like best. Again, the book is called Protocols, an Operating Manual for the Human Body.
+
+02:16:53.922 --> 02:17:17.854
+If you're not already following me on social media, I am Huberman Lab on all social media platforms. So that's Instagram X, formerly known as Twitter, threads, Facebook, and LinkedIn. And on all those social media platforms, I discuss science and science-related tools, some of which overlap with the content of the Huberman Lab podcast, but much of which is distinct from the content covered on the Huberman Lab podcast. Again, that's Huberman Lab on all social media platforms.
+
+02:17:17.954 --> 02:17:47.920
+if you haven't already subscribed to our Neural Network Newsletter, our Neural Network Newsletter is a zero-cost monthly newsletter that includes podcast summaries, as well as protocols in the form of brief one to three-page PDFs. These protocols cover things like deliberate cold exposure, deliberate heat exposure, how to optimize your dopamine, how to improve your sleep, all available at zero cost. To access these newsletters, simply go to HubermanLab.com, go to the top right corner menu, scroll down to Newsletter, and enter your email. And I should mention that we do not share your email
+
+02:17:47.920 --> 02:17:57.822
+with anybody. Thank you once again for joining me for today's discussion with Dr. Shauna Swan. And last, but certainly not least, thank you for your interest in science.

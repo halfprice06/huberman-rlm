@@ -1,0 +1,232 @@
+WEBVTT
+
+00:00.226 --> 00:29.150
+Welcome to Huberman Lab Essentials, where we revisit past episodes for the most potent and actionable science-based tools for mental health, physical health, and performance. I'm Andrew Huberman, and I'm a professor of neurobiology and ophthalmology at Stanford School of Medicine. This podcast is separate from my teaching and research roles at Stanford. It is, however, part of my desire and effort to bring you zero cost to consumer information about science and science-related tools to the general public.
+
+00:29.570 --> 00:58.622
+We just closed out the episodes on hormones. Now we are going to talk about how to optimize physical performance and skill learning. There are so many variables to physical performance and we can manage physical performance and skill learning from a variety of contexts. I made just a short list of some of the things that come to mind that can powerfully impact physical performance and skill learning. Some of them are what I would consider foundational. They allow you to show up with your current
+
+00:58.722 --> 01:23.838
+And if you were to disrupt those, you would perform less well. So things like getting a good night's sleep, things like being properly hydrated, things like being well-nourished. There are supplements, there are drugs, there are different ways to breathe. There are so many tools related to mindset, visualization. It's just a vast space, but it's not infinite. And there are a few things
+
+01:23.970 --> 01:51.998
+in the list of things that can impact and even optimize physical performance and skill learning that have an outsized effect that any of you can use. So today we are going to focus on what I believe to be one of the most powerful tools to improve physical performance and skill learning and recovery. And we'll talk about why that's important. And that's temperature. Believe it or not,
+
+01:52.418 --> 02:16.926
+Temperature is the most powerful variable for improving physical performance and for recovery. There are two aspects to temperature, of course. There's heat and there's cold. We are mainly going to focus on cold as a way to buffer heat. We're going to talk about cold from the standpoint of thermal physiology. This is a literature that's
+
+02:17.090 --> 02:41.246
+rich in scientific information that goes back very deep into the last century where physiologists and neuroscientists figured out that there are different compartments in your body that heat and cool you differently and that you can leverage those in order to double, even triple or quadruple your workout, but both strength, repetitions and endurance. So this is not weak sauce.
+
+02:41.346 --> 03:03.230
+They say this is the stuff that can really shift the needle quite a bit. And it's not just about performing well once, it's about being able to perform well and recover from that performance so that you do even better when you're not incorporating these tools. On days where, for instance, you can't access cold or an ice pack or an ice bath or things of that sort.
+
+03:03.554 --> 03:33.520
+I'd like to take a quick break and acknowledge our sponsor, AG1. AG1 is a vitamin mineral probiotic drink that also includes prebiotics and adaptogens. As somebody who's been involved in research science for almost three decades and in health and fitness for equally as long, I'm constantly looking for the best tools to improve my mental health, physical health, and performance. I discovered AG1 way back in 2012, long before I ever had a podcast or even knew what a podcast was, and I've been taking it every day since. I find that AG1 greatly improves
+
+03:33.520 --> 04:01.630
+all aspects of my health. I simply feel much better when I take it. AG1 uses the highest quality ingredients in the right combinations, and they're constantly improving their formulas without increasing the cost. Whenever I'm asked if I could take just one supplement, what would that supplement be? I always say AG1. If you'd like to try AG1, you can go to drinkag1.com slash Huberman to claim a special offer. Right now, they're giving away five free travel packs plus a year's supply of vitamin D3 K2.
+
+04:01.730 --> 04:20.959
+Again, that's drinkag1.com slash Huberman to claim that special offer. Let's start by talking about temperature. How does temperature impact the body and its ability to perform, including learn new skills? So everyone probably remembers or has at least heard of the word homeostasis.
+
+04:21.154 --> 04:51.102
+all right, that the body wants to remain in a particular range of temperatures, that it doesn't like to be too hot or too cold. Heating up too much is just plain bad. It's not just bad for physical performance, it's bad for all tissue health. Cells stop functioning, they stop being able to generate energy, they stop being able to digest things, you stop being able to think, and eventually those cells start dying off entirely.
+
+04:51.202 --> 05:19.326
+Now you don't want to become hypothermic either. You can die from hypothermia just like you can die from hyperthermia. However, that you have a lot more range to be cold than you do to be too warm. Okay. And in general, the idea is to keep the body and brain in a particular range, but anytime we do anything, our body temperature can shift. So for instance, if you were to stand next to a campfire,
+
+05:19.426 --> 05:44.190
+or you were outside on a hot day, various things would happen to dump heat from your body. Now, what are those things? Well, there are a huge category of them, but the simplest way to think about this process is that when we get cold, we tend to vasoconstrict. Our blood vessels tend to constrict and we tend to push energy toward the core of our body to preserve our core organs.
+
+05:44.418 --> 06:08.542
+Okay, so our periphery, our hands and our feet and our toes and our legs become colder and our core therefore can maintain blood to that area and we are insulating our core. Conversely, when we heat up, our blood vessels vasodilate, they expand a bit and more blood flows to our periphery and more blood can move throughout the body generally and
+
+06:08.674 --> 06:38.430
+we will perspire, we will sweat. Water will actually get pulled out of the blood to some extent, moved up through sweat glands and will be brought to the skin surface so that it can be dumped. We are dumping heat. So it's very important that if you want to understand how you can leverage temperature for physical performance, you have to understand that you have vasoconstriction to conserve heat, vasodilation to dump heat, that you have sweating to dump heat and you have conservation of fluids
+
+06:39.074 --> 07:00.734
+in order to preserve heat. That's the most important thing in terms of understanding the mechanisms of maintaining and dumping heat. And now the most important thing to understand is that if you get too hot, your ability to contract your muscles stops. Okay, I'm going to repeat this because it's vitally important. ATP,
+
+07:01.378 --> 07:24.670
+is involved in the process of generating muscle contractions. The range of temperatures within which ATP can function and muscles can contract is very narrow. Somewhere around 39 or 40 degrees Celsius, it drops off and you will not be able to generate more contractions. Now that's pretty hot, but that temperature can be generated locally really fast.
+
+07:24.770 --> 07:53.278
+Put simply, if you get too hot, you stop exercising. You may not even realize it, but your will to exercise further, your ability to push harder is entirely dependent on the heat of the muscle, both locally and your whole system. If you can keep temperature in range, however, in a proper range, you will be able to do more work. You will be able to create greater output. You'll be able to lift more weight, more sets, more reps,
+
+07:53.890 --> 08:18.686
+and you'll be able to run further. Now, there are data that I'm going to talk about in a little bit that are absolutely striking that underscore that statement. There are data from my colleague, Craig Heller's lab in the department of biology at Stanford. Many, if not all the NFL teams are now using this technology as well as military uses it. And not just for sports performance, but also firefighters, construction workers, other professions where
+
+08:18.882 --> 08:48.510
+elevated heat becomes a barrier to performance. And you can leverage this to really improve your workouts. So how do you dump heat in order to perform longer safely? Well, in order to understand that, you have to understand that the body has three main compartments for regulating temperature. We don't just have a center and a periphery, we have three main compartments. And there's one compartment in particular that all of you, or most all of you, I have to assume have,
+
+08:48.834 --> 09:15.518
+And if you can understand how that works, you can do tremendous things for your performance and for your recovery. One is your core. We already talked about that. Your core organs, your heart, your lungs, your pancreas, your liver, the core of your body. The other is your periphery, which are obviously your arms and your legs and your feet and your hands. But then there's a third component, which is there are three locations
+
+09:15.714 --> 09:37.278
+on your body that are far better at passing heat out of the body and bringing cool into the body such that you can heat up or cool your body everywhere very quickly. Those three areas are your face, the palms of your hands and the bottoms of your feet.
+
+09:37.442 --> 10:07.326
+Now the skin on your hands and on the bottoms of your feet, and to some extent on your face are called glabrous skin. That's G-L-A-B-O-R-O-U-S, glabrous skin. And what's special about those areas of your body and the glabrous skin is that the arrangement of vasculature, of blood vessels, capillaries, and arteries that serve those regions is very different than it is elsewhere in your body.
+
+10:07.522 --> 10:36.990
+three regions of your hands, your face, and the bottoms of your feet, we have what are called AVAs. AVAs are a very special pattern of vasculature. AVAs are arteriovenous astomosis, A-R-T-E-R-I-O, arteriovenous, V-E-N-O-U-S, arteriovenous anastomosis, A-N-A-S-T-O-M-O-S-O-S.
+
+10:37.122 --> 11:02.558
+arteriovenous astimosis, okay? You want to know about arteriovenous astimosis, trust me. AVAs are direct connections between the small arteries and the small veins. They bypass the capillaries to some extent. They're little short vessel segments. They have a big, large inner diameter, and they have this very thick muscular wall, and they get input
+
+11:02.882 --> 11:27.550
+from what are called adrenergic neurons. They get input from neurons that release norepinephrine and epinephrine, which allows them to contract or dilate. Now there's some rules of physics that talk about how the radius of a pipe and small changes in the radius of a pipe leads to massive increases in the rate and amount of stuff that can flow through that pipe.
+
+11:27.682 --> 11:51.902
+Okay, that's a rule of physics that says essentially that the radius is proportional to the amount of stuff that can flow through something to the fourth power. What you need to know, even if you don't want to know any of the underlying physics is that these AVAs allow more heat to leave the body more quickly and more cool to enter the body more quickly than other things.
+
+11:52.770 --> 12:19.454
+venous arterial capillary beds throughout the body. In other words, you can heat up best at the face, the palms and the bottoms of the feet, and you can cool down best at the face, the palms and the bottoms of the feet than you can anywhere else on your body. These three compartments of your body, palms, bottoms of feet and face are your best leverage points for manipulating temperature to vastly improve physical performance.
+
+12:20.418 --> 12:34.366
+I'd like to take a quick break and acknowledge our sponsor, Eight Sleep. Eight Sleep makes smart mattress covers with cooling, heating, and sleep tracking capacity. Now I've spoken before on this podcast about the critical need for us to get adequate amounts of quality sleep each and every night.
+
+12:34.562 --> 13:04.528
+Now, one of the best ways to ensure a great night's sleep is to ensure that the temperature of your sleeping environment is correct. And that's because in order to fall and stay deeply asleep, your body temperature actually has to drop about one to three degrees. And in order to wake up feeling refreshed and energized, your body temperature actually has to increase by about one to three degrees. Eight Sleep automatically regulates the temperature of your bed throughout the night according to your unique needs. Now, I find that extremely useful because I like to make the bed really cool at the beginning of the night, even colder in the middle
+
+13:04.528 --> 13:25.502
+of the night and warm as I wake up. That's what gives me the most slow wave sleep and rapid eye movement sleep. And I know that because Eight Sleep has a great sleep tracker that tells me how well I've slept and the types of sleep that I'm getting throughout the night. Their latest model, the Pod 4 Ultra, also has snoring detection that will automatically lift your head a few degrees in order to improve your airflow and stop you from snoring.
+
+13:25.666 --> 13:54.974
+If you decide to try Eight Sleep, you have 30 days to try it at home and you can return it if you don't like it, no questions asked, but I'm sure that you'll love it. Go to eightsleep.com slash Huberman to save up to $350 off your pod four ultra. Eight Sleep ships to many countries worldwide, including Mexico and the UAE. Again, that's eightsleep.com slash Huberman to save up to $350 off your pod four ultra. So what Craig and his colleagues did really illustrates perfectly what these body surfaces can do
+
+13:55.074 --> 14:23.262
+and why they were studying overheating in athletes and in military and in construction workers and trying to prevent it. What they essentially found was that cooling the palms, Palmer cooling allowed people, athletes and recreational athletes to run much further, to lift more weight and to do more sets and reps to a
+
+14:23.490 --> 14:53.310
+absolutely staggering degree. Let's talk for a second a bit more about why we stop, why we shut off effort when we get too hot. When muscle heats up, enzymes start getting disrupted and ATP in muscles can't work so well and those muscles can't contract. The enzyme that's involved here is something called pyruvate kinase and pyruvate kinase,
+
+14:53.890 --> 15:21.662
+is essentially a rate limiting step. It's a critical step that you can't bypass if you want muscles to contract and it's very temperature sensitive. Therefore, if you can keep temperature lower, you can do more work per unit time. You can do more pull-ups. What they essentially did is they brought someone into their laboratory who could do 10 pull-ups on the first set and they were able to get 10
+
+15:21.826 --> 15:50.430
+rest two or three minutes, get another 10, rest two or three minutes. And if you've ever tried this, what you find is that you start dropping to eight, seven, six, et cetera. Now the person might not necessarily feel like they're overheating, but the muscle is heating up. Then with their knowledge that these AVAs, that these portals in the palms are a great way to both heat the body, but also to dump heat from the body, they used a device
+
+15:50.754 --> 16:19.998
+and I'll talk about what you can do at home, but a device where they had people hold on to what was essentially a cold tube. Now this is crucial. The tube can't be so cold that it causes vasoconstriction because then the cold won't pass from the tube to the hand and to the core. But if it's the right temperature, it's neither too hot nor too cold, that cool from the cold tube passes into the hand
+
+16:20.706 --> 16:47.006
+these so-called palmar regions, and then cools the core. And in theory, by lowering body temperature would allow the person or the athlete to do more work. And indeed that's what they saw. The actual data, the specific data showed that subjects could do, at least the subjects they worked with, on their first day with no cooling, about a hundred pull-ups across the timeframe that they had.
+
+16:47.554 --> 17:13.118
+Then they came back and did the cooling. They did it the very next day, which if you've ever trained a muscle the very next day, typically you wouldn't do as well in its training if it took any damage from the previous session, or you at least do as well, but you probably wouldn't do what they then observed, which was they started cooling after every other set. The person would just hold the cold tube, cool down the body after every other set rest, everything else was kept the same.
+
+17:13.794 --> 17:37.502
+and they found that they went to 180 pull-ups, which is incredible. It's a near doubling. Now, you may be asking, what about endurance? With endurance, similar increases have been shown. And the way that they would do those tests are a little bit different. And they also point to a really important mechanism of why we stop doing work at all.
+
+17:37.666 --> 18:06.942
+when we perceive that we are putting in too much effort. So it gets right to the heart of the relationship between temperature in muscles and your willpower. Those are directly related. Your body heat and your willpower are linked in a physiological way. Okay, so let's talk about willpower and heat and how heat shuts you down. In other words, if you are cool, if your body temperature is in a particular range, not only can you go further, but you will go further if you want to.
+
+18:08.610 --> 18:37.534
+said differently, if you heat up too much, you will stop or you will die. But there's a reflex that relates the body to the brain and the brain to the body that shuts off our effort when we get too hot. So what Craig and his colleagues and now others have done is to do a test in the laboratory where rather than ask people to run outside until they absolutely don't want to run anymore, you put them on a treadmill and you set the speed.
+
+18:38.242 --> 19:05.662
+So they have to keep up with the treadmill and at some point they quit. And you take groups and you do those in different temperature environments. So some people are running in a nice chilly laboratory, they get their heart rate up, so they're getting into a steady state cadence or rhythm and their heart is beating at more or less a steady state. People will continue at that temperature and at that heart rate
+
+19:06.210 --> 19:34.718
+unless you start turning up the temperature in the room. And at some point they will stop and they'll stop much earlier when it gets hot because of something called cardiac drift. So let's say I'm running and I'm running at a steady cadence on this treadmill and my heart rate is 85 beats per minute or a hundred beats per minute, doesn't matter. Let's say a hundred just for sake of example. Well, just making the room hotter is going to increase my heart rate further, even though I'm at the same output.
+
+19:34.818 --> 20:04.126
+and the brain does a computation. It somehow figures out that there's a heat component that's increasing heart rate, and there's an effort component from running that's driving heart rate. And if the heat component and the heart rate output from the effort get to hit a certain threshold, I stop. Increasing temperature increases the rate of quitting in part, not entirely, but in part because of this thing called cardiac drift,
+
+20:04.450 --> 20:32.030
+Heat increases heart rate, effort increases heart rate. At a steady effort, you'll have a steady heart rate. If you increase the heat in the environment that you're engaging in that steady heart rate, your heart rate will now go up due to cardiac drift and you will quit, okay? So Heller and colleagues have done experiments where they do palmer cooling under these environments. And that's wonderful because not only does it
+
+20:32.194 --> 20:57.982
+enable people to go further and faster for much longer. That's been shown statistically significant every time, but it also protects the brain and body against hyperthermia, overheating, coma, nerve injury, nerve death, and actual death. Okay, so you can see why this is such a valuable tool. So how can you start to incorporate this? Well, first of all,
+
+20:58.914 --> 21:25.470
+I always get asked how cold should the water be? Should it be ice water? Should it be very cold water? The answer is no. If you want to experience some of this effect without a device, one thing you could do would be for instance to do, I don't know, I'll use the gym or the treadmill as an example. You could do your maximum number of pull-ups, stop, and then you could actually put your hands into or on the surface of
+
+21:26.082 --> 21:45.086
+a sink that is presumably stopped up with cool water. So not ice water, not freezing cold, but cool water, slightly cooler than body temperature before you started training would be a good place to start. You do that for 10 to 30 seconds.
+
+21:45.666 --> 22:08.638
+then you could go back and do your next set. You would repeat the cooling. You would want to extend the amount of cooling somewhat. So you might want to do that for 30 seconds to a minute. This is not going to be perfect. You're going to have to play with how cold to make it in order to get the optimal effect, but you ought to see an effect nonetheless. The same is true if you're running and you're fatiguing, obviously you don't want to become hyperthermic,
+
+22:09.346 --> 22:34.174
+Cooling the hands or the bottoms of your feet or the face would be the ideal way to dump heat in order to be able to generate more output. Now, the face is something that we haven't talked a lot about. Everything I've told you up until now also says that if you are somebody who tends to get cold when you are outside, say in the winter or even in the fall, you tend to run cold. Warming your face is going to be the most important thing that you can do.
+
+22:34.306 --> 22:53.278
+Now you understand the principle and the locations at which to deliver heat and cold. So let's say that you are out for a run and you want to incorporate this cooling mechanism. I talked to Craig about this. I said, what would be the kind of poor person's approach to this one? He said, well, you could take a frozen,
+
+22:53.378 --> 23:20.318
+if you have one of those, or a very cold can of soda, and you would want to pass it back and forth between your two hands. The reason the passing back and forth is really important is because you, again, you don't want it to be so cold that you constrict those venous portals that will allow cold to go into the body. Now, there are certainly people that are working on bike handles and that can actually cool the hands.
+
+23:20.738 --> 23:40.574
+Here's what you don't want to do. You don't want to cool the core if you want to cool the body, right? If it's a very hot day and you're going to train, getting into an ice bath first, sure, it will cool you down, but that's not going to be as effective as cooling the palms, the bottoms of the feet and the face.
+
+23:40.802 --> 24:10.750
+The one that I've tried because in anticipation of this episode was the dips where then I would cool my hands. I actually decided to cool the bottoms of my feet as well because it just feels good and it's particularly hot out lately. So no shoes or socks on, put my feet into the bottoms of my feet, just kind of hovering about a centimeter or two below the surface of a bucket of water that was just slightly, it felt cool, slightly cooler than body temperature or so. It just basically what came out of the spigot after I let it run for a little bit.
+
+24:11.394 --> 24:25.982
+And indeed, I saw a 60% increase in the number of dips I can do in a single session. So it's actually a quite significant effect and you don't have to be perfectly precise in order to do it. I'd like to take a quick break and acknowledge one of our sponsors, Function.
+
+24:26.114 --> 24:56.080
+Last year, I became a Function member after searching for the most comprehensive approach to lab testing. Function provides over 100 advanced lab tests that give you a key snapshot of your entire bodily health. This snapshot offers you with insights on your heart health, hormone health, immune functioning, nutrient levels, and much more. They've also recently added tests for toxins such as BPA exposure from harmful plastics and tests for PFASs or forever chemicals. Function not only provides testing of over 100 biomarkers key to your physical and mental
+
+24:56.080 --> 25:08.414
+health, but it also analyzes these results and provides insights from top doctors who are expert in the relevant areas. For example, in one of my first tests with function, I learned that I had elevated levels of mercury in my blood.
+
+25:08.866 --> 25:29.118
+Function not only helped me detect that, but offered insights into how best to reduce my mercury levels, which included limiting my tuna consumption. I'd been eating a lot of tuna, while also making an effort to eat more leafy greens and supplementing with NAC and acetylcysteine, both of which can support glutathione production and detoxification. And I should say, by taking a second function test, that approach worked.
+
+25:29.250 --> 25:44.446
+Comprehensive blood testing is vitally important. There's so many things related to your mental and physical health that can only be detected in a blood test. The problem is blood testing has always been very expensive and complicated. In contrast, I've been super impressed by function simplicity and consistency
+
+25:44.578 --> 26:09.054
+at the level of cost. It is very affordable. As a consequence, I decided to join their scientific advisory board and I'm thrilled that they're sponsoring the podcast. If you'd like to try Function, you can go to functionhealth.com slash Huberman. Function currently has a wait list of over 250,000 people, but they're offering early access to Huberman podcast listeners. Again, that's functionhealth.com slash Huberman to get early access to Function.
+
+26:09.538 --> 26:36.478
+So up until now, we've been talking about how to use cold during a workout in order to improve performance. Now I want to talk about the use of temperature, in particular cold, to improve the speed and the depth of recovery. Recovery is obviously vital, right? During a weight training session or during an endurance session, that's just the stimulus for getting better the next time. And if you don't recover, you not only won't get better, but you'll get worse.
+
+26:37.986 --> 27:07.870
+There's a lot of interest in the use of cold in order to improve recovery in the short term. We see this and probably the best example of this would be fighters in combat sports between rounds or athletes during in between quarters or halftime. That's one form of recovery, the ability to go back into the sport very soon on an order of minutes, anywhere from like one minute in between rounds in typical combat sports or several minutes at a halftime, et cetera.
+
+27:08.770 --> 27:34.654
+And then of course there's recovery that occurs from session to session. So outside of the game or the match or the exercise session. And many people are now relying on things like cryotherapy, which requires a lot of expensive equipment, big liquid nitrogen driven machine, those aren't so common for most people or accessible for most people, but a lot of people are using cold baths or ice baths or cold showers.
+
+27:35.330 --> 28:05.054
+And again, that's not going to optimize recovery. In fact, it's going to have an additional effect that is going to potentially block the training stimulus. When you get into an ice bath, you are indeed blocking some of the inflammation that occurs because of the training session. But in doing so, you also are blocking pathways such as mTOR, mammalian target of rapamycin, which are involved in the adaptation for a muscle to become stronger or bigger. Put simply,
+
+28:05.634 --> 28:33.726
+Covering the body in cold or immersing the body in cold after training can short circuit or prevent the hypertrophy or muscle growth response. It has other effects that can be positive, right? It can induce thermogenesis, et cetera. It can reduce inflammation, but it can prevent some of the positive effects of exercise. Now it hasn't been examined so much for endurance work, but let's say you come back from a round of endurance work, a run or a bike,
+
+28:33.826 --> 28:55.998
+or a swim, getting into a cool bath or cooling the palms, the bottoms of the feet or the face, in my opinion, based on the science would be better than completely immersing the body in the ice bath. If you can cool the body back to its resting temperature, and by resting temperature, I mean, within the range that you would see at any,
+
+28:56.162 --> 29:26.128
+time of waking day, but not in exercise. If you can do that, the sooner you can do that after a workout, the sooner that the muscle will recover, that the tendons will recover, and that the person, you, can get back into more endurance training, more weight training, et cetera. So cold actually can be a very powerful tool for recovery, but to maximize return to baseline levels of temperature, just simply cooling the entire body by jumping into an ice bath or a cold shower is not the best way to go. You really want to rely on
+
+29:26.128 --> 29:51.486
+one of these three glabrous skin portals of the palms, the bottoms of the feet or the face. One of the more commonly used compounds that's sold over the counter are non-steroid anti-inflammatories. So things like Advil and other trade names and naproxen sodium, things of that sort. Almost all of those drop body temperature to some extent. And that's why it's often recommended that people take them when they have a fever.
+
+29:51.618 --> 30:19.902
+Now, a number of athletes, especially endurance athletes, will rely on these non-steroid anti-inflammatory drugs specifically to keep body temperature lower during long bouts of exertion. This is a little bit of a pharmacologic version of dumping heat instead of using Palmer cooling or face ice pack cooling. They're relying on pharmacology to drop their core body temperature. That has certain
+
+30:20.034 --> 30:40.638
+Obvious advantages, lower temperature allows you to go further harder with more intensity. However, they do have effects on the liver and they can also have effects on the kidneys and during long bouts of exercise or even short bouts of exercise, water balance and salt balance are also going to be vital to maintain in order to perform well
+
+30:41.026 --> 31:09.886
+generate the best muscle contraction, stay mentally alert, and also to stay alive. You probably want to think carefully about whether or not you want to use non-steroid anti-inflammatories before any training session, just for the performance augmentation effect, unless you're working carefully with a coach. I personally am more a fan of cooling of the palms, cooling of the bottoms of my feet, right? By placing them into a bucket or into a cool bath after training, or
+
+31:10.146 --> 31:25.470
+cooling the face after training, or sometimes even during training. It just seems like there's more of a margin to play with the variables, to heat up the water, cool it down a little bit, to include one palm or the other palm. There's just all sorts of good
+
+31:25.570 --> 31:53.950
+parameter space as we call it in science that you can play with and work with to find what works for you. Whereas when you pop a pill, sure, you can adjust the dose and you can adjust it next time, but once it's in you, it's in you and there's going to be some period of time before you can modulate it. So it doesn't give you a lot of opportunity to play scientist, which is what I like to do because what I'm always trying to do is trying to dial in the best protocols possible based on the mechanisms and data. And if you can do that moment to moment, that places you in a position of power.
+
+31:54.306 --> 32:20.382
+Once again, we've covered a lot of material. By now, after seeing this episode or listening to this episode, you should understand a lot about how your body heats and cools itself and the value of that for physical performance. I hope you'll also appreciate that you have tools at your disposal to vastly improve your physical performance. I've given you specific protocols and some direction, but I've also left it slightly vague because of,
+
+32:20.802 --> 32:48.798
+As I mentioned earlier, I don't know all the environmental conditions. I don't know how hot your yoga studio is or how cool your gym happens to be or your body temperature or time of day. Remember, your temperature will vary according to time of day. Going forward, we're going to talk more about temperature and other ways to improve physical performance and skill learning. We're going to talk about specific ways to accelerate fat loss, to improve muscle growth, to improve suppleness and flexibility.
+
+32:49.698 --> 33:15.678
+These approaches and mechanisms are anchored deeply in neuroscience and physiology and the relationship between our peripheral organs, which include our skin and our brain and all the organs in between. And last but not least, I want to thank you for your time and attention. I realize this is a lot of information. I hope you'll find some of it to be actionable and useful for you and for people that you know. And as always, thank you for your interest in science.

@@ -1,0 +1,1345 @@
+WEBVTT
+
+00:00.226 --> 00:29.118
+Every single ophthalmologist knows about cataract. Yes. Most common form of blindness. So it would be rare for you to go to an ophthalmologist with cataract and not get diagnosed, correct? Correct. So why is it that the leading cause of infertility on this planet, 90% of women are not diagnosed? Women's health is very different than other fields of medicine. It's a different monster. It's that cataract patient that goes to 20 patients
+
+00:29.602 --> 00:52.638
+ophthalmologist, and she keeps saying, I can't see. And the ophthalmologist says, you're crazy. There's nothing wrong with you. Welcome to the Huberman Lab podcast, where we discuss science and science-based tools for everyday life. I'm Andrew Huberman, and I'm a professor of neurobiology and ophthalmology at Stanford School of Medicine.
+
+00:52.802 --> 01:11.582
+My guest today is Dr. Thais Ali Abadi, an obstetrician, gynecologist, and surgeon, and one of the most sought after experts and trusted voices in women's health. Today, we discuss crucial topics in women's reproductive and general health, including PCOS, endometriosis, breast cancer, perimenopause, and menopause.
+
+01:11.714 --> 01:41.680
+Dr. Ali Abadi explains why so many cases of PCOS and endometriosis go undiagnosed and how many physicians unfortunately write off things like pain, hair thinning, mood changes, and other symptoms as normal when in fact they reflect larger underlying issues that can impair fertility and lead to body-wide health complications. And she explains the key things to do to diagnose and treat PCOS and endometriosis, everything from how to adjust insulin sensitivity to hormone replacement, over-the-counter, and prescription-based protocols.
+
+01:41.680 --> 02:07.710
+calls. As you'll soon hear, Dr. Ali Abadi is incredibly passionate about women's health and has developed various zero-cost online tools that women of any age can use to assess their risk for things like breast cancer, PCOS, and endometriosis. I should also emphasize that today's discussion is relevant to women of all ages. Many of the conditions we discuss are starting to show up in women even in their mid-teens and 20s and can carry serious health risks.
+
+02:07.874 --> 02:35.838
+Dr. Ali Abadi makes very clear that often these issues can be resolved, but that it requires knowing the telltale signs and taking the appropriate steps. She explains that, alas, many doctors and even OBGYNs are unaware of those telltale markers. So what you're about to hear is an extremely eye-opening conversation that, thanks to Dr. Ali Abadi's passion for and expertise in women's health, could very well save someone's mental and physical health, their fertility, and in the case of breast cancer screening, even their life.
+
+02:36.098 --> 03:03.710
+Before we begin, I'd like to emphasize that this podcast is separate from my teaching and research roles at Stanford. It is, however, part of my desire and effort to bring zero cost to consumer information about science and science-related tools to the general public. In keeping with that theme, today's episode does include sponsors. And now for my discussion with Dr. Thais Ali Abadi. Dr. Thais Ali Abadi, welcome. Thank you for having me. Super excited to talk about today's topics, and there are a lot of them.
+
+03:03.842 --> 03:32.446
+because I think these days we hear a tremendous amount about how fertility rates are dropping. We hear that sperm counts are dropping. We hear that things like PCOS, which he'll explain to us, are on the rise. I'm curious if they're on the rise or they're just being detected or not detected as much. Let's start off quite simply and just bracket for people what the sort of standard trajectory of fertility looks like for the quote-unquote average population.
+
+03:32.610 --> 03:59.518
+I realize there's no such thing as an average woman, but I think we hear so much these days about people are waiting to have kids. Some people are freezing eggs early, all this. If we were to just march through and say, you know, what fraction of healthy women are fertile in their, say, 20 to 25, 25 to 30, and march that forward just to give people a sense of what the data and your experience really tell us.
+
+04:00.290 --> 04:28.830
+First of all, before I go there, I want to tell you something. I want to tell you how excited I am to be here today. And I'll tell you why. Because I've been in women's health for 30 years. And one thing I learned is that women's symptoms get dismissed, minimized, or completely ignored, right? It's normalized. These women, every time they complain, they say, it's in your head, you're anxious, you're stressed. You know, it's normal. It's part of being a woman. And women
+
+04:29.378 --> 04:51.006
+Behind these dismissals are millions and millions of women suffering undiagnosed PCOS, endometriosis, chronic pelvic pain, infertility, which we're going to cover right now, and so many other issues because no one takes the time to listen to them. And...
+
+04:51.426 --> 05:15.614
+The reason I'm so excited to be on this podcast is I want to shed light on these topics, especially endometriosis and PCOS, because they're the top leading causes of infertility on this planet. Majority of these patients are never diagnosed. Majority. And that's why I'm so excited to be here. And I love talking about fertility because...
+
+05:15.746 --> 05:45.502
+The reason these women end up in a fertility clinic in the first place, majority of them have undiagnosed PCOS and endometriosis. So we are born with certain number of eggs, millions of them. And we don't make more eggs after we're born. And as we go through life, we start losing these eggs until at about menopause, we have about a thousand of them left. So as we get older, the number goes down, but the quality also declines. The issue is...
+
+05:45.666 --> 06:14.078
+PCOS and endometriosis affect your egg count and your egg quality. So because 90% of these patients are never diagnosed, what happens is they start losing their eggs. Let's say take an endometriosis patient, which we're going to get into it. But they start losing these eggs. The quality starts shooting down. Some of them by age 30, they have zero eggs left. And these are patients who bounce from doctor to doctor and their symptoms are dismissed. They're
+
+06:14.466 --> 06:43.326
+being told that their painful period is normal, that their painful sex is in their head, that they're exaggerating their pain. And meanwhile, their ovarian reserve is completely depleting and no one is addressing that. Andrew, I've always said this, and I really mean it. If every 20-year-old in this country would go through my office once at age 20, I would shut down these fertility clinics. Because where do these patients end up?
+
+06:43.554 --> 07:00.670
+Infertility clinics, that's why these doctors are so busy and that's why these patients go bankrupt, selling their homes, selling everything they have to pay for an IVF cycle that could have been completely blocked had they been diagnosed correctly.
+
+07:00.802 --> 07:28.766
+and treated at a very young age. And I'm talking, sometimes I treat 13 year olds with endometriosis. I have right now in my practice, a girl at 14 with endometriosis, whose egg count is the egg count of a 40 year old. That's why I can't sit here and generalize that if you're in your 20s, you're gonna be fine. It's not true. You need to know at a very young age,
+
+07:28.898 --> 07:53.822
+Every girl on this planet needs to be screened for endometriosis, for PCOS, and they need to know their egg count. Egg count, AMH, anti-malarian hormone, is a simple blood test. It's covered by most insurances. It needs to be offered. If you don't want to offer it to your young patients, because, you know, teenagers are tricky because they have so many eggs, but
+
+07:53.922 --> 08:23.550
+But if they're complaining of severe pain, if they're missing school, if you're, as a parent, you have to go pick them up from school, the nurse is calling you. They don't want to take their test because they're rolled up in bed from pain. That patient, even at 14, deserves an egg count check. Because for these patients, sometimes by age 16, I freeze their eggs. Incredible. So I'm going to reframe my question on the basis of what you just said and ask, is the
+
+08:23.778 --> 08:42.846
+typical plot that we see of, you know, this X number of or X percentage of women of a given age bracket are this fertile or not fertile, meaning how many trials or times it would take in order to successfully get pregnant, carry a baby to turn. Should we
+
+08:43.361 --> 09:08.574
+either discard or think differently about the data that we see plotted out. Like if I were to go into one of the AI platforms and ask, I'm sure it would generate a plot for me. What I'm hearing from you is that because PCOS and endometriosis are not taken into account, the textbook picture is a false picture of fertility as a function of age. Correct. And that's why I have a patient who came to me, she was 24, severe pain.
+
+09:08.770 --> 09:33.982
+She said, I listened to your podcast. I went to my doctor and I asked her, my gynecologist, and I said, I have really bad, painful periods. And I think I have endometriosis. Can you check my egg count? You know what the doctor told her, her gynecologist? You're too young. It would be malpractice for me to check your egg count because at 24, you should not have any issues and you have no problems getting pregnant.
+
+09:34.210 --> 09:49.790
+I operate on stage four endometriosis patients at age 18. That's why I'm here. That's why I wanna grab this mic and that's why I wanna just focus first on PCOS and then focus on endometriosis.
+
+09:49.922 --> 10:17.278
+Because these two conditions, you don't need a doctor to diagnose you. If you listen to this podcast, by the time you and I are done, whoever's listening, if it's a parent, if it's your sister, if it's yourself, if it's your daughter, you're going to be able to diagnose these conditions. The leading causes of infertility on this planet. It can be diagnosed. By the time we're done, you're going to walk on the street and you're going to say, I think that woman has PCOS. I'm serious.
+
+10:18.050 --> 10:41.886
+that my patients are so smart. They literally send their friends. They're like, I'm sending you my cousin because she has endometriosis. Patients are diagnosing when doctors are not. Incredible. That's why I'm looking forward to these robotic doctors. I read that China has this robotic hospital. I'm like, praise the Lord. These robots are not going to dismiss women. If you tell a robot sex hurts,
+
+10:42.818 --> 11:12.446
+I stay in bed, I end up in the emergency room. Every time I have my period, the robot will not call you crazy. The robot will say you probably have endometriosis, but let's work it up. Glucose is a key player in how our body functions, not just in the long term, but in every moment of our lives. That's because it is the major fuel for our cells, especially our brain cells. Glucose directly impacts our brain function, mood, and energy levels, and it may even affect our levels of tenacity and willpower.
+
+11:12.610 --> 11:35.710
+This is why I use the continuous glucose monitor from Lingo. I absolutely love it and I'm thrilled to have them as a sponsor of the podcast. Lingo helps me track my glucose in real time to see how the foods I eat and the actions I take impact my glucose. When glucose in your body spikes or crashes, your cognitive and physical performance do too. In fact, large glucose peaks and valleys lead to brain fog, fatigue, irritability, and hunger.
+
+11:35.810 --> 12:01.406
+What you eat, of course, plays a major role in your glucose. Some foods cause sharp spikes and big crashes, and others do not, but not everyone is the same in terms of how they respond to particular foods. Seeing your glucose in real time helps you build eating and other habits that support metabolic health, mental clarity, and sustained energy. Lingo has helped me to better understand what foods to eat, when to eat, and how things like a brief walk after a meal can help keep my glucose stable and much more.
+
+12:01.570 --> 12:20.478
+If you'd like to try Lingo, Lingo is offering Huberman podcast listeners in the U.S. 10% off a four-week Lingo plan. Terms and conditions apply. Visit hellolingo.com slash Huberman for more information. Today's episode is also brought to us by Our Place. Our Place makes my favorite pots, pans, and other cookware.
+
+12:20.610 --> 12:46.398
+Surprisingly, toxic compounds such as PFASs or forever chemicals are still found in 80% of nonstick pans, as well as utensils, appliances, and countless other kitchen products. As I've discussed before on this podcast, these PFASs or forever chemicals like Teflon have been linked to major health issues such as hormone disruption, gut microbiome disruption, fertility issues, and many other health problems. So it's very important to avoid them.
+
+12:46.594 --> 13:10.686
+This is why I'm a huge fan of Our Place. Our Place products are made with the highest quality materials and are all PFAS and toxin-free. I particularly love their Titanium Always Pan Pro. It's the first nonstick pan made with zero chemicals and zero coating. Instead, it uses pure titanium. This means it has no harmful forever chemicals and does not degrade or lose its nonstick effect over time. It's also beautiful to look at.
+
+13:10.882 --> 13:35.326
+I cook eggs in my Titanium Always Pan Pro almost every morning. The design allows for the eggs to cook perfectly without sticking to the pan. I also cook burgers and steaks in it, and it always puts a really nice sear on the meat. But again, nothing sticks to it, so it's really easy to clean, and it's even dishwasher safe. I love it, and I use it constantly. Our place now has a full line of Titanium Pro cookware that uses the first-of-its-kind titanium nonstick technology.
+
+13:35.554 --> 13:43.006
+So if you're looking for non-toxic, long-lasting pots and pans, go to fromourplace.com slash Huberman and use the code Huberman.
+
+13:43.106 --> 14:10.878
+Right now, Our Place is having their biggest sale of the year. You can get up to 35% off all products now through January 12th, 2026. With a 100-day risk-free trial, free shipping, and free returns, you can try Our Place with zero risk, and you can see why more than 1 million people have made the switch to Our Place Kitchenware. Again, that's fromourplace.com slash Huberman to get up to 35% off. Well, clearly, you're on an important mission, and clearly,
+
+14:11.586 --> 14:35.006
+It's good that we reframe the question that I initially asked and start with PCOS and then endometriosis. But before I do that, I just want to just give a reflection, which is one of the takeaways from what you just said, and just one, there are many, but one of them is that most young women learn about the menstrual cycle. I think they also make an attempt to teach women.
+
+14:35.362 --> 15:02.718
+boys about the menstrual cycle when we were in high school. They try to teach everybody. Whether or not it sinks in to the male's brains is a question of debate. But most every woman learns at some point about the menstrual cycle. It sounds to me like female health education should also include education about PCOS and endometriosis at a very young age. Mandatory. It should be mandatory. And currently, it's not. In fact, many...
+
+15:02.882 --> 15:30.078
+female listeners of this podcast, I believe, either suffer from or know somebody who suffers from PCOS or endometriosis. I know this because I get asked a lot to cover these topics, which is one of the reasons you're here. And the other thing is that I'm certain that many do not, that many do not, because they came up through an education system where that just didn't happen. So we can start this important initiative now. What is PCOS?
+
+15:30.370 --> 15:58.430
+Very good question. So PCOS is the most common hormone disorder in women in the reproductive age. The most common. So we're not talking about some rare diagnosis, number one. It affects 15% of women in this country. If you go to Middle Eastern countries, that number can go north of 20%. Studies show that 70% of these patients are never diagnosed.
+
+15:58.690 --> 16:22.302
+I tell you today that that number is over 90%. Majority of these patients are never diagnosed or even when they're diagnosed, they're not being treated correctly. I listen to podcasts on PCOS where doctors come and, you know, whoever's interviewing them ask them, so what do we do for PCOS? And the answer is we give birth control. That's not true.
+
+16:22.594 --> 16:47.806
+birth control is just one tiny little aspect of the entire treatment plan and that's why patients get frustrated so when it comes to diagnosing pcos right you need to meet two out of three criteria the first one being symptoms of high testosterone or high androgens what are those facial hair body hair the most common acne oily skin
+
+16:47.906 --> 17:02.174
+or male pattern hair thinning, which a lot of women complain of. Number two is basically ovulation dysfunction. These are women with irregular periods. They get their periods
+
+17:02.338 --> 17:30.302
+over like, you know, 35 days, it's not regular 28 days, or they get about eight periods per year. These are patients who usually come to the doctor and when you ask them how your periods are, they can't really tell. They tell you it's irregular. I can't quite pinpoint when I'm going to get my period. And number three is PCOS-looking ovaries on ultrasound. Polycystic ovary syndrome does not mean cyst. That's a bad name. It's a
+
+17:30.434 --> 17:53.726
+Very specific finding on ultrasound when you see almost like 20 plus follicles in the ovary, and these are follicles, they look like string of pearl. It's very specific to PCOS. The issue is doctors don't recognize it. They dismiss it and they look at the ovary and they say, oh, you have so many eggs, you have no issues with fertility.
+
+17:54.242 --> 18:23.806
+So PCOS looking ovaries on ultrasound does not mean cysts. To this day, doctors tell patients, I don't see a cyst on your ovary, so you don't have PCOS. So PCOS is an ultrasound finding. However, in 2023, they added another criteria to this third criteria, which is elevated egg count or elevated AMH. So women who have very high AMH, that
+
+18:24.194 --> 18:41.246
+is a telltale sign for PCOS. And that's what we were talking about before this podcast. Yeah, because so many women who are interested in and concerned about their fertility will go in and get their AMH measured. And so many just have in mind that you just want the higher numbers. Higher is better.
+
+18:41.378 --> 19:09.982
+The higher is better, but in case of PCOS, higher does not mean good quality eggs. I see. We're going to talk about that. So you need to meet two of these three criteria. Only two of the three. You don't need all three. No. So if you have irregular periods, right, and you have PCOS looking ovaries on ultrasound, you meet the criteria. If you have irregular periods and you have symptoms of high testosterone, you qualify. Now, let me tell you,
+
+19:10.082 --> 19:32.542
+You do not need to have a high testosterone in the blood to get the diagnosis of PCOS. If you do, great, then you qualify for that high testosterone symptom or in blood, but you do not need to have a high testosterone in your blood. And that's why a lot of doctors tell their patients, well, I checked your hormones and your testosterone is normal. That's not one of the diagnostic criteria.
+
+19:33.474 --> 20:00.958
+So if you're sitting at home, if you have irregular period, if you have a daughter who gets laser of, you know, constantly is lasering her face, she has acne, she's on spironolactone, she takes Accutane. These are criteria. She meets the criteria of PCOS. PCOS patients have mood disorder. If you listen to them, they struggle with anxiety, depression. They're moody people. 75% of them gain weight. 25% of them are very lean.
+
+20:01.250 --> 20:27.006
+I see a lot of eating disorder or disordered eating in my PCOS patients. I would literally tell you that 60, 70% of my PCOS patients have disordered eating. You wanna find PCOS patients? Go knock on the doors of these eating disorder centers. They're sitting behind those doors, undiagnosed, and it's the leading cause of infertility. So this is the big picture
+
+20:27.298 --> 20:49.758
+of PCOS. So imagine these women who are walking around, they're gaining weight, they can't lose it. They're anxious. They can't get pregnant. They have acne, hair loss, facial hair, body hair. Their periods are irregular. They go to the doctor and what do they hear? There's nothing wrong with you. Eat less. You probably need to exercise more. That's all they hear.
+
+20:51.266 --> 21:18.622
+What do they do? They put them in eating disorder centers when they're a teenager and they feed them pizza. And they say, if you don't eat this pizza, that means your eating disorder is not better. I did a podcast with a patient of mine, Phoebe. She said in this eating disorder center, every day they would put pizza in front of her. And she would say, I eat this pizza. But when I eat it, I get sick. I can't. I feel awful when I have this pizza. You know what they would tell her?
+
+21:18.786 --> 21:45.630
+See, you have an eating disorder. You're not ready to go. No, she had PCOS. But at least if you diagnose and validate them, you can start helping them better. I have several questions. You mentioned irregular periods. And I think to most people, that means that whatever cycle length they are accustomed to, 28 days or 30 days or even 22 days, that it's regular.
+
+21:45.826 --> 22:14.654
+And that if it changes by, you know, plus or minus five days or so for, you know, more than two or three months out of the year, then you would call that irregular. Okay. But if I, given how young you're seeing PCOS in your clinic, and given that women start menstruating at, let's say in their mid-teens, early teens, I mean, I know the age is getting pushed back, but it's going to vary. But I could imagine, I've only lived as a male, so I'm really,
+
+22:14.754 --> 22:39.390
+truly imagining here, but I could only imagine that for a lot of women, cycle regularity is something that they're still figuring out at the stage when they could already have PCOS. Maybe not full-blown PCOS, but milder forms of PCOS. And so this notion of regular periods versus irregular periods could be quite confusing for someone to figure out. If it's happening on a backdrop of PCOS,
+
+22:39.522 --> 23:07.006
+And then that, of course, leaves aside all the stress and food-induced regulation of menstrual cycle length, et cetera. So it seems like a very difficult thing to identify. So that's actually, you brought up a very good point. And I want to make that very clear. For teenagers, you have to be very careful, very cautious diagnosing them with PCOS. Why? As you said, when you first start having your periods, your periods are irregular. And if you do an ultrasound,
+
+23:07.202 --> 23:26.110
+these young ovaries have tons of follicles. So actually, the PCOS morphology is not used for teenagers. For teenagers to get the diagnosis of PCOS, they need to have criteria one, which is the irregular period.
+
+23:26.210 --> 23:37.630
+And criteria two, which is the high androgen symptoms. You do not use the AMH or PCOS morphology on ultrasound as a diagnostic criteria, number one.
+
+23:37.730 --> 24:07.696
+Number two, you wanna be very careful diagnosing these patients because you don't wanna label them at a very young age. So what I do with these patients, I do a hormone panel. And these are patients who usually at a very young age, they end up on Accutane for their acne. You give them spironolactone, it's not working. They complain of hair loss. They're gaining weight. They're showing signs of an eating disorder. They're anxious. They're not feeling well. They have really bad, I see a lot of PMDD with my PCOS patients.
+
+24:07.696 --> 24:36.862
+So you look at the big picture and I tend to not label them, but I will treat them. And, you know, in 2014, I started using GLP-1s on my patients for weight loss, for PCOS. 2014, 11 years ago. I think most people don't realize that these peptides were out there. They weren't as commonly discussed. They were sort of considered a little bit niche, a little bit, you know, certainly cutting edge. Incredible. Okay.
+
+24:37.058 --> 25:02.462
+A question that I just have to ask is because PCOS is diagnosed, if it's diagnosed properly, by this kind of amalgam of different features, and you mentioned by ultrasound, this kind of characteristic lining up of the follicles. I have to ask what might sound like a politically incorrect question, but I'm going to ask it anyway. Do you think that male OBGYNs
+
+25:03.842 --> 25:31.326
+more often make this mistake than female OBGYNs, or is this an equally distributed problem in the OBGYN community? Equal. 90% of these patients, let me tell you, are never diagnosed. A, a lot of gynecologists don't do a pelvic ultrasound, which I want to change that in this country. It needs to be part of a well-woman exam. They don't do a pelvic ultrasound? No. I'm baffled. What is the reason for not doing it? They're not trained to do it.
+
+25:31.842 --> 25:59.486
+or they have to hire a ultrasound tech to their office to do it. But for me, in my office, if you come to my office and you say you can't do an ultrasound, it's just like me grabbing your glasses right now and say, read. How can I diagnose you? Pelvic ultrasound should be mandatory, but that's another topic I want to cover with what well woman exam should look like versus what women get when they go to their doctor's office. So
+
+25:59.714 --> 26:27.774
+One of the issues is because women don't get a pelvic ultrasound, no one knows, one. Two, a lot of doctors don't even know what a PCOS-looking ovary looks like. They think polycystic ovary syndrome means cysts on the ovary. Yeah, the naming is really a problem. And this is true in science and very clearly true in medicine as well. What things are named can be very useful, but it can also really limit understanding. Yeah, if anything...
+
+26:28.194 --> 26:36.574
+Today's discussion hopefully will maybe even remove or put an asterisk next to the C in PCOS. You know they want to change their name.
+
+26:37.154 --> 27:03.166
+I personally am against it because I've spent 25 years saying PCOS, PCOS, PCOS, PCOS. And I feel like just in the past few years, more and more people, you know, like people didn't talk about menopause. Not everyone's talking about menopause. I feel like PCOS is the next topic, hopefully. And if you go and change the name, then I feel like I've,
+
+27:03.266 --> 27:16.318
+to start all over again. No, but you make a very good point. We don't want that to have to happen. And I agree. But they're trying to do it. There's a strange thing in public health where there needs to be a ton of hydraulic pressure over time.
+
+27:17.090 --> 27:46.622
+I guess today's my day to be only slightly politically incorrect. Five years ago, if you said the word obese or you said, this person has health issues because they're obese, it was considered, I mean, people were losing jobs for making statements like that. Now we understand obesity to be a serious risk of brain and body health. It's a medical condition. I think the GLPs have kind of helped shift the view now because there's a medical treatment. But it was always true that obesity was dangerous for people. But now you can say it. So I do think that there needed to be a lot of hydraulic pressure behind that. And now,
+
+27:46.882 --> 28:10.878
+you're doing the same for PCOS. So I have a couple of questions about the thinning of hair, acne, and so forth. I could imagine that a number of women listening to this are thinking, well, you know, I've got a little bit of acne. My hair is thinner than it was five years ago, but, you know, is this mild PCOS? Is this indicative of PCOS? I mean, everyone knows that, hopefully knows their body best, but...
+
+28:10.978 --> 28:39.550
+How bad does the acne or the hair thinning have to be? How rapid? Before you might say, you know, it's maybe just, you know, the hair's seeming thinner. There's a little bit more acne. It's back acne. And is it throughout the cycle? Yes, it's throughout the cycle. And these are patients who usually come to the office asking for help. They say, I can't get rid of my acne. I always say, if you're older than 25 and you're struggling with acne and you come to my office and you're asking for spironolactone and Accutane,
+
+28:40.066 --> 28:57.278
+something's not right, right? If you have hair thinning, like you brush your hair and you lose tons of hair. I mean, these are patients you look at, you could look at their scalp and you know they're losing hair. I'm not talking about the hair loss that you get postpartum. Do you know what that's transitional and it recovers in like nine to 12 months.
+
+28:57.378 --> 29:10.430
+These are symptoms that persist. And as these patients get older, it becomes more and more and more significant. But the reason I gave that big picture is I always look at other factors.
+
+29:10.562 --> 29:39.102
+are they having a hard time losing weight? Do they have mood disorder? Do they have any history of eating disorder? Have they been on Accutane? Do they go and laser their hair like twice a year because they can't get rid of it? It's a pattern that you will know. It's not a little bit of this. And these are patients, patients who are listening right now to me, they're going to say, yes, I have this. I have every symptom and I put a check in front of it. The problem with PCOS is there are
+
+29:39.234 --> 30:07.614
+four different phenotypes of PCOS. That's why it's so confusing for doctors to diagnose PCOS. The most common classic phenotype is a patient that has all three. PCOS looking ovaries on ultrasound, elevated testosterone symptoms or high testosterone or androgens in the blood and irregular period. The second type B patients have
+
+30:07.906 --> 30:37.694
+the high androgen symptoms, they do have dysfunctional ovulation with irregular periods, but these patients have normal ovaries on ultrasound. So you can't, in this group of patients, you can't do an ultrasound and say your ovaries are not PCOS looking, so you don't have it. Then the third phenotype is the ovulatory PCOS. It gets very confusing. This group of PCOS patients actually ovulate at least sometimes because every
+
+30:38.178 --> 31:05.086
+you know, 70 to 80% of PCOS patients don't ovulate. 70 to 80% do not ovulate, even when they have regular cycles. So of the 20, 30% who ovulate, you need to ovulate to get pregnant, this C phenotype, these patients are ovulating sometimes with regular cycles.
+
+31:05.474 --> 31:35.070
+So these are PCOS patients who go to the doctor. They have PCOS looking ovaries on ultrasound. They have acne, hair loss, facial hair, body hair, mood, all of that. But their periods are regular. Even these patients, a lot of times, are not ovulating. That regular cycle that you're seeing is estrogen withdrawal. It's not from the progesterone of ovulation. And we're going to get into all that if you want to. And the fourth category, these are patients who...
+
+31:35.298 --> 31:57.342
+basically don't have any elevated testosterone or androgen symptoms. They don't have acne hair, lost facial hair, body hair. They just don't ovulate regularly and they have PCOS looking ovaries on ultrasound. So imagine these four phenotypes, right? And imagine all the insulin resistance and all these other underlying conditions.
+
+31:57.506 --> 32:18.206
+It makes the big picture, the image of these patients so different. They all present differently to the office. That's why doctors scratch their heads. That's why doctors don't want to diagnose PCOS because they really don't understand all these phenotypes. They don't understand that you can be completely thin and have PCOS, that not all PCOS patients need to have weight issues.
+
+32:18.306 --> 32:39.550
+that you don't have to have acne hair loss, facial hair, body hair, that in some phenotypes, you don't need to have a PCOS looking ovaries. There's some that have regular cycles. So that's why it gets so confusing. It is confusing. And yet I think when one hears that there are different indicators, obviously, and it sounds like a
+
+32:39.682 --> 33:04.734
+a skilled practitioner like yourself can see the contour of which ones fit together. I mean, it's pattern recognition, clinical pattern recognition, which is very difficult to do from an AI search. It's impossible, really. I mean, I think I have a couple of questions. One is just leap to mind as it relates to the mood disorders. I could imagine that some of these disorders are different.
+
+33:04.962 --> 33:27.198
+or they attempt to treat them through antidepressants, SSRIs and things of that sort. Is there any indication that the drug treatments for these mood disorders interact with the hormones that we're talking about in a way that exacerbates the PCOS? I mean, we know that serotonin and dopamine, all these things, have feedback and interaction with these hormones. Or do you think that's a separate approach?
+
+33:27.330 --> 33:56.766
+In order to answer that, I think it's better for me to tell you the underlying drivers of the symptoms of PCOS and how those can affect the mood. And by treating the underlying conditions, sometimes you can address mood changes without having to give them a Zoloft or a Lexapro. You might have to, right? But there's no evidence, from what I understand, that those drugs are actually causing PCOS. No. Okay. I just wanted to...
+
+33:56.866 --> 34:22.622
+essentially rule that out. Right. OK, good. I'm relieved to hear that because those drugs are commonly prescribed. At least not to my knowledge. I've never experienced that. My not so cursory web search on this said no, but I want to verify with you. So what is the cause of the mood disorders? You're talking slightly elevated testosterone. So all the males listening are like, ooh, sounds great. And of course, supplementing with testosterone
+
+34:22.818 --> 34:42.174
+in women in menopause has now become kind of a trendy thing. And you can absolutely do that with PCOS patients. We can get to that. But is it okay if I discuss the underlying pillars? Because it's very important. And I think that's what people don't understand. And I think that's what I've observed in my practice, at least,
+
+34:42.306 --> 35:10.462
+over the past 25 years. And it's so important to understand it because if you don't understand it, then you don't know how to treat PCOS. Then you don't just throw birth control pill at it. And that's why these patients don't feel better. So there are underlying pillars that drive the symptoms of PCOS. The number one issue is the brain pituitary ovary axis, which I'm sure you know it by heart. But as you know,
+
+35:10.562 --> 35:39.710
+our hypothalamus releases a hormone called GnRH that stimulates in a, it fires in a pulsatile fashion. And basically it stimulates the pituitary gland to release this hormone called FSH, which stimulates the follicles in the ovaries. As the follicles, one follicle per month, as the follicle gets stimulated and starts growing, it starts releasing estrogen. When the estrogen peaks really high for 48 hours,
+
+35:39.810 --> 36:08.478
+It stimulates that same pituitary gland to release a hormone called LH, and LH is responsible for ovulation. It comes, it basically weakens the wall of the follicle. It causes inflammation. It causes vascular changes, all of that. So the egg gets released. Once the egg gets released, whatever's left of that follicle is the corpus luteal cyst, which starts releasing progesterone to basically support implantation.
+
+36:08.770 --> 36:38.206
+This is what's supposed to happen. And that's how people get pregnant. It's such a beautiful mechanism, right? It's so beautiful. The various cells that are stimulated by FSH produce a hormone which feeds back to shut down the production of FSH and bring in the LH. I mean, it's a beautiful molecular set of gears, basically. It's beautiful. I mean, not to make it too reductionist, but it's truly incredible when one thinks about it. And as you mentioned, that it spans from the brain all the way to the ovary. To the uterus, right? Yeah, it's a...
+
+36:38.594 --> 36:45.822
+It's a spectacular set of interactions, really. And you know that estrogen that the follicle is stimulating,
+
+36:46.018 --> 37:15.984
+gets the lining of the uterus nice and juicy, ready for pregnancy. And then when the egg ovulates and now the progesterone comes, the progesterone stabilizes that lining so the embryo can go and implant and turn into a beautiful baby. And usually that cyst, the corpus luteal cyst during the first 12 weeks of pregnancy is helping release the progesterone to help the pregnancy really stick to that wall of the uterus in simple terms. Nothing wasted. Nothing. But women are incredible. Aren't we incredible? It's amazing.
+
+37:15.984 --> 37:44.030
+I mean, indeed, indeed they are. It's like nothing's wasted. The portion of the follicle that would otherwise be, quote unquote, discarded is actually a source of critical hormones. It's incredible. It's incredible. But let me tell you what happens in a poor PCOS patient. That's the problem. The GNRH, remember, that secretes from the hypothalamus, it starts pulsating super fast. By doing that,
+
+37:44.546 --> 38:03.166
+It shifts the FSH-LH balance. So FSH goes down and LH goes up. LH stimulates these cells in the ovary. I don't know if you remember the theca cells in the ovary, and they start pumping androgens out, right?
+
+38:03.330 --> 38:33.086
+And when you have a lot of androgens in the ovaries, the androgens block the growth of that beautiful follicle that's growing to ovulate. So it freezes the follicle and it prevents it from ovulating. The follicle is still secreting the estrogen, but it never gets to that peak high, right? And it's still stimulating the lining of the uterus, but the ovulation doesn't happen. So when the ovulation doesn't happen,
+
+38:33.346 --> 39:02.078
+polycystic ovary syndrome. You start seeing these follicles in the ovary. So is it lack of sufficient LH? It's too much LH. Too much LH. So in PCOS, the LH-FSH ratio flips. So the LH is twice as much as the FSH. So you have this constant secretion of LH that stimulates these thicker cells to just pump androgens out, right? So the follicle freezes,
+
+39:02.242 --> 39:29.662
+doesn't ovulate. The follicle stays in the ovary. And one thing that they've noticed with PCOS patients, for whatever reason, their ovary is super sensitive to the LH. It's like adding fuel to the fire. It's like a positive feedback. The reason I asked if it's how LH is adjusted, the LH surge is what triggers ovulation normally, correct? But there is no LH surge. What I'm getting a kind of mental visual of is that
+
+39:29.762 --> 39:56.830
+The strong pull of the levers is just a bunch of smaller levers being pulled repeatedly. But there's still shedding of the uterine lining, right? There's still menses. It can be. So that's why it's probably very misleading for people who don't have extreme symptoms of PCOS because they think, well, if they're menstruating, then they assume that they're ovulating. And 20 to 30% of them actually ovulate, right? But they don't always ovulate. That's the problem.
+
+39:57.794 --> 40:23.870
+And of the ones who ovulate, it gets worse. Of the ones who, let's say, you know, this brain pituitary ovary axis is just partially disrupted. Of the ones who ovulate, 40% of them, the embryo either doesn't form because the quality of the egg is bad, but also the environment is not ready for it.
+
+40:24.834 --> 40:34.718
+So the progesterone, the uterine lining is not ready for it. That's why these patients don't get pregnant. What is thought to disrupt the hypothalamic disease?
+
+40:34.914 --> 41:04.414
+GnRH neurons. It could be everything. It comes to all the other pillars. It could be the feedback. Yes. But is there any evidence, I mean, we don't want to attribute everything to psychological stress, but the more I learn about the brain and body and their interactions over the years, the more I'm convinced that psychological state does impact hormones and brain function. Anyone listening will say, well, of course it does. But 10 years ago, there was this notion of psychosomatic illness. People would say, oh, they would say it's all in your head. We now know that
+
+41:04.578 --> 41:28.606
+that stress is a powerful modulator of hypothalamic function. It actually comes from the hypothalamus in part. So is there evidence that this is preceded by stress or trauma, things of that sort? No. It just sort of comes about. Yes, it's genetic, and that's why I want to talk about it. This is just the first pillar. You saw like just the first driving force is this
+
+41:28.770 --> 41:46.686
+brain pituitary ovary pathway that's completely disrupted. That most patients, 70 to 80% don't even ovulate. And of the ones who ovulate, the environment is not really good for the embryo. So that's just the first pillar. But at its core,
+
+41:46.882 --> 42:13.694
+PCOS has insulin resistance. And I'm sure you know all about insulin resistance, but I want to explain it to your... Please remind our audience. Yes. Because we have newcomers to the conversation, and I don't think we could hear enough about insulin resistance. Insulin resistance. Yeah. As a gynecologist, I'll explain insulin resistance. I'm sure you've had physicians who will probably explain it better, but I'm going to simplify it. Because it's one of the biggest drivers of PCOS symptom, and it's extremely common.
+
+42:13.794 --> 42:35.870
+Even lean PCOS patients can have insulin resistance. So what is insulin resistance? The simple way of explaining it is when we eat carbohydrates and our body breaks it down into glucose. Glucose stimulates our pancreas to release a hormone called insulin. The job of insulin is it goes to the cells in our muscle, in our liver, and it opens up the channels on
+
+42:35.970 --> 42:59.678
+on these cells and pushes sugar into the cell where it can turn into energy. So basically insulin takes the sugar from the blood, pushes into the cell and turns it into energy. PCOS patients, 80% of them have insulin resistance. It's not their fault. They're born that way. What does insulin resistant do? When they eat carbohydrate and their body breaks it down into glucose,
+
+42:59.778 --> 43:17.566
+Glucose stimulates their pancreas to release insulin, but their cells are resistant. And I'll tell you why. Remember that androgen that I was talking to you about that gets secreted from their ovaries because of the first pillar makes women more insulin resistant. So their cells don't respond well.
+
+43:18.082 --> 43:46.782
+I know. It's like, let me get there. The question I was going to ask was going to be a facetious one. I was going to say, do androgens do anything good? No, of course they do. Not to women. No, they do. They do. Women need androgens, but they don't need this many androgens coming from the fecal cells. Right. So when their cells can't uptake this glucose, glucose bounces in the blood. Well, you can't have blood stay. I mean, glucose stay in your blood. You have to clear it. So as glucose goes up, it pushes our insulin to go up.
+
+43:47.490 --> 44:11.902
+What does insulin do to PCOS patients? Number one, when insulin goes up, insulin stimulates our ovaries to push more androgens out. How about that? And it blocks the ovulation. It freezes that follicle, right? And it causes acne, hair loss, facial hair, body hair, irregular periods, all of that. The other thing insulin does is
+
+44:12.386 --> 44:41.534
+It blocks the liver from secreting sex hormone binding globulin. If you do a blood test on a PCOS patient, a lot of them, the sex hormone binding globulin is low. Sex hormone binding globulin is a protein in the blood that grabs free testosterone from our blood, right? When the levels go down because of high insulin, our free androgens and testosterone go up. So more acne, hair loss, facial hair, body hair, all those symptoms. I see. High insulin...
+
+44:41.794 --> 45:10.270
+does one more thing. It basically tells your body, take this sugar, get rid of it from the blood, and store it as fat. How does it do that? It pushes our liver to turn it into triglyceride. The triglycerides can, A, go into our blood as a form of VLDL and go and attach themselves to the heart. And that's why PCOS patients, you have to screen them, their lipid panel, because of their cholesterol, risk of cardiovascular disease, risk of diabetes, all of that.
+
+45:10.722 --> 45:38.430
+But what it does, it sends these triglycerides to our visceral organs. So these patients start having visceral fat. Visceral fat is very different than the fat that you have under your skin. Visceral fat actually releases cytokines, inflammatory factors, that increases the inflammation. Inflammation makes our insulin resistance worse.
+
+45:39.330 --> 46:03.198
+And inflammation, which is the next pillar, stimulates our ovaries to secrete more androgens. So it's a vicious feedback cycle. And I think maybe if we just double click on visceral fat a little bit. We've never talked about it on this podcast, really. And I'm not a visceral fat expert. Well, nor do I expect you to be, but I think it's worth people just hearing this.
+
+46:03.458 --> 46:31.294
+that visceral fat is not subcutaneous fat. This is why some PCOS patients can be lean. Indeed, many people, male or female, can be lean and have too much visceral fat. It's important to... Correct. You can now detect visceral fat in, I believe, MRI will do it. Not everyone, of course, has access to MRI. Or fatty liver. Or fatty liver. Do you know what I'm saying? But it gets dismissed, but it's a very dangerous form of fat because of that inflammation.
+
+46:32.482 --> 47:01.886
+We've known for a long time that there are things that we can do to improve our sleep. And that includes things that we can take, things like magnesium threonate, theanine, chamomile extract, and glycine, along with lesser known things like saffron and valerian root. These are all clinically supported ingredients that can help you fall asleep, stay asleep, and wake up feeling more refreshed. I'm excited to share that our longtime sponsor, AG1, just created a new product called AGZ, a nightly drink designed to help you get better sleep and have you wake up feeling super refreshed.
+
+47:02.082 --> 47:32.062
+Over the past few years, I've worked with the team at AG1 to help create this new AGZ formula. It has the best sleep supporting compounds in exactly the right ratios in one easy to drink mix. This removes all the complexity of trying to forge the vast landscape of supplements focused on sleep and figuring out the right dosages and which ones to take for you. AGZ is to my knowledge, the most comprehensive sleep supplement on the market. I take it 30 to 60 minutes before sleep. It's delicious by the way. And it dramatically increases both the quality and the depth of my sleep.
+
+47:32.066 --> 48:00.894
+I know that both from my subjective experience of my sleep and because I track my sleep. I'm excited for everyone to try this new AGZ formulation and to enjoy the benefits of better sleep. AGZ is available in chocolate, chocolate mint, and mixed berry flavors. And as I mentioned before, they're all extremely delicious. My favorite of the three has to be, I think, chocolate mint, but I really like them all. If you'd like to try AGZ, go to drinkagz.com slash Huberman to get a special offer. Again, that's drinkagz.com slash Huberman.
+
+48:01.218 --> 48:03.070
+Today's episode is also brought to us
+
+48:03.202 --> 48:33.168
+by Juve. Juve makes medical grade red light therapy devices. Now, if there's one thing that I have consistently emphasized on this podcast, it is the incredible impact that light can have on our biology. Now, in addition to sunlight, red light and near infrared light sources have been shown to have positive effects on improving numerous aspects of cellar and organ health, including faster muscle recovery, improved skin health and wound healing, improvements in acne, reduced pain and inflammation, even mitochondrial function, and improving vision itself.
+
+48:33.168 --> 48:53.534
+What sets Juve lights apart and why they're my preferred red light therapy device is that they use clinically proven wavelengths, meaning specific wavelengths of red light and near infrared light in combination to trigger the optimal cellar adaptations. Personally, I use the Juve whole body panel about three to four times a week, and I use the Juve handheld light both at home and when I travel.
+
+48:53.666 --> 49:23.102
+Right now, Juve is having their biggest sale of the year. From now through December 1st, 2025, you can save up to $1,000 on select Juve devices during their Black Friday sale. Just go to juve.com slash Huberman. That's J-O-O-V-V dot com slash Huberman. Some exclusions apply. So the next pillar is chronic inflammation. That's why PCOS patients have this chronic inflammation that they complain about. And this chronic inflammation...
+
+49:23.266 --> 49:51.806
+basically stimulates their ovaries to release more androgens. This chronic inflammation makes their insulin resistance worse. This chronic inflammation can affect their gut. That's why PCOS patients come and say, I don't feel good. I have food sensitivities. I feel bloated because these hormonal shifts and these inflammations do affect our gut. Then we go to the next pillar, which is genetics. If you look in genetics,
+
+49:52.130 --> 50:13.470
+PCOS families. There's someone who's either diabetic, pre-diabetic, had gestational diabetes, is overweight. There's some form of insulin resistance. A lot of times you see these patients and their dad is diabetic. So you don't have to look in your mom's side of the family. It's a very important point. It's both sides. A lot of people just do the direct one-to-one and they assume, well, if my mother...
+
+50:13.602 --> 50:41.246
+had no fertility issues and she wasn't overweight and wasn't diabetic, didn't seem to have type 2 diabetes, then it's not an issue. But yeah, dad's genetics are critical as well. Huge. And then the last pillar is epigenetics, which I know you talk a lot about it. But it's our stress. How much are we sleeping? What kind of food are we eating? Right? Someone said this to me, and I love this saying. They said, your genes load the gun.
+
+50:41.506 --> 51:08.382
+your environment pulls the trigger. And I love that because even if you're loaded with insulin resistance, all of that, you can suppress these symptoms. But if you start eating unhealthy, if you're stressed out, if you're not sleeping, if you're just not exercising, right, you're pulling that trigger. And that's why, Andrew, all these pillars work together. And that's why these patients present
+
+51:08.898 --> 51:38.334
+So many different ways, right? And when you were talking about mood, why does someone feel bad? Why does a PCOS... First of all, the androgens do affect, disrupt the dopamine and serotonin in their brain. That's a fact. But put yourself in the shoes of a PCOS young girl who lives at home with a thin, beautiful mom or a thin, beautiful older sister. She's overweight. She...
+
+51:38.562 --> 52:05.726
+She doesn't eat anything. She's exercising every day. She's already a little anxious. She has acne. Her mom takes her and they put her on Accutane. She's constantly lasering her hair. Her periods are completely unpredictable. She's starting to have an eating disorder because nothing she does is working for her, right? And then you take this patient with everything I told you,
+
+52:05.890 --> 52:34.718
+with all these underlying pillars not working in her, you take her to the doctor and she gets dismissed. That's why I'm here, to speak for them. I feel like over the past 25 years, their trauma has become my trauma. I literally can cry right now. It's clear how much you care about your patients and the ones that are not even your patients, just the women out there that are suffering in this way. Perhaps...
+
+52:35.138 --> 53:00.446
+Could we explore the possibility of a different, if I say phenotype, it sounds so clinical, but a different person who perhaps is only experiencing a subset of those symptoms that you just described? And on that note, I'm struck by the fact that what we know from male pattern baldness and female pattern baldness is that when androgens get too high, it miniaturizes the hair follicle. It's kind of interesting that...
+
+53:00.578 --> 53:25.758
+when androgens get too high in the ovary, they miniaturize the follicle there too. It seems like that basically excessive androgens are bad for follicle development. Stunts it. Yeah. So two parallel pathways operating in the exact same way. It sounds like we're trying to make high testosterone the issue, but in some sense, unless we think back to the GNRH neurons firing too much, the elevated androgens really seem to be the
+
+53:25.890 --> 53:52.222
+the kind of tip of the spear in this whole thing. Not what initially sets off the cascade, but in terms of tractable things that good medications and good practices might be able to take hold of. Is that right? And certainly insulin sensitivity as well. So I'm imagining a bunch of different patient profiles here. I can imagine women in their 20s, in their 30s, who have been told by society, okay, you're still fertile, you're good, you're going to be fine.
+
+53:52.578 --> 54:19.134
+These are the women that are showing up in clinics in their late 30s and 40s and saying, you know, why is it that, you know, my egg count is so low or why is it that I can't conceive? So PCOS patients, their egg count is falsely high because of that, you know, these tiny follicles that are frozen in the ovaries that never got to ovulate, they do secrete AMH. So these patients, that's why in 2023, they changed that second criteria, the PCOS ovaries,
+
+54:19.394 --> 54:40.350
+to elevated or elevated AMH. How high for AMH? I mean, sometimes like a normal, let's say a young. What's a typical value for someone in their 20s and 30s? So I would say up to six is normal. And people in their 40s? Less than one. It drops precipitously. Oh, yes. Where is the, I don't want to say cliff because maybe it's more gradual than that.
+
+54:40.610 --> 55:06.078
+probably late 20s, it starts declining. That's why I always tell patients, especially PCOS patients, to freeze by 20 to 30, even though they have tons of eggs. Listen, I get patients, they come to my office, they're like, doctor, new patient. I went to my fertility doctor, he doesn't know what he's doing. Why? 40, 41-year-old. I put out 30 eggs and he couldn't make a single embryo. Through IVF. You shouldn't put out...
+
+55:06.274 --> 55:23.038
+30 eggs at age 40. That's PCOS. This is so important for people to hear because I think egg count and elevated or high enough AMH is sort of touted as the thing that people go and look at. It makes sense, right? I mean, they'll do an ultrasound, count follicles. It's great as long as you're not
+
+55:23.170 --> 55:50.846
+missing PCOS. Because if it's PCOS, then the quality of the embryo is bad, then the ovulation is suboptimal, the environment is suboptimal, and everything else needs to be fixed. And this is perhaps why some people go in in their 30s, they might be doing IVF or something like that, and they actually have relatively low egg count. They'll get, you know, maybe, I don't want to, it's always tricky what low corresponds to, but you're three and two, you know, three on one side, two on the other. But then the IVF works because you're
+
+55:51.010 --> 56:03.710
+You don't necessarily need the quality of the eggs is higher. Right. So AMH, anti-malarian hormone, the easiest way to look at it is every 0.1 of AMH
+
+56:04.002 --> 56:31.262
+averages to one follicle. That's an easy way to calculate it in your head. So if you have an AMH of one, you should have about 10 follicles. But if you show up at 40 and there's 30 follicles in your ovaries, something's wrong. That's PCOS. You have to make sure it's not PCOS. You have to make sure that you're not missing PCOS because that's why this woman is not, you know, getting pregnant. And can I tell you, Andrew, how many patients come to a fertility clinic and
+
+56:31.458 --> 56:59.646
+and they are not diagnosed with PCOS, even by their fertility doctor? Well, the way you're describing the sort of standards in the medical profession, it's both not surprising and really disheartening. Yeah, it's really sad. Again, one of the reasons you're here today, I think this reframing of AMH and egg number or follicle number is very important for people to hear because I know a number of different people who
+
+57:00.034 --> 57:28.382
+done IVF, do IVF, and this issue of AMH and follicle number is like kind of held as the thing, right? Like if you have fallen, bravo. Someone still has, you know, 20 follicles at age whatever, you know, 41 or something, and then they'll go through rounds of IVF, and it's just, it's hopeless. I'm not a fertility specialist, but I can tell you if at age 25, 28, every three eggs make one embryo,
+
+57:29.058 --> 57:58.334
+At 40, you might need 10 to 15 eggs to make one embryo. So if your AMH at 40 is 0.5, that means five follicles. So you might have to do two or three cycles of egg freezing or embryo freezing before you can hit that normal embryo. So that's why, unfortunately, insurance companies don't cover egg freezing, right? And I...
+
+57:58.466 --> 58:07.038
+I always say this when girls are young and they have beautiful eggs and their eggs are young and healthy and you want to freeze them, they can't afford it.
+
+58:07.458 --> 58:30.846
+because it's very expensive. And then when they can afford it, they're usually in their late 30s or 40s and the quality is down. So that needs to be fixed. And we had this conversation, I think, in the Bay Area, a lot of these big companies, like Google and Facebook, these companies actually pay for their employees to freeze their eggs. They're smart, right? They don't want their employees to get pregnant. They're like, I'll pay for your egg-free thing. Keep working.
+
+58:30.946 --> 58:50.590
+But most women, most women don't have access. And let me tell you, 50% of counties in this country don't have an OBGYN. 50%? 50% of counties. A lot of these women have to drive two to four hours to see their OBGYN.
+
+58:51.394 --> 59:11.518
+That's crazy. That's why these podcasts are a game changer, because if they don't have access, that's why artificial intelligence, AI, these robotic chatbots that hopefully can someday diagnose these patients and treat them, you know, from home without having them have to drive anywhere.
+
+59:11.650 --> 59:31.070
+I don't know, four hours to see an OBGYN who will then also dismiss their symptoms. Yeah, like you said, in some cases, technology may be better than certain physicians. I don't disagree with you there. By the end of this podcast, you'll believe in the robots treating. Well, I'll believe in robots and technologies perhaps doing better than some clinicians and scientists, to be fair. Yes.
+
+59:31.170 --> 59:59.742
+But I do think that spectacularly good clinicians like yourself and in other fields, I mean, I know people in different fields of medicine. I'm fortunate enough, blessed to know people in different fields of medicine for whom you can truly say that there's no world where a robot or even 15 doctors can compare because there's something about, you know, knowing the principles of something, knowing the principles below the principles, the principles below that, and then being a longtime practitioner in a given field. Yeah.
+
+59:59.970 --> 01:00:27.134
+You know, like true, what we call true expertise, deep expertise and lateral expertise. No, I was going to say, you know, most fields of medicine, let's take ophthalmology, right? Every single ophthalmologist knows about cataract. Yes. Most common form of blindness. Thank you. So it would be rare for you to go to an ophthalmologist with cataract and not get diagnosed, correct? Correct. So why is it that the leading cause of
+
+01:00:27.234 --> 01:00:55.678
+infertility on this planet, 90% of women are not diagnosed. Women's health is very different than other fields of medicine. It's a different monster. It's that cataract patient that goes to 20 ophthalmologists and she keeps saying, I can't see. And the ophthalmologist says, you're crazy. There's nothing wrong with you. That's an excellent analogy. Not just because it's vision and that's my home area of science, but because I think
+
+01:00:56.002 --> 01:01:21.278
+humans are so dependent on vision and just the idea of losing vision is uh for people who are sighted is uh so challenging oh i mean the number of of incredibly elegant feedback loops and the way the whole thing works like a beautiful symphony when it works also indicates that like small disruptions in these things are can cause um really downstream consequences i'm curious
+
+01:01:22.082 --> 01:01:50.782
+Why so much more PCOS? Or is it like so many areas of medicine where it probably was around a long time, but we just weren't aware? And, you know, I can point to the insulin resistance. Maybe it's how people are eating and the downstream chronic inflammation from the intravicceral fat. Maybe it's the neuroscientists in me. I keep thinking of these GnRH neurons in the brain that suddenly start firing abnormally. You know, I have all sorts of pet theories as to why that could be the case, but of course I don't have any data. Stress affects it.
+
+01:01:51.618 --> 01:02:15.198
+For sure. Disrupted sleep-wake cycles. I would sort of default to that. But then you see these young girls who grow up in amazing, loving families. They've never had any stress. They didn't have any trauma. They're sleeping well. They're eating well. Great nutrition. Yeah, but they start having these symptoms. The reason I'm saying this, I don't want people to get this message that...
+
+01:02:15.522 --> 01:02:35.166
+stress is starting all this because they really it's a it's a multi-system dysfunction it's an immune system dysfunction it's a insulin resistant dysfunction it's a brain pituitary ovary dysfunction it has a genetic factor it has an epigenetic and that's why the treatment plan
+
+01:02:35.490 --> 01:03:05.406
+is so important. That's why you can't throw birth control at all these pillars and say, all right, see you later. Also, birth control means many, many things, right? I mean, there's the estrogen. And I love birth control, but, you know. Well, nowadays there's a bit of a pushback, I notice, at least on Instagram for what it's worth. Sometimes we think Instagram is the whole world, and I'll tell you, everyone, it's not the whole world. There are a lot of people who are not on Instagram all the time, but many are. And there seems to be a bit of a pushback against Instagram.
+
+01:03:05.570 --> 01:03:35.230
+certainly hormone-based contraception. A lot of women I hear from are convinced that somehow they believe it damaged them, and I believe them. That's when the topic of endometriosis will come up, and I would love to talk about that. But the reason birth control pills work for PCOS patients, it's one of the aspects. I don't like birth control pills for PCOS patients. Remember I told you they're moody patients. They have anxiety. They are depressed.
+
+01:03:35.426 --> 01:04:04.574
+it's hard for them to take birth control pills. In my opinion, a lot of times they complain of I'm eating more or I don't feel well or I'm more depressed or so it's not my first go-to treatment, but I will tell you why it works. Remember I told you the ovaries are the sex hormone binding globulin goes down because of that high insulin. Birth control pills stimulate that sex hormone binding globulin that starts grabbing the testosterone
+
+01:04:04.674 --> 01:04:34.640
+And it helps with their symptoms. That's why if you go to the doctor and you say, I have acne, they're like, birth control. I have hair loss, birth control. My periods are irregular, birth control. We use it for everything, right? But it does work to treat the symptoms of PCOS. It makes their periods regular. It helps with the skin. It helps with the hair loss. It helps with all of that. This is estrogen-based or progestin-based birth control? You can do both, estrogen and progesterone. Or there's a progesterone-only birth control pill now called Slend that helps with
+
+01:04:34.640 --> 01:04:59.454
+It's very anti-androgenic that I try for PCOS patients who don't want to, you know, need a method of birth control. But when it comes to treatment, you have to hit the underlying pillars, right? So we talked about the epigenetics that always start with that. Exercise, walking after each meal, you know, walk for 10, 15 minutes, exercise.
+
+01:04:59.778 --> 01:05:18.270
+Make sure you're sleeping well. Make sure your diet is healthy. You're not eating inflammatory foods. You're avoiding, you know, processed foods. So lower your stress. So you deal with that. But that doesn't work for these patients. That's why you need to address everything else.
+
+01:05:18.562 --> 01:05:41.470
+Insulin resistance is one of the main pillars that needs to be addressed. You have to lower that insulin because if you lower that insulin, you're lowering visceral fat, you're lowering inflammation, you're lowering the ovaries from secreting androgens, right? So that insulin needs to be lowered. That's why a lot of PCOS patients get prescribed metformin.
+
+01:05:41.794 --> 01:06:09.502
+right? What does metformin do? Metformin basically makes us more insulin sensitive. It's opening these channels. So sugar clears the blood and goes into the cells where it turns into energy. Is it high dose metformin or sort of low? No, high dose. High dose, I mean, I start patients on 750 twice a day, but you have to start slow because PCOS patients, especially the ones with insulin resistance, which is 80% of them,
+
+01:06:09.762 --> 01:06:37.470
+I start with 750 because it can cause sometimes GI symptoms like diarrhea, and it can also cause nausea. So I start with 750 at night. And if they tolerate it, I add the 750 in the morning. And for patients who are tolerating it and they still are not ovulating, their periods are still not regulating, and they still have symptoms, I might up it to 1,000 twice a day. But you see these patients who come in on 5%.
+
+01:06:37.602 --> 01:07:06.014
+500 milligrams of metformin once a day. That's not going to touch these patients. So metformin is one. But before metformin, and I don't know if you know this, because of my passion for PCOS, I actually developed a calculator. It's a platform called Ovi. Women can go on it. Obviously, I can't diagnose on any website, but I can tell them that, ask them. It's my algorithm that I've developed over the past 25 years.
+
+01:07:06.434 --> 01:07:13.758
+And I can tell them very closely whether or not they have the likelihood of having PCOS.
+
+01:07:13.858 --> 01:07:43.294
+So it's there. It's ov.com, ovii.com. It's free. They answer some questions. Questions, and I tell them whether they have the likelihood or, you know, if they're less likely to have PCOS. And if they do, PCOS is one of the very few conditions in medicine where supplements make a huge difference. And these are for patients who don't have access to the doctor. And these are patients who basically go to the doctor and they're being dismissed.
+
+01:07:43.522 --> 01:08:12.382
+These supplements work amazingly well. Why? Because the OV supplement I created, I literally did it. Here, diagnose yourself. And if you're being dismissed, start with the supplement. They make a huge difference for these patients. Why? Because they address the insulin sensitivity. I'm sure you've heard of inacetol, different forms of inacetol that work to increase sensitivity to insulin. And that's why these patients, when they take it,
+
+01:08:12.514 --> 01:08:41.119
+they say, oh, my periods became regular or I took it and I got pregnant because it does address that. When it comes to this insulin resistance, they can either do the metformin, but what I like to do, I like to start them on supplements that has inacetol in it and vitamin D. Did you know that low vitamin D makes you insulin resistant? Well, I'm convinced that I was aware, but I think it can't be...
+
+01:08:41.345 --> 01:09:04.830
+enough or emphatically enough because, you know, I know I'm really bullish about the sunlight thing. I'm always talking about sunlight. I don't want people to get sunburned. That's not what I'm talking about. But we spend so much more time indoors now under artificial lighting where the short wavelength lighting, it really disrupts how the mitochondria process energy and the long wavelength light from sunlight, the so-called red and infrared light,
+
+01:09:05.154 --> 01:09:30.174
+serves as a protective feature against the short wavelength light. So we're not getting enough vitamin D and we need that. That comes from the short wavelength light. I do have a question about inositol. There are a couple of different forms. There's myo. And we can explore those in more depth. But it is a well-known regulator and can improve insulin sensitivity, which is what you want. Sometimes people hear,
+
+01:09:30.274 --> 01:10:00.254
+Insulin sensitivity and they think that's the bad thing. You want your insulin to be sensitive. You don't want it to be resistant. Right, right. Anything that will make you more insulin sensitive will help with symptoms of PCOS. So you want to bring down these pillars, right, without even thinking about birth control pill. You want to lower your insulin resistance. So whether it's metformin or supplements or exercise or low-carbohydrate diet or lowering your stress and lowering your cortisol.
+
+01:10:00.418 --> 01:10:22.014
+all of that, all of this system, that's why I wanted to explain all this because they all work together. Then you want to bring your inflammation down. You want to bring that visceral fat down. So you have to, that's why, I don't know if you heard this, but you know, in 2014, back then I had Trulicity as GLP-1. And that's what I used to use for my PCOS patients. And they would,
+
+01:10:22.114 --> 01:10:50.942
+lose 50, 60, 80, 100 pounds. And this is 2014. What did your colleagues think at that time that you were injecting patients with GLP-1? I actually learned it from a cardiologist who I used to work with, Dr. Korsandi. And I used to send, because I would screen for lipid panel on these PCOS patients. And they were all, you know, they had high triglycerides. And they were overweight. So I would keep sending them, send my patients to him. And one day he called me. He's like, listen, Thais, there is this medication called Trulicity.
+
+01:10:51.394 --> 01:11:15.806
+Do not stop sending your patients to me. Treat them with this medication. They will lose weight and their cholesterol, everything will get better. So in 2014, I started putting these patients on Trulicity. And one thing I realized is their periods were starting to get regular. Their symptoms of PCOS would get better. And the first thing they would come and tell me is,
+
+01:11:15.970 --> 01:11:31.326
+doctor, I feel less inflamed. Why do you think? Because you put them on these medications. First of all, PCOS patients chronically, they have this insulin firing, right? And that's why this cascade starts. What GLP-1s do is
+
+01:11:31.458 --> 01:12:01.424
+people think it's an appetite suppressant and that's how it works. That's a side effect of it. But what it does, it actually regulates that insulin. So when you eat, it spikes your insulin up and clears that sugar out of your blood, right? It's like a scavenger, glucose scavenger. Right. And it also makes you insulin sensitive. So again, clearing it, which is oxygen really for these PCOS patients. That's why I get so upset when patients comment about these
+
+01:12:01.424 --> 01:12:19.294
+GLP-1s because in this subgroup of patients with insulin resistance who are overweight, who are not ovulating, and who have all these symptoms, these medications since 2014 have changed their lives in my practice. The pushback on GLP-1s is there are a variety of reasons, probably
+
+01:12:19.394 --> 01:12:48.478
+discussion for another time, but they've clearly helped many, many people as long as people still engage in the right behaviors. And the self-reiniting disorder, yes. Maintaining muscle through resistance training, and people still need to take great care of themselves, eat properly, exercise, sleep, et cetera. You mentioned metformin several times. I'm aware of an over-the-counter version called berberine, which I believe comes from a tree bark, which is supposed to be a pretty potent glucose scavenger as well. Is there any reason why berberine is not advised?
+
+01:12:48.738 --> 01:13:12.830
+So I think there are some studies that say long-term berberine is not advised. The problem with PCOS is it's not something, it doesn't have a cure. You can't cure it. It's an ongoing issue. That's why you need to be on supplements that long-term you can stay on. And, you know, like you mentioned, vitamin D, curcumin, chromium, zinc,
+
+01:13:12.994 --> 01:13:28.222
+There are so many things we can do to increase that insulin sensitivity, lower the inflammation in the body. I don't usually give berberine long term, but it definitely short term, you can use it as pulse.
+
+01:13:28.514 --> 01:13:56.350
+for these patients. And metformin, it sounds like, is a relatively safe drug. Is that right? It's very safe. You know, even for my patients who are not PCOS, I recommend metformin, let's say perimenopausal women with hemoglobin A1Cs in the borderline range, you know, 5.7, you fall into the pre-diabetic range. You know, I'm very lean. I've never been overweight, you know, but I have a long family history of diabetes. And
+
+01:13:56.450 --> 01:14:09.470
+And my hemoglobin A1C was 5.6 a few years ago. And I started taking metformin, and now I'm at 4.8. What dosages for people who are...
+
+01:14:09.570 --> 01:14:31.294
+relatively lean or lean? I start with like 500 at night just to see how they do. Metformin does have side effects. Drops your blood sugar, right? No, it's mostly like the nausea and some people really get really bad diarrhea with it. That's why, you know, I start them on the supplements. If it doesn't work, I
+
+01:14:31.394 --> 01:14:41.310
+to metformin if that doesn't work then i offer them glp ones i see but you can absolutely and i always ask patients ask me can i be on the supplement on
+
+01:14:41.410 --> 01:15:06.078
+and on the GLP-1, yes. You just don't want to start the GLP-1s with the metformin because they both cause nausea and you don't know which one's causing what. So if someone's morbidly obese and they really want to lose weight, I start with the GLP-1s and usually in about four months, my average since 2014, I can tell you four months of GLP-1s done correctly, patients lose 24 pounds. That's my
+
+01:15:06.242 --> 01:15:34.942
+That's my curve at my office. Of body fat and muscle? Probably of muscle too, but these patients, a lot of them are like 300 pounds, so it's hard to even assess that. But you know what? As they start losing weight, they become more motivated because it's the first time in their life that something actually works for them because you're actually regulating that insulin dysfunction that they have. And by supporting that, they become more active. They
+
+01:15:35.042 --> 01:15:43.294
+their self-esteem gets better. I had a 26-year-old in my office who I've been treating for many years for PCOS and these GLP-1s.
+
+01:15:43.394 --> 01:16:09.758
+And she came into my office a few months ago. And when I walked in, she was videotaping me. She looked so good. She was so confident. Her hair was done. She had a mini skirt with these boots. And she was always like, you know, very shy. And she wouldn't talk. It was this different person that walked into my office. And I started hugging her and she started crying. And she looked at me. She said, Dr. A, this is the first time in my life I know what it means to be happy. Wow. Yeah, I mean...
+
+01:16:09.954 --> 01:16:22.334
+It's very clear that these GLP-1s can help a lot of people. It's interesting that the pushback on GLP-1s now is changing a bit because a number of compounding pharmacies make them now. So, you know, people...
+
+01:16:22.914 --> 01:16:50.558
+hacked the GLP-1s to quote-unquote big pharma. It was kind of a... And I understand people's gripes with big pharma insurance and things. It's, you know, if everyone has been, you know, boxed out of access to a drug or something like that and had insurance issues, it can be very, very frustrating, even deadly. I mean, there's a whole discussion about this recently around cancer and cancer drugs. But to stay on point, I think now that some of these GLP-1 peptides are available through compounding pharmacies, prices have come down.
+
+01:16:50.850 --> 01:17:19.518
+The big pharmaceutical companies don't like that, but it's also the case that people are, quote-unquote, microdosing them. They're taking the GLP-1s at doses that are below the threshold that would give them nausea. So they're not losing weight quite as quickly. They're not going gaunt quite as quickly. But nonetheless, they're benefiting from, I think, the appetite suppression, the improved insulin sensitivity. Inflammation. And reduced inflammation. Yes, thank you. Huge. And it also seems that they...
+
+01:17:20.386 --> 01:17:45.694
+Adjust something about brain chemistry that make people feel better. Separate. It's impossible to separate it completely, but separate from a lot of the bodily changes. There's a bit of an antidepressant function there. You know why? Because that noise that says eat, eat, eat, eat, which is an issue, like, you know, that binge eating. I'm just speaking for my PCOS patients because I'm not an expert for obesity. But...
+
+01:17:45.954 --> 01:18:14.462
+They have this voice in their head and it's a constant battle from the minute they wake up to the minute they go to sleep. And it's not like they're crazy. They're not, it's not like they're, you know, being sloppy with food. It's just this brain dysregulation of dopamine and serotonin that causes this anxiety, constant anxiety. And every single one of them will tell me my brain is quiet.
+
+01:18:16.098 --> 01:18:45.822
+They're not drinking as much. Yeah, that's a clear, quote unquote, side effect is people don't crave alcohol as much. And I've said it for years, use it on alcoholics. Use it on alcoholics. I had a friend of mine who called me and said her son drinks a lot. The first thing I asked is can he tolerate microdosing of Ozempic because it shuts down their cravings. Because it's in some sense a sugar craving. It's a state craving of being under the influence of alcohol, but it starts with a craving of sugar. Those two things are very closely paired.
+
+01:18:45.986 --> 01:19:08.862
+But that's why they feel better, right? But even without GLP-1s, when you diagnose and treat these PCOS patients, their confidence comes back. They feel better. They know they're not crazy, which is why I'm here today. You are not crazy. If you're gaining weight, acne, hair loss, facial hair, body hair, if you're not getting pregnant, if you can't lose your weight, none of this. You're not crazy, right?
+
+01:19:09.058 --> 01:19:37.502
+These are the underlying conditions and these vicious cycles need to be addressed. And for people that want to get pregnant and treat their PCOS, what are the success rates that you've observed in your clinic? Very good question. So I'm not a fertility doctor, but I'm trying to take these patients out of the hands of the fertility doctors. So one thing I do, I put them on the supplement, on my OV supplement. I give them metformin and I have them try.
+
+01:19:37.634 --> 01:19:52.478
+And I try to see if I can regulate their period. Two things you can do easily, and doctors can do it in their office. One is a medication called Letrozole, and the other one is Clomid. Both of those basically...
+
+01:19:52.834 --> 01:20:16.894
+regulate that hypothalamus pituitary ovarian axis and pushes these patients to ovulate. With letrozole, 60-70% of them, I think, ovulate. And with Clomid, it's a little bit less. So you can try those in the office for someone who wants to get pregnant. What I usually do, I have them try on their own for six months to a year, depending on their age. If they're above 50%,
+
+01:20:17.282 --> 01:20:45.662
+35, I say six months, if they're less than that and they're not in a hurry and their egg count is good and I know I've dealt with their PCOS and their inflammation and their insulin resistance, then I have them try for a year, right? Because if you take 100 couples, regardless of age, and you have them have sex, I don't know, three to four times a week, 50% of them get pregnant in the first six months and 90% of them get pregnant in the first year.
+
+01:20:45.762 --> 01:21:11.070
+But for patients with endometriosis or PCOS, I usually have them try for like about six months and then check back in with me. You know, if letrozole, Clomid, trying on their own, everything fails, then you can send them to fertility doctors. One thing that I want to bring up here, which is my observation, and it's nowhere in the literature, but I'm saying it today and I know it's going to be published someday.
+
+01:21:11.874 --> 01:21:40.542
+I strongly believe that over 50% of PCOS patients also have endometriosis. Over 50%. And I've always said this. If you have a patient with PCOS, think about it. PCOS is already one of the leading causes of infertility. And in my opinion, 50% of them, because I've seen it in my office, have endometriosis. And I have a PATH report and I've done laparoscopic surgery to prove it.
+
+01:21:41.698 --> 01:22:11.582
+If you only address PCOS and you're dismissing their painful period, then they're not getting pregnant. That's why you have to make sure you put a check in front of all these underlying conditions. I'd like to take a quick break and acknowledge one of our sponsors, Element. Element is an electrolyte drink that has everything you need and nothing you don't. That means the electrolytes, sodium, magnesium, and potassium, all in the correct ratios, but no sugar.
+
+01:22:11.746 --> 01:22:41.712
+Proper hydration is critical for brain and body function. Even a slight degree of dehydration can diminish your cognitive and physical performance. It's also important that you get adequate electrolytes. The electrolytes, sodium, magnesium, and potassium are vital for the functioning of all cells in your body, especially your neurons or your nerve cells. Drinking Element makes it very easy to ensure that you're getting adequate hydration and adequate electrolytes. My days tend to start really fast, meaning I have to jump right into work or right into exercise.
+
+01:22:41.712 --> 01:22:58.782
+To make sure that I'm hydrated and I have sufficient electrolytes, when I first wake up in the morning, I drink 16 to 32 ounces of water with an element packet dissolved in it. I also drink element dissolved in water during any kind of physical exercise that I'm doing, especially on hot days when I'm sweating a lot and losing water and electrolytes.
+
+01:22:58.914 --> 01:23:27.902
+Element has a bunch of great tasting flavors. In fact, I love them all. I love the watermelon, the raspberry, the citrus, and I really love the lemonade flavor. So if you'd like to try Element, you can go to drinkelement.com slash Huberman to claim a free Element sample pack with any purchase. Again, that's drinkelement.com slash Huberman to claim a free sample pack. Well, I definitely want to talk about endometriosis. Before we move to that, it sounds like going after the insulin resistance first with
+
+01:23:28.130 --> 01:23:54.462
+Metformin, inositol, the other things in OVI. Well, first people should go to the OVII site. Take the quiz. Take the quiz. It's a zero-cost platform. You get some feedback there about what might be happening, what's likely happening. And then take care of the insulin resistance, which presumably also includes things you mentioned, trying to get best possible sleep, limit stress, exercise. Yes.
+
+01:23:54.946 --> 01:24:18.142
+And start with supplements first if your symptoms are not bad. You know, I've had like 50-some patients get off Ovi because they got pregnant. All you're doing is addressing their hormone and metabolic health. That's all we're doing with it. But if it doesn't work, ask for metformin. If it doesn't work and you're having a hard time losing weight, ask for GLP-1s.
+
+01:24:18.306 --> 01:24:43.838
+Ask your doctor for Clomid if you're trying to get pregnant. Ask your doctor for Letrozole. Letrozole first, Clomid second. And if all that fails, go see a fertility doctor. But before that, even if you're single and you don't have a partner and you're in your late 20s and you have no one and, you know, having a baby is something that will probably happen a few years down the line, consider freezing eggs. Not because of the count, but
+
+01:24:44.002 --> 01:25:10.622
+because of the quality of the eggs. Because PCOS patients, again, have tons of eggs, but the quality is not that good. Endometriosis is opposite. Endometriosis destroys your egg count and quality. I've seen a few papers that suggest that coenzyme Q10 and L-carnitine might be beneficial for egg quality. Yes. And in males, sperm quality, but we're talking about eggs here. Do you
+
+01:25:10.754 --> 01:25:33.790
+Yes. And I would say it's probably because of inflammation, right? We don't really have great tests for inflammation yet. The number of tests, you know, they're coming online for evaluating biomarkers is quite impressive, but we don't really have a good test for inflammation. As we don't have a test for PCOS.
+
+01:25:34.274 --> 01:25:57.726
+Wouldn't that be wonderful? But it sounds like there's no single blood test that would do it because it's a constellation of things. That's why patients say, my doctor said I don't have PCOS because my testosterone is normal. False. My doctor said I don't have PCOS because I don't have any cysts on my ovaries. False. My doctor said I don't have PCOS because I'm not overweight. False. My doctor says my periods are regular, so I'm not overweight.
+
+01:25:57.922 --> 01:26:15.998
+I don't have PCOS. False. There's so many myths. That's why it's important to understand the four phenotypes and how they differ. Understand that 70 to 80% of these patients don't ovulate. Understand that the 20, 30% who ovulate, ovulate sometimes, not all the time.
+
+01:26:16.450 --> 01:26:42.878
+And that's why they're not getting pregnant. And understand that inflammation, insulin resistance, and this brain ovary axis are the main drivers. And then you add genetics and epigenetics, it starts a big chaos in the body. And that's why as a clinician, that's why it takes so much time, right? In this healthcare system, when you get 10 minutes with your doctor, do you think your doctor, everything we talked about,
+
+01:26:43.074 --> 01:27:10.910
+I teach all of this to my new patients with PCOS. How can you do that in 10 minutes? And on top of that, do their pap smear, check their hormones, talk about STD, talk about birth control, rule out endometriosis. How are you going to do that? A, patients don't have access to doctors. B, when they have access, either the doctors are not well-trained or they don't have time to spend time with these patients. And they get
+
+01:27:11.138 --> 01:27:40.926
+Even when they get diagnosed, they get prescribed a birth control pill, and off you go. Yeah, the thin end of the wedge, in this case, really seems to be going after the insulin resistance, at least in terms of what people can do for themselves. Because people can't start injecting androgen blockers without the assistance and guidance of a physician. So take care of your insulin sensitivity. Enrich it, encourage it.
+
+01:27:41.250 --> 01:28:10.846
+sunlight, limit stress, sleep, etc. But these tools of inositol, coenzyme Q10, L-carnitine, these are in the OV supplement. It is amazing and not because I don't even have time, but I really created it for women who are at home who don't know if they have a PCOS and they don't know what to do. This is the least you can do. Eat healthy, exercise, sleep well, lower your stress, take the OV supplement, but before you do all that, take the quiz. And if you want
+
+01:28:11.074 --> 01:28:39.454
+Future fertility, freeze, freeze, freeze before 30. And know your egg count. What about for women who are older than 30 who want to freeze eggs? Does it make sense for them to freeze at 35? It seems to me the answer would be yes. Oh, always. I always freeze. Because you need one good egg. And you don't know if you're going to get it or not. But freeze. And PCOS patients, the beauty of it is they have all these follicles so we can pull out a lot of eggs. Now, the quality might not be good.
+
+01:28:39.554 --> 01:29:08.606
+But keep pulling it. So for my PCOS patients, generally speaking, I always tell my patients freeze 20 eggs because 20 is safe. But as you get older, especially if you have PCOS, I might want 40 eggs. You know, the more you have because I know the quality is not that good. Well, and considering that you're going to get more, the younger the patient is and that freezing eggs is not a zero cost endeavor, it starts to get more expensive as you get older, essentially.
+
+01:29:08.834 --> 01:29:37.470
+Right. So the incentive to do it younger is that it's going to be less expensive in the long run. I mean, there are women in their late 30s, early 40s who still try to freeze eggs. I think in the state of California, after age 42, you can only freeze embryos, not eggs. I mean, it doesn't even make financial sense at that point to do it, to pay $10,000, $15,000, $20,000. I think in Northern California, it goes up to like $35,000. I mean, imagine for one cycle to get two eggs out.
+
+01:29:38.402 --> 01:29:59.134
+Yeah, the probabilities are exceedingly low, but you can understand why people feel, you know, this kind of information, even just podcasts in general, weren't so prominent, you know, six, seven years ago. I mean, they were, podcasts were around, but these sorts of discussions weren't happening. No, this is amazing. What you're doing, I don't think you'll see this podcast, which is,
+
+01:29:59.234 --> 01:30:27.582
+will make such a huge difference. And I want your male listeners to listen for the sake of their daughters, their sisters, their girlfriends, because their wives, because this is so common and so dismissed. And you know, I've always said this, you're going to laugh, but you know what my dream is? You'll see I'm going to get to my dream. As I've always said it, I want the President of the United States to call for 15 minutes of silence in this country.
+
+01:30:27.682 --> 01:30:56.414
+And I'm really serious. And I want him to hand me the mic so I can tell women what they deserve to know. To tell them that their symptoms are real, that their pain is real, that they're not crazy, that it's not in their head, that there is something really wrong that needs to be addressed. And if they're being dismissed, they need to listen to podcasts like yourself. Come on, SheMD podcast. I literally, just like you, I take everything.
+
+01:30:57.378 --> 01:31:10.462
+every single condition and I teach them what to do with it. They don't need to go to, like literally they don't need to come to my office to see me. I'm telling them what to do. But you have to teach them to become their own health advocate.
+
+01:31:10.722 --> 01:31:40.688
+This is the new movement is for people to advocate for their own health is a big shift, I think, since the pandemic, really. And I hear you loud and clear. And also folks at HHS, Health and Human Services, do listen to this podcast. About 50% of our listenership is male. The other 50% is female. I love that. It distributes differently across platforms, but that's basically the contour of things. And I have a feeling you'll get your 10, 15, hopefully more minutes.
+
+01:31:40.688 --> 01:32:08.958
+I know. This is my mic today. I feel like I'm getting to my dream. Well, hopefully it's a large vertical step toward your ultimate dream of doing that at the national level. Although, you know, we are now translated into other languages. So there is the potential for this to go extremely far. Thanks to the information you're sharing. Okay, so I definitely want to talk about endometriosis. But before we do that, I just want to give people...
+
+01:32:09.282 --> 01:32:34.078
+A summary reminder of the to-dos. Women, basically regardless of age, should go take this OVII test, the self-test. Zero cost, get some answers, get some feedback, and then really take control of their insulin sensitivity. This is true for everybody, but especially for the people we're talking about here, women that might have PCOS, might not, interested in their fertility,
+
+01:32:34.338 --> 01:33:02.526
+just broadly interested in their hormone health, regardless of age, even if they're perimenopause menopause. Great. The actionables of limit stress, excellent sleep, in no particular order. Limit stress, get the best possible sleep, eat a low inflammation diet, limited processed foods, maybe even cut back on starchy carbohydrates to improve insulin sensitivity for make sure you're getting enough protein, this kind of thing. Exercise, including high intensity and resistance training. And then supplementation.
+
+01:33:02.626 --> 01:33:14.750
+You've designed a supplement. I have no relation to it. So no, this isn't a designated collaborative promotional, but the point being that it has all the things in it that one would want. It's inositol.
+
+01:33:15.778 --> 01:33:45.744
+I'm Q10. It has vitamin D. It has actually a wild mulberry leaf in it, which believe it or not, if you take it before your heaviest meal, it blocks the absorption of carbohydrates in that meal by 40%. So all the things that PCOS patients really need for that insulin resistance, for their inflammation. You know, we've had so many patients get pregnant on it. So many patients. I had a patient who called me and said, my mood is better. Going back to what I was telling you, instead of just
+
+01:33:45.744 --> 01:34:13.854
+starting these patients on Zoloft and Lexapro, sometimes when you fix their underlying condition, you might make them feel better. Not to dismiss their symptoms, but you can at least start with the more natural ways and then prescribe them antidepressants or anti-anxiety medication. Yeah, amen to that. And it's interesting, this mulberry. You know, I think some people who are more from the traditional medical orientation think, oh, supplements, this and that.
+
+01:34:14.498 --> 01:34:33.150
+We've had a couple of scientists on this podcast, serious laboratory scientists who work on things, everything you can imagine, from painkillers to things that are active in the brain to improve mood, regulate appetite. Pharma and the drugs they make are derived
+
+01:34:33.346 --> 01:34:54.878
+almost always from plant compounds initially, right? They actually do what's called bioprospecting. They go out and find plants. We rarely hear about this. They find plants and they isolate the alkaloids from plants that have potent effects on blood sugar, potent effects on mood, potent effects on pain. And so what we end up with when we talk about pharmaceutical drugs, you know,
+
+01:34:55.330 --> 01:35:24.094
+Most of them are derived from plants. In the first place. In the first place. So when you hear mulberry, you think, oh, is this like a berry? Is this a magic berry from the jungle? No, these plant compounds contain very bioactive elements within them. So that will also reduce the business of improving insulin sensitivity will lower inflammation. Right. Very, very important. And then, of course, we can't control our genetics, but we've been talking about epigenetics. And then...
+
+01:35:24.706 --> 01:35:43.806
+If one can, they should really evaluate their egg count, AMH, with the understanding that high egg count and AMH and regular shedding of the uterine lining, a.k.a. menses, menstruating, does not necessarily mean that everything is reproductively normal.
+
+01:35:44.130 --> 01:36:13.214
+Bravo. Okay. Did I get it right? All right. You're the best. Well, I just want to make sure that the audience really understands because these are things that people can really take control of and do. Oh, and one other critical thing is listen to Dr. Ali Abadi's podcast because... SheMD. SheMD, because there's a lot more information there as well. Okay. Let's talk about endometriosis. What is it? What problems does it create? And what can people do about it?
+
+01:36:14.306 --> 01:36:36.766
+devastating, devastating condition that affects, you know, they say 10%. I think it's north of 20% because they're not diagnosed. It's a condition where tissue similar to the lining of the uterus is outside of the uterus, around the tubes and ovaries, on the bladder, on the bowel, or inside the ovary.
+
+01:36:36.962 --> 01:37:03.518
+What happens is, in simple terms, when every month our ovaries are trying to get us pregnant, they secrete estrogen, and estrogen stimulates the lining of the uterus. When we don't get pregnant, this lining breaks down and comes out as a form of period. 10 to, I think, 20% of women have these cells similar to the lining of the uterus outside of the uterus. So once a month when the follicle is secreting estrogen, they
+
+01:37:03.650 --> 01:37:32.478
+these cells on the outside get stimulated. And when we don't get pregnant and the lining breaks down, these guys break down and bleed, but they're bleeding outside of the uterus. Oh, so it's a form of internal bleeding. Correct. It's ectopic formation of uterine lining. It's in the wrong place. Correct. Wow. We don't know why people have it, but it's extremely common. And as I was telling you, I think 50%, more than 50% of my PCOS patients also have endometriosis.
+
+01:37:32.610 --> 01:38:00.126
+The problem with endometriosis is in this country, it takes doctors in nine to 11 years to diagnose endometriosis. On average, patients see five to 10 doctors, and that's not an exaggeration. I've had patients who've seen 50 doctors in this country to get the diagnosis. Majority of them go undiagnosed. A lot of them end up in the fertility clinics.
+
+01:38:00.738 --> 01:38:27.678
+And I, my heart, if you spend a day with me in my office, you go home with a broken heart. Because these patients travel from all over the country to come. They already know, right? Because the CHAT GPT, they already know they have endo. They just want a physician to validate them. So they will fly to come because they want someone to say, yes, you're not crazy. You have endometriosis. Right?
+
+01:38:28.482 --> 01:38:56.318
+And yes, there's a treatment and it's not in your head. The problem is these patients talk about dismissal. I can't even tell you the devastating side effects of this prolonged dismissal because no one wants to sit down and just listen to them. You do not need a fancy blood test. There's no blood test for endometriosis. You don't need an ultrasound. You don't need anything to diagnose endometriosis. You just have to listen.
+
+01:38:56.962 --> 01:39:25.214
+I met this gentleman in Paris who told me he has this blood test that's 95% accurate, that he's going to release it. This was a few years ago. And I was like, great, that's great because we need a blood test. But then when I was flying home, I was thinking to myself, my accuracy is 99.9% just by listening to the patient. You don't need any fancy tools to diagnose. You can self-diagnose yourself at home. How do you diagnose?
+
+01:39:25.762 --> 01:39:45.758
+first thing I want to teach your listeners is painful periods are not normal. You know, one time for my 50th birthday, I wanted to get, what do you call it on the freeways? I wanted to get like 10 billboards for my birthday and just put
+
+01:39:45.890 --> 01:40:12.222
+Painful periods are not normal. Hashtag endometriosis. That was my birthday gift for myself. I wanted to do that. But then my daughter, my second daughter came up to me. She's like, mom, okay, so you tell them painful periods is not normal. They go to their doctor and the doctor says, yes, it's normal. Don't worry about it. Then what? So maybe going down the freeway, the next one will say, if you have endometriosis, check your egg. And if you have endometriosis on the third, and I was, you know, I was going to
+
+01:40:12.450 --> 01:40:34.974
+Just treat them as they drive down the freeway. That's how bad it is. So painful periods are not normal. Could you distinguish between painful periods and premenstrual cramping? Correct. So what do I mean by painful period? If the pain disrupts your life, if you're skipping school, if you're calling in sick and you can't go to work,
+
+01:40:35.106 --> 01:41:03.742
+If you're staying in bed, if you change your social plans around your periods, if you're ending up in the emergency room or in urgent care because your periods are painful, that's not normal. If sex with deep penetration hurts, that's not normal. If you're constantly bloated, even during the month when your periods are painful and after your periods you eat and you're constantly bloated,
+
+01:41:03.842 --> 01:41:28.926
+That's not normal. If when you have a bowel movement, your bowel movement hurts, that's not normal. If you constantly end up in your GYN or primary care's office complaining of UTI or bladder symptoms, recurrent bladder symptoms, and you're getting antibiotics three, four, five times, six times, 10 times a year with a negative culture,
+
+01:41:29.186 --> 01:41:55.518
+that's endometriosis until proven otherwise. So because these patients present differently, majority of these symptoms are chronic pain though. It's the top cause of chronic pelvic pain in women. It's the leading cause of infertility, right? Over 100 years ago, they knew about endometriosis. 100 years later,
+
+01:41:56.322 --> 01:42:21.822
+We're still not diagnosing these patients correctly. 100 years later, these women go through life. They can't have children. They have chronic pelvic pain. They stay home. They get anxious. They get depressed. They get addicted to opioids because when they go to the doctor, they end up in these pain clinics and someone starts prescribing them Norco or Percocet. I have 25-year-olds who come to my office and they're like,
+
+01:42:21.922 --> 01:42:51.486
+I know Percocet is not going to help me. I don't want to take this. But this is what the urgent care gave me. That sounds like malpractice to me. But it is. But it is. And you know what? I think people think I'm crazy, but you know what I wanted to do, which I'm never going to do, but intent to sue letter to send to all the doctors who've dismissed my patients. Because if you get one of those letters, maybe it'll wake you up. We have to do something. Can I tell you something, Andrew? If men...
+
+01:42:52.706 --> 01:43:21.886
+think about this, had a condition that would cause them to have severe pain during sex. It would scar their scrotums. It would lower their sperm count. It would be the top cause of their infertility, that they would stay home two, three days out of the month in bed. They would end up in emergency rooms a few times a year, right? They would get bloated.
+
+01:43:22.082 --> 01:43:51.518
+anxious, depressed from the pain, do you think majority of them would go undiagnosed? No. The problem would be dealt with very differently. And I say that with certainty because if you look at just even the speed with which certain drugs have been approved in the medical community, like Viagra, for instance, one of the fastest approvals for new uses. I mean, some of those drugs were developed for other purposes, but male-specific health does...
+
+01:43:51.682 --> 01:44:20.798
+receive a sort of acceleration. Always. And we know that in the research community, it started about 10 years back, there was a requirement actually to get grants funded that people evaluate both sexes. So, believe it or not, it was all done on male mice for a large, largely male done. That changed. Now it changes in the way that, you know, science is being done and funded. This issue has become prominent again. But everything I'm saying here is just in...
+
+01:44:20.898 --> 01:44:48.254
+Total agreement. Yeah. It would have been considered a national emergency. It would have been, right? I saw a patient. I mean, I have thousands of these stories. I have literally, I have trauma from it. I have PTSD from it. I saw a patient last week in my office, 50 years old. The first thing she said when I walked in, she said, I asked you a favor. I said, what? She said, don't call me crazy. I'm not crazy. And I
+
+01:44:48.386 --> 01:45:15.038
+I didn't mark anxiety because I didn't want you to blame my symptoms for my anxiety. And I looked at her, I'm like, this is the last office. I would be the last person standing on this planet that would do that to you. As I started listening to her, classic endometriosis patient, she's 50 years old, painful periods. She said, I've been to 100 emergency rooms. I know every emergency room in every country I've ever visited.
+
+01:45:15.202 --> 01:45:42.782
+I've she never got married because she had painful sex. She couldn't have sex. She had severe pain. She would stay at home. She would lose her jobs. Right. Never had children. Just chronic pain. Completely anxious. Guarded. Right. Shows up to my office. I'm probably the hundredth doctor she's seen. And all she wanted to hear me say is you have endometriosis. Right.
+
+01:45:44.098 --> 01:46:12.702
+this is the story of these patients. You can't even make these stories up. It's unbelievable and yet believable. And I don't want to sound like somebody who's super suspicious of the medical community or pharma. I think most physicians have good intentions. I think that, like you said, the culture and climate within the field, the way insurance is handled, all these things, I think railroad people into a kind of conveyor belt type of practice. But I can also say that
+
+01:46:12.994 --> 01:46:40.798
+because I know some excellent physicians like yourself and some people I've known for a very long time in other fields that really good physicians read the literature. They integrate what they know from their clinical practice. They talk to other physicians. They're part of a community that's trying to evolve itself. But that's usually a subculture within the culture. And most people don't know how to find the right people, although with podcasts, they're starting to. The problem with endometriosis is it's so common.
+
+01:46:41.058 --> 01:47:04.446
+And we don't have enough doctors diagnosing it. And like I said, a lot of these women don't even have an access to an OBGYN. And when they go there, 95% of the time, they're not even diagnosed. And if they're diagnosed, they're not even treated correctly. So what happens, these ectopic implants, right, that are in the pelvis,
+
+01:47:04.546 --> 01:47:33.982
+It's very strange because, I mean, we don't know why some women have endometriosis and some don't. It could be there's so many hypotheses, but the most common one is probably retrograde menstruation, which a lot of women get, which means when we're having our period, some of that blood goes through the tubes and out into the pelvis and implants there. In a regular healthy immune system, we'll get rid of those implants. But for whatever reason, in this subgroup of patients,
+
+01:47:34.114 --> 01:48:00.702
+They're inflammatory, their immune system doesn't work well. It actually helps start an inflammatory process around these implants that make it stick to the wall of the pelvis. May I ask, so I think I have the picture right where the uterine lining either heads up the fallopian tubes as opposed to being shed outward out of the body basically.
+
+01:48:00.898 --> 01:48:28.318
+And then it actually gets out into the extracellular space. So would it be cleared by the lymphatic system? Yes. And by their immune system. They come there, eat it up, right? Macrophages eat it up. Yes. But in these patients, not only they don't take them away, they stimulate them to stick to the walls of the pelvis. That's number one. Then these little implants need estrogen to grow, right? Remember I told you the ovaries are secreting estrogen. So...
+
+01:48:28.578 --> 01:48:58.366
+they start making their own estrogen, right? So locally, they support themselves without needing systemic estrogen, right? And then they start, you know, they increase vascularity to the lesion, and then they start growing nerve fibers around them, each lesion. It's almost as if they're like, everything you're saying resembles tumor formation.
+
+01:48:59.234 --> 01:49:28.222
+It's just, I always say it acts like cancer, but it's not. Let's say you have a patient with colon cancer. You go in, you resect the colon cancer. You never tell them, okay, sir, I'll see you in six months. He'll be back with colon cancer everywhere. You have to give him chemo. Endometriosis is not cancer, but you have to treat it the same way. What I mean by that is once you go in laparoscopically and cut these lesions out, you have to give it hormonal suppression. Otherwise, it comes back. I see. So we can get to that. But...
+
+01:49:28.354 --> 01:49:43.038
+These implants are self-limited, right? They basically have vessels that's feeding them. They make their own estrogen. They start an inflammatory process in that area and they start growing.
+
+01:49:43.362 --> 01:50:01.150
+Right. Every month they get more and more. They progress more as we age. That's why these patients average age of diagnosis for endometriosis is 32. And it takes doctors 9 to 11 years to diagnose these patients because it can start with, oh, my periods are painful. Then they get more painful.
+
+01:50:01.282 --> 01:50:29.310
+you start staying home. Then you have to call your mom to pick you up from school. Then sex starts hurting. Then you realize a week before it starts hurting. Then you realize now a week after the pain is still there. And eventually it turns into chronic pelvic pain. But these patients jump from doctor to doctor, doctor to doctor until A, they have chronic pelvic pain and someone says, wait a minute, you have endometriosis. Or B, they can't get pregnant and they end up where? In the fertility clinics.
+
+01:50:29.762 --> 01:50:54.782
+something that could have been suppressed years prior to that. Let's say they end up in an IVF clinic. They're able to create healthy embryos. They implant. How does endometriosis impact the probability of carrying that embryo to successful? So it depends on the age, on the quality of the eggs. One thing endometriosis does, so endometriosis is an inflammatory process. It causes inflammation in the pelvis.
+
+01:50:54.882 --> 01:51:18.494
+That's why as it progresses, it causes scarring in the pelvis. It can cause scarring of the tubes. That inflammation can affect your egg quality, can cause bowel adhesions, bladder adhesions. If it's inside the ovary, we call it endometrioma or a chocolate cyst, that can destroy a woman's egg count and quality. That's why sometimes you get a 30-year-old
+
+01:51:18.658 --> 01:51:48.382
+endometriosis patient who has zero eggs, or you can have a 14-year-old who has the egg count of a 40-year-old. So it is absolutely crucial, crucial for endometriosis patients to know their egg count. If they have no pain, get a baseline at age 18. If you have painful periods and you're 14, get an egg count. Rule out endometriosis. You can have an eight-year-old with endometriosis. Now it's very rare.
+
+01:51:48.578 --> 01:52:08.990
+But as soon as women start menstruating, they can start complaining of these pains. Now, it's common for patients to have some cramps. They might take a couple of Advils and it's fine. But if pain becomes recurrent and it starts progressing and it's disrupting their life, then it's
+
+01:52:09.090 --> 01:52:38.782
+Absolutely not normal. It's endometriosis until proven otherwise, which takes me to my other discussion. We're discussing doctors don't do ultrasound. Not that you can diagnose endometriosis on ultrasound, but if you have an endometrioma or a chocolate cyst, which takes you to approximately a stage three out of four endometriosis, you can see it in two seconds on ultrasound. So if you do an ultrasound and you see an endometrioma, I don't care how small it is, don't ignore it.
+
+01:52:39.010 --> 01:53:01.438
+It's just like me saying, I see smoke here, but I'm gonna ignore it because I don't see the fire. Well, if you see smoke, you know there's fire, go check it out. And that's exactly what happens with endopatients because they go dismissed, they show up at age 30, they have no eggs, their tubes are scarred. And to answer your question, once you, a lot of these patients, because of that inflammation,
+
+01:53:01.570 --> 01:53:14.814
+environment is hostile. So the reason it's one of the top causes of infertility, yes, your tubes can get blocked. Yes, your egg count and quality can drop. But the environment is so hostile for the sperm.
+
+01:53:15.074 --> 01:53:36.286
+For that little egg that's getting released that needs to be picked up by the tube that can get attacked by these inflammatory cells, the embryo sometimes doesn't form. If it forms, it might get stuck in the tube and you might end up with an ectopic pregnancy. Or if it goes into the uterus, all that inflammation increases the risk of miscarriage. And on top of that...
+
+01:53:37.986 --> 01:54:03.422
+A large percentage of endometriosis patients have adenomyosis, which is the sister condition to endometriosis, which is very common. Not all adenomyosis patients have endometriosis, but a lot of endometriosis patients have adenomyosis. And adenomyosis is when these ectopic tissue, the lining inside the uterus, are in the wall of the uterus. So they do get stimulated.
+
+01:54:04.034 --> 01:54:31.678
+And they can cause heavy periods. They can cause recurrent miscarriages. They can cause painful periods. And it also gets dismissed on ultrasound. A lot of doctors depend on MRIs to diagnose adenomyosis, where if you've done enough ultrasounds, you can start seeing it on a pelvic ultrasound. But the problem is a lot of radiologists don't know how to diagnose it. I'd like to take a quick break and acknowledge one of our sponsors, Function.
+
+01:54:31.810 --> 01:54:36.990
+Last year, I became a function member after searching for the most comprehensive approach to lab testing.
+
+01:54:37.282 --> 01:55:07.248
+Function provides over 100 advanced lab tests that give you a key snapshot of your entire bodily health. This snapshot offers you with insights on your heart health, hormone health, immune functioning, nutrient levels, and much more. They've also recently added tests for toxins, such as BPA exposure from harmful plastics, and tests for PFASs, or forever chemicals. Function not only provides testing of over 100 biomarkers key to your physical and mental health, but it also analyzes these results and provides insights from top doctors who are
+
+01:55:07.248 --> 01:55:35.198
+expert in the relevant areas. For example, in one of my first tests with Function, I learned that I had elevated levels of mercury in my blood. Function not only helped me detect that, but offered insights into how best to reduce my mercury levels, which included limiting my tuna consumption. I'd been eating a lot of tuna, while also making an effort to eat more leafy greens and supplementing with NAC and acetylcysteine, both of which can support glutathione production and detoxification. And I should say, by taking a second Function test, that approach worked.
+
+01:55:35.330 --> 01:55:50.526
+Comprehensive blood testing is vitally important. There's so many things related to your mental and physical health that can only be detected in a blood test. The problem is blood testing has always been very expensive and complicated. In contrast, I've been super impressed by function simplicity and
+
+01:55:50.658 --> 01:56:15.134
+the level of cost. It is very affordable. As a consequence, I decided to join their scientific advisory board and I'm thrilled that they're sponsoring the podcast. If you'd like to try Function, you can go to functionhealth.com slash Huberman. Function currently has a wait list of over 250,000 people, but they're offering early access to Huberman podcast listeners. Again, that's functionhealth.com slash Huberman to get early access to Function.
+
+01:56:16.162 --> 01:56:31.582
+Can I ask a naive question about ultrasound and diagnoses and just women's health in general? And forgive me for not knowing the answer to this, but I don't. So I'm going to, you know, swallow my pride and just ask, what is the current state of, of
+
+01:56:32.546 --> 01:56:59.454
+of medical care in this country for women such that, let's say a woman is in her, doesn't matter, 20s, 30s, 40s, 50s, whatever, and wants to go get a pelvic exam with ultrasound, a blood draw to look at AMH, and let's say have a short discussion with a, let's say, marginally qualified physician about hormone health. Is that the sort of thing that is just impossible for people to access who
+
+01:56:59.618 --> 01:57:29.150
+have insurance if they do have insurance does insurance cover it do they need to do they need to have a major problem to get a referral for that I have no concept of this because as a man we don't think about this right insurance will cover it the problem is so there's a lot of issues one patients don't know that there's something wrong they think irregular periods are normal they think painful periods are normal they think it's just their nerves because people around them including their parents their aunt sister everyone dismisses them oh
+
+01:57:29.410 --> 01:57:57.726
+It can't be that bad. Why are you being so weak? Take some Advil and get up. No, this is really debilitating. This is not premenstrual cramping. This is pain. This is abnormal levels of pain. And they don't have anything to check it against because it's, in some cases, all they ever knew. And it sounds as if people are very dismissive of women's pain is what I'm hearing. Period. Yeah. It's minimized, dismissed, or normalized. And there's no other way around. Those are the three options right now in the health care system, majority of the time.
+
+01:57:57.890 --> 01:58:21.950
+So then this patient goes to the doctor not knowing what's going on. The doctor doesn't have time. You have 10 minutes with your doctor. He comes in. He's like, maybe she has endometriosis. Maybe he or she is even thinking about this. But what do they do? They give birth control, right? And the patient doesn't know why. She goes home and someone tells her if you take birth control, you're going to be infertile. So she doesn't take it because her grandmother tells her that.
+
+01:58:22.242 --> 01:58:51.550
+And then she continues to have pain and starts bouncing from doctor to doctor. A lot of these patients, believe it or not, end up in GI offices getting colonoscopies at a young age. Like if you have to do a colonoscopy for pain in a 22-year-old, make sure you're not missing endometriosis. So it's like you have to teach all these doctors. So doctors don't have time. They don't diagnose these patients. And they start bouncing from doctor to doctor. How can we fix this? And insurance will help.
+
+01:58:51.650 --> 01:59:21.310
+for these visits. But you need to be empowered, you need to be educated, and you need to be your own health advocate when it comes to endometriosis on top of every other diagnosis. Why? If I'm telling you all the symptoms of endometriosis and you have them, you already know you have endometriosis. Go on chat GPT. It will confirm it for you. So painful periods, UTIs. Painful sex with deep penetration. GI pain. GI pain.
+
+01:59:21.410 --> 01:59:45.854
+Floating, chronic pelvic pain, leg pain, just pain. Pain that comes with your period and eventually takes over your life. Now, educate yourself. Write down the questions. I'm telling you, A, you need, if you're young and you want a family, you need your egg count checked. So write AMH on your to-do list before you go to your doctor's office. Two, A,
+
+01:59:45.954 --> 02:00:05.598
+Ask for a pelvic ultrasound. You know, I have a physical therapist. He said, every time my daughter goes to a doctor, I tell her to exaggerate her symptoms by 50%. So if she has a 5 out of 10 pain, I say, go tell your doctor it's 10 out of 10. So they minimize it to 5 out of 10. So you can get your pelvic ultrasound. But don't do that. Just ask your doctor. Say...
+
+02:00:05.730 --> 02:00:34.238
+I have pain and you need to give me a pelvic ultrasound order. And if you don't, I'm gonna go do it somewhere else or I'm gonna go to another doctor. Most doctors wanna help. They're not there to hurt you. They're there to help you. Sometimes if they don't think of it, maybe reminding them that this could be an endometriosis is the first step. They're your advocate. They wanna help you. So guide them in the right direction. Ask for that pelvic ultrasound, ask for that egg count. And when it comes to endometriosis,
+
+02:00:34.338 --> 02:01:00.574
+A normal ultrasound does not mean you don't have endometriosis. A normal pelvic MRI does not mean you don't have endometriosis. Endometriosis can be minimal, mild, moderate, or severe. And we stage it, one, two, three, four. The higher the stage, the more involvement, the more aggressive the endometriosis is. Endometriosis can be superficial. These implants can be superficial in the pelvis.
+
+02:01:00.674 --> 02:01:27.358
+It could be in the ovary called endometrioma, or they can be deep infiltrating where they go deep. And as I told you, they make their own nerve fibers. And what happens eventually, these nerve fibers start shooting and our central nervous system starts going in overdrive and exaggerating those pains. That's why the pain is so real and so debilitating because their body, they get sensitization to the
+
+02:01:27.522 --> 02:01:56.478
+new nerve pains that are forming in their pelvis. The gold standard way of treating this is laparoscopic resection of endometriosis. Surgery. Surgery. There's no like a VEGF inhibitor or something of that sort. So let's talk about that. So you don't have to jump to surgery, but surgery is the gold standard way of diagnosing A, to be 100% if you're not confident, and B,
+
+02:01:57.282 --> 02:02:25.054
+these, excising these lesions. We used to burn them, but as of like for the past 15 years, we've learned that you really need to cut them. You don't want to burn them, right? Because burning them is just a band-aid and the pain comes back. Peripheral nerves grow back very readily. Once they're there, I mean, this is reassuring to anyone that has a peripheral nerve injury, it'll grow back, unlike a brain injury where it's variable outcome. But when peripheral nerves want to grow, they grow. They grow. Yeah.
+
+02:02:25.154 --> 02:02:54.910
+very stubborn. They're stubborn and they're painful. Here's the problem, Andrew. Surgery is not first-line therapy, but it's gold standard if you have a patient in severe pain who's not responding to hormonal suppression, which we're going to talk about. But here's the problem with surgery. Do you know that out of 100 gynecologists, one is trained to do laparoscopic endometriosis surgery, and then it gets better? If you give 100 laparoscopes
+
+02:02:55.746 --> 02:03:11.518
+hundred gynecologists, half of them will wake the patient up and say you didn't have it. Endometriosis, the typical endometriosis implants are glandular endometriosis. So when you look at it, there's
+
+02:03:11.714 --> 02:03:26.526
+blood filled, right? There are these black spots, purple spots all over the pelvis. But sometimes you really need to look for them. You have to lift the ovary, look underneath, look at the bladder. Like with the laparoscope, you have to go really close to find them.
+
+02:03:26.626 --> 02:03:54.622
+The problem is a small subgroup of patients have stromal endometriosis, who's actually, you know, this stromal endometriosis is not as rare as what you read. It's actually very common in almost every endometriosis surgery that I do. My PATH report shows some stromal endometriosis implants. So stromal endometriosis, imagine those cells in the uterus, they have the gland, but they also have the stroma, the connective tissue around it.
+
+02:03:54.818 --> 02:04:21.470
+Stromal endometriosis doesn't have the glandular lesions with it. It's just these fibers that have nerve endings and the nerves get squeezed. And actually, patients with stromal endometriosis tend to have more bloating, more inflammation, and more deeper pain. But when you put a laparoscope, you only see these thin lines. Sometimes it takes me 15 minutes to find it.
+
+02:04:22.178 --> 02:04:51.486
+So if I put a camera and I look for these purple spots, I'm like, no, you don't have it. So imagine here you have a patient who's had 15 years of pain, ends up in the hospital, goes home. She lost her job. She's on narcotics. She's halfway addicted to these medications. She's depressed. She's anxious. And finally, the doctor says, I think you have endometriosis. Let's take you to surgery. And then they wake her up and say, you didn't have it. Oh, my goodness. But that's what I see. And they missed it.
+
+02:04:51.682 --> 02:05:21.374
+many cases. They missed it. But you want to vomit. You literally, I want to pass out sometimes when these patients tell me these stories. I can write a thousand stories like this for you. Sounds like the field of which you're trying to fix is badly flawed in some sort of like central structural way. It is. It just sort of feels like, and we could explore the reasons for that, but that comes clear in what you're saying.
+
+02:05:21.666 --> 02:05:47.870
+Do we know what causes endometriosis? The first one is this retrograde flow of the menstrual flow. Second is an immune system issue, right? Which I told you for whatever reason, their immune system cannot clear out these implants, which goes to the PCOS, right? Remember I told you PCOS patients had so much cytokines released from their visceral. It's my hypothesis.
+
+02:05:48.162 --> 02:06:03.998
+That that's why I see so much endometriosis with PCOS, that this chronic inflammation that is caused in PCOS patients is fueling these implants from not being cleared, right? That's why I see so much. That's my...
+
+02:06:04.162 --> 02:06:21.470
+hypothesis. My problem is I don't have time to do all of this. There's so much I want to do. You're too busy saving all these families and women and kids. I would have done so much. I love women. I would have done so much for them if I could multiply myself to five more or 10 more. But anyways, so inflammation is another theory.
+
+02:06:21.602 --> 02:06:44.638
+Then it's the metaplasia of this malarian duct, you know, the malarian duct that forms the uterus and the fallopian tubes. Maybe embryologically these cells are left somewhere in the body. That's why we see implants sometimes by the diaphragm. So you can find it in people's lungs or very rarely in their brain. So you can't say that's retrograde menstruation, right? Mm-hmm.
+
+02:06:44.802 --> 02:06:52.574
+The other hypothesis is through blood vessels from the uterus that these cells get picked up in the vessels and implant in distance
+
+02:06:52.738 --> 02:07:21.982
+organs like the lung or the brain. But was it always this common? It's always been this common. Okay, so it's not as if in the last 20 years we're seeing a huge increase. I mean, it's difficult to say because as you said, the diagnosis, the whole system is faulty. You can't do these studies. That's why I'm telling you it's not 10%. I get so upset when people say 10%. I'm like, it's not 10% because think about it. 15% of women have PCOS, which I think is more. And I think half of those patients have PCOS.
+
+02:07:22.370 --> 02:07:50.014
+endometriosis. So that's just the PCOS group. And then I think in the general population, if I had to guess, I would say north of 20% have endometriosis. And I feel like... It's a huge number. 20% is an enormous number. It's enormous. That's why I'm here to tell you this is not some zebra diagnosis. This affects every family in every single person can think of someone in their life
+
+02:07:50.210 --> 02:08:17.758
+who either has PCOS, PCOS and endometriosis, or endometriosis. There's no way, if you close your eyes and think that you cannot think of someone like that. There's no such human because they're everywhere. There are millions of these women, but they are all dismissed and they are told for years and years that they're crazy. And that needs to stop. If I hear one more doctor or healthcare provider
+
+02:08:18.050 --> 02:08:41.310
+physician assistant or anyone called a woman crazy I want like literally I want to turn this world upside down well it seems like you know grounds for malpractice to call a patient crazy even if they're a psychiatrist calling somebody who has a severe mental condition crazy I think that what what's becoming increasingly clear as we have this conversation is that for these
+
+02:08:42.434 --> 02:09:08.190
+surrounding women's reproductive health and hormone health generally, because I realize not everyone wants to have kids, many, many women do, but many women perhaps don't. The core component seems to be that there's kind of like a lot of overlap in the Venn diagram. And so while I'm not trying to get any physician to pass, it seems like the only people who really understand this are the clinicians like yourself who spent a lot of time with people with these conditions.
+
+02:09:08.898 --> 02:09:36.830
+and the patients themselves. I think that one thing that I'm hoping will happen as a consequence of this conversation, as well as just the general theme around podcasts and public health communication is that in general, patients are dismissed as having important knowledge about their own health. And I think that we put doctors on a pedestal because they are incredible healers, potentially incredible healers. No one knows more about their own body than oneself.
+
+02:09:37.058 --> 02:10:06.782
+Especially women. Especially women. I was going to say, yes, absolutely. And it's going to sound like I'm trying to grab political correctness points now, even though earlier I was saying politically incorrect things. By saying this, but I firmly believe that, and again, I've only lived as a male, so I only know my own situation. But by menstruating, by having hormone cycles that across the month are more extreme typically than male hormone cycles, I think it's fair to say that,
+
+02:10:06.946 --> 02:10:35.806
+that women are much more in tune with changes in their underlying physiology and how they relate to their underlying psychology and back and forth. From a scientific perspective, you'd say, oh, they've experienced more variables and more outcomes. They've run more experiments, right? It's happening internally. Again, not to make it reductionist or overly intellectual, but I think that the first thing to do is to really give the statements that patients make
+
+02:10:36.290 --> 02:11:05.246
+if they're not technical, perhaps especially if they're not technical, to give them an enormous amount of merit. Who knows more about their own body than the person experiencing something? And women are in a position to know far more about their own changes within their body because they're always undergoing changes across the month. Yeah. That's coming through very clearly. And I will tell you, 30 years in women's health, 25 years in private practice. When a woman tells you something's wrong,
+
+02:11:05.474 --> 02:11:24.702
+99% of the time something's wrong. Take them seriously. The last thing they are is crazy. The last thing they are is stress-related or hormone-related. It's not in their head. I had a patient once who told me every time I go to the doctor, my doctor tells me my problem is between my ears.
+
+02:11:25.314 --> 02:11:49.118
+Goodness. I mean, unless they're a psychiatrist, and even if they're a psychiatrist, we now know that metabolic health impacts brain health. Yeah, that's criminal. I mean, honestly, what you're describing is criminal. But it is criminal. That's why I'm here, though. But it is, and it has to change. Why do you think I want the President of the United States to give me that mic? But you did today. I don't think you're going to understand the impact of
+
+02:11:49.410 --> 02:12:17.502
+of this podcast today. I don't think, I mean, I'm sure you do because you're amazing and you have millions of followers. But the information is coming from you. I know, but women's health is very different than any other field in the medicine. Let me tell you what my solution is. You know what my solution is? You literally need to separate OB obstetrics from gynecology. You need to separate it. Tell me more. I think for doctors who want to deliver babies, great.
+
+02:12:17.730 --> 02:12:45.726
+Go learn how to deliver babies. Take care of those women like they're your family member. Give them the time. Have the energy. Don't run from your office to deliver them last minute. Hold their hand. Don't dismiss them. And just focus on giving them the best experience they can possibly have, which women are not getting that right now in this healthcare system. And then separate the residency and
+
+02:12:45.858 --> 02:13:13.662
+for whoever does not want to deliver babies, teach them gynecology. Teach them how to recognize PCOS. Teach them what endometriosis is. Teach them how to do a laparoscopic hysterectomy without cutting the patient from their belly button all the way down. Do you know that in Los Angeles, there's maybe two of us that can do a laparoscopic hysterectomy and take a uterus out this big?
+
+02:13:13.954 --> 02:13:38.110
+I think I'm the only one that does it outpatient. You just are laparoscopic for those that you don't know. Minimally invasive. Small incisions. So you're not talking about major scar incisions, right? So coming in laterally and essentially doing everything from the camera. So literally a uterus the size of a watermelon, I take out laparoscopically outpatient. Patient goes home the same day. Amazing.
+
+02:13:38.274 --> 02:14:05.246
+Yeah, but that should be standard of care. So these patients are still getting cut because it's so big from their belly button all the way down, vertical incision, which is traumatic. You know, it would be traumatic to me. And these patients have six to eight weeks of recovery, have to stay in the hospital for two, three days. I lost my outpatient privileges at Cedars because I haven't done surgery at Cedars. I do it in the outpatient Cedars.
+
+02:14:05.890 --> 02:14:34.782
+So it's because you really, if you train these doctors well, they don't need to take their patients in the hospital. And quality of care will go up. The problem right now is when you're busy running around delivering babies all night, I used to deliver 80 babies a month. 80 babies a month. When I was pregnant with my first daughter, Dallara, who you met at Stanford, I delivered 80.
+
+02:14:34.882 --> 02:15:04.702
+82 patients when I was 34 weeks pregnant. Until one night, my husband used to drive me to the hospital. I had my pillow and a blanket in the car. One time when I was running at one in the morning, I fell on the lawn and my husband was like, you can't do this anymore. And that's when I started cutting back. But my point is, take that doctor who's, I was up all night. Then I would come to my office the next day, like nothing happened at night. And now I had
+
+02:15:04.898 --> 02:15:32.542
+30, 40 patients on my schedule, GYN patients. How can you catch that endo patient? How can you diagnose that PCOS patients? And let me tell you, you can't just diagnose in your head and throw a medication at them. Patients' compliance goes down when they don't know why they're taking a medication, certain medication. But if you take the time and explain it to them, they're going to go home and say, it's medication I'm going to take. So if you separate OB from GYN,
+
+02:15:33.634 --> 02:16:03.262
+And you empower gynecologists, A, to spend more time with their patients, to not be exhausted, not run from the hospital into their office, just completely burnt out. And then you can focus on women's health. And then we can also talk about well-woman exam. I mean, I can sit here until tomorrow morning and talk to you about what a well-woman exam should all be about. I love it. Well, we can do multiple podcasts. But you're also giving us tools to understand...
+
+02:16:04.386 --> 02:16:31.646
+for women to understand for themselves if they likely have endometriosis. You know, the painful periods, UTI issues, GI pain. Bloating. Bloating. You mentioned earlier that with AMH, whatever units it's measured in, 0.1 of the typical units it's measured in corresponds to one egg, typically. Ultrasound can be informative, but often, even with high-resolution ultrasound,
+
+02:16:31.746 --> 02:16:56.094
+It's not exhaustive. It can be missed. Laparoscopic surgery, in and out the same day, no major scar is the ideal way to go. Very, very few doctors are actually doing that. But a number of the things we just listed off are actionable. People can think about them at any age. I think that's one of the big themes coming through today, among others, is that if a woman is 19, 22, 22,
+
+02:16:56.674 --> 02:17:12.990
+Forty-two. Yeah, 14. Okay, as I, that if some of these symptoms are occurring, they need to take them seriously. I know we talked about surgery when it comes to endometriosis, but endometriosis implants in general, not the stromal type, they grow with estrogen.
+
+02:17:13.218 --> 02:17:43.198
+but their growth slows down with progesterone. So if you have a young patient who you suspect they might have endometriosis and you can't really prove it, right? You don't have the experience, but you know they're complaining of painful periods. And I'm talking to clinicians right now or patients. Then there's nothing wrong with prescribing them some form of birth control or hormonal suppression that will suppress their symptoms of endometriosis. What do I mean by that? You can...
+
+02:17:43.458 --> 02:18:09.694
+use progesterone-only birth control pills, which that's what I would remember. We talked about birth control, and I said I want to circle back with endometriosis. Birth control pills in endometriosis patients can be the difference of fertility and not having children. That's how amazing birth control pills work for suppression of endometriosis. Would you recommend against estrogen birth control pills? I do. Because these...
+
+02:18:09.922 --> 02:18:37.407
+These implants, right? Or tissues. These ectopic tissues, meaning, sorry, ectopic, it's the scientist in me, these tissues that are essentially in the wrong place, they've migrated there or formed there, they are sensitive to estrogen in the sense that they grow in response to estrogen. Does that mean that in the first half of the ovulatory cycle, the menstrual cycle, that there's more pain at that time? No, they actually have more pain with the shedding of the lining, with the period.
+
+02:18:37.922 --> 02:18:56.990
+But some patients do complain of chronic pain because, remember, these implants eventually cause scarring, cause nerve pain, and those nerve pains start firing all month. And that's why chronic pelvic pain. Now, so you want to give it progesterone. You can give this progesterone in a form of birth control.
+
+02:18:57.281 --> 02:19:26.846
+So if I have a patient who also has PCOS and has acne, hair loss, facial hair, body hair, irregular periods, painful periods, and their mood disorder is not that bad, I'm like, maybe I give her a slint because I can kill two birds with one stone. I can suppress her PCOS symptoms and I can suppress her endometriosis. But most PCOS patients, which is the crowd I see with endometriosis, have mood disorder. So one of the methods that I use to suppress endometriosis is actually a progestin IUD.
+
+02:19:27.522 --> 02:19:34.782
+like Kylena or Mirena IUD. Mirena IUD is the most common progesterone IUD used in this country.
+
+02:19:34.882 --> 02:20:04.848
+if you use it for, you know, it's a method of birth control and it can last for eight years. Sometimes we use it for heavy period and you use it for five years. But I use it very often in my patients with endometriosis or adenomyosis. For young girls who haven't had children, I tend to go with the smaller IUD because Mirena IUD is slightly larger than the Kylina IUD. So I love the Kylina IUD and I'm not advertising for it. I'm just saying it because it really
+
+02:20:04.848 --> 02:20:31.198
+works. So for patients who have a lot of mood disorders, then I might go to these IUDs, which are more local in suppressing the endometriosis in the pelvis. So I start with either a progesterone birth control or a progesterone IUD. And by the way, I always check egg count. Always, always, because I want to make sure we're not low, because if you have low egg count and you're 17, you're going to go freeze eggs. I'm not going to wait for you.
+
+02:20:31.650 --> 02:20:55.838
+be older to freeze. Waiting for that patient to be 30 or 35, you're done. You know, they will have no eggs left. So suppressed with progesterone birth control, progesterone IUD. Then we have GNRH antagonists. I don't know if you've heard of these pills, Oralisa or Myfembri. These are medications. Remember I told you you either
+
+02:20:55.938 --> 02:21:11.582
+Give it progesterone or you take the estrogen away to treat endometriosis. So giving it progesterone, you can do the progesterone IED or the progesterone birth control. I don't like the implants because of the weight and irregular bleed that comes with it. But you can also take the estrogen away.
+
+02:21:11.746 --> 02:21:41.712
+medications work amazing, especially for women who have painful sex. And usually by two months, they get a relief from that painful sex and painful period. The problem is anytime you take estrogen away, what happens? You can have hot flashes. You can have all the symptoms. Take a pseudo-menopause. Correct. These pills are great because they're reversible. So if you don't like them, you can take them for a couple of days and stop it and it's out of your system in a couple of days. So it's not a big deal. But it does make a difference. The problem with these pills are because of the effect of
+
+02:21:41.712 --> 02:22:00.126
+on the bone and the bone loss it causes, you can take him up to two years. So you can't take him beyond two years. Usually, if I do a progesterone suppression and the patient has pain, I recommend surgery. Because during surgery, I resect the endometriosis.
+
+02:22:00.226 --> 02:22:28.990
+I cut all the adhesions if they have it, and then I put a progesterone IUD and I send them home. For patients during surgery who have severe disease, stage three or four, then I also add these GnRH antagonists after surgery, depending on their stage or symptoms, from six months up to two years. To suppress estrochitis. To suppress it and to just kill the endometriosis. Because when it's advanced stage, even with surgery and IUD,
+
+02:22:29.218 --> 02:22:52.094
+let's say stage four, it can come right back. So I really want to knock it out. So that's what I would do for endometriosis patients. And very important point, the stage of endometriosis has nothing to do with the degree of pain. And this is very important for patients to understand. You can have stage one endometriosis
+
+02:22:52.194 --> 02:23:20.798
+you end up in the emergency room every month because of pain. Or you can have stage four endometriosis and you just have mild pain. So pain, you can't say, oh, there's not much in your pelvis. I'm not going to worry about it. So that's one. The other thing is, remember I told you stromal endometriosis that doesn't have the glandular aspect of the tissues missing. The glandular aspect is mostly the fibrous part of it. These lesions are...
+
+02:23:21.026 --> 02:23:49.470
+almost always missed on laparoscopy, they tend to cause more inflammation and they tend to be more resistant to progesterone in my opinion. So those are the ones that you really need to cut out but then if you've never seen stromal endometriosis, you will not remove it during surgery and you will wake your patient up and say you didn't have it. So stage does not equate to pain and vice versa. Absolutely. These days it seems
+
+02:23:49.730 --> 02:24:15.934
+at least in the United States, that women are opting to have children later or not at all? We know that having children before age 40 is protective against certain cancers. Breast cancer. Breast cancer in particular. And if women have the BRCA mutations, then that number goes way, way up. So is there any indication that pregnancy before a given age
+
+02:24:16.034 --> 02:24:45.406
+successful pregnancy or maybe just pregnancy in general before a given age is protective against PCOS and endometriosis? For endometriosis, yes, because during pregnancy, your endometriosis is at bay. Patients have no pain, right? It all starts when the menstrual cycle starts again. But what I do for these patients, as soon as they deliver, I put a progesterone IUD in them. When they come postpartum, six weeks postpartum, and they're discussing birth control, I always recommend a progesterone birth control. Do you think that
+
+02:24:45.570 --> 02:25:12.254
+Well, these days we hear a lot more about postpartum depression. Yes. And I'm very intrigued by this. Yes. Like any medical discussion, when you hear about something more often, you get two very polarized arguments. One is it's been limited diagnosis, and this has been around a long time, and people have just been suffering in silence. You hear this about psychiatric conditions, childhood neurologic conditions. You hear about this about gut issues. And then on the other end of the spectrum,
+
+02:25:12.962 --> 02:25:42.430
+often will hear, well, people are just sort of like they're just kind of fanatic about these terms and then now people are paying attention to it. Do you think that postpartum depression is on the rise and does it have any correlation with things like endometriosis? Postpartum depression, I think, we see more in patients with anxiety, trauma, or PTSD. So to answer your question, endometriosis and PCOS patients have anxiety, have depression, and have
+
+02:25:42.722 --> 02:26:09.822
+PTSD. When you live their experience in their life and everything they've gone through in their life, they all have PTSD. So anyone with any history of anxiety, PTSD, or depression, or PMDD, a severe form of PMS, all of these patients are at a higher risk of postpartum depression. And to answer your question, because anxiety is on the rise, because depression is on the rise,
+
+02:26:09.954 --> 02:26:36.062
+postpartum depression is very common. It is very difficult, honestly, to navigate the different stages of life being a woman. You know, imagine when you're young, some of them with endometriosis and PCOS, they have all that struggle. Then they try to get pregnant. They don't get pregnant. They need to sell everything they have to pay for an IVF to have a baby. Then they have a baby. They
+
+02:26:36.226 --> 02:26:49.726
+their body changes, there's this giant drop in estrogen that puts them into this, you know, postpartum blues and then postpartum depression. And that goes dismissed by testing.
+
+02:26:50.114 --> 02:27:16.638
+family members by everyone. Oh, you're not sleeping well, probably. Oh, it's normal. It's because you haven't had a child. No. These patients, even with PMDD, they completely dissociate themselves from their environment, from their child. It's really heartbreaking. And then once they're done with all this, in their early 40s, perimenopause comes, late 30s, early 40s, right? It's like wave after wave. Wave after wave. And then perimenopause.
+
+02:27:16.770 --> 02:27:28.190
+Perimenopause, which is, again, not diagnosed, right? Average age of menopause is 51 and a half. 45 to 55 is the range. Seven to 10 years before menopause, women go through perimenopause.
+
+02:27:28.386 --> 02:27:52.638
+And during that perimenopausal time, their mood can go. They're not sleeping well. They have hot flashes, night sweats, irregular periods. They're gaining weight. Their sex hurts. They have frozen shoulder. They start having hair loss. They have skin thinning. And all these things are happening and no one's diagnosing them. No one's treating them with hormone replacement until they go through menopause and then
+
+02:27:53.378 --> 02:28:19.902
+That's another chapter of life that just turns your body and your life upside down. And most men don't even know what menopause is. So imagine just the story of this one woman through her life and then look how many times there are opportunities for this patient to get dismissed in the health care system. That's why I have a broken heart. And you're also doing a ton of healing for people. Yeah, I know.
+
+02:28:20.002 --> 02:28:48.350
+But I hear you loud and clear. What you described would cause most men, including me, to dissolve into a puddle of our own tears. Is my only response. But there's hope, though. I don't want to be all negative. No, that's why we're here. I feel like it might come out negative because that's what I see. Do you know what I'm saying? I say my office, my waiting room, is the waiting room of dismissed women in this country. So I have a skewed view. But...
+
+02:28:48.706 --> 02:29:14.846
+It's so real and it's so painful to watch that, you know, that's why I sound a little negative, but I'm not a negative person. I don't think you sound negative. If I'm honest, I think you sound very passionate about your empathy for the pain that you observe. And it must be, I'm realizing right now, it must be incredibly frustrating to know that there are solutions.
+
+02:29:15.810 --> 02:29:44.254
+to see so many people suffer. Yes. Like I can think of almost nothing worse than having the solution to somebody suffering and not being, they don't know. And because they don't know, they can't access that solution. Yes. And as you mentioned, it's a very tangled web of medical infrastructure and things like that. But what comes through is your passion and your care for people, for women. For women. For women.
+
+02:29:44.834 --> 02:30:11.806
+Yes, it's specifically women. And also your desire to give them useful information that they can act on and better their lives and their health. Fibroids. I hear about fibroids. Where does that fit into this picture, if at all? Or is that completely separate? Fibroids are very common. By age 50, 80% of women have some form of fibroids. Like if you stand at the side of the street and pull out 100 women,
+
+02:30:12.386 --> 02:30:34.558
+know, a lot of them will have fibroids. When it comes to fibroids, the location of the fibroid is very important. You can have a small fibroid in the lining of that cavity that we talked about that can cause you to have heavy periods, blood clots, you become anemic, fertility issues, all of that. Or you can have a 10 centimeter fibroid outside of the uterus that
+
+02:30:34.658 --> 02:30:51.102
+It can make you look like you're pregnant, but it doesn't do anything to your bleeding. So when it comes to fibroids, the location of it is very important. For patients who have small fibroids, it's away from the cavity. They don't have any symptoms. We just watch them. As they grow,
+
+02:30:51.234 --> 02:31:18.206
+You're more likely, you know, women in their 40s are very likely to have fibroids or develop fibroids. But if it doesn't bother them, we don't do anything. We operate on fibroids for several reasons. Number one, if it's inside the cavity and it causes anemia, infertility or heavy periods, we operate on fibroids if they're extremely large and they cause bloating. After like, you know, we go by weeks of pregnancy and let's say you have a 16 week size fibroid uterus, which is
+
+02:31:18.498 --> 02:31:40.926
+to a 16-week size uterus, pregnant uterus, it starts putting pressure on the ureters that drain your kidneys. So then you have to talk about either a myomectomy for women who want to get pregnant when you go in and you remove the fibroids or hysterectomy for women who are done having children. So fibroids are extremely common. But then again, if you don't do a pelvic ultrasound...
+
+02:31:41.570 --> 02:32:08.670
+doing a bimanual exam will never tell you that if these patients have fibroids. Can a woman insist that she had an ultrasound? Absolutely. Can she walk in and just say, maybe not have to exacerbate the pain from a 5 to a 10, unless she's already at a 10, of course. But can she come in and just say, listen, I absolutely want ultrasound. I want you to look at fibroids. I also want you to do everything you can to determine if I have endometriosis. Bravo. Here's what endometriosis is.
+
+02:32:08.866 --> 02:32:24.382
+I heard a podcast where a true expert in this described these things. How do you think a physician would respond to that? I like to think that they would say, well, this person knows a lot. I better do everything. There you go. Bravo. Empowered, right?
+
+02:32:24.930 --> 02:32:50.270
+That's why I called my podcast SheMD, Strong, Healthy, Empowered. If you empower the woman to be her own health advocate, and she has that list, and she takes that to her doctor's office, nine out of 10, like I said, doctors are amazing humans. They're there to help you. But if that doctor doesn't have a pelvic ultrasound in his office, which is probably very common, then ask them for an order.
+
+02:32:50.402 --> 02:33:17.886
+go to a radiology center, to the hospital near you, but you should, every woman should have a pelvic ultrasound. I think it should be part of Well Woman Exam every single year. Yeah, why isn't it just part of the standard exam? It should be. Every male that goes in for a general exam has his testicles grabbed and told to cough over the sink looking for a hernia. So it could be the equivalent of that. I mean, they just do it. They do it no matter what. It takes me
+
+02:33:18.370 --> 02:33:46.910
+less than a minute to do a pelvic ultrasound. But then I've done it for 30 years. But that's how fast it is. But this is not an hour-long procedure. Oh, my God, no. And you know what? Let me tell you. I had a patient with a uterine septum. Do you know what that is? When the uterine cavity is actually divided in two because of this septum that was supposed to be absorbed, you know, but it never did. Unless you do a pelvic ultrasound and unless you're a good ultrasonographer...
+
+02:33:47.074 --> 02:34:16.382
+you will miss this septum. And these are patients who have recurrent miscarriages. They don't get pregnant. They sometimes come from fertility clinics. And they're like, my doctor said I fall into the unexplained category. There's nothing unexplained. So if you want to assess your fertility, I have buckets of it. One, female factor. What is female factor? Check your hormones. Make sure your egg count is normal, right? Make sure your prolactin, thyroid,
+
+02:34:16.514 --> 02:34:44.958
+Everything's normal. Do an STD check, gonorrhea, chlamydia, all of that. Next bucket, male factor. What's the sperm like? Is your partner smoking weed every single day? Has he had radiation because of testicular cancer? Whatever. Has he had fertility issues with his previous partner? Make sure the semen analysis is normal. It takes one minute to check that. The third bucket is tubal factor or anatomy.
+
+02:34:45.218 --> 02:35:10.974
+Is the anatomy normal? Do we have fibroids in the uterus? Is there a septum? Are the tubes open? Have you had chlamydia? Do you have, you know, any kind of adhesions or, you know, that's the next bucket. The fourth bucket is endometriosis. Are you missing endometriosis? Do you have painful periods, painful sex, bloating, everything we talked about? Rule that out. The next bucket, PCOS.
+
+02:35:11.138 --> 02:35:38.462
+Do you have irregular periods? Do you have PCOS looking ovaries on ultrasound? Do you have symptoms of high testosterone? If you do, you're 70, 80% chance you're not even ovulating. Boom, that's your problem, right? If you have PCOS, then you have, in my opinion, that's Alia body diagnosis, you have a 50% chance of having endometriosis. Then go back to the other bucket and make sure you're not missing endometriosis. And the last one is autoimmune for me,
+
+02:35:38.562 --> 02:36:01.726
+is very important. These are patients who can't get pregnant or when they get pregnant, they lose the pregnancy, especially my endometriosis patients. Endometriosis is a form of autoimmune. And I always say, if you have one autoimmune condition, you probably have a 30% chance of having some other autoimmune condition. Run this autoimmune bucket. Because if someone has, let's say,
+
+02:36:01.890 --> 02:36:25.726
+antiphospholipid syndrome and they're hypercoagulable and pregnancy makes you more hypercoagulable, you can actually make blood clots in the placenta. And these are patients who keep having miscarriages and they don't know why. What about other autoimmune conditions? Lupus. Like psoriasis. Yes. Even mild psoriasis. Yes. It's suggestive of overactive interleukins and things of that sort.
+
+02:36:25.858 --> 02:36:34.526
+Any autoimmune, I do a full autoimmune panel. And for patients who I go through all these buckets, so these buckets I told you, you're
+
+02:36:34.690 --> 02:37:04.656
+Your listeners can do it at home. You don't need your doctors because some doctors don't know what these buckets are and they're not really putting a check mark in front of it. You can do it yourself. You can ask for the first one, first bucket, female factor. Ask for your hormones. Ask for a semen analysis, second one. For the third one, ask for a pelvic ultrasound. Make sure there's no septum in that uterus. Make sure there are no fibroids. Make sure there are no ovarian cysts or anything that would cause any problems. For the fourth bucket, ask for testosterone levels. Rule out to see if you have
+
+02:37:04.656 --> 02:37:23.486
+PCOS. The next one, endometriosis, make sure you, I taught you today what to do to make sure you don't have endometriosis. And if you have any family history of any autoimmune condition, if you have psoriasis, if you have Sjogren's, if your mom has lupus, if you had recurrent pregnancy losses, if you have endometriosis, which is autoimmune,
+
+02:37:23.714 --> 02:37:51.710
+Ask for a full autoimmune panel because for patients who have autoimmune panel, you can give them blood thinners like Lovenox in pregnancy and it'll help bring that flow. And it's, I mean, you now have patients who come in. I haven't even gone into a room and my medical assistant says, oh, this patient has had five miscarriages, but there's nothing wrong with her. I'm like, there's no way this woman doesn't have an autoimmune condition. But that's pregnancy. Right.
+
+02:37:52.930 --> 02:38:20.574
+Can I say something? Please. I want to talk about breast cancer. Can I? Absolutely. You know, my passions in life are PCOS, endometriosis, and the breast cancer calculator. Do you know what that is? Do you know Tyra Cusick? Have you ever had an episode on it? No. You're going to love this. So I always say, for women listening to this podcast, if you know your first name, your last name, and your date of birth,
+
+02:38:20.770 --> 02:38:46.910
+you need to know your lifetime risk of breast cancer. It's mandatory. Lifetime risk of breast cancer. Yes. Have you heard of that? I've heard that term. Good. So why is it so important? I'm sure you know of someone in their 30s who end up with stage 4 breast cancer or advanced stage breast cancer, and they die way before they get to their mammogram age, right? So the first message I want to say on this podcast is that
+
+02:38:47.522 --> 02:39:17.374
+The message of mammograms should start at 40 is misleading, and it needs to stop. Mammograms start at 40 for very low-risk patients. An average American has a 12.5% chance of getting breast cancer. 12.5%. Average American. For women specifically. Yes. So pick your finger, go to a party in a room with 100 women.
+
+02:39:17.986 --> 02:39:46.206
+12.5 of them, just average, will get breast cancer. That's incredible, right? That's a huge number. Now, the problem is if you have family history of breast cancer or if you have a biopsy that shows atypia at some point in your life, that will significantly increase your lifetime risk of breast cancer. Why is that important? Again, there are three buckets for breast cancer risk.
+
+02:39:46.754 --> 02:40:14.750
+Low risk is less than 15%. Intermediate risk is 15% to 20%. And high risk is 20% or more. Why am I bringing this up? If your lifetime risk of breast cancer is 20% or more, you can start breast imaging at 30%, not 40%. How about that? What does a doctor need to hear in order to put someone in that category?
+
+02:40:14.850 --> 02:40:43.870
+It's a very simple formula. Patients can do it at home. See, you don't need your doctor to do this for you. Empowered, that's why women can do this at home. It's a formula called Tyrecusic Risk Assessment Tool. I have it on SheMD. It's free. You can literally go on there and calculate your lifetime risk of breast cancer. It asks you for your age, height, weight, density of the breast, which you can only get the density of the breast from your breast imaging mammogram or breast.
+
+02:40:44.002 --> 02:41:11.774
+usually the radiologists make a comment of whether or not you have fibroglandular, fatty breasts, heterogeneously dense or extremely dense breasts. The higher the density, the higher your lifetime risk of breast cancer. Patients who have children after age 30 are at a higher risk. Women who haven't had children, women with family history,
+
+02:41:11.938 --> 02:41:41.630
+with genetic mutations. So you answer these questions and at the end of it, it will calculate your risk of breast cancer over the next 10 years or over your lifetime. If that number is 20% or more, you can go to your doctor's office for your Well Woman exam after you ask for your egg count and your pelvic ultrasound. You ask them for breast imaging, especially if you have a first degree relative, mom,
+
+02:41:41.858 --> 02:42:08.094
+sister daughter with breast cancer, that significantly increases your risk. If that risk is north of 20%, you need to ask your doctor for breast imaging as early as 30. That's why I had a girl on my podcast at 34, she has stage four breast cancer. Had she been treated and diagnosed, and I'll tell you her story, it's really devastating. Yeah.
+
+02:42:08.930 --> 02:42:37.118
+it's important to know your lifetime risk of breast cancer. Patients who fall into the high-risk category, 20% or more, in addition to mammogram, if they have dense breast tissue, they need to ask for ultrasound of the breast. And for high-risk patients, 20% or more, in addition to mammogram and ultrasound, they need to ask for a breast MRI. Now, if your doctor writes for a breast MRI, it's probably not going to get covered by insurance. But if your doctor writes
+
+02:42:37.282 --> 02:42:59.614
+is high risk, lifetime risk is 28%, then your insurance company has to cover, right? So that's how they test doctors. They want to see that lifetime risk on the prescription order in order to approve it. But they can still not approve it, but that's another discussion. So it's important to know your lifetime risk of breast cancer.
+
+02:42:59.746 --> 02:43:20.222
+For any woman with family history of breast cancer, ovarian cancer, pancreatic cancer, prostate cancer, and the list goes on and on, they can ask their doctor to see if they qualify for genetic cancer testing. The company I use in my office I've used for, I don't know, over 10 years is Marriott. And, um...
+
+02:43:20.738 --> 02:43:43.262
+The reason I use this specific company, there are a lot of companies that check for genetic cancer testing, right? They check 80, 90 genes. I think Myriad only checks 63 genes, which is fine. But so not only Myriad checks you for the cancer-causing genes, they also calculate your tire-cusic for you so the doctor can see it.
+
+02:43:43.362 --> 02:44:07.038
+And in addition to that, Myriad takes your Tyrecusic and also looks in the DNA for tiny little markers. These are not main genetic mutations. They're tiny little markers that individually don't have that much power. But some women walk around with tons of these markers and they add the Tyrecusic with these markers and they give you a risk score.
+
+02:44:07.618 --> 02:44:32.158
+Sometimes I have a patient whose tire acoustic is 19%, but when you calculate their risk score, it jumps up to 34%. So for patients who fall into the very high risk category, north of 35%, those patients have the choice of either doing imaging every six months, alternating mammogram ultrasound with MRI, or
+
+02:44:32.322 --> 02:45:01.214
+asking their doctor for a medication called tamoxifen. Estrogen receptor blocker. That reduces the risk of breast cancer by 50% in the next 10 years of their life, or ask for a double mastectomy, which is exactly what I did. And I'm just going to end it by this. I was 48. I had no family history of breast cancer. 85% of women who get breast cancer don't have it in their family. Less than 5% have a genetic mutation.
+
+02:45:01.378 --> 02:45:28.286
+Americans who get it are just like me. I had no family history, had no genetic mutation, I was never on hormones, I was never overweight, I never smoked, I never, I don't drink, I've never done drugs in my life. So I was the perfect example of someone who... You did everything right. I did everything right. At 48 I had a breast biopsy that showed atypia and I asked my, obviously I had to go in and do an excisional biopsy, they removed it.
+
+02:45:28.738 --> 02:45:53.534
+My doctor said, everything's good. Go come back in six months. I went to my office and I calculated my lifetime risk of breast cancer. And it was the first time I did that because I had no reason to do it before because I had no risk factors. But when I calculated my lifetime risk, it showed 37%. So I called my doctor and I said, you tell me I'm okay, but this lifetime risk says 37%. And back then I had my three daughters. I had not adopted my little one.
+
+02:45:53.986 --> 02:46:10.110
+you told me this plane had a 37% chance of crashing, I would never board that plane. I'm very conservative. Please take my breasts off and put implants in. I already had implants. I had augmentation. They called me crazy, paranoid.
+
+02:46:10.306 --> 02:46:39.006
+They told me I was told that because I didn't have family history or because I looked the way I did and I was so healthy that I was very low risk. Yet my number was 37% until I found the surgeon who was willing to do it. She did it and the day before surgery, she was very annoyed with me and she said, why are you doing it? I'm like, well, I don't want to. I said the, you know, boarding the plane exam. That's not what you want your surgeon to say to you the day before surgery. She was because she really didn't want to do it. She really thought I was crazy. Mm-hmm.
+
+02:46:39.138 --> 02:47:06.686
+And I said, why? Why is it so? Why do I fight? Why do I have to fight so hard to remove my breast? This is my body, and I don't care about my breast. It's very personal. But for me, it really didn't matter. You know what she told me? We have really good chemo for breast cancer. Oh, my goodness. I'm a women's health advocate. Do you understand? This is how I'm being treated in the health care system. Right? So she did it.
+
+02:47:06.882 --> 02:47:22.238
+against her advice, and a week later I get a call that they found breast cancer in my tissue. That's how I diagnosed my breast cancer. So all this time they were digging in the left, my breast cancer was sitting on my right breast at 6 o'clock.
+
+02:47:22.338 --> 02:47:49.086
+am I saying this? I'm not saying this to scare people, but I'm saying this, that as a woman's health advocate, as a gynecologist, as someone who's, I feel like I'm extremely competent in my field. If I had to fight so hard for someone to take me seriously, do you think other women have a chance? That's why they show up so late. That's why their genetic test is not done. That's why if you don't know your lifetime risk of, if I didn't know my lifetime risk of breast cancer,
+
+02:47:49.538 --> 02:48:16.094
+would have never known to ask for these options. That's why you have to empower women to be their own health advocate. Go calculate your lifetime risk of breast cancer. That's non-negotiable. And if that number is 20% or above, ask your doctor for breast imaging. I don't care if you're 34 years old. You need it. And if you have family history, ask your doctor for genetic cancer testing. That's not optional.
+
+02:48:17.058 --> 02:48:35.454
+If you do this, that's why, you know what, Andrew, I don't want to jinx myself. I've practiced for 25 years. I've never lost a patient under my care to cancer. That's a wonderful thing to be able to say. Right? But it's not because I do some magic in my office. I'm hypervigilant with these patients.
+
+02:48:35.650 --> 02:48:47.614
+When you come for your well woman exam to my office, I'm assessing your fertility. I'm ruling out endo. I'm ruling out PCOS. I'm checking your egg count. I'm doing a pelvic ultrasound, looking for cysts, fibroids, septum.
+
+02:48:48.226 --> 02:49:18.192
+If you have PCOS, if you're young, I'm checking your APOB. I'm checking your lipoprotein little a status. If you're perimenopausal, I'm checking your APOE4 to see if that increases your risk of dementia. I talk about hormone replacement early during perimenopause. I talk about bone density. I talk about colonoscopy. I talk about genetic testing. Depending on your lifetime risk of breast cancer, I order different things, different imaging for different patients. I check your hormones. I check your thyroid. I check your prolactin. So I talk about
+
+02:49:18.192 --> 02:49:47.486
+anxiety, depression. I talk about eating disorder. So right now, a well woman exam for a patient is go to the doctor's office, get your pap smear, get an STD check if you're asking for it, right? Ask for birth control, do a breast exam. If you're 40, you get an order for mammogram and then you go home. That's not a well woman exam. That has to stop. And pelvic ultrasound should be on top of the list.
+
+02:49:47.714 --> 02:50:16.766
+I greatly appreciate you telling us this. I do believe that what you're saying will lead to change. It's gonna take some time, but I'm going to encourage all the women listening to not just do what you suggest, but to also echo what you're saying to all of their friends and to all of their family members, the women they know, because I do think that that's the way things change, frankly.
+
+02:50:17.026 --> 02:50:40.190
+You know, I've never beat the drum of one particular health ailment or health practice, although morning sunlight. What I do is I give people information and I try and distribute it so people can distribute it to one another. But if ever there was a batch of information to come through on this podcast where it was absolutely critical that people do what...
+
+02:50:40.610 --> 02:51:01.310
+is talking about and share that information and just keep pushing and pushing forward with this. It's the information you've been sharing. So, and I can't say that enough times or emphatically enough. I do have a couple more questions, even though you've been incredibly generous with your time. No, of course. But there are questions that come from the
+
+02:51:02.018 --> 02:51:29.854
+audience on social media that I've solicited for prior to the podcast. So I'm going to just take a moment, grab my phone, which I keep out of the room for our discussions, but I'm going to grab it now and see if any of the questions touch on things that we haven't talked about this far. Okay. Some excellent questions from the general public. This first one is, are there any non-invasive methods for the diagnosis of endometriosis like tests from the menstrual blood itself?
+
+02:51:29.986 --> 02:51:55.774
+They're doing a lot of research right now. We don't currently have it. Right now, non-invasive is, well, listen to your patient. That's like 99% accurate. Do a pelvic ultrasound. Unfortunately, if you see it on pelvic ultrasound, it's already advanced disease. Or do a pelvic MRI because MRI can actually, with an experienced radiologist, they can look at these specially infiltrating lesions. They can see those on MRI.
+
+02:51:56.578 --> 02:52:25.694
+Is endometriosis an autoimmune disease? Yes, it is. We talked about this. Absolutely. And that's why if you have endometriosis and you're trying to get pregnant or if you've had a miscarriage, ask your doctor for a full autoimmune panel because when you have one autoimmune, you have a 30% chance of having another autoimmune disorder. Is cognitive impairment in menopause an absolute occurrence? Like, does it necessarily happen is what they want to know. Not always, but it's extremely common. I called it brain fog.
+
+02:52:26.338 --> 02:52:50.718
+know women lose their concentration they don't remember things you go into a room you're like why did I come in here and a lot of that is because of the fluctuations the hormones and the drop in the estrogen so by replacing by giving these patients hormone replacement they feel like oh my god I'm alive again I can see again I can think again so it absolutely happens it you know most symptoms of menopause different women the
+
+02:52:50.946 --> 02:53:19.838
+experience menopause differently. They all don't share the same exact symptoms, but a lot of women complain of brain fog. Is inositol useful for PCOS? Yes, absolutely. These are great questions. And I have it in Ovi. What do you think is the most overlooked, missed cause of infertility by doctors? Everything we talked about, endo and PCOS, hands down. A lot of these patients who are unexplained,
+
+02:53:20.962 --> 02:53:49.854
+undiagnosed PCOS and endometriosis patients. Suggestions for PMDD relief for somebody in their 40s. And could you explain PMDD? I don't think we've defined that acronym. Yes. PMDD is a severe form of PMS. Very, very common. Devastating for these girls. The best way to describe it is these girls, two weeks out of the month, they're perfect. Two weeks out of the month, they destroy all their relationships.
+
+02:53:49.986 --> 02:54:18.878
+depressed, they're crying, they're unmotivated, they don't want to go to school, they completely decline, they don't want to go out. And two weeks after, so I always say, two weeks out of the month, you destroy all your relationships, and then you spend two more weeks fixing it, and then the vicious cycle happens over and over again. So PMDD is a severe form of PMS. And what happens, it's not an abnormal hormonal condition. It's actually the
+
+02:54:19.010 --> 02:54:46.334
+brain's reaction, extreme reaction to normal hormonal changes in the body. So PMDD, the symptoms usually start 10 days before the period and goes away two, three days after the period. And this vicious cycle happens. Believe it or not, suicide is really high in these patients during those weeks. I'm actually seeing a patient from out of state on Friday after my surgery because her family's flying her because she's not feeling well. And
+
+02:54:46.594 --> 02:55:15.358
+her diagnosis is PMDD. How do you treat it? If you want to use birth control, there's one form of birth control. Yaz, I don't usually go to it. It helps with the symptoms of PMDD. But these patients, actually, they do really well if you put them on SSRIs or antidepressants just 10 days during the month. For these patients, you can prescribe 20 milligrams of Prozac 10 to 14 days before their period. So they only take it 10 to 14 days per month, actually.
+
+02:55:15.522 --> 02:55:28.798
+After ovulation, they start taking it once a day and they stop at the onset of their period. You can also treat them with 25 milligrams of Zoloft. For some reason, their brain responds really well to this pulsatile tract.
+
+02:55:28.930 --> 02:55:58.654
+treatment and it's a game changer for these patients. PMDD patients, you do want to make sure they don't have a chronic underlying anxiety depressive disorder. So I always refer them to a psychiatrist, but you can absolutely treat it. For perimenopausal women, you can also treat them with hormone replacement. So someone in her 40s, I want to make sure if she didn't have it and suddenly she has, it's not like she hasn't had PMDD and suddenly she has PMDD. It's probably, it could be
+
+02:55:58.882 --> 02:56:18.910
+menopause so you don't want to miss that great it's first time I've heard such a thorough description of what PMDD is and what one can do about it I think you just helped a ton of people a lot of questions about fasting and about low starch aka low carbohydrate diet I
+
+02:56:19.042 --> 02:56:48.062
+100% say yes. A lot of us are eating, you know, like if you're waking in the morning and having bread and pasta for lunch and then you're having ice cream and then you have rice and I don't know, pizza for dinner, of course it'll start that process. Diet is extremely important. One thing I try to stay away from is limiting these patients or telling a 22-year-old you are not to have any carbohydrates. That's not sustainable. What
+
+02:56:48.226 --> 02:57:10.494
+What I believe is if you fix their underlying condition and address their insulin resistance and help them exercise and have healthy habits, you can fix these symptoms. Just cutting carbohydrates out. A lot of these PCOS patients are already doing this. They're literally starving themselves and they're exercising and they're not losing weight. It's because they're
+
+02:57:10.594 --> 02:57:37.534
+condition has not been addressed. So I would say like anything else at moderation, but you don't want to tell someone don't eat carbohydrates. It's not sustainable. Someone said that their estradiol patch is causing some hair loss. Is there another option? I don't think it's the estradiol patch causing the hair loss. Women who use estradiol patches are going through perimenopause and menopause. One of the issues with
+
+02:57:37.634 --> 02:58:07.600
+With perimenopause and menopause is that drop in estrogen does cause hair thinning. So for that reason, I would say, you know, I usually treat these patients with minoxidil. You can either do like Rogaine on your scalp or you can take oral minoxidil. The prescription is 2.5. You can start as little as 0.5 every single day. The problem is hair thinning is very common in menopause and you want to hit it quick. So if you start noticing that you're losing hair, take the minoxidil. It doesn't work overnight.
+
+02:58:07.600 --> 02:58:33.182
+You will probably start seeing results in about six months, but in two years, you'll see a huge difference in your hair. But hit it early, and it's not the estrogen patch. I doubt it. A number of questions about how to improve quality of eggs after age 35, presumably by doing all the things that we already talked about. Everything we talked about for the past two hours. Lower intravisceral fat, lower inflammation, improve insulin sensitivity.
+
+02:58:33.378 --> 02:58:47.550
+suppress endometriosis for sure because endometriosis will go after those at count and quality. PCOS will go after your quality. Does endometriosis pain start to wane with perimenopause?
+
+02:58:47.778 --> 02:59:15.006
+Yes, it gets better. The problem is women in their 40s have a lot of adenomyosis, which mimics the symptoms of endometriosis. So these women actually do extremely well with the progesterone IUD. We talked about the Mirena IUD because it suppresses their pelvis and their endometriosis. And once they go through menopause, this is a very important point. And I'm so glad you brought it up because doctors don't realize this. For patients with endometriosis, menopause
+
+02:59:15.170 --> 02:59:42.622
+make the pain go away, right? Because what happens in menopause are ovaries are not functioning and the estrogen levels drop. However, you come and give these women estrogen. What happens? You can stimulate these endometriosis implants all over again. And this is what happens. So endometriosis patients in general have a slightly higher increased risk of ovarian cancer, especially the ones with endometriomas or advanced disease.
+
+02:59:43.522 --> 03:00:12.094
+And postmenopause hormone replacement, the estrogen can still stimulate these implants. Now, a lot of women in the healthcare system who have undergo a hysterectomy, meaning they remove their uterus, the doctor says you don't need progesterone because, you know, we think we give the progesterone to protect the lining of the uterus from unopposed estrogen causing uterine cancer. Well, that's not true. In patients with endometriosis, even when they undergo a hysterectomy, endometriosis,
+
+03:00:12.226 --> 03:00:38.942
+they're using estrogen patches, you always want to give them the progesterone because otherwise you stimulate these implants again because of unopposed estrogen. That's one reason. And also we use the progesterone, micronized progesterone in hormone replacement for patients who are anxious, who are not sleeping well, regardless of whether or not they have a uterus. But endometriosis patients, their hormone replacement should always be with progesterone.
+
+03:00:39.554 --> 03:00:55.006
+there any natural ways to increase progesterone? So one reason our body doesn't have, you know, when we don't ovulate, we don't make that corpus luteal cyst and we don't have that progesterone being secreted. So in PCOS, let's say, by
+
+03:00:55.138 --> 03:01:20.958
+By lowering your weight, by lowering that visceral fat, by regulating your insulin resistance, you can increase your chance of ovulation. And by ovulation, then you start releasing the progesterone. So that's the best way of describing it. But for perimenopausal women, then you need to prescribe them the micronized progesterone. You already answered this earlier, but I think it's worth just briefly repeating. Yeah.
+
+03:01:21.154 --> 03:01:50.302
+How does diet affect female hormone health? As we get closer to menopause, we become more insulin resistant, regardless of whether we had PCOS or not. So dealing with insulin, almost all of us women, we deal with insulin resistance at some point in our life at different degrees. But that goes to the, you know, what I was telling you, when you load the gun with your genetics and you pull the trigger with epigenetics, your diet, your exercise, your sleep, your stress, all of that will affect it.
+
+03:01:50.722 --> 03:02:19.966
+term. What can women do to prolong their fertility? I suppose everything you've already talked about. But you see, but now you know how to answer it. Don't dismiss your endometriosis. Don't dismiss your PCOS. Know your egg count. Make sure you freeze your eggs early if you can afford it. You know, I mean, all the steps we talked about for the past four hours. I could listen to you for many, many hours and I know the audience can too. Several things. First of all,
+
+03:02:20.610 --> 03:02:45.150
+Thank you for coming here today to share with us a true treasure trove of information. I mean, I have to imagine that most of what people heard they have not heard before and certainly not with the depth and rigor and actionable items that you've suggested. So just thank you. Thank you. Thank you for taking the time. You're very busy. You have four children. You're happily married. You run a very active clinic and you're
+
+03:02:45.282 --> 03:03:14.430
+a story about running off to deliver babies at a rate of 80 or more per month while pregnant says it all, but that you would take the time to come here and share with our audience, the general public, that is. I'm immensely grateful. I know they are immensely grateful. We will put links so that people can find you and the various resources discussed, as well as another call to action to listen to SheMD, your podcast. I also just want to thank you for being you.
+
+03:03:14.562 --> 03:03:42.302
+which is a sort of a funny statement on the surface, but truly, I mean, you're passionate for what you do, you're passionate for women's health, and just the, again, the depth and rigor with which you approach these things that I think for most people, they look up one or two things, see a few symptoms, this age to this age group, and you're giving people tools to potentially diagnose their own endometriosis, PCOS, and breast cancer, extend fertility, live life with
+
+03:03:42.690 --> 03:04:08.190
+less pain, ideally no pain, and perhaps most importantly, to give them clarity and the sense that they are indeed sane in a world that basically is sending back the opposite message because it just doesn't understand what they're going through. So, you know, words really can't say enough for how grateful I am. You're so sweet. To have you here and to share this knowledge and that the audience is sure to glean from you. I would
+
+03:04:08.386 --> 03:04:25.470
+I'd really like to have you back again to talk about where these things are going, because it sounds like the field is advancing very quickly too. And everybody out there, head to the various resources that Dr. Ali Abadi shared, and please share with me in thanking her through her social media channels,
+
+03:04:25.570 --> 03:04:53.822
+podcast and all the rest. And just, you know, really, truly, thank you. Thank you. Thank you so much. Oh, you're so sweet. Thank you for having me. Thank you for giving me this opportunity, this mic, so I can take, you know, so I can take this time to talk about women and women's health. I love women. I'm surrounded by them. I have four daughters. I do this for them, for the world. And this world will be a better place if we take care of our women. God bless you for doing it. Thank you. Thank you.
+
+03:04:54.178 --> 03:05:03.678
+Thank you for joining me for today's discussion with Dr. Thais Ali Abadi. To learn more about her work and to find links to the various resources we discussed, please see the show note captions.
+
+03:05:03.810 --> 03:05:33.776
+If you're learning from and or enjoying this podcast, please subscribe to our YouTube channel. That's a terrific zero cost way to support us. In addition, please follow the podcast by clicking the follow button on both Spotify and Apple. And on both Spotify and Apple, you can leave us up to a five-star review and you can now leave us comments at both Spotify and Apple. Please also check out the sponsors mentioned at the beginning and throughout today's episode. That's the best way to support this podcast. If you have questions for me or comments about the podcast or guests or topics that you'd like me to consider for the Huberman Lab
+
+03:05:33.776 --> 03:05:58.046
+please put those in the comments section on YouTube. I do read all the comments. For those of you that haven't heard, I have a new book coming out. It's my very first book. It's entitled Protocols, an Operating Manual for the Human Body. This is a book that I've been working on for more than five years, and that's based on more than 30 years of research and experience. And it covers protocols for everything from sleep to exercise, to stress control,
+
+03:05:58.178 --> 03:06:18.174
+related to focus and motivation. And of course, I provide the scientific substantiation for the protocols that are included. The book is now available by presale at protocolsbook.com. There you can find links to various vendors. You can pick the one that you like best. Again, the book is called Protocols, an Operating Manual for the Human Body.
+
+03:06:18.530 --> 03:06:48.496
+If you're not already following me on social media, I am Huberman Lab on all social media platforms. So that's Instagram, X, Threads, Facebook, and LinkedIn. And on all those platforms, I discuss science and science-related tools, some of which overlaps with the content of the Huberman Lab podcast, but much of which is distinct from the information on the Huberman Lab podcast. Again, it's Huberman Lab on all social media platforms. And if you haven't already subscribed to our Neural Network newsletter, the Neural Network newsletter is a zero-cost monthly newsletter that includes podcast summaries as well
+
+03:06:48.496 --> 03:07:14.174
+what we call protocols in the form of one to three page PDFs that cover everything from how to optimize your sleep, how to optimize dopamine, deliberate cold exposure. We have a foundational fitness protocol that covers cardiovascular training and resistance training. All of that is available completely zero cost. You simply go to Hubermanlab.com, go to the menu tab in the top right corner, scroll down to newsletter and enter your email. And I should emphasize that we do not share your email with anybody.
+
+03:07:14.530 --> 03:07:23.614
+Thank you once again for joining me for today's discussion with Dr. Thais Ali Abadi. And last, but certainly not least, thank you for your interest in science.

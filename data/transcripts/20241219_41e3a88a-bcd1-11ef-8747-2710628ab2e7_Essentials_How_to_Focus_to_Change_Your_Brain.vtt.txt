@@ -1,0 +1,262 @@
+WEBVTT
+
+00:00.194 --> 00:26.718
+Welcome to Huberman Lab Essentials, where we revisit past episodes for the most potent and actionable science-based tools for mental health, physical health, and performance. My name is Andrew Huberman, and I'm a professor of neurobiology and ophthalmology at Stanford School of Medicine. Today, we're talking about neural plasticity, which is this incredible feature of our nervous systems that allows it to change in response to experience.
+
+00:27.042 --> 00:55.390
+Neuroplasticity is arguably one of the most important aspects of our biology. It holds the promise for each and all of us to think differently, to learn new things, to forget painful experiences, and to essentially adapt to anything that life brings us by becoming better. So let's get started. Most people are familiar with the word neural plasticity, which is the brain and nervous system's ability to change itself.
+
+00:55.618 --> 01:15.518
+All of us were born with a nervous system that isn't just capable of change, but was designed to change. When we enter the world, our nervous system is primed for learning. The brain and nervous system of a baby is wired very crudely
+
+01:15.650 --> 01:43.486
+The connections are not precise. And we can see evidence of that in the fact that babies are kind of flopping there like a kind of a little potato bug with limbs. They can't really do much in terms of coordinated movement. They certainly can't speak and they can't really do anything with precision. So I want you to imagine in your mind that when you were brought into this world, you were essentially a widely connected web of connections that
+
+01:44.098 --> 02:02.494
+was really poor at doing any one thing. And that through your experience, what you were exposed to by your parents or other caretakers, through your social interactions, through your thoughts, through the languages that you learn, through the places you traveled or didn't travel, your nervous system became customized to your unique experience.
+
+02:03.234 --> 02:26.494
+Now that's true for certain parts of your brain that are involved in what we call representations of the outside world. A lot of your brain is designed to represent the visual world or represent the auditory world or represent the gallery of smells that are possible in the world. However, there are aspects of your nervous system that were designed not to be plastic.
+
+02:26.914 --> 02:51.806
+They were wired so that plasticity or changes in those circuits is very unlikely. Those circuits include things like the ones that control your heartbeat, the ones that control your breathing, the ones that control your digestion. And thank goodness that those circuits were set up that way because you want those circuits to be extremely reliable. So many nervous system features like digestion and breathing and heart rate are hard to change.
+
+02:52.802 --> 03:22.768
+Other aspects of our nervous system are actually quite easy to change. And one of the great gifts of childhood, adolescence and young adulthood is that we can learn through almost passive experience. We don't have to focus that hard in order to learn new things. And then after age 25, if we want to change those connections, those super highways of connectivity, we have to engage in some very specific processes. And those processes as we'll soon learn are gated, meaning you can't just decide to change your brain. You actually have to go through a series of steps to change
+
+03:22.768 --> 03:38.846
+your internal state in ways that will allow you to change your brain. I'd like to take a quick break and thank one of our sponsors, David. David makes a protein bar unlike any other. It has 28 grams of protein, only 150 calories and zero grams of sugar.
+
+03:38.946 --> 04:00.190
+That's right, 28 grams of protein and 75% of its calories come from protein. These bars from David also taste amazing. My favorite flavor is chocolate chip cookie dough, but then again, I also like the chocolate fudge flavored one and I also like the cake flavored one. Basically, I like all the flavors. They're incredibly delicious. For me personally, I strive to eat mostly whole foods. However, when I'm in a rush,
+
+04:00.290 --> 04:16.382
+or I'm away from home, or I'm just looking for a quick afternoon snack, I often find that I'm looking for a high quality protein source. With David, I'm able to get 28 grams of protein with the calories of a snack, which makes it very easy to hit my protein goals of one gram of protein per pound of body weight each day.
+
+04:16.577 --> 04:45.086
+And it allows me to do that without taking in excess calories. I typically eat a David Barr in the early afternoon or even mid afternoon if I want to bridge that gap between lunch and dinner. I like that it's a little bit sweet, so it tastes like a tasty snack, but it's also given me that 28 grams of very high quality protein with just 150 calories. If you would like to try David, you can go to davidprotein.com slash Huberman. Again, the link is davidprotein.com slash Huberman. Many of us have been
+
+04:45.634 --> 05:10.718
+captivated by the stories in the popular press about the addition of new neurons, this idea, oh, if you go running or you exercise, your brain actually makes new neurons. Well, I'm going to give you the bad news, which is that after puberty, the human brain and nervous system adds very few, if any, new neurons. So even though we can't add new neurons throughout our lifespan, at least not in very great numbers, it's
+
+05:10.914 --> 05:31.806
+that we can change our nervous system, that the nervous system is available for change, that if we create the right set of circumstances in our brain, chemical circumstances, and if we create the right environmental circumstances around us, our nervous system will shift into a mode in which change isn't just possible, but it's probable. As I mentioned before,
+
+05:32.386 --> 05:58.174
+The hallmark of the child nervous system is change. It wants to change. One of the ways in which we can all get plasticity at any stage throughout the lifespan is through deficits and impairments in what we call our sensory apparatus, our eyes, our ears, our nose, our mouth. In individuals that are blind from birth, the so-called occipital cortex, the visual cortex in the back becomes overtaken by hearing,
+
+05:58.978 --> 06:22.014
+the neurons there will start to respond to sounds as well as braille touch. And actually there's one particularly tragic incident where a woman who was blind since birth and because of neuroimaging studies, we knew her visual cortex was no longer visual. It was responsible for braille reading and for hearing. She had a stroke that actually took out most of the function of her visual cortex.
+
+06:22.178 --> 06:47.486
+So then she was blind, she couldn't braille read or hear. She did recover some aspect of function. Now, most people, they don't end up in that highly unfortunate situation. And what we know is that for instance, blind people who use their visual cortex for braille reading and for hearing have much better auditory acuity and touch acuity, meaning they can sense things with their fingers and they can sense things with their hearing that
+
+06:47.842 --> 07:08.830
+Typical sighted folks wouldn't be able to. In fact, you will find a much greater incidence of perfect pitch in people that are blind. And that tells us that the brain, and in particular, this area we call the neocortex, which is the outer part, is really designed to be a map of our own individual experience.
+
+07:08.930 --> 07:36.446
+what I call experiments of impairment or loss where somebody is blind from birth or deaf from birth, or maybe has a limb development impairment where they have a stump instead of an entire limb with a functioning hand, their brain will represent the body plan that they have, not some other body plan. But the beauty of the situation is that the real estate up in the skull, that neocortex,
+
+07:37.026 --> 08:06.558
+The essence of it is to be a customized map of experience. A few years ago, I was at a course and a woman came up to me and she said, you know, I wasn't teaching the course, I was in the course. And she said, I just have to tell you that every time you speak, it really stresses me out. And I said, well, I've heard that before, but do you want to be more specific? And she said, yeah, your tone of voice reminds me of somebody that I had a really terrible experience with. I said, well, okay, well, I can't change my voice, but I really appreciate that you
+
+08:06.722 --> 08:26.782
+acknowledge that and it also will help explain why you seem to cringe every time I speak, which I hadn't noticed until then, but after that I did notice she had a very immediate and kind of visceral response to my speech. But in any event, over the period of this two week course, she would come back every once in a while and say, you know what, I think just by telling you that
+
+08:26.914 --> 08:56.638
+your voice was really difficult for me to listen to. It's actually becoming more tolerable to me. And by the end, we actually became pretty good friends and we're still in touch. And so what this says is that the recognition of something, whether or not that's an emotional thing or a desire to learn something else is actually the first step in neuroplasticity. If I get up out of this chair and walk out of the door, I don't think about each step that I'm taking. And that's because I learned how to walk during development. But when we decide that we're going to shift some sort of behavior or some reaction,
+
+08:56.738 --> 09:23.070
+or some new piece of information that we want to learn is something that we want to bring into our consciousness. That awareness is a remarkable thing because it cues the brain and the rest of the nervous system that when we engage in those reflexive actions going forward, that those reflexive actions are no longer fated to be reflexive. Now, if this sounds a little bit abstract, we're going to talk about protocols for how to do this,
+
+09:23.298 --> 09:48.798
+The first step in neuroplasticity is recognizing that you want to change something. We have to know what it is exactly that we want to change. Or if we don't know exactly what it is that we want to change, we at least have to know that we want to change something about some specific experience. Now there are specific protocols that science tells us we have to follow if we want those changes to occur. What it is, is it's our forebrain, in particular, our prefrontal cortex signaling
+
+09:49.282 --> 10:07.774
+the rest of our nervous system, that something that we're about to do, hear, feel, or experience is worth paying attention to. So we'll pause there and then I'm going to move forward. I'd like to take a quick break and acknowledge our sponsor, AG1. By now, many of you have heard me say that if I could take just one supplement, that supplement would be AG1.
+
+10:08.002 --> 10:37.968
+The reason for that is AG1 is the highest quality and most complete of the foundational nutritional supplements available. What that means is that it contains not just vitamins and minerals, but also probiotics, prebiotics, and adaptogens to cover any gaps you may have in your diet and provide support for a demanding life. For me, even if I eat mostly whole foods and minimally processed foods, which I do for most of my food intake, it's very difficult for me to get enough fruits and vegetables, vitamins and minerals, micronutrients, and adaptogens from food alone. For that reason, I've
+
+10:37.968 --> 11:06.238
+I've been taking AG1 daily since 2012. When I do that, it clearly bolsters my energy, my immune system, and my gut microbiome. These are all critical to brain function, mood, physical performance, and much more. If you'd like to try AG1, you can go to drinkag1.com slash Huberman to claim their special offer. Right now, they're giving away five free travel packs plus a year's supply of vitamin D3 K2. Again, that's drinkag1.com slash Huberman to claim that special offer.
+
+11:06.530 --> 11:36.350
+One of the biggest lies in the universe that seems quite prominent right now is that every experience you have changes your brain. People love to say this. They love to say, your brain is going to be different after this lecture, that your brain is going to be different after today's class than it was two days ago. And that's absolutely not true. The nervous system doesn't just change because you experienced something, unless you're a very young child. The nervous system changes when certain neurochemicals are released
+
+11:36.866 --> 11:54.174
+and allow whatever neurons are active in the period in which those chemicals are swimming around to strengthen or weaken the connections of those neurons. So when people tell you, oh, at the end of today's lecture, at the end of something, your brain is going to be completely different.
+
+11:54.722 --> 12:20.990
+That's simply not true. If you're older than 25, your brain will not change unless there's a selective shift in your attention or a selective shift in your experience that tells the brain it's time to change. And those changes occur through strengthening and weakening of particular connections. But the important thing to understand is that if we want something to change, we really need to bring an immense amount of attention
+
+12:21.218 --> 12:49.374
+to whatever it is that we want to change. This is very much linked to the statement I made earlier about the, it all starts with an awareness. Now, why is that attention important? In the early nineties, a graduate student by the name of Greg Reconzone was in the laboratory of a guy named Mike Merzenich at UCSF. And they set out to test this idea that if one wants to change their brain, they need to do it early in life because the adult brain simply isn't plastic. It's not available.
+
+12:49.538 --> 13:17.886
+for these changes. And they did a series of absolutely beautiful experiments. By now, I think we can say proving that the adult brain can change provided certain conditions are met. Now, the experiments they did are tough. They were tough on the experimenter and they were tough on the subject. I'll just describe one. Let's say you were a subject in one of their experiments. You would come into the lab and you'd sit down at a table and they would
+
+13:18.530 --> 13:45.342
+record from or image your brain and look at the representation of your fingers, the digits as we call them. And there would be a spinning drum, literally like a stone drum in front of you or metal drum that had little bumps. Some of the bumps were spaced close together, some of them were spaced far apart. And they would do these experiments where they would expect their subjects to press a lever whenever, for instance, the bumps got closer together or further apart.
+
+13:45.442 --> 14:11.966
+And these were very subtle differences. So in order to do this, you really have to pay attention to the distance between the bumps. And these were not braille readers or anyone skilled in doing these kinds of experiments. What they found was that as people paid more and more attention to the distance between these bumps, and they would signal when there was a change by pressing a lever, as they did that, there was very rapid changes, plasticity in the representation of the fingers.
+
+14:12.258 --> 14:39.102
+and it could go in either direction. You could get people very good at detecting the distance between bumps that the distance was getting smaller or the distance was getting greater. So people could get very good at these tasks that are kind of hard to imagine how they would translate to the real world for a non-Braille reader. But what it told us is that these maps of touch were very much available for plasticity and these were fully adult subjects. What it proved is that the adult brain is very plastic.
+
+14:39.202 --> 15:05.502
+And they did some beautiful control experiments that are important for everyone to understand, which is that sometimes they would bring people in and they would have them touch these bumps on this spinning drum, but they would have the person pay attention to an auditory cue. Every time a tone would go off or there was a shift in the pitch of that tone, they would have to signal that. So the subject thought they were doing something related to touch and hearing. And all that showed was that it wasn't just the mere action of touching these bumps.
+
+15:05.602 --> 15:33.374
+they had to pay attention to the bumps themselves. If they were placing their attention on the auditory cue on the tone, well then there was plasticity in the auditory portion of the brain, but not on the touch portion of the brain. And this really spits in the face of this thing that you hear so often, which is every experience that you have is going to change the way your brain works. Absolutely not. The experiences that you pay super careful attention to
+
+15:34.146 --> 15:56.862
+are what open up plasticity and it opens up plasticity to that specific experience. So the question then is why? And Merzenich and his graduate students and postdocs went on to address this question of why, and it turns out the answer is a very straightforward neurochemical answer. And the first neurochemical is epinephrine, also adrenaline.
+
+15:57.314 --> 16:25.182
+We call it adrenaline when it's released from the adrenal glands above our kidneys, that's in the body. We call it epinephrine in the brain, but they are chemically identical substances. Epinephrine is released from a region in the brainstem called locus coeruleus. Epinephrine is released when we pay attention and when we are alert. But the most important thing for getting plasticity is that there be epinephrine, which equates to alertness, plus the release of this neuromodulator acetylcholine.
+
+16:25.410 --> 16:54.302
+Now, acetylcholine is released from two sites in the brain. One is also in the brainstem and it's named different things in different animals, but in humans, the most rich site of acetylcholine neurons or neurons that make acetylcholine is the parabigeminal nucleus or the parabrachial region. All you need to know is that you have an area in your brainstem and that area sends wires, these axons up into the area of the brain that filters
+
+16:54.530 --> 17:19.614
+sensory input. So we have this area of the brain called the thalamus, and it is getting bombarded with all sorts of sensory input all the time. But when I pay attention to something, I create a cone of attention. What we call signal to noise goes up. So those of you with an engineering background will be familiar with signal to noise. Those of you who do not have an engineering background, don't worry about it. All it means is that one particular shout in the crowd comes through. Acetylcholine acts as a spotlight.
+
+17:21.058 --> 17:45.630
+Epinephrine for alertness, acetylcholine spotlighting these inputs, those two things alone are not enough to get plasticity. There needs to be this third component. And the third component is acetylcholine released from an area of the forebrain called nucleus basalis. If you really want to get technical, it's called nucleus basalis of my NERT. For any of you that are budding physicians or going to medical school, you should know that.
+
+17:45.890 --> 18:14.494
+If you have acetylcholine released from the brainstem, acetylcholine released from nucleus basalis and epinephrine, you can change your brain. And this has been shown again and again and again in a variety of papers. And it is now considered a fundamental principle of how the nervous system works. If you can access these three things of epinephrine, acetylcholine from these two sources, not only will the nervous system change, it has to change. It absolutely will change.
+
+18:15.202 --> 18:43.454
+And that is the most important thing for people to understand if they want to change their brain. So now let's talk about how we would translate all the scientific information into some protocols that you can actually apply. Because I think that's what many of you are interested in. What you do with your health and your medical care is up to you. You're responsible for your health and wellbeing. So I'm not going to tell you what to do or what to take. I'm going to describe what the literature tells us and suggests about ways to access plasticity. We know we need epinephrine. That means alertness.
+
+18:43.618 --> 18:56.606
+Most people accomplish this through a cup of coffee and a good night's sleep. So I will say you should master your sleep schedule and you should figure out how much sleep you need in order to achieve alertness when you sit down to learn.
+
+18:56.962 --> 19:26.928
+Once that's in place, the question then is, how do I access this alertness? Well, there are a number of ways. Some people use some pretty elaborate psychological gymnastics. They will tell people that they're going to do something and create some accountability. That could be really good. Or they'll post a picture of themselves online and they'll commit to losing a certain amount of weight or something like this. So they can use either shame-based practices to potentially embarrass themselves if they don't follow through
+
+19:26.928 --> 19:51.934
+They'll write checks to organizations that they hate and insist that they'll cash them if they don't actually follow through. Or they'll do it out of love. They'll decide that they're going to run a marathon or learn a language or something because of somebody they love or they want to devote it to somebody. The truth is that from the standpoint of epinephrine and getting alert and activated, it doesn't really matter. Epinephrine is a chemical.
+
+19:52.130 --> 20:21.342
+And your brain does not distinguish between doing things out of love or hate, anger or fear. It really doesn't. All of those promote autonomic arousal and the release of epinephrine. So I think for most people, if you're feeling not motivated to make these changes, the key thing is to identify not just one, but probably a kit of reasons, several reasons as to why you would want to make this particular change. And being drawn toward a particular goal that you're excited about can be one. Also being,
+
+20:21.506 --> 20:44.990
+Motivated to not be completely afraid, ashamed, or humiliated for not falling through on a goal is another. Come up with two or three things, fear-based perhaps, love-based perhaps, or perhaps several of those in order to ensure alertness, energy, and attention for the task. And that brings us to the attention part. Now, it's one thing to have an electrode embedded into your brain and increase the amount of acetylcholine.
+
+20:45.890 --> 21:14.910
+It's another to exist in the real world outside the laboratory and have trouble focusing, having trouble bringing your attention to a particular location in space for a particular event. And there's a lot of discussion nowadays about smartphones and devices creating a sort of attention deficit almost at a clinical level for many people, including adults. I think that's largely true. And what it means, however, is that we all are responsible for learning how to create depth of,
+
+21:15.106 --> 21:41.630
+There are some important neuroscience principles to get depth of focus. I want to briefly talk about the pharmacology first, because I always get asked about this. People say, what can I take to increase my levels of acetylcholine? Well, there are things you can take. Nicotine is called nicotine because acetylcholine binds to the nicotinic receptor. There are two kinds of acetylcholine receptors, muscarinic and nicotinic, but the nicotinic ones are involved in attention and alertness.
+
+21:42.914 --> 22:09.278
+I have colleagues, these are not my kind of like bro science buddies, I have those friends too. This is a Nobel prize winning colleague who chews Nicorette while he works. But when I asked him, why are you doing this? He said, well, increases my alertness and focus. Now I've tried chewing Nicorette, it makes me super jittery. I don't like it because I can't focus very well. It kind of takes me too far up the level of autonomic arousal. I've got friends that dip Nicorette all day.
+
+22:09.474 --> 22:39.422
+If you're going to go down that route, you want to be very careful how much you rely on those all the time, because the essence of plasticity is to create a window of attention and focus that's distinct from the rest of your day. So what are some ways that you can increase acetylcholine? How do you increase focus? The best way to get better at focusing is to use the mechanisms of focus that you were born with. And the key principle here is that mental focus
+
+22:39.746 --> 23:09.470
+follows visual focus. We are all familiar with the fact that our visual system can be unfocused, blurry, or jumping around, or we can be very laser focused on one location in space. What's interesting and vitally important to understanding how to access neuroplasticity is that you can use your visual focus and you can increase your visual focus as a way of increasing your mental focus abilities more broadly. So I'm going to explain how to do that.
+
+23:09.826 --> 23:33.246
+I'd like to take a quick break and thank one of our sponsors, Element. Element is an electrolyte drink that has everything you need and nothing you don't. That means the electrolytes, sodium, magnesium, and potassium in the correct ratios, but no sugar. We should all know that proper hydration is critical for optimal brain and body function. In fact, even a slight degree of dehydration can diminish your cognitive and physical performance to a considerable degree.
+
+23:33.346 --> 24:03.312
+It's also important that you're not just hydrated, but that you get adequate amounts of electrolytes in the right ratios. Drinking a packet of Element dissolved in water makes it very easy to ensure that you're getting adequate amounts of hydration and electrolytes. To make sure that I'm getting proper amounts of both, I dissolve one packet of Element in about 16 to 32 ounces of water when I wake up in the morning, and I drink that basically first thing in the morning. I'll also drink a packet of Element dissolved in water during any kind of physical exercise that I'm doing, especially on hot days when I'm sweating a lot and losing water.
+
+24:03.312 --> 24:30.846
+and electrolytes. There are a bunch of different great tasting flavors of Element. I like the watermelon, I like the raspberry, I like the citrus, basically I like all of them. If you'd like to try Element, you can go to drinkelement.com slash Huberman to claim an Element sample pack with the purchase of any Element drink mix. Again, that's drinkelement, spelled L-M-N-T, so it's drinkelement.com slash Huberman to claim a free sample pack. Plasticity starts with alertness. That alertness can come from
+
+24:30.978 --> 24:57.118
+A sense of love, a sense of joy, a sense of fear, doesn't matter. There are pharmacologic ways to access alertness too. The most common one is of course caffeine. Many people are now also using Adderall. Adderall will not increase focus, it increases alertness. It does not touch the acetylcholine system. The acetylcholine system and the focus that it brings is available
+
+24:57.218 --> 25:23.422
+as I mentioned through pharmacology, but also through these behavioral practices. And the behavioral practices that are anchored in visual focus are going to be the ones that are going to allow you to develop great depth and duration of focus. So let's think about visual focus for a second. When we focus on something visually, we have two options. We can either look at a very small region of space with a lot of detail,
+
+25:23.682 --> 25:53.648
+and a lot of precision, or we can dilate our gaze and we can see big pieces of visual space with very little detail. It's a trade-off. We can't look at everything at high resolution. This is why we have these, the pupil more or less relates to the fovea of the eye, which is the area in which we have the most receptors, the highest density of receptors that perceive light. And so our acuity is much better in the center of our visual field than in our periphery. When we focus our eyes, we do a couple things. First of all, we tend to do that in the center of our visual field
+
+25:53.648 --> 26:17.470
+Two eyes tend to align in what's called a vergence eye movement towards a common point. The other thing that happens is the lens of our eye moves so that our brain now no longer sees the entire visual world, but is seeing a small cone of visual imagery. That small cone of visual imagery or soda straw view of the world has much higher acuity, higher resolution than if I were to look at everything.
+
+26:18.210 --> 26:47.678
+Now you say, of course, this makes perfect sense, but that's about visual attention, not mental attention. Well, it turns out that focus in the brain is anchored to our visual system. I'll talk about blind people in a moment, but assuming that somebody is sighted, the key is to learn how to focus better visually if you want to bring about higher levels of cognitive or mental focus. When we move our eyes slightly inward, maybe you can tell that I'm doing it like so,
+
+26:47.778 --> 27:07.518
+basically shortening or making the interpupillary distance as it's called smaller, two things happen. Not only do we develop a smaller visual window into the world, but we activate a set of neurons in our brainstem that trigger the release of both norepinephrine, epinephrine,
+
+27:07.650 --> 27:27.614
+and acetylcholine. Norepinephrine is kind of similar to epinephrine. So in other words, when our eyes are relaxed in our head, when we're just kind of looking at our entire visual environment, moving our head around, moving through space, we're in optic flow, things moving past us, or we're sitting still, we're looking broadly at our space, we're relaxed. When our eyes move slightly inward,
+
+27:27.842 --> 27:55.486
+toward a particular visual target, our visual world shrinks, our level of visual focus goes up, and we know that this relates to the release of acetylcholine and epinephrine at the relevant sites in the brain for plasticity. Now, what this means is that if you have a hard time focusing your mind for sake of reading or for listening, you need to practice, and you can practice, focusing your visual system. Now, this works best if you,
+
+27:55.586 --> 28:24.286
+practice focusing your visual system at the precise distance from the work that you intend to do for sake of plasticity. So how would this look in the real world? Let's say I am trying to concentrate on something related to, I don't know, science, I'm reading a science paper and I'm having a hard time, it's not absorbing. Spending just 60 to 120 seconds focusing my visual attention on a small window of my screen, meaning just on my screen with nothing on it,
+
+28:24.482 --> 28:52.574
+bringing my eyes to that particular location increases not just my visual acuity for that location, but it brings about an increase in activity in a bunch of other brain areas that are associated with gathering information from this location. So put simply, if you want to improve your ability to focus, practice visual focus. Now you may ask, well, what about the experiment where people were
+
+28:52.706 --> 29:22.174
+you know, feeling this rotating drum or listening to the auditory cue, that doesn't involve vision at all. Ah, if you look at people who are learning things with their auditory system, they will often close their eyes. And that's not a coincidence. If somebody is listening very hard, please don't ask them to look you directly in the eye while also asking that they listen to you. That's actually one of the worst ways to get somebody to listen to you. If you say, now listen to me and look me in the eye, the visual system will take over and they'll see your mouth move, but they're going to hear their thoughts more than they're going to hear what you're saying.
+
+29:22.338 --> 29:48.286
+Closing the eyes is one of the best ways to create a cone of auditory attention. And this is what low vision or no vision folks do. They have tremendous capacity to focus their attention in particular locations. And for most people, vision is the primary way to train up this focus ability in these cones of attention. So you absolutely have to focus on the thing that you're trying to learn and you will feel some agitation because of the epinephrine in your system. If you're feeling agitation,
+
+29:48.898 --> 30:12.990
+and it's challenging to focus and you're feeling like you're not doing it right, chances are you're doing it right. So once you get this epinephrine, this alertness, you get the acetylcholine released and you can focus your attention, then the question is for how long? And in an earlier podcast, I talked about these ultradian cycles that last about 90 minutes. The typical learning bout should be about 90 minutes. I think that learning bout will no doubt include
+
+30:13.698 --> 30:27.294
+five to 10 minutes of warmup period. I think everyone should give themselves permission to not be fully focused in the early part of that bout, but that in the middle of that bout for the middle hour or so, you should be able to maintain focus for about an hour or so.
+
+30:27.394 --> 30:54.110
+So that for me means eliminating distractions. That means turning off the wifi. I put my phone in the other room. I encourage you to try experiencing what it is to be completely immersed in an activity where you feel the agitation that your attention is drifting, but you continually bring it back. And that's an important point, which is that attention drifts, but we have to re-anchor it. We have to keep grabbing it back. And the way to do that, if you're sighted is with your eyes, that as your attention drifts and you look away, you want to try and
+
+30:54.434 --> 31:24.286
+literally maintain visual focus on the thing that you're trying to learn. That's the trigger for plasticity. But the real secret is that neuroplasticity doesn't occur during wakefulness. It occurs during sleep. We now know that if you focus very hard on something for about 90 minutes or so, maybe you even do several bouts of that per day, if you can do that, some people can, some people can only do one focused bout of learning.
+
+31:24.770 --> 31:48.382
+that night and the following nights while you sleep, the neural circuits that were highlighted, if you will, with acetylcholine transmission will strengthen and other ones will be lost, which is wonderful because that's the essence of plasticity. And what it means is that when you eventually wake up a couple of days or a week later, you will have acquired the knowledge forever, unless you go through some process to actively unlearn it.
+
+31:48.962 --> 32:17.310
+So mastering sleep is key in order to reinforce the learning that occurs. But let's say you get a really poor night of sleep after a bout of learning. Chances are, if you sleep the next night or the following night, that learning will occur. There's a stamp in the brain where this acetylcholine was released. It actually marks those synapses neurochemically and metabolically so that those synapses are more biased to change. Now, if you don't ever get that deep sleep, then you probably won't get those changes.
+
+32:17.986 --> 32:47.614
+There's also a way in which you can bypass the need for deep sleep, at least partially, by engaging in what I call non-sleep deep rest, these NSDR protocols. But I just want to discuss the science of this. There was a paper that was published in Cell Reports last year that shows that if people did, it was a spatial memory task, actually quite difficult one, where they had to remember the sequence of lights lighting up. And if there are just two or three lights in a particular sequence, it's easy, but as you get up to 15 or 16 lights and think,
+
+32:47.714 --> 33:15.358
+numbers in the sequence actually gets quite challenging. If immediately after, and it was immediately after the learning, the actual performance of this task, people took a 20 minute non-sleep deep rest protocol or took a shallow nap. So lying down, feet slightly elevated, perhaps just closing their eyes, no sensory input. The rates of learning were significantly higher for that information than were to just
+
+33:15.490 --> 33:45.086
+had a good night's sleep the following night. So you can actually accelerate learning with these NSDR protocols or with brief naps, 90 minutes or less. For many people, letting the mind drift where it's not organized in thought after a period of very deliberate focused effort is the best way to accelerate learning and depth of learning. I want to synthesize some of the information that we've covered up until now. Today, I want to make sure that these key elements that form the backbone of neuroplasticity are really embedded in people's minds.
+
+33:45.762 --> 34:13.502
+First of all, plasticity occurs throughout the lifespan. If you want to learn as an adult, you have to be alert. It might seem so obvious, but I think a lot of people don't think about when in their 24 hour cycle, they're most alert. Just ask yourself, when during the day do you typically tend to be most alert? That will afford you an advantage in learning specific things during that period of time. So don't give up that period of time for things that are meaningless,
+
+34:13.601 --> 34:41.406
+useless, or not aligned with your goals. That epinephrine released from your brainstem is going to occur more readily at particular phases of your 24-hour cycle than others, during the waking phase, of course. You should know when those are. Increasing acetylcholine can be accomplished pharmacologically through nicotine. However, there are certain dangers for many people to do that, as well as a cost, a financial cost.
+
+34:42.274 --> 35:11.646
+learning how to engage the cholinergic system through the use of the visual system, practicing how long can you maintain focus with blanks as you need them, but how long can you maintain visual focus on a target, just on a piece of paper set a few feet away in the room or at the level of your computer screen. These are actually things that people do in communities where high levels of visual focus are necessary. What we're really talking about here is trying to harness the mechanisms of attention and get better at paying attention.
+
+35:11.970 --> 35:29.310
+You may want to do that with your auditory system, not with your visual system, either because you're low vision or no vision, or because you're trying to learn something that relates more to sounds. You should also ask yourself whether or not you're trying to focus too much for too long during the day. I know some very high performing individuals
+
+35:29.954 --> 35:53.918
+very high performing in a variety of contexts, and none of them are focused all day long. Many of them take walks down the hallway, sometimes mumbling to themselves or not paying attention to anything else. They go for bike rides, they take walks. They are not trying to engage their mind at maximum focus all the time. Very few people do that because we learn best in these 90 minute bouts inside of one of these ultradian cycles. And I should,
+
+35:54.114 --> 36:18.590
+repeat again that within that 90 minute cycle, you should not expect yourself to focus for the entire period of one 90 minute cycle. The beginning and end are going to be a little bit flickering in and out of focus. How do you know when one of these 90 minute cycles is starting? Well, typically when you wake up is the beginning of the first 90 minute cycle, but it does, it's not down to the minute. You'll be able to tap into your sense of these 90 minute cycles as you start to engage in these learning practices, should you choose.
+
+36:18.850 --> 36:46.494
+And then of course, getting some non-sleep deep rest or just deliberate disengagement, such as walking or running or just sitting eyes closed or eyes open kind of mindlessly, it might seem in a chair, just letting your thoughts move around after a learning bout will accelerate the rate of plasticity. And then of course, deep sleep. Many of you have very graciously asked how you can help support the Huberman Lab podcast. Best way to do that is to subscribe on YouTube.
+
+36:47.042 --> 37:16.062
+You might want to also hit the notification button so that you don't miss any upcoming episodes. Leave a comment. As well, if you go to Apple, you can give us a five-star rating, and there's a place there where also you can leave a comment. And if you prefer to listen on Spotify, subscribe and download on Spotify. In addition, it's always helpful if you recommend the podcast to your friends and family and others who you think might benefit from the information. And as well, please check out our sponsors. That's a great way to help us.
+
+37:16.162 --> 37:20.926
+Thanks so much for your time and attention. And as always, thank you for your interest in science.

@@ -1,0 +1,253 @@
+WEBVTT
+
+00:00.194 --> 00:25.182
+Welcome to Huberman Lab Essentials, where we revisit past episodes for the most potent and actionable science-based tools for mental health, physical health, and performance. My name is Andrew Huberman, and I'm a professor of neurobiology and ophthalmology at Stanford School of Medicine. Let's talk about neuroplasticity. More specifically, let's talk about how we can optimize our brains.
+
+00:25.346 --> 00:54.526
+Neuroplasticity is this incredible feature of our nervous system that allows it to change itself, even in ways that we consciously decide. Now that's an incredible property. Our liver can't decide to just change itself. Our spleen can't decide to just change itself through conscious thought or through feedback from another person. The cells in those tissues can make changes, sure, but it's our nervous system that harbors this incredible ability to
+
+00:54.818 --> 01:23.742
+direct its own changes in ways that we believe or we're told will serve us better. Today's podcast is really directed toward answering your most common questions and the bigger theme of how does one go about optimizing their brain or even think about optimizing the brain? What is this thing that we're calling optimizing the brain? In doing so, I'm also going to share some of my typical routines and tools. I share them because many of you
+
+01:24.098 --> 01:45.982
+have asked for very concrete examples of what I do and when. And so I want to open up the discussion today by emphasizing something that's fundamentally important, which is that plasticity is not the goal. The goal is to figure out how to access plasticity and then to direct that plasticity toward
+
+01:46.082 --> 02:13.022
+particular goals or changes that you would like to achieve. Let's start by talking about the different systems within the nervous system that are available for plasticity. And in doing so, I'll frame them in the context of what I do on a daily basis, on a weekly basis, and on a yearly basis. First of all, there are several forms of plasticity. The best way to think about it is in terms of short-term,
+
+02:13.314 --> 02:37.886
+medium-term and long-term plasticity. Short-term plasticity is any kind of shift that you want to achieve in the moment or in the day, but that you don't necessarily want to hold onto forever. And I'd say, well, what kinds of things are those? Well, for instance, short-term plasticity might be you wake up earlier than you would like to catch a flight. You're not feeling particularly alert.
+
+02:37.986 --> 03:06.654
+and you want to use a protocol or you decide to use a protocol, which could be coffee, or it could be a certain form of breathing, or it could be some other tool to become more alert at a time of day when normally you aren't that alert. But your expectation is that when you return home, you will discard with that, the need to do that at 5.30 AM, because you'll be asleep at 5.30 AM. So there's short-term plasticity, behavioral plasticity. Then there's medium term plasticity. For instance, if you go on vacation to Costa Rica,
+
+03:06.786 --> 03:32.446
+and you don't know your way around Costa Rica, you want to learn the different town and the routes there, but you don't have any intention of going back. It's just medium term. You want to just program it in for sake of your time there, and then you want to discard it. Most of the time when we think about or talk about optimizing the brain, we're talking about long-term plasticity. We're talking about the kinds of changes that people want to make so that their brain reflexively works differently. Long-term plasticity is almost always the goal
+
+03:32.674 --> 03:58.206
+It's I want to know how to speak that language. I want to be able to do that skill. I want to be able to feel this way. I'm going to frame all this in the context of the daily life, the weekly life and the yearly life. And that's because neuroplasticity and optimizing your brain rides on a deeper foundation of this thing that governs plasticity
+
+03:58.498 --> 04:28.318
+and in fact governs all our life called autonomic arousal, which is that we're asleep for part of the 24-hour cycle and we are awake almost always. I've said it before, but I'll say it again. The trigger for plasticity and learning occurs during high focus, high alertness states, not while you're asleep. And the focus and alertness are both key because of the neurochemicals associated with those states. But the actual rewiring and the reconfiguration of the brain connections happens during non-sleep deep rest and deep sleep.
+
+04:28.930 --> 04:48.094
+So you trigger the change and in sleep, you get the change. So some of the things that we'll talk about today about optimizing the brain are centered around not sleep, but around the autonomic arousal system. We have this system of neurons in our brain and body that's just incredible that wake us up and make us alert.
+
+04:48.930 --> 05:06.622
+And when we're not accessing that system well, we cannot access plasticity, we cannot optimize our brain. Likewise, if we cannot sleep well and we can't rest well, we will not access plasticity and rewire our brain because that's when the actual configuration between the connections occurs.
+
+05:06.754 --> 05:36.720
+I'd like to take a quick break and acknowledge our sponsor, AG1. AG1 is a vitamin mineral probiotic drink that also includes prebiotics and adaptogens. As somebody who's been involved in research science for almost three decades and in health and fitness for equally as long, I'm constantly looking for the best tools to improve my mental health, physical health, and performance. I discovered AG1 way back in 2012, long before I ever had a podcast or even knew what a podcast was, and I've been taking it every day since. I find that AG1 greatly improves
+
+05:36.720 --> 05:56.350
+all aspects of my health. I simply feel much better when I take it. AG1 uses the highest quality ingredients in the right combinations, and they're constantly improving their formulas without increasing the cost. In fact, AG1 just launched their latest formula upgrade. This new formula is based on exciting new research on the effects of probiotics on the gut microbiome.
+
+05:56.578 --> 06:26.046
+and now includes several clinically studied probiotic strains shown to support both digestive health and immune system health, as well as to improve bowel regularity and to reduce bloating. Whenever I'm asked if I could take just one supplement, what would that supplement be? I always say AG1. If you'd like to try AG1, you can go to drinkag1.com slash Huberman to claim a special offer. For this month only, January 2025, AG1 is giving away 10 free travel packs and a year's supply of vitamin D3 K2.
+
+06:26.242 --> 06:56.222
+Again, go to drinkag1.com slash Huberman to claim the 10 free travel packs and a year supply of vitamin D3 K2. So to set this in context, I wake up each day and I'll be totally honest, I usually don't feel like bouncing right out of bed. I wake up generally more tired and groggy than I would like because I tend to go to sleep too late. What it means is that I'm not really matching my,
+
+06:57.090 --> 07:10.366
+hardwired needs of going to bed probably at 8.30 or nine and waking up at 4 a.m. So neuroplasticity will allow me to optimize my wakefulness, but I have to do something in order to access that.
+
+07:10.626 --> 07:40.158
+And some of you may already be anticipating what I'm about to say, which is, oh no, he's going to tell us to get sunlight in our eyes in the first 30 minutes of the day. I am going to tell you to do that, but I'm going to also tell you two things that I have not discussed before, which relate to the plasticity between the melanopsin cells, these sunlight detecting, bright light detecting cells in our eye and the circadian clock. I've never said this before in this podcast, but it turns out that the connections between these melanopsin cells and the circadian clock
+
+07:40.258 --> 08:08.222
+are plastic throughout the lifespan. So there's an opportunity for short-term plasticity. So that's why I view sunlight first thing in the day, it helps me wake up. The other thing that I do is that there's a circuit that exists between the circadian clock and our adrenals that I've talked about before that triggers the release of cortisol first thing in the morning that wakes us up, especially when we view light. So if you're groggy in the morning, that's why viewing light is helpful. The other thing that I do is I delay my intake of caffeine
+
+08:08.322 --> 08:36.735
+for the first two hours that I'm awake. Earlier, we talked about the adenosine system and how the accumulation of adenosine makes us sleepy and caffeine suppresses adenosine, it makes us feel alert. And so by delaying caffeine until about two hours after waking, I'm able to capture and reinforce to potentiate the neural circuit that exists between the circadian clock and the cortisol release in the adrenals, as well as leave those adenosine receptors
+
+08:36.929 --> 09:04.350
+unoccupied so that I can then use the caffeine to get a natural lift in alertness and focus two hours later, as opposed to using it just to wake myself up out of sleepiness. I also make sure I hydrate first thing in the morning. There's plenty of data now showing that even a slight increase in dehydration, meaning just when you're lacking water, can make people have headaches. It can provide some additional photophobia for those of you that are migraine prone.
+
+09:04.546 --> 09:24.670
+Bright light can trigger migraines. That's no surprise to those of you that get headaches and migraines, but dehydration can compound the vulnerability to migraine and headaches. So I drink water, I drink black coffee, or I drink mate, which is just a, because I have Argentine lineage, which is just a high caffeine drink first thing in the morning, but I delay it until two hours after I wake up.
+
+09:25.794 --> 09:47.870
+And that's because I want the circuits between my eye and my circadian clock and my adrenals to be functioning in a particular way so that then later the caffeine is an addition, it adds more alertness. Now, this is a discussion about how to optimize your brain. Many people who wake up quickly and just naturally feel like bouncing out of bed, I envy these people,
+
+09:48.514 --> 10:14.398
+They will do just fine by going into a learning bout or taking care of whatever it is that they need to take care of. Sometimes that's kind of more mundane tasks like email and whatnot. Here's a more or less a rule about how the brain functions vis-a-vis focus, learning, and creativity. Generally, states of high alertness, when we're very, very alert, are great for
+
+10:14.530 --> 10:40.926
+strategy implementation, the sort of thing that we are very good at when we're well rested and we're focused and our autonomic arousal or our alertness rather as it is at a high level. If you are somebody who is hitting that alertness phase of your day very early, right after you wake up, that's a great time to move right into things that at least the research says you already know, have the strategy and you just want to implement the strategy.
+
+10:41.346 --> 11:05.054
+But for me, for instance, I get up, I'm not terribly alert first thing. And so I try and just get my brain and my thoughts organized. It's not a time for me to be responding in a very linear fashion to emails or carrying out calculations. That comes about two hours later. And I think many people out there will relate, mid morning is when we tend to, when many people tend to achieve their peak in alertness and focus.
+
+11:06.402 --> 11:27.390
+Many times I get the question, and this is what I'm about to say is directly related to the hundreds of questions I got about this. Should I use background music in order to learn? So as a rule of thumb, if you're feeling too keyed up, then silence and quiet is going to be helpful. In fact, if you're very keyed up, a particular circuit
+
+11:27.650 --> 11:57.214
+related to the basal ganglia starts getting triggered more easily. It's called the go, no go circuit. We have circuits that connect our forebrain to a structure in our brain called the basal ganglia, which is actually a collection of structures. And the forebrain, which is involved in rational thought and thinking and planning and action is always trying to plan what should I do and then implement that action. And the basal ganglia are intimately involved in that discussion. There's a reciprocal loop of communication between basal ganglia and cortex.
+
+11:57.442 --> 12:26.238
+The basal ganglia has one set of connections to the cortex and the cortex back to the basal ganglia that facilitates go. It facilitates action. And the molecule, the neuromodulator dopamine triggers the activation of go. It tends to make us want to do more things. It tends to make us bias toward action by the way that dopamine binds to something called the D1 receptors, just a particular type of dopamine receptor for those of you that want to know.
+
+12:27.458 --> 12:56.318
+The no-go pathway, the pathway in the basal ganglia and cortex that suppresses action involves dopamine binding to this other receptor called the D2 receptor. Now, D1, D2 receptors, you can't just consciously decide, oh, I only want my D1 receptors and my D2 receptors to be active. You have to think about which sorts of states of mind and body facilitate go and which ones facilitate no-go.
+
+12:56.418 --> 13:24.766
+There are three sort of levels of autonomic arousal, of alertness that bias us more toward go, no go, or both. So here's how it works. Let's say I'm very alert. Maybe I got a particularly good night's sleep the night before. I had a little too much coffee and I'm going to sit down to some work. The thing to know, and what I always tell myself is when I'm very alert, I am very prone to go to action.
+
+13:25.378 --> 13:53.854
+but I'm also prone to not no-go, right? I'm not going to be very good at suppressing action. So those are two different things, being biased toward action and being biased toward suppressing action are two different things, okay? So those are push-pull, toward action, suppress action. So if I'm very alert, I'm aware that I will have a bias toward action, it'll be hard for me to suppress non-action, but that it's very non-specific.
+
+13:54.146 --> 14:23.486
+When you are very alert, the best situation for learning is going to be silence. It's going to be complete quiet. If you are low arousal and you're tired and you're kind of sleepy, a lot of people find that having some background chatter and some background noise can help elevate their level of autonomic arousal. For most people, three hours after waking, those three hours tends to be the period in which they're most alert throughout the day. So that morning three hours is quite vital.
+
+14:23.810 --> 14:35.230
+I'd like to take a quick break and thank one of our sponsors, David. David makes a protein bar unlike any other. It has 28 grams of protein, only 150 calories and zero grams of sugar.
+
+14:35.330 --> 15:05.296
+That's right, 28 grams of protein and 75% of its calories come from protein. These bars from David also taste amazing. My favorite flavor is chocolate chip cookie dough, but then again, I also like the chocolate fudge flavored one and I also like the cake flavored one. Basically, I like all the flavors. They're incredibly delicious. For me personally, I strive to eat mostly whole foods. However, when I'm in a rush or I'm away from home or I'm just looking for a quick afternoon snack, I often find that I'm looking for a high quality protein source. With David, I'm able to get 28 grams
+
+15:05.296 --> 15:12.766
+of protein with the calories of a snack, which makes it very easy to hit my protein goals of one gram of protein per pound of body weight each day.
+
+15:12.962 --> 15:39.390
+And it allows me to do that without taking in excess calories. I typically eat a David Barr in the early afternoon or even mid afternoon if I want to bridge that gap between lunch and dinner. I like that it's a little bit sweet, so it tastes like a tasty snack, but it's also given me that 28 grams of very high quality protein with just 150 calories. If you would like to try David, you can go to davidprotein.com slash Huberman. Again, the link is davidprotein.com slash Huberman.
+
+15:40.194 --> 16:03.038
+Now, many of you might ask about exercise and when to exercise. In terms of rising body temperatures and matching body temperature to mental alertness, et cetera, it's pretty clear that exercising early in the day not only biases us towards waking up earlier, but that it also triggers the release of things like epinephrine and other neuromodulators that lend,
+
+16:03.522 --> 16:33.488
+to a situation where we have heightened levels of arousal and mental acuity in the late morning and even into the afternoon. Now this can be very good because if you want to restrict most of your focus learning to the early part of the day, exercising early in the day does set a neurochemical context or milieu for go. It tends to trigger activation of the go pathway. And so for those of you like myself who have a hard time kind of engaging and getting into action early in the day, early morning exercise within an hour
+
+16:33.488 --> 16:57.790
+of waking and certainly no later than three hours after waking will give you, quote unquote, more energy throughout the day. So in kind of reviewing what I've set up until now, I do the morning light thing, I delay my caffeine two hours after waking, and then I generally try and get exercise in the first hour or ideally within the first three hours of waking up, and then I'll move into a focused learning bout.
+
+16:58.210 --> 17:25.662
+If I find that I'm too alert, and then I generally will tend to eat and kind of bring down my level of alertness and will continue working. I typically eat my first meal right around midday, whether or not I've exercised or not. In general, I rely on a low carbohydrate meal. I'll eat meat or salad or some variation of that and nuts and fats and things like that because of the choline content for focus. I'm just going to continue to march through my day
+
+17:25.858 --> 17:52.542
+And this is of course what I experienced, some people are quite different, but what I find is around two or 3 p.m. I start getting a little groggy, a little bit sleepy. I will tend to shift my work from work that requires a lot of duration path outcome, really careful analysis and activation of the no-go pathway. Around early afternoon, I find I can do kind of typical more mundane tasks because
+
+17:53.090 --> 18:11.326
+Those tasks require less cognitive load and they can be done more or less in and out of sequence. I can answer a couple email here, maybe answer that email there. And then typically around 4 p.m. or so, I do two things. One is I make sure I hydrate and then I always do
+
+18:11.650 --> 18:26.526
+a non-sleep deep rest protocol sometime in the afternoon. This is sometimes a 10-minute yoga nidra type protocol or a 30-minute yoga nidra type protocol. And I do that because for me, by about 4.30 in the afternoon, I'm capable of doing basically nothing.
+
+18:26.786 --> 18:51.454
+I personally find it a mistake to at that point down a double espresso and charge really hard. It just doesn't work for me. I end up really disrupting my sleep schedule. I end up disrupting a lot of different things. So for me, I do the non-sleep deep rest protocol. I usually emerge from that feeling like I have another whole day second wind. Like I could just work, work, work, work, work. And then I'll do a second bout of
+
+18:52.130 --> 19:20.702
+I'll do some sort of work that either involves linear analysis of something, so maybe numerical work, or I'm trying to learn something. This learning bout is very different than the morning one. This is a work bout or learning bout that's more in the clear, calm and focus regime because I've come out of this non-sleep deep rest. I'm not ingesting caffeine because I want to make sure that I can sleep later that night really well. And this tends to be more when I do creative type work.
+
+19:20.834 --> 19:44.222
+Creativity is a very interesting state of mind in which we're taking existing elements, things that we already know, and rearranging them in ways that are novel. Creativity has two parts. It has a creative discovery mode where you're kind of shuffling things around in a very relaxed way and kind of being playful or exploring different configurations.
+
+19:44.322 --> 20:11.870
+And then creativity also has an absolutely linear implementation mode in which you take the idea or the design you've come up with and you create something very robust and concrete. And so creativity is really a two-part thing. And the first part of actively exploring different configurations, sometimes in a playful way, sometimes in a way that's almost random and just kind of exploring that,
+
+20:12.898 --> 20:30.686
+is definitely facilitated by being relaxed and almost sleepy. When you find yourself in that kind of clear, calm and focused mode, creative works tend to come about very well in those regimes. Now I know that a lot of people out there rely on substances to access creative states.
+
+20:30.850 --> 20:45.854
+I'm not a marijuana user. It's just not the drug for me for a variety of reasons. I'm not a drinker. It's not the substance for me for a variety of reasons. The problem with using substances to access creativity is that generally
+
+20:46.018 --> 21:05.534
+the substances that relax people will allow them to get into that creative brainstorming mode, but not so good at the linear implementation mode. So that afternoon block is when I try and access the freer kind of looser mindset that's associated with the fatigue that comes later in the afternoon.
+
+21:06.082 --> 21:25.150
+For some of you, that state that favors creativity and creative learning might be better in the morning. I don't know, you're going to have to decide. For some of you, you're going to be late shifted. Some of you are going to be morning shifted. But where we have alertness, generally, we are good at linear implementation. We're good at activating the no-go pathway and suppressing action. And we are good at,
+
+21:25.346 --> 21:50.974
+at pursuing particular goals and strategy implementation. And where we tend to be more relaxed, and we tend to be almost in a kind of sleepy mode. So for me coming out of one of these non-sleep deep rest modes or sleep, that's when we tend to be better at novel configurations of existing elements, which is creativity. And this brings about a question that I get all the time, which is what about psychedelics?
+
+21:51.202 --> 22:16.958
+On psychedelics, people report being able to smell colors or to hear trees, et cetera. And that's because there's a lot of sensory blending. However, that's led to the misconception that sensory blending itself is a creative process. There's nothing creative about sensory blending. The essence of a creative process is new ways of configuring things that lend themselves to a bigger,
+
+22:17.218 --> 22:44.414
+bigger or greater or deeper or novel understanding on the part of the observer. And just sensory blending is not going to accomplish that. Now, I think that there may come a time, and certainly there are clinical trials that are happening now, where psychedelics are leveraged toward particular clinical goals. These are clinical studies done with a psychiatrist present that is authorized to do that, that can help people through depression, trauma, et cetera. So all of this is to say that
+
+22:44.610 --> 23:07.518
+No, I don't take psychedelics to access creative states. That's not where I think the major role, the important role of psychedelics might show up if it's going to for humanity. I think that it may have these important roles in the clinical context, provided it's done legally and safely. I think that the creative process being a two-stage process means that
+
+23:07.778 --> 23:33.950
+I am personally best served by having this period of nonlinear exploration of concepts, whatever it is I happen to be working on in the afternoon, but then I'll actually shelve that work. I'll just set it aside and then I'll revisit it the next day or even the next day to see whether or not the work itself is ready for deliberate linear implementation, which I would want to do during one of these highly focused states.
+
+23:34.210 --> 24:03.614
+The long and short way of saying this is that when we're very alert, do linear type of operations. When we tend to be more sleepy and more relaxed, that's when creative works can first be conceived, but their implementation requires high levels of alertness. I'd like to take a quick break and thank one of our sponsors, Element. Element is an electrolyte drink that has everything you need and nothing you don't. That means the electrolytes, sodium, magnesium, and potassium in the correct ratios, but no sugar.
+
+24:03.746 --> 24:07.646
+We should all know that proper hydration is critical for optimal brain and body function.
+
+24:07.746 --> 24:37.712
+In fact, even a slight degree of dehydration can diminish your cognitive and physical performance to a considerable degree. It's also important that you're not just hydrated, but that you get adequate amounts of electrolytes in the right ratios. Drinking a packet of Element dissolved in water makes it very easy to ensure that you're getting adequate amounts of hydration and electrolytes. To make sure that I'm getting proper amounts of both, I dissolve one packet of Element in about 16 to 32 ounces of water when I wake up in the morning, and I drink that basically first thing in the morning. I'll also drink a packet of Element dissolved
+
+24:37.712 --> 25:06.494
+and water during any kind of physical exercise that I'm doing, especially on hot days when I'm sweating a lot and losing water and electrolytes. There are a bunch of different great tasting flavors of Element. I like the watermelon, I like the raspberry, I like the citrus, basically I like all of them. If you'd like to try Element, you can go to drinkelement.com slash Huberman to claim an Element sample pack with the purchase of any Element drink mix. Again, that's Drink Element, spelled L-M-N-T, so it's drinkelement.com slash Huberman to claim a free sample pack.
+
+25:06.722 --> 25:35.166
+Now, that gets us more to the kind of late afternoon evening. Now I am, as I've mentioned before, I'm a proponent of getting sunlight in the evening as well. By getting light in the evening, it accomplishes two things for me. First of all, it makes sure that I don't get up too early, that I'm not waking up at three or four in the morning because it's going to shift my clock. It's going to delay it a little bit. And so this is really important. If you want to keep your schedule on a normal routine,
+
+25:35.266 --> 26:03.006
+on a regular 24 hour cycle and not have your circadian rhythms of sleep and wakefulness drifting all over the place, and you want some predictability to how your mind is going to work in order to optimize learning and performance, well, then you need to get morning light and evening light. The morning light is going to advance my clock, make my system want to get up earlier. And the evening light is going to delay my clock a little bit so that on average, it kind of bookends my circadian mechanisms. And I'll basically want to go to sleep at more or less the same time each night and wake up.
+
+26:03.426 --> 26:13.566
+more or less at the same time each morning. That's how it works. And that's a hardwired mechanism. That's not some subjective thing that I tell myself, that's a hardwired mechanism.
+
+26:14.210 --> 26:41.854
+So that gets us to the evening. And generally in the evening, I'll get that light by going outside and then I'll start to dim them for the evening. Because as I've mentioned many times before, and I'm not going to belabor the point, you want to minimize your light exposure, especially overhead bright light exposure in the evening from about 10 PM to 4 AM. So for me, it screens off, it's dim lights, and that's what favors falling asleep in a good night's sleep for me. Since we were talking about food earlier, I'll just revisit
+
+26:41.986 --> 27:08.414
+a little bit of what I said before. My evening meal tends to be more carbohydrate rich. So I'm not one of these people that's keto or high meat only or anything like that. Remember, fasting in low carbohydrate states facilitate alertness. Carbohydrate rich foods facilitate calmness and sleepiness. They stimulate the release of tryptophan and the transition to sleep. I tend to achieve that state using carbohydrates and it also replenishes glycogen.
+
+27:08.514 --> 27:35.038
+The next piece of scientific data that I'm going to describe is a very important piece of scientific data for sake of understanding how to optimize your brain and access sleep. It also can help avoid a lot of anxiety issues. The peak output of the circadian clock for wakefulness, in other words, the peak of our wakefulness and the suppression of the sleep signal actually happens very late in the day. So we have this,
+
+27:35.682 --> 28:02.142
+trough of activity and body temperature is lowest right before waking. Then as we wake up, our body temperature goes up and into the afternoon, it continues to go up, up, up, up, up. And then it tends to fall in the evening and towards bedtime. But there's a brief blip of release of peptides and other substances from the sleep centers in the brain that signals the peak of alertness and wakefulness about an hour before bedtime.
+
+28:02.306 --> 28:29.342
+Now that's often the time when people start stressing about the fact that they have something to do the next day and they worry about not being able to sleep and it can cascade into a whole set of things. I anticipate a peak in alertness and activity and I don't worry about it. I use that perhaps to get organized for the next day, but basically I just go through, if I'm going to do anything, it's going to be very mundane tasks like cleaning or things that require almost zero effort. And that probably speaks to my cleaning abilities too.
+
+28:29.858 --> 28:54.206
+I tend to go to sleep somewhere around 10, 30, 11. And if all goes well, I stay asleep for four or five hours. Typically it's three or four, and then I wake up. What it probably reflects is that the real time, meaning the time that I should go to sleep is probably closer to eight o'clock. The word midnight was literally supposed to mean midnight. We were meant to go to sleep and wake up with the setting and rising of the sun.
+
+28:54.402 --> 29:24.382
+So I think that's the natural pattern and we've just deviated from it with artificial lights. So waking up at 3 a.m. or 4 a.m. doesn't necessarily mean that there's something screwed up about you. What it likely means is that you were supposed to go to bed much earlier. And because of this asymmetry in the autonomic nervous system where it's much easier for us to push and to delay our sleep time than it is to accelerate our wake up time. In other words, it's easier to stay up and hang out at the party even if you don't want to be there than it is to wake up when you're exhausted and you're fast asleep.
+
+29:24.802 --> 29:52.766
+most people are pushing through into the late hours of the evening and night and going to bed much later than they naturally would want to. And so I personally don't want to go to bed at 8 p.m. A lot of good things happen between 8 p.m. and 11 p.m. And so I want to enjoy those and I push through the evening hours. But as a consequence, I'm running out of melatonin. My melatonin release has basically subsided by about 3 or 4 a.m. And so it makes sense that I would wake up.
+
+29:53.090 --> 30:15.902
+If I wake up in the middle of the night and I'm anxious for whatever reason, and my mind is looping, I have a couple rules. One is I don't trust anything I think about when I wake up in the middle of the night, any of it. There's just nothing either for me terribly creative or worth linear implementation at that time. But one thing that has been very helpful is to sometimes do one of these non-sleep deep rest protocols
+
+30:16.002 --> 30:39.966
+as a way to go back into sleep. Those for me have been very useful at helping me turn off kind of looping thinking in the middle of the night and fall back asleep. In reviewing my schedule for you, just as a context for how to implement certain types of tools for optimizing learning, realize that it gives the impression that there's a 90 minute bout of learning and work in the morning and then a 90 minute bout
+
+30:40.066 --> 31:00.254
+of creative type work in the afternoon and that's it. There are a lot of hours in between, of course, and I just want to be very clear. Those hours for me are occupied by pretty, not mundane tasks, but things that are kind of random. Those are things like email or attending to Zoom meetings or meeting with colleagues and students and things of that sort.
+
+31:00.450 --> 31:29.182
+I mentioned those two 90 minute bouts because those are the two 90 minute bouts where I'm trying to expand on the mental capacities that I already have. They're really where I'm trying to stretch and grow what I'm able to do on a regular basis reflexively. And so for many of you out there who are in school or have family demands or other demands, the key is to slot in those brain optimization segments of about 90 minutes, one or two, or maybe more per day. You're trying to slot those in wherever you can amidst your other
+
+31:30.018 --> 31:47.102
+obligations and things that you need to do, but you want to do that in an intelligent way that's anchored to your biology. And then you want to do a number of things, which I've talked about today, in order to optimize those sessions to get the most out of them. I think the way to look at any tool to modulate
+
+31:47.234 --> 32:16.254
+or measure the nervous system is ask whether or not it's going to move you up or down the state of autonomic arousal, whether or not it's going to make you more alert or more calm, more focused or less focused. That's kind of the two axes here is that we need to think about. I think the subjective reading of whether or not one is alert or calm and whether or not that alertness or calmness matches the goal or the thing that we're trying to achieve in terms of learning, including sleep,
+
+32:17.154 --> 32:40.766
+is the most valuable internal tool and recognition that we can all have. But ultimately it's about tailoring that alertness and calmness to the specific types of learning and activities that you are going to do and perform. And it's reciprocal, meaning some of those activities like exercise early in the day will increase your level of autonomic arousal and alertness. Certain foods will tend to wake you up.
+
+32:40.962 --> 33:06.526
+certain foods will tend to make you more sleepy and the volume of food and the timing of food is a factor also. So it's a huge parameter space. It's a huge set of variables that impacts whether or not we're feeling well, performing well, learning great or not learning great. And the key thing is to become an observer of your own system and what works for you and to recognize that there are two bins of tools for optimizing learning and brain performance.
+
+33:06.786 --> 33:28.862
+One are tools that are really anchored in biological mechanism, and we are certain of what those are. I've talked about some of those. The other, the more subjective tools. For some of you, visualization might work terrifically well. For some of you, one song might really wake you up because of the associations you have with it. And for me, it might repel me from the room, because I don't like it, or it might put me to sleep.
+
+33:29.634 --> 33:57.822
+But of course, volume is kind of a universal. Loud music tends to wake people up. Soft music doesn't tend to wake them up quite as much. So part of today is really getting you to think about in a scientific way, in a structured way about the non-negotiable elements, which are that you're going to have a period of every 24-hour cycle when you tend to be more awake and a period when you tend to be more asleep and how to leverage those so you're not fighting an uphill battle to wake up when you're actually
+
+33:58.754 --> 34:21.310
+would want to be and should be sleepy and not trying to go to sleep when you are naturally going to be most awake. So a lot of it is really anchors back to those core mechanisms of biology. And then you start layering on the different protocols of food and supplementation, et cetera. And I think it's important to recognize that some people are just more go, go, go, go, go and no go.
+
+34:21.409 --> 34:42.622
+And some people are just calmer and have a harder time getting into action and an activity. It's just the way that we're wired. Some of us have autonomic nervous systems that are more geared towards parasympathetic calm states. And so there are people like that too. And so you have to know where you are and what particular goals you're trying to pursue. As always, thank you for your interest in science.

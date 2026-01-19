@@ -1,0 +1,796 @@
+WEBVTT
+
+00:00.386 --> 00:25.886
+Welcome to the Huberman Lab Podcast, where we discuss science and science-based tools for everyday life. I'm Andrew Huberman, and I'm a professor of neurobiology and ophthalmology at Stanford School of Medicine. My guest today is Dr. Gary Steinberg. Dr. Gary Steinberg is a medical doctor, PhD, professor of neurosurgery, neurosciences, and neurology at Stanford University School of Medicine.
+
+00:26.434 --> 00:47.166
+He is a world expert in what is called the cerebrovascular architecture of our brain, which is a scientific term explaining how blood flow to the brain supplies oxygen and critical nutrients to our neurons, our nerve cells, as well as playing a critical role in removing waste products from our brain in order for our brain to function normally. During today's discussion, he explains in very clear terms
+
+00:47.266 --> 01:04.094
+how blood flow to the brain occurs and how disruptions in blood flow, in things like stroke and aneurysm, impact brain functioning. We also discuss concussions and TBI or traumatic brain injuries, which unfortunately are very common, and what can be done to treat concussion and traumatic brain injury.
+
+01:04.322 --> 01:27.166
+Dr. Steinberg also shares with us recent findings from his laboratory and clinic, revealing how stem cells can be used to recover function in the human brain and spinal cord after things like concussion, TBI, stroke, and other disruptions to the cerebrovascular architecture. And he shares with us the science-supported tools, that is protocols, that any of us can use to improve the health and functioning of our brains.
+
+01:27.458 --> 01:44.606
+So if you or somebody that you know has experienced concussion or traumatic brain injury, stroke or aneurysm, today's discussion is sure to include vital information for you. And for those fortunate enough to not have experienced those conditions, today's discussion will also review the latest science and protocols for improving brain health.
+
+01:44.866 --> 02:07.262
+Before we begin, I'd like to emphasize that this podcast is separate from my teaching and research roles at Stanford. It is however, part of my desire and effort to bring zero cost to consumer information about science and science related tools to the general public. In keeping with that theme, I'd like to thank the sponsors of today's podcast. Our first sponsor is Eight Sleep. Eight Sleep makes smart mattress covers with cooling, heating, and sleep tracking capacity.
+
+02:07.522 --> 02:37.488
+I've spoken many times before on this podcast about the fact that sleep is the critical foundation for mental health, physical health, and performance. Now, one of the key things to getting the best possible night's sleep is to control the temperature of your sleeping environment. And that's because in order to fall and stay deeply asleep, your body temperature actually needs to drop by about one to three degrees. And in order to wake up feeling refreshed and alert, your body temperature actually has to increase by about one to three degrees. Eight Sleep mattress covers make it extremely easy to control the temperature of your sleeping environment.
+
+02:37.488 --> 03:07.454
+to control your core body temperature so that you fall and stay deeply asleep and wake up feeling your absolute best. I've been sleeping on an Eight Sleep mattress cover for about three years now, and it has completely transformed the quality of my sleep for the better. Eight Sleep recently launched their newest generation of pod cover, the Pod 4 Ultra. The Pod 4 cover has improved cooling and heating capacity, higher fidelity sleep tracking technology, and the Pod 4 cover has snoring detection that will automatically lift your head a few degrees to improve airflow and stop your snoring. This is really important.
+
+03:07.458 --> 03:32.286
+Snoring is associated with something called sleep apnea, and sleep apnea is known to disrupt brain health and body health in a number of ways. Put differently, being able to breathe clearly throughout the night is essential for not only feeling rested when you wake up, but also for brain health and body health. If you'd like to try an Eight Sleep mattress cover, you can go to eightsleep.com slash Huberman to save $350 off their Pod 4 Ultra.
+
+03:32.386 --> 03:48.254
+Eight Sleep currently ships to the USA, Canada, UK, select countries in the EU and Australia. Again, that's eightsleep.com slash Huberman. Today's episode is also brought to us by Roca. Roca makes eyeglasses and sunglasses that are of the absolute highest quality.
+
+03:48.386 --> 04:18.352
+Now I've spent a lifetime working on the biology of the visual system, and I can tell you that your visual system has to contend with an enormous number of different challenges in order for you to be able to see clearly. Roka understands this and has developed their eyeglasses and sunglasses so that regardless of the conditions you're in, you always see with the utmost clarity. Roka eyeglasses and sunglasses were initially designed for use in sport, in particular things like running and cycling. Now as a consequence, Roka frames are extremely lightweight, so much so that most of the time you don't even remember that they're on your face. They're also designed
+
+04:18.351 --> 04:44.958
+so that they don't slip off if you get sweaty. Now, even though they were initially designed for performance in sport, they now have many different frames and styles, all of which can be used in sport, but also went out to dinner, at work, essentially anytime and in any setting. If you'd like to try Roka glasses, you can go to Roka, that's R-O-K-A.com and enter the code Huberman to get 20% off. Again, that's R-O-K-A.com and enter the code Huberman to get 20% off.
+
+04:45.154 --> 05:15.120
+Today's episode is also brought to us by Aeropress. Aeropress is like a French press, but a French press that always brews the perfect cup of coffee, meaning no bitterness and excellent taste. Aeropress achieves this because it uses a very short contact time between the hot water and the coffee. That short contact time also means that you can brew an excellent cup of coffee very quickly. The whole thing takes only about three minutes. I started using an Aeropress over 10 years ago, and I learned about it from a guy named Alan Adler, who's a former Stanford engineer, who's also an inventor. He developed things like the Arobi
+
+05:15.120 --> 05:39.934
+In any event, I'm a big fan of Adler Inventions, and when I heard he developed a coffee maker, the Aeropress, I tried it and I found that indeed it makes the best possible tasting cup of coffee. It's also extremely small and portable, so I started using it in the laboratory when I travel on the road and also at home. And I'm not alone in my love of the Aeropress coffee maker. With over 55,000 five-star reviews, Aeropress is the best reviewed coffee press in the world.
+
+05:40.098 --> 06:08.350
+If you'd like to try AeroPress, you can go to aeropress.com slash Huberman to get 20% off. AeroPress currently ships in the USA, Canada, and to over 60 other countries around the world. Again, that's aeropress.com slash Huberman. I usually mention this at the end of episodes, but if you're learning from and or enjoying the Huberman Lab podcast, please click the subscribe button on YouTube. And if you listen to the podcast on Spotify or Apple, make sure you click the follow tab on Spotify and or Apple.
+
+06:08.482 --> 06:38.366
+And on both Spotify and Apple, you can also leave us up to a five-star review. And now for my discussion with Dr. Gary Steinberg. Dr. Gary Steinberg, welcome. Thank you, Andrew. Pleasure to be here. I have a lot of questions. I know people are interested in keeping their brains healthy and sadly things happen to the brain. Sometimes as a consequence of aging, sometimes as a consequence of certain activities. Maybe you could just explain for us right off the bat, what is a stroke?
+
+06:38.594 --> 07:06.238
+What is an aneurysm? What is a hemorrhage? Where do these terms overlap? How are they different? Obviously, none of us want these things, and we will talk about ways to prevent them and your ways of treating them as well, of course. But just to start off, maybe we can just lay down the nomenclature. Sure. So a stroke is like a heart attack of the brain. It involves disruption of blood flow to the brain, either in the form of a blocked vessel or
+
+07:06.434 --> 07:31.262
+or less likely a hemorrhage. About 87% of strokes are due to a clot either forming in the brain artery itself or forming closer to the heart in the heart or in the carotid artery and dislodging and blocking blood flow to the brain. About 13% are caused by a hemorrhage, bursting of a blood vessel.
+
+07:31.522 --> 07:59.294
+And that results in lack of oxygen and glucose being delivered to the brain cells. And that ultimately causes death of tissue and disruption of bodily functions, neurologic function. That's what a stroke is. How do we know if we have clots residing in our body that could be dislodged? I know that some people when they fly wear compression socks. I know that some people have
+
+07:59.554 --> 08:27.806
+genetic mutations that affect clotting. I'll raise my hand here and I'll do a disclosure. I did some genetic testing. I am a heterozygote for factor V Leiden, which is a clotting factor. Heterozygote, folks, means I have one mutant copy. So fortunately, I don't suffer from excessive bleeding or clotting, but there are lifestyle factors that can exacerbate an existing mutation like that.
+
+08:27.906 --> 08:56.702
+People who are homozygous mutants for factor V Leiden, of course, at much greater risk for clotting and bleeding. So I just disclosed a lot. Maybe you could comment on some of the clotting factors and lifestyle factors that impact clotting, but how would somebody know if they've got a clot that could potentially go to their brain? Sure. Well, you might not know. In many cases, you don't know, and that's the problem. You can have a predisposition, as you say, due to...
+
+08:56.866 --> 09:12.062
+certain genes that are mutated or represented that predispose to clots. And those clots can occur on the arterial side or the venous side. The arterial side is what
+
+09:12.290 --> 09:37.598
+generally causes a stroke, an ischemic stroke. On the venous side, you can sometimes have problems. When you talk about flying, not moving your legs, developing clots in your legs, wearing compression boots, that's on the venous side. And that can cause something like a deep vein thrombosis, which is not good because it can travel to the lung
+
+09:38.082 --> 10:06.942
+and cause a pulmonary embolus that generally on the venous side does not go to the brain. Oh, good. In my case, that feels fortunate. Exactly. You can develop some venous problems in the brain, which can cause a venous type stroke. That's much less common. And the way that causes a stroke is not lack of blood flow being delivered to the brain, but by having a clot in an important vein, the blood can't get out of the brain. It backs up.
+
+10:07.042 --> 10:35.902
+and causes swelling or edema. But that's much less common. Generally, we talk about strokes as being arterial in nature and either blockage of a blood vessel or bursting of a vessel. What are some things that impact clotting and or excessive bleeding? My understanding is these factor V Leiden mutations are one example. The other is
+
+10:36.002 --> 11:03.774
+is let's say somebody takes, say a blood thinning agent, like baby aspirin, or I told, and I'll have to check this, I'm sure people will say in the YouTube comments that if you take lots and lots of say fish oil or things like that, you can become more of a bleeder. Some people out there are hemophiliacs. And then my understanding is also that certain forms of oral contraception for women can increase the rates of bleeding.
+
+11:04.066 --> 11:33.278
+Tell me if I'm wrong about any of those and if any of those things predispose people to more stroke or hemorrhage. Sure. So different kinds of drugs thin the blood and they can predispose you to having a larger hemorrhage than you would if something bursts or if you fall and have some traumatic injury to your brain or anywhere in the body.
+
+11:33.538 --> 11:51.294
+In general, they don't cause a hemorrhage because they're fairly safe. But if there's, as I say, some interruption to the body, like a bruise, it would be a much worse type of bleed.
+
+11:51.586 --> 12:17.246
+So aspirin is a type of antiplatelet agent that thins the blood. There are many types of antiplatelet agents, and they're very, very useful for treating people who have a predisposition to develop clots because they thin the blood. Anticoagulants are another type. They're known as Coumadin, Warfarin, Eliquis. There's lots of new agents.
+
+12:17.378 --> 12:45.054
+And they're often taken orally or can be given intravenously. Heparin's another one. Again, they thin the blood. So they would put someone at somewhat increased risk for hemorrhage. Then as far as oral contraceptives, if you go back to the 1970s when the oral contraceptives were first generation were coming out,
+
+12:45.218 --> 13:11.902
+It turns out, and they were heavily estrogen dominated rather than progesterone. They did, and they still to some extent increased the risk of developing clots. So women back in the 70s who took oral contraceptives and smoked had a very, very high incidence of developing clots and ischemic strokes and clots elsewhere in the body.
+
+13:12.098 --> 13:35.870
+The newer generations are much safer in terms of developing clots. But for my patients, many of whom have had strokes or are at risk for stroke, we recommend that the women do not take oral contraceptives, that they use some other form. IUD, for instance, may have a little bit of progesterone, which is released locally, but
+
+13:35.970 --> 14:05.502
+It doesn't cause a large increase in estrogens or progesterone systemically. So we still believe that the oral contraceptives increase the risk somewhat, not the way it did for first generation. And then there are other modifiable factors besides the genetic ones. So smoking is a very high risk factor for developing clots, which can lead to strokes, heart attacks,
+
+14:05.826 --> 14:24.606
+peripheral vascular disease. High lipids is another. So when people have high, bad cholesterol, LDL, it's recommended that if they can't reduce it with diet, that they take a statin,
+
+14:24.962 --> 14:54.558
+The statins are very, very effective in lowering the bad cholesterol, preventing strokes and heart attack. Interestingly, the statins have also been shown to be highly beneficial for the blood vessel integrity, even if you don't have high LDL. Interesting. So they have other beneficial properties. So again, for my patients, I often recommend they take a statin, even if they don't have high cholesterol. Interesting. And then hypertension is another risk factor.
+
+14:54.690 --> 15:19.518
+for developing clots and arterial disease. When you say that smoking dramatically increases the risk of stroke, is that because of nicotine per se? Is it the vasoconstriction and blood pressure elevation that comes from nicotine itself? Or is there something about smoking, maybe even vaping? I don't know. That the contaminants, the other chemicals in cigarettes or vape
+
+15:19.810 --> 15:46.270
+chemicals that increases the stroke risk or is it nicotine itself? It's not just nicotine. Nicotine is one of the factors, but it's the other products that are produced by smoking that can have an effect. So given that so many fewer, at least Americans, and I think worldwide people are smoking less, are we seeing less stroke? Yes. The incidence of stroke is actually decreasing. Um,
+
+15:46.370 --> 16:12.286
+It may be in part due to decreased smoking, but it also is in part due to other modifiable factors. So hypertension is much better treated now than it used to be. People take better care of themselves in terms of other lifestyle factors. So people exercise more. There's a lower incidence in some subgroups of obesity,
+
+16:12.738 --> 16:42.046
+Those are the risk factors also for developing strokes as well as heart attack. What is the relationship between heart health and brain health as it relates to stroke? I would imagine that anything that's good for our heart is probably good for our brain, given the enormous amounts of blood and glucose that the brain requires to function normally. Yeah, it's a good point. In general,
+
+16:42.146 --> 17:09.055
+the things that are good for the heart are good for the brain. There are differences between the heart and the brain, but they both depend very much on blood flow. The brain's unique though, because the brain represents only 2% of the body weight, yet it draws 15% of the total blood flow. And remarkably, it consumes 20% of the body's oxygen.
+
+17:10.018 --> 17:37.086
+So the brain, I still think the brain is the most important organ, not the heart, not the kidneys, but I'm biased, of course. Yeah, you've spent some time in the landscape of the brain. Yeah, it's clear that of all the tissues in the body, if you had to pick one tissue to remove one cubic millimeter of that tissue, that your brain and probably the neural retina would be your least favorite tissue.
+
+17:37.410 --> 18:02.686
+choice just given the deficits that can result. Right. And of course, the brain also is what makes us human. Right. Speaking of which, if we take a little departure into neurosurgery itself, your specialty, of all the years of doing brain surgery, can you recall maybe one of the most incredible moments or days
+
+18:02.882 --> 18:31.902
+that allowed for some insight into how the brain works by virtue of, let's say, stimulating a given brain area or removing a given brain area or something of that sort. I ask this because so very few of us will ever have the opportunity to do what you do. And if I were here talking to an astronaut, and by the way, I consider neurosurgeons the astronauts of neuroscience. If I were sitting here with an astronaut, I'd say, you know, tell me something interesting about being in space that I wouldn't know from looking at pictures or videos of it.
+
+18:32.226 --> 19:01.758
+What is an example of maybe one of the more profound insight-stimulating moments from doing brain surgery? I mean, every patient is different. So I'm always learning, and that's why I still enjoy it, that it's a challenge and you have to think quickly. It's not simply mechanical. But for instance, a couple of weeks ago, I had a patient who had a vascular malformation
+
+19:01.858 --> 19:29.310
+which was located, we thought, right in her speech area. So in order to operate safely, first we did what's called a functional MR scan before surgery. And that gives us some idea of where the speech area is. We can map it out on an MR scan. And the way it's mapped out is we have the patient awake talk to us when they do the scan.
+
+19:29.474 --> 19:59.038
+And because there's a coupling between blood flow and the neuronal activity, when the speech area, the language area, is stimulated by talking, there's increased blood flow to that area. And we can see that on an MR scan. That's how the MR scan works. So we had some idea that this was very close, if not in the speech area. But the most accurate way of determining that is to operate on the patient,
+
+19:59.458 --> 20:28.862
+with her awake. So what we did was we sedate the patient. We don't put a tube down and induce general anesthesia. We numb up the scalp. We take off a piece of bone after cutting the scalp, open the membrane covering the brain called the dura, and then we allow the patient to wake up more from the sedation. And then what I did on this particular patient was to use a tiny stimulator
+
+20:29.666 --> 20:53.086
+a little probe, and I can stimulate areas of her cortex with her awake and see if the stimulation impairs her ability to speak or understand language. And quite surprisingly, there was no activity in the corridor that I chose. Sometimes when we see an area that
+
+20:53.922 --> 21:22.302
+is involved with speech, that's eloquent, we have to choose a different pathway to get to the underlying vascular problem. And so that's what we did in this case. And she talked to us the entire case. She told us about her daughter, who was very involved in debate and all of her successes while we were operating, while I was taking out this vascular malformation under 20 years.
+
+21:22.434 --> 21:52.414
+magnification with very special instruments. I use a laser now, which has a diameter of the fiber optic cable. The laser tip is 0.5 millimeters. So that I think is the gentlest way. Other times I've been surprised about brain function is operating deep in the brain is a part of the brain called the brainstem, which you know well. It's a small area that connects the thalamus,
+
+21:52.962 --> 22:22.238
+Those are the signals coming from the cortex, go through the thalamus to get down to the face, arm, and leg to move the muscles. And all the sensory information, which comes from the arms and legs and face, goes through the brain stem up to the thalamus and then to the cortex. In this area, although it's very small, are contained very closely packed fiber tracks and nuclei. Those are the cell bodies, very important neurons.
+
+22:22.594 --> 22:51.966
+And when I trained back in the 80s, we never operated in that area because we couldn't do it safely. With developments in computer technology and imaging and anesthesia, we can now find safe corridors to get into the brainstem. And sometimes we stimulate for other pathways, not language, but other pathways. And I'm continually amazed. This last week, I took out...
+
+22:52.322 --> 23:18.942
+two vascular malformations, and they're not big. I mean, they measure between eight millimeters and a centimeter, but they can wreak havoc in the brainstem because it's such high-priced real estate, and these had bled. But I found a safe corridor to go through. I took it out, and I'm amazed that you hardly set the patients back in some cases because in the past we would have clobbered the patients doing that.
+
+23:19.394 --> 23:43.486
+Amazing. Yeah, it's remarkable to me how much can be done now with imaging, so visualizing the brain and being able to target a specific location. And you mentioned fiber optic cables. I've also heard of things like the gamma knife and lasers. So how much of neurosurgery nowadays is actually burrowing down through the brain to a given location to stimulate or remove tissue versus, you know, using these laser measurements?
+
+23:43.586 --> 24:07.678
+or fiber optic approach is to sort of triangulate and get to something without having to basically drill down through the brain. Right. Neurosurgery is becoming much less invasive. And this is something that I really tried to push when I was a chair of the department for 25 years at Stanford. So minimally invasive techniques include operating through the vessels of
+
+24:08.322 --> 24:36.670
+So now, I don't do this myself, but my colleagues, some of whom are neurosurgeons, some are interventional radiologists, they can go through the groin in the femoral artery or through the radial artery. They can thread a catheter backwards into the brain. From the groin, they can go up into the aorta, then up into the carotid artery. From there, they can go up into the brain arteries, the middle cerebral artery, and they can treat...
+
+24:36.962 --> 25:03.646
+some of the hemorrhagic problems like aneurysms by deploying thrombogenic coils there or new devices. They can pull clots out if there's an acute stroke from a clot in an artery in the brain. It's really quite impressive. Then we and others have developed techniques to use focus radiation on the brain.
+
+25:03.778 --> 25:22.334
+And that's called radiosurgery. So examples of that are gamma knife. Cyberknife was invented at Stanford by one of my colleagues, actually. And this uses beams of radiation. Gamma knife uses a cobalt source, multiple sources of cobalt.
+
+25:23.074 --> 25:50.206
+The CyberKnife uses x-rays. When I started, I was very involved with using cyclotron-generated heavy particles like helium and proton, and they can be focused. And the advantage of this is you don't have to open the skull. You focus it on a very small area, and you can eliminate vascular malformations called arteriovenous malformations, tumors,
+
+25:50.466 --> 26:19.870
+You can even use it for some pain conditions like trigeminal neuralgia. It's not risk-free because even though radiation doesn't require opening the skull, it still is a form of energy that's damaging. That's how it works. For the AVMs, it gradually clots off the blood vessels, but it's much easier and much safer than some of the invasive techniques that we use. We operate now through tiny openings, even when we do open surgery.
+
+26:20.002 --> 26:44.190
+When I trained, we used to shave the whole head. We would open a huge area of the skull. Now we operate through tiny, very small areas. When I take out vascular malformations in the brainstem, for instance, I sometimes operate through openings in the side of the brainstem that are two to three millimeters. Wow. Wow.
+
+26:44.642 --> 27:10.462
+Another form of non-invasive treatment that neurosurgeons use is called focused ultrasound. Again, you don't have to open the skull. It focuses sound waves on areas of the brain. We're using that to treat essential tremor or Parkinson's disease. It's starting to be used for treating tumors.
+
+27:12.226 --> 27:38.590
+So these are all advances that were not present when I trained. Another way of treating minimally invasive, although it still requires a hole in the head, is to put in an electrode and stimulate the brain. So that was first used for treating Parkinson's disease, very effective for medically intractable Parkinson's. It's used to treat chronic pain.
+
+27:38.722 --> 27:45.438
+Recently, it was shown to be beneficial for epilepsy. In fact, the two major trials...
+
+27:45.538 --> 28:15.486
+prospective randomized trials that were done were led by physicians, neurologists at Stanford and showed the benefit of stimulation of the brain to treat a very difficult epilepsy. So this, I think, is going to be the future, is more and more minimally invasive. In fact, we're using some of these techniques to even treat psychiatric disorders like depression, obsessive compulsive behavior. Incredible. I should have asked this earlier, but
+
+28:15.586 --> 28:44.926
+TIAs, transient ischemic attacks. I think most people assume or know that the symptoms of stroke include, you know, sudden weakness, maybe hemiparalysis of the face, confusion, slurring of the words. Of course, these symptoms can be the consequence of other things as well. What are some of the symptoms of transient ischemic attacks? And is there anything that people can take for transient ischemic attacks? And I, of course, would love for you to inform us what
+
+28:45.154 --> 29:15.134
+transient ischemic attack is. Right. So a transient ischemic attack or TIA is a reversible stroke. It results in a temporary loss of function, such as inability to move, partial paralysis or complete paralysis, but then it resolves, inability to speak, visual problems, double vision, blurred vision, loss of vision. It can cause slurred speech,
+
+29:15.298 --> 29:35.806
+or difficulty understanding language, imbalance problems, walking, even cognitive problems. So it can vary depending on what part of the brain it affects. In the past, it was defined as a neurologic deficit due to lack of blood flow that lasted less than 24 hours. But...
+
+29:35.970 --> 30:02.974
+Now that we have such sophisticated imaging like MR scan, some of these patients who have a TI, what would have been considered a TIA before lasting minutes or up to 24 hours on MR scan have been shown to have a little stroke. So now the definition is a little different. If you do an MR scan and it shows a new abnormality, a new stroke, then it's called a stroke rather than a TIA.
+
+30:03.266 --> 30:32.478
+So there's a little overlap there, but it's a temporary loss of neurologic function due to lack of blood flow or in some cases a hemorrhage. My understanding is that people can also have strokes in their spinal cord because spinal cord tissue is after all central nervous system tissue. I think most people don't realize this, but the tail end of the brain, the brainstem, as we were talking about before, essentially extends down the spinal column
+
+30:32.898 --> 30:52.606
+sort of like a long tail, right? Down to the base of the pelvis, really. So we call it the spinal cord, but it's all brain. It's contiguous with the brain. So how often do you observe spinal strokes and what are some of the symptoms of spinal stroke?
+
+30:52.930 --> 31:22.238
+Yeah, it's much less common than a stroke involving the brain, probably because there's less tissue involved. The spinal cord is supplied by an anterior spinal artery. That's an artery on this side and by two... So for those listening, sorry, it would be on the stomach side of the body. And it's supplied by two arteries, posterior spinal on the backside.
+
+31:23.074 --> 31:49.470
+So if there's an interruption to blood flow in any of those arteries, it can cause death of tissue in the spinal cord, and that would result in a neurologic deficit, depending on where it is. So if it occurred on the stomach side, that whole artery, which supplies the two-thirds of the spinal cord on the stomach side...
+
+31:49.826 --> 32:11.934
+and it involved both sides of the spinal cord, it would cause paralysis of both legs and a partial sensory deficit would cause loss of pain and temperature because that's where those pathways are. If the problem was on the backside of the cord, it would cause a problem potentially with pain.
+
+32:12.194 --> 32:36.542
+light touch sensation in the legs if it was below the cervical region, and problems with what's called proprioception. That's the ability to recognize where your position of your joints is. So it depends on where it is. Some of the vascular problems I deal with actually do involve the spinal cord.
+
+32:36.738 --> 33:06.494
+And you can develop other problems there. For instance, you can have a direct connection between a abnormal artery and a vein in the spinal cord, which doesn't cause a typical stroke by blocking blood flow, but it causes more of that venous problem we discussed, where there's so much blood going directly from the artery to the vein, bypassing the capillaries, that the veins become engorged. The blood can't get out of the spinal cord.
+
+33:06.594 --> 33:35.582
+And the spinal cord becomes congested and patients can present with problems, walking or sensory problems. If the spinal cord is involved in the cervical region up high, then the arms can be involved as well. I see. I should have asked this earlier, but is there any relationship between alcohol intake and the propensity for stroke or hemorrhage or any of these other things? Yeah, that's a good question. Yes, there is. There are...
+
+33:36.578 --> 34:01.694
+People who indulge or overindulge are at risk for developing stroke problems. So it's another contributory factor which can promote problems with the blood vessels, clots, but also hemorrhage. So it can make the blood vessels more fragile. Another factor I see commonly...
+
+34:01.794 --> 34:28.798
+In patients who develop aneurysms, those are blisters on the blood vessels in the brain. And they're like little balloons. And as they enlarge, they rupture just like a balloon can burst. Some of the patients I see are not just smokers, but indulge in other drugs. So cocaine, metamphetamines markedly increase the risk of developing these aneurysms or developing hemorrhage.
+
+34:28.898 --> 34:58.718
+bursting of a blood vessel. And is that because those drugs tend to increase blood pressure during their use? It's because they damage the vessels and they also cause hypertension. Yes, it's both factors. So when I operate on these patients and looking at the vessels, they're ragged. They're very thin. They're not normal vessels. They lack structural integrity. So it contributes to the development of
+
+34:58.818 --> 35:23.454
+poor vessel integrity and drugs like cocaine and methamphetamine can jack the blood pressure up and that could cause a hemorrhage in these problematic vessels, yes. So it sounds like the message is clear, avoid cocaine use, avoid methamphetamine use and avoid excessive alcohol intake. If you want to avoid stroke. Right, and throw smoking in there too.
+
+35:23.618 --> 35:51.806
+It's interesting because for a lot of years there was so much discussion about red wine being good for heart health. Now it's debated. The moment I say that, people will send a bunch of studies that say, yes, my stance on the more recent data is that if you had to pick, you'd drink less or not drink as opposed to drink. But I'm curious what your take is on this. Well, you know, this is interesting. And I'm always quite amazed at the way people change their behavior based on one study that comes out, even if it's a good study. So...
+
+35:52.002 --> 36:18.750
+Yes, it used to be considered beneficial if you drank red wine. And then for a while, studies showed any wine was beneficial in moderation. And that used to be two drinks a day for men, one drink a day for women. And in the latest studies, which have been surfacing this year, suggest no alcohol is good. Yeah.
+
+36:19.042 --> 36:39.070
+But next year, maybe that we're back to, oh, wine is the best thing you can do in moderation for your brain and heart health. Yeah, it's tricky. My read of the data, and here I mean the data across multiple, certainly not every study, but multiple studies, is that zero to two drinks per week.
+
+36:39.522 --> 37:06.846
+it seems to be the range that everyone agrees is safe, at least for non-alcoholic adults. And then once you get out past two drinks per week is when it gets into the gray zone where some people say it's good, some people say it's neutral, some people say it's bad, but that once you get up past four or five servings of alcohol per week, it's pretty clear to me it's not a good situation. Well, that was the prevailing theory until this year. And I don't know if you've kept up, but in the past,
+
+37:07.106 --> 37:36.510
+you know, few months, there have been several articles published saying, um, no wine, no alcohol is good, but then you have to balance that against the fact that alcohol, um, for many people tends to relieve stress. So, um, you know, if you're relieving stress, maybe it counteracts any adverse effects. So complicated issue, but my theory is, um, moderation is the key to life. Uh, and, um, you know,
+
+37:36.642 --> 38:04.702
+And happiness also, we know, promotes longevity. Absolutely. I agree with you. I'm not heavy handed about the alcohol thing. I always just say, you know, do as you wish, but know what you're doing. And I think many people who heard our podcast episode about alcohol, who stopped drinking alcohol or who elected to drink less did so, I'm told, because they really didn't enjoy it that much to begin with. So it
+
+38:04.834 --> 38:28.030
+more or less gave them permission to drink less. Not that they needed it, but they took it. Anyway, I think it's a really interesting area. As you mentioned, it probably lowers stress. It probably also disrupts patterns of sleep and the gut microbiome. So there's, you know, you can't escape in biology. There's always some modulatory influence on something else. Exactly. I'd like to take a brief break and acknowledge our sponsor, AG1.
+
+38:28.610 --> 38:55.582
+By now, most of you have heard me tell my story about how I've been taking AG1 once or twice a day, every day, since 2012. And indeed, that's true. I started taking AG1 and I still take AG1 once or twice a day because it gives me vitamins and minerals that I might not be getting enough of from whole foods that I eat, as well as adaptogens and micronutrients. And those adaptogens and micronutrients are really critical because even though I strive to eat most of my foods from unprocessed or minimally processed whole foods,
+
+38:55.682 --> 39:09.662
+It's often hard to do so, especially when I'm traveling and especially when I'm busy. So by drinking a packet of AG1 in the morning and oftentimes also again in the afternoon or evening, I'm ensuring that I'm getting everything I need. I'm covering all of my foundational nutritional needs.
+
+39:09.954 --> 39:39.920
+And I, like so many other people that take AG1 regularly, just report feeling better. And that shouldn't be surprising because it supports gut health. And of course, gut health supports immune system health and brain health. And it's supporting a ton of different cellular and organ processes that all interact with one another. So while certain supplements are really directed towards one specific outcome, like sleeping better or being more alert, AG1 really is foundational nutritional support. It's really designed to support all of the systems of your brain and body that relate to mental health and physical health.
+
+39:39.920 --> 40:09.662
+Speaking of lifestyle factors, anytime we hear about traumatic brain injury or concussion, people immediately seem to think about football. But I'm told by colleagues of ours in neurosurgery at Stanford and in neuro,
+
+40:09.858 --> 40:33.406
+engineering that most head injuries are not from football. They're not even from sport. They're from construction work accidents. They're from car accidents. What is your take on, you know, somebody, let's say, God forbid, gets rear-ended in a car accident. Maybe gets whiplash. Maybe they're feeling a little off. Like maybe they have a minor concussion. Maybe there was some movement of the brain that wasn't good.
+
+40:34.146 --> 40:53.822
+What's the going consensus on how to deal with that? Sleep more, but then they tell you not to sleep excessively. Should people take blood thinning agents? I mean, obviously avoid alcohol or certainly don't get another head injury anytime soon. But what do we know about TBI and concussion that can help people
+
+40:53.954 --> 41:07.198
+move through that period in the weeks and months afterwards where it's really scary. If you've ever had a hard head hit and they go, they might scan you, they might not see a bleed, but it's kind of scary when you feel a little bit off because you've been hitting the head.
+
+41:07.330 --> 41:37.310
+Yeah, it's a great question. And there's a lot of interesting concussion now. I got very involved in this back in the 90s because I was the 49ers neurosurgeon for a decade from 1990 to 2000. How were they doing at that point? I remember the dynasty of the 80s or the 90s. Oh, they were in super gold contention. In fact, I took care of Steve Young. Yeah, he's a local guy. Yeah, Steve's a great guy. And Steve, a really smart guy, he's a great guy.
+
+41:37.602 --> 42:00.382
+In fact, he has a law degree from Brigham Young. Steve was quarterback then, and they were in Super Bowl contention. And Steve had had some concussions. And I actually sent him back to play when he recovered. So you can examine someone and get a
+
+42:01.058 --> 42:31.024
+decent idea of how they're recovering from a concussion. Steve, unfortunately, had a bad concussion at one point, and he ended up retiring, which was the smartest thing, I think, for him in the end. And he's become very involved with studying concussions and trying to figure out better ways to diagnose them, prevent the sequela for football players, including changes in equipment and in tackling
+
+42:31.024 --> 42:54.046
+and that kind of thing. But concussion is, we've learned a lot since the 1990s. At that time, concussion was not known, even repeated concussion, to cause CTE, chronic traumatic encephalopathy in football players. CTE, which became a hot topic, was known only in boxers.
+
+42:54.274 --> 43:18.910
+So I became very well informed at the time about concussions and there was surprisingly little known. Soccer players had a high incidence of concussion at that time. It wasn't known if there were long-term sequelae. And usually there are not long-term sequelae as long as you don't get repeated concussions. So...
+
+43:19.650 --> 43:44.766
+Now, what we generally recommend if someone has a concussion, we usually get an MR scan if it's severe. MR scans usually don't show anything. They would show a contusion if there's any bruising of the brain, but they don't show the molecular abnormalities that occur with a concussion. So the best way to...
+
+43:44.866 --> 44:14.398
+figure out how severe it is and when a person has recovered is to do more sophisticated neurologic testing. Eye tracking is a very sensitive way to detect problems with the brain after a concussion because you won't track as well. And in fact, many sports, football, hockey, are incorporating pre-season eye tracking testing. I see.
+
+44:14.562 --> 44:42.142
+To get a baseline. To get a baseline. Interesting. Of course, some of the players will game the system because they still don't want to be taken out. So they may try to perform not as well as they could. On their eye tracking? Yeah. I see. They throw the test. They throw the test. So their baseline is, I mean, I don't think that's very common, but that's a way you can game the system. But as long as it's performed well, that's a very good way of detecting problems.
+
+44:42.498 --> 45:10.942
+subtle problems with the brain. You're a vision scientist, so you understand how important all the circuits are in terms of... And the visual system is unique because it tests the brain from the retina all the way back to the occipital lobe. So it's the whole longitudinal access of the brain that's being tested. Yeah, I'm always struck by when I see these news...
+
+45:11.106 --> 45:40.606
+newsreel highlights of, you know, a player goes down, they stay down, and then, you know, they're helped up and everyone cheers, and then they might hobble off, take a few moments, and then, you know, how are they gauging the decision to put the person back in? And the reason it's perplexing to me how they would determine that is that you and I both know that the neurons, the nerve cells in the brain, very likely could be injured, maybe even on their way to death after a head injury, but that
+
+45:41.090 --> 46:02.494
+the actual dying off of the tissue could take several minutes, hours, maybe even days. So putting someone back in to get hit more seems really risky. But at the same time, that's their profession, that's their choice. And so you don't necessarily want to make the decision to take someone out of a game or a job or have them stop driving if they don't
+
+46:02.914 --> 46:20.062
+actually need to stop. So it's a tricky thing. It is tricky. And I think we have better methods of even at the, if you're talking about sports, on the sideline of doing testing. There are neurosurgeons there now who are part of the process.
+
+46:20.674 --> 46:48.862
+As far as recovering in general, it's good to not stress the brain, but total absence of sensory information, sensory deprivation for long periods is not a good idea. Right, just staying home in the dark with sunglasses on, also not a good idea. Exactly. So you want to make sure the brain still has input, but you don't want to overstress it when you're recovering from a concussion. Sounds like doing all the things to keep blood pressure relatively low,
+
+46:49.730 --> 47:15.710
+LDL cholesterol relatively low. So interesting what you said earlier that statins might be vascular protective even in the absence of high cholesterol. Yeah, there's a lot of good evidence for that. In fact, some studies have suggested that taking statins reduces the risk of cognitive decline, including conditions like Alzheimer's. Interesting. I know that statins are a bit of a controversial topic among listeners because some people report...
+
+47:15.810 --> 47:45.662
+I think I have this right, that statins can give them a kind of a brain fog if they take the wrong one or excessive amounts. Yeah. I'm not challenging what you're saying. No, no, no. It's just controversial. I just hear the shouts in the comments section. I don't take a statin, but my cholesterol is in check. But I'm hearing more and more about some of these benefits of statins. Yeah, yeah. And the information is still emerging. For a traumatic brain injury in general, not a good idea to take an aspirin.
+
+47:45.922 --> 48:01.854
+as opposed to a stroke or a TIA. Where you would want to take an aspirin. Right, right. Because if you have injuries, say you have a contusion to the brain and there's some traumatic damage, taking a blood thinner might cause that to worsen or cause a hemorrhage.
+
+48:02.370 --> 48:31.646
+What about caffeine? Is there any evidence that caffeine can increase stroke or ischemia? I like coffee and I like yerba mate tea, so I'd be reluctant to give it up, but I consume it in moderation. Is there any direct relationship there? I don't know any relationship unless you're taking so much that your blood pressure is sky high. My blood pressure tends to be pretty low. Lots of benefits evidently to caffeine in terms of health. I agree with you there. I have a question about something that
+
+48:32.194 --> 49:02.142
+many people are starting to do now, which is to get exploratory MRI. I actually did one of these. I wasn't gifted one. I just decided to bite the bullet and pay for it. It was a whole body scan. They put me in the tube, did an MRI, get everything from tip to toe. And I learned a few things. I learned that I have like a slight, I think it's L3 or L4 disc bulge that explained a little bit of like pseudocyatica. And I've been able to work around that and keep that strong. I learned that
+
+49:02.626 --> 49:30.142
+Fortunately for me, I only have one white spot on the brain. I was told that you could have one per decade. I'm nearing 50, so I feel very lucky there, especially given that I've hit my head a few times, skateboarding and doing martial arts and things like that. So I feel lucky, but I also know people that go in for these scans and get the report that they have a growth of some sort or they have multiple white spots, as they're called, on the brain, which is kind of damage to tissue, the neural tissue.
+
+49:30.786 --> 49:55.966
+You know, what is your thought on these exploratory slash preventative scans? Do you think they're useful? Do you feel like they cause undue concern? I mean, this is a new thing, people going out and getting their brain scanned. Yeah, and people are getting total body scans. So I think there are benefits and risks involved. So the benefit is that you might pick up something that should be treated, like an early cancer disease.
+
+49:56.066 --> 50:22.942
+or a large aneurysm in the brain, which would have a higher tendency to bleed. But many times, and I see patients all the time who are referred for a tiny aneurysm, blister on a blood vessel in the brain that was found incidentally on a total body scan. And these aneurysms, which can be one or two millimeters, sometimes we don't even consider those as real aneurysms, and
+
+50:23.298 --> 50:50.622
+they don't need to be treated in most cases. And so it's a little controversial because people can be worried about them, even if they're reassured. Other examples are you find something in the brain or elsewhere in the body, not sure what it is. And then in order to determine what it is, patients start having more invasive biopsies and tests, which can lead to what we call iatrogenic injuries. That's
+
+50:50.786 --> 51:12.414
+iatrogenic is caused by the physicians. So I think you have to be very thoughtful when you interpret the results of these total body or even brain scans. And I would recommend talking with a specialist about it if you're concerned.
+
+51:13.154 --> 51:41.790
+But, you know, people wonder, I have this, we were discussing it earlier today, actually, with one of your colleagues. And what if you're found to have a 1.75 millimeter aneurysm, if it's really even an aneurysm, should you change your lifestyle? And for something like that, I would recommend no, you should forget about it, get a follow-up scan, but you may very well live and die with this little blister.
+
+51:41.986 --> 52:11.806
+that is of no consequence. So as I say, I think you have to be careful about how you interpret and how you act on these findings. Maybe we can talk about lifestyle factors because I think anyone listening to this is gonna think, I don't want a stroke. I don't want transient ischemic attack. I don't want hemorrhage. I don't want any of this stuff. And we already discussed a little bit about how what's good for your heart generally is good for the brain. But I think most people strive to eat well, meaning not excessively,
+
+52:12.002 --> 52:38.878
+also not under eat, to hopefully eat a lot of unprocessed or minimally processed foods and to avoid smoking, perhaps, avoid alcohol in excess, avoid hard drugs, get exercise. And so, you know, I think people generally try and do all these things, get good sleep, et cetera. But at some level, I think everyone also wants to know like,
+
+52:40.194 --> 53:08.926
+when are they in their safest kind of shape for avoiding a stroke? Is there sort of a blood pressure cutoff where we could say, okay, you know, if you keep your blood pressure, resting blood pressure below blank, you're doing pretty well. And if your cholesterol is below blank, you're doing pretty well. And then you just, you know, while keeping moderation in mind, try and live a life that, you know, reduces the probability of getting a stroke or some other, you know,
+
+53:09.250 --> 53:39.198
+blood-related neural attack? Well, I think it has to be individualized to some extent. And over time, the standards and the guidelines have changed. It used to be if your systolic blood pressure, that's the upper number, was under 130, 130 or under, that was considered normal and would not lead to problems. Now, the guidelines suggest that 120 or lower is better in large studies.
+
+53:39.458 --> 54:09.310
+But as an example, when my blood pressure gets under 120, I feel lightheaded. In fact, I had an event about 15 years ago when I was overdoing it like I shouldn't have been. Overdoing exercise or overdoing work? Overdoing everything. I was in my... A Stanford faculty member that overdoes something? That was a joke that among Stanford faculty... I was 56 and I operated all day in two operating rooms.
+
+54:09.442 --> 54:37.022
+I got done early. It was in the spring. And I took a run up to the dish. And then I took a red eye to Houston for a meeting. And I emailed on the flight, got an hour or two asleep, went to the meeting, was fine. It was a stroke meeting with a bunch of scientists, neurologists and scientists. There were about 120 people. There were two neurosurgeons there plus me. And
+
+54:37.154 --> 55:01.214
+drank some coffee. At noon, I went for a run because I like running. And at that day in Houston, it was 90 degrees and 85% humidity and got back, had a glass of tea, went back to the meeting, had some more coffee. And then as the afternoon session opened up, I started to feel lightheaded.
+
+55:01.346 --> 55:30.558
+And next thing I know, I'm looking up at the chandelier and they're shouting stroke, cardiac arrest, seizure, and they're starting to pump on my chest. So they rushed me to the hospital where I had a simultaneous workup for cardiac arrest and stroke. And after, I'll make the story short, after a $100,000 workup, it was determined I had a faint.
+
+55:31.522 --> 55:57.374
+because I was overdoing it. So since then, now I try to get seven to eight hours sleep a night. That's clearly the bedrock of health. So I increased. I used to get three to five hours sleep a night. Now I get seven to nine if I can do it. Cut back on coffee, on caffeine. And I don't push myself to exercise like I used to if I'm feeling a little fatigued.
+
+55:57.538 --> 56:27.294
+I'm on an antihypertensive agent, but I actually don't take it every day because for me, it's better to have a pressure 125 to 135. And it's true for some of my patients. If you've got some disease in your arteries, you may not want to have such a low blood pressure. So I would individualize it. But in general, you want to take care of your body like I've learned and probably maybe you've learned over time. I'm learning. I mean, this is very interesting. I've
+
+56:27.586 --> 56:55.166
+I tend to have low blood pressure. It sort of runs in my family to have low blood pressure. I can definitely relate to the hard driving ambition phenotype. I think it's worth people hearing this because it's characteristic of a lot of people in high intensity professions. And I made the joke about Stanford faculty, but it's true. I think that if you're ambitious, you tend to overdo a bit more. That's something I'm certainly working on and I've
+
+56:55.298 --> 57:21.726
+run a very busy life and learning to slow down, prioritize sleep, prioritize meditation, non-sleep deep rest is something I've benefited from a lot, journaling, things of that sort that really just kind of slow the pace. I think that, you know, in the landscape of health optimization, we can often put ourselves into modes of excess in the other direction, meaning doing so much to try and avoid
+
+57:22.210 --> 57:52.126
+issues with health that we end up creating issues with health. But yeah, certainly reducing caffeine intake and prioritizing sleep are key. So I appreciate that you shared that story. So if somebody has naturally low blood pressure and starts to feel a bit, let's just say kind of sleepy or woozy in the afternoon, would you recommend that they obviously not take a pressure-lowering drug, but that they add a bit of salt to their diet, that they feel free to, you know, to
+
+57:53.026 --> 58:15.710
+to exercise less. I'm a little bit confused. I also love to run and do resistance training. Well, I would recommend they take their blood pressure. So you want to try to correlate any symptoms you're having with vital signs that you modify, right? So take your blood pressure if you're feeling faint. If it's low, one thing you can do easily is to hydrate. That was something else. I used to not drink much because...
+
+58:15.970 --> 58:42.686
+I don't want to have to pee in the operating room. I can imagine that'd be pretty uncomfortable. I don't want to be the patient that you're operating on when you have to go use the bathroom. Yeah. So now, and then I'll reveal that I had a kidney stone, which is common among surgeons. This was a decade ago. And since then I've hydrate all the time. So I hydrate to the point that my urine is crystal clear all the time. And that helps with some of the brain clarity.
+
+58:43.362 --> 59:11.390
+So interesting. I've done a little bit of work with people in the special operations community. And I think people hear about them and they think, oh, what's the magic potion that they're taking? What are they doing? And they do a number of very interesting things. But one of them is they really emphasize hydration. They're just like hydration, water, sometimes water with electrolytes if they're working in hot conditions, but just hydration, hydration, hydration. I was skeptical and I used to dehydrate. I felt better dehydrated and
+
+59:11.522 --> 59:37.598
+fit, but as I've matured, I think it's very, very important for your blood pressure, for your general health, and for your kidneys. Yeah, you mentioned sleep. Is there a relationship between sleep deprivation and stroke risk? That's a great question. Interestingly, strokes occur more commonly during sleep,
+
+59:38.626 --> 59:58.686
+It's not known why. One theory is that it's related to circadian rhythms. I don't know if there's a relationship between sleep deprivation and stroke. I'd like to take a brief break and acknowledge one of our sponsors, Element. Element is an electrolyte drink that has everything you need,
+
+59:58.850 --> 01:00:28.816
+That means the electrolytes, sodium, magnesium, and potassium in the correct amounts and ratios and nothing you don't, which means no sugar. Now, I and others on this podcast have talked about the critical importance of hydration for proper brain and body functioning. Even a slight degree of dehydration can diminish cognitive and physical performance. It's also important that you get adequate electrolytes. The electrolytes, sodium, magnesium, and potassium are critical for the functioning of all the cells in your body, especially your neurons, your nerve cells. Drinking element dissolved in water makes it very easy to ensure that
+
+01:00:28.816 --> 01:00:53.662
+are getting adequate hydration and adequate electrolytes. To make sure I'm getting proper amounts of hydration and electrolytes, I dissolve one packet of Element in about 16 to 32 ounces of water when I wake up in the morning and I drink that basically first thing in the morning. I'll also drink Element dissolved in water during any kind of physical exercise I'm doing, especially in hot days when I'm sweating a lot, losing water and electrolytes. They have a bunch of different great tasting flavors of Element.
+
+01:00:53.858 --> 01:01:13.118
+My favorite is the watermelon, although I confess I also like the raspberry and the citrus. Basically, I like all the flavors. And Element has also just released a new line of canned sparkling Element. So these aren't the packets you dissolve in water. These are cans of Element that you crack open like any other canned drink, like a soda, but you're getting your hydration and your electrolytes with no sugar.
+
+01:01:13.218 --> 01:01:42.686
+If you'd like to try Element, you can go to drink element, spelled L-M-N-T.com slash Huberman to claim a free Element sample pack with the purchase of any Element drink mix. Again, that's drink element.com slash Huberman to claim a free sample pack. I'm going to tell a horror story, but not, I want to repeat, not to demonize chiropractors. Here's the positive story. I had a back thing that my back hurt and I wasn't sure what I needed to do. And a chiropractor,
+
+01:01:43.010 --> 01:02:10.238
+gave me some exercises to do that essentially were like the up dog movement in yoga that my understanding is it helped the disc bulge to kind of work its way back into the spinal column. And it worked terrifically well. I took no medication, I required no surgery, and I eventually learned to correct some imbalances that have led me to not have that issue again. It was really remarkable. And this chiropractor essentially saved me from surgery. And I'm,
+
+01:02:10.850 --> 01:02:31.614
+So I think there are excellent chiropractors out there. But when I was a postdoc living in San Francisco, I had a roommate, I believe she was a neurology resident and she came back from the clinic at UCSF and she told me the story that a patient had come in who was experiencing some hemi paralysis of the face. That patient,
+
+01:02:31.842 --> 01:03:01.150
+I believe it was a young woman, had gone for a neck adjustment or head adjustment at a chiropractor. She ended up with a dissection of her artery. Right, and something had happened and she had essentially a stroke. And so I share both these stories to make very clear that I have nothing against chiropractors, but I think like any health practitioners, they come in a range of talents. And this was really, like for me, an alarm. And I decided at that point, I would never allow a chiropractor to adjust my neck.
+
+01:03:01.442 --> 01:03:10.686
+I said, okay, you can make adjustments to my back. You can give me suggestions about exercises to do, but how common are these? You said it's a hemidissection.
+
+01:03:10.786 --> 01:03:38.334
+It's a dissection of an artery, either the vertebral artery in the back or the carotid artery up closer in the front. So no cutting when you say dissection. They're basically making an adjustment. Yeah. Well, what happens is, and I agree with, and we're on the same page. I recommend patients, if they're going to have chiropractic, not to have manipulation of their neck because that's what occurs. It's not common, but I see it. We see it.
+
+01:03:38.466 --> 01:04:05.694
+What happens is the artery is damaged. The manipulation of moving the bone and the soft tissues causes a tear in the wall of the artery. And what occurs, interestingly, is that the blood that's usually in the space, the lumen, the middle of the artery, gets into the wall and causes a false lumen, a false passage. And that
+
+01:04:06.498 --> 01:04:35.870
+that blood in the wall pushes part of the wall into the main artery, obstructing flow and sometimes causing a clot to form that can be dislodged and go up to the brain. Yikes. And there's no way to know whether or not this is going to happen. No, that's why I recommend not having neck manipulation by a chiropractor. Even if it's rare, it's so devastating when it occurs that...
+
+01:04:35.970 --> 01:04:46.846
+Personally, I would avoid that. Yes, I tell the chiropractor, stay away from anything above the shoulders, please. Yes.
+
+01:04:46.978 --> 01:05:10.206
+And then the back work has been beneficial. Again, these exercises, perhaps the most beneficial thing about it. As long as we're there, I realize it's a bit of a niche condition. But what about hanging upside down? I had one of these inversion tables. I really enjoyed that thing. But then once I looked at my camera phone while I was hanging upside down, it looked like I was going to blow a gasket from all the vasculature in my forehead. Is it bad to hang upside down? No evidence says it's bad. Oh, good.
+
+01:05:10.530 --> 01:05:36.286
+Oh, good. Maybe I'll get an inversion table again. As long as you don't stay there, of course. Okay, great. Would you let your kids play football or rugby? That's a great question. I would not. That's my personal decision. I think there are a lot of benefits to children playing football, rugby, like any sport. It's a team sport. A lot of good skills are learned.
+
+01:05:36.610 --> 01:06:01.054
+besides just the physicality of it, the coordination, but being a team player and the socialization. But I think talking about tackle football, I think there is still risk. We're just learning about it. And even high school players who many years ago
+
+01:06:01.186 --> 01:06:28.734
+found to have multiple concussions are showing up when they're doing autopsies with some of this chronic traumatic encephalopathy. I wanted to play football as a kid and I'm not that big. I mean, I'm a big guy, but... And my parents didn't let me, which is fortunate because I mean, I'm sure I would have been put at risk for injuries, not just head injuries, other injuries.
+
+01:06:28.898 --> 01:06:49.502
+My son, who's a very good athlete, he played four years of high school, baseball and soccer, was asked to try out for the quarterback position his senior year. And we went out to try out, and he decided, with my encouragement, not to play. Did he go to gun high school?
+
+01:06:49.730 --> 01:07:09.918
+He went to Menlo. Okay. I went to Gunn. Our football team was, at that time, was bad enough that there was no incentive to play. What about soccer and heading the ball? I've actually heard that can be problematic, which to me, at first when I heard that, I was like, no, there's no way. I mean, the ball is so light. But is there any evidence that repeated heading the ball? There is. Again, it's not...
+
+01:07:10.082 --> 01:07:25.054
+incontrovertible, but there is some evidence that multiple headings can cause some concussions and some long-term injury. Again, when I study this in detail,
+
+01:07:25.186 --> 01:07:53.022
+as a 49ers neurosurgeon back in the 90s, there was very little data. Although there was some evidence even then that soccer players had a high incidence, and particularly female soccer players had a high incidence of concussion, surprisingly. But now there's much more evidence that head injuries and even heading the ball may lead to some injury. I feel like if
+
+01:07:53.538 --> 01:08:11.550
+sport is not your profession, the risk benefit analysis is pretty clear. Like why box? I understand it's a great sport. There's a lot to learn there. Done a little bit of it in the past, but unless you're gonna get paid substantial amounts of money, and maybe even then,
+
+01:08:11.778 --> 01:08:36.126
+probably not worth it. Well, I feel the same way. It is different for professional athletes. I mean, this is their job. I remember talking with Steve Young at one point about continuing to play or finally deciding to retire. And I was thinking, what if I was asked to retire as a neurosurgeon at the prime of my career?
+
+01:08:36.258 --> 01:09:05.598
+You know, it's your profession, it's your income, it's how you identify yourself. Your self-esteem is dependent on it. Your family maybe put pressure on you as a professional athlete. If you're not a professional athlete, I think for me, and this is my own opinion individually, I think there's less of a controversy. And there's so many other sports where...
+
+01:09:05.729 --> 01:09:26.431
+which benefit in the same way as football or boxing, why not participate in those? That's my feeling, but I know it's a controversial subject. Maybe we can circle back a little bit on a fairly common scenario.
+
+01:09:27.106 --> 01:09:53.918
+you're in the attic and you're looking for something, you stand up, boom, you hit your head on a beam and you're kind of dizzy for a bit. Or recently our podcast team was on tour in Australia and the way that the shelf over the kitchen sink in our Airbnb was arranged, it was certain that everyone pretty much would hit their head hard on that thing at some point. Does one need to worry about one kind of dizzy inducing head hit?
+
+01:09:54.722 --> 01:10:14.558
+from everyday life? I think a lot of people are kind of scared, like do they do brain damage or is the evolutionary adaptation, which is the thick skull sufficient to keep us safe in most cases? I don't think you need to worry in general, especially if your symptoms resolve within a relatively short period of time. Such as how long, a day or two?
+
+01:10:14.946 --> 01:10:26.302
+Yeah. I mean, even if you have a mild concussion and you recover within a day or two, I don't think there's any need to worry or get a scan. And it's a commonplace occurrence.
+
+01:10:26.946 --> 01:10:49.598
+Yeah, I think your answer will set a lot of minds at ease because people do worry. I mean, there's something so mysterious about the stuff that occurs inside the cranial vault. We can't look to something. We can't take our pulse. It's just, it's so hard to know what's going on in there. Well, as you say, that's why we develop very thick skulls to protect the most important organ.
+
+01:10:49.794 --> 01:11:15.390
+Because after all, the tissue doesn't regenerate, at least not much of it. There are a few areas where there are neurons that can replenish. You know, I'm going to take issue with you at that. Because the prior notion, of course, was that once nerve cells in the brain die, they don't regenerate. And for a long time, it was thought you don't produce any new nerve cells, any new stem cells in the brain.
+
+01:11:15.618 --> 01:11:43.198
+And we used to think after an injury or a disease like a stroke, when that tissue was damaged and you were paralyzed or you couldn't talk, that there was no way to recover, that those circuits were dead. It turns out that is not true. And we are learning that, I think, in recent years. When I trained, there was no hope to restore function in patients who had a stroke, a
+
+01:11:43.522 --> 01:12:10.142
+brain injury, spinal cord injury, and other diseases, ALS, Lou Gehrig's disease, Parkinson's disease. Now we are learning that there is hope. We know that stem cells do form in the adult brain. That's not controversial anymore. We know that other circuits can take over for circuits that were dead.
+
+01:12:10.242 --> 01:12:38.270
+And we know now, and this is some of the work that we're doing with chronic stroke patients who we thought could not recover after six months at all, we know that there are ways of promoting regeneration or recovery of function. We're still working out the details of that. But for instance, we've done studies, and this is still in clinical trial phase, where
+
+01:12:38.530 --> 01:13:07.806
+patients who are years out from a stroke. They've been through rehab. They've been through physical therapy. And 90% or more of recovery after a stroke occurs in the first six months. After that time, you know patients are not going to recover. And now we are finding in some of our early trials with patients that if you, for instance, put in stem cells into the brain or
+
+01:13:08.034 --> 01:13:36.766
+Another treatment which was approved by the FDA, the very first for chronic stroke, if you put a stimulator on the vagus nerve in the neck and stimulate coupled with physical therapy, intensive physical therapy, you can improve arm function in those patients. In our patients that we've treated in multiple trials, we're seeing early indications that patients years out from a stroke are
+
+01:13:37.410 --> 01:14:05.086
+start to recover function in their arms, in their legs, in their speech. And we don't know all the mechanisms, but the old notion that these circuits are dead is simply not true. They can be resurrected. And so, you know, this is part of the excitement about discovery and doing research and trying to translate into the clinical arena. Yeah. Oftentimes this boils down to really
+
+01:14:05.410 --> 01:14:31.358
+of the moment decisions. I'll tell a story. I won't reveal the hospital or the exact players involved, but some years ago, an ex-girlfriend of mine who then was just somebody I was friends with slash dating contacted me and said that her dad had had a stroke and I was near that hospital. So I went and spoke to the resident
+
+01:14:31.746 --> 01:15:00.414
+And the resident who was overseeing the case essentially said, look, it's hopeless. There's a huge necrotic piece of tissue in there. The probability of any kind of quality of life is essentially zero. My suggestion, and I was there as the resident made the suggestion, would be to remove him from life support, essentially. And the other members of the family were like, oh my goodness, right? This is not a situation anyone wants to be in. I made a couple of calls, including to...
+
+01:15:00.834 --> 01:15:29.470
+someone who's previously been a guest on this podcast, who's highly qualified to know about this sort of thing. They asked a couple of questions about the location of the stroke, which side of the brain it was on and said, keep him alive. There's a good chance that he'll have some degree of recovery of function. So that's what they did. And indeed, while he lost some motor abilities, lost some speech abilities and has some disruption of affect where he'll sort of spontaneously laugh or cry from time to time,
+
+01:15:29.570 --> 01:15:59.326
+He has, at least by my observation, been able to enjoy substantial amounts of life, interacting with grandkids, enjoying holidays, and actually took, I was told, some physical steps at some point with assistance, with a walker. He's done a lot of physical rehab. Obviously, a really hard situation, but it told me that oftentimes when we think that all is lost, not all is lost, even in people in their 70s. Right. It has to do with plasticity.
+
+01:15:59.458 --> 01:16:21.726
+And we all wish we were neonates or infants because the body, including the brain, is so plastic. That's the ability to regenerate tissue and circuits and recover. So if an infant has a stroke and is paralyzed on one side, usually they can make an excellent, if not complete, recovery.
+
+01:16:21.986 --> 01:16:49.086
+This is the, as I recall from my undergraduate years, the Kennard principle. If you're going to have a brain injury, have it early in life. Exactly. So, I mean, you notice this too. When I cut myself now, it can take a week for that cut to heal. When my granddaughter, who's six years old, cuts herself, the next day it's totally healed. Little kids are like salamanders, right? By the way, that was a biology joke. They're not like salamanders, but salamanders can reabundance.
+
+01:16:49.250 --> 01:17:16.414
+regenerate entire limbs by the maintenance of a small stem cell population at the tip of the limb bud, or what would be the limb bud. And it is remarkable how kids can regenerate without a scar. They can oftentimes, they can't grow an entire hand back, but it's kind of striking how much plasticity there is. And that's what we're trying to develop are new ways of promoting plasticity in the adult brain, as an example. So we think stem cells,
+
+01:17:16.514 --> 01:17:43.102
+injected through various mechanisms, stimulation of the brain or the vagal nerve, as an example, can promote plasticity. In a sense, we think what's happening is that these methods can turn the adult brain into an infant brain in some ways. Where are the stem cells coming from in these experiments? It depends. There are different sources. So, um,
+
+01:17:43.298 --> 01:18:12.478
+Some of the studies I've done previously with other companies, they made the stem cells either from bone marrow donors, so they were mesenchymal, or another group made the cells from fetal neural tissue. Okay. So just to orient people, inside the bone, you have the marrow. Most people know that because they've ordered it at a restaurant, cow marrow, that is.
+
+01:18:12.610 --> 01:18:42.398
+typically, the cells within the marrow contain, as I recall, a hemopoietic population. So a population of sort of potential blood cells, cells that can become blood cells or other things. And if taken out, put into a Petri dish and given the appropriate factors, you can drive the fate of those stem cells to be say neurons or cardiac cells. And then you're taking those cells and you're injecting them into the brains of patients in the hopes that they will
+
+01:18:43.074 --> 01:19:11.838
+become neural cells, neurons that will incorporate into the circuitry. Actually, that was the initial notion 20 years ago when we started doing this, was that these cells you put in become, these exogenous cells you inject, become neurons and astrocytes and oligodendrocytes, all the cells in the brain, and that the neurons reconstitute circuits. That is not how they work. The way they work, and this is why it may not
+
+01:19:12.034 --> 01:19:41.118
+matter what particular type of stem cell you put in, the way they work primarily is by secreting very powerful proteins, molecules, growth factors that promote native recovery. So they promote angiogenesis, they promote native neurogenesis, endogenous gliogenesis, synaptogenesis, but the main benefit may be that they modulate the immune system. That's what we're finding.
+
+01:19:41.250 --> 01:20:10.974
+So by modulating somehow the immune system in the brain, they are able to induce plasticity and recover function. Interesting. I'm tempted here to weave in the stories that date back to the 90s, but that we see more and more of mostly studies in rodents, but a few in humans showing that there are dormant stem cell populations in certain compartments of the brain, the dentate gyrus of the hippocampus, the olfactory bulb, et cetera, that upon hyperoxygenation of
+
+01:20:11.138 --> 01:20:40.894
+or increasing blood flow to the brain, largely by virtue of exercise, but also sometimes by way of engaging in learning tasks and exercise, that you can basically cause the release of stem cells that normally would lie dormant. Is that literature reason enough to suggest that people who've had a stroke continue to move their body, to walk, get exercise, maybe do resistance training, maybe even some skill-related training? Yes, there's a lot of evidence that...
+
+01:20:41.090 --> 01:21:08.318
+activity, physical therapy, even forced activity is very beneficial. And it's not just stimulating endogenous stem cells in the brain, but it's multiple mechanisms. It's recruiting circuits that were not involved before. For instance, studies have been done on stroke patients who make a recovery show that not only is the site of the stroke
+
+01:21:08.994 --> 01:21:38.334
+improving in some cases, but the other side of the brain is showing increased activity. So circuits on the other side of the brain may be contributing to the recovery on the side of the stroke brain. So it's much more complex than we thought it was. Years ago, I developed an affection for a literature. It wasn't a very prominent literature, but I found it really interesting. It's the work of a guy named Timothy Shallert.
+
+01:21:38.914 --> 01:22:07.486
+and Teresa Jones. You familiar with this? Yeah, we almost recruited him to our department. Yeah, the sort of overarching theme of this literature was it was animal work, but I think some of it might have been translated to humans, which was that, for instance, if somebody has damage on one side of the brain because of the way the circuits are organized, and of course, you know this better than anyone, Gary, but that one might experience deficits in limb movement on the opposite side. And that the tendency for somebody like that is to then
+
+01:22:07.682 --> 01:22:34.270
+over rely on the intact limbs, essentially lean on the intact limbs. And the approach that they took to try and recover function was really interesting. They had these animals, and I think eventually there was some human work done, I could be mistaken, sort of tie up the more active uninjured arm or leg or hand such that they then had to rely on the non-human
+
+01:22:34.434 --> 01:22:59.038
+dominant, or let's just call it injured, sometimes even flaccid paralysis limb. And in that way, they could generate a lot of plasticity that normally would escape the patient, especially in the days and weeks following the injury. Just forcing movement or forcing the attempt to move of the injured pathway. I find this literature to be so striking and maybe one that should deserve more attention. Yeah. It's called constraint therapy.
+
+01:22:59.202 --> 01:23:28.926
+And not only has it been shown in animal studies preclinically, but it's been shown in some clinical studies of patients with stroke. In fact, one of the trials we did with transplanting stem cells into the brain included restraining the good limb to force use of the other limb. So there's some very intriguing data suggesting that that's important. However, some of the animal studies were
+
+01:23:29.026 --> 01:23:54.334
+also suggests that you may have to wait a time. If you force use of the involved limb too soon, it can be detrimental to the recovery. I see. So there may be an important temporal factor there in terms of the timing of when you do that. Is there anything that people can do or take for neuroprotection after an injury to essentially...
+
+01:23:54.498 --> 01:24:21.918
+rescue neurons that would otherwise die. Right. So this is a very interesting subject. Back in the late 1980s, 1990s, a lot of emphasis was placed on trying to protect the brain against acute stroke. Different pharmacologic agents were tried. Probably a thousand different drugs were tried, which blocked
+
+01:24:22.178 --> 01:24:51.902
+the pathway leading to cell death. So interestingly, when you deprive the brain and the neurons of oxygen and glucose, they don't die immediately. And it takes some time and it's actually an active process. So the release of these excitatory amino acids occurs. So normally, as you know, glutamate, aspartate are important neurotransmitters in the brain and you need them to function.
+
+01:24:52.002 --> 01:25:17.310
+But after a stroke, when there's a deprivation of oxygen and glucose and a mismatch between the metabolism and the supply of oxygen and glucose, for some reason, there's a release of these excitatory amino acids like glutamate. And that causes an influx of calcium into the neurons, which is the final common pathway to dying.
+
+01:25:18.306 --> 01:25:48.062
+And then there are other pathways that can then lead to release of free radicals, which are more damaging. And those can cause another type of cell death called apoptotic cell death. That's a cell death that occurs and requires protein synthesis. And then with reperfusion, say the artery opens up, then you've got a lot of inflammation. So these pharmacological treatments, as I say, 1,000 of them were tried.
+
+01:25:48.418 --> 01:26:17.918
+And they were found to be very effective in preclinical stroke models. So we could cure stroke in the lab. My lab studied this for probably 15 years. And there was no doubt we could cure stroke if we got the drugs on board even after the stroke within a few hours. But it never was able to be translated to the clinical arena except for one case. So besides drugs that were tried...
+
+01:26:19.234 --> 01:26:44.510
+Another method of protecting the brain was tried called mild hypothermia. And that was a process of reducing the brain temperature and body temperature just a few degrees from 37 degrees centigrade to 33. And we were one of the first to show that that was protective even after the stroke in animals.
+
+01:26:44.642 --> 01:27:12.382
+My understanding is that when you cool neural tissue, you quiet its electrical activity. In fact, this is a common tool for experimentation in neuroscience laboratories. You want to shut down a brain area transiently, you cool it down. Right. And in fact, deep hypothermia has a profound effect on shutting down the metabolism. So that's why when someone, particularly kids, fall into a frozen pond,
+
+01:27:12.546 --> 01:27:38.910
+with ice cold water, they can survive there for half an hour and make a complete recovery because their body temperature is dropped down to very low, like 20 degrees centigrade. But this is less. This is just a few degrees. So there is a slight decrease in the metabolic activity, but that does not account for all the protection. It's due to the fact that hypothermia, mild hypothermia,
+
+01:27:39.010 --> 01:28:08.190
+blocks many of those detrimental pathways. It blocks partly the release of those excitatory amino acids, glutamate. It blocks the calcium influx. It blocks the inflammation. And so that's probably why it works so well. It even blocks that other pathway of programmed cell death because it hits all these pathways. It's multifactorial. It's very effective. And in fact, it was finally shown in...
+
+01:28:08.354 --> 01:28:37.054
+early 2000s in prospective randomized studies that one type of stroke, actually two types, I should say, two types of stroke are benefited by cooling the brain quickly. One is cardiac arrest from ventricular fibrillation. And prospective studies, which were published in 2002, showed that if you cool patients who have cardiac arrest and then are resuscitated out in the field down to...
+
+01:28:37.186 --> 01:29:06.942
+between 32 and 34 degrees centigrade from 37, much better outcomes neurologically. That's from global ischemia. That's the no blood getting to the brain briefly. And the other area where it's been shown to have better outcomes is in neonatal, what's called hypostatic ischemic injury. Those are neonates who have lack of blood flow for some reason to the brain when they're born. And if you cool them, it's been shown in studies up to...
+
+01:29:07.458 --> 01:29:35.486
+10 years later that they have better cognitive outcomes. So for cardiac arrest in the mid 2000s, I think it was 2003, the American Heart Association determined it was a standard of care, a guideline that you had to cool patients after cardiac arrest. Yes. How was the cooling done in the experiments that you were involved in?
+
+01:29:35.586 --> 01:29:58.558
+Yeah, so there are many ways to do it, but in the animal models, you can just cool them with a cooling blanket, actually. In people, we got very interested in this. In fact, when I saw in the laboratory that it was so effective and that we could cure mouse and rat stroke by cooling, I started cooling my patients in the operating room.
+
+01:29:58.722 --> 01:30:24.606
+because I felt, even if it hadn't been proven in patients, that it was so effective. It's the gold standard now, actually, for neuroprotection against stroke in the laboratory. So back in the 1990s, I started cooling all of my patients. We started by cooling them by packing them in ice,
+
+01:30:25.090 --> 01:30:54.046
+and putting alcohol on them. But the operating room staff appropriately didn't like that because alcohol is inflammable. So then we started using cooling blankets. And then a number of companies started developing cooling catheters. And I work with several of these. So you can actually cool very quickly if you put a catheter into a vessel, say, in the groin.
+
+01:30:54.178 --> 01:31:22.462
+and infuse cold saline, which doesn't get into the circulation, but it cools the blood and the cooled blood then circulates. Other ways of cooling are to putting on special devices which cool quickly. And that's what's used now are external devices. People are working on cooling just the head with helmets. So it's still an active field of investigation for stroke
+
+01:31:23.042 --> 01:31:47.742
+And also for cardiac arrest, actually. It has not been proven in well-designed prospective trials that it works for garden variety focal stroke. It works for cardiac arrest where there's global lack of blood flow to the brain, like when the heart stops. It hasn't been proven yet for the kind of stroke we've been talking about where there's a single blocked artery to the brain.
+
+01:31:48.162 --> 01:32:16.446
+So interesting. I mean, a lot of times on this podcast, we talk about the critical need for body temperature to drop by one to three degrees to get into deep sleep. We had Craig Heller, our colleague from the biology department at Stanford on the podcast, where we talked about some of the Palmer cooling and essentially cooling the soles of the feet, the palms of the hands and the upper part of the face as a way to more rapidly reduce core body temperature. I think these are fascinating areas for exploration that
+
+01:32:16.578 --> 01:32:36.126
+Obviously, you have clinical applications, but also you'd imagine for some of the things we were talking about before, like just to provide a bit of neuroprotection after a head hit or provide a bit of neuroprotection perhaps even as it relates to aging, spending a little bit of time, maybe 10 minutes a day, it's not –
+
+01:32:36.322 --> 01:33:03.390
+badly hypothermic, please people, but slightly hypothermic and then bringing the body temperature back up. Yeah. I mean, I wouldn't recommend if you have a head injury or a TIA to stick your head in a snow bank. But even with traumatic brain injury, severe, not just concussion, but severe TBI, traumatic brain injury, studies were done looking at cooling hypothermia. And it's called mild hypothermia because it's just a few degrees.
+
+01:33:03.650 --> 01:33:25.822
+And the studies were very suggestive, but didn't get to the point that it was proven, although certain subgroups who were cooled quickly seemed to do better. So I think it's a subject that's still being studied. And as I say, it's easy for us to do in the operating room. You don't want to cool too much because that can then interfere with...
+
+01:33:25.954 --> 01:33:52.990
+other metabolic functions and clotting parameters, and it can cause increased infection if you go too low for too long. But I still let my patients cool just a few degrees. And we've had some anecdotal cases where patients have had problems, and because we cooled them, we think it made a benefit. For instance, we had one patient...
+
+01:33:53.218 --> 01:34:19.358
+We hadn't even done, I was getting ready to do a bypass to sew a scalp artery to a brain artery, but we hadn't even, I think, made the skin incision and the patient had a cardiac arrest. So we, and it lasted for a long time. So we were pumping on the chest, couldn't restore function.
+
+01:34:19.490 --> 01:34:49.406
+And it was way outside the amount of time that you would have expected a good recovery. But the patient had been cooled down to 33 degrees by the time it had happened. And then we finally got the heart started. We ended up putting some restoring flow through catheters and a heart-lung machine. And remarkably, the guy made a complete recovery. So anecdotal, but cases like that suggest maybe...
+
+01:34:49.570 --> 01:35:15.518
+cooling, even a few degrees has a protective effect on the brain. We certainly know it's true for cardiac arrest and global ischemia. What are your thoughts on platelet-rich plasma, PRP? These days we hear so much about PRP, I think it's FDA approved for certain things, right? People will get blood drawn, they'll spin down platelets and then put in platelet-rich plasma.
+
+01:35:16.130 --> 01:35:45.694
+A few years ago, people were making claims out there about PRP containing stem cells. Just for the record, my understanding, I'm sure someone will argue with me online, they always do, but my understanding is that PRP contains very few, if any, stem cells, and that it's not legal to assert that PRP is stem cell therapy. But PRP seems to be something that after an injury or in anticipation of a surgery, people are starting to do more and more because they can go drop a few thousand dollars.
+
+01:35:45.826 --> 01:35:49.470
+or don't get this infusion of PRP. Does it work to help
+
+01:35:49.794 --> 01:36:17.054
+recover brain tissue or preserve brain tissue? Is there any evidence of that whatsoever? I'm not an expert on platelet-rich plasma, but my reading of the literature cursorily suggests there's not hard evidence that it's beneficial. I think one has to be a little careful. For instance, I still get emails, emails,
+
+01:36:17.442 --> 01:36:45.630
+you know, every few weeks from people saying, I've had a stroke or I've had a head injury and should I go to Russia or India or Mexico and get stem cell therapy? Yeah, this is a big topic, Gary. And you may have discussed it in another podcast. I have not. I'll do a solo episode on stem cells and what they are and what they aren't. I just will just, sorry to interrupt, but I'm aware of,
+
+01:36:45.762 --> 01:37:14.046
+a clinic in Florida that was injecting stem cells into the eyes of patients with macular degeneration and some other eye issues, and those patients rapidly went blind. Yeah, I was going to bring that up too. And that's what led the FDA to really clamp down on stem cell clinics in the US. Although they haven't clamped in on those type clinics as well as they should. But I tell patients, no, if you go out of the country, often you don't know what you're getting. If there's not an equivalent of an FDA, which is overseeing it,
+
+01:37:14.722 --> 01:37:43.006
+You don't know where they come from sometimes. They're not published literature. You don't know where they're derived. We've seen cases of patients going elsewhere, getting injections into the brain or the spinal cord and developing tumors or other problems. So I discourage that. And I was going to bring up, even in this country, these clinics. And that was published a number of years ago, that clinic in Florida.
+
+01:37:43.970 --> 01:38:08.094
+Those patients had macular degeneration and they were losing their sight, but they could still see to some extent. They had their own adipose tissue taken. They sorted it for certain stem cells, mesenchymal stem cells, and it was re-injected into the eye. Should have been safe, right? Their own cells even. And as you say, several of them went blind. Irreversibly.
+
+01:38:08.482 --> 01:38:31.166
+Irreversibly. So I think this is very important to highlight the dangers of stem cell therapy in general. There's a lot of hope for it. I mean, we're engaged. We're just finishing a trial, a first in human trial at Stanford using cells we developed in my lab 20 years ago. It took us 20 years to prove that they were safe, effective, didn't cause tumors.
+
+01:38:31.362 --> 01:39:00.798
+And the study is looking very promising. It's a phase one study, and we're making plans to do a phase two study with control patients, which you always want to do. But despite the hope, there is still a lot of hype. And I think it's very important to be careful about getting therapies that are not proven. Yeah. And while we wouldn't want anyone to take any kind of unnecessary risk, to me anyway, this goes back to the beginning of our
+
+01:39:00.898 --> 01:39:23.294
+of our conversation that there's something very different about a knee from the brain, right? I'm not saying go get stem cells injected into your knee, but should you be the sort of person that wants to do that because that you feel that's within your rights? You know, again, I don't tell people what to do. And you go to a clinic, they get stem cells or I don't know, they take stem cells from some source and put them into your knee. I mean, that's a very different
+
+01:39:23.778 --> 01:39:47.134
+situation than injecting into the brain or spinal cord. Some of the approaches to treat diseases of the brain or injuries to the brain are not injecting directly into the brain. They're injecting intravenously or intraarterial, threading a catheter up as we discussed and injecting in the brain. Those cells, it turns out, don't even get into the brain. And the idea is that
+
+01:39:47.266 --> 01:40:13.566
+in some of the better studies that have been done in animals, that they work by modulating the immune system systemically. Those cells get trapped in the lung and the spleen, which people describe as bioreactors, and modulate the immune system, which does make some sense. As I say, we think one of the main benefits of these stem cells is that they modulate the immune system
+
+01:40:13.794 --> 01:40:39.806
+And that helps with plasticity in the brain. But even intravenous delivery can be dangerous to the brain. Yeah, this is an area that we will spend a lot more time on during this podcast. Despite what you just said, I think the data I've seen from your laboratory, and as you told me, there's a trial that's finishing up now that features those data or that
+
+01:40:40.034 --> 01:41:04.254
+is where those data arrive from rather, are really impressive. I mean, some people who were largely immobile or aphasic, they couldn't speak, in some cases are able to speak or move. And that's really remarkable. It's really exciting. So I think that the future of stem cells and stroke therapy is pretty bright, at least from where I sit. Yeah. We don't want to oversell this
+
+01:41:04.386 --> 01:41:32.222
+but some of the results in certain patients are remarkable. I mean, the patients and their families have changed their lives. If you see them before and after, it's almost like a miracle. Others are not as impressive, but so far in our trial, and we've treated 17 of the 18 intended patients, almost all the patients have recovered to some extent,
+
+01:41:32.418 --> 01:41:57.662
+And many of them have improved in a meaningful way if you use certain scales. So again, we want to be cautious. We're going to do a prospective randomized blinded controlled study. And that's the way it should be done. And if that's positive, it would lead to a phase three larger study, again, blinded controlled.
+
+01:41:57.762 --> 01:42:27.198
+And if that's positive, then it would lead to commercialization, FDA approval. It's a long process. I've spent 23 years and more than $46 million in grants and philanthropy getting it to this stage. Wow. Yeah. Wow. That's a lot of time and a lot of money. Amazing. That's the way science and translation to clinical medicine is.
+
+01:42:27.714 --> 01:42:52.830
+I would be remiss if I didn't ask, you know, what are some of the things that you think could accelerate that process? Or is that just the slow iterative process that is science and medicine? I mean, for instance, if there was five times as much money, would the science progress at, you know, five times the rate? Probably not. No, but money is a factor. It's not the only factor. The FDA is...
+
+01:42:53.954 --> 01:43:22.622
+appropriately, very cautious. I think other countries, the equivalent of the FDA moves things along a little quicker, especially for therapies where there's no other treatment. I think those factors are important and would accelerate it. I think greater collaboration with industry and promoting more academic industry kinds of relationships would help because
+
+01:43:23.074 --> 01:43:52.798
+The government agencies do not provide enough money to do the final stage. You know, there's called this valley of death where you get initial encouraging data, even clinically, but you can't move the hurdle to get it into FDA approval because of money in some cases. I've seen, as an example, a number of very good stem cell therapies
+
+01:43:52.930 --> 01:44:19.038
+not make it because the companies went bankrupt. The board of directors of the company felt the results were good, but not good enough, and they pulled the funding. This is a whole area which I was not well informed of until I got into this, of how you move through the FDA and how you work with industry. I haven't formed a company yet, but I
+
+01:44:19.426 --> 01:44:43.230
+to have to because for the next trial, this trial I was fortunate to get a grant from CIRM, California Institute for Regenerative Medicine of $12 million. So that's taxpayer dollars. Exactly. Great use of taxpayer money, putting it to really forward thinking research. But the next trial and our results are good enough that we probably will only need if we do a statistical power analysis,
+
+01:44:43.330 --> 01:45:09.822
+69 patients. Initially, we thought we'd need 170 patients, but the results keep getting better and better. So now it seems we would only need about 69 patients. That will cost at least $45 million. And as the trials get larger, even more. So yeah, we need to figure out a better way to allocate money to make these advances.
+
+01:45:10.082 --> 01:45:40.048
+It sounds like a company or some role of industry is going to be necessary. Well, you might be interested in investing, right? I mean, you can't do it. Well, this podcast is always available free, the Standard Heberman Lab podcast. Our premium channel actually generates money. We do Ask Me Anythings and things of that sort. We have donors that have come in for a dollar match, and we do philanthropy to laboratories at Stanford, Salk Institute, Columbia University. We've already done that. We're going to do more of this. Well, I was being facetious. Oh, no.
+
+01:45:40.048 --> 01:45:54.654
+and we could explore it. One of the guidelines is that we fund research on humans exclusively. So we could talk about that. The former colleague of ours at Stanford once told me the joke,
+
+01:45:54.786 --> 01:46:16.958
+see if I get in trouble for this joke, which is that there are two kinds of Stanford faculty, Stanford faculty with companies and Stanford faculty with successful companies. So we'll see what comes down the pike from that. But many of the technologies and discoveries that have been made at Stanford have spun off into, there are these little companies like Genentech and other companies like that that
+
+01:46:17.090 --> 01:46:39.198
+are not strictly Stanford relations, but of course other universities too. But universities are where the basic research is done and then somebody has to implement those. Stanford's getting much better. When I came to Stanford in 1974, the medical center was more like an NIH of the West and there was not a lot of clinical excellence except for cardiac surgery.
+
+01:46:39.426 --> 01:47:05.374
+Norm Shumway, and radiation oncology, Henry Kaplan, who had developed the first radiation method for treating lymphoma. And we were great at making basic discoveries, not very good at translating them. But over the last, what, 50 years, Stanford has gotten much better at translating them into...
+
+01:47:05.634 --> 01:47:32.158
+clinical therapies, and even doing some of that work at Stanford, not farming it out to other places. So I think that's another area that we need to encourage. Well, the proximity to big tech is sort of built into the fabric of the Bay Area now. There's just no escaping that. And I think overall, it's not without its sometimes issues, but overall, I think it's a really good thing.
+
+01:47:32.290 --> 01:47:56.510
+facilitates the most rapid possible flow between basic science discovery and implementation at large. I want to make sure that we cover just a little bit about vagal stimulation. A lot of listeners of this podcast are familiar with the vagus nerve as this very extensive pathway connecting brain and body in both directions. The common idea out there is that
+
+01:47:56.674 --> 01:48:26.590
+vagus is associated with calming because it's in the parasympathetic arm of the autonomic nervous system, the so-called rest and digest pathway. But I happen to know, and I'm sure you know from experimentation and from clinical work, that oftentimes vagal stimulation is a way of bringing, say, depressed patients up to more alertness. That vagal stimulation is not always about calming. It can be about alerting the brain or making the brain more alert. So what sorts of vagal stimulation are you doing given that the vagal pathway is so
+
+01:48:26.690 --> 01:48:56.350
+like which branch of the vagus do you stimulate? It goes around the ear, it's in the neck, it goes down through the gut. I mean, we're talking basically about a super highway of, I mean, it kind of reminds me of the Austin freeway system. If you've ever driven in Austin, it's like the freeway is going every which direction. So whenever I'm there, I'm like the freeway system here is kind of like the vagus. So which avenue do you stimulate in order to get a desired effect? Right, well, for stroke, and as I alluded to, vagal nerve stimulation
+
+01:48:56.450 --> 01:49:23.582
+coupled with physical therapy, physical activity, very intensive, was the very first FDA-approved treatment for chronic stroke patients. That was approved in 2021, three years ago. And it was shown in the study that compared with non-stimulation, in other words, putting the stimulator on but not stimulating and doing the therapy, that patients did better
+
+01:49:23.746 --> 01:49:52.734
+It was a modest improvement, but it felt to be meaningful. And it was shown to be effective at 90 days, only three months. Now, recently at the last international stroke meeting this past February, it was presented, and I don't know if it's been published yet, that those results hold up for up to a year. So the way it works is,
+
+01:49:52.834 --> 01:50:21.502
+presumably, is that you stimulate the entire vagus nerve in the neck. And it's not the peripheral effects on the heart or the other autonomic organs where it's working. It's stimulation that goes back to the brain, right? Because when you stimulate a nerve, it doesn't go in one direction. And that's probably how it works for depression also, not a systemic. And the vagus has lots of connection with brain functions, right?
+
+01:50:22.210 --> 01:50:46.046
+And so it's not completely clear which areas are being stimulated to recover from stroke or improve depression. But it's brain stimulation that somehow, again, resurrects circuits or induces plasticity in circuits. Again, it's something that we're learning about.
+
+01:50:46.210 --> 01:51:16.062
+And I think not just vagal nerve stimulation, but stimulation of the brain is becoming a very important innovative treatment for many brain diseases and injuries. Is the vagal stimulation, is it invasive or can you use an external stimulator? It's invasive. You have to do an operation. It's low risk, very few side effects. Occasionally, it can cause some problems with swallowing, which are
+
+01:51:16.162 --> 01:51:38.142
+usually temporary, right? Because the vagal nerve, the recurrent vagal nerve supplies the larynx, the vocal cord. But so it's an implanted stimulator, but the stimulation can be turned on and off with an external magnet device. Incredible. Gary,
+
+01:51:38.242 --> 01:52:02.110
+Dr. Steinberg, I want to thank you for several things. First of all, for coming here today to share with us right up until the point we hit hot mics, meaning we started recording, you were getting calls about patients. I know you're still in the operating room. You were our department chair for more than two decades. 25 years. 25 years. Thank you for that. And...
+
+01:52:02.338 --> 01:52:30.974
+still just so active in this area doing cutting edge research and stem cells and so much more. So as an extremely busy person who has many important duties, you are literally a brain surgeon, to take the time out of your schedule to come here and share with us all this information about how to keep our brain healthy, the relationship between alcohol and nicotine. Fortunately, caffeine's not on the list, but don't overdo it, folks. Neuroprotection, the discussion about TBI, something we've never discussed on this podcast.
+
+01:52:31.554 --> 01:52:43.742
+transient ischemic attacks, and just a really vast survey of things that concern a lot of people, and that also now having heard what you've shared, also
+
+01:52:44.866 --> 01:53:14.846
+them in a position now to empower themselves to take some agency over their brain health, which is something that I think most people really fear that this thing inside our skulls is outside the reach of our efforts to try and maintain health. And clearly you've explained how that is not the case and there are things we can do to both protect ourselves and to overcome challenges should they arise. So on behalf of myself and all the listeners and viewers, I just want to say thank you so much. And hopefully as these trials continue to develop, you'll come back and update us on the progress.
+
+01:53:15.074 --> 01:53:41.374
+Andrew, it's been a real pleasure. Thank you for inviting me. Thank you for joining me for today's discussion with Dr. Gary Steinberg. To learn more about the research in the Steinberg Laboratory and Clinic, please refer to our show note captions. If you're learning from and or enjoying this podcast, please subscribe to our YouTube channel. That's a terrific zero cost way to support us. In addition, please follow the podcast on both Spotify and Apple by clicking the follow tab, and you can leave us up to a five-star review.
+
+01:53:41.666 --> 01:53:57.758
+Please also check out the sponsors mentioned at the beginning and throughout today's episode. That's the best way to support this podcast. If you have questions for me or comments about the podcast or topics or guests you'd like me to consider for the Huberman Lab podcast, please put those in the comment section on YouTube. I do read all the comments.
+
+01:53:58.018 --> 01:54:19.358
+If you're not already following me on social media, I am Huberman Lab on all social media platforms. So that's Instagram, X, LinkedIn, threads, and Facebook. And on all those platforms, I discuss science and science-related tools, some of which overlap with the content of the Huberman Lab podcast, but much of which is distinct from the content on the Huberman Lab podcast. So again, it's Huberman Lab on all social media channels.
+
+01:54:19.522 --> 01:54:41.758
+If you haven't already subscribed to our Neural Network newsletter, the Huberman Lab Podcast Neural Network newsletter is a free monthly newsletter in the form of brief PDFs of one to three pages that are protocols that describe things like how to best do deliberate cold exposure, deliberate heat exposure. We have a foundational fitness protocol, a neuroplasticity and learning protocol, ways to optimize your sleep, dopamine, and much more.
+
+01:54:41.858 --> 01:54:59.678
+all available at zero cost. You simply go to Hubermanlab.com, go to the menu tab, scroll down to newsletter and enter your email. And we do not share your email with anybody. Thank you once again for joining me for today's discussion with Dr. Gary Steinberg. And last, but certainly not least, thank you for your interest in science.

@@ -1,0 +1,1135 @@
+WEBVTT
+
+00:00.354 --> 00:06.398
+Welcome to the Huberman Lab Podcast, where we discuss science and science-based tools for everyday life.
+
+00:09.058 --> 00:34.846
+I'm Andrew Huberman, and I'm a professor of neurobiology and ophthalmology at Stanford School of Medicine. My guest today is Dr. Christopher Gardner. Dr. Christopher Gardner is a professor of medicine and director of nutrition studies at Stanford University. Dr. Gardner has conducted groundbreaking research on dietary interventions for over 25 years, focusing on what dietary interventions reduce weight and inflammation and for generally improving physical health.
+
+00:35.106 --> 00:58.878
+He is known for doing extremely well-controlled studies of nutrition where calories, macronutrients, so protein, fat, and carbohydrates, and food quality are matched between the different groups and not simply comparing one intervention to the so-called standard American diet as so many other nutrition studies do. As such, his work has been published in prestigious journals such as the Journal of the American Medical Association and the New England Journal of Medicine.
+
+00:59.042 --> 01:29.008
+Today, we discuss several important nutritional controversies, and we examine what the science actually tells us. First, we explore protein requirements, how much protein we actually need, and do those needs change based on activity levels, age, and health status. And I should say that even though we started out with rather discrepant stance on this, we converge on an answer that I think will be satisfying at least to most people, and then you can tailor that answer to your unique needs. We then examine the ongoing debate between vegetarian, vegan, and omnivore diets for optimal health
+
+01:29.008 --> 01:41.822
+and we dive into whether plant proteins are truly inferior to animal proteins as is often claimed. We also discuss the role of fiber in the diet and the emerging science on fermented foods and their powerful anti-inflammatory effects.
+
+01:41.922 --> 02:07.230
+Throughout today's conversation, we focus on food quality and not just macronutrient ratios or calories and how those can impact health outcomes. As you'll hear, Dr. Gardner and I don't agree on every nutritional recommendation, particularly how much protein people need and the discrepancy in views about animal-based proteins versus plant-based proteins. But by the end, I do believe that we converge on themes that everyone, regardless of their dietary preference, ought to be able to benefit from.
+
+02:07.426 --> 02:35.806
+As always, we provide you with science-based, actionable information that you can apply to your daily life. Before we begin, I'd like to emphasize that this podcast is separate from my teaching and research roles at Stanford. It is, however, part of my desire and effort to bring zero-cost-to-consumer information about science and science-related tools to the general public. In keeping with that theme, this episode does include sponsors. And now for my conversation with Dr. Christopher Gardner. Professor Christopher Gardner. So nice to meet you and to have you here.
+
+02:36.066 --> 03:05.502
+Happy to be here off Stanford campus talking to you. That's right. Even though we've both been there a very long time, it is a big place. And so we haven't had the chance to interact directly. But of course, I know who you are. And I'm very familiar with much of your work, but you'll tell us about more of it today. To kick things off, I want to know, is it possible that even though all human beings are, I presume, the same species, that some of us might thrive, perhaps,
+
+03:06.050 --> 03:34.014
+on one form of diet and others might thrive perhaps on a different form of diet. In other words, how do we justify talking about the quote unquote best diet for a given age demographic level of activity, et cetera. If one were to look at social media or even just the history of nutrition in this country, one can almost reflexively lean on the idea that, you know, maybe we all need something different.
+
+03:34.306 --> 04:04.094
+and some experimentation and discovery is needed. So do we need different diets, or is there a best diet? So there isn't one best diet, and I don't think we need different diets. We're just incredibly resilient, and we can do crazy wild things. So the way I start my human nutrition class at Berkeley with students is in the very first class, I point out the Tarahumara Indians, who are like world-class ultramarathon runners, mostly corn and beans, like total carb. And then you can look at the Alaskan Inuits, who for...
+
+04:04.546 --> 04:32.862
+centuries, lived on whale and blubber and polar bear and things like that. So that was like total fat and total carb. And they thrived. There was really no diabetes, no heart disease, no cancer. But eating all their local indigenous diets. You know, Michael Pollan has a great quote on this, the author of Omnivore's Dilemma. And he says, you know, if you really look around the world, it is amazing how much variety there is in a diet that people can thrive on, except the one that
+
+04:32.962 --> 05:01.950
+doesn't work is the American diet, the standard American diet, because it's full of processed, packaged food. And the sad thing is that the Tarahumara Indians now eat a lot of crap. And the Alaskan people and the Inuits now have a lot of packaged, processed food shipped in. And the world's all sort of centering on an unhealthy diet that is convenient, and it's inexpensive, and it's available, and it's addictively tasty, and it's problematic. So...
+
+05:02.178 --> 05:31.806
+No, there is not one best diet. It's incredible how resilient we are. So I'd love to get into that. Great. Well, there's so many facets to what we call diet or nutrition. There's the macronutrients, protein, fats, and carbohydrates. The micronutrients, there's how many calories are in there. There's how it was sourced. There's how that sourcing impacts the environment. There are just so many lenses to look at this issue through. I would like to know, because of what you just told us, that people prior to food
+
+05:32.066 --> 05:58.782
+making its way around the world from different cultures to other cultures. Food largely centered on what was grown and hunted and harvested locally. Is it possible that even though people have dispersed across the planet, sort of going back to this first question, that there is a quote-unquote best diet, meaning not that we can adapt to any diet, but that for some of us, high meat, high fat,
+
+05:59.490 --> 06:17.374
+maybe even high, let's say high protein, high fiber, just to make it a little bit less extreme, high protein, high fiber, low starch is better. And for people that are descendants of people with genes from another part of the world, that high starch, high fiber, lower protein would be advisable.
+
+06:17.826 --> 06:47.262
+For me, the best way to answer that is people come up to me quite often and say something like, Professor Gardner, I know you're all into whole food, plant-based diets, and I was vegan, I was vegetarian, I was trying that, and I had some health issues, and I switched to be more fat and more meat, and I'm almost embarrassed to be asking you this because my doctor told me I shouldn't do this either, but all my health issues have cleaned up. I'm looking really good. And I have a whole other cadre of folks who are eating food
+
+06:47.490 --> 07:15.102
+a lot of meat and a lot of fat. And they said, I went vegan, I went low-fat vegan, and all my health issues cleaned up. And I'm much better now than I was before. And it's really hard to look someone in the eye who's doing something wildly different and say, well, you're wrong, you're lying. I mean, clearly these people were really probing for the diet that was best for them. And they were following some advice that they thought was good. And they kept following it, and it wasn't working.
+
+07:15.426 --> 07:42.942
+tried something counter to that and it worked better. And they're trying to rationalize that and deal with that. So I am sure that there are different diets for different people. But at the end of the day, it's just not the packaged processed food that the whole world is leaning towards. I really appreciate that answer because as somebody who's tried various diets, I never had any serious health issues, thank goodness. But I know what I thrive on. I'm an omnivore.
+
+07:43.298 --> 08:09.854
+not that people need to know this, but I like to eat meat, fish, chicken, eggs, lots of fruits and vegetables. I eat very little starch. I wouldn't say I'm low carb because I eat a lot of fruits and vegetables and some limited amounts of starch. But having tried many, many different things, including vegetarian diet, lacto-vegetarian many years ago, and more extreme keto type diets that lean more heavily on meat,
+
+08:10.114 --> 08:38.687
+as opposed to the way perhaps keto should be done, which we'll talk about. I've just found this works really well for me. So I fully embrace the idea that different people thrive on different diets. How is it that's true? Meaning, do you think this is because of genetic, you know, our inheritance of genes from people that, you know, came from different parts of the world? And to what extent can a different diet pass through generations have epigenetic effects? Maybe...
+
+08:38.785 --> 09:06.558
+I thrive on that, and somebody else thrives on something different because of where their ancestors are from and what they've been eating for the last maybe even 300 years. That's not long for an evolutionary event to take place, but some things can happen in 300 years. So really the only classic example that's well-established is lactose intolerance and lactase, and Northern Europeans developing the ability to continue making the enzyme lactase
+
+09:06.722 --> 09:29.374
+to break apart the molecule lactose well into adult life. So the majority of the world is lactose intolerant. And if we could just do that for a minute. So when you're a newborn infant and you're having breast milk, you are getting lactose in your mom's milk. And then once you are weaned off the breast, most people in the world stop making lactase.
+
+09:29.474 --> 09:56.382
+that enzyme. And so I'm sure everybody listening to this knows someone who's lactose intolerant and either buys lactase milk or avoids milk and avoids dairy because of the GI disorders. So it really is fascinating that some Northern Europeans at some point had enough cows and dairy and ate it that they developed the ability to keep making this enzyme later in life, whereas the rest of the planet didn't.
+
+09:56.866 --> 10:25.374
+And it's not really hard cut and dry, so there's actually people who are lactose intolerant who can still tolerate some milk. There's a lot of people who can't digest it. And to be honest, it doesn't really make much sense. If you look at mammals around the planet, all the mammals, right, mammalian breast tissue breast milk, so they're all drinking the mom's breast milk until they get weaned off for food. No other mammal on the planet
+
+10:26.306 --> 10:53.022
+drinks the breast milk of another mammal to thrive later in life. So humans are the only ones who do it. It's really mostly cow milk. And it's kind of frigging bizarre, but it works for a lot of people. And so that is the classic example of sort of overcoming genes over the course of evolution. But I don't know many like that, so I don't have a better example of can people who evolved from...
+
+10:53.122 --> 11:16.318
+Africans versus Asians versus Scandinavians do anything different than that. That's the only example I've got, but could be possible. I'd like to take a quick break and acknowledge our sponsor, Eight Sleep. Eight Sleep makes smart mattress covers with cooling, heating, and sleep tracking capacity. Now, I've spoken before on this podcast about the critical need for us to get adequate amounts of quality sleep each and every night.
+
+11:16.514 --> 11:46.480
+Now, one of the best ways to ensure a great night's sleep is to ensure that the temperature of your sleeping environment is correct. And that's because in order to fall and stay deeply asleep, your body temperature actually has to drop about one to three degrees. And in order to wake up feeling refreshed and energized, your body temperature actually has to increase by about one to three degrees. Eight Sleep automatically regulates the temperature of your bed throughout the night according to your unique needs. Now, I find that extremely useful because I like to make the bed really cool at the beginning of the night, even colder in the middle
+
+11:46.480 --> 12:14.334
+of the night and warm as I wake up. That's what gives me the most slow wave sleep and rapid eye movement sleep. And I know that because Eight Sleep has a great sleep tracker that tells me how well I've slept and the types of sleep that I'm getting throughout the night. I've been sleeping on an Eight Sleep mattress cover for four years now, and it has completely transformed and improved the quality of my sleep. Their latest model, the Pod 4 Ultra, also has snoring detection that will automatically lift your head a few degrees in order to improve your airflow and stop you from snoring.
+
+12:14.498 --> 12:40.414
+If you decide to try Eight Sleep, you have 30 days to try it at home, and you can return it if you don't like it. No questions asked, but I'm sure that you'll love it. Go to eightsleep.com slash Huberman to save up to $350 off your Pod 4 Ultra. Eight Sleep ships to many countries worldwide, including Mexico and the UAE. Again, that's eightsleep.com slash Huberman to save up to $350 off your Pod 4 Ultra. Today's episode is also brought to us by Matina.
+
+12:40.514 --> 13:06.750
+Matina makes loose leaf and ready to drink yerba mate. I've often discussed yerba mate's benefits, such as regulating blood sugar, its high antioxidant content, and the ways that it can improve digestion. It also may have possible neuroprotective effects. It's for those reasons and the fact that yerba mate provides, in my opinion, the most even and steady rise in energy and focus with no crash, that yerba mate has long been my preferred source of caffeine. I also drink yerba mate because I love the taste.
+
+13:06.882 --> 13:35.390
+And while there are a lot of different yerba mate drinks out there, my absolute favorite is Matina. I'm excited to share that Matina has recently launched a series of new flavors of their cold brew, all zero sugar yerba mate. There's a raspberry flavor, there's a mango flavor, there's a mint flavor, there's a lemon flavor and a peach flavor. And they are absolutely incredible. If I had to pick one, that's my absolute favorite. It would probably be the mango or the raspberry, but frankly, I cannot pick just one. And I ended up having basically one of each every single day.
+
+13:35.618 --> 14:02.462
+Again, all of these flavors are made with the highest quality ingredients, all organic, and again, all zero sugar. If you'd like to try Matina, you can go to drinkmatina.com slash Huberman. Again, that's drinkmatina.com slash Huberman. What do you say to all these people who have wheat allergies or gluten reactions? And I want to be really careful here and distinguish between full-blown wheat allergies
+
+14:02.626 --> 14:25.118
+or gluten intolerant versus people that just don't feel good when they do this. I recently took a blood test that revealed to me I have a mild wheat, I wouldn't say allergic reaction because they didn't do the allergy test, but I have antibodies against it and dairy. And it's true, I don't like drinking milk. It makes me feel lousy. I get all, you know, mucousy and puffy. But I like,
+
+14:25.506 --> 14:54.558
+some sourdough bread, I'm sure there's wheat and a lot of sourdough bread out there. Some yes, some no. And I can eat Parmesan cheese and feel fine. But I know people that even though they're not clinically diagnosed as gluten intolerant, they feel absolutely dreadful when they have any kind of gluten. So what we're trying to do here, I guess, is there's the science, which we'll get into, and then there's people's experience. And as you pointed out, people can't get around their own experience and they probably shouldn't.
+
+14:54.818 --> 15:17.406
+Right. I think the whole world is done listening to people tell them that their experience isn't real. Right. And that's what a lot of, I think, the confusion in the world of nutrition is about. Totally respect that. Let me do the weed thing, but let me go back to lactose intolerance for just a minute. So I had an opportunity to work with a guy who raises raw milk products in California.
+
+15:17.858 --> 15:47.774
+And he was convinced this raw milk would heal lots of people of lots of things. Define raw milk, no pasteurization. Yeah, no pasteurization, which drives some health— Might as well just be drinking out of the udder. Yeah, which drives some health professionals crazy because at a large scale, you could get listeria and other issues from this if the whole thing wasn't properly hygienic. Okay, so anyway, some of his claims seemed outlandish, and quite a few of them would be hard to test, like cancer or some chronic disease. You'd have to wait decades to see that happen. But at one point, he said, and raw milk cures lactose intolerance.
+
+15:47.874 --> 16:13.886
+And I thought, that seems frigging wild. So, I mean, how would that happen? And for me, so I am a nutrition interventionist. That is like my superpower. I love designing trials to answer questions, but usually in a couple months or a year, not in 40 or 50 years. And I thought, of all the claims that you have, lactose intolerance sits on in hours. So if you wanted to know if this worked or not, you'd know right away. So I said, I will do this a
+
+16:13.986 --> 16:40.606
+This is like the most inexpensive study that I have ever run. I'm going to find people who are lactose intolerant, and I'm going to give them your raw milk, some commercial milk, and soy milk is sort of an extra control here. And all we're going to test for is symptoms. And we actually had to have some focus groups up front. Most of my studies are done in a way that I think this is going to help you, but I'm not sure. In this particular study, if you're going to do all three harms, I know I'm going to hurt you.
+
+16:40.994 --> 17:04.479
+you're lactose intolerant. I'm going to ask you to drink cow's milk. I need you to have GI distress so that I can see if on the raw milk you don't and compare to the soy milk you won't. So in our focus groups who asked, I usually don't pay people to be in our studies. I usually give them all the results of the studies and they like that. But I said, I'm going to hurt you. So how much would I have to pay you? And they said, yeah. And I said, how much? And they said, well,
+
+17:04.770 --> 17:31.102
+$250 would be okay, depending on how long this thing is. And we sort of talked about the duration, and it had an interesting design. So there's a standard test for lactose intolerance. It's objective. It's a hydrogen breath test. And so you have to drink 16 ounces of milk in one setting fairly fast. And then you every half hour breathe into a tube, capture the gas, and put it into this breathalyzer.
+
+17:31.490 --> 18:00.926
+And it'll tell you if there's hydrogen there. And if you have not digested the lactose, it'll go to your colon. The microbes will eat it up. It'll generate hydrogen. You'll absorb that, and you'll exhale it. So it's a very objective test of whether you are or aren't digesting your lactose. So they said, yeah, we would do this if the dose after we did the test was four ounces of milk one day, and then 8, 12, 16, 20, 24. And I said, it's only going to be a week.
+
+18:01.634 --> 18:29.598
+And you can stop whenever the symptoms are intolerable. I don't want you to be in pain for this. You're not kicked out of the study. I'm really curious what dose it would take for you to react to this. And on the soy milk, you won't react at all. There's no lactose. So it'll just be this question between the cow milk, the commercial one, and the raw milk. So the first part of this study was recruiting. And so he had to say, to be eligible for this study, you have to fail the hydrogen breath test and you have to complain that
+
+18:30.082 --> 18:55.838
+about symptoms. So you have to be intolerant and objectively, not subjectively, fail this thing. And so we ended up with 16 people in the study. It wasn't a big deal. They did all three arms. And 50% of the people who swore they were lactose intolerant failed the breath test. Like their hydrogen didn't go up after they drank 16 ounces of milk. But did any of them feel lousy? Yes. Yes.
+
+18:57.026 --> 19:26.686
+And so I couldn't look at them and say, sorry, you're not lactose intolerant. You're lying to me. I had to say, you have failed our test. Our inclusion-exclusion criteria meant that you have to feel these symptoms and you have to have this response. Interestingly, so we had Asian, black, Hispanic, white. It was all the Caucasians that failed the test that said they had symptoms and didn't pass the hydrogen breath test and show that their hydrogen winch up, which
+
+19:26.850 --> 19:56.350
+pretty much parallels lactose intolerance is usually in non-Caucasians. So I'm sort of leading up to this point of they had symptoms. They complained. They attributed it to lactose intolerance. But technically, they weren't. Something else was bothering them. Maybe it was small intestinal bacterial overgrowth, the SIBO. Now flip that to wheat. Before you do, I want to know, did raw milk help? So I just have to know. That's not fair. No, not at all.
+
+19:56.706 --> 20:23.710
+So they had the same exact symptoms on the raw milk as the conventional milk. Sorry, that was like the punchline of the whole story is it didn't help at all. It was absolutely identical. But it was a really easy test to study definitively. 16 people might not seem like a lot of people, but because GI disorder is so easy to detect, you either had diarrhea and gas or not. It was very, very proud of that tiny little paper study.
+
+20:23.938 --> 20:51.774
+Tiny little study we did, although this raw milk company still on their website says they cure lactose intolerance. So this is a different issue altogether. So let's not go there, but let's flip that to wheat because so my concern in the world of wheat and gluten intolerance is, yeah, it's amazing how many people feel some distress. And if they were tested, you might find out that they're not clinically gluten intolerant, or I'm sure that's a continuum.
+
+20:52.482 --> 21:17.790
+But I think this actually has to do with our food supply. So in a lot of foods that we grow, historically, there were multiple brands of, or types of bananas and corn and wheat, et cetera. And in the U.S., we pretty much grow one kind of corn and one kind of wheat, monocropping, massive amounts. And Americans in particular, of all the grains that people eat around the world, Americans eat wheat.
+
+21:18.402 --> 21:41.726
+I actually had to do a paper one time where we were sort of trying to determine how much protein came from different sources, how much from meat, how much from dairy, how much from grains. And I was very intrigued to see that this USDA database said, here's our value of protein from grains. And by grains, we mean wheat and oats and rice and quinoa and everything with a little footnote that said, because
+
+21:42.082 --> 22:09.854
+90% of the grains Americans eat is wheat. We basically just used the wheat value for this, and we didn't use the others. And I thought, oh my God, with rice and oats and everything else out there, 90% of the grains Americans eat is wheat. But think about it, bagels, pastry, breakfast toast. Even pizza crust. Pizza crust. We eat an insane amount of wheat. So one of my
+
+22:10.978 --> 22:40.766
+favorite graphics, and sorry, maybe we'll get into this later, sort of looking at the types of carbs, fats, and proteins that people in the U.S. eat. And I'll have more details if you want to do this later, but 50% of what Americans eat for carbs is carbs, and 40% is crappy carbs, added sugar, and refined grains, which is mostly refined wheat. And 10% is healthy carbs. And so I think what Americans are eating, and I think the gluten intolerance of
+
+22:41.954 --> 23:02.718
+has to do with wheat being such a predominant grain source when it doesn't need to be and very little variety in the wheat. I know there's actually some folks out there that are trying to bring back sort of some heritage versions of different wheat grains. Kamut and I'll
+
+23:03.106 --> 23:31.134
+buckwheat and what are some of the other ones? Farro and wheat berries. I actually make a kick-ass wheat berry salad if you want to get into that later. But of all this refined wheat that we're eating, to your point, I think, God, isn't that amazing that so many people are now coming up with gluten intolerance? What is going on? I think it's because we eat so much wheat, so much refined wheat, and it's really just one kind. I have heard, I don't know if you've had this experience,
+
+23:31.362 --> 24:00.478
+I've had Europeans come and say, you know, I ate a lot of bread in Europe and I come here and I'm like gluten intolerant. And then I go back to Europe and I can have bread again. And I don't know this, so I'm not a food scientist, but I think that's part of it. Yeah, very interesting. And I know a lot of people listening are extremely curious about this issue of real versus not clinically diagnosed food allergies, but just negative experiences with food. So-
+
+24:00.770 --> 24:19.806
+How many people are actually gluten intolerant? You hear about celiac disease. I mean, people will also now know the names of these things, so they just kind of throw them out there, whether or not they have them or not. And how many people do you think actually struggle with a wheat intolerance, like a wheat sensitivity? Seems like there's millions and millions of people.
+
+24:20.162 --> 24:47.902
+Yeah, not my area of expertise. Really can't speak to this effectively. Do know that for a basic nutrition class that I teach, I was looking at a survey of celiac disease and testing people for it. And even like half the population with full-blown celiac disease didn't know they had it and were consuming wheat. And so even if you have it, there's a range of response. You could have and just think, oh, my stomach's grumbling. Huh.
+
+24:48.674 --> 25:16.606
+doesn't bother me that much. Whereas you have some people who don't have full-blown celiac and they have some gluten intolerance and a small amount bothers them. So even in there, there's some wiggle room that's hard to explain where you can't look somebody in the eye and say, sorry, I've diagnosed you. You don't have this. So it is really important for people to acknowledge and own what they feel and to look into it. Let's talk about processed foods. That gets a lot of attention nowadays. And there are
+
+25:16.706 --> 25:43.998
+I think we need to parse what we mean by processed foods. I'll just ask this in a very direct way. There are the so-called food additives, the dyes, the binders, the other things that are in processed foods. We should talk about that. There's also the issue of caloric density relative to macro and micronutrients, right? A lot of calories, but not a lot of nutrition, so to speak. And then there are probably 10 other things
+
+25:44.162 --> 26:12.766
+about what processed food is and what it isn't, like tends to be low fiber, high calorie, low fiber, for instance. So let's start with these food additives. This is very much in the media space now, and it's controversial. The dyes, like they just banned another red dye number 40, I think it was, but the fact that I can't remember which one just tells you that there are a lot of them. What about these dyes? How bad are these dyes? That was on the basis of a rat or rodent study rather. How much does food,
+
+26:12.898 --> 26:41.822
+do food dyes concern you as somebody who's spent so much time in this, studying this stuff, nutrition? Don't concern me more than any of the other things that are in the packaged processed foods, and partly because those are almost impossible to study. So in my world, if somebody says this thing is a concern, a health concern or health benefit, I have to think, how would I study that? And what is the outcome? So really my world is what is the exposure and what is the outcome? Can I get funded to do that? And if that
+
+26:42.018 --> 27:07.006
+outcome is heart disease or cancer or diabetes, I immediately write it off. I can't wait till somebody dies or goes to the hospital. I won't be able to publish my paper and I won't be able to keep my job at Stanford. I have to publish quicker. So most of my career has been very cardiometabolic oriented. So I can move somebody's blood cholesterol, blood glucose, inflammatory markers, insulin in weeks.
+
+27:07.618 --> 27:35.262
+And sometimes say, oh, my God, how come you didn't do this for years? Well, because most of the effect happened in the first two weeks. I did it for eight weeks or I did it for six months. But really, the effect plateaued in weeks if it was the cardiometabolic risk factor here. So if you want to ask me what a dye does, I'd have to randomize people to sort of get the exposure or not. So the same food with or without the dye. And I would have to have an outcome. And there's really not many...
+
+27:35.426 --> 28:04.958
+outcomes, your cholesterol wouldn't move. Your blood glucose wouldn't move. If it was the same for everything except the dye, those measures would not move. So the idea is you give it to a rat in a huge dose and you see if they get cancer. And it makes metabolic sense. That creates a plausibility that this is a carcinogen. But it's really hard to test and think of. You just said you couldn't keep track of how many red dyes there were or blue dyes or yellow dyes.
+
+28:05.634 --> 28:32.062
+combined with emulsifiers and gelling agents and colorants and anti or glazing agents. There's a list. So this NOVA classification put together by Carlos Montero from Brazil is like the hot topic in the world of ultra-processed food. So for the last decade, if you will look, paper's coming out every month talking about ultra-processed. And if you look at that paper, it's the NOVA classification.
+
+28:32.194 --> 28:55.230
+So an interesting thing, just to make this clear, and we can stop if this is too far down the rabbit hole, but the NOVA classification is agnostic to nutrition. He doesn't care how much fat or cholesterol or fiber is in there. His whole point in making this was there's something beyond that. I know we're worried about lack of fiber, too much saturated fat, something else, but...
+
+28:55.554 --> 29:25.438
+isn't there something to the colorants and the flavorants and the gelling agents, et cetera, that could be separate from all this? And he, in his analyses, said, if I parse that out in the data that I'm looking at, that has an additive effect to all these other things. And he's made a big case for it. And people are publishing papers on it all the time. The American Heart Association has a scientific advisory on this. And I've seen the table. It's in our advisory. There's 150.
+
+29:25.858 --> 29:53.086
+different molecules in this list that come into the different categories. And if you look through the whole list, you would be a little shocked. So for one thing, turmeric is in the list of colorants. So technically turmeric could move you into the ultra-processed category, but turmeric is full of curcumin and people are really excited about the possible health benefits of turmeric. Pectin is in there. People have used pectin for years to make jams and jellies and things like that.
+
+29:53.826 --> 30:22.110
+And there's some horrific names that you can't even pronounce in this thing, which I've looked for in foods, and I can't find many of the horrifically named things in any real foods that people eat. Anyway, there's 150 chemicals in this list. And it's really intuitively appealing. It's like there must be something beyond just these nutrients. Oh, my God, the food industry is out of whack here. And if we could pull in one other term, it's grass, generally recognized as safe. And so...
+
+30:22.658 --> 30:47.518
+Decades and decades ago, the FDA said, wow, there's a lot of these things that the food industry is putting in foods. To do an appropriate test to see if this would harm humans is really not feasible. Plus, in my world, I can't really do studies where I'm going to harm people. I need you to sign up and your staff, and I'm going to randomize you to see who I hurt first and
+
+30:47.714 --> 31:13.086
+And once I know who I hurt, I'll know if I need to remove this from the food. So they'll do it in mice or they'll do it in rats or they'll do it in a Petri dish to see if it's plausible. And at one point, there were 800 of these grass items, and I think it's grown to 10,000. There's a whole bunch of ingredients that the food industry can put into foods because of this grass sort of byline, this option that's
+
+31:13.186 --> 31:43.102
+Certainly problematic. So we have the NOVA list of these additives. He calls them cosmetic additives. So let's pause just for a minute to think of that name. So the cosmetic means it's to make the food look good. If you're going to go buy it on the shelf, I mean, think just for a minute of an emulsifier. If you went to buy something and it was separated on the shelf, you thought, wow, I don't really want that. It looks like it's half this and half the other thing. Let's say it was a salad dressing. I would want the salad dressing to look all good.
+
+31:43.202 --> 32:11.134
+Like somebody shook it up and I don't want to put the parts on my salad. I want to put the salad dressing. So the cosmetic additives are to make it look good. And that's why we have dyes. I don't think I want to buy that gray thing, but I would buy the red or the yellow or whatever color it is. So those different additives are going in to make it look more appealing or feel more appealing or smell more.
+
+32:11.522 --> 32:39.358
+more appealing instead of just being food. So it does make sense that this is sort of, we've gone too far. We have this incredible food system that makes inexpensive food very available for a lot of people 24-7. And we just went too far. It's too available. It's too inexpensive. It's too stable on the grocery shelf place there so that like three months from now, no bugs have eaten it.
+
+32:39.810 --> 33:07.998
+It hasn't gone bad. Isn't that good economically that it hasn't gone bad, but isn't it a little scary that the bugs don't even want to eat it? Because they can tell there's no nutrition in here. So yeah, the processed food issue is very interesting. It's fasting that RFK Jr. wants to handle this. And a lot of us are really excited that somebody would like to take a real firm stance here because it is out of whack. That's super informative and interesting.
+
+33:08.674 --> 33:36.894
+I appreciate it for several reasons. One that I'd like to highlight in particular is how now several times you've described that to do a proper study, you need to manipulate variables one at a time. You just can't do the sorts of studies that one would like to do where you manipulate 10, 20, 40, 100 variables of dyes and colors in people and do that in a reasonable amount of time. As you mentioned, either people would all be dead or
+
+33:36.994 --> 34:05.758
+there'd be no more funding for the government for any purpose after a study like that was done. It's just too expensive, too time consuming. The other thing is, given what you just told us about these additives, wouldn't it just make the most sense to just ban them all? Yep, it sure would. And that would wipe out 60% of what's in a grocery store right now. And if somebody went in to buy food for their family and 60% of the food was gone and we hadn't replaced it,
+
+34:06.018 --> 34:32.798
+with food that is more nutritious but meets their budget and is accessible, that would be criminal, to be perfectly honest. And that's why the health community is trying to figure out how to react to this. So part of this is, I'll just take an example, several examples of things that fall into the line of these ultra-processed foods. There's actually quite a few whole wheat breads, yogurts, salad dressings, and things like tomato sauces.
+
+34:34.498 --> 34:54.046
+So picture a very inexpensive quick meal for a family where the parents have three jobs. They're trying to make ends meet. Sure, it'd be great if they could be home growing their garden and scratch cooking all day, but they can't. So they come home, they cook some pasta, they heat up some red tomato sauce, and they pour it on top. More nutritious than, let's say, a fast food something or other.
+
+34:54.946 --> 35:22.974
+So if you take that tomato sauce away and they whip together a little salad and the kids don't want to eat the raw vegetables that are just plain. They want some salad dressing on it. You picked up some salad dressing. And for breakfast, they were going to have some yogurt or whole wheat bread. So they're going to make some toast and put some avocado on it and have some avocado toast. And it said whole wheat bread. All four of those things could have met the criteria for ultra-processed food. So you take those off.
+
+35:24.034 --> 35:52.926
+They can't have the salad. They can't have the pasta. They can't have the yogurt. And they can't have the avocado toast because you took those all away. Unless we had seen that and said, yes, we know these should be replaced with more nutritious food that don't have the cosmetic additives. And until we get to that place, you can't get rid of them all. That's just cruel. Yeah. No, it's a wonderful, sad, but important, excuse me, example of...
+
+35:53.826 --> 36:12.414
+the challenges that people face in terms of how to feed a family. And at the same time, we could wage the argument that people in Europe, you know, have families, they work very hard and their grocery stores include a lot of
+
+36:12.706 --> 36:41.950
+ultra processed foods and processed foods, but also a lot of fruits and vegetables. And as we talked about before, maybe more variety of grains, et cetera. So we don't want to paint a picture of like the French countryside where everything is grown and harvested and searching for truffles during the morning. I spent some time in the South of France and they actually do this. People there spend an immense amount of time and energy thinking about what they're going to eat, preparing that food, eating it and talking about other great meals they've had while they eat it. And even people without large budgets
+
+36:42.242 --> 37:11.326
+at least at that time, ate exceptionally high-quality food in reasonable amounts, and it was incredibly delicious. So there are areas of the world where people do this, but Northern Europe, there's a lot of processed food. And at the same time, we don't see the same sorts of issues with obesity, at least not to the same degree that we do in the United States, the same chronic health and metabolic issues that we see here. So if we were to compare and contrast, just because they're closest—
+
+37:11.458 --> 37:36.990
+a Northern European grocery store and family, and the North American grocery store and family, which you just described, you illustrated for us, I think a fairly representative example, what's different? What are they eating for dinner that's different? Is it that the tomato sauce doesn't contain these dyes, that it doesn't contain sugar? And what are they replacing those foods with if they're replacing them at all?
+
+37:37.218 --> 38:04.926
+So probably at least two answers, and one of them is going to be, I can't tell you how many Europeans or other folks from other countries have said, I bought the same product that I buy in my home country here, and it has twice as many ingredients. It's the same company. It's the same food. It could be, what's the hazelnut spread? Nutella. Nutella. Like, here's the Nutella you sell here, and here's the Nutella I buy there. I've had multiple people bring those up to me and show me.
+
+38:05.282 --> 38:34.142
+the different ingredients. And so it can be made the other country way, but in the US, it's made another way for Americans. So if we could even just make that move, if we could say, okay, you already make this in another country, another way, can you just make it the same way in the US? That would be a start right there. Why is it that there's this discrepancy in ingredients? This became very much in the media recently with Fruit Loops
+
+38:34.274 --> 39:00.062
+It was argued, I don't know if this is true, but it was argued that Fruit Loops in Canada are colored with carrot juice and beet juice and Fruit Loops in the United States use artificial dyes. And I can't verify that. I don't know that to be true, but I think a number of examples pointed to that possibly being true. Why would you have a system like ours if other people can do it presumably for same or lesser cost? I agree. I can't back up that one statement either.
+
+39:00.418 --> 39:30.238
+but I think that is true for reasons that I can't explain. And that's why it would be helpful to talk more to the food industry. I think there are some challenges with this reaction against ultra-processed foods. I think there are some problems with NOVA that I brought up earlier. You'd have to make those foods accessible, but some of them you could fairly quickly if you took advantage of some of the other ways that people are making it and the rules are just too loose in the U.S. So I think that's important. And the level of...
+
+39:30.690 --> 39:59.358
+which this could be impactful is not educating the public to look at the back and find the ultra-processed cosmetic additive and removing it. It's to say that we're going to do this, and the food industry will say, I'm going to have to reformulate. If somebody's going to buy my product, if they're going to call me out on this, not only am I going to have to reformulate, it won't be hard because I do it in another country, and I could reformulate, and so that ingredient will be gone.
+
+39:59.650 --> 40:27.934
+I should ask directly, for your research, do you take funding from companies in the food industry? So several times. So I've got avocado money. I took soy money. Most recently, I took Beyond Meat money. Let me talk about the Beyond Meat, which was the most recent one. I pitted Beyond Meat versus Red Meat for cardiometabolic outcomes. And the Beyond Meat won in several categories over the Red Meat. And I got a lot of grief for that. People love their Red Meat, including me. Yep.
+
+40:28.034 --> 40:52.958
+Yeah, I'll go easy, but I'm not going to go completely easy. Oh, my God. Gardner's an industry shill. All he does is take – no, most of my money does not come from there. But I actually couldn't get NIH funding to do that because they would say, wait a sec, Beyond Meat makes a crap ton of money. They just sold their IPO. Why would we fund that research? Let the food industry fund that. That actually happens all the time. And we could get into how problematic that is or isn't. It's certainly at least somewhat problematic.
+
+40:53.346 --> 41:22.782
+that the company is funding the research that will test their product. But more interesting to me was that this was sort of Beyond Meat 1.0. And Beyond Meat actually did better than the red meat. And they actually, after that, took out the coconut oil, took out some other ingredients, added some more benign ingredients, and they've actually reformulated multiple times. And so by reformulating, even though the study we did showed they had a benefit,
+
+41:23.394 --> 41:51.166
+I totally respect that. They're like, they are listening. They're looking at the health concerns. They're trying to be responsive. And I think if the food industry as a whole did this and we could work more closely with them, that would be the way to improve the U.S. food supply as opposed to we have a new thing. It's Nova. Get rid of them all. That won't really work. So I'm hearing two things. One, we need to pressure the food industry to reformulate.
+
+41:52.066 --> 42:21.214
+get rid of these additives dyes, what you call cosmetic additives that may or may not be deadly, certainly not in the short term, but that in the long term could very well be problematic. We just, we need to do something to make sure that that stuff's removed. It just doesn't make sense to hedge on that one. And we can look to Europe and other places that don't. Clearly, if nothing else, they've proved that you don't need these things in the foods for them to have a stable shelf life, et cetera.
+
+42:21.634 --> 42:49.054
+Okay. So that's one. The other is this issue of, of food industry funding of, of studies because, you know, I'm not an expert in nutrition, but I pay a lot of attention to the way that nutrition and health is discussed online. I mean, that's my business more or less. And every time somebody hears that a researcher took money from a company to run a study, they assume that there's bias. Um,
+
+42:49.666 --> 43:15.262
+In fairness to you and to the process, I'll just ask, are they able to influence the question? Certainly not the collection of data. I mean, you know, the data are the data. Your graduate students and postdocs are the ones who actually run these experiments. Presumably have a hypothesis at the beginning. They ask a question and then try and disprove that hypothesis. But does the company say we want you to test
+
+43:15.394 --> 43:44.734
+a given hypothesis or is it funding for you to test a hypothesis that you select? In other words, is there a good separation of concept? Um, clearly the money issue gets people inflamed, but it's a very different thing when a company says, Hey, can you test whether or not our product outperforms in terms of cardiometabolic markers compared to red meat versus, Hey, listen, you know, you want to study, you want to study cardiometabolic markers in people that consume beyond meat versus cow meat. Um,
+
+43:45.058 --> 44:07.646
+Okay, we'll fund that. It seems subtle, but it's not so subtle because in one case, they have an endpoint that they're interested in. In the other case, you have an endpoint that you're interested in. It's not a simple answer to that because it's not a yes, no question. It's a total continuum. So they could say, we'll give you this money if you'll do that. They could say, we'll give you this money to do anything you want, but tell us about it as you go.
+
+44:08.194 --> 44:37.758
+You could write up the results. I'll give you the most interesting personal experience that I had in this. So everything was pretty benign all the way up till when we got the study done. And this had to do with cognitive impairment. And so I'm not going to even talk about the product. I'll just set this up because I think you'll find it interesting. So it turns out the people we recruited had pretty high cognitive ability. There's a survey you can take. And I think 50 was the top. And everybody who signed up was a 45.
+
+44:38.466 --> 45:05.406
+And we were kind of looking to see if this supplement could increase cognitive ability. But we should have realized in the beginning that there wasn't much room to increase. They were 45 out of 50 to begin with. And it failed to show that the product increased cognitive ability. So we shared it with the company. And they said, well, I can see you're saying there's a null finding here, but could you also say there was no deleterious effect? And I said, no.
+
+45:05.954 --> 45:34.142
+We weren't looking for a deleterious effect. We were looking for an improvement. They said, yeah, but isn't it also true that it didn't make it worse? I thought, that's actually true. It didn't make it worse. Could I, to make these guys happy and to maybe get more money later, should we say it didn't make it worse? So that would be a really subtle influence that they could have later on. In theory, they could market with this supplement maintains high levels of cognitive performance. Something like that. And be truthful, but not giving the whole picture.
+
+45:34.690 --> 46:03.518
+And at the end of the day, really, the important thing is to look at the study design. So let me, I think I can flip this to something that's way more practical than that. It's not even industry influence. It's the investigator influence. So in my world of nutrition, and this is going to go back to the parking lot of not doing one thing at one time, but doing multiple things at one time. Let's say I want to study vegan or paleo or keto or something like that. I can have diet A versus diet B and make a kick-ass diet A.
+
+46:03.682 --> 46:33.182
+and a crappy diet B. So it's really unlikely that B will win. And then I published that, and there's a headline on it, and then there's someone else who actually favors a competing diet. They start a study. They make a kick-ass diet B and a crappy diet A, and the diet B wins because they set it up that way. No industry influence at all here. This is investigator influence. And then the public comes and says, what the hell? It said diet A is better one day, and it said diet B is better than the next day.
+
+46:33.314 --> 47:02.078
+my God, you nutrition scientists never agree on anything. I'm just going to go have a burger. I was like, ah, if you had looked at the design. So one of my favorite new words in nutrition is equipoise. I've been trying to set up studies where it's the best diet A that you could be and the best diet B. So if I can just riff off a couple of things, one of my most famous studies is diet fits. It had to do with a low carb, low fat diet, 600 people for a year.
+
+47:02.178 --> 47:27.518
+This is an $8 million study. This is the 2018 study? Yeah. And I told the dieticians, I said, I don't really care which one wins. We actually think there's some genetic predisposition or metabolic predisposition. It'd be great if everybody won. But just to test this fairly, I want all the dieticians to be advising the 600 people in this study. You have to teach both low-fat and low-carb. You get assigned to different groups.
+
+47:27.842 --> 47:54.046
+and teach the best low carb you can and the best low fat you can so that if one wins at the end, we can say we gave both of them a fair shot. When we did swap meat, this is our study, the study with appetizing plant food, meat eating alternative trial, swap meat trial with Beyond Meat, what should we pick for the red meat? Should we pick fast food? Should we pick? We went to San Francisco,
+
+47:54.562 --> 48:23.870
+and got good eggs, which prides itself on getting organic, regeneratively farmed, pasture-raised, so we wanted to get a good quality red meat. We did a study with a vegan diet versus an omnivorous diet. And so for the omnivorous diet, we went to a company that makes really good food, and we have it delivered, versus vegan. We did ketogenic versus Mediterranean, and we made a good Mediterranean diet, and we did Jeff Fulick and Steve Finney's well-formulated ketogenic diet
+
+48:24.994 --> 48:46.174
+as the comparison. So in all these, our group has been having fun trying to address your comment separate from industry influence, just to try to make the two arms as fairly competing against one another as you can. Going back to the industry one, there's no way to
+
+48:46.434 --> 49:16.286
+to pull it off 100% clean. There's just no way. There's so many subtle things that could happen. So the thing that does help these days is you have to register your trial on clinicaltrials.gov to start with. You have to name the primary outcome ahead of time and the whole study design for the world to see. So if it gets to the end of the study and you switched it, somebody will say, calling you out on BS. That wasn't your primary outcome. You can have a third party analyze your data. You can lock down the data at the end
+
+49:16.482 --> 49:44.926
+You can make the data publicly available. There's a couple more of these steps that you could... This is as transparent as I can be. So you can make the chance of industry influence lower, but you can never eliminate it. So if I find a positive result, maybe they'll fund me again later for something else. Even though they didn't... Some of the industry folks... Like I often get GIFs. If it's a GIF, they can't demand to see anything.
+
+49:45.250 --> 50:09.534
+But I can offer to show them what happened. And if I show them and they say, hey, would you consider doing this? I'd be pretty stupid to say, no, you gave me a gift and I'm not going to consider the thing you said. I would say, yeah, I'll consider it. I will look at it. And I want to present objective data. But I don't think it's the industry as much as the investigator and how they handle it.
+
+50:11.138 --> 50:25.790
+As many of you know, I've been taking AG1 daily for more than 13 years. However, I've now found an even better vitamin mineral probiotic drink. That new and better drink is the new and improved AG1, which just launched this month.
+
+50:25.890 --> 50:53.054
+This next-gen formula from AG1 is a more advanced, clinically-backed version of the product that I've been taking daily for years. It includes new bioavailable nutrients and enhanced probiotics. The next-gen formula is based on exciting new research on the effects of probiotics on the gut microbiome, and it now includes several specific clinically-studied probiotic strains that have been shown to support both digestive health and immune system health, as well as to improve bowel regularity and to reduce bloating.
+
+50:53.186 --> 51:23.152
+As someone who's been involved in research science for more than three decades and in health and fitness for equally as long, I'm constantly looking for the best tools to improve my mental health, physical health, and performance. I discovered and started taking AG1 way back in 2012, long before I ever had a podcast, and I've been taking it every day since. I find that it greatly improves all aspects of my health. I just feel so much better when I take it. With each passing year, and by the way, I'm turning 50 this September, I continue to feel better and better, and I attribute a lot of
+
+51:23.152 --> 51:24.350
+that to AG1.
+
+51:24.482 --> 51:54.448
+AG1 uses the highest quality ingredients in the right combinations, and they're constantly improving their formulas without increasing the cost. So I'm honored to have them as a sponsor of this podcast. If you'd like to try AG1, you can go to drinkag1.com slash Huberman to claim a special offer. Right now, AG1 is giving away an AG1 welcome kit with five free travel packs and a free bottle of vitamin D3 K2. Again, go to drinkag1.com slash Huberman to claim the special welcome kit with five free travel packs and a free bottle
+
+51:54.448 --> 52:04.926
+of vitamin D3 K2. Today's episode is also brought to us by BetterHelp. BetterHelp offers professional therapy with a licensed therapist carried out entirely online.
+
+52:05.026 --> 52:34.992
+I've been doing weekly therapy for over 30 years. Initially, I didn't have a choice. It was a condition of being allowed to stay in school. But pretty soon I realized that therapy is an extremely important component to overall health. In fact, I consider doing regular weekly therapy just as important as getting regular exercise, which of course I also do every week. There are essentially three things that great therapy provides. First of all, great therapy provides a great rapport with somebody that you can trust and talk to about any and all issues with. Second of all, great therapy provides support in the form of emotional
+
+52:34.992 --> 53:01.406
+support or directed guidance. And third, expert therapy can provide useful insights. Sometimes those come from the therapist, sometimes you realize those yourself in the course of therapy, and sometimes you arrive at those insights together. Those insights can allow you to make changes to improve your life in immeasurable ways, not just your emotional life and your relationship life, but also your professional life. With BetterHelp, they make it very easy to find an expert therapist you resonate with and that can provide you these benefits that come through effective therapy.
+
+53:01.602 --> 53:25.886
+If you'd like to try BetterHelp, go to betterhelp.com slash Huberman to get 10% off your first month. Again, that's betterhelp.com slash Huberman. When it comes to, well, let's just close the hash on the industry funding part because I know that's going to get some people's hair standing up a little bit. Is there a world where
+
+53:26.850 --> 53:50.206
+don't have to rely on industry funding to do these studies i mean my first response is is like um why go there why not just i mean we have a national institutes of health um they fund studies on everything from developing novel molecules for the treatment of parkinson's to studying the effects of breath work on cancer outcomes i mean i mean it's a
+
+53:51.362 --> 54:20.510
+Nowadays, it's a very wide range of topics that the NIH embraces, but I think most people don't realize this, and everything in between. So why not just go to NIH for the money? Historically, the proportion of the NIH budget that goes to nutrition studies is infinitesimally small. There's been many requests to create an institute of nutrition. Personally, that would be pretty selfish. I'm all in. I wish they would have more resources for me
+
+54:20.610 --> 54:50.238
+to do those kinds of studies with objective money. My guess is Robert Kennedy would be a fan of that sort of thing. I'm not speaking about this with any political affiliation, but he seems to care a lot about getting dyes and additives out of food and cares a lot about the food supply. At least he stated that. And NIH is currently in a state of massive revision right now. Pause slash revision. And I would imagine they would allocate more funding for
+
+54:50.338 --> 55:19.902
+studies of nutrition, given who's in charge now? The bigger challenge is how many nutrition questions there are. So I just served for two years on the Dietary Guidelines Advisory Committee. We had two years to consider 60 different questions. Each one of the questions generated sub-questions. The vast majority of questions resulted in a conclusion that's either not enough data available or only enough data available
+
+55:20.354 --> 55:48.254
+to generate a limited strength response. To get a moderate or a strong, more data are needed. This was almost mind-numbingly repetitive through the whole two-year process. More data needed, more data needed, more data. And this had to do with snacks, skipping meals, heart disease, diabetes, cancer, pregnancy, infancy, processed foods, seed oils, meat and protein,
+
+55:48.930 --> 56:18.174
+The questions are pretty endless. So even if you opened up the NIH and said, yeah, we're going to move 25% of our budget to studying nutrition, you wouldn't even come close to answering all the questions that the public has right now. Yeah, that's an important point. And I would say that the public is also doing these experiments. You know, the health and wellness community catches a lot of flack from the standard scientific community. They'll say, you know, supplements aren't regulated. They are regulated. There is a variety of
+
+56:18.338 --> 56:46.814
+qualities across brands and probably even supplements within brand. But the experiments are ongoing. You have people who are carnivore. You have people who are vegan. You have people finding what works for them. They eliminate this or they add that and they're becoming scientists for themselves. And we've really decentralized nutrition science, in my opinion. That's just my little editorializing. You mentioned this 2018 study, and I'm so glad that you mentioned –
+
+56:47.042 --> 57:16.766
+your efforts to remove investigator bias by making the vegan diet not like crap vegan food and not making the meat diet all processed meats because that's happened in a lot of studies. And then that's why the headlines are so confusing over the years or even within a year. So could you just share with us the major results of that study, what the key takeaway was so that people who heard, oh, I heard paleo, vegan, vegetarian, Mediterranean and omnivore, which diet was best, if any?
+
+57:16.866 --> 57:45.854
+And for what purpose? Yeah, at the end of the day, my take, if you put all of my studies together, it's a whole food plant-based diet, which does not mean vegan and doesn't mean vegetarian, but could. Wait, plant-based, but includes meat? Yeah, so I don't like this new thing about plant-based being vegan. Sorry. It's a terrible name. So let's just do this for 60 seconds. So pescatarian, lacto-ovegetarian, lacto-vegetarian.
+
+57:46.306 --> 58:14.910
+Ovo-vegetarian, vegan, flexitarian, reducitarian. Oh, my goodness. There's all kinds of words out there. And clearly, one of the ones that doesn't go over well is vegan. Vegan is very polarizing. And a lot of that is because the vegan community, an important reason many of them are vegan is animal rights and welfare. And it becomes sort of a condescending thing. Oh, my God, you're so unethical and immoral. You slaughter animals and eat them. I am holier than thou. I don't.
+
+58:15.170 --> 58:44.766
+Well, and then it gets into issues whether or not a vegan is wearing leather shoes or not wearing leather shoes. And the vegan community historically was very closely tied to the animal rights community, some of which were radical animal rights activists that blew up buildings and worse. I know people have been targeted by those explosions. I have been plant-based vegan for many, many years, and I haven't blown up any buildings and I haven't thrown any red paint on anybody wearing a fur. But because that was so polarizing...
+
+58:45.698 --> 59:13.598
+Recently, and I think this is going to have a backlash and it's going to be failed. People have been using plant-based as a different word for vegan. Just like, oh, we're not the polarizing group. We're the plant-based, which is not polarizing. So I've been doing this for 30 years. When I said plant-based for the last 20 years, I meant most of it's plants and some of it's dairy and some of it's meat. So I actually use it differently.
+
+59:13.730 --> 59:42.974
+than what it has just morphed into recently. So when I say whole food plant-based diet, that could be 25% animal products, it could be 30% animal products, it could be 10%, it could be zero animal products, but it'd be mostly plants. This is sort of Michael Pollan's old eat food, not too much, mostly plants. So that's what my research would suggest. The vegans did better than the omnivores in our twin study that was featured on Netflix.
+
+59:43.170 --> 01:00:12.414
+the Mediterranean versus the keto diet, it's a little more subtle. We might have to get into that. The low-carb versus low-fat was very specifically for weight loss. So another issue here is, you know, what's the goal? Is it a weight loss thing? Is it a cardio amount? You have to think about the exposure in the population. So the DietFit study, my most famous study with the 600 people, is really fun to work. We had sort of unlimited funds, mostly from NIH, but some from the Nutrition Science Initiative that Peter Atiyah
+
+01:00:12.578 --> 01:00:42.078
+And Gary Tobes led. If it's okay if I go here just for a minute. I had done another study before that called the A to Z study. And A was Atkins. And T was a traditional health professionals approach. And O was Ornish. And Z was Zone. And these were, three of those were popular books that were bestsellers. And they were wildly different in carbs and fats. Atkins was super low carb. Ornish was super high carb. Zone was kind of in the middle. And the traditional health professionals approach was sort of the control. We had 311 women.
+
+01:00:42.242 --> 01:01:03.742
+who did it for a year, and it was a weight loss study. And at the end of the day, when we published the paper in JAMA, there were a few pounds different. The only statistically significant difference was between Atkins and Zone, which was weird because those were the two low-carb diets. You would have thought maybe it's Atkins versus Ornish, the two extreme diets, but those weren't different.
+
+01:01:04.610 --> 01:01:30.398
+When I looked at that study published in 2007, what really struck me was not the small differences between groups, but the within group differences, which were massive in every one of the groups. 75 women in a group, somebody had lost 30, 40, and 50 pounds, and somebody had gained 5 or 10. And I thought, oh, my God, like the difference within the diets is way cooler than the average difference between the diets.
+
+01:01:30.690 --> 01:01:55.966
+I'm starting to learn about insulin resistance. I'm starting to learn about genetic predisposition, which is sort of where our conversation started today. Ah, you know, maybe I should be looking at these personal factors, these predisposing factors, so I could help see if somebody was better on one versus another. And as we look through our data and the rest of the literature, the two things that arose were insulin resistance, maybe better on low-carb,
+
+01:01:56.994 --> 01:02:24.318
+folks who are insulin resistant have a hard time putting away carbs, so the low fat is problematic if it's high carb. And genetic predisposition, there was a group called interleukin genetics that came and looked at some of our data and said, oh my God, we actually have a three-SNP, single nucleotide polymorphism, a three-SNP multi-locus genotype pattern that we hypothesize predicts who's low fat and low carb. And we said, NIH, would you fund this? And they did.
+
+01:02:24.706 --> 01:02:48.766
+we got this extra money from the Nutrition Science Initiative. We got 600 people. We randomized them for a year. Everybody was into it. It was like the best, highest rigor, highest generalizability study I've ever done. And importantly, there was no average difference at the end of the year in the two groups, which is actually exactly what we wanted. If we had a high quality of low-carb and low-fat, we assumed that
+
+01:02:49.154 --> 01:03:16.894
+the average difference would be negligible based on our past work, but we would get this range, and we did. This time, somebody had lost 60 pounds and somebody had gained 20 in both groups, and it was a continuum. It's like, oh, this is perfect. We are going to have a chance to explain this variability with a glucose, oral glucose tolerance test, which is sort of state-of-the-art other than the steady-state plasma glucose thing Jerry Riven does, which is too...
+
+01:03:16.994 --> 01:03:41.694
+intense and too expensive, or a glucose tolerance test, much better than a fasting glucose, and will genotype them. And neither of them predicted the variability. That just means it was the wrong probe. You're using the wrong test to try and address this correlation. So a postdoc looked at me afterward and said, there are like 50...
+
+01:03:41.826 --> 01:04:10.846
+single nucleotide polymorphisms that have been linked to obesity, and you tested one set of three of them. So that does mean there's 999,999 other genetic probes or tests that you could use, and you've disproved one of them, and I said, yeah. But the insulin resistance one was very popular. There were a bunch of studies that had done this. And I have to share a really funny comment that Gary Tobes made while we were doing this, because Gary Tobes was involved in NUSI. What's he best known for? Low-carb.
+
+01:04:10.978 --> 01:04:40.958
+So Gary Tobes is a low-carb fanatic. And he gives excellent talks. He can riff on and on about data and data and data. But I have to tell you a funny comment that he made as we got to the end of the study. He said, I realized now that you're at the end and you're about to publish it, that you screwed up the study. I said, how did I screw up the study? And he said, well, for the low-fat group, you told them not to have added sugar or refined grain, even though those are low-fat. And I said, well,
+
+01:04:41.378 --> 01:05:04.510
+yeah, actually we told both groups to have a really healthy diet and added sugar and refined grains aren't healthy. And he said, well, that's going to diminish the chance to see a difference because most people who are eating low carb versus the traditional low fat do better because the low fatters eating high carb are eating added sugar and refined grain. I thought that's not screwing this study up. That's doing the equipoise thing.
+
+01:05:05.378 --> 01:05:31.102
+I saw a lot of literature showing that insulin resistance did suggest that there was a subset of the population that would do better on low carb than low fat. And we've actually now followed up on that study with a ketogenic versus a Mediterranean diet study. And in that particular study, the way we set it up is both groups would get a lot of above ground vegetables, which keto says is okay, avoid added sugar in our fine grain,
+
+01:05:31.970 --> 01:06:01.150
+And keto would have no beans, no fruits, no whole grains. And Mediterranean would embrace beans and whole grains and fruits. And so they didn't have a glycosylated hemoglobin difference. That was a primary outcome listed on clinicaltrials.gov. The keto diet raised LDL. The keto diet did actually a better job lowering triglycerides than Mediterranean. The keto diet did better at lowering triglycerides. Yes. Than Mediterranean. Yes. That surprises me. No, because they did better at wiping out carbs. When they wipe, when you wipe out,
+
+01:06:01.282 --> 01:06:28.830
+all your carbs, then those extra carbs don't go into your liver to make triglycerides. Not surprised. And the keto diet was higher in saturated fat, so it raised the LDL. But the Mediterranean diet carbs generally are pretty, quote-unquote, healthy carbs. Yes, and that's the point. So can we go back there for a minute? So to me, that is the point of sort of looking at this equipoise. So when we made the low-carb and the low-fat both healthy, our primary...
+
+01:06:28.930 --> 01:06:58.462
+predictive outcomes, the genotype thing and the insulin resistance didn't work. And what we took home from that message is you could do either one. If you do them in a healthy way, it would be okay. And when we took it to ketogenic and Mediterranean, they both lowered glycosylated hemoglobin. The keto had a worse effect on LDL, but a better effect on triglycerides. But as we tracked the adherence, people couldn't adhere to the keto. They couldn't maintain that really low level of carb and the really low level
+
+01:06:58.626 --> 01:07:28.414
+of fat. And so as you're working through these questions, those are the subtle nuances in nutrition that you just said the poor public, and I agree, looks at so many of these and says, oh my God, you guys can't agree. Can I go back to the fact that I've actually helped American Diabetes with their guidelines. I work a lot with the American Heart Association. I just rotated off the Dietary Guidelines Advisory Committee. And when there are scientists looking at nutrition data, we almost always agree.
+
+01:07:28.738 --> 01:07:58.014
+Nutrition scientists don't really disagree. We're almost boringly more in agreement than most people think. And what's fun for me personally, why I get up in the morning and stay up late at night, is the way you do science around food is fascinating and complicated. And the reason I'm on your show today is because I think if we had more of an opportunity to explain some of these subtle nuances, people would understand that the extremes...
+
+01:07:58.210 --> 01:08:25.822
+probably aren't going to help you. There's really some middle-of-the-road stuff like a whole food plant-based diet where you could be vegan, you could be vegetarian. If you were vegan, you could be a crappy vegan. You could have Coke, French fries, and Oreos. Those are all vegan. If you were keto, you could be eating a whole bunch of meat, which is super low carb, but a keto diet is all fat. It's really not a lot of protein and meat. So it's fun to come on your show and have the chance to dive
+
+01:08:25.921 --> 01:08:54.655
+a little deeper and talk to the listeners about some of the important facts that get a little obscured when the social influencers or the headline is just capturing an overall message without seeing some of the rest of this. How do we communicate this in a fun way? And the personal way I've been doing this, actually, my career has shifted now. I now work a lot with the CIA. I am on the Scientific Advisory Board of the CIA.
+
+01:08:54.881 --> 01:09:24.062
+not the Pentagon one, the Culinary Institute of America. And what's really been fun about them is how much they appreciate taste, energy, taste, like the things that people really care about, not some of my P values and my statistics and my equipoise. They want the aesthetic. They want to look good personally. They want the food to look good, taste good, be accessible. So I've been doing some new fun studies where chefs are sort of leading the way. So I'm pretty much...
+
+01:09:24.194 --> 01:09:52.382
+against this whole protein craze thing that's going on. And the Culinary Institute of America has introduced this concept called the protein flip, where instead of having a massive piece of flesh in the middle of the plate with maybe some vegetables and starch on the side, it's vegetables and grains and beans in the middle of the plate with an African, Asian, Mediterranean, Latin American emphasis. And the meat is two ounces, or it's a condiment, or it's a side dish.
+
+01:09:53.026 --> 01:10:23.006
+It's like making the aesthetics look good, making it taste great. So the phrase I use is from Greg Drescher from the CIA, unapologetically delicious. So I'm hoping to have the science in my back pocket. I'm a card-carrying PhD nutrition scientist. I got the science. We'll probably go there later. I got the environment in my back pocket too. But don't beat people over the head with that. Beat people over the head with, oh, this is going to blow your frigging taste buds away. This is so good.
+
+01:10:23.138 --> 01:10:50.526
+That's a good incentive. Working with chefs has been very fun. Yeah, that's a good incentive. I would like to just offer the opportunity. You don't have to take it. But offer the opportunity to finally at least start to do away with this ridiculous naming, which is plant-based. I mean, I have to say that, again, I've spent a good amount of time in the public health sphere and public education sphere. How things are named means everything. Yeah.
+
+01:10:50.722 --> 01:11:13.182
+If there's ever a hope to get people eating more, let's just say fiber from vegetables and maybe fruit also, that sooner or later this plant-based naming, I'm going to say has got to go. It just is never going to work because people hear that and they hear vegan. It's just been too long. It's been too long. It's just – it sort of defies –
+
+01:11:13.698 --> 01:11:39.710
+any kind of logic to think that the public will eventually think that plant-based includes meat. I think there just needs to be a new name. So I don't expect you to come up with one on the fly, but could we call it plant-biased perhaps? Or just omnivore? What's wrong with healthy omnivore? Omnivore is fine. Plant-forward people have used, plant-centric people have used. I think as long as it's just plant-forward just sounds like no meat. So let me tell you a funny story. So I participate in something called the Google Food Lab.
+
+01:11:39.970 --> 01:12:08.126
+which is a whole bunch of people that come together for googly casual collisions twice a year. And at one of these twice-a-year events, probably a decade ago, it's usually a two-day event, and they have all kinds of different talks and sometimes breakout groups. They had, for a whole hour and a half, two hours, we separated into 10 tables. And the challenge was, with 100 really bright people all from the food industry,
+
+01:12:08.290 --> 01:12:36.190
+They come up with options for plant-based and they failed. New names. Two hours. Two hours. A hundred people couldn't come up with a name that everybody agreed on. So it's a problem. It's going to... That sounds like a psychological problem. We need more marketers and we need more infographic people to help with this thing. But these were all really bright people. So I agree. The naming is problematic. Instead of naming it something...
+
+01:12:37.538 --> 01:13:06.814
+let's just point out that Americans eat more meat than anyone else in the world. It is, if you see these WHO, World Health Organization graphics of who eats how much meat, it is the US and Canada and some European countries that eat the most. And there are countries who eat the least and they have limited access to foods. And some of those countries would benefit from more meat per person because really they're eating cereal. They're eating dry cereal-based foods,
+
+01:13:07.362 --> 01:13:37.054
+that honestly just don't have the full nutrition. They're just trying to get enough calories for the day, and it's not just about calories. And part of that isn't just access to food. A lot of those are countries where there's political issues, where somebody's actually withholding food or making the distribution of food problematic. So there's something called the Lancet Report that came out in 2019, published in Lancet, the Eat Lancet Commission, and came up with a healthy transformative diet for the planet that was the intersection of human and planetary health.
+
+01:13:38.210 --> 01:14:06.878
+And it was very little meat. It wasn't vegan. It was very little meat. Open to the idea that some of these countries that ate the least meat should probably eat more. But what was obscene was how much meat is eaten in America compared to the rest of the world. And to eat that much meat and be affordable has led to the concentrated animal feeding operations, which if they had glass walls, probably most of the country would go vegan.
+
+01:14:07.042 --> 01:14:35.998
+If you saw what was happening, not just to the animals the way that they're raised and the speed, the line speed, part of this is the way the humans are treated who are in the meatpacking industry. So it's a very repetitive job. There's a lot of injuries in that situation. And it's part of the reason we have very inexpensive meat that's very inaccessible. There's a guy named Timothy Pasharat who, for his doctoral thesis, went and worked in a slaughterhouse for a year undercover.
+
+01:14:36.130 --> 01:15:02.942
+and published a whole book on this. And the title of the book is Every 12 Seconds. And the reason it's titled that is because a new cow came through the slaughter line every 12 seconds, every day, all day, every year. And that the ability to protect some animal rights and welfare, the ability to protect the rights of humans, to have some dignity, like people peeing in bottles because they can't leave the line, they can't even take a bathroom break.
+
+01:15:03.906 --> 01:15:33.822
+It's a messed up food system. So I had an interesting debate with Mark Hyman the other day, who's all into regenerative meat. You mean like regenerative farms? Regenerative farming? Yeah. Yeah, on regenerative ranches and said, you know, he's all against the CAFOs, the concentrated animal feeding operations. If we could just move all those off to pasture. And he said, yeah, we could just do that. And I said, do you know how much pasture that would take? That would take like three planets of agricultural land to move them
+
+01:15:33.954 --> 01:16:03.678
+millions and billions of cattle out of the CAFOs into there. So I would like to move in your direction where some meat would be fine if it was raised in a way that didn't require hormones, didn't require antibiotics, didn't require feeding cows corn and soy. They're supposed to graze on grasses and the corn and soy give them health issues. And so they have to be treated prophylactically for the problems they'll have digestively with that.
+
+01:16:03.778 --> 01:16:21.662
+If we could go back to sort of the old animal husbandry of the day when the cattle and the pigs and the chickens were on pasture, we would eat a lot less meat. But we would eat meat that was raised appropriately and would be more healthy. And that would be that middle of the road where we were having...
+
+01:16:22.018 --> 01:16:50.110
+Multiple types of wheat, not just the one grain that grows right. We wouldn't be monocropping corn. We wouldn't be monocropping soy, which is mostly going to livestock feed or fuel. Very little corn or soy that we grow in the U.S. is eaten directly by humans as corn or soy. I would be all for that. If we spread out the meats that way, it would be better, basically less meat, better meat. Would work fine. That would be part of a healthier diet.
+
+01:16:50.530 --> 01:17:18.654
+people on the planet. That meat would cost more. Raising it that way would certainly cost more. But if you ate less of it, it wouldn't be that big of a hit on your budget. So if you had less meat, better quality meat, you might be spending the same amount, but then you could also have more fiber for your microbiome, more other vitamins and minerals, less saturated fat, less hormone, less antibiotics. I love hearing that. I completely agree, by the way. And I think that
+
+01:17:18.818 --> 01:17:46.014
+There is a theory, right? I forget the name of this theory, that one of the reasons why people in Europe, especially Southern Europe, can eat all these foods that we consider kind of bad for us. They'll have a dessert, they have bread, they have butter, they have olive oil, they eat meat. In fact, they have a fairly pork-rich diet in certain parts of Southern Europe that on average, the obesity rates are much lower. And the argument, I think, is that the nutrient density is so high in these
+
+01:17:46.146 --> 01:18:07.294
+well-raised, appropriately raised and farmed foods that people end up eating less of them. It's not just that portion sizes are small, it's that the food tastes really good and it's satiating at a level that's different from volume or caloric intake. I think so much of what people think tastes good actually is just relative to the fact that they've never tasted like a real strawberry. Yeah.
+
+01:18:07.554 --> 01:18:37.406
+And I think, so what we're talking about here is revising the entire food supply. And I'm all for it. I really am. I'm all for it. Because addressing this from the level of following this diet or that diet, at least according to your work, doesn't really seem to be the best approach, assuming that what people really are after is the experience of food. Right. And that's why it's so fun now working with chefs. So really our emphasis for right now, think about educating the population,
+
+01:18:38.690 --> 01:19:05.502
+That usually doesn't work. Like, this is a big shift potentially that we're talking about. If you tied this to the environment, we're kind of on a horrific path to not having enough air and land and whatever, water to do this. But in the U.S., at least 50% of food is eaten outside of the home. And if you think of a group like the Culinary Institute of America that trains chefs, you might think chefs, I bet their goal is to be in a three-star Michelin restaurant.
+
+01:19:06.434 --> 01:19:25.406
+Apparently, they've trained 55,000 chefs to date, and very few of them run Michelin three-star restaurants. They're in hospitals. They're in the Marriott Hotel. They're in universities. They're in schools. More of them could be in schools. And really, their gift, their superpower is taking...
+
+01:19:25.826 --> 01:19:52.030
+different food sources and putting them together in flavorful ways that people enjoy. And so my current interest, actually in working with the new Door School of Sustainability at Stanford, is to bring the chefs in and to think of these institutional food settings where so many people are eating at the work site, at the school, while they're visiting the hospital, whatever. And their choices are different and they taste good and they look good.
+
+01:19:52.834 --> 01:20:15.966
+in the back pocket they're actually good for you nutritionally and they're actually good for the environment we don't have to teach any about this we like work with the chefs chefs and scientists and business people this group that i work with at the culinary institute of america about 12 years ago i was invited to something that's now called the menus of change and for the menus of change
+
+01:20:17.442 --> 01:20:46.110
+background to this was the chefs were getting very frustrated that it was gluten-free one day and then vegan and then keto and then paleo and they they sort of were getting this popular demand to change their menu design and to change some of the equipment that they had and they were getting a little frustrated at the leadership level thinking why are we being so reactive couldn't we be more proactive like we're the chefs can't we help with food demand because we can make it taste good so they got a science board together to say okay
+
+01:20:46.466 --> 01:21:11.166
+science doesn't really change. These things are healthy. They got a business board together. They have to stay in business. The customers have to come back and they have to pay so we can stay in business. And they had a chef board who said, this is our craft. This is what we want to do for our life. We want to help people eat. And they sort of put all three of these groups together with their recommendations. And they came up with what's called the 24 principles of the menus of change.
+
+01:21:12.130 --> 01:21:36.926
+Twelve of the principles are food and nutrition oriented, and 12 of them are operationally oriented. Choose locally when you can. Celebrate diversity. Source local. A whole bunch of different principles. And the idea was there, they would take the set of principles to these institutional food settings where they order pallets of food every day. They don't just go to the grocery store and I'm going to buy...
+
+01:21:37.026 --> 01:22:01.182
+organic one instead of the conventional one. I'm going to buy the regenerative meat instead of the other meat. They're going to order crap tons of food for everybody. And the idea was that if you could do that across these different institutions, you could change the palate. You could show people, here's some great tasting things that really hit the intersection of taste and health and the environment
+
+01:22:01.474 --> 01:22:30.366
+So personally, this is what I'm most excited about is keeping my PhD in nutrition in my back pocket, doing podcasts with somebody like you, working with these chefs in these different institutional settings, because there's a lot of different ways to eat. There's a lot of delicious ways to eat, and it would be not too hard to eat more nutritionally, beneficially than we do now. I'd like to take a quick break and acknowledge one of our sponsors, Element.
+
+01:22:30.594 --> 01:22:39.902
+Element is an electrolyte drink that has everything you need, but nothing you don't. That means the electrolytes, sodium, magnesium, and potassium, all in the correct ratios, but no sugar.
+
+01:22:40.098 --> 01:23:10.064
+Proper hydration is critical for optimal brain and body function. Even a slight degree of dehydration can diminish cognitive and physical performance. It's also important that you get adequate electrolytes. The electrolytes, sodium, magnesium, and potassium, are vital for the functioning of all the cells in your body, especially your neurons or your nerve cells. Drinking element dissolved in water makes it extremely easy to ensure that you're getting adequate hydration and adequate electrolytes. To make sure that I'm getting proper amounts of hydration and electrolytes, I dissolve one packet of element in about 16 to 32 ounces
+
+01:23:10.064 --> 01:23:14.046
+of water when I wake up in the morning and I drink that basically first thing in the morning.
+
+01:23:14.178 --> 01:23:42.462
+I also drink Element dissolved in water during any kind of physical exercise that I'm doing, especially on hot days when I'm sweating a lot and therefore losing a lot of water and electrolytes. They have a bunch of different great tasting flavors of Element. They have watermelon, citrus, et cetera. Frankly, I love them all. If you'd like to try Element, you can go to drinkelement.com slash Huberman to claim a free Element sample pack with the purchase of any Element drink mix. Again, that's drinkelement.com slash Huberman to claim a free sample pack.
+
+01:23:43.106 --> 01:24:12.254
+I didn't think we were going to land where we happen to be now, but I'm excited that we are because I came into this conversation wanting to talk to you about, and we will talk about, for instance, protein recommendations or food additives, which we touched on. What I'm hearing now is really surprising and exciting, but very practical. And here's what I'm hearing, that we can talk about macronutrients, micronutrients, food supply, environment, long-term and short-term health until the end of time. And
+
+01:24:12.354 --> 01:24:41.310
+Ultimately, people are going to try different things or not try different things and go with what works for them. However, if we want to create a wholesale change in everything from the food supply to what people consider appetizing and what they consume, we need to focus on taste. As you were describing this thing with chefs, what I heard in my head was, well, that's great for me because I'm near Stanford, at least part of the time, and I can benefit from all this great tasting food. But I could also hear...
+
+01:24:41.538 --> 01:25:09.054
+the many millions of people listening to this who are going to say, yeah, that's great for Stanford, but how do I access this delicious food? Like kind of like FU. So, but then I came to the clarity and I think this is what you're getting at, which is if you can cook really well, healthy, great tasting food, that's great for the environment, et cetera, for a big group of people, hundreds of thousands of people, five days a week, then certainly there's a version of that for,
+
+01:25:09.250 --> 01:25:30.718
+a family that's affordable. And what it takes us to is less a focus on like one form of diet versus another, but to the kind of return to, or maybe it's never good to talk about going back to something, to look toward people getting more involved in preparing their food again. Yep.
+
+01:25:30.818 --> 01:25:56.126
+Absolutely. Right. It's, it's really about, you know, it's sort of like a discussion about health where you have to tell people, listen, I can't take away the need for you to get your heart rate up. You got to do cardiovascular exercise. There is no peptide or even hormone that we can give you in pillar injection form. That's going to offset the sarcopenia. You have to do something. It's called do resistance training of some sort. I tell my 80 year old mother this, like she lifts weights and I'm so grateful she does, right? That
+
+01:25:56.290 --> 01:26:25.854
+30 years ago, I should point out, you and I know this, but for a lot of the audience, the idea that a woman would lift weights, much less an 80-year-old woman in service to her health, it would just be outrageous. It would be all like just thoughts about bodybuilding and like football players. It was just no one went to gyms besides those guys. So what I'm hearing is we need to get back to interacting with our food differently and that the convenience of ultra-processed food is really what was the –
+
+01:26:26.402 --> 01:26:47.902
+entry to this whole thing. And maybe what we need to do is get, is figure out how preparation of quality food, acquisition and preparation of quality food can be more accessible and can be commoditized in a positive way, in the positive sense of the word. Yeah, absolutely. Absolutely.
+
+01:26:48.290 --> 01:27:16.190
+Going back to the Stanford-only thing, I mean, part of this argument was, so the central campus of the Culinary Institute of America is Hyde Park, New York, in the Hudson Valley, and most of the 55,000 chefs that have graduated from their program are all over the country and the world. They could be in a Marriott hotel in one place and in a school district in another place. Let me take a quick run at this. 2010, Michelle Obama thought...
+
+01:27:16.610 --> 01:27:43.582
+maybe much like RFK Jr., that, wow, the school food that we're giving kids is setting them up with habits that they're going to carry forward in life, or they're going to want Cheezos and pizzas and burgers all day long. We really have to do something there. And in 2010, they passed the Healthy Hunger-Free Kid Act, which was to improve school food. And they gave schools four years to prepare for it. So 2014, it was required. By 2015 and 16,
+
+01:27:44.546 --> 01:28:14.398
+All kinds of people were complaining that the kids were throwing the food away. It wasn't working. We're going to have to go back to pizza and Cheezos and Wizzos and crappy food because we don't want the kids throwing the food away. There were a couple people who put chefs in schools and said, okay, you can't just say eat better. If they were eating this way for the last however many years they were in school and you just took the pizza away and put in the hummus, they're not going to try that. But what if you brought a chef in?
+
+01:28:14.530 --> 01:28:44.062
+It worked with not just the kids, but the teachers, the administrators were thinking about attendance and kids who go to detention and test scores and things like that. Teachers are complaining that kids are either hungry or they're not paying attention in class. Food, many times, if you pay more attention to it, can have an impact on all those things, many of which you were just talking about a minute ago. And school food is a great place to do that and to put a chef in a rural place
+
+01:28:44.194 --> 01:29:12.414
+school district in different places is amazing. I now work with another amazing partner named Nora Latour who has a company called or a nonprofit called Eat Real. And Eat Real goes in and certifies K to 12 schools and school districts for meeting 10 different parameters, some of which are nutritious, but some of which have to do with sourcing locally and sustainably and things like this. And she, I was just on a Zoom call with her with a pitch, uh,
+
+01:29:13.154 --> 01:29:42.142
+yesterday for some funding to do some more work. She's already serving a million kids in school with this new thing, and she's getting demands from school districts. Can you please come look at our school, certify it? Schools are buying new equipment. They're redesigning some menus. They're talking to the staff, and they have happier staff. They're talking to the kids. The kids like the food. If you put some effort into this, you can make it taste good and be healthier.
+
+01:29:42.562 --> 01:30:10.430
+and be affordable in rural, in red states, blue states. This can happen anywhere. It's really not, certainly not just went to Stanford and got good tasting food. I like this idea about chefs in schools. I never thought about that. Mostly because it seems reasonable to have one or two per several hundred students because the issue is always scalability. I love the small farm...
+
+01:30:10.754 --> 01:30:35.678
+But there's only so many Napa counties and there's only so many – I mean, Montana's got beautiful areas for cattle to graze and things like that. But we just don't have the land, as you pointed out. And we don't – it's hard to do things properly at scale. That's, I think, the fundamental issue here. But this sounds like it's scalable. And I would push back on small farms to middle-sized farms. So really what we've got is gigantic mega farms.
+
+01:30:36.162 --> 01:31:03.454
+and this isn't my area, so I'm speaking completely out of my wheelhouse right now. But if you look at the amount of corn and soy or potatoes or the way things are grown, they're really inexpensive because they're so huge. If you look at dairy in the U.S., dairy farms have been in number, have been going down and down and down. And the mega dairy farms are huge. So we have suicides in the dairy farmer community because of losing their family business. We have all kinds of, I'm sure you've heard this, this isn't
+
+01:31:04.002 --> 01:31:31.550
+any mystery, but a lot of farming families are having a hard time getting their kids to take over. We have a lot of really old farmers in the US. I didn't know this. I mean, it makes sense now that I hear it. Yeah. So we've got a brain drain because of sort of the get bigger, big out. We used to have diverse agroecology going on on farms and they would have some livestock and they would have some produce. And if there was any blight that happened, it didn't wipe out the farm because they had other crops or other livestock to back that up.
+
+01:31:31.842 --> 01:31:58.238
+At one point, there's a guy named Earl Butts who said, ah, the military, the men are too weak to be in the military. We're not getting enough calories. This goes back like more than 50 years. Plant corn or soy, fence row to fence row. Buy more land. Buy the huge combine machinery to plant this. Don't be so diverse. And I know of one particular person at Stanford whose family had a farm.
+
+01:31:58.754 --> 01:32:24.446
+And the dad said, I don't even want you to take over the farm. I've ruined the land. The biodiverse thing was great, but this monocropping thing has ruined it. Please go get another job. And so what my sense was is small farms aren't enough to make a decent living, and farmers should make a decent living. Absolutely. The farmers and ranchers and fishers should make a decent living. So...
+
+01:32:24.642 --> 01:32:53.918
+Again, out of my wheelhouse, but you mentioned small farms. I think the problem is mega farms. I think there's something in the middle where you could make a respectable living, but it would have to be a more diverse agricultural system than just corn or just soy or just a concentrated animal feeding operation. It had to be multiple crops, multiple livestock working together. These are new concepts to me in the sense that I've not heard before what the
+
+01:32:54.018 --> 01:33:21.726
+what the sort of tractable model is. But certainly these issues have been on my mind for a long time as, you know, it's become clear that, you know, mega farms and factory meat. I mean, I don't think anyone in the world would say that factory farmed meat like these, you know, cattle houses are good. I don't think anyone would, except maybe even the people who own them. It just seems that,
+
+01:33:22.530 --> 01:33:46.046
+what to do become instead becomes excessively challenging. So I'm really grateful to hear about this chef's program. I'm hoping that folks in the new administration will pay attention to this. They claim to be very interested in these sorts of issues and they wield a lot of power to be able to make this kind of change possible. So were they to ask you to,
+
+01:33:46.466 --> 01:34:15.646
+Do you advise or help? Would you be willing to do that? Things have become so partisan now. I'm just curious. Like, are you willing to work with the new administration if they said, hey, listen, like, Gardner, like, we need your input. Would you? Yeah. Absolutely. And it wouldn't just be mine. I'm having a blast at Stanford right now just because this new school of sustainability is interested in this, very much thinking of the farmers and the ranchers and the fishers. I mean, the school of sustainability sort of grew out of the earth science school.
+
+01:34:16.514 --> 01:34:45.470
+And so a lot of those people have been working with land and water and air, and they're always looking for that win-win across all sectors. So that's one of them. Yeah. Let's talk about protein. Oh, okay. Do we have six more hours or just four? No, but we're going to make it simple. Okay. I'll try. I'll just start off by saying that I, and I would say essentially every guest that's touched on nutrition, Peter Attia, Dr. Gabrielle Lyon,
+
+01:34:45.794 --> 01:35:14.622
+Stacey Sims. Stacey Sims, Lane Norton, who is degreed in biochemistry and nutrition. So he probably of those people has had the most formal training in nutrition and biochemistry. And several others have made a, what I consider a reasonable argument for, and try not to gasp here, Christopher. Yeah. One gram of quality protein. So high bioavailable.
+
+01:35:14.786 --> 01:35:41.726
+high bioavailability, high protein to calorie ratio, one gram of that per lean pound of body weight. Not kilogram per pound. Per pound. Oh, and of lean body weight. Yeah, of lean body weight. Dr. Gabrielle Lyon is very precise about this. Sometimes her words get twisted when the media, the mainstream media, which is now no longer mainstream, talks about it, but they've contorted her words a little bit. It's per pound of
+
+01:35:42.018 --> 01:36:09.278
+lean or desired body weight, because that adjusts for this, you know, for body fat percentage, right? If you're carrying a lot of muscle, it's very different than if you're carrying less muscle under a lot of fat. So even so, those numbers are pretty high compared to the numbers that you've written about. And it's not per kilogram, it's per pound, right? So I weigh 210 pounds, I
+
+01:36:09.858 --> 01:36:30.110
+loosely aim for somewhere between 175 and 215 grams of quality protein per day. So what are your thoughts about those recommendations? And then we'll kind of go back and forth and hopefully come to some sort of conclusion that people can make their own decision about. Yeah. Okay. So what,
+
+01:36:30.210 --> 01:36:59.070
+A super important fact, just to dive in right off the bat, is how much protein do you store if you ate in excess today for tomorrow? Like if you were just hedging your bets, how much of that 175 grams of protein do you think you applied to muscle? Very little. You're not gaining muscle right now. I'm going to guess. You're stable weight, stable muscle? Pretty much. I mean, maybe a little muscle here and there. But, yeah, stable weight, stable muscle. So I would say very little is going to go into...
+
+01:36:59.202 --> 01:37:26.078
+There's sort of maintenance levels of protein synthesis, anything that I stimulated by exercise, still very little. I'm perfectly fine with the idea that much of that protein intake is used as energy. In fact, I'm delighted with it because the conversion of that protein to energy is metabolically costly in a way that conversion of other caloric forms is less costly. And I'm also happy with it because it tastes good.
+
+01:37:27.074 --> 01:37:55.102
+the meat I eat is very dense, meat, eggs, et cetera, that I eat is very dense in other nutrients, like healthy fats, especially for fish or for things of that sort. And I have to eat something. I have a caloric need. And if I eat too many starches, I get sleepy, I feel lousy, I don't tolerate dairy, I love fruits and vegetables, but if I eat too many fruits and vegetables, I feel lousy because my gut can only take so much fiber. So that's what's worked for me because it,
+
+01:37:55.330 --> 01:38:22.526
+basically establishes all the things that I'm looking for, right? I want enough fiber, but not so much that I'm bloated or gassy or not feeling well, or I have to run to the restroom all the time. I want enough protein for protein synthesis and to cover any, you know, exercise induced needs, but I also like the way it tastes and I like what it brings with it. And I source it from quality sources. So it's hard for me to punch a hole in that argument and,
+
+01:38:22.626 --> 01:38:52.446
+I like rice as much as the next person. But if I eat two big bowls of rice, I feel like garbage. If I eat one bowl of rice with a nice little piece of grass-fed meat and a big salad and some vegetables and some berries for dessert, I feel like a king. Yeah. That's pretty good. Yeah. Where am I going wrong with one gram? Because the recommendations that I've seen in your papers and others are much, much lower. So I'm not sure if they've been my recommendations. Part of it is just sort of pointing out protein 101. There's some myths here that are...
+
+01:38:52.546 --> 01:39:16.126
+are pretty ridiculous. Okay. So if we were to start at the beginning, and if I go too far down the rabbit hole, feel free to stop me. I got my PhD at Berkeley. Part of the dietary recommendations for protein were established by Doris Calloway and Shelley Morgan at Berkeley. In Morgan Hall, the fifth floor is called the penthouse. And in the days of the Vietnam War,
+
+01:39:16.738 --> 01:39:43.710
+conscientious war objectors were allowed out of the war if they would be study participants and go up in the penthouse where they put on blue zoot suits every single day. And there was a kitchen facility up there and there were beds and they were not allowed to leave for months at a time to do this study. And they did what are called nitrogen balance studies, which today the protein community despises and says this is a horrific way to determine protein needs. But in the day,
+
+01:39:43.970 --> 01:40:11.582
+Super clever. So picture that you're 50, 60, 70 years ago, however long ago it was now. Protein is the main source of nitrogen in your body. If you were to do one of these bomb calorimeter things that blew up and burned your whole body, minerals would be left. You can't get rid of minerals, and nitrogen is in that list. And so you can actually do a nitrogen analysis of food that you're eating, and it'll tell you how much protein is in the food.
+
+01:40:11.746 --> 01:40:40.062
+And if you were to be in a blue zoot suit all day and collect your poop, your pee, your nasal blowings, the hairs that came off, the skin sloughing, the fingernail, if you captured everything that left your body, you would know how much protein you had eliminated during the day. So somebody came up with this idea for a nitrogen balance study, and they took these conscientious war objectors and put them in these suits for months, and they lowered their protein to zero,
+
+01:40:40.226 --> 01:41:09.662
+at which point they realized, wow, this is fascinating. The losses that you have from protein decrease as you lower your protein to zero because your body realizes you need to be more efficient with what you had. And then they raised the dietary protein level back up until they were in balance. So the amount of protein leaving the body was the same as the amount going in. And they said, this is the protein requirement. It's the amount that will replace your losses by
+
+01:41:10.146 --> 01:41:36.510
+this group of people. And it wasn't just Morgan Hall and the penthouse at Berkeley. It was multiple other groups were doing this in other places. And they pooled all their data and said, and there's a range. And some people need more and some people need less. And let's pretend it's a normal distribution. It isn't quite. But after all this, they came up with what would be an estimated average requirement for this population that we've studied in this bizarre population.
+
+01:41:36.706 --> 01:42:05.374
+incarceration, food manipulation thing with this clever idea of focusing on nitrogen just because it's so unique to protein. And they came up with 0.66 grams of protein per kilogram body weight per day. Yeah. And this is the estimated average requirement. Okay. Now let's do some super simple math. Let's say if you told the American public, now they've done this
+
+01:42:05.826 --> 01:42:34.942
+bizarre, disgusting task. This is how much everybody requires this estimated average requirement. And therein after everybody got exactly that much protein, what proportion of the population would be deficient at that level if they pick the average requirement? Half. By definition, that's only the average. Half of the people are above average. So the recommended daily allowance of protein is set at two standard deviations above the
+
+01:42:35.170 --> 01:43:04.958
+value determined by this disgusting nitrogen balance test decades and decades ago. And I understand that the community of protein fanatics doesn't like that. That's not an optimal protein. It's like a minimal protein requirement. Okay? So I totally buy that argument. But I think the first thing that people get wrong is they think that that old method is recommending the average requirement. And it's not. It's got a safety buffer. It's got two standard deviations built on
+
+01:43:05.282 --> 01:43:34.942
+top of it so that if everybody got that 0.8 grams per kilogram body weight per day, 2.5% of the population would be deficient. And not only would 97.5% of the population meet their requirement, they would exceed it. If you drew the graph, right, you're seeing the line, this whole group would exceed it and this group would not meet it. And this group would get just a small sliver would get what they needed. Thank you for that clarification. I have a couple of questions I know are popping up for people.
+
+01:43:35.074 --> 01:44:02.398
+I just would like to tick off if we can. Who were these subjects? Was it men and women? These were conscientious objectors. So I would presume at that time we weren't sending women to Vietnam. So it would be just men. So this is just at Berkeley. So other people were doing this too. It wasn't just this one group. And I don't know who the others were. Got it. I just remember that I got my PhD at Berkeley. And it's like as soon as I got there, people said, do you want to see the penthouse? I said, what the F is the penthouse? Oh.
+
+01:44:03.394 --> 01:44:32.894
+penthouses where Doris Calloway and Shelley Morgan figured this out and like this is a famous thing so you know they took great pride that part of that came from their work at Berkeley and they had to call it the penthouse to get people up there because what happened in there sounds anything but pleasant yeah it was unpleasant yeah at least for the Berkeley study these guys are up there guys and gals are up there they're in these suits they're collecting everything they're not exercising they're not breathing fresh air presumably they're not
+
+01:44:33.282 --> 01:44:53.470
+they walking around? Are they getting even like a couple thousand steps a day? I mean, my concern is that- Oh, absolutely. Yeah. Their concerns. My concern is that they turn them into mice, essentially. And as somebody, listen, I've published work on mice, rats. I no longer do this, but non-human primates, something that-
+
+01:44:53.730 --> 01:45:22.430
+have no interest in doing any more. And the other primates, us humans, and I know how hard it is to do a well-controlled study. It's extremely difficult. So I understand why they did this, but then it becomes a very artificial circumstance. Now, the buffering with two standard deviations above this nitrogen balance amount, I think that's something really important to double-click on for people because most people hear, oh, it was just the minimum amount required to maintain nitrogen balance. But in reality...
+
+01:45:22.626 --> 01:45:42.238
+It's much higher than that. So that was the first one. I feel like that's a misperception that that was the average requirement. All the points you made are dead on critical, important. Okay. Then the second one is where do you store it if you've eaten a Nexus? Because the fact is right after that, I had a debate with Stu Phillips at one point.
+
+01:45:42.370 --> 01:46:08.286
+Simon Hill's podcast because we had exchanged some Twitter things and said, oh my God, they disagree. They should have a debate. Is Stu Phillips like a carnivore guy? No, Stu Phillips, I'm sorry, is an exercise. He's super great at exercise studies at McMaster University. Okay. And after we actually emailed one another, not just tweeting however many characters you get on Twitter, said, oh my God, we actually agree on
+
+01:46:08.450 --> 01:46:38.398
+most things. And the reason we agreed is we have national data on what the protein intake is of Americans. So forget the protein bars and the protein powders and everything else. The average American doesn't do that. And the average intake is like 1.2 grams per kilogram body weight per day or higher. Of quality protein? Just food. So let's stop here. Just food. So the fun thing was that Stu and I got together. I said, you know,
+
+01:46:38.594 --> 01:47:06.494
+Stu, you hate that 0.8 grams per kilogram body weight. And you're saying people should have one gram per kilogram body weight, or maybe even 1.2, which would be 1.2 would be 50% higher than 0.8. That's the average American intake. And he said, well, that's true too. So he hates the 0.8, but he realized it's almost an irrelevant number because most people get more than that. I just served on the Dietary Guidelines Advisory Committee,
+
+01:47:06.594 --> 01:47:35.454
+we looked at those same data and it's still true. Americans eat more protein than the RDA on a general basis without trying, without knowing about it. It's just in more foods than you think. So the second issue is, well, if so many people are eating more, is there anything bad about the extra? Like, what do you do with the extra? And so there's sort of infinite capacity to store fat in your body. You probably know this in your body.
+
+01:47:35.874 --> 01:48:03.230
+belly and your butt and your underarms everywhere. Limited capacity for carbohydrate store. You can store, I actually heard Gabrielle Lyons talk about how much is in your liver and how much is in your skeletal muscle. But if you are a marathon runner in four hours after 20 miles or so, you bonk because you've exhausted all your carb stores. You can exhaust all your carb stores in four hours where it would take days and days and days with fat. But there is no storage depot for protein.
+
+01:48:04.034 --> 01:48:34.014
+At the end of the day, if you ate more than you needed, you're not storing any for the next day. It's not in your big toe. It's not in your spleen. It's not in your liver. It's nowhere after you made all the enzymes, hormones, hair, fingernails, and muscle tissue that you wanted, you break off the nitrogen. You have to eliminate that as ammonia in your kidney. And you turn the carbon skeleton into carbs, which if we do get back to the keto diet, is throwing the meat eaters on the keto diet out of ketosis because you just...
+
+01:48:34.306 --> 01:49:03.486
+turned the protein you were eating to avoid the carbs into the carbs that you were avoiding. But we won't go there. For the moment, we'll just say there's no place to store it. So you're not really getting any benefit about it. I was very interested to hear you just say you're fine eating the protein for the calories, the energy. Well, because I need a certain amount of calories. I would also, and I'm not just playing devil's advocate here. I feel, first of all, lucky that at a very young age, I started paying attention to what I ate for years
+
+01:49:03.778 --> 01:49:28.254
+not in a neurotic way, I just did that. And I will say that when you have a certain amount of caloric need, everyone does, you ask, where's it going to come from? And, you know, you eat enough vegetables, great, but it's hard to get your ration of calories, fruits, quality protein. So I'm referring to that as...
+
+01:49:28.738 --> 01:49:57.630
+you know, let's just put the taste good to you. So, you know, beef, fish, chicken, eggs, and I guess for the vegetarian, some combination of like beans and rice, that type of thing, where you get enough leucine, this sort of thing. But the key thing I believe is that you can, that one, I'll just speak from my own experience, I can eat those and feel satiated. Most starches on their own don't taste good enough. I mean, I like oatmeal with some salt.
+
+01:49:57.986 --> 01:50:24.062
+some cinnamon, but most starches don't taste good on their own unless you add lipids, you add fats. And so I would argue that most people are struggling with too much body fat because they overeat starches combined with fats, not because they overeat steak or they're overeating. It's not the hamburger. It's the hamburger bun that includes sugar, the cheese, and then we don't even need to talk about sugary soda. It's just kind of a duh now. It's
+
+01:50:24.194 --> 01:50:53.662
+loaded with all sorts of things that aren't nutritious. So I think that the key issue with this, you pointed to this idea, and I'm not trying to protect the protein crowd, but I think that one of the reasons that they are proponents of one gram per pound of body weight, roughly, or lean body weight, is that we need to eat something. We ideally should eat something that tastes good, that provides some nutrition for us, and that is not something that requires a bunch of other things in order to make it palatable.
+
+01:50:53.890 --> 01:51:18.046
+And, you know, I love fruit, but you can't just live on fruit, you know. And I love vegetables in their raw form, but they taste better with some olive oil on them. It doesn't take much to make a vegetable taste really good because I love vegetables. Same for fruit. I'll eat them on their own all day. But the starches are a problem because of the –
+
+01:51:18.146 --> 01:51:45.726
+quote-unquote requirements and preferences they bring with them. The problem isn't a loaf of sourdough bread. The problem is the immense amounts of butter and olive oil get sopped up and brought down with it. Most people, I would argue, are overweight not because they eat too much protein. That's the point I'm trying to make. Okay, fair. But, okay, so weight is a little separate issue, and if you're getting that for meat, you're getting more saturated fat and not fiber, and we're destroying the planet with the amount of meat and the kind of meat that we're getting right now. But parking lot
+
+01:51:46.146 --> 01:52:15.934
+now. Unless it's sustainably sourced. Which is such a small proportion of meat grown in the U.S. It takes attention. It takes attention. Most people cannot access that right now. Unfortunately. I completely agree with you there. So that is a great comment. I would love it if we went there. Okay, but let me move on. So one was the two standard deviations. Two is there's no place to store it. You're going to convert it to something else. And three is your quality thing. So here's another myth that we need to bust. So
+
+01:52:16.194 --> 01:52:42.686
+The myth part is that plants are missing amino acids. They're not complete. I'm sure everybody listening today has heard quinoa, the only plant with all nine essential amino acids. Bullshit. So I don't know if you can look at my paper in your podcast or show it. And I have it on my computer. We can provide links on the show note captions. So we wrote a paper in 2019.
+
+01:52:43.426 --> 01:53:11.710
+this actually was pretty fun for me. It came from working with the chefs. The chefs were working on that protein flip idea that I mentioned earlier, and they were a little worried. They said, what is the thing about the plants missing the amino acids or being incomplete? And so I knew a lot about this, but to make a slideshow for them that day, I did something I had never done before, and I got a whole bunch of foods, and I plotted out the amounts of every single amino acid in the food in the proportions they were in.
+
+01:53:12.354 --> 01:53:41.598
+if you looked at that 0.8 grams per kilogram body weight per day, and if you thought that exceeded the needs of some people, it's plausible that a lot of people by that calculation need 40 grams of protein a day, which sounds, I'm sure, very little. And I'm only bringing that up because there's 20 amino acids. And I would assume the average person would think, well, if I needed 40 and there's 20 amino acids, I would need two grams of every amino acid. And that is totally not the way it works. It actually works more like
+
+01:53:41.762 --> 01:54:06.590
+a board game of Scrabble. So when you're drawing, there's 100 Scrabble letters in the bag, and there's 26 letters in the alphabet. It almost seems like there'd be four of each letter in the bag. But you all know there's only one Z and one Y and one X. I mean, there's two Ys. But there's a crap ton of Es and Ns and Rs. And your amino acids are just like that. So you need a crap ton of lysine and leucine, and you need very little methionine or cysteine.
+
+01:54:07.330 --> 01:54:35.710
+So it was really fun in putting these graphics together. I said, here's eggs, here's beef, here's salmon, here's pork. Get ready because I'm going to show you beans and rice and grains and fruit. And I'm focusing on proportion. I will say per calorie meat has more protein than plants, just in terms of calories. But proportion-wise, one of the myths is the missing amino acids or the incomplete ones. Because if you make a graphic out of this, you will see all the
+
+01:54:36.066 --> 01:55:02.558
+plants have all goddamn 20 amino acids. They all have lysine. They all have methionine and cysteine. And the idea that they're missing is wrong. The idea that you have to complement your beans and grains is wrong, unless you're getting very little protein. At that point, it is important to complement them. But it's really not hard to get a lot of amino acids. You mentioned the quality of your protein.
+
+01:55:02.722 --> 01:55:31.582
+You're getting 175 grams of protein a day. Quality doesn't matter who you like. You met your needs at 60 or 70 grams, and I think you're converting the rest to carbs. Sorry to interrupt you, but I'm going to do it intentionally. The idea is to get, when I say quality, is to get the protein that one seeks without overdoing caloric intake. That gets tough with starches. Very tough. I mean, I have.
+
+01:55:31.682 --> 01:56:01.022
+half a bowl of rice is not very satiating, at least for me. I'll take a quarter of a bowl of steak over two bowls of rice to survive on now and forever. Yeah. And I wouldn't go with the grains. So grains are only like 10% protein. Beans are 20%. Soybeans are like 40%. And actually the amino acid profile of soy is better than any other beans. So the Asians who were doing soy milk, tempeh tofu for so long, pretty smart. But actually there's a
+
+01:56:01.698 --> 01:56:27.902
+An interesting issue in the U.S. compared to other countries in the world is how few beans we eat. And beans are super versatile. So you've got red red in Ghana, and you've got hummus in the Mediterranean, and you've got tacos and burritos and things in Latin America. Or it's Indian. You've got dals and lentils and things like that. That whole legume family is the best source of quality protein for the plant eaters.
+
+01:56:28.546 --> 01:56:52.990
+And so it's really a shame that sort of the quality thing is, oh, plant foods don't have quality protein. They're missing amino acids. So if I can add that to the pool, so the two standard deviations, no place to store it. And plants are better sources of protein than most people think. And so that's why there are vegan bodybuilders. You can win a gold medal in a
+
+01:56:53.250 --> 01:57:07.902
+bodybuilding competition strictly on plant proteins because they're not missing. So if I could just help dispel that myth, they're not missing, they're not absent. There is something to the proportions of protein. So if you were to see
+
+01:57:08.354 --> 01:57:36.606
+the heat map of amino acids that I'll share with you later. I looked at this prior to this, and I will say that the proportions of, let's just concentrate on leucine perhaps, since most listeners will be familiar with leucine as kind of the critical one for muscle building. I've got that in air quotes for those just listening. How do the different sources for protein play out in that case? Almost identical, all the way down the list of foods that I have. Leucine is not a problem in plant food. The problem in plant food is it's low in...
+
+01:57:36.706 --> 01:58:00.830
+Glycine for grains, and it's low in methionine for beans. They're actually called limiting amino acids because they would run out. If you only ate grains or you only ate beans, they would run out first, and then you'd be screwed. You can't actually substitute another amino acid for a hormone or an enzyme. You have to have all the amino acids in the proportions you want. And that's where the complementary thing came in because glycine,
+
+01:58:01.058 --> 01:58:30.942
+Grains, although they're low in lysine, are a little high in methionine. And beans, which are low in methionine, are a little high in lysine. If you ate them together, it would be closer to the proportions in meat. It's still meat would still be better. It has like, because animals are animals and we're animals, the proportions are perfect in animals. But what most people in this conference where I presented to, the chefs, they're like jaws were on the floor. Like, seriously, the proportions are that similar?
+
+01:58:31.426 --> 01:58:58.846
+That is mind-boggling that they're that similar. I realize they're not perfect. Was this made equivalent for calories? Was it 100 calories of beans versus- No, this is proportion. This is proportion. Proportion. But if I took, let's just say 100 calories, which just for sake of example, and we took your chart, which shows, and again, I looked at this prior to our conversation today, and it did hit me square in the face that all these plant sources have a lot of
+
+01:58:59.170 --> 01:59:26.974
+They have all the different amino acids that beef does in different proportions, but they have them. But if we said, okay, now we're going to make that chart, but for 100 calories of food. So it's either 100 calories of ribeye or 100 calories of red beans or 100 calories of quinoa. You get the idea. Absolutely. And that's why for the next slide, when I give these presentations, my next slide is 100 calories of 20 foods. We didn't plan that, folks. So it shows like for black beans...
+
+01:59:27.362 --> 01:59:45.470
+Two and a half cups would be 40 grams of protein. For soybeans, two cups would be 40 grams of protein. For rice, like 20 cups of rice would be 40 grams of protein. But if you put the different plant sources together, broccoli is actually oddly a good source.
+
+01:59:45.666 --> 02:00:10.270
+protein. Can we use that protein or this is just what? All of it. Oh yeah. Okay. Because bioavailability gets lumped into quality protein like this. So there are these charts, right? That say that, you know, egg is the near perfect protein or beef is the near perfect protein because of the bioavailability, our ability to use the amino acids as opposed to the amino acids being bound up by fiber or somehow not accessible.
+
+02:00:10.530 --> 02:00:38.270
+So in my field, that term would really mean digestibility and absorbability. And so at the level of protein and carbs and fats, humans get like 80 to 85 to 90% of everything. It's not like 20% and 80%. Even if it's plants bound in fiber, you're getting 80% of the protein absorbed. And then it's a question if the proportions are correct. So if...
+
+02:00:38.658 --> 02:01:07.646
+losing a little bit from not absorbing at all. And if the proportions aren't perfect, that's where meat comes out on top. Absolutely. So some colleagues and I wrote a paper called Modernizing the Definition of Protein Quality, which is technically always been on amino acid proportions and availability of digestion and absorption. And meat always wins. And we said, that's fine, but nobody in the U.S. is deficient in protein.
+
+02:01:08.130 --> 02:01:36.062
+go and talk at conferences all the time and I say, oh, you're all physicians. How many of you have a vegan or vegetarian in your practice? All their hands go up. They have some. I say, how many of you ever in your entire career treated anyone for protein deficiency? And no one's hand has been up to this day. No one has treated them for protein deficiency, short of caloric deficiency or other things that are going on. And it's not an isolated protein deficiency because they're vegetarians or vegans. And so
+
+02:01:36.898 --> 02:02:01.726
+Our definition included environmental impact and the other nutrients that come with meat that don't come with plants. And so when we created a scale that said chemical amino acid composition and bioavailability and impact on the planet and the other nutrients that come with it are absent, plants and animals were the same. We sort of neutralized it. I'd like to take a quick break and acknowledge one of our sponsors,
+
+02:02:01.858 --> 02:02:31.824
+Levels is a program that lets you see how different foods affect your health by giving you real-time feedback on your diet using a continuous glucose monitor. One of the most important factors in both short and long-term health is your body's ability to manage glucose. This is something I've discussed in depth on this podcast with experts such as Dr. Chris Palmer, Dr. Robert Lustig, and Dr. Casey Means. One thing that's abundantly clear is that to maintain energy and focus throughout the day, you want to keep your blood glucose relatively steady without any big spikes or crashes.
+
+02:02:31.824 --> 02:03:01.790
+I first started using Levels about three years ago as a way to try and understand how different foods impact my blood glucose levels. Levels has proven to be incredibly informative for helping me determine what food choices I should make and when best to eat relative to things like exercise, sleep, and work. Indeed, using Levels has helped me shape my entire schedule. I now have more energy than ever and I sleep better than ever. And I attribute that largely to understanding how different foods and behaviors impact my blood glucose. So if you're interested in learning more about Levels and
+
+02:03:01.794 --> 02:03:31.294
+trying a CGM yourself, go to levels.link slash Huberman. Right now, Levels is offering an additional two free months of membership when signing up. Again, that's levels.link spelled, of course, L-I-N-K slash Huberman to get the additional two free months of membership. I really appreciate all that information. Very illuminating. And I'll just remind myself and everyone that I love vegetables. In fact, these days, I'll say this.
+
+02:03:31.586 --> 02:03:59.294
+anyone listening, one of the great things about getting older is I actually eat less, but I just try and focus on eating quality food. And I just find that I don't need to eat as much food to maintain my body weight and feel good and have energy. In fact, I'm eating less and less each year. Once I start eating, I like to eat. But I think one of the markers of health, in my opinion, is the ability to wait to eat or to...
+
+02:03:59.394 --> 02:04:28.126
+You know, to eat a slightly larger meal and not have it, you know, crater your sleep or something like that. Or to have some, you know, eat less one day and more the next day. And maybe we don't need as much protein every day. I've played with this idea before of, you know, limiting the amount of protein I eat for a few days. And then eating, you know, going to a barbecue and eating like two ribeyes, you know, and enjoying that more. I think we think of things in this very static way, like best thing to eat each day. And you also illuminate for us that...
+
+02:04:28.226 --> 02:04:52.062
+There's a lot of nutrition in beans and legumes and other plants. And again, I'm starting to explore this more and more because I'm not a great cook, but I love to eat when I do eat. And I do think there's a real dearth of variety in the American diet that we can all work on. As long as we're talking about meat, I'm going to pick on beyond meat a little bit. Sure.
+
+02:04:52.194 --> 02:05:20.926
+I think it's the child of a Stanford professor that started this company, right? No, that's impossible. Impossible. Then I'm going to pick on them both. I'm going to pick on them both. I don't know these people. I have nothing against them. But I will say that I saw some pretty convincing arguments against these, for lack of a better word, artificial meats, fake meats. You put up the list of ingredients for Beyond Meat or Impossible meat, and then you compare it to the ingredients in beef and meat.
+
+02:05:22.082 --> 02:05:51.966
+don't have to be a nutrition expert to say there's a lot of ingredients. I mean, it reads like an encyclopedia of ingredients in the fake meat, which aligns with processed, which aligns with people's notions of fake and bad for us. So that kind of hits any potential consumer square in the face. So just because there are a lot of ingredients doesn't mean they're all bad for you. But you mentioned earlier in the context of dyes and cosmetic additives, you know, a lot of things that can't be pronounced that we've never heard of. I mean,
+
+02:05:52.098 --> 02:06:16.606
+but formal training in science and half of the ingredients in that in Beyond Impossible meat are completely foreign to me. No, not today. Go to the website right now and look at the ingredient list. Okay, well, initially it was overwhelming. Yes, they responded to that. Okay, great. And they've reformulated because of that. It's quite clean. And let me go back to your meat. So in the ingredients in the meat, is there antibiotics?
+
+02:06:16.770 --> 02:06:44.094
+Is there hormones? Is there corn? Is there soy? So it's a really easy argument to make when you slaughtered the beef and you took the kite and here it is, it is only beef. That is not everything that went into it. So I actually am writing a book and I have a chapter where I got some guy who had done this whole assessment of meat and the list is longer than beyond meats of all the things that went into the beef that you would find at the store to get that thing.
+
+02:06:44.194 --> 02:07:09.822
+to market. So it's an artificial argument. But just because the cow was fed something, how much of that is making it into the meat? Because the issue is how much am I consuming? Right. But you would be concerned with all the things that went into making that meat. Unless it was sourced the way I would like, which is grass-fed, pasture-raised. Which is only 1% of the meat. Right. So that's the point where
+
+02:07:10.050 --> 02:07:39.262
+I personally make an effort to eat grass-fed meat whenever possible. I do, you know. But the average person can't. But they can't. I totally acknowledge. So is the argument that beyond and impossible are the better option? Let's set aside the cardio metabolic metrics, even though that's very important, that it's better in terms of quality of what you're consuming in terms of, I don't know, sort of health status of the animal versus health status of what came out of the
+
+02:07:40.354 --> 02:08:04.158
+beyond or impossible factory? My contention here is, so two of my favorite sayings are instead of what and with what. And so the instead of what, we did a study of beyond meat versus red meat. A bunch of people said, I can't believe you're saying beyond meat is healthy. Don't you want them to eat the beans and the lentils and the other things? Said, I sure as hell do. For 30 years, I've been asking to people to eat more beans and lentils and they're not. They're still having fast food hamburgers.
+
+02:08:04.898 --> 02:08:30.014
+didn't even use fast food hamburgers we used like regenerative meat stuff and we've got cardiometabolic benefits i'm just saying sort of for the average american who has access to the meat that's out there beyond me is healthier if you were if you had so again when i do a study i have to have a preset number of outcomes and i have to have a defined exposure so at the same dose you
+
+02:08:31.074 --> 02:09:00.574
+LDL cholesterol went down, TMAO went down, weight went down, blood pressure didn't go up. So here's sort of a funny little sideline. A lot of people were trashing them for being processed foods with high sodium. And what we found in the study was when we delivered raw meat and raw ground beef and patties, the participants salted them. I definitely salt my food. And so when we did it, the sodium was identical and the blood pressure was identical in the two groups in the study. So the sodium...
+
+02:09:00.770 --> 02:09:30.142
+is fair that they have more sodium than red meat, but when you take this to people that are eating food, they salt it and it ended up being the same level of salt. So it's not a fair criticism of the way people actually eat it. Yeah, I would agree. You swept their knees on that one. I'd like to talk about this study that you did. I think it's called the twin study. Yes. Where, correct me for any errors here, but you basically gave twins...
+
+02:09:30.274 --> 02:09:56.030
+twins, the opportunity to follow one diet, or was it a pure vegan diet? Vegan, totally vegan. Totally vegan diet. I'm going to tell you at the outset what my takeaway from that study was. Okay. And then I'm going to let you tell us what actually happened. I'm doing it in this order on purpose. My takeaway was, wow, what a cool study. You know, having studied rodents for years that are on the same genetic background, you
+
+02:09:56.130 --> 02:10:24.862
+love to be able to do this in humans. You studied humans with the same genetic, essentially the same genes, as close to it as possible. Identical twins, awesome study. And the takeaway, and forgive me, I'm not trying to pick on you or this study. What I grabbed from the news articles about this was at the end of the study, the group that followed the vegan diet said, great, a bunch of things improved. And he
+
+02:10:24.962 --> 02:10:51.518
+know, but I don't think I can stick to this. I'm not going to stick to it going forward. It was, this was reported by Stanford media that the takeaway was that they thought it was great, but that they didn't see themselves sticking with it, that it's too hard to stay with. Okay. So that was my takeaway. It's this adherence issue. Like, you know, if people, you can give people the ideal circumstance, but the question is, will they follow it in the real world? Um, and, and that's a tough one because we're,
+
+02:10:52.098 --> 02:11:19.582
+a critical question because what we're talking about here is how to scale health, right? I mean, that's why we're here, right? We're not here to argue beef versus vegetables. Frankly, I don't care what you eat as long as it works for you. I know it works for me, but I'm willing to modify it based on the evidence. So the reason we sit down is to try and help people make better decisions on their health. And that was my takeaway. Now, tell me what the study was with a bit more detail. And if I'm completely wrong about this, I
+
+02:11:19.938 --> 02:11:45.598
+I like to think like any good scientist, I'm happy to be completely wrong. So let's talk about the study, but let me address that up front. So none of those metrics are part of the study. There's no follow-up in the study. No, this was interviews with the participants. So that's not scientific. No, but... That's anecdotal. So I'll tell you anecdotally... I mean, it was eight twins. How many twins were in this? 22 pairs of twins. 22 pairs of twins. And so each one was assigned to either...
+
+02:11:46.018 --> 02:12:15.358
+omnivorous versus vegan? Yeah, they get randomized. Okay. So I will tell you that there was a Stanford media report on three pairs of twins. And one pair said, no, we went back to our other diet. One pair said, yeah, we're both vegetarian now. And one pair was sort of in the middle of that. There's another, two of the featured twins in the movie, Michael and Charlie contacted us afterward. And the one who was omnivore said, we're both trying to be more vegetarian. Can you give us more resources? So they shifted.
+
+02:12:15.522 --> 02:12:42.462
+Okay. So two of the pairs that I know of that we had anecdotal follow-up with shifted more toward it, and one was intermediate and one just completely blew it off. That's an N of four pairs out of 22, not science. I'm only going to answer it that way. My anecdotal evidence said some yes, some no. Great. No, and you would know. You ran the study. Yeah, and not part of the study. So let's go back to the design because we can have some fun with this.
+
+02:12:42.562 --> 02:13:08.062
+And there's a really fun part. I would love to have the chance to address a critique that we've received that's part of the challenge of communicating this to the public. And it has to do with lean mass and DEXs, dual energy X-ray absorbed geometry. So the story starts with, this is all funded by a producer who comes to see us in 2021.
+
+02:13:08.354 --> 02:13:37.694
+And ask Justin Sonnenberg, the microbiome expert that you've had on your show, and I, if we would consider doing a study, the parameters being it had to be identical twins, and one arm of the study has to be vegan. His name is Luis Seho Yos. He got an Academy Award a decade ago for The Cove, which was a documentary about dolphin slaughter in Japan. Mercury-laden dolphins were being fed to schoolchildren. He also did Game Changers.
+
+02:13:37.794 --> 02:14:07.518
+to his elite athletes on plant-based diets. And he wanted to do another one to test out like the health of the diet, not in elite athletes, but in the general population. And he said, I have a donor who has the money and I have a contract with Netflix. They like my idea. And it would have to be identical twins for the science of it. And one diet has to be vegan. Can you design a study? What would it cost? How long would it take? Et cetera, et cetera, et cetera. And he said,
+
+02:14:07.842 --> 02:14:35.070
+that is fascinating. Identical twins is going to be a bitch. And he said, oh, no, no, I'm totally going to help you. So I'm not going to hold you to the recruitment. We've already found a whole bunch of identical twins for you. I said, well, wow, recruiting is the hardest thing. Okay, so we're going to make a good vegan diet and we're going to make a good omnivorous diet and we're going to randomize each pair of twins one at a time to one versus the other. And we're
+
+02:14:35.298 --> 02:14:58.270
+have enough money to do this for a long time we budgeted out and you have enough for like eight weeks of doing this study and it would be important that people catch on to the vegan part quickly the omnivorous thing they already do so what about the other group ah we'll deliver food for the first four weeks and then for the last four weeks we'll have them cook on their own now that they have enough ideas from having been fed for four weeks and so
+
+02:14:58.722 --> 02:15:28.062
+That's how it started to be designed. And we got blood and poop in the microbiome and we got epigenetic data and telomere length and things like this and adherence. And we have a whole new paper on adherence coming out. And so we randomized them. And as part of this, the producer kept asking for more and more things. And eventually we said, okay, we're measuring a lot of stuff. We have blood and poop and genes, but we can't measure anything. He says, I want DEXA. I want body composition. I said it.
+
+02:15:28.226 --> 02:15:55.390
+don't have enough money. And he said, well, we're going to go ahead. There's four featured pairs that are going to be in the documentary that we selected ahead of time. And that means there's 18 pairs that aren't involved in the documentary. And we have this super studly Nimai Delgado, who is a medal-winning vegan bodybuilder, and he will train them. And so Nimai had access to the four pairs, the eight twins, and nobody else did it.
+
+02:15:55.618 --> 02:16:25.150
+I actually never got those decks of data. It's not even part of the study. Jumping to the end when we finished the study, the vegans lost a little weight more than the other group, and they lowered their LDL cholesterol, and they lowered their fasting insulin in the main paper that got published in JAMA Network Open. On the side, because we measured a ton of crap, and now this has to be anecdotal and exploratory because it wasn't the main outcome. LDL was the main outcome on clinicaltrials.gov.
+
+02:16:25.410 --> 02:16:52.734
+group that does telomere length and epigenetic clocks published a whole separate paper and the vegans according to biological clocks were younger than their omnivorous twins just eight weeks later by epigenetic clocks not my specialty how much younger it wasn't even so you can't even statistically significant so it's not like in eight weeks you got four years younger it's more like statistically significant and their telomere caps were longer
+
+02:16:53.378 --> 02:17:21.758
+just eight weeks. Do you want to just remind people what that means? Sure, sure, sure. So on all our chromosomes, there's sort of a hot new topic, which is there's these protective caps on the ends of our chromosomes. And as we age, they shorten. And some people are sort of looking at biological age versus chronological age. And it would be a good thing to have a longer telomere cap on the ends of your chromosomes. And I said, no way in eight weeks. They were.
+
+02:17:22.082 --> 02:17:47.487
+So both of those were statistically significant. And just as a side note, that's a little bit fun. How familiar are you with altmetric scores? I mean, in terms of paper recognition. Yeah. So the altmetric score for the listeners is, my currency and yours as an academic is like how many people cite our work. If no one cited it, who cares? And it takes a while. It could take like five or 10 years for people to cite your work. Yeah.
+
+02:17:47.809 --> 02:18:17.567
+metric score is all based on social and traditional media so it appears the week that your paper comes out and there's some correlation if you've got a lot of media coverage it maybe will get cited later on so the funny thing is a good old metric score if you google it is 20. the jama network open paper had an altmetric score of 2000 the main paper the biological clock epigenetic data and the telomere length had an altmetric score of 3000. it was more widely
+
+02:18:17.730 --> 02:18:46.078
+than the main paper. The Sonnenbergs have another paper under review right now, and I can say this because it's already been published preprint, the vegans had better microbiome results. And so now we've got cardiometabolic benefits, biological clock, telomere length, microbiome benefits on the twins who did this for eight weeks. So those are the scientific results. And that was a strict vegan diet.
+
+02:18:46.273 --> 02:19:15.966
+Strict vegan versus... Not a single egg. Yeah. Versus omnivore. Okay. Now, part of this is, think, is my message I want the whole world to go vegan? No. My idea is if I only have eight weeks, I need to make a big difference in these diets so that if I get a signal, I can see it in eight weeks. Would there be disadvantages or advantages to doing this? And part of the fun of this is the producer approached us in 2021. He said, my contract with Netflix is...
+
+02:19:16.098 --> 02:19:45.470
+want to release this on New Year's Day when people are making their resolutions, not knowing the results ahead of time, 2024. And that means we would have to do this study in the first six months of 2022, analyze them all in the second half of 2022, let the producer film the participants in the study, and give them a year to edit it. So we did all this, fastest study we've ever run, actually. And he filmed a lot of other things, and we weren't actually sure how much we would be in
+
+02:19:46.018 --> 02:20:13.566
+docuseries. And it's like holiday time 2023 at the end of the year. And he says, there's a showing of the Netflix thing. Come. And I say, I can't come. I'm not even available. So I never actually even saw it before it was released. And so I wake up in Hawaii in the first week of January and my wife says, holy shit, you're number three on Netflix. 50 million people watch the docuseries.
+
+02:20:13.858 --> 02:20:41.438
+January alone. It's a lot of people. Biggest impact anything I've ever done. I can't tell you how many people said they changed their diet from watching the movie, but it also elicited criticisms. Anytime you get that many eyes on something, you're going to get critiqued. It's also a beautiful demonstration of how, you know, science and new form media are starting to intersect. And so this is really, I've actually been asked to do a whole bunch of talks now on health science communication.
+
+02:20:42.338 --> 02:21:06.142
+when I get the chance to describe it, it's pretty fun to look into, such as in the docuseries, the producer made a big deal of the Dexadata. And it seems odd that he made a big deal of it because the vegans that were featured, in particular Michael and Charlie, one of them lost lean mass. The vegan lost lean mass. And who wants to lose muscle? That sucks.
+
+02:21:07.842 --> 02:21:36.542
+That wasn't even an average data point. That was one data point. It turns out Charlie moved three times during the eight weeks of the study, and he didn't follow Nimai's advice anyway. And he was having a hard time eating. So that's why you have more than one person in a study. You have lots of people. Never saw those data. People saw it featured on Netflix, and the reason it was featured on Netflix was because then he got to show off Nimai, who's this totally ripped, buff, vegan dude on there.
+
+02:21:36.898 --> 02:22:06.878
+people saw that, ah, I saw the Charlie data. He lost lean muscle. Gardner, you are so unethical. You left that out of the JAMA paper. You are, you're manipulative. I can't believe you left data out of the paper to only show the things that were positive. And my response was, I wish he could have said, it was like only in the eight people. I never saw the data. I didn't have them. I reported all the data that I said I would report. So that's sort of one. Yeah. That's the challenge with merging with
+
+02:22:07.010 --> 02:22:35.198
+where there aren't a preset criteria. Yeah. This is true of social media. I mean, we've decentralized public health discussion. People no longer look to what's coming, no longer just look to what's coming from universities. The word expert doesn't mean anything anymore because no one knows who to call an expert and who not to call it, who's the better expert. The experts don't agree. As soon as people heard the experts don't agree enough times,
+
+02:22:35.330 --> 02:23:01.246
+basically that went from capital E expert to lowercase e to italicized to in quotes to what's an expert. Now, I'm not saying science doesn't matter. I'm a scientist. I care about science, obviously. But I think that new form media can be leveraged in both directions. And I will say that Game Changers did something very clever. I disagree with the conclusion. But, you know,
+
+02:23:01.346 --> 02:23:28.286
+know what most people took away from game changers the penis thing the penis the penis i know right which is horrible science right which is it's not even science not even science and anyone that knows anything about the relationship between you know nutrition and testosterone testosterone and erections by the way it's also important that estrogen levels be sufficiently high in men as well for libido you know it's like there's so many misconceptions about all of that but what did they take away they took away
+
+02:23:28.450 --> 02:23:58.110
+penis stuff, which just speaks to the slippery slope of any kind of public health discussion. I would say you're doing awesome given that people hear vegan and it's going to make 90% of people kind of brace because they think they're going to get an earful of a bunch of things that they should be doing and about how they're evil because of all the animals that are being tortured. And look, again, factory farms, terrible. I just want to just say before I forget that
+
+02:23:58.242 --> 02:24:20.254
+Earlier you used the term protein flip. I actually think that's a great way to describe the diet because it includes – and you notice there's nothing about plants in there. Yeah. And it has protein there. So I don't know how many Google employees it takes to come up with a discussion where everyone can agree, but I'm putting in a vote for the protein flip diet. Yeah. Because it also has a kind of a –
+
+02:24:20.610 --> 02:24:47.710
+it sets a conceptual idea of what you're trying to do. You put the meat on the outside as opposed to central. So I'm voting for protein flip. I'm not sure I'm going to do it, but I like protein flip. Okay. That sounds really good. Okay. So we were never pushing the vegan diet as a whole thing. It's just like, this is the study design we have to do this. So another of their critiques comes from Peter Atiyah. And this is going to go back to a parking lot item from the beginning of our discussion when we were talking about ultra processed foods and eating.
+
+02:24:47.874 --> 02:25:16.798
+the need in science to isolate a variable. Are you going to make me defend my good friend, Peter Atiyah? Sure, yeah. Okay, so interestingly, when it came to those ultra-processed foods, that was an important point because there's 150 chemicals. And in so many ultra-processed foods, they're in combination. So it's really hard to call out one of them or identify one and then put them all together. So you're right. At one level, science needs to be isolationist and reductionist. In the nutrition world...
+
+02:25:16.898 --> 02:25:46.238
+actually moved from nutrients to foods to food patterns. So one of the things that the Dietary Guidelines for Americans actually did 10 years ago was they said, God, you know, we've been praising fiber and we've been slamming saturated fat forever. And so if you say, hey, patient of mine, go get fiber and avoid saturated fat. It's like, that's not helpful. I go to the grocery store to buy food. And they say, ah, okay, go buy avocados and stop buying lunch and meats.
+
+02:25:46.658 --> 02:26:09.310
+Okay, that's a little more helpful. And then what we would find is people heard about the Mediterranean diet, and I'm going to be ridiculous here, but they'd have their egg McMuffin for breakfast and their Whopper for lunch and a Big Mac for dinner, and by their nightstand, they put a little jigger of olive oil, and they chugged that before they went to bed and said, I'm Mediterranean. I don't know if it was that extreme. But my point is, then they said, ah, so, you know, some people are gaming this.
+
+02:26:09.954 --> 02:26:34.206
+of identifying a food. Maybe what we need to talk about is patterns. So there's been a shift in the public health community in nutrition about dealing with patterns. So Peter called me out and he said, that vegan study is so stupid. He didn't say so stupid. He said, it's violated the principles of science. They not only manipulated the saturated fat, they manipulated the fiber. They didn't
+
+02:26:34.722 --> 02:27:00.830
+isolate this. You have failed the basics of Science 101. The header of the critique for me was that I had compromised Science 101 by failing to isolate a single variable. Was this on YouTube or something? It's in his post that he does wherever, I don't know, is it LinkedIn or is it his letter? And the response is, if you're going to test a vegan diet versus an omnivore diet,
+
+02:27:01.954 --> 02:27:30.174
+It would have to be different in saturated fat and fiber, B12 and cholesterol, eggs and lentils. It would have to be different in many, many categories. And so to circle back to your original comment, good science has to isolate the variable. It depends. If the question is the vegan diet versus an alternative pattern, then the variable you're isolating is the dietary.
+
+02:27:30.562 --> 02:27:59.614
+And so it would have to be absent in meat and eggs and chicken and everything. And that doesn't undermine the science. So I got crap for not publishing the DEXA data, which I didn't have. Peter gave me crap for that. And I got one other piece of crap that I really addressed really well on Twitter. And I'm super proud of this. Somebody went to the supplement where many of the tables were because they didn't fit in the main paper. And they saw the caloric distribution in the two arms.
+
+02:27:59.906 --> 02:28:29.342
+the feeding period and when they were eating on their own. And what they noticed was during the phase where we were feeding people and delivering food to them, the vegans were eating fewer calories. And the criticism on Twitter was when you fed them, you gamed the study by delivering less food to the vegans. They lost weight because you under-delivered calories to them. And maybe all the differences that we're seeing are just a caloric difference. They're not the diet type.
+
+02:28:30.274 --> 02:28:58.974
+would undermine the whole study. And it was great. I had the chance to respond. So I used to do a lot more on it. I don't anymore, but I did tutorials back when it was Twitter. And I said, that is a great catch that you saw this. Thanks for going to the supplement. That's pretty cool. So let me explain something else. So for the food company that delivered the food, we absolutely matched the caloric intake that we were delivering. But in a nutrition study, it doesn't come with a gavage. You can't
+
+02:28:59.810 --> 02:29:28.894
+the food down their throats, you have to let them eat what they want. So we didn't actually publish what we delivered. We published what they said they ate. And they ate slightly fewer calories, and they lost a small amount of weight on the side. So good for you for catching that, but let me have the chance to show you this. And there's actually another Twitter person named Dr. Tro who trolls me and gives me grief for some of my studies. And he wasn't the one who critiqued me. It was someone else.
+
+02:29:29.122 --> 02:29:58.142
+Apparently he did critique me and I didn't see it. And the next day I got a Twitter video apology from Dr. Tro. He said, I read your response to the criticism. I admit I'm wrong. I retract my critique. This is one of the great things about social media. And if it could be more civil like that, it wasn't even just a message. It was a video retraction. And I've been, to be fair, he said something the year before.
+
+02:29:58.690 --> 02:30:27.582
+I wrote back and said, this is so cool. We agree on this. I'm sure we don't disagree on everything. Thanks for calling this out. And I want to call out you and agree that what you said I think is true. Let's try to make this social media discourse more civil and more complete. That was almost better than doing this study for me, was to see this social media exchange where we said, ah, I sort of misunderstood that point. Thanks for clarifying. Wow, now we can move on.
+
+02:30:27.906 --> 02:30:42.526
+and deal with some of the real substantive differences that we have. Yeah, having been involved in various online points of friction and subsequent relief, resolution, I should say,
+
+02:30:42.658 --> 02:31:12.350
+It's a very satisfying feeling when that happens. In fact, that's how Lane Norton and I got to know one another. He critiqued something I said, we disagreed about it, I wrote back, I invited him on the podcast. This happened in a discussion around cannabis. I did an episode on cannabis that I still hold to what's in there. There was some critique from the cannabis research community. I invited the guy on, he came on here, we debated those things. Turns out the discrepancy in interpretation turned out to be relatively minor overall. That's how science is done.
+
+02:31:12.802 --> 02:31:41.342
+And social media has that opportunity, but it has far more opportunity to just kind of, you know, cast stones over walls and that kind of thing. I'm glad you highlighted those points of rebuttal and resolution. I want to make sure that we talk about fermented food, but in the context of fiber also. I think by now everyone knows fiber is super important. Anyone...
+
+02:31:41.474 --> 02:32:10.046
+disagrees with that, to me, should see a neurologist because it's just so very clear that if you follow the protein flip diet or the more meat, less vegetables, whatever, you need fiber. It's anti-cancer. It's pro-digestion. It's all sorts of great things. But you did this study with our colleague, Justin Sonnenberg. I love, love, love this study. And there's some interesting footnotes about fiber in there, but maybe you could just highlight the
+
+02:32:10.210 --> 02:32:37.566
+top contour of the study for people. And I will say this study convinced me to eat low sugar fermented foods every single day. Nice. And I have been ever since. And I recommend that to everyone who asks me for health advice. I think it's extremely important and effective. Okay, cool. Love this study. Love the Sonnebergs. Justin and Eric are two of the
+
+02:32:37.762 --> 02:33:03.998
+greatest scientists that I've ever worked with. They're practical. They're very rigorous scientists. So there's a little backstory that's kind of fun. Much as this is the first time I've met you, even though you're at Stanford, Justin and I had never met at Stanford. And we went to a conference in Seattle and met one another because we were presenting after one another. And he said, oh, my God, Christopher, I just saw your presentation where you showed how much you change people's diets
+
+02:33:05.026 --> 02:33:25.726
+I have colleagues who told me never to go near humans, like only do mice because humans are a pain in the ass and I'm terrified of humans. I was only going to do mice. But all the stuff I find in mice looks like it's diet related. And I said, oh, poop is icky. I do not want to do poop. But I fear poop. If you fear humans and I fear poop, we could get together.
+
+02:33:27.202 --> 02:33:51.294
+He said, great, let's do some stuff together. What should we do? And he really found fiber to be the big deal for his mice. And he said, let's do a fiber study with humans. And I said, ah, it seems like the public is really confused about probiotic and prebiotic, probiotic being live bacteria and prebiotic being the fibers that feed them. And I heard him say this on your show. So if anybody saw this show, your podcast with him,
+
+02:33:52.098 --> 02:34:21.214
+said, all right, we're just going to humor you and we're going to have a fermented food arm, not just a fiber arm. So we've got 18 people to eat as much fiber as humanly possible and 18 people to eat as much fermented food as humanly possible. And so we didn't actually set an upper limit on these. We just said more. We're only going to do this study for four weeks of ramp up so you can get accustomed to this new stuff in your diet and then six weeks of maintenance. And then we'll even go back four weeks later after the study ends and see how you're doing.
+
+02:34:22.146 --> 02:34:49.854
+And we will look at the microbiome to see if we can change the diversity of the microbiome, the characteristic of the microbes that are in there. And we'll go to this human immune monitoring center that Mark Davis, an immunologist, runs at Stanford, and we'll look at multiple measures of inflammation. So we did it. We got the people randomized to fermented food who previously had been eating less than half a serving a day to get six servings a day on average.
+
+02:34:50.434 --> 02:35:14.302
+I will pause just for a moment there in case that seems obscene. So picture that one bottle of kombucha that I have right under the table here is two servings. It's only 50 calories. And a serving of sauerkraut or kimchi is likewise very few calories. It's mostly just cabbage. So actually six servings a day was about 300 calories a day. It's not like most of their food
+
+02:35:14.434 --> 02:35:39.870
+fermented. But given that they hadn't eaten any fermented food hardly at all before, six servings a day was a lot. Yogurt, kefir, kombucha, kimchi, and sauerkraut. Those are the five main things. Low sugar fermented foods. Yeah. In my opinion. I've tacked low sugar onto it because when people hear fermented food, they go, oh, yogurt, yum, cherry, sugar flavored. Plain yogurt. Right. There you go. Plain yogurt. So,
+
+02:35:40.194 --> 02:36:05.918
+these, we actually looked at 90 different inflammatory markers because that's where the field is. We could go to inflammation as a whole separate topic if you want. 20 of the inflammatory markers dropped and got better in the fermented food group. When we went to the fiber group, oh, plus, I'm sorry, wait, this is super important. Their microbial diversity increased. Which is a good thing. Not always, but if it's the good microbes that are increasing, that's a good thing. But the other funny thing is
+
+02:36:06.242 --> 02:36:32.990
+Sonnenberg Lab was concerned that the only thing that was increasing, or they wanted to characterize it, are the microbes coming from the foods they're eating. So they went and bought all the different foods that people were eating and characterized them. And the majority of microbes contributing to the increased diversity were not in the foods that they were buying. So this is a little side statement that they made in the paper. Wow, this is super cool. When you change the milieu of the environment of the gut microbiome,
+
+02:36:33.698 --> 02:36:58.142
+might actually see some microbes appear that you weren't even feeding them. They might have been in such small concentrations that when you change that gut environment, some of them bloom that you didn't even know were there. So it's very fascinating that the microbial diversity increased. The markers of inflammation decreased. Great. It's like a clinical outcome benefit. And on the fiber side, the microbiome diversity didn't increase. And as a whole, the
+
+02:36:58.626 --> 02:37:28.414
+inflammatory markers didn't change. And in some cases, as I recall, they even increased. Increased. But, so part of that was fascinating because what they did is they said, ah, God, this is all that mouse study stuff. We thought the fiber was going to be the only one who won. Christopher, we were only humoring you that the fermented foods would have an impact. We thought it was going to be all fiber. Now we got to, God, we are scratching our heads here. Let's see what we can figure out. And they actually separated the 18 people into roughly three groups of six.
+
+02:37:29.090 --> 02:37:58.398
+They said, let's look at the data in a little more detail, and let's see if we can see anything. There's a range of response in the inflammatory markers. Some got worse, but some did get better. But that's why you do multiple people. You see if it cancels out. In the study, we wanted to see the average difference. But they looked at what might be predictors of those differences, and the key factor that came out was the baseline microbial diversity. And so the idea here was that people who had low diversity, like a compromised Western diet,
+
+02:37:58.562 --> 02:38:23.422
+depleted diversity. When they stuffed all that fiber down their gullet, they actually had an adverse reaction to it. It's like fire hose of fiber, can't handle this, going to actually have more of an inflammatory response to that, not less. But the people with the highest microbial diversity at baseline were more like the fermented food folks, and they had a benefit. And so this is where I thought they were brilliant in writing this paper, and
+
+02:38:23.746 --> 02:38:53.406
+that what they said was sort of from a general population standpoint, fermented foods are good. Like no matter whether they're eating the yogurt or the kimchi or the sauerkraut because not everybody ate the same proportions of the different things. It's like across the whole group, the benefits were clear. The fiber was much more nuanced and this is more like a personalized nutrition thing. So one was a general health recommendation and one was if you're going to go for more fiber, you might need to make sure your microbial diversity is up
+
+02:38:53.890 --> 02:39:20.670
+That might be part of what we have to figure out. Or warn the people with a compromised or depleted microbial diversity that you won't do well right now with more microbes. Super fun paper to work on. A geeky science thing because I know you're a data science guy. It's fun. The primary outcome for that study was the cytokine response score. So in the world of inflammation, nobody has a single thing that they all like. Not C-reactive protein, not C-reactive protein.
+
+02:39:20.770 --> 02:39:49.022
+not interleukin-6, not trimethylamine oxide. There's all kinds of things floating out there, but there isn't one that clinicians agree on and measure in the clinic. So Mark Davis had found this sort of cluster of 14 different things in a paper that they found looking within that population. They said, maybe people should be looking at the cytokine response score. And then on clinicaltrials.gov, we said, that's our primary outcome, and we're going to look at all this other stuff. And in the cell paper,
+
+02:39:49.410 --> 02:40:17.470
+cytokine response score didn't change. And since then, Mark Davis has kind of abandoned this score because it hasn't been reproduced in other populations. But I think it's really interesting from a paper publishing point of view that the reviewers caught it. They said, look, in this paper, your primary outcome didn't change. All the changes you're seeing are secondary and exploratory. But we kind of admit that you have 90 markers and 20 get better and nothing gets worse.
+
+02:40:18.274 --> 02:40:47.422
+probably worth talking about. So this is how nuanced that is. And the Fiverr story is nuanced. It wasn't 100 people. It was 18 people. I mean, divide them into groups of six. Very exploratory. And yet, that paper has now been cited a thousand times. It's a really influential paper. I mean, I talk about it as often as I get the opportunity. I think few papers have changed my behavior so radically.
+
+02:40:47.970 --> 02:41:16.190
+You probably talk about this, six servings per day. Do you think people can benefit from a couple spoonfuls of kimchi or sauerkraut? By the way, it's got to be the stuff that you need to keep refrigerated. Yes. Because you can find many things like sauerkraut and kimchi on the – probably more sauerkraut and pickles on the shelf not refrigerated. That's not going to benefit for anyone. There's no live cultures in there. And they're often paired with sugar and the stuff that's kept at room temp.
+
+02:41:16.418 --> 02:41:43.838
+I'm a fan of salt. I like salt. I drink enough water. My blood pressure is low. So I benefit from having salt. I have a lot of family members that unless they get enough salt, they feel a little lightheaded. I think maybe low blood pressure runs in our family a little bit. So I'm a fan of salt, but you make a good point for people with hypertension. They should be cautious about that. Gotta look out for that. So an interesting part of this study is, again, because it's a six-week maintenance phase of this thing, we had to make a big difference. So if there's a signal
+
+02:41:45.186 --> 02:42:10.750
+You don't want to miss a small signal. So in some of our studies, we kind of exaggerate. We go vegan, even though we're not expecting the world to go vegan. We just want them to eat more plants. We went to six servings because they were eating a half a serving before. And to just say, why don't you double that to one? It's like, okay, we're not going to get a perturbation of metabolism with one. Let's go to six. The interesting thing was four weeks after the study ended, this grandchild,
+
+02:42:10.882 --> 02:42:38.878
+of 18 that we're eating basically no fermented food at first, we're still eating three servings a day. They taste great. I love low sugar fermented foods. They're a little bit costly for many people. I'm fortunate that I can afford them like a really good Bulgarian or Greek yogurt. Kombucha can be expensive. I would say that because many of the listeners, you know, have a, there's a range of disposable income. But I will say that most processed foods are actually pretty expensive when you look at what
+
+02:42:38.978 --> 02:43:08.830
+going into, you know, like a latte that you purchase or something like that. Anyway, people love their lattes. I'm not trying to take away anyone's lattes. But I will say that eating low sugar fermented food, I strive to do it every day. You ate some before our talk today. I watched it. I did. I gulped down some scoops of kimchi out of it with breakfast sometimes. I have found it has made me feel from a level of digestion, just sort of general feelings of like gut feeling nice and happy after a meal, but also...
+
+02:43:08.930 --> 02:43:24.318
+And this is correlation. This isn't causation, of course, but just overall levels of energy and immune function. I mean, I haven't been sick in ages. I do a bunch of other things, but I see significant improvements in my health when I travel.
+
+02:43:24.578 --> 02:43:52.958
+I have this rule that when I travel, I double down on my health practices. My team knows when we arrive in the city, I won't eat in a restaurant. I'm finding a Whole Foods and I'm just eating raw foods in my room. And people always think it's crazy. It's kind of antisocial, but then I can go through an entire meeting or week feeling really, really good. I never miss workouts when I travel ever. I believe that when you're at home, you have all these conditions that make sleep easier. When you travel, some of the things are outside your control. So control what you can. Anyway, I love the low sugar fermented food thing. Um,
+
+02:43:53.090 --> 02:44:20.062
+Thank you and thank Justin for doing that study. Justin and Erica actually did look at that weight loss study that diet fits and saw some microbial diversity changes at six months that disappeared at 12. The term that they use that I probably can't explain effectively is residence. So if you eat yogurt every day, then that microbe is there because you ate it every day. But if you stopped, the benefit would probably come if the microbe took up residence and was there without you eating it again.
+
+02:44:20.770 --> 02:44:49.374
+isn't always the case. So sometimes you might have to actually eat the yogurt every day. The cooler thing, like a fecal transplant, would be somehow you got somebody to adopt that microbe and take it up regardless of what you eat, and it changed the environment for good. That's another place where the field is still exploring how to help people the most. I would love for you guys to do a study about low sugar fermented food intake might
+
+02:44:49.538 --> 02:45:17.438
+Microbial diversity and mental health depression. Because everyone here is like 90% of the serotonin is in your gut. Like, you know, the gut is influencing neurotransmitter levels, but I've never seen a quality study. Maybe I just didn't find it. A quality study of, okay, you eat some low sugar kimchi or you drink some kombucha and kefir and you do that five, six servings a day for six weeks and look at depressive symptoms. I would love for that study to be done.
+
+02:45:17.634 --> 02:45:47.422
+Love it. Yeah. We're always looking for new ideas. Thanks. We'll make you a co-investigator. All right. Well, or... Consultant. We have a philanthropy arm of this podcast that funds science, where we've collection of donors through our premium channel that we could talk about offline. Bring it. Christopher, this was awesome. I confess I was a little braced for the vegan versus son of an Argentine who likes steak conflict, but we didn't do that. Actually, I credit you for...
+
+02:45:47.554 --> 02:46:15.358
+navigating this really difficult space that used to be called nutrition that is now called food patterns with incredible grace and incredible dedication to figuring out what people can do to make themselves healthier. It's so clear from today's discussion that you're not trying to ram veganism down people's throats, nor are you disparaging of people's food choices. You've really highlighted how the food supply and these kinds of systemic issues are problematic, but they
+
+02:46:15.778 --> 02:46:36.318
+pointed to some real potential solutions. And I'll be amplifying all of those solutions as broadly as I can because I agree with them. I also love this notion of the protein flip, if I may. Plant-based has got to go. Protein flip is coming in. And
+
+02:46:37.314 --> 02:47:06.366
+it's really important that people think not just about what they eat in terms of calories, but in terms of everything from sourcing to how they interact with food. And as you highlighted so beautifully, taste is vital. So if this conversation and others that are sure to stem from it get people thinking about interacting with their food differently and thereby eating more healthily, that would be great. So thanks for taking time out of your busy, busy schedule, tackling the hardest issue in science, in my opinion, to get your arms around.
+
+02:47:06.882 --> 02:47:25.054
+And coming down here and having a conversation, I really enjoyed it. It was great fun. I just love nutrition. It's really complicated, but it doesn't have to be. There can really be a lot more consensus than controversy if you can have this kind of exchange and explain some of the nuance behind it. And there really is a lot.
+
+02:47:25.442 --> 02:47:54.974
+we don't know. And so there's a room for a lot of different diets out there. And you should find the one that works best for you. But I hope we can help people with some of the foundational principles. And there are many of them that don't change. There are some basics to nutrition. And many people don't follow the basics. They eat too much crappy food. So let's aspire to eat a healthful, environmentally sound, tasty diet. Amen to that. Thanks, Christopher. Pleasure.
+
+02:47:55.362 --> 02:48:04.894
+you for joining me for today's discussion with Dr. Christopher Gardner. To learn more about Dr. Gardner's work and to find links to the various resources we discussed, please see the show note captions.
+
+02:48:05.186 --> 02:48:35.152
+If you're learning from and or enjoying this podcast, please subscribe to our YouTube channel. That's a terrific zero cost way to support us. In addition, please follow the podcast by clicking the follow button on both Spotify and Apple. And on both Spotify and Apple, you can leave us up to a five-star review and you can now leave us comments at both Spotify and Apple. Please also check out the sponsors mentioned at the beginning and throughout today's episode. That's the best way to support this podcast. If you have questions for me or comments about the podcast or guests or topics that you'd like me to consider for the Huberman
+
+02:48:35.152 --> 02:48:59.390
+Please put those in the comments section on YouTube. I do read all the comments. For those of you that haven't heard, I have a new book coming out. It's my very first book. It's entitled Protocols, an Operating Manual for the Human Body. This is a book that I've been working on for more than five years, and that's based on more than 30 years of research and experience. And it covers protocols for everything from sleep to exercise, to stress control,
+
+02:48:59.554 --> 02:49:19.550
+protocols related to focus and motivation. And of course, I provide the scientific substantiation for the protocols that are included. The book is now available by presale at protocolsbook.com. There you can find links to various vendors. You can pick the one that you like best. Again, the book is called Protocols, an Operating Manual for the Human Body.
+
+02:49:19.906 --> 02:49:49.872
+If you're not already following me on social media, I am Huberman Lab on all social media platforms. So that's Instagram, X, Threads, Facebook, and LinkedIn. And on all those platforms, I discuss science and science-related tools, some of which overlaps with the content of the Huberman Lab podcast, but much of which is distinct from the information on the Huberman Lab podcast. Again, it's Huberman Lab on all social media platforms. And if you haven't already subscribed to our Neural Network newsletter, the Neural Network newsletter is a zero-cost monthly newsletter that includes podcast summaries as well
+
+02:49:49.872 --> 02:50:15.582
+as what we call protocols in the form of one to three page PDFs that cover everything from how to optimize your sleep, how to optimize dopamine, deliberate cold exposure. We have a foundational fitness protocol that covers cardiovascular training and resistance training. All of that is available completely zero cost. You simply go to Hubermanlab.com, go to the menu tab in the top right corner, scroll down to newsletter and enter your email. And I should emphasize that we do not share your email with anybody.
+
+02:50:15.778 --> 02:50:24.478
+you once again for joining me for today's discussion with Dr. Christopher Gardner. And last, but certainly not least, thank you for your interest in science.

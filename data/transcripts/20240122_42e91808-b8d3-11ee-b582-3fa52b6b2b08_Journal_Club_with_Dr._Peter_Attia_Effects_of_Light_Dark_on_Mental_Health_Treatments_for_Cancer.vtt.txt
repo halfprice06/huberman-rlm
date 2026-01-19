@@ -1,0 +1,1249 @@
+WEBVTT
+
+00:00.386 --> 00:28.894
+Welcome to the Huberman Lab Podcast, where we discuss science and science-based tools for everyday life. I'm Andrew Huberman, and I'm a professor of neurobiology and ophthalmology at Stanford School of Medicine. Today marks the second episode in our Journal Club series with myself and Dr. Peter Atiyah. Dr. Peter Atiyah, as many of you know, is a medical doctor who is a world expert in all things health span and lifespan.
+
+00:29.346 --> 00:54.014
+He is the author of the bestselling book, Outlive, as well as the host of his own terrific podcast, The Drive. For today's episode, Peter and I each select a different paper to share with you. We selected these papers because we feel they are both extremely interesting and extremely actionable. First, I present a paper that is about how light exposure during the morning and daytime, as well as dark exposure at night,
+
+00:54.242 --> 01:15.774
+each have independent and positive effects on mental health, as well as the ability to reduce the symptoms of many different mental health disorders. Now, I've talked before on this podcast and elsewhere about the key importance of seeing morning sunlight, as well as trying to be in dim light at night. However, the data presented in the paper today really expands on that
+
+01:15.874 --> 01:45.374
+by identifying the key importance of not just morning sunlight, but getting bright light in one's eyes as much as is safely possible throughout the entire day and a separate additive effect of being in as much darkness at night as possible. I described the data in a lot of detail, although you do not need a background in biology in order to understand that discussion. And there's a key takeaway, which is that if you can't get enough light in your eyes during the daytime, you would be well advised to get as much
+
+01:45.666 --> 02:13.022
+darkness exposure at night. In other words, light and dark have independent and additive effects on mental health. And during today's discussion, you'll learn exactly how to apply light exposure and dark exposure in order to get those benefits. Then Peter presents a paper about novel treatments for cancer. I must say it's an extremely important conversation that everybody, regardless of whether or not you may have had cancer or know somebody who's had cancer, ought to listen to.
+
+02:13.218 --> 02:39.646
+He highlights the current technology of cancer treatments, as well as the future technology of cancer treatments, and the key role that the immune system and the autoimmune system play in treatments for cancer. I assure you that by the end of today's Journal Club episode, you will have learned a ton of new information about light and dark and mental health, as well as cancer and the immune system and treatments for curing cancer.
+
+02:39.874 --> 03:06.654
+Before we begin, I'd like to emphasize that this podcast is separate from my teaching and research roles at Stanford. It is, however, part of my desire and effort to bring zero cost to consumer information about science and science related tools to the general public. In keeping with that theme, I'd like to thank the sponsors of today's podcast. And now for my discussion with Dr. Peter Atiyah. Andrew, great to have you here for journal club number two. I'm already confident this is gonna become a regular for us.
+
+03:06.786 --> 03:36.606
+I'm excited. I really enjoy this because I get to pick papers I'm really excited about. I get to hear papers that you're excited about and we get to sharpen our skills at reading and sharing data and people listening can do that as well. So last time I went first. So I think I'm going to put you on the hot seat first and have you go first and I'll follow you. Okay. Well, I'm really excited about this paper for a number of reasons. First of all,
+
+03:38.210 --> 04:07.326
+at least by my read is a very powerful paper in the sense that it examined light exposure behavior as well as dark exposure behavior. And that's going to be an important point in more than 85,000 people as part of this cohort in the UK. I'll just mention a couple of things to give people background and I'll keep this relatively brief. First of all, there's a longstanding interest in the relationship between light and mental health and physical health.
+
+04:07.586 --> 04:36.350
+And we can throw up some very well-agreed-upon bullet points. First of all, there is such a thing as seasonal affective disorder. It doesn't just impact people living at really northern locations. But basically, there's a correlation between day length and mood and mental health, such that for many people, not all, but for many people, when days are longer in the spring and summer, they feel better. They report fewer depressive symptoms.
+
+04:36.706 --> 05:05.054
+And conversely, when days are shorter, significantly more people report feeling lower mood and affect. Okay, so there's a longstanding treatment for seasonal affective disorder, which is to give people exposure to very bright light, especially in the morning. The way that that's normally accomplished is with these SAD lamps, seasonal affective disorder lamps. And those lamps are basically bright, meaning more than 10,000 lux,
+
+05:05.154 --> 05:33.054
+lights that they place on their kitchen counter or at their table in the morning or in their office. So they're getting a lot of bright light. That has proven to be fairly effective for the treatment of seasonal affective disorder. What's less understood is how light exposure in the middle of the night can negatively impact mood and health. And so where we are headed with this is that there seems to be, based on the conclusions of this new study, a
+
+05:33.410 --> 05:59.998
+powerful and independent role of both daytime light exposure and nighttime dark exposure for mental health now a couple of other key points the biological mechanisms for all this are really well established there's a set of cells in the neural retina which aligns the back of your eye they're sometimes called intrinsically photosensitive retinal ganglion cells are sometimes called melanopsin retinal ganglion cells we'll talk about
+
+06:00.162 --> 06:29.470
+those in a bit of detail in a moment, it's well known that those cells are the ones that respond to two different types of light input, not one, but two different types of light input and send information to the hypothalamus where your master circadian clock resides. And then your master circadian clock sends out secretory signals. So peptides, hormones, but also neural signals to the brain and body and say, hey, now it's daytime. Now it's nighttime. Be awake, be asleep. But it goes way beyond that.
+
+06:29.730 --> 06:54.974
+These melanopsin intrinsically photosensitive retinal ganglion cells we know also project to areas of the brain like the habanula, which can trigger negative affect, negative mood. They can trigger the release of dopamine or the suppression of dopamine, the release of serotonin, the suppression of serotonin. And so they're not just cells for setting your circadian clock. They also have a direct line, literally one synapse away,
+
+06:55.106 --> 07:19.422
+into the structures of the brain that we know powerfully control mood so so the mechanistic basis for all this is there so there's just a couple of other key points to understand for people to really be able to digest the data in this paper fully there are basically two types of stimuli that these cells respond to one is very bright light as we just talked about that's why getting a lot of daytime sunlight
+
+07:20.002 --> 07:49.150
+is correlated with elevated mood. That's why looking at a 10,000 lux artificial lamp can offset seasonal affective disorder. By the way, just a couple questions on that. How many lux does the sun provide on a sunny day at noon? Okay, great question. So if you're out in the sun with no cloud cover or minimal cloud cover in the middle of the day at noon, chances are it's over 100,000 lux. On a really bright day,
+
+07:49.794 --> 08:17.406
+could be 300,000 lux. Okay. Most indoor environments, even though they might seem very bright, I like to think of your, your kind of like a department store with the bright lights, believe it or not, that's probably only closer to 6,000 lux maximum and probably more like 4,000 lux. Most brightly lit indoor environments are not that bright when it comes down to total photon energy. Now,
+
+08:18.114 --> 08:47.870
+here's the interesting thing on a cloudy day when you're outside it can be as bright as or an average of a hundred thousand lux but it won't seem that bright because you don't quote unquote see the sun but it's also because when there's cloud cover a lot of those long wavelengths of light such as orange and red light aren't coming through however and this is so important the circadian clock the super chiasmatic nucleus
+
+08:48.194 --> 09:12.510
+it sums photons. It's a photon summing system. So basically if you're outside in 8000 lux very overcast UK winter day and you're walking around hopefully without sunglasses because sunglasses are going to filter a lot of those photons out, your circadian clock is summing the photons. So it's an integration
+
+09:12.802 --> 09:36.318
+mechanism. It's not triggered in a moment. And actually the experiments of recording from these cells first done by David Burson at Brown were historic in the field of visual neuroscience when shown bright light on these intrinsically photosensitive cells. You could crank up the intensity of the light and the neurons would ramp up their membrane potential and then start spiking, firing action potential. So
+
+09:36.738 --> 10:02.174
+long trains of action potentials that have been shown to go on for hours. And so that's the signal that's propagating into the whole brain and body. Okay, so the important thing to understand is this is not a quick switch. That's why I suggest on non-cloudy days, we'll call them, that people get 10 minutes or so of sunlight in their eyes in the early part of the day, another 10 minimum in the later part of the day,
+
+10:02.754 --> 10:32.510
+as much sunlight in their eyes as they safely can throughout the day. But since you're a physician, I should just, and you had a guest on talking about this recently, when the sun is low in the sky, low solar angle sunlight, that's really the key time for reasons we'll talk about in a moment. And when the sun is low in the sky, you run very, very little risk of inducing cataract by looking in the general direction of the sun. You should still blink as needed to protect the eyes. It's when the sun is overhead and there's all those photons coming in quickly in a short period of time that you,
+
+10:32.706 --> 10:59.486
+You do have to be concerned about cataract and macular degeneration if you're getting too much daytime sunlight. So the idea is sunglasses in the middle of the day are fine, but you really should avoid using them in the early and later part of the day, unless you're driving into the sun and you need, you know, for safety reasons. Another question, Andrew. If a person is indoors, but they have large windows, so they're getting tons of sunlight into their space, they don't even need ambient indoor light.
+
+10:59.586 --> 11:27.198
+How much of the photons are making it through the glass, and how does that compare to this effect? Yeah, in general, unless the light is coming directly through the window, most of the relevant wavelengths are filtered out. In other words, if you can't see the sun through the window, even if sufficient light is being provided, that's insufficient to trigger this phenomenon? That's right. However, if you have windows on your roof, which some people do, skylights,
+
+11:27.298 --> 11:47.550
+that makes the situation much much better in fact the neurons that in the eye that signal to the circadian clock and these mood centers in the brain reside mainly in the bottom two-thirds of the neural retina and are responsible for looking up basically they're gathering light from above these cells are also very low resolution so
+
+11:47.650 --> 12:16.414
+Think of them as big pixels. They're not interested in patterns and edges and movement. They're interested in how much ambient light there happens to be. Now keep in mind that this mechanism is perhaps the most well-conserved mechanism in cellular organisms. And I'll use that as a way to frame up the four types of light that one needs to see every 24 hours for optimal health. And when I say optimal health, I really mean mental health and physical health, but we're gonna talk about mental health mainly today in this paper.
+
+12:17.730 --> 12:42.590
+There's an absolutely beautiful evolutionary story whereby single cell organisms all the way to humans, dogs, rabbits, and everything in between have at least two cone options. One that responds to short wavelength light, AKA blue light, and another one that responds to longer wavelength light, orange and red. So your dogs have this, we have this, and it's,
+
+12:43.394 --> 13:12.990
+it's a comparison mechanism in these cells of the eye these neurons of the eye they compare contrast between blues and orange or sometimes blues and reds and pinks which are also all long wavelength light there are two times of day when the sky is enriched with blues oranges pinks and reds and that's low solar angle sunlight at sunrise and in the evening these cells are uniquely available to trigger
+
+13:13.634 --> 13:38.238
+the existence of those wavelengths of light early in the day and in the evening, not in the middle of the day. So these cells have these two cone photopigments and they say, how much blue light is there? How much red light is there or orange light? And the subtraction between those two triggers the signal for them to fire the signal off to the circadian clock of the brain. And that's why I say, look at low solar angle sunlight early in the day. What that does is it
+
+13:39.458 --> 14:04.894
+it as phase advances the clock this can get a little technical and we don't want to get too technical here but think about pushing your kid on a swing the period of that swing the duration of that swing is a little bit longer than 12 hours okay so when you stand closer to the kid so your kid swings back and you give it a push you're shortening the period right you're not allowing the swing to come all the way up
+
+14:05.442 --> 14:34.622
+That's what happens when you look at morning sunlight. You're advancing your circadian clock. Translated to English or non-nerd speak, you're making it such that you will want to go to bed a little bit earlier and wake up a little bit earlier the next day. In the evening, when you view low solar angle sunlight, so in the afternoon setting sun or evening setting sun, you do the exact opposite. You're phase delaying the clock. It's the equivalent of your kid being at the very top of the arc.
+
+14:34.786 --> 15:01.150
+And so it's gone, you know, maybe 12 and a half hour, 12, let's say 12 and a half hours is the duration of that swing. And you run up and you push them from behind and give them a little more push. That's the equivalent of making yourself stay up a little later and wake up a little later. These two signals average so that your clock stays stable. You don't drift, meaning you're not waking up earlier every single day or going to sleep later every single day. This is why it's important to...
+
+15:01.378 --> 15:30.654
+view low-angle sunlight in the morning and again in the evening as often as possible. And it's done by that readout of those two photopigments. Now, midday sun, which contains its bright light, but you see it as white light, contains all of those wavelengths at equal intensity. So the middle of the day is the so-called circadian dead zone. In the middle of the day, bright light triggers the activation of the other opsin, the melanopsin, which
+
+15:31.234 --> 16:00.062
+increases mood, increases feelings of well-being, has some other consequences, but you can't shift your circadian clock by viewing the sun in the middle of the day because it's in the circadian dead zone. It's the equivalent of pushing your kid on the swing when they're at the bottom of the arc. You can get a little bit more, but not much. And in biological terms, you get nothing. So this is why looking at sunlight in the middle of the day is great, but it's not going to help anchor your sleep-wake cycle. And if you think about it, this is incredible, right? Every organism...
+
+16:00.770 --> 16:30.750
+from single cells to us has this mechanism to know when the sun is rising and when the sun is setting, and it's a color comparison mechanism, which tells us that actually color vision evolved first, not for pattern vision, not for seeing beautiful sunsets and recognizing that's beautiful or paintings or things of that sort, but rather for setting the circadian clock. Now, what if you only do one of these, Andrew? So what if you've got constant exposure to low morning light, but your job prevents you from doing the same in the evening or vice versa?
+
+16:31.234 --> 16:59.294
+Yeah, a great question. Better to get the morning light because if you have to pick between low solar angle light early or later in the day. And keep in mind, if you miss a day, no big deal. It's a slow integrative mechanism averaging across the previous two or three days. But if you miss a day, you'll want to get twice as much light in your eyes that next morning. The reason it's better to do in the morning as opposed to the evening, although both would be to do, best would be to do both, excuse me,
+
+16:59.426 --> 17:28.990
+is that most people are getting some artificial light exposure in the evening anyway. And here's the diabolical thing. Your retina is very insensitive to light early in the day. You need a lot of photons to trigger this mechanism early in the day. As the day goes on, retinal sensitivity increases and it takes very little light to shift your circadian clock late in the day. Keep in mind also that if you do see afternoon and evening sunlight, there's a beautiful study published in Science Reports, yes, Science Reports,
+
+17:29.250 --> 17:57.534
+two years ago showing that that can partially offset the negative effects of artificial light exposure at night. I think of this as your Netflix inoculation. The amount of melatonin suppression from nighttime light exposure is halved by viewing evening setting sun. Now keep in mind you don't need to see the sun cross the horizon. It can just be when it's low solar angle. So you're looking for those yellow blue or blue pink blue red contrasts. And on cloudy days believe it or not they're still there just you don't
+
+17:57.922 --> 18:23.262
+perceive as much of it coming through. So that's three things that we should all strive to do. View low solar angle sunlight early in the day, view solar angle sunlight later in the day, and get as much bright light in our eyes as we safely can, ideally from sunlight throughout the day. And if you can't do that, perhaps invest in one of these satellites, although they can be a bit expensive. There are a couple of companies that are starting to design
+
+18:23.426 --> 18:51.294
+sunrise simulators and evening simulators that are actually good that actually work um but right now my read is that aside from one company out there which by the way i have no relationship to it's called the 20 light tuo and that light bulb was developed by the biologists of the university of washington who basically discovered these color opponent mechanisms um those lights are not particularly expensive but they're um
+
+18:52.322 --> 18:55.198
+they do seem to work. In fact, they they're the study that
+
+18:55.554 --> 19:23.614
+is emerging again unpublished data seems to indicate that if you look at it for more than five or six minutes it can induce a mild euphoria that's how powerful this contrast is and what they did there in that light i'll just tell you the mechanism is they figured out that when most people look at low solar angle sunlight in the morning they're getting 19 reversals of blue orange per second so when you look at this light it looks like a a barely flashing white light but it's reversals of orange and blue orange and um
+
+19:23.746 --> 19:37.310
+and red and blue, and it's happening very fast. And so what does the person looking at it perceive? Well, I've used one of these. It just looks like a flickering light. And of course, there's always the potential of a placebo effect. Well, that's what I was going to say. Is there a way to...
+
+19:37.666 --> 20:05.086
+control for that by having something that looks the same to the user but of course is not producing the same photo effect? Yeah, well they've done that with the 10,000 luxe SAD lamps and which most people use to try and induce sunrise simulation in their home. But keep in mind that sunrise gives you this comparison of short and long wavelength light. Just a bright 10,000 luxe light triggers one of the options that
+
+20:05.858 --> 20:31.806
+but it won't set your circadian clock. So most of the sad lamps that are out there are activating only one of the mechanisms in these cells that's relevant and not the one that's most relevant. So I'm excited about what 2.0 is doing. I think that, and again, I have no relation to them, except I know the biologists who did the work that provide the mechanistic logic for that engineering. I still think we're in the really, like,
+
+20:32.130 --> 20:55.966
+early days of this stuff, what should be done is to have this stuff built into your laptop, right? It should be built into your phone and hopefully it will be. Now, I mentioned this color contrast thing in sunrise and sunset. I mentioned the bright light throughout the day, but there's a fourth light stimulus that turns out to be really important. And this will provide the segue into the paper. It turns out that dark exposure at night
+
+20:57.346 --> 21:26.654
+independent of light exposure during the day is important for mental health outcomes. Now, most people think dark exposure. How do I think about that? Well, it is dark yet. It's the absence of light. But what this paper really drives home is that people who make it a point to get dark exposure at night, aka the absence of light at night, actually benefit even if they're not getting enough sunlight during the day. And this is especially true for people with certain mental health issues. So I don't think we can overstate the value of
+
+21:27.234 --> 21:53.342
+of accurately timed light exposure to the eyes in the context of mental health. I think, you know, there's so much data by now. I will say, however, that some people seem more resilient to these light effects than others. Meaning some people, you know, also don't suffer from jet lag too much. Some people can stay up late, get a lot of bright light exposure in the middle of the night, and during the day they've got their sunglasses on all day and they're in a great mood all the time.
+
+21:53.538 --> 22:21.342
+Other people are more susceptible to these sorts of things. And we don't know whether or not polymorphisms underlie that. I personally am very sensitive to sunlight in the sense that if I don't get enough sunlight, I don't feel well after a couple of days. But I'm less sensitive to light exposure at night, for instance. But I think it is perhaps, this is a big statement, but it is perhaps the most fundamental environmental stimulus for...
+
+22:21.698 --> 22:47.486
+levels of arousal and alertness, which correlate with all sorts of, you know, neuromodulator and hormone outputs. And so none of this should come as any surprise. I will mention one last thing. There was a study published, gosh, over 10 years ago now from Chuck Zeiser's lab at Harvard Medical School. It's a phenomenal lab exploring circadian human health behavior. He's just considered, no pun, a luminary in the field. But there wasn't
+
+22:47.586 --> 23:17.310
+a study that was in error where they had published in Science Magazine that light shone behind the knee could shift circadian rhythms. And that paper was retracted. And a lot of people don't know that it was retracted. Light exposure to the eyes is what's relevant here. And as far as we know, the color of one's eyes, the darkness or lightness of one's eyes, bears no relevance on their sensitivity to these types of mechanisms, and on and on. So one question, one comment. The question, again, is going back to the morning, evening light. And I spend a lot of time looking at
+
+23:17.442 --> 23:46.942
+those types of skies, for example, just because of the nature of my hobbies. Great. Right, because I'm always doing archery in the morning and rucking in the afternoon. So it's not uncommon that I'm seeing both of those. How relevant is it that the sun be above the horizon? So for example, it begins to get light about 30 minutes before sunrise. And then, you know, right, so if sunrise is at 7.30, first light is 7. And then, you know, sort of 7.15 to 7.30,
+
+23:47.138 --> 24:13.214
+30 is actually quite bright. I mean, you can see anything and everything, and the same is true at sunset. So does that 30 minutes pre, or when sun is beneath the horizon, constitute part of that 10 minutes? It does. I mean, in an ideal circumstance, you'd get outside and see the sunrise every day, and you'd see the sunset every day, even on cloudy days. Some people, like myself, wake up before the sun comes up. And I get this question all the time.
+
+24:13.314 --> 24:39.070
+Well, in the absence of powers to make the sun rise faster, which I'm not aware anyone has, certainly not me, I think the best thing to do is simply to turn on as many bright lights as you can indoors to trigger that melanopsin mechanism. If you want to be awake, if you want to stay asleep or sleepy, then keep them dim and then get outside once the sun is starting to come out. Some people wake up after the sun has risen, right? In which case, get what you can. And some people wake up
+
+24:39.330 --> 25:05.758
+10 a.m. or noon, in which case you can still get the bright light exposure, but you won't shift your circadian clock. Now, in the evening, especially in the winter months, it's important to look west and try and get some sunlight in your eyes in the evening. If you've ever gone into the clinic, for instance, at 2 o'clock in the afternoon after lunch, you know, and then in the winter, and then come out and it's dark when you're walking to your car, it's a kind of eerie situation.
+
+25:05.858 --> 25:27.102
+feeling that sort of eerie feeling may correlate with the fact that you missed a signal. Your brain is trying to orient your brain and body in time. And that's what all of this is, right? It's trying to orient in time. And again, some people are more susceptible to that than others. Some people might like that feeling of, oh, I went in when it was bright and I come out when it's dark. But the vast majority of people
+
+25:27.426 --> 25:52.542
+feel better when they're getting this morning and evening sunlight exposure. And this is especially important in kids. All right. This is one of the things that, you know, this paper points out and there are good data that people are spending approximately 90 percent of their time indoors nowadays. Daytime time indoors. And those indoor environments are simply not bright enough. You think, oh, there's all these bright lights. And some people are putting blue blockers on in the middle of the day, which is the
+
+25:52.898 --> 26:12.702
+Worst thing you could possibly do. If you're going to wear blue blockers, and I don't think they're necessary, but if you're going to wear them, you'd want to wear them at night. And in the evening, you don't need to wear blue blockers. You just simply should dim the lights and ideally have lights that are set a little bit lower in your environment, which the Scandinavians have been doing for a long time. So, you know, kill the overhead lights.
+
+26:13.378 --> 26:40.830
+And don't obsess about bright light exposure in the middle of the night. In fact, for a long time, I and some other people were saying, oh, you know, even just a brief flash of light in the middle of the night can quash your melatonin. That's true. But the other time in which you're in this, quote unquote, circadian dead zone is in the middle of the night. You can't shift your circadian clock in the middle of the night. But, you know, all of this gets down to interweaving rhythms of light sensitivity,
+
+26:40.994 --> 27:08.414
+temperature, hormone output, cortisol. I mean, there's a whole landscape of circadian biology. This paper, which was published in a new journal I'm really excited about called Nature Mental Health. This journal was just launched recently, is entitled Day and Night Light Exposure Are Associated with Psychiatric Disorders and Objective Light Study in More Than 85,000 People. Now, I have to say that I think the title of this paper is terrible.
+
+27:08.514 --> 27:35.262
+Sorry, folks at Nature Mental Health. Because if one just read the title, it sounds like day and night light exposure are associated with psychiatric disorders. If this were a newspaper headline, you'd be like, oh my goodness, well, what are you supposed to do? But that's not the conclusion. The conclusion is that getting a lot of sunlight exposure during the day and getting a lot of dark exposure at night is immensely beneficial for psychiatric health.
+
+27:35.618 --> 28:01.310
+and in a number of ways. Now, I'm not one to bring up another paper unannounced, but I will say that this paper built off a previous study entitled Time Spent in Outdoor Light is Associated with Mood Sleep and Circadian Rhythm Related Outcomes. And that was a cross-sectional longitudinal study in 400,000 biobank participants. So this UK biobank is an incredibly valuable resource, and there are now multiple studies establishing that
+
+28:01.922 --> 28:30.462
+One's pattern of light exposure is extremely important. Now, the previous study in 400,000 participants basically nailed home the idea that the more time you spend outdoors, the better is your mood, the better is your sleep, the better is the rhythmicity of your sleep-wake cycles, and on and on. Something that I think, even though people will say, we've known that for thousands of years, needed scientific substantiation. This new study essentially looked at
+
+28:30.818 --> 28:59.198
+relative contributions of daytime light exposure and nighttime dark exposure and they did that on a background of looking in particular people who had major depressive disorder generalized anxiety ptsd bipolar disorder here's the the basic takeaway and i'll quote them here and then i'll tell you my interpretation that here i'm quoting avoiding night at light and seeking light during the day i love that word seeking may be
+
+28:59.458 --> 29:27.838
+a simple and effective non-pharmacologic means for broadly improving mental health. So that's a pretty bold statement, right? And I love that they say seeking because it implies that people aren't reflexively getting the light exposure that they need, that this needs to be a practice, much like zone two cardio or resistance training. Okay, so what did they do in this study? So basically, they gathered up 100,000 people or so. It eventually was pared down to about 86,000 participants.
+
+29:27.970 --> 29:52.606
+because some just didn't qualify or didn't report their data back. They equipped them with accelerometers on their wrists, and those wrist devices also could measure ambient light. Now, that's not a perfect tool, because what you'd love to do is measure ambient light at the level of the eyes. By the way, will somebody design an eyeglass frame that changes color when you've gotten sufficient light from sunlight during the day, and then at night,
+
+29:53.186 --> 30:06.942
+a different color and then if you're getting too much light exposure we'll go to a different color frame this has to be possible so that you don't have to wonder if you got enough light during the day and of course if it's at the level of the eyes then you know that's what's landing at the eyes
+
+30:07.106 --> 30:34.558
+And it's less, I mean, that's what I was gonna ask you about that. Do these wrist-based devices potentially get covered by clothing in some, like, you have your sleeves down, I have my sleeves up. Yeah, they had it on the outside of the sleeve, but they asked that people just keep it on their dominant hand. It's not perfect, but in some ways it's kind of nice that it's not perfect. We could turn that disadvantage into an advantage by thinking, you know, when the person is out and about, they're not often looking right at the sun. You know, if you're talking to a colleague,
+
+30:34.722 --> 31:01.246
+under an overhang, for instance. So it's not perfect. It's directionally. It's directionally right. Okay. And then they had two hypotheses, two primary hypotheses. One, that greater light exposure in the day is associated with lower risk for psychiatric disorders. And two, second hypotheses, greater light exposure at night is associated with higher risk for psychiatric disorders and poorer mood. This is oh so relevant for the way we live now, people on screens and tablets in the middle of the night. Okay.
+
+31:01.346 --> 31:26.782
+Then they collected information about how much light exposure people were getting, as well as their sleep and their activity and so on. I should mention this was done in males and females. It was a slightly older cohort than one is used to seeing people in their 50s and 60s. They had psychiatric diagnosis information. And then they divided people into essentially two groups, but they had a lower, so a Q1 and a Q2, a lower quartile. That meant people that were getting
+
+31:27.106 --> 31:55.870
+less daytime light as opposed to the third and fourth quartile, more daytime light. They also had a nighttime light exposure evaluation and they had people with the low Q1 and Q2. So these people are getting less nighttime light versus Q3, Q4, more nighttime light. Nicely, they also looked at sleep duration and they looked at photo period, meaning how long the days were for those individuals, how active they were.
+
+31:56.162 --> 32:22.174
+like 10 hours a day, 14 hours a day, because the more active you are, the more opportunity for light exposure you have during the day or night, for instance. Okay. So they had, I would say, fairly complete data sets. Then, and I'm just going to hit the top contour of what they did in each. And sorry, sleep duration, sleep efficiency, et cetera, was determined off the accelerometer? That's right, as well as self-report.
+
+32:22.690 --> 32:35.934
+Yeah, not not ideal. Right. You'd love for people to be wearing a boot band or a ring or something of that sort. But this was initiated some time ago. So they either didn't have access to that technology or for whatever reason, didn't select it.
+
+32:36.546 --> 33:05.406
+I'd like to take a quick break and acknowledge one of our sponsors, Athletic Greens. Athletic Greens, now called AG1, is a vitamin mineral probiotic drink that covers all of your foundational nutritional needs. I've been taking Athletic Greens since 2012, so I'm delighted that they're sponsoring the podcast. The reason I started taking Athletic Greens and the reason I still take Athletic Greens once or usually twice a day is that it gets me the probiotics that I need for gut health. Our gut is very important, it's populated by
+
+33:05.506 --> 33:28.606
+up microbiota that communicate with the brain, the immune system, and basically all the biological systems of our body to strongly impact our immediate and long-term health. And those probiotics in Athletic Greens are optimal and vital for microbiotic health. In addition, Athletic Greens contains a number of adaptogens, vitamins, and minerals that make sure that all of my foundational nutritional needs are met, and it tastes great.
+
+33:28.802 --> 33:53.950
+If you'd like to try Athletic Greens, you can go to athleticgreens.com slash Huberman, and they'll give you five free travel packs that make it really easy to mix up Athletic Greens while you're on the road, in the car, on the plane, et cetera. And they'll give you a year's supply of vitamin D3K2. Again, that's athleticgreens.com slash Huberman to get the five free travel packs and the year's supply of vitamin D3K2. Then what they did is
+
+33:54.658 --> 34:21.982
+They have information on who has major depressive disorder, who has PTSD, generalized anxiety, bipolar, psychosis, et cetera. And then they ran three models. And you can tell me what you think about the power of these models, but as somebody who thinks about the mechanistic aspect of all of this a lot, but not somebody who's ever run this type of study, I'd be really curious. Model one examined the unadjusted association between day and nighttime
+
+34:23.074 --> 34:51.839
+light exposure and psychiatric outcomes. So just basically asking, is there a relationship between how much light you get during the day and how much light you get at night and how bad your depression is or anxiety is, et cetera. Looking at just a standard ratio of the probability that you have a certain symptom or set of symptoms versus you don't given a certain amount of light exposure. Model two adjusted for the age of the person.
+
+34:52.418 --> 35:21.758
+their sex and ethnicity and photo period. So they looked at, you know, how long the days were in that given person's region of the world. And then model three. These people were all in the UK or were they around? They were all in the UK as far as I know. And then model three adjusted for employment. So employed versus unemployed, which if you think about it is pretty important. Like you say, well, an unemployed person has a lot more time to control these variables, but an employed person who's doing shift work does not.
+
+35:21.986 --> 35:51.838
+And they incorporated information about employed versus unemployed, physical activity, which turns out to be very important, and then things like shift work, et cetera. And so what we can say very safely is that the outcomes with each of these models, the results, were very similar. So we don't want to discard the differences between those models entirely. But in my read is in every figure of the paper, it doesn't seem like model one, two, or three,
+
+35:52.898 --> 36:10.398
+differ from one another in terms of total outcome. Yeah, that's an unusual aspect of this paper. So these adjustments are very standard, right? So this is a classic tool that's used in most epidemiology because you don't have randomization. So once randomization is out the window,
+
+36:10.562 --> 36:38.910
+So for example, the paper I'm going to present is based on an RCT. There will be no models. It's just here are the data. Right. Yeah, here they're asking people, what do you do? Report back to us. We're going to measure your light exposure. But no one was assigned to any groups or swapped. Whatever quote unquote controls are there, they're really not there. It's just comparisons between groups. So what is interesting to me is that it's exactly as you said. And we'll make all these figures available.
+
+36:39.074 --> 37:05.118
+in addition to the papers, but I mean, it's very unusual that there's no difference between the unadjusted and the adjusted models. And as you say, there's probably two places out of 30 when you look at all the different quartile comparisons where you might creep from statistically significant just out of it or just into it,
+
+37:05.282 --> 37:33.278
+Yeah, you could simplify this figure two completely by just showing one of the models and you would be, you know, getting 95% of the information, which is, you know, I mean, I think in one way that suggests that there's less dependency on those variables. Of course, it still doesn't address probably the greatest question I have here, which I'm sure we'll get to at some point as you continue.
+
+37:34.114 --> 38:01.470
+Yeah, so I'm very curious what that question is, but I'll suppress my curiosity for the moment. So if we look at figure two of this paper, and I realize a lot of people are listening and they're not able to look at this, although we have posted the figures on the YouTube versions of this. Just want to make clear what's going on, just for those that are listening. Essentially what they're looking at is what they call the odds ratio, which is the probability of something happening in one group versus...
+
+38:01.826 --> 38:25.790
+divided by the probability of something happening in another group. I guess, by way of example, would be if you were going to look at the odds ratio of the probability of somebody getting lung cancer if they smoke versus the probability of somebody getting lung cancer if they don't smoke. So odds ratios and hazard ratios are often confused. They're very similar. And odds ratios generally refer to a lifetime exposure, whereas a hazard ratio
+
+38:25.922 --> 38:36.958
+is defined over a specific period of time. But the math is still effectively the same. And using the example you gave, if you took the odds ratio of
+
+38:37.538 --> 39:05.918
+death. So let's talk all-cause mortality for a smoker versus a non-smoker. And the answer were 1.78. I'm making that up, but that's directionally correct. 1.78 as an odds ratio means there's a 78% chance greater of the outcome of interest, in this case, death by any cause in the affected group, which would be the smokers. So odds ratio of two is 100%, and odds ratio of three is 200%. So the math is take the number, subtract one, and that's the percent.
+
+39:06.722 --> 39:33.406
+Figure two of this paper is one of the key take homes. They essentially look at the odds ratio of people who are in the... Let's just look at the nighttime light exposure. And just remind me, Andrew, because and everybody else watching, every one of these is showing second, third, fourth as your x-axis. Meaning they're all being compared to the first quartile. That's right. And the first quartile is...
+
+39:33.602 --> 39:57.598
+lowest light exposure or highest light exposure lowest okay well or well we have to um differentiate between day and night that's right okay so we restate it sure so if we look at you know what is your risk of a psychiatric challenge broadly speaking well panel a is is major depressive disorder if you are in the second quartile third quartile or fourth quartile of night
+
+39:57.730 --> 40:05.918
+nighttime light exposure. So second being the least amount of nighttime light exposure, third being more nighttime light exposure, and fourth,
+
+40:06.370 --> 40:36.336
+the most nighttime light exposure relative to the first quartile. This is just a stupid thing. Like, if I were doing this figure, if you were doing this in a lecture, you know what you would do to make it so easy? You would draw arrows on it that say increasing light exposure at night, decreasing light exposure in the day. It's the same information. It just makes it easier for the reader to understand. Absolutely. And maybe the teaching point, I think, is for people when they review articles, like, don't be afraid to do that and just kind of like, wait, what is this? Oh, I've got scribble all over this.
+
+40:36.336 --> 41:05.086
+So it's like, I draw the arrow. That's increasing light, that's decreasing light, and that's how I can pay attention to what's actually happening. Right, and I'm actually in touch with the editorial staff at Nature Mental Health, although they don't know that I'm covering this paper until after this comes out. You know, I think one thing that scientific journals really, really need to do is start making the readability of the articles better for non-experts. I mean, chances are, if you can't understand a graph, and this is true for everybody, chances are,
+
+41:05.538 --> 41:33.822
+there's a problem with the way it's presented. Put it on them. But then of course, try and parse it because rarely if ever is it all spelled out clearly. But anyway, that's what we're trying to do here. So yeah, the way I would have done is say second quartile is low amounts of nighttime light exposure and define what that is. Third quartile is more light exposure and then fourth, maximum amount of light exposure at night. And basically what you see is that the probability of having
+
+41:34.690 --> 42:04.510
+worse major depressive symptoms linearly increases as you go from the second to third to fourth quartile so more nighttime light exposure worse for you and there's a dose response if you will of the effect now we can march through or describe figure two pretty quickly by saying the same thing is true now we're just talking about nighttime light exposure for generalized anxiety disorder so that's panel c
+
+42:05.186 --> 42:32.446
+Bipolar disorder although the difference between the second and third quartile and bipolar disorder isn't as dramatic once you get up to the fourth quartile Bipolar symptoms get much worse when people are getting nighttime light exposure I really want to emphasize that point because they go on in the discussion of this paper to reemphasize that point several times in fact they say that while light exposure during the day of course we will go into the data and
+
+42:32.738 --> 43:02.334
+beneficial for mental health for people with bipolar disorder it seems that light exposure at night is especially problematic independent of how much sunlight they're getting during the day so you're bipolar um in the person with bipolar disorder who's struggling with either a manic or depressive episode who's making a point to get sunlight during the day who's also getting light exposure at night is making their symptoms worse and keep in mind they they couldn't completely control this but this is largely independent of things like
+
+43:02.498 --> 43:28.766
+sleep duration. So that doesn't necessarily mean that the person's sleeping less, although in a manic episode, presumably they are. It's independent of exercise. It's independent of a bunch of other things because any logical person will hear this and say, okay, well, they're getting more light at night because they're doing a bunch of other things. But it's largely independent of those other things. Likewise, the symptomology of PTSD gets far worse with increasing light exposure at night.
+
+43:29.506 --> 43:59.102
+self-harm really takes a leap from being fairly i don't want to say minimal at the second and third quartile so low and let's say medium i'm using some i'm taking some liberties here but low and medium amounts of of artificial light exposure at night then for people who get quite a lot of nighttime light exposure self-harm goes up and probability of psych psychotic episodes goes up or psychotic symptoms now what's nice is that the
+
+43:59.618 --> 44:27.230
+what's nice about the data is that the exact inverse is basically true for daytime light exposure, although not across the board. We can generally say that for major depressive disorder, generalized anxiety, bipolar symptoms, there it's a little more scattered, PTSD and self-harm, the more daytime light exposure, ideally from sunlight, because that's actually what's being measured in most cases. We could talk about how we know that, is going to,
+
+44:28.002 --> 44:53.182
+approximately linearly drop the probability or the severity of these symptoms. And we could just explain again that the odds ratios now seem to be going down. So an odds ratio of 0.7 now refers to a 30% reduction in the variable of interest here. Exactly. Now the panel F, which focuses on psychosis, I think is also worth mentioning in a bit more detail.
+
+44:53.346 --> 45:16.926
+there's a fairly dramatic reduction in psychotic symptoms as one gets more daytime light exposure independent of nighttime light exposure there's a well-known phenomenon called icu psychosis which is that people come into the hospital for a broken leg or a car accident maybe they were getting surgery from from peter back when for something totally independent they're
+
+45:17.026 --> 45:41.502
+housed in the hospital and as anyone who's ever been in a hospital as a patient or visitor knows the light in the lighting environment the hospital is absolutely dreadful for health just dreadful i mean people often complain about the food in the cafeteria as being unhealthy that's often not always true not always true but the lighting environments in hospitals is absolutely especially especially in the intensive care unit
+
+45:41.954 --> 45:48.830
+I think the intensive care unit at Hopkins, the main one, the main SICU, didn't have windows.
+
+45:49.442 --> 46:15.486
+People who go into the hospital with a brain injury or with a stroke or something, I get contacted all the time even though I'm not a clinician. What should I do for my kid, my parent? I always say get them near a window and start to the best of your abilities controlling their sleep-wake cycle. Now oftentimes there's nurses coming in and taking blood tests and measuring pulses in the middle of the night. That's disruptive. There's bright light, not just blue light. That's disruptive. It's noisy. That's disruptive.
+
+46:15.650 --> 46:44.478
+ICU psychosis is when non-psychotic individuals start having psychotic episodes in the hospital because of nighttime light exposure and in some cases, lack of daytime sunlight. We can say that with some degree of confidence because when those people go home, even though sometimes their symptoms for what brought them to the hospital in the first place get worse, their psychosis goes away. Now, and it's independent of medication. So let's just be really...
+
+46:45.186 --> 47:05.630
+direct there is a possibility that we are all socially jet lagged that we are all disrupting these mood regulation symptoms the systems excuse me by not getting enough daytime light and by getting too much nighttime light if we want to look at just some of the bullet points of the takeaways and then
+
+47:05.730 --> 47:33.470
+Peter, thank you. You highlighted a few of these. Can we just go back to this figure, too, for a second? Oh, yeah, sure. There's a handful of things that really jump out. I had a feeling Peter was going to want to dig in the digging. Yeah, yeah. Let's do it. And again, I normally wouldn't make so much hay out of this, except for the fact that they're so tight. But there are a few that really stand out. And again, I love this figure. I would have labeled it a little differently to make it completely user-friendly. But nevertheless, the increasing light...
+
+47:33.570 --> 48:00.894
+at night and the impact on depression. Let me be really technical in what I say. And the relationship or correlation to depression is very strong. The relationship to light and self-harm in the upper quartile, so when you take those 25% of people with the most nighttime light, that relationship to self-harm is interesting and completely uncoupled from the other 75%. That's interesting.
+
+48:00.994 --> 48:19.390
+By uncoupled, you mean that at the lower levels of light exposure at night, you're not seeing an increase in self-harm. Not whatsoever. And then once you get to that fourth quartile- It's a big step. It's like a 30% greater risk of self-harm. Yeah, so it's totally flat. The first, second, third quartile, no different. And then fourth, big jump. And then the-
+
+48:19.490 --> 48:49.406
+the inverse relationship, right? As light increases during the daytime, you see this reduction in self-harm. Interesting. The PTSD relationship based on nighttime light and the psychosis relationship based on daytime light. Those are the ones that really jumped out to me. I think anxiety, relatively less impressive here. And bipolar disorder didn't seem as strong as well. So I think those are the big ones that jumped out to me.
+
+48:49.858 --> 49:16.062
+Yeah, I agree. There's a bit more scatter on generalized anxiety and the degree of significant change is not as robust. In other words, getting a lot of daytime light, ideally from sunlight, is not necessarily going to reduce your levels of anxiety. Getting a lot of nighttime light exposure is not increasing nighttime anxiety that much, although 20%, you know, is not nothing.
+
+49:16.354 --> 49:42.366
+for nighttime light exposure. But yeah, where the psychosis, major depression and self-harm are really, you know, they leap out. Actually, maybe we even just drill a little bit deeper on major depression. And basically when you go from the second to third quartile of nighttime light exposure, so more nighttime light exposure, you basically go from no significant increase to almost a 20% increase. And then as you get up to the fourth quartile,
+
+49:42.882 --> 50:08.670
+So the most nighttime light exposure at about 25% increase in major depressive symptoms. That's no joke. And I think that we were to, I mean, we don't have the data right here, but if we were to look at like standard SSRI treatment for major depression, people debate this pretty actively, but light is,
+
+50:08.994 --> 50:36.542
+is a very potent stimulus. And the timing of light is critical because the inverse is also true. As you get to the fourth quartile of daytime light exposure, you get about a 20% reduction in major depressive disorder. What I like about a study like this is that it puts the error bars so easy to see on the data. And why is that interesting? Well, there's a belief that
+
+50:36.738 --> 51:04.062
+bigger is always better in sample size. And we often talk about that through the lens of power analysis, right? So how many subjects do we need to reach a conclusion that is powered to, you know, this level? And that's true. But what I don't think gets discussed as often is the opposite of that, which is what if you overpower a study? In other words, what if the power analysis says to be, uh,
+
+51:04.290 --> 51:27.134
+To have a level of power at 90%, you need 1,000 subjects. And you say, great, we're going to do 10,000 subjects. Well, you're clearly powered for it, but you might be overpowered. And people might say, well, why would that be a bad thing? It could be a bad thing because it means you are very likely to reach statistical significance in things that might not be actually significant. And so...
+
+51:27.778 --> 51:41.150
+One thing about this study that is just a quick back, like kind of a quick and dirty way to tell that it's probably not overpowered is that you have varying lengths of error bars. And what that tells me
+
+51:41.250 --> 52:07.902
+is that and again this is not like a formal statistical analysis it's just kind of like a back of the envelope statistical analysis if you look for example at self-harm in the top quartile you actually have pretty big error bars in fact all the self-harm have sort of slightly bigger error bars and yet when you look at for example the depression even though the error bars aren't all the same size they're tighter in fact when you look at the relationship between depression and daytime light the error bars are really really small so
+
+52:08.418 --> 52:37.470
+That just gives me confidence that there is variability in this, which paradoxically you kind of want to see, because it tells me that this wasn't just done. You know, there was, I think you said 8,000 subjects were in this and I realized. More than 86,000. 86,000, sorry. Yeah, you realize that it wasn't that, oh, this should have been done with a 10th of that or a half of that. And we're picking up signal that is statistically relevant, but clinically irrelevant. Yeah, thanks for that point that I didn't,
+
+52:37.954 --> 53:03.422
+I didn't pay attention to that. I mean, I paid attention to the error bars, but I didn't know that. So thank you. I'm learning too. And I suppose for people that are listening, we can just give them a sense of what the error bar ranges are. For self-harm, they're running as much as 20% either side of the mean, the average. And for major depression, it looks like it's more like, let's say, 8% to 10%. If that, yeah. If that, maybe more like 5%.
+
+53:03.522 --> 53:16.510
+Right. So, yeah, I see what you're saying. So when you get a very large sample size, you're going to have some outliers in there and you can mask those outliers.
+
+53:16.898 --> 53:39.550
+just by having so many data points, right? Yeah, because these error bars directly tell you whether or not you're statistically significant. So what's really nice about this type of graph, and you see these in, there's gonna be a graph in my paper where you see the same analysis. They're always drawing the 95% confidence interval on the data point. And if the 95% confidence interval
+
+53:39.810 --> 54:09.776
+does not touch the line of unity, which in this case is the HODs ratio of 1.0 or the x-axis, then you know it's statistically significant to the confidence interval they've defined, which is almost assuredly 95%. Sometimes they'll make it tighter at 99. And so that's why you can just look right at these and go, oh, look, you know, in depression, the second quartile didn't reach statistical significance because the error bars are touching the line, just as the case for the second and third quartile for self-harm. But when you look
+
+54:09.776 --> 54:20.126
+the fourth quartile you can see that the lower tip of the error bars isn't anywhere near unity and so we know without having to look up the p value that it's smaller than
+
+54:20.418 --> 54:47.870
+either 0.05 or 0.1, however they've defined it. And it's really amazing when you see these overpowered studies, which are easier to do epidemiologically, where the p-value ends up being microscopic. They can drive their p-values down to anything low because sample size can be infinite, but you can see that it's just like the error bar is just skimming above the unity line, but it's so, so, so tight.
+
+54:49.570 --> 55:17.566
+thing that i hope people are taking away from this study is that imagine you're somebody who has a very sensitive circadian mood system well that would mean you need less daytime light exposure to feel good or less bad but it also means that you might need very little light at night in order to negatively impact your mood systems and in fact
+
+55:17.954 --> 55:47.166
+they make this argument in the discussion as an interesting point that i think is worth mentioning the way because here what i again what i like about the study is that they've separated day and nighttime light exposure turns out that many of the drugs that are used to treat bipolar disorder reduce the sense are are effective perhaps in part because they reduce the sensitivity of the light sensing circadian apparatus now that's interesting right if
+
+55:47.298 --> 56:13.982
+you think about this okay so these are drugs that can ameliorate some of the symptoms of bipolar perhaps in part by reducing the extent to which nighttime light exposure can relieve bipolar symptoms excuse me can exacerbate bipolar symptoms conversely there's evidence that people who take certain antidepressants may suppress the ability for daytime light to positively impact the mood systems of the brain now of course we don't want people
+
+56:14.370 --> 56:43.102
+halting their medication on the basis of that statement alone. Please don't. You know, talk to your psychiatrist. But if we know one thing for sure, it's that if you want a significant outcome and a paper as a scientist, give a drug, any drug, and look at the amount of rapid eye movement, sleep, or the circadian cycle. Pretty much any drug alters the circadian rhythm, for better or worse. But
+
+56:43.234 --> 57:13.022
+If we start to think about which medications might adjust our overall sensitivity to light, sometimes this could be a good thing. You think less sensitivity to light. Well, for people who have bipolar disorder, the amount of daytime light exposure isn't that important for their overall mood regulation, but the amount of nighttime light exposure really is. In other words, darkness for eight hours every night should be viewed, in my opinion, as a treatment for bipolar disorder, not the only treatment. But it's also clear that we should all be avoiding really bright,
+
+57:13.122 --> 57:39.166
+Extensive, really bright nighttime light exposure. I mean, if anything, you know, my takeaway from this study is that darkness at night is the fourth key light stimulus. Now, a couple of things, very bright moonlight, very bright candlelight is probably only like, gosh, three to 50 lux. What? When you go outside on a brightly lit full moon night,
+
+57:39.810 --> 58:08.542
+I encourage people to download this free app. I have no relationship to it called Light Meter. And it gives you a pretty good read of what the lux are in that environment. By the way, a lot of people don't realize this. They think you just tap the button and then it tells you how many lux. You hold it down. It's kind of fun. You can scan around the room and see how many lux are on average coming from that location or outside. Go out on a really bright, moonlit night. I mean, we should have a full moon tonight. Yeah, let's do it. You're not going to get above 100 lux. That's incredible. You're sitting at a candlelight dinner with...
+
+58:08.706 --> 58:37.950
+your spouse or with friends, and it's clearly bright enough to see them. Put that lux meter right up, not too close to the flame, 50 to 200 lux. Maybe 400 lux. I had an interesting experience a couple of months ago on an elk hunt where it was a full moon, which actually makes the hunting not so great, but it was the first time I've ever noticed my shadow in relation to the moon. That's how bright it seemed the light was. This is Halloween-appropriate.
+
+58:38.146 --> 58:59.454
+Since we're recording this close to Halloween. It's remarkable. Super interesting to think it could be that dim. Campfire and firelight. You think, okay, gathering around a campfire. Then, okay, everyone's circadian rhythm must have been disrupted for ages before the development of electricity. No. No. Those campfires are extremely bright, but they're not...
+
+58:59.810 --> 59:27.614
+They're not that bright compared to a very densely overcast day. And what is your phone if you don't use any sort of light-mitigating tech on it? Well, distance matters. But at the distance, we're holding it? Yeah, so with all the wavelengths cranked up, so there is a nice feature intrinsic to the phone where you can eliminate the blues at night or, you know, this kind of thing. But if you crank it up to maximum light intensity, probably something like...
+
+59:27.746 --> 59:55.006
+you know, 500 to 1000 Lux. Now, keep in mind though, it's additive, right? So it's over time. So Lux is a measure of, I think it relates back to Candelas is the amount of light shown. And I think it's like the one meter away and there's a squaring and a falling off of distance. We can look it up. These are old measurement, old school measurements converted to Lux. But keep in mind that if you're looking at your phone or tablet at,
+
+59:55.234 --> 01:00:25.214
+800 lux or 500 lux in the evening and you do that for two hours, well, you're summing quite a lot of photons. Now it is true. And I, I, I do want to be fair to the biology and it'd be dishonest to say anything different. You know, we, we've hammered on people about not shifting their circadian rhythm with light at night, but we know that the middle of the day and the middle of the night are circadian dead zones. You can't shift your circadian rhythm that well in the middle of the day, in the middle of the night, but you can provide a wake up signal for, for your body and brain.
+
+01:00:25.346 --> 01:00:53.950
+it's really that sunrise and sunset that are critical. That's why I said there are four things. See sunrise or sun rising. You don't need to see it across the horizon. Sunset, bright light during the day, minimize light exposure at night. And you don't need pitch black. In fact, pitch black probably just increases the frequency of injury. You know, I get up in the middle of the night to use the bathroom probably once. I think it's normal. I go back to sleep. You know, if it were pitch black, I'd probably injure myself. So just dim it down. Some people use red lights, you know, are
+
+01:00:54.050 --> 01:01:18.398
+Our mutual friend. Yeah, Rick Rubin is... Can we tell a funny story about Rick? Yeah, of course, of course. You know this story, but just in case Rick's listening, he'll appreciate this. You know, when Rick was here staying last summer, he's up in our guest house, and he came down after the first night, and he was like, unacceptable. You know what I'm talking about, right? Yeah, unacceptable accommodations. What did he do? He removed all the...
+
+01:01:18.594 --> 01:01:39.294
+lighting that existed in that room and replaced it with red light bulbs, which I later used when I stayed here and then later stole when I left. The teenage me, I took them. I took them. That's why Derek, when he stayed here, Elaine or anyone else when he stayed here, Conti or anyone else didn't have those. I took them. I love them. So funny. Jill is like...
+
+01:01:39.906 --> 01:02:02.942
+know rick changed every light in the guest house to red i'm like yeah i'm no i didn't know that but i'm not surprised yeah well in his place he has mostly either no lighting or red lighting so during the day he just goes by ambient light um and then red light in the evening and or candlelight and it's great and you know people hear red lights and they think they have to buy these expensive red light units that's not what we're talking about that
+
+01:02:03.330 --> 01:02:32.894
+you can literally buy red party lights or just a red bulb. Some people say, well, can I just use a red film or can I put a T-shirt over the lamp? I worry about people putting T-shirts over lamps because of the fire hazard. But I'll be honest, I dim the lights in my home at night. When I travel, sometimes I will bring one of the stolen from Rick Rubin red lights. The Rick Rubin stash. Here's something where I've sort of softened my tune. So I used to be kind of a hard liner, no blue light in the evening guy, you know,
+
+01:02:33.090 --> 01:03:00.158
+had the, you know, everything was red light at night as far as my phone, using flux on the computer, you know, whatever it was. I suspect that that matters somewhat, but I think what matters more is the stimulation that may come from those things. And what I've come to realize, at least in me, which means it probably is true in others as well, and at least some others, is that
+
+01:03:00.674 --> 01:03:24.638
+what I'm doing on my phone matters more than how bright my phone is. In other words, if I've got the best blue light filter in the world on my phone, but I'm doom scrolling social media and getting lit up on email, that's way worse for me than if I've got my phone on maximum light and I'm like watching YouTube videos of
+
+01:03:24.770 --> 01:03:46.686
+F1 cars and driving around having fun. Like, it's a totally different experience. So the context matters. And I think for that reason, I would want people to be mindful of the whole picture. You know, going to bed under a period of, you know, intense duress brought on by something, you know, that's an equally
+
+01:03:46.818 --> 01:04:10.654
+dangerous component to all of this that's distinct from what we're talking about. But I want people to be able to think of this in the context of everything. Yeah, it's a really important point. One thing I'll say is that if you're going to stay up past your normal bedtime, if you're going to get a lot of light in your eyes, I would hope that it would be for fun reasons and for reasons you enjoy. You should definitely spend some nights out. You should definitely do some all-nighters studying.
+
+01:04:10.914 --> 01:04:35.294
+if it's going to help you get the grade that's permanent, right? I'd certainly have done all-nighters studying and grant writing for years. There are going to be the inevitable all-nighters due to, God forbid, a trip to the hospital, or you heard something on the news that really amped you up, or you just simply can't sleep. That stuff is going to happen. So I think the goal should be to minimize light exposure at night. And I think what you just said is
+
+01:04:35.394 --> 01:05:00.414
+especially true because we don't know for instance people talk about the negative impact of social media is it the fact that people are looking at this little box for so many hours per day is it all the things they're not doing is it what they're looking at per se all of those things interact and are really important i we know based on studies from the stanford sleep lab that if you wake up in the middle of the night looking at what time it is can be very disruptive to your
+
+01:05:00.610 --> 01:05:29.758
+the ability to fall back asleep and to your sense the next day, it's a placebo effect, but it's a powerful one, of how tired you are the next day. They've done this where they wake people up in the middle of the night, and then they say it's, you know, 4 a.m. versus 2 a.m. versus 6 a.m., and people's perceived levels of energy during the day in some ways correlate with what they think, how much sleep they think they got. Likewise, and this is one of the concerns, potential concerns with sleep trackers. Allie Crumman talked about this when she came on.
+
+01:05:29.922 --> 01:05:53.438
+podcast you know if people see a poor sleep score they often feel worse than if they see a good sleep score now of course physiology matters you can't lie to yourself and say you you know got a great night of sleep simply by virtue of a sleep score but i worry more about the the false well i don't know if it's a false negative that we don't want to put valence on this seeing a bad sleep score and then deciding that you're going to have a terrible day
+
+01:05:53.570 --> 01:06:21.982
+I think a bad sleep score is an indication that you might need to dial some things in a bit better. Getting a great sleep score is an indication that you might be doing a number of things right and start looking at these things as averages. Would you agree? Yeah, completely. I don't think it's that different from CGM, right? I think that CGM is an amazing tool to provide insight. And you pretty much know the insights after a relatively short period of time. 30 days, maybe at the outside 90, for a person with a very complicated life.
+
+01:06:22.082 --> 01:06:51.134
+and you know all you need to know about how the inputs affect the output. Thereafter, if you choose to use it, it's a behavioral tool. In other words, you're using this to build in a Hawthorne effect. I think the same is largely true with sleep trackers. Most people have this profound sense of learning when they first encounter one of these things. And it's, again, you've heard it all 100 times, oh my god, I can't believe what alcohol does to my sleep. Right, or caloric trackers. Exactly. Like I think Lane Norton's app Carbon
+
+01:06:51.298 --> 01:06:57.534
+I have no financial relationship to it. I use it or, and it's taught me, wow. Like I,
+
+01:06:57.890 --> 01:07:26.462
+consume a lot of calories in the form of certain things at certain times of day. And there's just a lot of good learning in that. But it's the act of tracking that helps you manage it. And similarly, I think it's the act of knowing you're going to be looking at that score that gamifies it, that kind of helps people do the right things. Oh, you know what? I'm not going to have that drink tonight, or I'm not going to eat that snack before bed because I've now been conditioned to see how that impacts score. That said, I think that, you know, recovery scores and things like that are
+
+01:07:26.850 --> 01:07:55.198
+just notoriously poor at predicting performance. And I think there's a reason that serious athletes would never use things like that. They would tend to rely on the more tried and true methods of predicting behaviors such as heart rate, maybe heart rate variability, but morning resting heart rate, probably more predictive than anything else. And then, you know, in workout things such as heart rate, heart rate recovery, lactate threshold, things like that. So yeah, I agree. I think we have to, and I say this as a guy who's
+
+01:07:55.330 --> 01:08:19.710
+generally perceived to be the most pro-device guy in the world, people would be surprised how sparingly I use things like that. I mean, I do some tracking, not as much as you. I love things that seem to work the first time and every time in terms of our natural biology based on a couple of criteria. There's an established mechanism.
+
+01:08:19.841 --> 01:08:47.294
+It's been explored in the context of pathology, like mental health disorders, as well as pro-health in healthy individuals, that it make really good sense at the level of kind of wellness and let's just say ancient health. You know, when you're talking about getting a lot of sunlight during the day, a lot of people say, well, of course, get outside and play. Not getting too much light at night. Of course, this is just good old, quote unquote, good old fashioned advice.
+
+01:08:47.841 --> 01:09:15.358
+People spend 90% of their time indoors now. Their daytime environments are too dim. Their nighttime environments are too bright. And this kind of misleading aspect of artificial light that when you see a bright bulb, you think I'm getting a lot of photons is part of the problem. And the fact that when you're out on an overcast day and you think the sun quote-unquote isn't out, well, it's hidden by cloud cover, but...
+
+01:09:15.457 --> 01:09:42.014
+Just think about how well you can navigate that environment without a flashlight versus at night where you would require a flashlight. We evolved under this traumatic difference in day-night availability of photons, independent of whether or not you can, quote, see the sun. And it's just very clear that all the mechanisms in our brain and body that regulate mood are just powerfully regulated by this stuff. So...
+
+01:09:42.466 --> 01:10:03.902
+I've made it a point to really reduce the amount of nighttime light that I'm getting, but I'm less concerned about flipping on the light switch to use the bathroom as I used to be. I used to think, oh, I'm like quashing all my melatonin. This is terrible. I know I can't shift my circadian clock then. I know that that light, yes, while it's bright, if it's brief, I'm not going to worry about it too much. Would it be better to have a, you know,
+
+01:10:04.002 --> 01:10:33.502
+a dim light on as opposed to a bright light, sure, but I'm not gonna stress it in a hotel bathroom or something. I'm not gonna walk around shielding my eyes. People will sometimes ask me, by the way, is it different to look at the phone directly versus if you tilt the phone away? Well, it absolutely is. I mean, think about a flashlight shown on the ground in front of you, very few photons getting in your eyes versus shown directly into your eyes. Think about ambient light from the sun going everywhere versus looking in the general direction of the sun, so east in the morning, west in the afternoon, of course.
+
+01:10:33.922 --> 01:10:59.710
+directionality of the light matters so i'm not saying it you know that you need to like peek at your phone as if you're looking you know over the edge of a bowl or something into it but my friend samur hataru is head of the chronobiology unit at the national institutes of mental health we used to room together at meetings we stopped because he's a terrible snorer so i just could there were a few times when i considered suffocating him in the middle of the night since he was already suffocating himself now we just
+
+01:11:00.354 --> 01:11:27.582
+we don't stay in the same rooms anymore. We're no longer postdocs, but I caught him looking at his phone in the middle of the night and he would tilt it like away. Like he's holding a platter for those that are just listening and kind of like looking over at the screen there. I'm like, what are you doing? This is ridiculous. He said, I'm trying not to get so much light in my eyes. That's a little extreme, but I think it illustrates the point, which is how much direct light exposure you get at night matters. How much direct sunlight exposure you get, especially early and late
+
+01:11:27.842 --> 01:11:52.254
+early morning, late afternoon, and throughout the day, it really matters. Now remind me, Andrew, what is the wavelength of sunlight? Great. So sunlight is going to include all visible spectrum, right? Which runs from how many nanometers to what? Yeah, so, well, let's, we can answer two questions there. This wrist sensor detected 470 nanometer to 650 nanometer light. So that's going to be blue and ultraviolet.
+
+01:11:52.578 --> 01:12:11.678
+Ultraviolet's kind of high 3s. Yeah, that's kind of like blue to orange. Yeah, blue to orange. That's what this was measuring. So red light is going to be more like 680. Far red is getting out to 7, 720 and up, upwards of that. Blue light is going to fall somewhere in the low 4s. Ultraviolet is getting down into the high 3s.
+
+01:12:11.778 --> 01:12:40.798
+and lower. And so these spectra of light. So during the day, you know, midday light, you're getting what looks like white light. You'll see, oh, the sky is blue and the sun is bright white light. It's not even yellow to your eye. And of course, don't stare at it, especially in the middle of the day. You're getting all visible spectra. So you're getting everything from UV all the way out to red light. It's just coming in at equal intensities. So is that a potential limitation of this study in that it didn't have a sensor that could pick up the full spectrum of light?
+
+01:12:41.634 --> 01:13:11.134
+Potentially, especially since we don't think of humans as UV capable. We can't perceive UV light. A ground squirrel, for instance, has UV sensors in its eyes. Turns out, you know why they use this? It's crazy. When the ground squirrels sit up on their haunches, they're actually signaling one another. They rub urine on their belly and it reflects UV. The New York Times, for some reason, has been running a series of papers or articles, rather, about
+
+01:13:11.266 --> 01:13:36.830
+naturally occurring fluorescence at night and all sorts of scorpions and monotremes like the platypus no one really knows the reason for these odd odd wavelength of light emissions for for all these animals but you know we view things in the blue violet and up to red and you know we're not pit vipers we can't see far red but we can see lower than 470 nanometers and we can see higher than
+
+01:13:37.378 --> 01:14:06.046
+650. Is there a technology reason why they had such a narrow band in these sensors? Is it not possible that they could have used a wrist sensor that was wider? This study was initiated in 2013. The tech was probably far worse than it is now. Again, I would love for somebody to design an eyeglass where it's measuring how many photons you're getting across the day. I'm not a big fan of having everything be amplified, so I would love it if the frame would just shift color
+
+01:14:06.370 --> 01:14:35.902
+like you go outside on a cloudy day, you know, you wear these glasses. And by the way, it's fine to wear eyeglasses or contacts for sunlight viewing for setting your circadian rhythm. People always say, well, why is that okay when a window's not? Well, corrective lenses are actually focusing the light onto your retina. The windows and windshields are scattering the light and filtering. And how much are sunglasses filtering this out? Way too much. We can safely say way too much, probably causing a tenfold decrement in the total
+
+01:14:36.002 --> 01:15:05.598
+lux count that's landing on your retina. But of course, you know, sunglasses are important driving into sun. And some people have very sensitive eyes. I can't sit at a cafe with a brightly reflective table in the afternoon. I just squint like crazy. I can't do it. My dad, who's darker-eyed and, you know, he's South American descent, he can just sit there just fine. My mom, who's got light eyes like me, you know, we're like, oh, it's really tough. We just have a terrible time.
+
+01:15:05.826 --> 01:15:34.814
+You know, people differ in their light sensitivity. So there's one other macro question I have here, and it's not answerable because without randomization we can't know it. But it's the question of how much reverse causality can exist in these observations. So again, these observations demonstrate very tight correlations, very strong associations, especially in the five areas that we highlighted.
+
+01:15:35.426 --> 01:16:00.318
+But it's possible that part of what we're seeing is reverse causality brought on by both the treatments, which you've already kind of alluded to, and also the condition itself. Do you want to explain reverse causality for people? And maybe could you mention, for those that missed, the Hawthorne effect? Yes. Yeah. The Hawthorne effect is an effect that is
+
+01:16:00.418 --> 01:16:29.790
+named after an observation of what took place in a factory where they were actually studying worker productivity with light, of all things. But what it refers to is the idea that people will change their behavior when they are observed. So if I said, well, I really want to know what a day in the life is like for Andrew Huberman, I'm going to follow him around for a day, it's very unlikely that his behavior that day will be exactly as it was if I wasn't there.
+
+01:16:30.626 --> 01:16:56.478
+Which is why you probably will never see a day in the life of Andrew Huberman. Although it's pretty scripted unless I'm traveling. It's morning sunlight, hydration, and some cardio or weight training, and then a lot of time reading papers. It'd be the most boring video in the world because it'd be mostly me reading and underlining things. But it's why gamifying things can be beneficial, right? It's why a CGM can...
+
+01:16:56.610 --> 01:17:24.190
+can be beneficial because it's sort of like somebody's watching you and you're going to modify what you eat in response to it or why tracking can really be an effective way to reduce input because you, there's a sense of being monitored by doing that, especially if someone literally monitors it. In other words, you can set up an accountability partner where your health coach or someone is actually seeing the data. So that's what it is. Now, as far as reverse causality, when you look at variables, so, um,
+
+01:17:25.506 --> 01:17:50.014
+let's just pick a common one that's unrelated to this. So there's an association that more diet soda consumption is associated with greater obesity. It's a bit paradoxical, right? Is that true? It is. Yeah. It's been demonstrated in many series that the greater the consumption of diet soda, the greater the prevalence of obesity. And
+
+01:17:50.370 --> 01:18:19.678
+That has been postulated by some to suggest that non-nutritive sweeteners, such as aspartame or sucralose or things like that, are actually part of what's causing obesity. And while there are probably some arguments you could make around the impact that those things might have on the gut microbiome, and maybe there's some way and that's happening, it's also equally likely, if not probably more likely, that there's reverse causality there. That a person who is obese is therefore contemplating how much they're eating,
+
+01:18:19.778 --> 01:18:41.918
+we're thinking, hey, what's an easy way that I can reduce calories? How about instead of drinking a Coke, I drink a diet Coke? And so there, the causality, which you would impute to mean the drink is causing the obesity, it might be, no, the obesity is causing the choice of drink. So here, the question is, how much of the effect we're seeing
+
+01:18:42.242 --> 01:19:12.208
+is a result of the condition that's being studied, right? How much of the disruption in both day and night light exposure is the result of the depression? It's dysregulating the sleep. Maybe they're sleeping more during the day and more awake at night because of depression. Again, these are, you can't know this. This is where epidemiology never allows us to determine this. And sadly, these questions can only be answered through either direct randomization or
+
+01:19:12.208 --> 01:19:41.118
+Mendelian randomization, which by the way, I was going to also ask you, do you know if anyone has examined this from a Mendelian standpoint? That would be very interesting because I have to believe, well, it would be interesting. I don't know enough about the biology to know what SNPs would be studyable, but that would be interesting. What Peter is saying is, you know, if you knew something about the genomes of these people, you would be in a great position to
+
+01:19:41.314 --> 01:20:07.134
+perhaps even link up light susceptibility genes or light sensitivity genes with genes for pathways involved in major depression, bipolar. Getting to this issue of reverse causality, I think it's very straightforward to imagine that the person who's experiencing a manic episode is going to be up for two weeks at a time, sadly, and getting a lot of nighttime light exposure. Now,
+
+01:20:07.522 --> 01:20:30.078
+And nighttime dark exposure as a treatment for bipolar is something that people are starting to talk about. So making sure that even those people are awake, that they're at least blue blocking at night, reducing their online activities. But people with severe manic episodes have a hard time regulating their own behavior, of course. And it's not one or the other. Like, I don't want the question to come across to the listener that it has to be one or the other. It's
+
+01:20:30.306 --> 01:21:00.094
+Only A can cause B or B can cause A. No, it's actually a lot of times these things feed off each other. Going back to the soda example, I actually think there's a bit of both, right? I actually think there's a real clear body habitus dictates beverage choice, but I also am starting to think that in susceptible individuals, non-nutritive sweeteners will alter the gut biome and that alters metabolism. What about just hunger? I remember Lane,
+
+01:21:00.386 --> 01:21:30.174
+telling me, and I've seen at least one of the studies that, you know, water is probably better for us than diet soda, but that for some people, diet soda is a great tool for reducing caloric intake. I also know some individuals, not me, who drink diet soda. I drink diet soda from time to time, mainly stevia sweetened sodas, but what I'm referring to here are people besides myself who drink diet soda and it seems to stimulate their appetite. There's something about the
+
+01:21:30.370 --> 01:21:59.838
+perception of sweet as driving hunger, whereas not eating or drinking anything with any sweetness doesn't seem to. This is one of the things I wonder if it impacts why some people like intermittent fasting, because for some people, you know, just even the perception, I wonder if the perception of sweetness or even just the smell of food we know can stimulate appetite. So you can imagine the perception of sweetness in the mouth, even if there's no calories there.
+
+01:21:59.938 --> 01:22:12.926
+I don't think it necessarily makes people hypoglycemic, but perhaps it makes them think about, like, sweet means food. For instance, for years, I loved the combination of a Diet Coke and a slice of pizza whenever I was in New York.
+
+01:22:13.218 --> 01:22:41.470
+ideally two slices of pizza. So now every time I have a Diet Coke, which isn't that often, but I like Diet Coke, especially with a little bit of lemon in it, I just think about a slice of cheese or mushroom or pepperoni pizza. It's like I want it. I crave it more. So there's a paired association there that I think is real. And we know, based on Dana Small's lab at Yale, that there's this paired association between the sweetness from sucralose and that there's an insulin response. They actually had to cease the study in kids because they were
+
+01:22:41.602 --> 01:23:09.566
+they were becoming pre-diabetic, you know, which unfortunately meant the study was never published. Have you talked to Dana on this podcast? No, we wrote a premium newsletter on this several months ago. It's gotta be like, I don't know, 10 to 20,000 words on all things related to sugar substitutes. Okay, I'll read that. I need to read that. So yeah, folks who are interested in this topic, I would refer them to the premium newsletter on sugar substitutes. I think it was our September edition.
+
+01:23:09.794 --> 01:23:37.054
+The short of it is the data are a little bit noisy, but there is indeed some sweeteners in some studies do result in that phenomenon you described, the cephalic insulin response. And I came away from the research that went into that, which was Herculean effort on the part of the team, a little bit more confused than when I went in, but
+
+01:23:38.050 --> 01:24:05.854
+being even more cautious around artificial sweeteners than I was going in. And not for the reasons that I don't necessarily... I didn't find any evidence that these things are cancer-causing, right? So that's the headline stuff people worry about. Oh, aspertain causes... You have to ingest like 10 grams. Yeah, yeah, yeah. Crazy like that. I came away more confident that from a long-term safety perspective in terms of cancer and catastrophic outcomes like that, that wasn't the issue.
+
+01:24:06.178 --> 01:24:34.782
+But I came away much more cautious around these things can really be mucking around with both your brain chemistry and your gut chemistry, which can pertain to your metabolism. And therefore, my takeaway was buyer beware, use limited amounts only. The one, by the way, that still emerged to me as a reasonable one, it's the only one that I use, and I've talked about it a lot, is xylitol. Xylitol is the, pardon me, I shouldn't say it.
+
+01:24:34.946 --> 01:25:04.862
+Xylitol for chewing, so for gum, and allulose as an additive. So those were the- Safer, you're saying? Yes, those are basically the only two I will consume. I'll drink a Diet Coke every now and again if I'm on a plane or something. You know, this law that got passed a few years ago that you couldn't bring liquids of your own into the airport and onto the plane. A few years ago. What a great scheme to get people to buy overpriced fluids in the airport.
+
+01:25:05.314 --> 01:25:22.878
+I mean, there are more important issues in the world, but this one really gets me. But yeah, I drink things with a little bit of Stevia in it, the occasional Diet Coke. And I generally avoid sucralose. I don't like the way it tastes. Monk fruit's too sweet, but yeah.
+
+01:25:23.106 --> 01:25:49.630
+Maybe we'll do a podcast on that in the future. Okay, so I think we can wrap this paper, because I really... Well, but tell me what you think about that point, Andrew. Like how... I mean, you know more about this stuff than I do, but if you had to just lay on your judgment, right? So if it were 100 to 0, you would say the light is 100% causal in the effects we're seeing.
+
+01:25:49.794 --> 01:26:17.374
+If it were zero to 100, you'd say, nope, the behavior is 100% causal of the exposure to light. Where do you... Again, you can't know it, but what does your intuition tell you? Okay, there's my intuition, and then there's my recognition of my own bias. Because, you know, I started working on these circadian pathways originating in the eye back in the year, in 98, as a graduate student at Berkeley. The cells, these melanopsin intrinsically sensitive...
+
+01:26:17.506 --> 01:26:45.118
+retinal ganglion cells were discovered in the early 2000s by a guy named Iggy Provencio, Dave Burson, Samra Hattar, Sachin Pant and others. And it was one of the most important discoveries in all of biology, clearly. So I've been very excited about these systems. But if I set that aside, so bias disclosure made, I think 65 to 75% of the effects are likely due to light effects.
+
+01:26:45.218 --> 01:27:09.534
+directly now it's impossible to tease those apart as you mentioned but to play devil's advocate against myself you know you could imagine that the depressed individual is laying around indoors with the curtains drawn they didn't sleep well the night before which gives you a photo sensitivity that isn't pleasant like it sucks to have bright light in your eyes first thing in the morning if you especially if especially if you didn't sleep well
+
+01:27:09.762 --> 01:27:26.590
+And then they're, you know, making their coffee in a dimly lit, what they think is brightly lit environment. And then they're, you know, looking at their phone and the state of the world sucks and their state of their internal landscape is rough. And they're, maybe they're dealing with a pain or, or,
+
+01:27:26.818 --> 01:27:54.622
+you know, injury or something and their likelihood of getting outside is low. And when they do get outside, they're going to shuffle and not, you know, so I could see how the behaviors could really limit the amount of light exposure. And then evening rolls around. They've been tired all day and a common symptom of depression. You fall asleep and then two or three in the morning, they're wide awake. What are you going to do at two or three when you're wide awake, sit in the dark? No, you're going to get online. You're going to listen to things you might have. I'm not recommending this, but a
+
+01:27:54.818 --> 01:28:23.838
+alcoholic drink in order to try and falsely. I mean, this is the pattern. And so, you know, shaking up that pattern is really what so much of my public health work these days is about and trying to get people onto a more natural daylight, night dark rhythm. But yeah, it's impossible to tease apart. We do know this, and this is really serious. We know that in almost every instance, almost every psychopathology report of suicide in the
+
+01:28:24.226 --> 01:28:52.894
+but especially in the days preceding suicide, that person's circadian rhythms looked almost inverted from their normal patterns. And that's true of non-bipolar individuals as well. You know, circadian disruption and disruption in psychiatric health are inextricable. Conversely, positive mood and affect and circadian behavior seem very correlated. I mean, I think...
+
+01:28:53.218 --> 01:29:16.126
+It's clear that if you want to become an early riser, get light in your eyes and get activity in your body early in the day. You entrain to those rhythms so that you start to anticipate that morning workout. You start to anticipate the morning sunlight. Just one more scientific point. We know that when you view bright sunlight in the morning or just sunlight that's illuminating your environment, as you said, you don't even have to see the sun itself.
+
+01:29:16.290 --> 01:29:40.766
+there's a 50 50 percent increase in the amplitude of the morning cortisol spike which is a good thing right that's where you want it because it's inversely the amplitude of the morning cortisol spike is inversely related to the amplitude of the evening cortisol spike and high evening cortisol is associated with middle of the night waking and on and on so um you know i'm very bullish on these mechanisms i also love that they're
+
+01:29:41.154 --> 01:30:09.310
+so deeply woven into our evolutionary history, you know, that we share with single cell organisms. It's so wild. But of course, there's going to be a bi-directionality there and it's impossible to see where one thing starts and the other one stops. I mean, here's my take, Andrew. First of all, I actually, with far less authority than you, agree with your assessment and might even be a little bit more bullish, might even put it at 80-20. And here I'll give you my
+
+01:30:09.698 --> 01:30:28.478
+explanations which stem more from my fastidious battles with epidemiology in general, right? Because so much of the world that I live in still has to rely on epidemiologic data. And so how do you make sense of it? And the truth of it is most of it is really pretty bad.
+
+01:30:28.642 --> 01:30:56.158
+But I tend to find myself looking at the Austin Bradford Hill criteria all the time. And for folks who don't know, he was a statistician who basically proposed a set of criteria. I believe there are eight of them, and I can't believe I don't know every one of them off by heart. I certainly used to. But the more of these criteria that are met within your correlations, the more likelihood you will find causality.
+
+01:30:56.610 --> 01:31:17.438
+So when I think of your data here, the data in this paper, I'll tell you what makes these correlations seem to have causality within them in the direction that's being proposed. Look at the dose effect. So dose effect matters, and this is done in quartiles, and that's a very elegant thing. If they just did it as...
+
+01:31:17.570 --> 01:31:43.422
+on, off, it would be harder. High, low. That's right. But the fact that they did it in quartiles allows you to see that every example in figure two, I don't believe there is an exception to this. No, and I think also in the other figure... There's only one exception to what I'm about to say. Sorry, two out of like God knows how many. They're all monotonically increasing and decreasing. In other words, the dose effect is always present. Another thing is biologic plausibility.
+
+01:31:43.554 --> 01:32:10.430
+spoken at length about that today. So in other words, sometimes you have to look at epidemiology and ask, is there a biologic explanation? And here there is. You've added another one, which is evolutionary conservation to the biologic plausibility. Then you can talk about animal models or experiments in humans over short durations that generally support these findings. And so those are just a couple of the Bradford Hill criteria that lead to
+
+01:32:11.554 --> 01:32:39.454
+know, my belief that, yeah, there's reverse causality here, but it's not the full explanation and that more of the explanation is probably the direction that's being proposed. And if that's true, because then at the end of the day, like what's the purpose of the discussion? The purpose of the discussion is if you are under the influence of any of these psychiatric conditions, in addition to the treatments you're doing now, what else can you do? And to me, the takeaway is that
+
+01:32:40.066 --> 01:33:02.622
+follow these light behaviors. I mean, it's a relatively low lift when you consider some of the things. Like I'm over here asking people to do zone two for three hours a week and VO2 max workouts and all this other stuff. And like, I think all those things matter for mental health as much as physical health. But this strikes me as on the spectrum of low asks,
+
+01:33:02.850 --> 01:33:31.998
+If it shows, if it's only even 30% causality, 70% reverse causality, like, I'll take those. I would still instate that. Yeah, and it's, you know, it's taking your coffee on the balcony. And people will often say, well, how do you do this with kids? The kids should be doing it too, right? You know, it means popping your sunglasses off. It means getting out for just a few minutes. And the fact that it's additive, that these, you know, these photon counting mechanisms, they sum,
+
+01:33:32.194 --> 01:33:57.406
+great and look this paper also says and i should have stated this earlier if you missed your daytime light ration get your nighttime dark ration they are independent and additive so that's i mean that's really something um but of course ideally you get both but i appreciate your take on it and um you know and thanks for for your expertise in parsing epidemiology i look at fewer studies of that
+
+01:33:57.634 --> 01:34:25.118
+that sort, but I learned from you. And that's one of the reasons I love doing these journal clubs is I learn. So along those lines, tell us about the paper you selected. I'm really eager to learn more. Well, I wanted to pick a paper that was, you know, kind of interesting as a paper. And this paper, I think, is interesting in that it is kind of the landmark study of a class of drugs. But
+
+01:34:25.762 --> 01:34:46.942
+the same way that you kind of picked a paper that I think has a much broader overarching importance, the reason I picked this paper, which is from the New England Journal of Medicine, it's about 10 years old, no correction, 13 years old, is because it is kind of the landmark study in a class of drugs that I believe
+
+01:34:47.106 --> 01:35:16.574
+are the most relevant class of drugs we've seen so far in cancer therapy. And even though the net effect of these drugs has only served to reduce mortality by maybe eight to 10%, which is not a huge amount, it's the manner in which they've done it that gives me great hope for the future, even if it's through other means. So I'll take a step back before we go into the paper for, again, just the context and background.
+
+01:35:17.410 --> 01:35:47.134
+So the human immune system is kind of a remarkable thing. It's hard when you're sort of trying to imagine what's the most amazing part of the human system. And maybe it's my bias as well, because just as you spent your time in the light system and the photosensing system, I spent my time in the immunology world. But it is remarkable to me how our immune systems evolved. And they have this really brutal task.
+
+01:35:47.330 --> 01:36:13.950
+which is how can they be tuned to detect any foreign pathogen that is harmful without knowing a priori what that could be while at the same, so in other words, how can you tune a system to be so aggressive that it can eradicate any virus or bacteria billions of years into the future without knowing what it's going to be
+
+01:36:15.138 --> 01:36:21.726
+But at the same time, it has to be so forgiving of the self that it doesn't turn around and attack the self.
+
+01:36:22.722 --> 01:36:46.782
+It's remarkable. And of course, we can always think of the exceptions. There are things called autoimmune conditions. So clearly the system fails, and the immune system turns around and attacks the self. If you see a person with vitiligo, I have a little bit of vitiligo on my back, a couple of spots. Clearly the immune system is attacking something there and destroying some of the pigment. I didn't realize vitiligo was autoimmune. Yeah.
+
+01:36:46.882 --> 01:37:16.478
+So there are lots of more serious autoimmune conditions, of course, somebody that has lupus or where the immune system can be attacking the kidney, the immune system can be attacking anywhere. Autoimmune conditions can be deadly, but fortunately they are very rare. And for the most part, this immune system works remarkably well. So how does it work and why is it that cancer seems to evade it virtually all of the time? This is the question.
+
+01:37:16.642 --> 01:37:42.558
+first of all talk about how it works and then when i tell you how it works you'll say that sounds amazing clearly it should be able to destroy cancer i'm going to simplify it by only talking about one system which is how t cells recognize and get activated how t cells recognize antigens so we have something called an antigen so an antigen
+
+01:37:42.658 --> 01:38:09.374
+is an antibody generating peptide. So it's a protein, almost always a protein. They can be carbohydrates, but they're almost always proteins. And they're very, very small peptides. Like we're talking as little as nine amino acids, maybe up to 20 amino acids. So teeny tiny little peptides. But it's amazing that in such a short peptide, the body can recognize if that's Andrew or not Andrew.
+
+01:38:10.050 --> 01:38:35.710
+I mean, again, think about like we talk about proteins in kilodaltins, right? We're talking about proteins in terms of thousands of amino acids that make up every protein in your body. And yet, if it samples a protein and sees that, hey, this little 9, 10, 15 peptide amino acid is not part of you, I know it's bad. And therefore, I'm going to generate an immune response to it.
+
+01:38:35.842 --> 01:39:04.478
+We have what are called antigen-presenting cells. You have cells that go around sampling peptides, and they will, on these things called MHC-class receptors, bring the peptide up to the surface and serve it up to the T cell. There are two types of these. There's MHC-class I and MHC-class II. I only... So this is major histocompatibility complex. That's correct.
+
+01:39:04.706 --> 01:39:29.982
+We refer to them that way because of the context in which they were discovered, which was for organ rejection. So not surprisingly, when you need to put a kidney into another person, if that kidney is deemed foreign, it will not last long. And the early days of organ transplantation were rife with immediate rejections. And by not, I mean, the immediates are the ABO incompatibilities.
+
+01:39:30.466 --> 01:39:56.126
+You know, the sort of next layer of incompatibility was MHC incompatibility, which would lead to, you know, within weeks the organ is gone as opposed to within hours. So you have these two classes of MHC. You have class one and class two. Class one is what we call endogenous. So this is basically what happens when a protein or an antigen is coming from inside the cell.
+
+01:39:56.258 --> 01:40:21.726
+So let's consider the flu. So if you get the flu, the influenza virus infects the respiratory epithelium of your, you know, your larynx. And that virus, as you know, folks listening might remember from our days of talking about COVID, viruses can't replicate on their own. What they do is they hijack the replication machinery of the host, and they use that either
+
+01:40:21.858 --> 01:40:48.094
+insert their RNA or DNA to replicate. And in the process, proteins are being made. Well, those proteins are the proteins of the virus, not of us. So some of those peptides get launched onto these MHC class 1 gloves, basically. The glove comes up to the surface and a T cell comes along. And in the case of MHC class 1, it's a CD8 T cell. These are what are called the killer T cells, right?
+
+01:40:48.738 --> 01:41:13.502
+And so this cell comes along and with its T cell receptor, the T cell receptor meets the MHC class one receptor with the antigen in it. And if that's a lock, it realizes that's my target. And it begins to replicate and proliferate and target those. And that creates the immune response. And by the way, that's how it works when you vaccinate somebody. You're basically pre-building that thing up.
+
+01:41:13.762 --> 01:41:42.654
+So would this fall under the adaptive immune response or the innate immune response? So this is adaptive, yep. Innate is just the pure antibody response on the B cell side. I won't get into that for the purpose of this discussion. The other example is MHC class II, and that's also part of the adaptive system or the innate system, which is more what we call the exogenous form. So these are peptides that are usually coming from outside the cell.
+
+01:41:42.754 --> 01:42:02.654
+So we're going to focus more on the MHC class one because this is peptides that come from inside the cell. Okay, so just keep in the back of your mind, if a foreign protein gets presented from inside a cell to outside a cell, the T cells recognize that and they will mount a foreign response. And by the way, that's why we basically can...
+
+01:42:02.786 --> 01:42:23.742
+any virus. Like, if you consider how many viruses are around us, the fact that we almost never die from a viral infection is a remarkable achievement of how well this immune system works. We're constantly combating these viruses. Constantly. And by the way, we don't really have very effective antiviral agents. It's not like antibiotics. Like, we have antibiotics up the wazoo.
+
+01:42:24.386 --> 01:42:49.630
+I mean, we're way better at fighting viruses than bacteria. Can I just ask one question? I've always wondered about this. To what extent is our ability to ward off viruses on a day-to-day basis as an adult reliant on us having been exposed to that virus during development? Like, as I walk around today, maybe I'll be exposed to 100,000 different viruses. Would you say that half of those I've already got antibodies to because I expect
+
+01:42:49.794 --> 01:43:14.078
+was exposed to them at some prior portion of my life yeah hard hard to quantify and the other ones I'm just building up antibodies like it was on I was on a plane last night someone was coughing so I was hiding and I had COVID a little while ago so I wasn't too worried about that and I feel great today but you know I just assume that on that plane I'm in a swamp of viruses no matter what and that
+
+01:43:14.242 --> 01:43:21.790
+Most of them I've already been exposed to since I was a little kid. So I've got all the antibodies and they're just fighting it back, binding up those viruses and, and, and,
+
+01:43:22.146 --> 01:43:52.112
+Yeah, I think it's part that, and I also think it's part of them that our body can destroy without mounting much of an immune response. So therefore, your immune system is doing the work, and yet it's not mounting a systemic inflammatory response that you're not sensing. So is it also a physical trapping in my nasal epithelium? It's a virus? Yeah, so yeah. You have huge barriers, right? So the skin, the hairs in your nose, all of these things are huge barriers. But assuming that still a bunch of them are getting in, at least the respiratory ones, that's the other thing to keep in mind, right?
+
+01:43:52.112 --> 01:44:03.486
+There are certain viruses that are totally useless floating around the air. There are certain viruses, the viruses that most people are really afraid of, Hep C, Hep B, HIV, well, you know,
+
+01:44:03.714 --> 01:44:27.230
+if they're sitting on a table or floating around the air, they're of no threat to you. They have to be, you know, sort of transmitted through the barrier. But again, some of these viruses you're going to defeat without an enormous response. And then some of them, you know, like why is influenza, quote unquote, such a bad virus, whereas the common respiratory cold kind of sidelines you for a day. It's the immune response that you're feeling.
+
+01:44:27.330 --> 01:44:57.246
+The bigger the immune response to the virus, the more you're feeling that. You feel your immune system going crazy, right? The interleukins that are spiking, the third spacing that occurs to get more and more of the immune cells there, the spike of your temperature as your body basically tries to cook the virus, all that stuff is your body. The fatigue. Yeah, you're being drained and all this happening. So one more point I'll mention just to close the loop on the autoimmunity.
+
+01:44:57.666 --> 01:45:26.302
+how is it that we learn not to attack ourselves? That's something called thymic selection that occurs in infancy. So you and I have a no good for nothing, tiny little thymus that would be, it's almost impossible to see these things. You know, when we used to operate on people, you know, the thymus is barely visible in an adult, in a healthy adult outside of thymic tumors. But as a child, the thymus is quite large. And the purpose of the thymus is to educate T cells.
+
+01:45:26.786 --> 01:45:55.998
+and basically show the T-cells what self is, and any T-cell that doesn't immediately recognize it gets killed. So it's a really clever system where we basically teach you to recognize self at a very early age, and if you can't do that, you're weeded out, and then the thymus involutes thereafter because it's sort of served its purpose. Okay, now let's talk about cancer. So what do we know about cancer? So we know that, again, you know,
+
+01:45:56.226 --> 01:46:22.590
+Cancer is a genetic disease in the sense that every cancer has genetic mutations. Most of those mutations are somatic, which means most of those mutations are mutations that occur during the course of our life. They're not germline mutations. The germline being the eggs and sperm, right? So it's all other cells. And I love that you pointed out that there can be genetic
+
+01:46:22.850 --> 01:46:38.366
+a cancer can be genetic but isn't necessarily inherited, right? In fact, it's rarely inherited. People hear genetic and they think inherited, right? Yes. Inherited is always genetic to some extent, but genetic isn't always inherited. Yeah, so there are a handful of cancers that...
+
+01:46:38.626 --> 01:47:06.622
+are derived from inherited mutations. So Lynch syndrome is an example of that. Hereditary polyposis is an example of that, where you have a gene that gets passed through the germline, and that gene codes for a protein, like all genes do, and it's either you have too much of a gene or too little of a gene. So it's either a gene that promotes cancer, and you have too much of that, or it's a gene that prevents cancer, and you have
+
+01:47:06.786 --> 01:47:35.390
+little of it or a dysfunctional version of it. Right? So BRCA is an example of that. BRCA is hereditary. BRCA codes for a protein and the women and men, but mostly the women that we think about who have a BRCA mutation that all in some cases almost guarantees breast cancer. It's because of a defective copy. So it's like they don't get the protein that they need to protect them from breast cancer. So what do we know? Well, we know that
+
+01:47:35.746 --> 01:48:03.326
+And this is probably one of the most remarkable things I've ever learned. And it still blows my mind every time. Well, actually, before I get to that point, I want to make another point. OK, so you might think, so cancer, our cells become cancerous, but they're clearly hijacked because they have these mutations. And as a result of these mutations, they make proteins that allow cancers to behave differently.
+
+01:48:03.426 --> 01:48:29.598
+And cancers behave differently from non-cancers in two very critical ways. The first way is that they do not respond to cell cycle signaling. So if you cut your skin, it heals. But how does it know to heal just right and not to keep growing and growing and growing and growing and growing? Well, it knows that because there are cell cycle signals that tell it time to grow, time to stop.
+
+01:48:30.178 --> 01:48:57.086
+Believe it or not, this is an extreme example. If you donated to me half of your liver, which I know you would. Absolutely. I'd give you more than half of my liver. Well, you'd only need to give me half. If it meant that we could keep doing these journal clubs, right? Within months, you would regenerate a full liver. That's so wild. Isn't that amazing? That's so wild. It's like a salamander. You cut off a salamander limb, and please don't do that experiment because other people are doing it anyway. And it grows back. And it knows how much to grow back.
+
+01:48:57.250 --> 01:49:27.134
+So wild. So when the cell is perfectly functioning, it knows how much to grow, and it's, well, cancer loses that ability. That is one of the hallmarks of cancer. It just keeps growing. It doesn't grow faster, by the way. That's a misnomer. People think cancers grow faster than non-cancers. There's no real evidence that that's the case. They just don't stop growing. The second property of cancer is the capacity to leave the site of origin, go someplace else, and take up residence. So that's metastasis. That's the metastasis component.
+
+01:49:27.458 --> 01:49:48.478
+So if you think about it for a minute, a cell that never stops replicating and has the capacity to up and leave and move and take up residence is clearly different from the cell itself, right? So if I have a cell of colonic epithelium, the cell that lines the inside of my colon, it's clearly got a set of proteins in it. But if all of a sudden that thing can...
+
+01:49:48.866 --> 01:50:18.558
+grow, grow, grow, grow, grow, not stop, not stop, not listen to the signal, and then somehow wind its way into the liver and just keep growing and growing and growing. It must have different proteins. So the question then becomes, why does cancer even exist? How has our immune system not figured out a way to just silence this and eradicate it the way it does to virtually every virus you encounter? And to me, this is one of the most interesting questions in all of biology, and it really comes down to how
+
+01:50:18.722 --> 01:50:43.614
+clever cancer is, unfortunately, how evolutionarily clever it is. It basically does a lot of things to trick the immune system. So it has its own secretory factors that tamp down the immune system. It grows in an environment because of its nature. So one of the things that's long understood about cancer is it's heavily glycolytic,
+
+01:50:43.906 --> 01:51:13.470
+And when something is heavily glycolytic, it's going glucose to pyruvate to lactate nonstop. There are lots of reasons for that. I think there's more than one. What does that afford it? Does that... Well, so it's interesting... Does that afford it a migratory potential? No, so it's super interesting. So that's the effect that what I just described is called the Warburg effect. And when Warburg proposed this, which God was probably in the 1920s, it was before World War I, before World War II,
+
+01:51:13.570 --> 01:51:40.254
+He proposed it because he thought the mitochondria of cancer cells were defective. So he proposed that the cancer cells, mitochondria don't work, hence they have to undergo glycolysis. They can't undergo aerobic metabolism. We now know that that's not the case. So we now know that the Warburg effect or the Warburg effect, if I'll refer to him correctly by his name,
+
+01:51:40.546 --> 01:52:03.038
+almost assuredly, does not have to do with defective mitochondria. Others have proposed several mechanisms. I think there's probably more than one thing going on. So a paper that came out in 2009, very influential paper by a guy named Matt van der Heiden and Craig Thompson and Lou Cantlie proposed that the reason that cancer cells do the Warburg effect is that
+
+01:52:03.234 --> 01:52:31.806
+they're not optimizing for energy, they're optimizing for cellular building blocks. And if you do the mass balance, it completely makes sense. Like dividing cells need building blocks more than energy. And glycolysis, while very inefficient for generating ATP, is much more efficient at generating substrate to make more cells. But another proposed mechanism is exactly at this one. Glycolysis lowers the surrounding pH because of lactate. Lactate attracts hydrogen, pH goes down. And guess what that does to the immune system?
+
+01:52:32.386 --> 01:53:01.150
+that attracts the immune system. So it's also a way to hide from the immune system. So there's like a pH cloaking. Leveraging pH to cloak the signal that the immune system would otherwise see. Yep. And then when you layer on top of that that it knows how to secrete things like IL-10, TGF-beta, all of these other secretory factors that also inhibit the immune system, basically it's figured out a way to kind of hide itself from the immune system. The way you describe it, cancer sounds like a virus.
+
+01:53:01.506 --> 01:53:28.734
+I mean, it sounds a lot like a virus. And that leads me to ask, are there any examples of contagious cancers? I recall seeing some studies about these little critters down in Australia, Tasmanian devils, that, like, they would... They'd scratch each other and fight, as Tasmanian devils do. They're actually quite cute. And they would get cancers and tumors growing on their faces. Yes, so... And so it was like a... It's not so much a...
+
+01:53:28.898 --> 01:53:51.870
+literal physical interaction that could transmit cancer from one animal to the next. So it's less that there are viruses that cause cancer. So in that sense, you could argue, yes, there are contagious cancers. Well, HPV. Sure, yeah. HPV, hep B, hep C. But there are even cancers like cutaneous cancers that arise from viruses. But...
+
+01:53:52.354 --> 01:54:20.350
+I don't know if that's quite the same as what you're saying. No, no, they're both... What you're saying is an important point. I mean, we don't want to go down the rabbit hole of HPV, but, right, that's increasing susceptibility to cervical cancer. Now there's a vaccine against HPV, right? There wasn't when we were in college, as we all knew. There was no vaccine. But the... Okay, so, but, yeah, direct transmission of cancers from one organism to the next, more rare. Yes. Okay, so now...
+
+01:54:20.738 --> 01:54:45.822
+A moment ago, I said there's this really incredible thing about cancer that blows my mind and about our immune system, which is that at least 80% of solid organ tumors, and we're going to mostly talk about solid organ tumors because that's where the field of oncology has made very little progress. So if you go back 50 years, where has oncology made huge progress? It's made great progress in blood tumors.
+
+01:54:46.210 --> 01:55:16.176
+leukemias and some kinds of lymphomas. In fact, there's two kinds of lymphomas where the progress has been remarkable. One has been in Hodgkin's lymphoma, and the other has also been in immunotherapy, has been in a type of B-cell lymphoma where that B-cell demonstrates or presents something called a CD19 receptor. So in B-cell lymphomas with CD19, there's a very unique niche immunotherapy, we won't talk about that today, called CAR-T therapy that has got rid of those guys. And
+
+01:55:16.176 --> 01:55:40.286
+And then leukemias have also been pretty good. But in solid organ tumors, there've been only two real breakthroughs in the last 50 years. One has been the therapy for a certain type of testicular cancer. And it's really just a chemotherapy cocktail that has been found to work really well. And the other has been in this really rare kind of gastric cancer called the GI stromal tumor.
+
+01:55:40.546 --> 01:56:05.118
+happens to result from one mutation in a kinase pathway, and there's one drug that can now target that, and it works. It's kind of amazing. Cures that cancer. Cures that. What I'm talking about are the cancers that kill virtually everybody else. This is what, when you sort of line up, what are the big causes of cancer death? Let's start at the top. It's lung, it's then breast and prostate in men and women,
+
+01:56:05.442 --> 01:56:33.022
+It's colorectal. It's pancreas. Those are the big five. They kill more than 50% of Americans. Cancer-wise, not, sorry, let me restate that. More than 50% of cancer deaths in Americans come from those five. These are what we call the solid epithelial tumors. And you can march down the list and most cancers that most people are thinking of are those cancers. Well, here's the thing. More than 80% of those cancers have antigens that are recognized by the host's immune system.
+
+01:56:33.346 --> 01:57:02.718
+will state it again because it is so profound. 80% at least of those cancers actually generate an antigen, meaning a little peptide in that cell gets presented to the T cell and it is recognizable. And now the question is, why is that not sufficient to induce remission? And the short answer is there are not enough T cells
+
+01:57:02.818 --> 01:57:31.742
+are able to act and or they are being sufficiently inhibited from acting, which gets me to the point of this paper. One of the ways in which the body inhibits the immune system, which we should remind ourselves is an important thing, right, is something called the checkpoint inhibitor. Okay, so go back to that idea that I talked about before. You have an antigen presenting cell. It brings up an MHC.
+
+01:57:31.938 --> 01:58:01.118
+receptor with a peptide on it, and there is a T cell that is coming. And I actually brought a diagram, which we're going to, I'm going to link to this because I don't want to make this too complicated, but I really think that this figure is helpful to understand how these papers, how these drugs work. So the MHC receptor with the peptide is sitting there and it binds to the T cell receptor on the T cell, but there is another receptor on the T cell, a CTLA-4 receptor.
+
+01:58:02.434 --> 01:58:30.974
+And that binds to a receptor that I won't bother naming now because the names don't matter. But there's another receptor on the antigen presenting cell that binds to that. And that acts as the breaks in the reaction. So CTLA-4, which is on the T cell, binds to another CD receptor on the antigen presenting cell, and it says, tamp down the response. And the reason for that is
+
+01:58:31.714 --> 01:59:01.374
+We want to keep our immune system in check. This basically is a way of asking the immune system, because remember, when the immune system sees that antigen, it wants to go nuts. It wants to start replicating and killing. This is a CD8 T cell. It is a targeted killer T cell. The checkpoint says, let's double check that. Let's be sure. Let's tamp down the response. And as a result of that, a thought experiment emerged, which was, what if we block CTLA-4?
+
+01:59:02.018 --> 01:59:30.654
+if we block the checkpoint could we unleash the immune system a little bit more and i will say this at the time it was proposed it seemed a bit far-fetched because of the complexity of the immune system it seemed a little far-fetched that simply blocking the checkpoint would have any effect it's also worth noting that prior to this
+
+01:59:31.106 --> 01:59:51.902
+One immunotherapy had found some efficacy, which was trying the exact opposite strategy. Rather than blocking the inhibitor, it was throwing more accelerant at the fire, which was giving something called interleukin-2. So interleukin-2 is, for lack of a better word, candy and fuel for T cells.
+
+01:59:52.290 --> 02:00:20.830
+So the idea was, if we have T cells that innately recognize a cancer antigen, can we just give high doses of interleukin-2 and have them undergo proliferation and response? And the answer turned out to be yes, but only in two cancers, melanoma and kidney cancer, and only at very small levels. About 10% of the population would respond to these things. Now, look, that's 10% of people who were going to be dead within six months because these are
+
+02:00:21.058 --> 02:00:49.886
+devastating cancers. And once they spread, there are no treatments that have any efficacy whatsoever. In fact, I think median survival for metastatic melanoma at the time was probably four months. So this was a very grim death sentence. But the idea now was, what about doing the exact opposite approach? Instead of trying to throw more fire at the T cell, what if we can take its breaks down? Less gas, pardon me, instead of giving more gas, let's give less breaks.
+
+02:00:50.914 --> 02:01:19.710
+There were some phase two, some phase one studies that demonstrated efficacy, phase two, and the paper I'm going to talk about today is the phase three study that compared the first version of these. So the drug we're going to talk about today is an anti-CTLA-4 drug called ipililumab. There is another drug out there that came along shortly thereafter that is
+
+02:01:20.034 --> 02:01:49.758
+an anti-PD-1 drug. So PD-1 turns out to be another one of these checkpoints on T-cells. And the Nobel Prize, by the way, I think it was 2018 or 2019 in medicine or physiology, was actually awarded to the two scientists who discovered CTLA-4 and PD-1. So, you know, this, I believe this is the only Nobel Prize in medicine for immunotherapy. It's a very big deal. So,
+
+02:01:49.890 --> 02:02:18.974
+This study sought to compare the effect of anti-CTLA-4 to a placebo. And the placebo in this case was not a real placebo. It was a peptide vaccine called GP100 to ask the question, in patients with metastatic melanoma, what would be the impact on median survival and overall survival? So,
+
+02:02:19.810 --> 02:02:36.638
+So let's talk a little bit about the paper. So again, one of the funny things about this is I used to read these papers a lot, Andrew. These used to be my bread and butter papers. So I mean, reading these like I'm...
+
+02:02:37.026 --> 02:03:05.950
+of my hobby. And I don't read them that much anymore. So it was kind of amazing how long it took me to remind myself of stuff I used to remember. But you do have to kind of go back and read the methods and figure out who were the patients in this? What was the eligibility criteria? Why did they do it this way? And of course, it all kind of came back to me, but it took a minute. So the first thing is these are all patients who had progressed through every standard therapy.
+
+02:03:06.178 --> 02:03:26.462
+So these are patients for whom there were no other options. These patients either had very advanced stage 3 melanoma, which means it was local regional melanoma, but it couldn't be resected. So an example of that would be a cancer that was, you know,
+
+02:03:26.562 --> 02:03:50.942
+completely engulfing, like where let's say the primary site was the cheek and it had completely grown into all of the surrounding soft tissue. It hadn't spread anywhere, but it was, you know, all the lymph nodes of the neck. Um, and, and I've seen patients like this and it's, you know, it's just completely disfiguring. Um, and they'd already been through the standard chemotherapy and nothing was working and the thing was growing. And then
+
+02:03:51.106 --> 02:04:18.718
+was mostly made up of patients with stage 4 cancer. Now, melanoma has a very funny staging system. So in cancer, we typically talk about something called the TNM staging system. It is the standard way that cancers are staged. T refers to the tumor size, N refers to the lymph node status, and M refers to the presence or absence of metastases. And for most cancers, it is a very simple system. It is, you know,
+
+02:04:19.170 --> 02:04:39.838
+T is typically a number 1, 2, sometimes up to 3 and 4. N is typically 0, 1, or 2. And M is 0 or 1. Either there's no METs or there are METs. So, for example, in colorectal cancer, the T staging determines the depth in the colon wall that it went. N is did it go to METs. And I think in colon, I'm a little bit
+
+02:04:39.938 --> 02:04:59.742
+rusty on this. I think colon has N0, 1, or 2, depending on how many lymph nodes. And then M0, did it go to anything beyond that, like to the liver, lung, etc., or not? Melanoma is a bit more complicated. It has M0, meaning no mets, but it also has M1A, M1B, M1C, and M1D.
+
+02:04:59.874 --> 02:05:29.054
+and within each of those, it has a threshold for high and low lactate dehydrogenase, or LDH. So it's both a staging based on imaging and biochemical. And the reason for that is LDH level is such a strong prognostic indicator of survival, in addition to M staging. Higher LDH levels tend to reflect more acidity, which we talked about why that's problematic, tends to reflect faster growing tumors, higher turnover, higher metabolic activity.
+
+02:05:30.498 --> 02:05:59.934
+M1A, let me see if I can remember this, M1As are cancers that have metastasized to surrounding soft tissue or soft tissue anywhere in the body, so anywhere else in the skin. And you might think, well, that's kind of crazy. Like, how does that happen? And it's really bizarre. You can have a patient who had a melanoma that showed up in one part of their body, and then they have metastases on other parts of their skin. M1B is...
+
+02:06:00.354 --> 02:06:17.534
+and I always get B and C confused. I think B is the lung. So M1B is to the lung. M1C is to any internal organs, so liver, et cetera. And M1D is to the CNS. And as those numbers increase, as those letters increase, the prognosis gets lower and lower and lower.
+
+02:06:17.730 --> 02:06:42.974
+So one of the first things I always look at when I look at a paper like this is, tell me about the patient population. Like, what was the breakdown of patients? And in Table 1, so that's, again, in clinical papers like this, Table 1 is always, always, always baseline characteristics. Oh, I should mention one other thing, Andrew. This was done as a 3-to-1-to-1 randomization.
+
+02:06:44.194 --> 02:07:11.838
+So again, in the simplest form, a study would have two groups, right? You would have, we're gonna just have a treatment group and a placebo group. But in this arm, you had three groups with one of them being the placebo. The placebo got just GP100, which is just a cancer vaccine. By the way, this is a cancer vaccine that never showed any efficacy. So it was a cancer vaccine that had been tested both
+
+02:07:11.938 --> 02:07:35.614
+interleukin-2 directly, and as an adjuvant for patients who had metastatic melanoma, or had, sorry, not metastatic melanoma, who had melanoma resected, who were tumor-free, and then given the vaccine as adjuvants to see, did that have an effect on outcomes? And it didn't. So it's kind of a known placebo. So you had that group, then you had the anti-CTLA-4 group,
+
+02:07:35.842 --> 02:07:46.334
+and then you had anti-CTLA-4 plus GP-100. Yeah, what's the rationale? For the three to one to one. It's basically, it increases statistical power.
+
+02:07:47.234 --> 02:08:10.622
+So this total study was a little under 700 people. They put 400 in the anti-CTLA-4 plus GP100 group, and then a little over 130 in each of the other two groups. So you're always going to be able to make these two comparisons. What you can check by doing this is, is there any effective GP100 in this setting?
+
+02:08:10.978 --> 02:08:34.398
+had never been done before. So again, GP100 is a known protein expressed by melanoma. And all of these people were haplotyped to make sure that their immune system would recognize it. And the question was, would giving people anti-CTLA-4, i.e. taking the brakes off their immune system with or without GP100 make a difference?
+
+02:08:35.074 --> 02:09:03.902
+kind of going through this, you can see it sort of skews about 60% to 40% male to female. They talk about something called the ECOG performance status. That refers to how healthy a patient is coming in. So ECOG zero is no limitations whatsoever, which is kind of amazing when you really consider something. I think this speaks to just how devastating this disease is. These are patients who all have like six months to live, right? You know, a year max. And yet look at this, 58%,
+
+02:09:04.034 --> 02:09:11.358
+60% of them have no limitation on their quality of life at this very moment. That's going to change dramatically.
+
+02:09:11.522 --> 02:09:41.488
+know, absent a cure here. And then ECOG-1 has some limitation. And you can see that ECOG-1 plus ECOG-0 is basically 98% of the population. You can see the staging there. So again, very, very few of these patients are the M0 category. M0s are people who have stage 3 disease that is so aggressive it can't be resected. That's about 1%. But the majority of these people are the M1As, M1Bs, M1Cs. So these are people with very aggressive
+
+02:09:41.488 --> 02:10:10.782
+cancers. You can also see that about 10 to 15% of these people also have CNS metastases. Again, the poorest prognosis of the poor. And then you can see about 40% of them have the LDH level above cutoff. All of this is to say we're talking about a group of patients who have a very high likelihood of not surviving more than, you know,
+
+02:10:11.362 --> 02:10:40.478
+year. It would be very unlikely that many of these patients would survive more than a year. So basically, more than 70% of these people have visceral metastases. A third have high LDH, and more than 10% have brain mets. They've also all progressed through standard therapy. Radiation chemo. Yeah. And the chemo for melanoma can be kind of a toxic chemo that really just
+
+02:10:41.346 --> 02:11:08.190
+doesn't really do anything. So is it commonplace to use a treatment that failed in clinical trials as a placebo in these sorts of studies? Yeah, it's interesting. You're referring, obviously, to the GP100. And I think the thinking was, OK, it hasn't been effective in other treatments, for example, when combined with IL-2 or as an adjuvant.
+
+02:11:08.354 --> 02:11:35.678
+Never before has it been tried with a checkpoint inhibitor, which is the technical term for this type of drug. I think there was also some belief that it would be easier to enroll patients. I don't think they stated this, but that's often the case. It would be easier to enroll patients if they would know that even in the placebo arm, they're still getting an active agent. Got it. And I suppose there's always the possibility that the combination of the
+
+02:11:35.906 --> 02:12:02.366
+failed drug with a new drug would work, and then so you're increasing the probability for novel discovery. For sure. And again, if you go back to the randomization of three to one to one, it's really only one-fifth or 20% of the participants that would get just the GP100. So in other words, you're basically telling people when they come into this study, there's an 80% chance you're going to get anti-CTLA-4.
+
+02:12:02.818 --> 02:12:24.990
+That's a much better set of odds than your typical study where you're going to be 50% likely to get the agent of interest. Right. And people who are literally dying of cancer, they don't want to be in the control group. Right. That's right. So the primary outcome for this study actually changed in the study.
+
+02:12:25.154 --> 02:12:48.894
+They have to get permission to do that. So the original primary endpoint was the best overall response rate. So I have to explain how response rates are measured. This is a bit complicated. Remember, all of these patients by definition have measurable, visible cancer. Visible either on the surface of their body, but more likely on an MRI or CT scan.
+
+02:12:49.410 --> 02:13:15.486
+So all of these patients had to be scanned head to toe within 12 weeks of enrollment. Again, there's another thing I should point out here, which I know you understand, but it's always worth reminding people. When a study like this takes place, it usually takes place over many years. And so it's not the case that all 700 of these patients were enrolled on the same day and finished, you know, we finished observing them on the same day. No, no, no. This took place for a very long period of time. This took place across
+
+02:13:15.586 --> 02:13:43.934
+Tens of centers. I can't remember if this was just globally or across the world. It might have been across the world. And so every center really needs to adhere to a very strict protocol. And you have a central organization that is running this. So you have a drug company. I think this is Bristol Myers Squibb that makes the drug. They provide the drug. And then you have a CRO, a clinical research organization that is basically managing the trial. And the trial is being done.
+
+02:13:44.098 --> 02:14:12.638
+at cancer centers all over the world or all over the country. And enrollment, I think, began in 2008 for this. No, no, I think it completed in 2008. It probably started in about 2004, 2005. And therefore, you had to kind of have real clear protocols around this. So a complete response is the easier of these to understand. A complete response is everything vanishes completely. That's very rare in cancer therapy.
+
+02:14:13.442 --> 02:14:32.862
+instead what we kind of look for is a partial response. A partial response, and there is really different ways to define this, there are different criteria, but this is the most common way you define a partial response. A partial response is at least a 50% reduction by diameter, because remember in
+
+02:14:33.186 --> 02:14:59.326
+type of imaging, you're looking at 2D versus 3D. So if you're looking at a lung lesion and it's this big, you know, if it's two centimeters long, it has to go to at least one centimeter in diameter. So it's a 50% reduction at least of every single lesion with no new lesions appearing and no lesions growing. So it's very strict criteria, right? Again, CR means everything vanishes. PR,
+
+02:14:59.458 --> 02:15:29.438
+at least a 50% by diameter, which by the way is a much bigger diameter, much bigger reduction in terms of tumor volume when you consider the linear versus the third power relationship of length and volume of every single lesion with nothing new appearing regardless of how small and no lesion growing. So that's a PR. So you basically have no response, progression, we talk about those together, and then partial response and complete response. So
+
+02:15:29.794 --> 02:15:57.086
+Initially, the authors of this study were going to, the primary endpoint of this was going to be the best overall response rate. So what was the proportion of patients that hit PR? What was the proportion that hit a CR? That's very common in this type of paper where the outcomes are typically so dire. However, oh, I think I said that the study was, I don't remember when the study ended, but the
+
+02:15:57.378 --> 02:16:15.198
+amendment was made to change the primary endpoint to overall survival at some point during the study. So, and by the way, that tends to be the metric everybody cares most about. So the overall survival for metastatic melanoma
+
+02:16:15.458 --> 02:16:44.446
+zero, with the exception of people who respond to interleukin-2, high dose interleukin-2, and that will boost the overall survival rate to somewhere between 8 and 10%. Very, very low. These patients, many of whom had already taken and progressed through interleukin-2. Let me refresh my memory on what percentage of those patients.
+
+02:16:45.281 --> 02:17:10.910
+about a quarter of these patients had already taken high-dose interleukin-2, and by definition, the fact that they're in this study means they had already progressed through that. That treatment had failed. Just reiterate just kind of the state these patients are in. So now let's look at figure one. So again, I'll describe it because I realize many people are just listening to us. All of this will be available.
+
+02:17:11.010 --> 02:17:37.534
+within the video and then we'll link to the paper. So figure one is a figure that probably looks really familiar to people who look at, you know, any data that deal with survival. It's called the Kaplan-Meier survival curve. So on the X axis for this curve is time and time here is shown in months. And on the Y axis is the overall survival at the very top, 100% at the bottom, 0%.
+
+02:17:37.762 --> 02:18:05.502
+And it has three graphs or three curves that are superimposed on one another for each of the three groups. Again, the control group, which is the GP100, the anti-CTLA-4 group by itself, and the anti-CTLA-4 plus GP100. And one of the characteristics of a Kaplan-Meier curve is by definition, they have to be decreasing in a monotonic fashion because it's cumulative overall survival. That just means
+
+02:18:05.665 --> 02:18:23.710
+can't come down and go back up. Nobody comes back to life. So once a person dies, they are censored from the study and the curve drops and drops and drops. And you can see that they kind of highlight, and I actually think it makes the graph a little harder to read when they put some of those marks on there. But
+
+02:18:24.162 --> 02:18:48.222
+What really becomes clear when you look at this is that there's a clear distinction between the curve for the placebo group, the GP100 group, and the other two, the two treatment groups. Now, you'll note at the very end that the two treatment groups appear to separate a little bit. I'll talk about that in a second.
+
+02:18:48.322 --> 02:19:13.982
+I look at these, Andrew, the first thing I always turn my attention to, I can't resist. I have to look at the right-hand side of the graph because what is that really telling me, right? The tale of this is showing me the true overall survival. And I want to sort of figure out what is going on. So in the GP100 group, which is the placebo group, it is kind of amazing to think that there is still one person who is alive at 44 months.
+
+02:19:15.138 --> 02:19:40.734
+it's amazing. I mean, it's both sobering and amazing that like one person made it to 44 months. The next thing I ask myself is, well, how long did half of the people make it? That's called median survival. And to do that, you go up to the y-axis and you draw a little line from the 50 over, and then you bring that down. And that's, you know, that's awfully low. That's about
+
+02:19:41.154 --> 02:20:04.030
+Yeah, in fact, the table will tell us exactly what that is because I think it's really hard to eyeball that stuff. So let's go to, so there's always a table that will accompany these things. And let's pull up that table. I've got this paper spread out over so many things. That's adverse events. Where's our survival table here? Your two subgroup analysis of overall survival.
+
+02:20:08.994 --> 02:20:19.102
+probably be helpful if I stapled these things together because it would be well this is always a trade-off actually for since this is a journal club episode I will say that stapling helps but it also
+
+02:20:19.298 --> 02:20:43.870
+one from separating things out writing in the margins i like these little mini clips yeah no financial relationship to the mini clips either um just have to state that because i always get if you don't say that people go oh you must have a stake in these mini clips i like these little mini clips in fact i'm such a nerd i always have one of these uh pilot v5 v7s in my pocket on my pocket or my hip and then my pockets are always filled with
+
+02:20:43.970 --> 02:21:11.070
+with these little mini clips. But then again, I have a friend who's a musician, and he's always raining guitar picks. So as far as occupational hazards go of being a nerd, these mini clips are- I'm a big fan of the mini clip as well, but I went without it today. All right, so thank you. Yes, table two. All right, so let's look at table two while looking at the Kaplan-Meier curve, because now this allows us to see a couple of things. By the way, remember how I said there was like that one person who-
+
+02:21:11.362 --> 02:21:37.662
+of is still alive in the treatment group. Well, you can tell that he's not a complete responder. He or she is not a complete responder because under evaluation of therapy in table two, it says best overall response and it says complete responders zero. So there was zero complete responders in the placebo. There were two partial responders. Again, a partial responder is
+
+02:21:37.762 --> 02:22:03.838
+Some lesions got smaller, some got bigger. Stable disease didn't really change that much. And progressive disease is obviously, it went beyond. When you say partial response, like lesions got smaller, are they literally just tracing the circumference of one of these skin lesions and saying, okay, it got bigger, smaller? Yeah, literally we'd had rulers in clinic. Like just morphology. Yep.
+
+02:22:03.970 --> 02:22:18.206
+Gosh, this feels so crude in terms of like, I mean, it makes total sense, but like in terms of like modern medicine, oh, like your lesion grew from like three millimeters to six millimeters. And you're literally like drawing little boundaries around little blotches on the skin.
+
+02:22:18.402 --> 02:22:48.158
+Yeah, you're putting a little measuring tape on them. Now, again, most of these are happening in the radiology suite because most of the disease for these patients is inside the body. Remember, more than 70% of these patients had visceral metastases. So liver, soft tissue, lung, brain. In fact, if you include lung, liver, brain, and viscera, it's pretty much all the patients. So most of this is looking at a CT scan or an MRI for the brain. Got it.
+
+02:22:48.546 --> 02:23:14.110
+Okay, so that's kind of the first thing that comes up. The median response rate should be shown pretty prominently here. So I'm looking through this and where is median response? Maybe it's shown in a different table. Let's see. Not disease control rate, time to progression.
+
+02:23:16.290 --> 02:23:45.950
+I remember it's about 10 months, but maybe that's just in the text. Yeah, here it is. So I thought this would be in a table, but it's on page 715 of the paper. It just reports it. So I'm sorry, I misspoke. The 10 months was for the anti-CTLA-4 plus GP100 and 6.4 months for the GP100 alone. That's the control. And then 10.1 for the...
+
+02:23:46.082 --> 02:24:14.238
+anti-CTLA-4 alone. Okay. So again, I always, and again, I'm just always doing this. I'm kind of going back to the paper to be like, does that make sense? And yeah, you kind of called it, right? You said median survival was about eight. Well, it turns out it's actually like six and change because it has that little ding in it and it's out to a little past 10 on the two others. So the net takeaway here is, again, just to put that in English because it's so profound, 50% of the patients in the control group
+
+02:24:14.818 --> 02:24:40.030
+dead in six months. 50% of the patients in the treatment group, both treatment groups, were dead in 10 months. So what that means in cancer speak is these drugs extended median survival by four months. Now, that's an important concept. You know, when we think about how has cancer therapy changed,
+
+02:24:40.226 --> 02:25:07.646
+the past 50 years, median survival for metastatic cancer has increased across the board. So a person today with metastatic colorectal cancer, or a woman today with metastatic breast cancer, or a person with metastatic lung cancer, these people will live longer with those diseases today thanks mostly to treatments. This is not an early detection lead time bias issue. This is
+
+02:25:08.034 --> 02:25:37.566
+Treatments are allowing people to live longer. And that's an important part of the story. But it's only half of the story, yet it often gets touted as the story. The other half of the story, and frankly the story that I think is more important, is what is overall survival doing? And if you go back to those cancers, the answer is zero. So overall survival hasn't changed for solid epithelial tumors. It was 0%.
+
+02:25:37.730 --> 02:26:05.662
+1970, and it's 0% today. Everyone dies. Everyone dies from metastatic solid organ tumors. Now, again, there's those niche examples I gave you. Testicular cancer is now an exception. GI stromal tumors would be an exception. And I'm not including leukemias and lymphomas where now there are exceptions. Okay, within, not to try and be overly optimistic, but if I look at the graph,
+
+02:26:06.242 --> 02:26:35.326
+in figure one, and I look out at the tail of the graph. That's right. And for those that are just listening, what I see, and I'm far less, far less familiar with this type of work and this analyzing these type of data, but what I see is that people in the placebo group, they're all dead except that one. They're basically all dead at 44 months. But when I look at the number, how long it takes for everyone to be dead in the treatment groups,
+
+02:26:35.970 --> 02:27:05.854
+50, looks like 53, 54 months or so. And they're not dead. That's the point. They're hanging in there, right? So because, you know, an extra, somebody who lost both of my scientific advisors, two of the three, the other one, the suicide, we've talked about this before, but the other two to different cancers, both had the BRCA2 mutation, by the way, you know, an extra eight to 10 months with your kids or with your spouse or,
+
+02:27:06.338 --> 02:27:34.398
+quote-unquote, get your affairs in order is a big deal. I mean, it's still depressing in the sense that nobody survives long-term, but, you know, an extra 10 months, as long as one is not miserable in that time, completely miserable, I mean, that's an extra 10 months of living, right? Well, and what's interesting here is, you know, the observation period stops and some of these patients are still going. So what you're highlighting is kind of the point I want to make, which is,
+
+02:27:34.722 --> 02:28:00.862
+Overall survival is the most important metric and it's the highest bar, make no mistake about it. And it's certainly not the bar any drug company is ever going to want to talk about for a cancer drug. But why not? Because none of them work, right? Like we don't have, you know, like drugs- They only want to talk about cures. They don't want to talk about- No, they only want to talk about median survival. They only want to talk about extending median survival. And, you know, there are-
+
+02:28:01.314 --> 02:28:30.302
+Lots of people out there that are on this platform, I don't need to get onto it, but who will say, look, it's a real racket in oncology today where drugs that are extending median survival by four weeks are being put on the market at a tune of $50,000 to $100,000 per treatment. That's not uncommon in oncology. There was one drug that was approved for pancreatic cancer. I believe it extended median survival by nine days, and it cost $40,000. And it's being advertised as
+
+02:28:30.402 --> 02:28:56.286
+significant extent of survival. Yes, because that was a statistical significant improvement in median survival. So I'm just, yeah. So look, it's really understandable why people are very skeptical of the pharma industry. And I think a much more nuanced view is necessary. Clearly, I don't think pharma is all bad. But I really understand why people lose faith in pharma when these types of products somehow make regulatory approval.
+
+02:28:56.770 --> 02:29:20.510
+Does insurance cover these kinds of drugs? It can. In fact, it often does. It depends on the FDA approval, of course, and the indication. But a lot of times they do, right? So yeah, there's a societal cost to these things. But there's also a patient cost, right? So a lot of times insurance doesn't fully cover it, and a patient has to bear the cost difference. And on top of that, you alluded to this a second ago, which is
+
+02:29:20.642 --> 02:29:49.470
+what if your quality of life is dramatically compromised as a result of this treatment? And yes, statistically, you're going to live nine days longer or three weeks longer, but at what cost to your health in those final remaining days? And by the way, you're potentially straddling your loved ones with enormous debt in your absence. So it's a super complicated topic. Yeah, there's a dignity component too. I mean, I've seen this in people dying. At some point, they become such a...
+
+02:29:49.826 --> 02:30:18.782
+diminished version of their former selves that they don't want to be seen by people that way. So what is exciting about this drug, although this paper is not the one that shows it, the reason I chose this paper, Andrew, is because it was the first approval. A second drug came along that is an anti-PD-1 drug. That drug is called Keytruda. That drug turned out to be even better and has even...
+
+02:30:18.914 --> 02:30:46.814
+greater response rate, both in terms of median survival and overall survival. But this was the landmark paper. I also have a slight bias here, and I'll disclose in a moment why, but I think it just talks about very interesting biology. So let's talk about a couple of things that stuck out to me in this paper. The first thing that stuck out to me, and the authors didn't comment on it unless they did and I missed it, is look at figure two.
+
+02:30:47.010 --> 02:31:15.646
+So figure two is the subgroup analyses where you're sort of showing a similar graph to the one you showed earlier, right? Where you show the response rate or the change in response between the groups, and then you put the error bars on it. And this is where we talk about how, well, it's a 95% confidence interval, so does it touch the unity line? So these are called like tornado plots typically.
+
+02:31:17.122 --> 02:31:42.846
+And what you'll notice is that in the top you're looking at sort of it's comparing the anti-CTLA-4 with GP100 versus the GP100. And in the bottom you're looking at the anti-CTLA-4 versus the GP100. So at a glance you can see GP100 is not doing anything. I mean that's the first takeaway of comparing A to B.
+
+02:31:42.978 --> 02:32:08.670
+What I find most interesting is look at the subgroup analysis of females. Notice that in females, while there's a trend towards risk reduction, and this is risk reduction for overall mortality. So again, I just want to restate that the primary outcome of this trial was changed to overall survival, which I think is the better outcome, by the way. And overall for all patients in when you compare
+
+02:32:09.282 --> 02:32:38.046
+anti-CTLA-4 plus placebo versus placebo, there was a 31% risk reduction in overall mortality. That's the mathematical interpretation of what you're seeing at the tail end of that Kaplan-Meier curve. So living longer. Living longer. And it sounds like a big difference. Sounds like a big difference. In some sense, it is a big difference. Well, it is for those people because you're really looking at basically 0% surviving in
+
+02:32:38.178 --> 02:33:07.710
+placebo group versus 20% of people are still alive at 56 months in the treatment group. But look, that means 80% have died, right? But notice that, and sorry, when you just look at the anti-CTLA-4 plus GP100 in the subgroup B, that hazard ratio is even showing more compression. It's a 36% reduction in risk of death.
+
+02:33:07.970 --> 02:33:36.318
+Notice that the females did not reach significance. So in the first group, they barely do. And you can see that because the confidence interval runs from 0.55 to 0.92. And notice the error bar almost touches the line. And in the second one, it does not reach significance at all. So I actually went and kind of did a little reading on this after. And I said, hey, you know, how much did this study, was this an outlier study? And it turned out it wasn't.
+
+02:33:36.642 --> 02:34:04.094
+And that about half the studies of anti-CTLA-4 did indeed find that the drug was less effective in women than men, which I found interesting. Now, I couldn't find any great explanation for it, but the most plausible explanations fit into two categories. The first are maybe there are differences in the immune response to the drug if you're a man or a woman. The second comes down to dosing.
+
+02:34:04.258 --> 02:34:33.342
+should have said this at the outset, but of course these drugs are not like a pill where it's like everybody gets, you know, 50 milligrams of this. They're all dosed based on weight. So this study is dosed, I believe, at three milligrams per kilogram. And because most men are heavier than women, men are getting a higher dose than women. And weight and body surface area and immune system, like these things are not all perfectly linear. So I kind of wonder if
+
+02:34:33.826 --> 02:35:01.822
+This difference is simply explained by men on average getting a higher dose than women. Interesting. The last thing I want to talk about here is in table three. So table three, always an important table to look at in any paper, is what are the adverse outcomes, right? What are the adverse effects of the drug? Yeah, I spent a little bit of time with this, and I confess it.
+
+02:35:02.050 --> 02:35:31.966
+I definitely don't want cancer to the extent that I can avoid it. But this table made me wonder whether or not I would also want to just avoid cancer treatment given the life extension provided. I mean, these adverse events are pretty uncomfortable. They sound like it. Just to put in perspective, and you always have to kind of be mindful of how many of these adverse events are occurring in people just because their disease is progressing. So the first thing I always want to look at is total adverse events.
+
+02:35:32.162 --> 02:36:00.830
+events in all three groups, not just grade. So grade three and grade four are real toxicities, right? Grade four toxicity is life-threatening toxicity, by the way. Grade three is pretty significant toxicity. Grade one and two, we typically just, you know, that's not that severe, right? A little rash, put some corticosteroids on it, it went away kind of thing. Okay, so in the treatment plus GP100 group, 98.4% of people reported some event. So all but 1.6%.
+
+02:36:01.602 --> 02:36:23.486
+In the NTCTLA-4 group alone, it was 96.7%, so only 3.1% did not. But in the placebo group, it's 97%. So it's important to keep in mind, like, you know, everybody's having some adverse effect. Okay, well, what if you say, well, let's just limit it to the most severe events? Well, let's just talk about grade 4 toxicities.
+
+02:36:23.778 --> 02:36:52.638
+6.1% of those in the placebo group, 8.4% in the anti-CTLA-4 group, and 6.8% in the combined group. So not a huge difference in grade 4 toxicity. Meaning that whatever adverse events are occurring may not be related to the treatment. They may not be related to the treatment. Again, these are, if you think about it, and it's a very awful, sad, morbid thought to imagine, these are, you're looking at the adverse responses of people
+
+02:36:53.090 --> 02:37:21.150
+more than 80% of whom died during the course of a very, very short study. And so, you know, it's very difficult to disentangle what effects or what side effects a person is having just from that process as they are from the actual treatment. But if there is an area where there's a really clear difference, it's down in the autoimmune category. So if you look at any immune-related events, you can see that in the
+
+02:37:21.250 --> 02:37:49.950
+CTLA-4 plus GP100 group, it's about 60% in both of those treatment groups versus 30%. And if you look at the grade three and four toxicities, it's 10% in the anti-CTLA-4, 15% in the anti-CTLA-4 alone group, and only 3% in the treatment. So that's a real difference. Well, it makes sense that people getting this drug
+
+02:37:50.690 --> 02:38:20.190
+placebo or just the drug would have autoimmune issues because this is an immunotherapy. It's an immunomodulator. In fact, what is it doing? It is taking the brakes off the immune system. But then again, the things that they list out, pruritus, is that a irritation of the skin? Yeah, irritation of the skin. I'm not a physician, but I know that any itis is going to be like an inflammation. Anoma, unfortunately, likely a cancer or cell replication. Look at the difference in vitiligo. I mean,
+
+02:38:20.578 --> 02:38:47.390
+Wow. Yeah. So very little- Sorry, sorry. Look at the gastrointestinal differences. Yeah. And the vitiligo, right? So 3.7%, 2.3%, 0.8%. The GI stuff is the most common stuff you're going to see there. Those are the really big ones. And of course, there's diarrhea and there's diarrhea. Oh, yeah, yeah. Like there's traveler's diarrhea. There's- Yeah, no, these- Overly spicy large meal the night before diarrhea. And then there's like, can't really-
+
+02:38:47.586 --> 02:39:17.534
+do anything besides make trips back and forth to the bathroom. Well, put it this way. Colitis here is diarrhea so significant these patients require IV fluids. Now, what you don't see here is how many of these patients actually required corticosteroids to reverse the autoimmunity. So a lot of times what will happen here in these studies or with these drugs is the autoimmunity becomes so significant that you have to stop the drug and give corticosteroids. Do the exact opposite. You now have to shut the immune system down. So you just took the brakes off it with the drug
+
+02:39:17.986 --> 02:39:46.366
+Now you need to shut it down with corticosteroids. When I was, was I in med school? No, when I was in my fellowship, I wrote a paper about autoimmunity correlating with response rate in NTC TLA-4 early on. This was during the phase two work. So the NCI was a very early study
+
+02:39:46.498 --> 02:40:15.774
+adopter of participating in these trials. And, you know, it was observed that, or at least hypothesized, this is what the paper basically wrote about, which was, is there any correlation between autoimmunity and response? And it turned out the answer was yes. There was a very strong correlation. So there was no difference in autoimmunity between the doses. And so the paper we wrote was,
+
+02:40:15.874 --> 02:40:44.606
+dosing schedule so it was basically the full dose the three milligrams per kilogram versus a low dose one milligram per kilogram this is a phase two trial those are your two arms there turned out to be no difference in autoimmunity between them but there was a big difference between um uh the response rate that tied to autoimmunity in other words autoimmunity predicted response now i think over time these uh investigators
+
+02:40:44.834 --> 02:41:10.142
+doctors who administer these treatments are getting better and better at catching these things earlier because these autoimmune conditions can actually be devastating. So on a very personal note, when Keytruda came out, I want to say it was around 2011. No, no, no. Gosh, it must have been 2013, 2014, thereabouts. Again, it was for treatment of metastatic melanoma.
+
+02:41:10.754 --> 02:41:40.478
+to come back and explain why melanoma gets all of the attention in autoimmune condition, in immunotherapy conditions. I'll state that. But anyway, a friend of mine got pancreatic cancer and he got the bad type of pancreatic cancer. So this is like the adenocarcinoma of the pancreas, right? So this is a non-survivable type of cancer. Furthermore, his was unresectable. So- Can you explain what that is for me?
+
+02:41:40.578 --> 02:42:09.214
+Yeah. So about 20% of people who have pancreatic cancer technically have it in a way where you could still take out the head of the pancreas. Right. The Whipple procedure. The Whipple procedure. Right. Now, tragically, most of those patients will still recur. My understanding is that pancreatic cancer progresses from anterior to posterior in the pancreas, and that the Whipple is a removal of the front and the anterior. That's the Whipple procedure. So if they...
+
+02:42:09.730 --> 02:42:39.646
+has progressed far enough caudal into the posterior pancreas, then there's nothing left to cut out basically. Can we survive without a pancreas for any amount of time? Oh yeah, absolutely. So why don't they just remove the whole pancreas? Oh, that's my point. It's already micrometastasized. So it's not, the surgical procedure is not the challenge anymore. It used to be. So, you know, at Johns Hopkins, which is one of the hospitals where this was pioneered, like the 30-day mortality for a Whipple procedure was
+
+02:42:40.674 --> 02:42:59.358
+know, 80%. And the reason was to figure out how to suture a pancreas to the bowel without the... So the pancreas is such an awful organ to operate on because its enzymes are designed to digest anything and everything. So
+
+02:42:59.522 --> 02:43:23.518
+Imagine now you have to cut the pancreas in half, take out the head of the pancreas with the duodenum, and then somehow sew that open half of a raw pancreas to the end of the jejunum and not let it digest itself. Someone at Hopkins figured this out. No, the first one was actually done by A.O. Whipple. But yes, at Hopkins is where they figured out the...
+
+02:43:23.618 --> 02:43:52.830
+to put drains in, the surgical technique, how to do it in two layers, what type of stitches to use. Like all of the nuances of this were worked out in a few places, but I would say Hopkins more than any place else. And are there physicians who like try this on non-human primates or something? Or is this always just done on patients? Well, nowadays, I mean, put it this way, even 25 years ago at a major center like Hopkins, the mortality of that procedure was less than 1%.
+
+02:43:52.994 --> 02:44:21.246
+So there have been some victories. Well, yes, but here's my point. That's no longer the bottleneck, right? Taking out the pancreas safely, as complicated and challenging as that is, and if you need a whipple procedure, you only want to have it done by someone who just does that night and day, because you don't want weekend warriors doing it. That's not why people are living or dying. They're dying because the cancer just comes back. It was already spread to the liver by the time you did it. You just didn't realize it yet.
+
+02:44:21.890 --> 02:44:51.806
+whether you took out the whole pancreas or the head of the pancreas or the tail of the pancreas, the location of the tumor is predictive of survival only in the extent that it basically is a window into how soon did symptoms occur. So pancreatic cancers in the tail tend to be more fatal, even though they're way easier surgically to take out because by the time you develop symptoms of a tail pancreas cancer,
+
+02:44:52.226 --> 02:45:18.814
+It's a big cancer. I was going to ask this question later, but I'll just ask it now. Given the link between the immune system and these cancers, is there an idea in mind that people who are, let's say, 40 and older or 50 and older who don't yet, they're not diagnosed with any cancer, would periodically just stimulate their immune system to wipe out whatever early cancer
+
+02:45:18.946 --> 02:45:48.318
+might be cropping up. Just take a drug to just ramp up the immune system, even to the point where you start having a little diarrhea, maybe a few skin rashes, and then come off the drug. Just basically to fight back whatever little cell growths are starting to take place in skin or liver, maybe for three weeks out of each year. I mean, why not? Yeah, that's an interesting question. I've never thought of it through that lens. I suppose the question is,
+
+02:45:48.514 --> 02:46:16.478
+what can we do to keep our immune systems as healthy as possible as we age because... Stay on a normal circadian schedule. There's evidence for that. Sure. No, there's evidence that certainly if it promotes sleep, anything that promotes better rest is going to promote immune health. Because if you ask the macro question, which is like, why does the prevalence of cancer increase so dramatically with age? There are certain diseases where it's really obvious
+
+02:46:16.610 --> 02:46:44.254
+why the prevalence of the disease increases with age. Yeah, like age-related macular degeneration. Sure. Or cardiovascular disease is by far the most obvious because it's an area under the curve exposure problem. The more exposure to lipoproteins and the more the endothelium gets damaged, the more likely you are to accumulate plaque. And again, it totally makes sense why 10-year-olds don't have heart attacks and 80-year-olds do. But when you sort of acknowledge that, well, hey, you know,
+
+02:46:44.994 --> 02:47:12.254
+you know, anybody's accumulating genetic mutations, we're always surrounded and being bombarded by things that are altering the genome of ourselves. Is it simply a stochastic process where the longer you live, the more of these mutations you're going to occur until at some point one of them just wins? I think that's got to be a big part of it. But I think another part of it, and I clearly am not alone in thinking this, is that our immune system is getting weaker and weaker as we age, right? I mean, you know, we...
+
+02:47:12.674 --> 02:47:36.510
+people become more susceptible to infections as they get older. And I think that that's equally playing a role in our susceptibility to cancer. So yeah, I think the question is, how do you modulate immunity as you age? And to me, that's one of the most interesting things about rapamycin potentially is that when taken the right way, it seems to enhance cellular immunity.
+
+02:47:37.090 --> 02:48:04.958
+Again, that's potentially a really big deal. Again, at least in short-term human experiments in response to vaccination, it's enhancing vaccine response. So the question is, would that translate into cancer? Nobody knows. Could that be one of the reasons why animals treated with rapamycin live longer and get less cancer? Don't know. It could also be that it's at a fundamental level that's targeting nutrient sensing. Where I was going with that story was that...
+
+02:48:06.594 --> 02:48:35.390
+I'll back up for a moment. Why melanoma? So we didn't really know this like 30, 40 years ago in the early days of immunotherapy. But what we know now is that most cancers probably have about 40 mutations in them. That's like ballpark. 40, 50 mutations is standard fare for a cancer. But melanoma happens to be one of the cancers that has many, many more mutations.
+
+02:48:35.682 --> 02:49:00.510
+And the more mutations a cancer has, the more likelihood that it will produce an antigen that's recognized as non-self. And that's why in the early days of immunotherapy, the only things that worked were IL-2 against metastatic melanoma and kidney cancer, because kidney cancer turned out to also be one of those cancers that, for reasons that are not clear, produced hundreds of mutations.
+
+02:49:01.346 --> 02:49:30.718
+So it's no surprise that the early studies of checkpoint inhibitors were also done in metastatic melanoma, where you basically have more shots on goal. Again, if I'm going to take the brakes off my immune system, I might as well do it in an environment where there are more chances for my T cells to find something to go nuts against. So it's 2013, 2014, and this friend of mine who has something called Lynch syndrome, which is a
+
+02:49:30.914 --> 02:49:59.070
+those few hereditary or germline mutations that results in a huge increase in the risk of cancer. He had already had colon cancer at about the age of 40 and had survived that. It was a stage three cancer, but he had survived it. Well, now five years later had developed pancreatic cancer. And when he went to see the surgeon, they said, yeah, there's nothing we can do. Like it's too advanced. So that's
+
+02:49:59.298 --> 02:50:27.486
+But to put that in perspective, that is a death sentence. And that's a six-month survival. And at around that time, there was a study that had come out in the New England Journal of Medicine that had talked about how patients with Lynch syndrome had lots of mutations. And so we talked with his doctors about the possibility of enrolling him in one of the Keytruda trials. There was one going on, I think, at Stanford.
+
+02:50:28.002 --> 02:50:57.374
+And, you know, the thinking being, well, you know, you would want to target a checkpoint inhibitor against somebody who has a lot of mutations. And even though typically we don't see that in pancreatic cancer, his is a unique variant of it because it's based on this. And so sure enough, he was tested for these mismatch repair genes. He had them enrolled in the trial and amazingly had not only a complete regression of his cancer, and he's still alive and cancer-free today, 10 years later, but...
+
+02:50:57.794 --> 02:51:23.070
+The treatment worked so well at activating his immune system that his immune system completely destroyed his pancreas. So now he has effectively had a pancreatectomy based on his immune system. So now he actually has type 1 diabetes. He has no pancreas. He injects insulin to deal with that? Yeah, yeah. No, no, he has to use insulin just like someone with type 1 diabetes. Okay, but he had to pick being alive with...
+
+02:51:23.202 --> 02:51:50.270
+type 1 diabetes. Yeah, of course, no comparison. But it's just an interesting example of how remarkable this treatment was able to work when you could completely unleash the immune system of a person, and you eradicate the cancer and the rest of the cells around it. And there are many organs we could live without. There are certain organs you can't live without. You can't live without your heart, lungs, liver,
+
+02:51:50.370 --> 02:52:17.822
+But many things that kill people arise from organs, the breast. You could live without all breast tissue. Prostate. Prostate. You could live without all prostate tissue. No one would choose to live without these. Right, but I'm saying if you had metastatic cancer and you had a bullet that could selectively target a tissue, you would take it. And right now, the only tissue we can do that against is a CD19 B cell. And that's what those CAR T cells are.
+
+02:52:17.986 --> 02:52:45.758
+So right now, these are not tissue-specific treatments, but they're mutation-specific. The last thing I'll say about this paper that I found interesting, and I was looking for it and I was surprised, they didn't at all comment on if there was any correlation between autoimmunity and response. So they obviously acknowledged the autoimmunity in Table 3, but I would have loved to have seen a statistical analysis that said, hey, is there any correlation between response rate and autoimmunity?
+
+02:52:45.858 --> 02:53:14.366
+they didn't comment to that effect. So we're left kind of wondering what the current state of that is. And I guess in summary, I'll say that the reason I thought this was an interesting paper to present is that I still believe that immunotherapy is probably the most important hope we have for treating cancer. And while I think we're still only scratching the surface of it, so collectively the
+
+02:53:14.466 --> 02:53:41.918
+overall survival increase for patients with metastatic solid organ tumors is about 8% better than it was 50 years ago. And virtually all of that has come from some form of immunotherapy, I think is promising. And I think the holy grail is that, meaning the next step, if you go back to where we started the discussion, is coming up with ways to engineer
+
+02:53:42.338 --> 02:54:12.158
+cells to be even better recognizers of antigens. And there's many ways to do that. One is to directly engineer them. Another is to find T cells that have already migrated into tumors. Those are called tumor infiltrating lymphocytes or TIL. And expanding those and engineering them to be better and younger. Is it possible to engineer our own T cells to be more pH variant tolerant? Meaning since
+
+02:54:12.418 --> 02:54:41.118
+you know cloaking of the of a local area by changing the ph can could we you know pull some t cells i'm always saying about the inoculation stuff like pull some t cells as part of our standard exam when we're 30 and um you know and grow some up in an environment that the ph is is slightly more acidic than um than normal and then reintroduce them to the body i mean after all they are our t cells um in other words give them a little
+
+02:54:41.346 --> 02:55:11.198
+to evolve the conditions they can thrive in. Or even just keep them in the freezer in case we need them. Yes. So the interesting thing is I don't know that if you just got them to be comfortable in a lower pH, it would be sufficient because there are still so many other things that the cancer is doing as far as using other secreting factors. It seems that by far the most potent thing comes down to
+
+02:55:11.394 --> 02:55:38.846
+expanding the number of T cells that recognize the antigen and making sure that you can get that number big enough without aging them too much. So in some senses, it has become a longevity problem of T cells. The way to think about it is you want an army of soldiers who are wise enough to recognize the bad guys, which comes with age, but young enough to go and kill.
+
+02:55:39.362 --> 02:56:08.446
+And right now, both extremes seem to be unhelpful, right? When you go and find tumor infiltrating lymphocytes in a tumor, they're very wise. They know which one. They've demonstrated that they can do everything. They can outmaneuver the cancer, but they're too old to do anything about it. And when you take them out to try to expand them by three logs, which is typically what you need to do, expand them by a thousand fold, they can't do anything. Got it. And what about avoiding melanoma altogether? I mean, obviously avoiding sunburn, you know,
+
+02:56:08.610 --> 02:56:29.214
+Somehow I got couched as anti-sunscreen, and that is absolutely not true. I said some sunscreens contain things that are clearly immune disrupt... endocrine, excuse me, disruptors, and we're gonna do a whole episode on sunscreen. Maybe we could do some... It's funny, I think I'm actually planning something on that as well. I want to... Yeah, I mean, and some dermatologists reached out, some very...
+
+02:56:29.346 --> 02:56:56.158
+very skilled dermatologists reached out and said that indeed some sunscreens are downright dangerous, but of course melanoma is super dangerous. Physical barrier, no one disputes physical barriers for sunscreen. Everyone agrees that that is unlikely to have endocrine disruption. So physical barriers are undisputed, but aside from limiting sunlight exposure to the skin, what are some other risks for melanoma?
+
+02:56:56.258 --> 02:57:25.086
+I think that's the biggest one. I do not believe that smoking poses a risk for melanoma, and if it does, it's going to be very small. There are hereditary cases, so one needs to be pretty mindful when taking a family history. And by the way, there are really weird genetic conditions that link melanoma to other cancers, such as pancreatic cancer, by the way. So whenever I'm taking somebody's family history and I hear about somebody that had melanoma and someone that had pancreatic cancer, there's a couple genetics that
+
+02:57:25.218 --> 02:57:49.662
+genetic tests we'll look at to see if that's a person that's particularly sensitive just from a genetic predisposition. But I do think that first and foremost, it's, and by the way, I think with melanoma, although it's not completely agreed upon, I think it's less about sun exposure and more about sunburn, right? So, and again, I'm sure there's somebody listening to this who will
+
+02:57:50.114 --> 02:58:18.462
+in and apply a more nuanced response to that. But I think there's a fundamental difference between I'm out in the sun, getting sun, making some vitamin D versus I'm getting scorched and undergoing significant UV damage. There might also be something to be said for the time in one's life. And I've certainly seen things that suggest that early repeated sunburns would be more of a risk. So look, I think
+
+02:58:19.458 --> 02:58:47.486
+That's not a controversial point in the sense that, like, who wants to be sunburned, right? So it's like whatever one needs to do to be sunburned, whether it's, you know, being mindful of what the UV index is, wearing the appropriate cover, wearing the appropriate sunscreen. I also find the whole kind of anti-sunscreen establishment to be a little bit odd. Well, the anti-sunscreen establishment is odd. You know, I'm trying to open the door for a nuanced discussion about, you know, the fact that some sunscreens really do
+
+02:58:47.650 --> 02:59:17.310
+contain things like oxybenzenes and things that are real. Yeah, but when you're in kids and you're spraying them on kids. Yeah, but when you just look at the straight, you know, the good old-fashioned mineral sunscreens. Yeah, perfectly safe. Yeah, yeah. As far as we know. I mean, I also dare we cross the seed oil debate into this. Some of the folks who are really anti-seed oil also claim that seed oil is an increased risk for sunscreen. Peter and I are smiling because we have teed up a debate
+
+02:59:17.570 --> 02:59:43.070
+soon with some you know anti-seed oil and less anti-seed oil experts so that that's forthcoming that's going to be a fun one we'll be doing all that with our shirts on I really appreciate you um walking us through this paper Peter I have never looked at a paper on cancer um and certainly not one like this um I learned a lot and um it's such an interesting field
+
+02:59:43.362 --> 03:00:12.222
+because of the importance of getting people with cancer to survive longer and lead better lives, but also because of the interaction with the immune system. So we learned some really important immunology. Yeah. And this was great. I feel much more confident now in the belief that the exposure to light early and late in the day can actually have benefits. And as I said, I think there's some causality here and I think it shouldn't be ignored.
+
+03:00:12.866 --> 03:00:41.662
+Well, this was our second journal club. I look forward to our third. Next time you'll go first. We'll just keep alternating. And we've also switched venues, but we both wore the correct shirt. And I hope people are learning and not just learning the information, but learning how to parse and think about papers. And I certainly learned from you, Peter. Thank you so much. Yeah. Thanks, Andrew. This was great. Thank you for joining me for today's journal club discussion with Dr. Peter Atiyah.
+
+03:00:41.826 --> 03:01:11.454
+If you're learning from and or enjoying this podcast, please subscribe to our YouTube channel. That's a terrific zero cost way to support us. In addition, please subscribe to the podcast on both Spotify and Apple. And on both Spotify and Apple, you can leave us up to a five-star review. Please also check out the sponsors mentioned at the beginning and throughout today's episode. That's the best way to support this podcast. If you have questions or comments for me or guests or topics that you'd like me to include on the Huberman Lab podcast, please put those in the comments on YouTube. I do read all the comments.
+
+03:01:11.618 --> 03:01:41.598
+not already following me on social media, I am Huberman Lab on all social media platforms. So that's Instagram, Twitter, now called X, Threads, LinkedIn, and Facebook. And on all of those platforms, I discuss science and science-related tools, some of which overlaps with the content of the Huberman Lab podcast, but much of which is distinct from the content on the Huberman Lab podcast. Again, that's Huberman Lab on all social media platforms. If you haven't already subscribed to our Neural Network newsletter, it is a zero-cost newsletter that includes summaries of podcast episodes, as
+
+03:01:41.602 --> 03:02:10.654
+as well as protocols in the form of brief one to three page PDFs for things like how to improve sleep, how to regulate dopamine, deliberate cold exposure, deliberate heat exposure, exercise protocols, and much more. To sign up, simply go to HubermanLab.com, go to the menu tab, scroll down to newsletter, and provide us with your email. And I want to point out that we do not share your email with anybody. And again, the newsletter is completely zero cost. Thank you once again for joining me for today's Journal Club discussion with Dr. Peter Atiyah.
+
+03:02:11.074 --> 03:02:15.198
+And last, but certainly not least, thank you for your interest in science.

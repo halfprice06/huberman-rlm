@@ -1,0 +1,277 @@
+WEBVTT
+
+00:00.226 --> 00:24.798
+Welcome to Huberman Lab Essentials, where we revisit past episodes for the most potent and actionable science-based tools for mental health, physical health, and performance. I'm Andrew Huberman, and I'm a professor of neurobiology and ophthalmology at Stanford School of Medicine. Today, we're talking all about goals and the science of goal setting and achieving your goals. So when we think about goal-seeking,
+
+00:25.474 --> 00:55.440
+and the pursuit of goals of any kind in the brain. It doesn't matter what the goal is. It involves a common set of neural circuits. One of the brain areas is the so-called amygdala. The amygdala is most often associated with fear. So you might say, wow, how is that involved in goal-directed behavior? Well, a lot of our goal-directed behavior is to avoid punishments, including things like embarrassment or financial ruin or things of that sort. And so the amygdala and some sense of anxiety or fear is actually built in to the circuits
+
+00:55.440 --> 01:19.806
+that generate goal seeking and our motivation to pursue goals. The other areas are the so-called eventual striatum. The striatum is part of what's called the basal ganglia. The basal ganglia is a neural circuit that can very simply be described as a neural circuit that helps us generate go, meaning the initiation of action and no go, the prevention of action type scenarios.
+
+01:20.066 --> 01:36.574
+Let me make that even simpler. The ventral striatum is part of this thing called the basal ganglia. The basal ganglia has sort of two circuits within it. One circuit is involved in getting us to do things like I'm going to get up tomorrow and I'm going to run five miles first thing in the morning. I don't know if I'm actually going to do that, but I'm just using that as an example.
+
+01:36.674 --> 01:59.518
+Another circuit within the basal ganglia is a no-go circuit. It's the one that says, no, I'm not going to go for the second cookie or the third cookie. I'm not going to eat that. And then the go circuit would be the one that's responsible for instead eating something else. Okay, so we have go and no-go circuits within the basal ganglia. So we've got amygdala. So think of as kind of fear and anxiety and avoidance.
+
+01:59.650 --> 02:18.142
+the basal ganglia, which are for initiating action and preventing action. And then there is the so-called cortex. The cortex is the outer shell of the brain and there are two sub-regions of the cortex that are involved in goal-directed behavior. One is the lateral prefrontal cortex. Prefrontal cortex is involved in so-called executive function, things like planning,
+
+02:18.306 --> 02:41.918
+thinking about things under different timescales, so not just what we want in the immediate term, but what we might want tomorrow or the next day and how our actions currently are going to relate to the future. And the so-called orbitofrontal cortex. Orbital frontal cortex has a large number of functions, but one of the key functions of the orbitofrontal cortex, it's involved in meshing some emotionality with our current state of progress
+
+02:42.178 --> 03:11.966
+and comparing that emotionality to where it might be when we are closer to a goal. So there are basically four areas, one involved in anxiety, one involved in emotion, one involved in planning, and another involved in this go, no go action. If we want to make this even simpler, I'll just do this one more time. Think anxiety and fear, it's the amygdala. The second is involved in action and inaction. Remember, go and no go. So that's the basal ganglia.
+
+03:12.066 --> 03:15.710
+The other one is involved in planning and thinking.
+
+03:16.002 --> 03:43.806
+across different timescales, so that's lateral prefrontal cortex. And then the fourth one is involved in emotionality, where we sit emotionally at present compared to where we think we will be emotionally when we reach some particular goal, and that's the orbitofrontal cortex. What is going on in these circuits can basically be boiled down to two particular things. The first is value information, trying to understand whether or not something is really worth pursuing or not.
+
+03:44.290 --> 04:12.286
+The other component of this neural circuit is associated with action, which actions to take and which actions not to take given the value of a particular goal in a given moment's time. You're going to hear me say over and over again in this episode, the value information about a goal is so key. Here's why. There is basically one neurotransmitter or rather neuromodulator system that governs our goal setting
+
+04:12.450 --> 04:37.406
+goal assessment and goal pursuit. And that is the neuromodulator dopamine. Dopamine is the common currency by which we assess our progress toward particular things of particular value. In fact, dopamine is the way that we assess value of our pursuits. There are basically only three or four elements to goal setting and goal pursuit. Basically an individual or set of individuals has to identify a specific
+
+04:37.506 --> 05:07.166
+thing that they're going to attain. Assessment of whether or not one is making progress towards those goals is a second but necessary step. And then there's the business of goal execution. And that brings us back to the neural circuit components. Remember, this neural circuit involving those four things earlier, the amygdala striatum over frontal cortex and the prefrontal cortex, they work together to divide the whole process, as I mentioned before, into two general categories. The first is assessing value, knowing whether or not where one is at one given moment
+
+05:07.362 --> 05:16.126
+relates to some external thing. Are things going well or are things going poorly? And knowing how to gauge that accurately.
+
+05:16.322 --> 05:46.288
+action steps, goes and no-goes. Do more of this, do less of that. Do this, don't do that, et cetera. So now we are going to shift back to the neuroscience. And as we do this, I'd like you to keep in mind, what are some things that you've either accomplished or that you'd like to accomplish going forward? Because as we do this, we can build toward a set of protocols that at the end, you'll be able to very quickly plug in your particular goals and a route to those particular goals that's grounded in the science that I think are going to be very effective in allowing you to reach those goals more
+
+05:46.288 --> 06:09.342
+quickly and with indeed less effort. I'd like to take a quick break and acknowledge one of our sponsors, David. David makes a protein bar unlike any other. It has 28 grams of protein, only 150 calories and zero grams of sugar. That's right, 28 grams of protein and 75% of its calories come from protein. That's 50% higher than the next closest protein bar.
+
+06:09.474 --> 06:25.470
+These bars from David also taste amazing. Right now, my favorite flavor is the new cinnamon roll flavor, but I also like the chocolate chip cookie dough flavor, and I also like the salted peanut butter flavor. Basically, I like all the flavors. They're all delicious. Also, big news, David bars are now back in stock.
+
+06:25.570 --> 06:55.536
+They were sold out for several months because they are that popular, but they are now back in stock. By eating a David Bar, I'm able to get 28 grams of protein in the calories of a snack, which makes it very easy for me to meet my protein goals of one gram of protein per pound of body weight per day, and to do so without eating excess calories. I generally eat a David Bar most afternoons, and I always keep them with me when I'm away from home or traveling because they're incredibly convenient to get enough protein. As I mentioned, they're incredibly delicious, and given that 28 grams of protein, they're pretty filling
+
+06:55.536 --> 07:16.510
+for just 150 calories. So they're great between meals as well. If you'd like to try David, you can go to davidprotein.com slash Huberman. Again, that's davidprotein.com slash Huberman. Let's start with a tool now. The first thing to do is to understand the difference between peripersonal space and extra personal space. Peripersonal space
+
+07:16.642 --> 07:43.134
+is a key concept in neuroscience because you have particular neural circuits and particular chemicals that are geared toward what are called consumatory behaviors, meaning using things and consuming things and enjoying things that are in your immediate peripersonal space. Within my current peripersonal space is my interoception, my understanding or perception of my internal body, so how quickly I'm breathing, my heart rate,
+
+07:43.234 --> 08:01.150
+the feelings on the surface of my skin, et cetera, but also within the confines of my personal space is this coffee mug that if you're listening to this, you can't see this, but I'm lifting up a coffee mug, I'm gonna take a sip of coffee. That's a consumatory behavior. I have the coffee. I don't have to do much or motivate much to get it.
+
+08:01.346 --> 08:30.078
+Contrast that with the so-called extra personal space. Extra personal space is everything beyond the confines of my reach. How we feel about a particular goal is truly a feeling that we experience in the here and now, even though the goal is in the future, okay? If we are going to evaluate whether or not we made progress today or yesterday or not, that's an evaluation of how we feel in the immediate peripersonal space. However, moving toward any goal involves
+
+08:30.242 --> 08:39.838
+orienting our thinking towards the extra personal space. I'm just going to seed a little bit of the later conversation by saying that when we focus on an external point,
+
+08:40.226 --> 09:00.958
+We are in a process of exteroception. It's the focus on the extra personal space, not the peripersonal space. Work at NYU, in particular in the laboratory of a phenomenal researcher in their psychology department by the name of Emily Balsetis, B-A-L-C-E-T-I-S, Emily Balsetis, has done really nice work on this.
+
+09:01.538 --> 09:29.822
+They've done is they've had people focus their visual attention on a goal line of some sort, and then to engage in some sort of behavior that requires a lot of effort. The long and short of these studies is that when people have to focus their attention on one location, like a goal line, they are much more effective in reaching those goals and they achieve them with the perception that they expended less effort. And what they did is they had a group of people exercise wearing
+
+09:30.274 --> 09:58.558
+15 pound ankle weights, and they had to basically move a certain distance or run a certain distance to reach a goal line. One group was focused on the goal line, visually focused on the goal line. The other group was not told to visually focus on the goal line. And what they found was that the group that focused on the goal line was able to achieve reaching that goal with 17% less effort, and it got there 23% quicker.
+
+09:58.658 --> 10:23.710
+simply by looking at the goal line does something to the psychology and physiology of these people that allows them to move forward with less perceived effort and to do it more quickly. So what is special about focusing one's visual attention at a given location? Well, it turns out that we have two branches of our visual system. So visual information all comes in through our eyes, but then it can head down two different pathways.
+
+10:23.874 --> 10:45.214
+One pathway is engaged when our vision is brought to a common point, what we call a vergence eye movement. So if we're focusing very intensely on a given point, regardless of how far away from us that point is, our visual system engages a certain set of neurons, neural circuits that are involved in resolving fine detail and that can evaluate small changes over small periods of time
+
+10:45.314 --> 11:12.318
+The other pathway through the visual system is a so-called magnocellular pathway. And this is a pathway that's involved in taking in global information about lots of things that are happening around us, movement of things to our right, movement of things to our left, things are happening down on the ground and all around us. And that pathway involves a sort of relaxation, if you will, of the neural circuits that are associated with alertness and attention. When you focus your eyes on a particular location, blood pressure goes up.
+
+11:12.418 --> 11:31.966
+And there are some other systems that are coordinated with it in your brain and body that start releasing adrenaline, low amounts of adrenaline in most cases, and that adrenaline further readies your body for action. Conversely, when our visual system is in a mode of looking at everything, when the aperture of our visual system is very broad,
+
+11:32.482 --> 11:56.606
+We know that there's also a reduction in our goal-directed behavior and a reduction in blood pressure. What many of you are probably thinking is, okay, well, that's some physiology, there's some psychology, but how do you actually apply this towards setting and achieving goals? Well, you do that by understanding that your mental frame and your attention are always either positioned to your peripersonal space, focused on your immediate
+
+11:57.314 --> 12:14.174
+possessions and state or towards things outside you, but that you also have the ability to dynamically travel back and forth between those. If you already know what goal you want to pursue, maybe it's a workout, maybe it's a cognitive work of some particular sort. Again, the process is very simple. You're going to focus your visual attention on one point
+
+12:14.338 --> 12:35.390
+beyond your peripersonal space. So it could be on your computer, it could be on the wall, it could be a horizon, it could be at a distance, and you're going to focus your visual attention there. And with some effort, you're going to hold your visual attention for 30 to 60 seconds. You might blink, that's okay, but you're going to try and hold your visual attention there. So no moving your head around, no diverting your attention to other locations.
+
+12:35.586 --> 12:52.862
+places your brain and body into a state of readiness. And then the idea is to move into the particular actions that bring you closer to your goal. Okay, we haven't yet talked about how to set goals and how to assess progress. This is simply how to pursue goals. Okay, but the visual component is important. In fact, I would argue that
+
+12:53.122 --> 13:21.566
+the visual system and harnessing your visual attention to a narrow point is going to be the most effective way to get your brain and body into a mode of action to pursue whatever goal it is you're trying to pursue. So does visualization work? Well, turns out that visualization of the big win, the end goal, so the Super Bowl win or eight gold medals in the Olympics or graduation from the university of your choice or making a certain amount of money or finding the,
+
+13:21.762 --> 13:50.878
+partner of your choice, et cetera. That visualization is effective in getting the goal pursuit process started, but it actually is a pretty lousy and maybe even counterproductive way of maintaining pursuit of that goal. In fact, there's a much better way to maintain ongoing action toward a goal that also involves visualization, but it turns out it's not about visualizing success, it's about visualizing failure.
+
+13:51.010 --> 14:19.166
+If you look at the literature, the scientific literature, there's a near doubling, near doubling in the probability of reaching one's goal if you focus routinely on foreshadowing failure. You think about the ways in which things could fail if you take action A or you take action B, and instead, therefore, you take action C. If we think back to the neural circuit associated with assessing value,
+
+14:19.266 --> 14:48.990
+in our goal pursuits, this makes perfect sense. The amygdala, that center of the brain that's involved in anxiety and fear and worry, well, the amygdala is one of the four core components of our goal setting and goal pursuit circuitry. And so while I'd love to be able to tell you that all you should think about is rainbows and puppies and all the wonderful rewarding things that are going to happen when you achieve your goals, the truth is you should be thinking mainly about how bad it's really going to get if you don't do it, how disappointing yourself you're going to feel,
+
+14:49.474 --> 15:06.846
+it will negatively impact you, if not in the immediate term, in the long term, if indeed your goal is to reach your goal. And the more specific you can get by writing down or thinking about or talking about how bad it will be if you don't achieve your goals, the more likely you are to achieve those goals. If you're going to visualize
+
+15:07.010 --> 15:25.118
+in a positive way, do that at the very beginning of some goal pursuit, maybe intermittently every once in a while, you imagine the big win of scoring perfect on an exam or winning the championship or the great relationship. But most of the time, if you want to be effective, you should be focusing on avoiding failure and you should be really clear about what those failures would look like and feel like.
+
+15:25.570 --> 15:45.150
+By now, I'm sure that many of you have heard me say that I've been taking AG1 for more than a decade. And indeed, that's true. The reason I started taking AG1 way back in 2012, and the reason why I still continue to take it every single day, is because AG1 is, to my knowledge, the highest quality and most comprehensive of the foundational nutritional supplements on the market.
+
+15:45.314 --> 16:12.446
+What that means is that it contains not just vitamins and minerals, but also probiotics, prebiotics, and adaptogens to cover any gaps that you might have in your diet, while also providing support for a demanding life. Given the probiotics and prebiotics in AG1, it also helps support a healthy gut microbiome. The gut microbiome consists of trillions of little microorganisms that line your digestive tract and impact things such as your immune status, your metabolic health, your hormone health, and much more.
+
+16:12.610 --> 16:42.576
+Taking AG1 consistently helps my digestion, keeps my immune system strong, and it ensures that my mood and mental focus are always at their best. AG1 is now available in three new flavors, berry, citrus, and tropical. And while I've always loved the AG1 original flavor, especially with a bit of lemon juice added, I'm really enjoying the new berry flavor in particular. It tastes great, but then again, I do love all the flavors. If you'd like to try AG1 and try these new flavors, you can go to drinkag1.com slash Huberman to claim
+
+16:42.576 --> 17:07.391
+a special offer. Just go to drinkag1.com slash Huberman to get started. Now let's talk about goal setting. The goal should be significant, we are told. It should be inspirational. It should be aggressive yet realistic. But what does that really look like? And what does that correspond to? And how do we actually make that happen? Turns out that the probability of achieving a goal
+
+17:08.002 --> 17:33.822
+goes up or down depending on whether or not one visualizes or sets a goal that is easy, moderate, or impossible. Turns out that if the goal is too easy, it's too within reach, it doesn't recruit enough of the autonomic nervous system to make pursuit of that goal likely. Also, if a goal was too lofty, if it was too far from their current abilities,
+
+17:35.010 --> 18:01.790
+it didn't recruit enough systolic blood pressure. Even if people could get very excited about something mentally, it simply didn't place their body into a state of readiness because it wasn't tangible that they could actually perhaps really achieve it. So it turns out that when goals were moderate, when they were just outside of one's immediate abilities, or that one felt that, yeah, that would take a lot of effort, but it's within range or maybe in range,
+
+18:01.986 --> 18:29.982
+like maybe I can do it, maybe I can't, then there was a near doubling of the likelihood that they would engage in the ongoing pursuit of that particular goal. The goals need to be realistic and truly challenging. Don't set goals that are so challenging and so lofty that they crash that blood pressure system in the other direction and make you or anyone feel unmotivated. Now I'd like to talk about three particular areas of scientific study
+
+18:30.146 --> 18:58.782
+that point to goal pursuit, goal assessment, and goal achievement. Any discussion about goals and goal pursuit would be incomplete without a discussion about the molecule dopamine. Dopamine is often thought of as the molecule of pleasure and reward, but actually it is the molecule of motivation. This is best illustrated by a classic set of studies that have been carried out in both animals and in humans. The animal study can be described the following way.
+
+18:59.234 --> 19:28.894
+two rats each in a separate cage. You can provide those rats with the opportunity to indulge in something that they like, like food or mating or heat if it's cold in the environment or a cool spot in the cage if it's warm in the environment and so forth. And what you find is that rats will very readily approach the rewarding thing. They will mate, they will eat, they will pursue something that is of pleasure.
+
+19:29.026 --> 19:56.542
+Now, if you are to take one of those rats and deplete its dopamine neurons, you can eliminate its dopamine neurons or block dopamine in the brain. What you find is that those animals will still enjoy pleasure. However, their motivation to achieve pleasure is vastly reduced. In fact, if you place the item of pleasure, the mate, the food, et cetera, even just one rat's length away from that rat,
+
+19:56.706 --> 20:25.566
+the rat without dopamine will not even move one length of its own body in order to achieve that pleasure. And there are naturally occurring experiments in humans that mimic that result very accurately. There are certain conditions in humans where there's a depletion of dopamine. And what you find is that the depletion of dopamine does not inhibit an ability to experience pleasure necessarily. It inhibits an ability to pursue or go through the series of action steps in order to achieve pleasure.
+
+20:25.698 --> 20:54.078
+So dopamine really sits at the heart of our motivational state to seek out goals and to seek pleasure. And this is true for immediate goals that take place within a timeframe of minutes or a timeframe of a day or the timeframe of a week or the timeframe of a lifetime. Dopamine is the common currency by which we pursue goals. Now, dopamine does a number of things that are very interesting. I'm going to describe a few of them as they relate to goal-seeking behavior.
+
+20:54.882 --> 21:24.318
+First of all, there's a fundamental feature of how our brain releases and uses dopamine that's called reward prediction error. And the simplest way to think about dopamine reward prediction error is that dopamine is released in the greatest amount and places us into a greater state of motivation when something happens that's positive and novel. If you don't expect something positive to happen, you're just going about your day and something positive happens,
+
+21:24.418 --> 21:51.774
+Dopamine and a lot of dopamine is released. However, if we anticipate something positive is going to happen and then that thing happens, we experience dopamine as part of the anticipation. So even before we get the reward, there's an increase in dopamine. It's not as high as it would be if something really novel and unexpected and positive happened, but we do get an increase in dopamine. And then when we actually
+
+21:52.066 --> 22:08.990
+experience the reward, we experience the positive thing, there's a smaller increase in dopamine. Okay, so again, the biggest increases in dopamine are response to things that are positive and unexpected. Lesser dopamine is released when we anticipate something good will happen.
+
+22:09.090 --> 22:34.206
+And when that happens, yes, we get some dopamine and we also get some dopamine when the positive thing happens. There's also the case in which we predict that something good will happen. When that happens, there's an increase in dopamine just as there was before. But then if that thing doesn't happen, for instance, our friends don't show up for dinner, then there's a drop in dopamine below our initial baseline. That drop in dopamine is the chemical essence of what we call disappointment.
+
+22:34.370 --> 23:01.470
+this dopamine reward prediction error, as it's called, can be leveraged toward trying to reach our goals because it tells us where we should set our milestones. We can't be in a mode of simply being focused on the finish line. So understanding what we know about reward prediction error, we can make better choices about where to place the milestones, how far out in the future to place milestones.
+
+23:01.730 --> 23:24.766
+So then the question becomes how often or at what intervals should one assess progress? I think that checking in at the end of a week, looking back on the previous week and assessing how well you performed in pursuit of a given goal or how many times you did something that you wanted to do or avoided something that you didn't want to do. I think that's a reasonable and tractable schedule to assess once a week.
+
+23:24.898 --> 23:52.030
+This dopamine system is critical to re-up, to remind ourselves that we are on track if indeed we are on track, because dopamine itself provides a state of motivation and readiness to continue in the regular pursuit of our goals. Another very interesting aspect of dopamine is actually how the dopamine system interacts with the visual system. When we are focused on a particular point in visual space or its particular goal or horizon,
+
+23:52.514 --> 24:16.670
+All those systems, our blood pressure, epinephrine, and indeed dopamine get recruited to put us into a state of readiness and willingness to go pursue things in that extra personal space. When our visual attention is very diffuse, all of that relaxes and we tend to be more comfortable staying in the place that we are in our peripersonal space. And the effect works in the other direction too.
+
+24:16.866 --> 24:45.054
+dopamine is increased, our visual attention for particular things out in space increase. So the way it works is reciprocal. When we use our visual system in a particular way, bring it to a point of focus, it recruits chemical and neural systems in our brain and body that put us into a state of readiness and pursuit. And when we increase certain chemicals in our brain and body, like epinephrine, like dopamine, then we also allow our visual system to be in a state of
+
+24:45.602 --> 25:12.638
+looking out at particular locations in our visual world. So the system works in both directions. And some people leverage this by using things like caffeine or taking things like L-tyrosine to increase dopamine. And again, it works both ways. There's no right or wrong way to do it. I'm a particular fan of using behavioral tools always prior to using supplementation or any kinds of other tools, because behavioral tools have a very unique feature that supplementation and other chemical tools
+
+25:12.770 --> 25:41.182
+which is that behavioral tools used over time engage neuroplasticity. As we start to practice using our visual system to harness our attention to particular locations, and in that way move toward particular goals, we get better and better at using those systems. In fact, the systems for focus and motivation themselves have plasticity, so we get better at being motivated and focused when we place our visual attention at a given location. I'd like to just briefly recap what I've covered up until now. First of all,
+
+25:41.314 --> 26:01.470
+Set goals that are challenging but possible. Those moderate goals, not super easy, not super difficult, but moderately challenging goals seem to be the most effective in moving people towards their goals over the short and long term. Second, plan concretely. You need a concrete set of actions that you're going to follow in order to reach your goals. Third,
+
+26:01.826 --> 26:26.846
+foreshadow failure. It turns out that imagining success and visualizing success can be useful at the outset of a goal and maybe every once in a while in pursuit of that goal, but that it's not terrific for putting you in constant pursuit of that goal. Rather, foreshadowing failure, visualizing failure and all the terrible things that it's going to bring seems to be more effective. And that maps very well to what's known about the neural circuitry and the involvement of the amygdala.
+
+26:28.130 --> 26:52.318
+Focus on particular visual points as a way to harness your attention and to remove distractors. Removing distractors and getting your body and brain into a mode of activation, getting that healthy increase in systolic blood pressure that puts you into forward motion towards your goals is absolutely key. So that's a brief summary of what I've covered up until now. I'd like to take a quick break and acknowledge one of our sponsors, Element.
+
+26:52.482 --> 27:01.150
+Element is an electrolyte drink that has everything you need and nothing you don't. That means the electrolytes, sodium, magnesium, and potassium in the correct amounts, but no sugar.
+
+27:01.314 --> 27:31.280
+Proper hydration is critical for optimal brain and body function. Even a slight degree of dehydration can diminish cognitive and physical performance. It's also important that you get adequate electrolytes. The electrolytes, sodium, magnesium, and potassium are vital for functioning of all the cells in your body, especially your neurons or your nerve cells. Drinking element dissolved in water makes it very easy to ensure that you're getting adequate hydration and adequate electrolytes. To make sure that I'm getting proper amounts of hydration and electrolytes, I dissolve one packet of element in about 60 minutes
+
+27:31.280 --> 28:01.232
+I drink 15 to 32 ounces of water when I first wake up in the morning, and I drink that basically first thing in the morning. I'll also drink Element dissolved in water during any kind of physical exercise that I'm doing, especially on hot days when I'm sweating a lot and losing water and electrolytes. Element has a bunch of great tasting flavors. I love the raspberry, I love the citrus flavor. Right now, Element has a limited edition lemonade flavor that is absolutely delicious. I hate to say that I love one more than all the others, but this lemonade flavor is right up there with my favorite other one, which is raspberry or watermelon.
+
+28:01.232 --> 28:28.574
+Again, I can't pick just one flavor. I love them all. If you'd like to try Element, you can go to drinkelement.com slash Huberman, spelled drinkelement.com slash Huberman to claim a free Element sample pack with a purchase of any Element drink mix. Again, that's drinkelement.com slash Huberman to claim a free sample pack. I want to be sure to include a tool that's been especially powerful for me that's grounded in the neuroscience research and in the psychology research.
+
+28:28.738 --> 28:51.902
+And as I describe this tool next, I think you'll see the ways in which it meshes nicely with the work that Emily Balsetis and colleagues have done. This is something that I've personally been doing for many years based on my understanding of the visual system and the understanding that indeed we can move our cognition and our perception from a place of interoception
+
+28:52.002 --> 29:21.968
+and focusing on our peripersonal space, that space within us and immediately around us, and on the things that are immediately accessible to us, that we can shift from that mode to this mode of exteroception, of focusing on things outside the confines of our skin and that are beyond our reach, that are literally goal-directed behaviors and goal-directed thoughts. And this is something that in the past I've talked about a little bit, and I've talked about something called space-time bridging. And we haven't talked too much about the time domain of the visual system
+
+29:21.968 --> 29:44.734
+but space-time bridging is simply a way of using one's visual system to focus on the peripersonal space and interoception, and then gradually in a deliberate way, stepping one's focus into the extra personal space, and then back to the peripersonal space in a way that gives you a lot of flexibility and control over that ability
+
+29:44.930 --> 30:13.502
+in your daily life. So I'm going to first describe the tool and then I will explain more about the underlying science and the underlying mechanism. Here's how you would do this. What you first do is you would close your eyes and you would focus as much of your attention, including your visual attention, on your inner landscape, on your interoception. So that would be your breathing, your heart rate, maybe even the surface of your skin, but really focusing internally. And you would do that for a,
+
+30:13.666 --> 30:37.278
+duration of approximately three slow breaths. Then you would open your eyes and you would focus your visual attention on some area on the surface of your body. So for me, the way that I typically do this will be to focus on say the palm of my hand. So I'll focus my visual attention on the palm of my hand. And I then do three breaths again, focusing on my internal state, but now I'm splitting out a little bit
+
+30:37.442 --> 30:51.998
+of my attention from interoception to exteroception. I'm focusing on something outside me. The ratio or the split of attention is about 90-10. About 90% of my attention is focused internally, but I'm also focusing some of my attention externally.
+
+30:52.770 --> 31:21.438
+Most people can do this pretty easily. Then there's a third, what I call station. I now move my visual attention to outside my body, to some location in the room, or if I'm outside in the external environment, something in the range of five to 15 feet away. And I'm trying to move 90% of my attention to that external object. As I breathe, I'm paying attention to those three breaths. So that's why there's still 10% that's focused on my internal landscape, because I want to pay attention to those three breaths, but I'm focusing as much of my attention
+
+31:21.826 --> 31:50.782
+outside of myself, maintaining just a little bit on my internal state so I can measure the cadence of those three breaths. Then I move my visual attention to yet another station, which is further away, typically a horizon or something as far off in the distance as I can possibly see, again, for the duration of three breaths. And at that point, I'm trying my very best to move 99, if not 100% of my attention to that external location, okay? And then,
+
+31:51.298 --> 32:21.054
+What I typically will do is I will try and expand both my vision and my cognition to a much broader sphere. This is that magnocellular vision that we talked about before, where I'm not focusing on a particular location on the horizon, I'm trying to dilate the aperture of my field of view so I can see as much of the visual landscape as I'm in as possible. Again, for the duration of three breaths. Then I would return immediately to my internal landscape. I would close my eyes and I would do three more breaths focusing entirely
+
+32:21.218 --> 32:41.470
+on my interoception, on my internal landscape, or what we called before my peripersonal space. And I would work through each of those stations maybe two or three times. The entire thing takes about 90 seconds to three minutes, depending on how many breaths you do, what is all of this doing? Why do I call this space-time bridging? And why is this useful for goal setting?
+
+32:41.570 --> 33:11.536
+The reason I call it space-time bridging is that the visual system is not just about analyzing space, it's actually how we batch time, it's how we carve up time. And the simple way to state this is that when we focus our visual attention on a very narrow point that's close to our body and our immediate experience, we tend to slice up time very finely. We're focused on our breathing, we're focused on our heartbeats. In fact, our breathing and our internal landscape and our heartbeats become the sort of second
+
+33:11.536 --> 33:41.488
+if you will, on our experience. We are carving up time according to our immediate physiological experience. Whereas when we focus our visual attention outside our body, not only do we engage that exteroceptive extra personal space system and we start to engage the dopamine system, the goal-directed system, but we also start batching time differently. When we focus our visual system into a broader sphere of space or into a space beyond the confines of our skin, we start carving up time
+
+33:41.488 --> 34:09.342
+our frame rate changes. Now, this is useful in the context of goal setting, goal assessment and goal pursuit, because with the exception of a very few isolated examples, almost all goals involve setting some goal that's off in the future, and then carving up the time between now and the achievement of that goal into milestones that range in duration. And the rewards,
+
+34:09.601 --> 34:23.230
+even if we try and just make them every week are going to come at some unexpected intervals. And that's actually can be helpful for reinforcing behavior. Intermittent reward that's intermittent and random is the most effective reward schedule we know.
+
+34:24.386 --> 34:52.158
+But the problem is always how do we keep our cognition in line with the long-term goal while also being focused on these more immediate goals? This behavior or this practice rather is teaching us to use our visual system and thereby our cognitive system and thereby our reward systems to orient to different locations in space and therefore at different locations in time. And that is the essence of goal-directed behavior. That is the essence of setting a goal.
+
+34:52.322 --> 34:57.598
+It's about thinking about what you want. Then it's about setting milestones that are,
+
+34:57.794 --> 35:26.174
+intermediate to that goal. Then it's about assessing whether or not you're reaching those milestones. And then it's of course about updating your goals if you need to update your goals. All of that is an enormously confusing batch of challenges if you think about it all at once. But if you break it down into these elements that the visual system can help you find and move towards those milestones, I think there's ample evidence to support that. What's very clear is that an ability to move from different visual stations and to do that in an
+
+35:26.434 --> 35:48.414
+deliberate way, in a focused and conscious way, clearly maps to an ability to conceive of different goals over different periods of time. And I do believe can be greatly beneficial in allowing one to set particular goals and then move through the milestones to those goals and to constantly update one's pursuit and reward in reaching those milestones and eventually the overall goal.
+
+35:48.674 --> 36:09.502
+Per usual, I covered a lot of material today. We talked about some of the neuroscience and psychology and popular understanding of goal-seeking behavior, how to assess goals, et cetera. Talked about the use of the visual system to better achieve goals. And indeed, things like visualization and why forecasting failure can be more effective than forecasting success.
+
+36:09.634 --> 36:36.094
+And in addition, I described this practice that one can incorporate as a daily or semi-daily practice of so-called space-time bridging, of using the visual system and your ability to deliberately step your visual system from stations that are within your body, so-called peripersonal or interoceptive space, out into the world further and further, and then back again in sequence as a way to harness and cultivate and build up these systems that link vision,
+
+36:36.482 --> 37:05.598
+space, time, reward systems, and so forth. Ultimately, as you set out to accomplish your goals, there are going to be a number of basic steps that everyone will have to follow. You'll have to clearly identify what the long arching ultimate goal is. You have to identify what the milestones will be. You might not know all of them at the outset, but you ought to have some idea about the intervals at which you are going to set those milestones and set your reward schedule for assessing progress in route.
+
+37:05.794 --> 37:23.902
+to those milestones and your ultimate goal. My hope is that you'll be able to incorporate these tools, if not all of them, perhaps just one of them or two of them in pursuit of whatever particular goals you happen to be focused on at this point and in the future. And last, but certainly not least, thank you for your interest in science.

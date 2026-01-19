@@ -1,0 +1,361 @@
+WEBVTT
+
+00:00.386 --> 00:27.134
+Welcome to the Huberman Lab Podcast, where we discuss science and science-based tools for everyday life. I'm Andrew Huberman, and I'm a professor of neurobiology and ophthalmology at Stanford School of Medicine. Recently, the Huberman Lab Podcast hosted a live event at the ICC Theater in Sydney, Australia. The event was called The Brain-Body Contract and featured a lecture followed by a question and answer session with the audience.
+
+00:27.362 --> 00:47.294
+We wanted to make the question and answer session available to everyone, regardless if you could attend. I also would like to thank the sponsors for the event. They are Eight Sleep and AG1. Eight Sleep makes smart mattress covers with cooling, heating, and sleep tracking capacity. I've spoken many times before on this podcast about the fact that sleep is the critical foundation for mental health, physical health,
+
+00:47.394 --> 01:17.360
+and performance. Now, one of the key things to getting the best possible night's sleep is to control the temperature of your sleeping environment. And that's because in order to fall and stay deeply asleep, your body temperature actually needs to drop by about one to three degrees. And in order to wake up feeling refreshed and alert, your body temperature actually has to increase by about one to three degrees. Eight sleep mattress covers make it extremely easy to control the temperature of your sleeping environment and thereby to control your core body temperature so that you fall and stay deeply asleep and wake up feeling your absolute best. I've been sleeping on
+
+01:17.360 --> 01:47.312
+an Eight Sleep mattress cover for about three years now, and it has completely transformed the quality of my sleep for the better. Eight Sleep recently launched their newest generation of pod cover, the Pod4 Ultra. The Pod4 cover has improved cooling and heating capacity, higher fidelity sleep tracking technology, and the Pod4 cover has snoring detection that will automatically lift your head a few degrees to improve airflow and stop your snoring. If you'd like to try an Eight Sleep mattress cover, you can go to eightsleep.com slash Huberman to save $350 off their Pod4 Ultra.
+
+01:47.312 --> 01:56.350
+Eight Sleep currently ships to the USA, Canada, UK, select countries in the EU and Australia. Again, that's eightsleep.com slash Huberman.
+
+01:56.546 --> 02:26.512
+The other live event sponsor, AG1, is a vitamin mineral probiotic drink that also contains adaptogens and other critical micronutrients. I've been taking AG1 daily since 2012, so I'm delighted that they decided to sponsor the live event. I started taking AG1 and I still take AG1 once or twice a day because it gives me vitamins and minerals that I might not be getting enough of from whole foods that I eat, as well as adaptogens and micronutrients. And those adaptogens and micronutrients are really critical because even though I strive to eat most of my
+
+02:26.512 --> 02:43.902
+foods from unprocessed or minimally processed whole foods, it's often hard to do so, especially when I'm traveling and especially when I'm busy. So by drinking a packet of AG1 in the morning, and oftentimes also again in the afternoon or evening, I'm ensuring that I'm getting everything I need. I'm covering all of my foundational nutritional needs.
+
+02:44.034 --> 03:14.000
+And I, like so many other people that take AG1 regularly, just report feeling better. And that shouldn't be surprising because it supports gut health. And of course, gut health supports immune system health and brain health. And it's supporting a ton of different cellular and organ processes that all interact with one another. So while certain supplements are really directed towards one specific outcome, like sleeping better or being more alert, AG1 really is foundational nutritional support. It's really designed to support all of the systems of your brain and body that relate to mental health and physical health.
+
+03:14.000 --> 03:35.102
+If you'd like to try AG1, you can go to drinkag1.com slash Huberman to claim a special offer. They'll give you five free travel packs with your order, plus a year's supply of vitamin D3K2. Again, that's drinkag1.com slash Huberman. And now for the live event at the ICC Theater in Sydney, Australia.
+
+03:50.722 --> 04:14.142
+Does having an afternoon sleep affect your quality of sleep at night? Great question. I can keep this one pretty brief. We just recorded a six-episode series that will be aired later this year with the one and only mighty Matt Walker, who wrote the marvelous book, Why We Sleep. And we went into this topic in depth. The business of...
+
+04:14.338 --> 04:39.198
+Naps is the following. Keep them shorter than 90 minutes so you don't disrupt your nighttime sleep. Don't do them at all if it disrupts your nighttime sleep. So if you're somebody for whom even 10 minutes of napping disrupts your nighttime sleep, don't do that. If you're somebody who wakes up from naps feeling groggy, that's what's called sleep inertia. This is what gave rise to the ever-famous Nappuccino.
+
+04:39.490 --> 05:07.710
+of having some coffee and then taking a nap or an espresso and then taking a nap. Again, I get obsessed with nomenclature. Why didn't they call it an espresso nap? I don't know. Naps are wonderful. If they're shorter than 90 minutes, don't interfere with nighttime sleep. But I, in particular, am a big fan of, as many of you know, this business of non-sleep deep rest, of putting the body into what? Body still, mind awake.
+
+05:08.386 --> 05:32.926
+And we know, based on several studies from the University of Copenhagen, that that actually replenishes levels of dopamine in certain key areas of the brain that restore mental and physical vigor and do not disrupt nighttime sleep, but rather enhance one's ability to fall and stay asleep or to fall back asleep. So not only are these states of body-still, mind-awake-dose,
+
+05:33.922 --> 05:59.870
+very beneficial it seems, or I should say perhaps for creativity, because that was all anic data. But we know from real data, from laboratory data on many subjects, peer reviewed, et cetera, that body still, mind alert is actually an effective means to improve one's sleep and perhaps even make up for sleep that one has lost. So I encourage you, if you're a napper, great. And if you have challenges with sleep,
+
+06:00.066 --> 06:10.494
+in any way that you think might be related to your napping activity that you consider short 10 minute or maybe 20 minute non-sleep deep rest protocols. By the way, they're completely zero cost and very soon
+
+06:11.042 --> 06:37.022
+we will be releasing to our YouTube clips channel a 10-minute, 20-minute, and 30-minute non-sleep deep rest protocol that I've narrated. If you don't like my voice, there are many out there of more pleasant voices. But what might be of particular interest to you is that the visual is of the beautiful sunrise over Sydney. So, you know, it'll bring you home as well. Sunrises here are absolutely spectacular. Do you believe in the placebo effect? Absolutely.
+
+06:37.122 --> 06:56.190
+And there's probably a joke there, but I can't come up with it on the fly. How would I know if it's real? Something like that. So the placebo effect is real. Our belief about what we've taken or what is happening to us has a powerful effect.
+
+06:56.386 --> 07:24.702
+on our physiology. It's not purely psychological. The whole business of psychosomatic, even that word, is starting to fall away as we start to understand that our beliefs have a powerful effect on what happens to us physiologically. So much so that, for instance, my colleague Ali Krum, a tenured professor at Stanford's Department of Psychology who's been a guest on the podcast who studies mindsets, has done beautiful experiments on stress, showing that if you watch a short video about stress,
+
+07:25.218 --> 07:54.270
+and you learn all the terrible things that stress can do to your cognition, your sleep, and your well-being, well, indeed, that happens. And that if you watch a short video about how stress can be performance-enhancing by sharpening your mental acuity, your access to particular memory stores, et cetera, that indeed that happens. So-called belief effects. Why belief effects, not placebo effects? Well, placebo effects tend to be more general. Belief effects tend to be around specific types of information.
+
+07:54.402 --> 08:19.806
+But the placebo effect has recently been shown to extend to a dose-dependent placebo effect. One of the more remarkable papers I think published in the last few years, most people are unaware of. I talked about this in a Journal Club episode of the Huberman Lab podcast with the one and only Peter Atiyah. Described a paper where people took either zero, I believe it was 0.25,
+
+08:20.418 --> 08:49.406
+milligrams, half a milligram or a gram of nicotine, which is known to be a cognitive enhancer. Please don't smoke, dip, huff or snuff nicotine. It's cancerous in those forms, and taking nicotine can increase blood pressure, vasoconstriction, et cetera, but nicotine is a cognitive enhancer. It is a cognitive enhancer. And I can't help but tell you one story about this before I get back to placebo effect. Don't worry, I always make my way back. Now you can see why living with me as a child
+
+08:49.506 --> 09:12.702
+was so challenging. Nicotine, I was told by a very, very famous Nobel laureate member of the neuroscience community, because I visited his office, I won't tell you who it is, at Columbia University. I met with him, and he was telling me about what he studies, but I noticed he
+
+09:12.994 --> 09:38.398
+chewed no fewer than six pieces of Nicorette during the course of that conversation. And I had to just stop him at one point and say, why are you consuming all this nicotine? And he said, well, it's what's going to allow me to stave off Parkinson's and Alzheimer's, of course, and I don't want to smoke. And I said, really? And he said, yeah, there's some evidence that keeping levels of neuromodulators like dopamine, acetylcholine elevated despite the increases in blood pressure,
+
+09:38.978 --> 10:07.934
+that are caused by consuming nicotine may indeed offset Parkinson's and Alzheimer's. I'm not telling you this as a clinical trial. I'm telling you this as anecdata. He is a Nobel Prize winner. He's still very, very sharp in his 80s. The point here is that in a study of nicotine and cognition, where people's cognition is indeed enhanced by nicotine, everybody knows that and agrees upon that, people who were told they had a higher dose of nicotine performed better in this cognitive task
+
+10:08.162 --> 10:38.142
+when in fact they consumed zero. And people who performed moderately, who were then told that they had consumed a higher dose of nicotine, performed better than those that simply consumed the moderate dose and were told they had a moderate dose. In other words, everyone gets the same dose, either zero or moderate, but depending on what you're told, your performance changes accordingly. And that's cool, but what's really cool about the study is they actually recorded from brain centers
+
+10:38.818 --> 11:06.558
+of these individuals and the levels of activity in particular areas of the brain that are relevant for cognition changed according to what the people believe. So there you go. Placebo effect is changing neural activity. It's not all just through what you think is happening. What you think is happening is the reflection of neural activity and then you go, well, of course. But I think it's an important study. So I believe in the placebo effect and it is dose dependent and that raises all sorts of scary concerns
+
+11:06.882 --> 11:31.070
+about the placebo effect, but it's also pretty darn cool. Because what it means is that our belief system, including our understanding of the mechanisms that are likely driving certain effects of drugs or protocols or what have you, is going to play a powerful role in whether or not we get the effect that we want. And perhaps that's the most important thing provided that you're going about it safely.
+
+11:32.130 --> 12:01.918
+How do I enter the rest and digest state and exit my constant fight or flight state? Well, the fastest way is going to be physiological size, probably repeated two or three times in a row if you don't experience that the first time. The second would be to combine that with panoramic vision. I must say, and I don't want to sound like a repeating record here, but there are certain things that if we're not doing on a regular basis, our nervous system is just going to idle at a higher, let's just call it autonomic RPM, which is not real science language, but
+
+12:02.370 --> 12:31.134
+If you've ever felt wired and tired from lack of sleep, you know what this is about. The key thing is to get enough sleep each night. So much so that I think we can safely say that stress is not bad for us provided you sleep well at night. Now the challenge is for most people, including myself, if you stress a lot, sleep doesn't come easily or you wake from sleep in the middle of the night. And here again is where zero cost behavioral protocols are truly, in my opinion,
+
+12:31.938 --> 12:53.630
+unless there's some dire clinical need, the most effective and best practice. And this non-sleep deep rest, which, by the way, is indeed a renaming or a partial renaming of Yoga Nidra, which stands for Yoga Sleep. And again, I have tremendous reverence for the yogic traditions. It's just that I had to make a decision a few years ago when...
+
+12:53.922 --> 13:14.974
+I'd been introduced to Yoga Nidra in 2015. I was down at a trauma treatment center, an addiction treatment center in Florida, run by a friend of mine, essentially observing what they were doing with these addicts that couldn't recover no matter what their effort, and they were able to recover, to get sober and stay sober, and people were getting over other sorts of traumas.
+
+13:15.586 --> 13:41.374
+through the use of many protocols, of course, talk therapy, etc. But they would start their day with 30 minutes to an hour of yoga nidra. And I thought, what's yoga nidra? I learned it's yoga sleep. You lie down, you do a self-directed relaxation. It also involves intentions, etc. And I thought, this is really powerful. And I spent a lot of time in my laboratory working on it and understanding it. And there are other studies as well that now explain how these states of keeping the mind active while the body is still
+
+13:42.338 --> 14:07.806
+as a self-directed practice is immensely powerful for a number of reasons. And the reason I decided to call it non-sleep deep rest, NSDR, was not to rob it of the official name of yoga nidra, but because unfortunately, unfortunately, names like yoga nidra or proprietary names or when we name protocols after people, it acts as a separator.
+
+14:08.706 --> 14:37.374
+often deters people from trying things because it sounds esoteric. So I went with a description of the thing that relates to what the thing is supposed to do, non-sleep, deep rest, or what it's all about. So I actively avoided calling it Huberman breathing or something like that because that's not my interest. My interest is in people using these tools, and I have taken some heat for that one. I'm not interested. It was not an attempt to appropriate something. It was really an attempt to just try and distribute valuable tools because I see a lot of suffering.
+
+14:37.538 --> 15:05.214
+and it seems like a useful thing to do. So I would encourage anyone that feels like they enter a stressed state too much to learn self-directed relaxation. First and foremost, so do NSDR anywhere from three to five times a week, 10 minutes a day as a zero-cost tool, as a way to be able to better access better sleep at night, and then if the fight-or-flight state persists, then of course things like physiological size, et cetera,
+
+15:05.474 --> 15:35.006
+should be incorporated. And then, of course, of course, of course, I believe in modern medicine, there are excellent pharmaceutical tools, prescription drugs that can be used for that. But of course, there's the intermediate stuff, things like theanine and magnesium that, you know, for all the world can be useful in some context, but they're not the be all end all, you know, as much as I might reference supplements on the podcast from time to time, I don't think they're the place to start. I think one should always use behavioral tools first. And I've said this many times before, but I think it's worth saying again.
+
+15:35.778 --> 16:04.862
+Our muscles need rest days from the gym in order to grow back stronger. Yes, definitely true. Is the brain designed to be consistently learning and developing or does it need periods of rest from consuming new information or is the rest when we sleep? Great questions. Thank you, Timothy. Yes, indeed. Our muscles get stronger, grow after a proper stimulus is applied to them in the time after we provide that stimulus, which typically is resistance. But
+
+16:05.314 --> 16:31.230
+Since not everyone's interested in that, it's also the case that an endurance adaptation occurs after we embark on the run, the hike, the swim, et cetera. There's something kind of interesting, and I just want to take a moment and just mention that there's something kind of interesting about resistance training is that it's the one form of training that, because of the enhanced blood flow to the muscles while we do it, gives us a window into what the adaptation might look like
+
+16:32.322 --> 17:00.062
+once it occurs, if we allow proper rest. Whereas with endurance training, it's very different, right? You go further and, or you run up a hill until your legs burn and you want to vomit up a lung. And then the next time you do it, you don't feel quite as bad, right? The adaptation occurs, of course, in a very similar way to resistance training, different mechanisms, but there's a delay in adaptation, you get better. It's just that with resistance training, you can kind of sense the change before the change occurs.
+
+17:00.322 --> 17:28.575
+because of the enhanced blood flow of the muscles with endurance training, you sense the limit of your ability and then you exceed that limit subsequently. Now in terms of cognitive learning, the same thing is basically true. If you wanna get really technical about it, the computational biology, the modeling of this says that if you wanna learn something, probably setting the difficulty of what you're trying to learn to about 85% correct trials, 15% error trials,
+
+17:28.674 --> 17:57.822
+is probably ideal. What does that mean? It means if you're trying to learn a new piano piece, or you're trying to teach that to a child, if they're not starting from scratch, let them play something that they know pretty well, and then introduce a small percentage, maybe 10 to 15, maybe 20%, you don't have to be exact about this, of novel material that's hard for them to learn. But yes, it is the focused, deliberate attempt to learn something that creates that sense of underlying agitation
+
+17:58.594 --> 18:24.254
+that is the trigger, the stimulus for neuroplasticity. This makes sense. If you could complete something, if you could do something, a scale of music, a physical task, speaking a new language, if you could do that, why would your nervous system ever change? And how does your nervous system know if it's supposed to change? Your nervous system doesn't know successful trial versus failure trial.
+
+18:24.770 --> 18:44.030
+I've tried many times to learn other languages, and I'm modestly terrible at Spanish, but if I were to try and get better, my nervous system doesn't know when I'm failing. It has no idea. What it knows is the release of certain neuromodulators, namely adrenaline and norepinephrine and a few others as well,
+
+18:44.610 --> 19:14.238
+that are associated with the underlying agitation of like, oh, I'm failing at this. I'm not able to remember that Spanish class because I didn't attend in high school, and this is really difficult. And that agitation, the frustration is the stimulus. But when we say frustration, it's the neurochemicals that when they bathe the surrounding neurons, those neurons go, oh, something needs to change for next time. And lo and behold, the stimulus for neuroplasticity has occurred. But the actual rewiring of the neurons, either the
+
+19:15.042 --> 19:40.734
+improvement or the reduction in the strength of synapses of connections between neurons and in rare instances the addition of new neurons for neuroplasticity occurs yes when we sleep in states of deep rest or non-sleep deep rest although there's less data to support that but the actual rewiring occurs away from the stimulus so there's really two important principles here one is that agitation and stress
+
+19:41.506 --> 20:09.950
+and the neurochemicals that underlie agitation and stress, that is the stimulus for learning. And goodness, do I wish they had taught me that in school. I mean, they taught me all sorts of things in school, but they didn't teach me that. They didn't teach me the physiological side. Lord knows I would have done better in life if I had a couple of those tools. Instead, they told me, look, you know, if you drive drunk, you could die. That was good information. But they didn't tell us about all the other stuff. So I wish they told us about the stimulus and rest thing
+
+20:10.786 --> 20:36.926
+And somehow they have permission to talk about the rest. All right, what's my take on hallucinogens? Goodness gracious. My take on hallucinogens is, I've taken them, clearly. Well, here's the real story on hallucinogens. First of all, I'm very open about most everything I've done, you know, trying to keep context appropriate. But...
+
+20:37.090 --> 21:06.046
+I had the unfortunate experience of taking LSD and psilocybin when I was all too young, and those were bad experiences. Some of them were bad in the moment, some of them were bad after the moment. It is something I do not recommend, and I'm not saying that to be politically correct. I'm not saying that because it's true. The reality is that being a child, an adolescent, or a teenager is a psychedelic experience. And your brain is still wiring up in all sorts of interesting ways
+
+21:06.210 --> 21:33.150
+and everything seems chaotic, and even if you're one of those rare kids that seems to have everything rode up appropriately, you don't want to throw massive amounts of neuromodulators in there haphazardly and start tampering with the wiring. That's my deep belief, okay? That's my deep belief. However, it does appear that at least for adults who are
+
+21:33.794 --> 21:57.918
+not suffering from particular psychiatric challenges, namely forms of psychosis, right? This is real. I mean, one in 100 people experiences schizophrenic symptoms, et cetera. It's a very high number if you think about it. Certain forms of bipolar depression that the clinical trials on psychedelics, and here I'm assuming when you say hallucinogens, you're referring to psychedelics, are very, very compelling.
+
+21:58.530 --> 22:24.478
+The psychiatric community is now being forced to look at these data because the data are very compelling. What do we know about these data? And yes, I've participated in two such clinical trials, one on high-dose psilocybin, high-dose meaning more than two grams, taken twice. By the way, this is with the support of medically trained therapists, and the use of psychedelics such as psilocybin
+
+22:24.642 --> 22:51.294
+Mostly psilocybin, not so much LSD. Do you know why most of the trials are on psilocybin and not LSD? I do, but I'm curious if, you know, it's not to, what's that? LSD's too long, that's right. That people need to go home. People need to go home, the technicians need to, and LSD is a long ride. It's a long ride. So the thing about psilocybin is that the, you know, the,
+
+22:51.458 --> 23:19.422
+sort of journey. The trip is, you know, somewhere on the order of anywhere from, you know, three to seven hours, which can fit into a reasonable workday for a technician, clinician. And LSD can be many, many hours longer. The kind of Mount Everest of psychedelics, which is under investigation by a colleague of mine at Stanford School of Medicine, Nolan Williams, is Ibogaine, Iboga, which is 22 hours long. It has cardiac effects. This is not something to
+
+23:19.810 --> 23:49.246
+to get cavalier with. This is something only to be done in a clinical context with medical experts there. And Iboga is very interesting. From what I'm told, I have not participated in an Iboga trial. Iboga allows for or induces a state in which you do not hallucinate at all with eyes open, but the moment you go eyes closed, you get a high resolution, accurate picture of prior events in your life
+
+23:49.762 --> 24:19.326
+but you have agency, you have volition inside of those pictures, and you're able to change your behavior and re-sculpt your relationship to those experiences. Like, wow. And the state of Kentucky in California recently, excuse me, the state of Kentucky in the United States, thank goodness Kentucky isn't inside of California. That would be civil war. The state of Kentucky recently took the $40 million settlement from the opioid system
+
+24:19.906 --> 24:49.854
+thing, right? You've all heard about that, the opioid crisis, and applied that money to Iboga trials. So this stuff is happening. This stuff is really happening now in the US. In any event, psilocybin, these two sessions, medically supported two sessions, has been shown to be pretty effective in the treatment of major depression. Not completely effective. Sometimes there's adverse outcomes, but far more effective than the other four
+
+24:50.466 --> 25:12.030
+pharmaceutical treatments that it's been compared to. So that's interesting. And psilocybin is serotonin. If you look at the structure of psilocybin, it looks like serotonin. So what we're talking about is a massive dose of serotonin. And psilocybin appears to bind near selectively to a particular serotonin receptor. And the outcome seems to be enhanced or more...
+
+25:12.642 --> 25:35.454
+more broad connectivity between brain areas that normally are not communicating with one another, probably not the growth of new connections, but the, let's say, the unveiling of the ability for certain brain areas to communicate with one another, whereas they couldn't prior. Different ways of thinking about the same problems, which is,
+
+25:36.098 --> 26:05.374
+logically sound if you think about ways to deal with depression. Depression is characterized by a number of things, of course, but one of the hallmark features of depression in addition to sleep challenges is a lack of positive anticipation of the future. And it does seem that these macrodose psilocybin trials are helpful for that. Turns out that the microdosing of psilocybin has not been shown to be terribly effective, which is not to say it isn't, but the trials don't support that, although there aren't many trials of that yet.
+
+26:06.050 --> 26:35.678
+So it appears, you know, if you had to pick between micro and macro dosing, go macro. But be careful. Be careful and set in setting is important. Safety is important and certainly not for children. And as long as, or adolescents or teenagers, I really, again, want to reemphasize that. The other thing is, as long as we're talking about psychedelics and hallucinogens, we should probably just touch on MDMA for a moment. First of all, MDMA ecstasy has a number of,
+
+26:36.130 --> 27:05.726
+challenges or potential problems that need to be highlighted. First of all, contaminants. We have a fentanyl crisis in the US, so contaminants, so purity is essential. Second of all, it is methylene-dioxymethamphetamine. And the methamphetamine part often gets people thinking like, whoa. It seems, however, that the inclusion of the methylene-dioxy component increases serotonin dramatically, and it is the increase in serotonin, perhaps,
+
+27:06.210 --> 27:29.502
+or at least it's now thought, in addition to the increase in dopamine caused by the methamphetamine component combined that provides some sort of neuroprotective effect. The early reports that MDMA ecstasy is neurotoxic, quote unquote, puts holes in your brain, was flawed, and indeed that paper was retracted. The researchers said,
+
+27:29.602 --> 27:53.310
+did that study in earnest, but then later discovered that when they reached for the MDMA on the shelf, they actually grabbed the methamphetamine. But the news agencies didn't report that retraction. Now, our best evidence that MDMA taken in the appropriate clinically supported context can act as an empathogen, can help people develop empathy for themselves,
+
+27:53.890 --> 28:14.014
+and help relieve trauma. And indeed, the clinical trials show that at the proper dosing and the proper frequency with the proper support, there's up to 60% and as high as 67% remission of PTSD. Remarkable. With support, okay, not just taking Molly and like dancing in the desert. We're talking about,
+
+28:14.178 --> 28:37.310
+We're talking about in the eye mask. We're talking about going inward. We're talking about relaying your experience. We're talking about talking about the challenging experience or experiences with someone who's qualified to help you deal with all of that, et cetera, and someone to drive you home because you feel like a puddle afterwards. Talking about all of that. We're not talking about eye-gazing with your partner, telling them how much you love them. We're talking about empathy for self, love for self, which is a concept that, frankly,
+
+28:37.474 --> 28:55.806
+I've often struggled with, I've thought, you know, people would say, you gotta love yourself. I'm like, what is that? Like, what is that? I love my bulldog, I love my friends, I love cuttlefish, but like, what is that? And I think through the use of MDMA, you can, there seems to be this ability to develop in pathogenic states to yourself, but of course, the reason for
+
+28:55.938 --> 29:23.038
+The clinical trials insisting that people stay in the eye mask and communicate their experience, maybe popping out of it every once in a while and talking with somebody in a trusted person in a way that can be helpful towards dealing with the trauma is that the problem with having that much serotonin and that much dopamine in your system is that you can become empathic toward anything. So we've all known people that take MDMA, listen to a particular soundtrack and they're like, I'm gonna become a musician.
+
+29:23.618 --> 29:48.414
+I love music. And again, I'm not recommending anyone do MDMA, but in recent years, I've really changed my stance on psychedelics. Five years ago, 10 years ago, I never would have had this discussion, certainly not with a microphone in front of my face, anything being recorded. I would have worried about losing my job at Stanford or elsewhere. But we now have many laboratories at Stanford and elsewhere that are doing
+
+29:48.802 --> 30:16.638
+that is federally funded on these compounds. And if you think about these compounds, while they have been used recreationally, are simply ways to adjust levels of neuromodulators in the brain, serotonin, dopamine, et cetera. That's really all they are, although they do it very potently and therefore caution needs to be applied. And as long as we're on that topic, I should mention that ketamine, everyone's excited about ketamine. When I was growing up, I was taught
+
+30:16.930 --> 30:46.334
+that there's a compound that's really dangerous. It's called PCP, vencyclidine. They are the same compound. They don't tell you this. Ketamine and PCP, same thing. And I learned about PCP as the compound that was gonna make criminals like punch light poles and beat up 12 cops. And yeah, I watched too much Chips when I was growing up. For those of you old enough to remember, it was like Ponch and John, they were on the motorcycles with the shorts. My sister watched it too, but for completely different reasons. So PCP was like this demonized...
+
+30:46.530 --> 31:10.878
+drug. But ketamine and all this stuff about ketamine is now legal in the U.S. I don't know its status here in Sydney, so I'll see if I get arrested on the way out. But, you know, ketamine is potentially addictive. People talk about the K-hole, et cetera. Weird name, by the way. The whole business with ketamine is, again, it's a potent MDMA, N-methyl-diaspartate blocker, which is
+
+31:10.978 --> 31:38.942
+blocks neuroplasticity in the short term, expands it in the long term. So the way to think about these compounds, these drugs, is by way of their mechanism. And so it should be no surprise that they're able to induce neuroplasticity. But the goal is not plasticity. This is very, very important. The goal is not plasticity. The goal is plasticity directed toward a particular positive outcome. Anytime you have plasticity, you have the potential for maladaptive plasticity.
+
+31:39.202 --> 32:07.422
+And so that's an additional cautionary note. As I often say on the podcast, I don't say that just to protect me, although I am a little bit worried now about what I just said over the last five minutes. I say that to protect you. Next question before I get myself in trouble. What about what? DMT. Yeah, dimethyltryptamine. Yeah, it leads to lower thresholds for impulsivity, like screaming out, what about DMT? DMT.
+
+32:08.738 --> 32:31.358
+Just kidding. I don't know. Sorry. So I'm just joking. I'm just joking. You seem like you could take it. So I've never done DMT, but I've heard it's a high-speed freight train into your consciousness behind the circuit board and back again. So there are a few things
+
+32:31.746 --> 33:01.342
+great studies on DMT and ayahuasca, just as long as we're expanding into the full trip down to the jungle. And the data are interesting. It's harder to know what's going on in these very short trip, massive neuromodulator release type drug scenarios. Robin Carter-Harris at the University of California, San Francisco is somebody who's looking at DMT.
+
+33:01.474 --> 33:11.166
+more extensively, and I don't want to avoid giving you an answer, but I do want to avoid giving you a wrong answer that's not informed. One thing I'll say, and this is just
+
+33:11.778 --> 33:41.744
+Rarely do I plug anything related to the podcast, but we are actually providing some support to Robin and others' laboratory for the study of things like DMT. One of the things that we do at the podcast, and this is not a request for anything, we do take a significant portion of the proceeds from our premium channel, and we fund human studies of exciting things like DMT. We're supporting Robin's lab this coming year. I've pulled together some other donors to provide support for all human studies, no animal studies. And the goal is really to fill in important blanks like the study of DMT
+
+33:41.744 --> 34:05.086
+as well as other things. We're currently funding the Eating Disorders Laboratory at Columbia University. Eating disorders, by the way, anorexia nervosa in particular, the most deadly of all psychiatric disorders, a really tragic challenge there. So I just mentioned that getting funding for science on really kind of...
+
+34:05.666 --> 34:28.574
+next level stuff is hard for reasons that would take up the whole night. So that's one thing that I'm really trying to do in the next few years. And again, this is not a request, but to, you know, pool together donors and get them to give money to laboratories to do the kind of stuff that's going to feed back to the general public very quickly. Because I think we're all getting a little tired of the like, okay, mouse study, which are great, you know, but in 10 years, this might lead to a
+
+34:28.706 --> 34:37.726
+Blank for Alzheimer's or blank for autism. I think we're all getting a little tired of that narrative, so we're trying to accelerate the process. Okay. Yeah, thank you.
+
+34:38.306 --> 35:07.102
+And it's not a sole effort. It's just, I do happen to know a lot about the way that funding mechanisms can get a little bit clogged. And so just trying to, you know, clear some of those clogs. The brain and gut axis, is this a thing? It is most definitely a thing. So I think one of the more exciting areas is the so-called gut-brain axis. We all now hear about the gut microbiome. I must say, down here, y'all are really evolved in this dimension. The other day I noticed, probably from jet lag and
+
+35:07.202 --> 35:36.414
+travel and I don't know, maybe I swam in some stuff that had too much chlorine or something. I was getting like some little like skin thing on my face. I was like, all right, I'll go get some triple antibiotic ointment like I do back home, clean it up because I forgot mine. So I go to the pharmacy here, what you call the chemist. I go to the pharmacy and the guy behind the counter says, well, you don't, first of all, you can't get triple antibiotic ointment here. You need a prescription. I'm like, all right.
+
+35:36.578 --> 36:02.366
+well, this is going to get tricky. Now I got to forge a prescription. And I'm just kidding. Don't do that. Don't do that. And he says, but you know, have you considered whether or not maybe your skin microbiome is struggling because of the lack of sleep, the jet lag, and maybe you were exposed to some chlorine or something? I thought, you know, that's a logical way to think about it. Because we just did an episode on oral health where I'm telling everybody, hey, like avoid these like high
+
+36:02.466 --> 36:27.646
+alcohol, astringent, mouthwashes that kill your oral microbiome because all the dentists and periodontists are telling me, yeah, they'll make your breath fresh, but actually it's wrecking your gut microbiome and it's bad for, but so I take the probiotic. You guys have amazing probiotics here. And in a day, boom, it's done. Now I didn't do a control clinical trial. I don't know whether or not that was really what did it, but it's an interesting idea. This, I, we know for instance, that we have a distinct microbiome
+
+36:27.746 --> 36:57.182
+niches, different bacteria that live in our nasal passages, on the surface of our eyes, on the surface of our skin, in the urethra, in essentially every orifice, mucous membrane, but everywhere in and around our body. And that these little microbiota are provided they are supported. They do many things, but among them, the gut microbiome, which of course starts in the mouth, as the oral health episode describes with a lot of protocols as well.
+
+36:57.506 --> 37:24.574
+the gut microbiome, when it's well-supported, creates certain fatty acids that are the precursors or catalysts for the production of certain neurotransmitters in the brain. And it is now oh so clear that enhancing the diversity of flora, of microbiota in the gut and mouth is great for the nervous system.
+
+37:25.538 --> 37:50.014
+so much so that some of the studies on relief from certain neuropsychiatric conditions are being achieved through, and I know it's not pleasant, but microbiota transfer between individuals, so-called fecal transplants, which always makes me a little bit uncomfortable to think about, never had one, but, you know, it's pretty interesting, you know, despite the discomfort of thinking about that process, at least for me, the
+
+37:50.434 --> 38:15.358
+The whole business of taking the gut microbiota from one individual that's not suffering from something and putting it into another individual and seeing relief from certain symptoms of given conditions is really compelling. So I think that we should all be thinking about ways to support our gut-brain access. It's very clear that the best low-cost, no-supplement way to do that is going to be to consume...
+
+38:16.322 --> 38:42.814
+one to four servings of some fermented food. No, beer doesn't count. Low sugar fermented foods, I suppose beer does count, but it comes with some other issues, such as, you know, kimchi or sauerkrauts or kefirs or, you know, every culture seems to have its own probiotic, prebiotic foods, and that's going to be the best way. And it's clear that it has immense benefit. And then when you don't have access to those foods, doing things like
+
+38:43.490 --> 39:13.278
+Taking a pill probiotic now and again is probably not a bad idea if you're traveling or you're sleep deprived. The challenge with that sort of thing is that it's a generalized effect of supporting multiple systems in the brain and body. So it's going to be a long time, maybe never, before you see a really nice clean study that says that, okay, increasing the amount of lactobacillus in the gut by taking X number of milligrams of lactobacillus improves your cognition.
+
+39:13.410 --> 39:38.622
+You're not gonna find that study. Why? Because in science it's important and in health to distinguish between moderating effects and mediating effects. Lots of things can moderate a given feature of your brain or health. So for instance, if, you know, God forbid, a fire alarm went off tonight, it would moderate our attention, or excuse me, modulate, modulate, Kentucky's in California, and now I'm saying moderate, modulate.
+
+39:39.746 --> 39:56.894
+your attention, but it doesn't mediate attention. On a normal basis, you know, the fire alarm isn't involved in your attention, whereas certain other things mediate those mechanisms of attention. So when you improve sleep, you're going to see positive effects on any number of things. When you sleep-deprive people, you're going to see
+
+39:57.090 --> 40:25.342
+deficits in any number of things. These are not direct effects. These are indirect effects, likewise with the microbiome. So I think gut microbiome sits in the various, what I call pillars of mental health, physical health, and performance. These are the things that we should try and tend to on a regular basis to give buoyancy to our mental health, physical health, and performance. But I wouldn't get too caught up in wondering which exact microbiota are important. I think diversity of the microbiome is key. If you're taking antibiotics, you want to do something to counter that.
+
+40:25.922 --> 40:49.438
+probiotics, et cetera. And certainly antibiotics aren't bad, but the overuse of antibiotics certainly can be. And good on you for having chemists that know better than to just hand me a bottle of triple antibiotic ointment. Quality of sleep, going to bed early compared to sleeping late but still for eight hours. Depends. Depends on whether or not your chronotype
+
+40:49.762 --> 41:17.054
+which for a long time I did not think was real, but based on newer data, it's absolutely clear or real, whether or not you feel best going to bed early, waking up early, or going to bed at a more typical time of 10 p.m. to say wake up or 11 p.m. and waking up at 7 a.m. I see that, you know, for any folks leaving, they're like early to bed, right? I get it. I'm not offended. It's fine. I get it. It would not be the first time that people... I always say, if nothing else, the podcast will cure insomnia.
+
+41:17.186 --> 41:43.582
+because the episodes are very, very long. You know, for some people, they just feel spectacularly better going to sleep early and waking up early. Spectacularly better. I'm one such person. Other people feel much better staying up late, waking up late. The total duration of sleep is important. The regularity of sleep, it turns out, is becoming a very important variable, or it has always been an important variable, but the data are pointing to the fact that
+
+41:44.258 --> 42:13.854
+If you are somebody who feels best going to sleep around 11 p.m. and waking up at 7 a.m., trying to keep that to bedtime within plus or minus one hour, any time you can, except on a night when there's a lecture at the ICC theater, is a good idea. But in general, five nights out of the week, you want to go to sleep within plus or minus an hour of the same bedtime. That's kind of the general goal. And in the sleep series with Matt Walker, he talks about the quality, quantity, regularity, and timing of
+
+42:14.242 --> 42:43.614
+QQRT, quantity, quality, regularity, and timing of your sleep being the four key features of your sleep to try and dial in. But of course, life isn't about optimizing everything. It's good to get out and party every once in a while, stay up all night, watch the sunrise, and just live life also. So I think sometimes people get the impression because I wear the same shirt all the time that I do everything in a hyper-regimented way. But actually, it's quite the opposite. I try and do things regularly and as consistently as possible so that
+
+42:43.746 --> 43:07.934
+deviations from those protocols don't impact me negatively much at all. That's the idea. I have ADHD and I'm struggling to focus. What would be the best way to go about regaining my focus? Nick. Okay, so I think that nowadays many, many people struggle with issues with focus. I think we have our do's and our do nots, and I'm obviously not a psychiatrist and I can't diagnose
+
+43:08.034 --> 43:37.886
+you, Nick, from a question on a slide. But I just want to start off by saying that there are indeed people who truly struggle with focus to the extent that they have clinically diagnosable ADHD. And I did two episodes on ADHD and focus, one that was mainly focused on behavioral tools and nutrition, and to some extent, supplementation. And when I put out that episode, about half of the comments out there were, how could you? You don't respect modern science.
+
+43:38.338 --> 44:06.110
+You have no integrity. How could you suggest that people use these tools? It's all about prescription drugs. And the other half were like, yes, finally, some tools and some acknowledgement that these things actually matter and can help, maybe even in conjunction with pharmaceutical aids. And then we did a second episode, which was all about the prescription drugs, and it was the exact reverse. People writing to me in droves saying, thank you so much. I've been prescribing these drugs
+
+44:06.274 --> 44:35.614
+or I've been giving these prescription drugs to my child, rather, and it's really been helping, but I'm embarrassed to tell everybody because then people demonize me and tell me I'm poisoning my kid, that they're on meth. And then the other half saying, how could you? The pharmaceutical industry, big pharma, is out to get us all. I must say that, and I'm happy to be in this role, or not happy, but I'm willing to be in the role of, I try and cover it all and give people options. I don't tell people what to do. I don't prescribe anything. I profess many, many things, and you should do as you...
+
+44:36.226 --> 45:01.214
+decide is best for you, but just know what you're doing. And here's the deal, that drugs like Adderall, Vyvanse, et cetera, are indeed amphetamines. That's true. In the young brain, they can help enhance some of the neuromodulators that allow for elevated activity in areas like the prefrontal cortex and elsewhere that allow for more focused attention and less impulsivity, because the main function of the prefrontal cortex, as you may all recall, is to say,
+
+45:02.850 --> 45:31.326
+the particular areas of the brain that want to move or cause us to move or cause us to blurt things out like DMT or whatever it is. And sorry, I didn't mean to pick on you. We'll do DMT together. We'll do some MDMA also. And then we'll like be, we would like, we're a heart medicine. So the reality is that there are neurochemical tools that can help with ADHD, but there are also behavioral tools. And in
+
+45:31.906 --> 45:49.502
+countries outside of the US, namely in China, there are extensive efforts to train young people to focus for longer periods of time. And believe it or not, they're not doing that through any, at least in these experiments, through any draconian approach. They actually have them do what?
+
+45:49.602 --> 46:04.510
+they have them focus on visual targets. The longer you focus on a visual target, we know the longer you bring about the activation of certain neural circuits in the brain that allow for better focus. And while not everything is about vision, it is certainly the case based on those studies
+
+46:05.218 --> 46:34.014
+In the data, I've looked at them quite extensively, that even a short period of time of learning to entrain one's focus on a fixation point, so this would be the virgin's eye movement, this is the cuttlefish ready to eat or mate, not the cuttlefish swimming around looking for potential predators in panoramic mode, doing that for a short period of time of even a minute or three minutes can allow one to bring online the neural circuits that allow for enhanced focus in the subsequent 10 to 20 minutes, which is a pretty reasonable bout of work if you think about it,
+
+46:34.178 --> 46:51.678
+And here's another important point. None of us, none of us, ADHD sufferers or otherwise, should expect ourselves to be in perfect trenches, deep trenches of focus all the time. That's an unreasonable request for your nervous system. You can build up a capacity to focus and, of course,
+
+46:52.546 --> 47:15.422
+we can all focus best on things that we really enjoy. In fact, children and adults with ADHD are known to have tremendous focusing capacity if they're focusing on something they really enjoy. This has been shown over and over again, which means that the capacity to focus is there. It's just that the threshold to focus is higher, which means that it's harder to access. And these visual fixation, they're not even experiments. You can literally just place a visual target on the wall
+
+47:15.746 --> 47:43.454
+you know, one to three feet away, force yourself to stare at that visual focus point and then move into your work. And you'll notice that your mind will flit away from whatever it is you're trying to focus on. But with some training, you can build up an enhanced capacity to focus. It does require you flip your phone over, you turn it off, you leave it in the other room, you remove distractions. Some people even find, children will find if they wear a brimmed hat and a hoodie, which basically took me through most of high school for other reasons. If you do that,
+
+47:43.970 --> 48:09.566
+you can create a more narrow tunnel of vision that this is the reason they put blinders on horses. So it sounds somewhat medieval. It sounds somewhat primitive or crude. But once again, what we're really talking about is removing the expectation that focus is like a square wave function where, you know, you sit down, you open your book, and boom, you're focused. I mean, you wouldn't expect that of physical focus.
+
+48:09.826 --> 48:33.182
+performance, would you? There's a warm-up, there's some dynamic stretching, there's perhaps some just getting your mind in the groove, you know, this sort of thing. Neural circuits are not on-off. It's not a square wave function. It takes some time to ease into a mode of focus. And so my suggestion, Nick, is that you and others that struggle with focus think about the do-nots, the distractions that clearly are
+
+48:34.146 --> 48:57.310
+intervening in our ability to focus nowadays, but also as you think about the things to explore, which may include these pharmaceutical tools, of course, prescribed by a licensed physician, but that you consider that perhaps the expectations that you're placing on yourself to focus are too immediate and that you should train these up more gradually over time, which is not to say that you should settle
+
+48:57.538 --> 49:21.118
+having limited focus but that this is a skill that you can develop like any other skill that your nervous system is capable of plasticity throughout the lifespan. We absolutely know that and given that I'm presuming, I don't know why I'm presuming that you're a young person, but even if you're not, that you can increase your ability to access these narrow trenches of focus and
+
+49:21.282 --> 49:50.014
+even for things that don't delight you. But I hope you are also doing some things that delight you. So I was told that's the final question. I'm going to take that very seriously. And somewhat unfortunately for me, because I could go all night. I've really enjoyed tonight. Thank you very much. Thank you. Thank you so much. Just thank you. Thanks so much.
+
+49:52.706 --> 50:04.254
+Thank you. Truly thank you. I really appreciate this opportunity to connect with you all. Thanks for coming out. The fact that people come out to listen to a bunch of science and
+
+50:04.354 --> 50:34.320
+and health discussion. I greatly appreciate it. All the tools, all the protocols, all the mechanisms, all the information, while some of it, a very, very small fraction of it was developed or discovered in my laboratory. Virtually everything that I cover on the podcast and I've talked about tonight are the great discoveries of other people who deserve the credit, and I've tried to give credit where credit is due. The most important thing to me, of course, is that as you each learn and try these different tools and protocols, as
+
+50:34.320 --> 50:38.654
+you see it fit for you, that it would be wonderful if you'd pass them on to other people.
+
+50:39.074 --> 51:07.614
+please, please, please remove my name from that passage. This is not about me or the podcast. It's really about the one thing we know to certainly be true about our species is that we can communicate information to one another, hand off tools, and that in the case where these tools can help relieve suffering, wonderful. In the case where these tools can help improve mental health, physical health, and performance, we need to, I believe, and should do that for one another. And last but certainly not least...
+
+51:07.906 --> 51:09.822
+Thank you for your interest in science.

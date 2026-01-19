@@ -1,0 +1,940 @@
+WEBVTT
+
+00:00.354 --> 00:21.118
+Welcome to the Huberman Lab guest series, where I and an expert guest discuss science and science-based tools for everyday life. I'm Andrew Huberman, and I'm a professor of neurobiology and ophthalmology at Stanford School of Medicine. Today marks the third episode in our six-episode series, All About Sleep, with expert guest, Dr. Matthew Walker.
+
+00:21.346 --> 00:45.598
+During today's episode, we discuss how to structure your sleep for optimal mental health, physical health, and performance. We discuss monophasic sleep schedules, which are the more typical sleep schedule where you go to sleep at night and then wake up in the morning, so sleeping in one bout, as opposed to polyphasic sleep schedules, which are when you sleep in two or more bouts, either at night or perhaps a shorter bout of sleep at night and another bout of sleep during the day.
+
+00:45.826 --> 01:12.862
+We also discuss naps, including how to nap, how long your nap should be, whether or not naps are good or bad, in particular whether or not they're good or bad for you. It turns out this varies according to individual. We also discuss how your needs for sleep and naps vary across the lifespan. And we discuss body position during sleep, which might seem excessively detailed, but it turns out that body position during sleep is critical for ensuring that the sleep you get is optimally restorative.
+
+01:13.154 --> 01:41.950
+As with the first two episodes of this six-episode series, today's third episode is filled with both science, that is the biology of sleep and napping and body position and how those relate to one another, as well as practical tools that you can use to vastly improve your sleep. Before we begin, I'd like to emphasize that this podcast is separate from my teaching and research roles at Stanford. It is, however, part of my desire and effort to bring zero-cost to consumer information about science and science-related tools to the general public.
+
+01:42.274 --> 02:06.462
+In keeping with that theme, I'd like to thank the sponsors of today's podcast. Our first sponsor is BetterHelp. BetterHelp offers professional therapy with a licensed therapist carried out online. I've been doing therapy for well over 30 years. Initially, I had to do therapy against my will, but of course, I continue to do it voluntarily over time because I really believe that doing regular therapy with a quality therapist is one of the best things that we can do for our mental health.
+
+02:06.690 --> 02:33.374
+Indeed, for many people, it's as beneficial as getting regular physical exercise. The great thing about BetterHelp is that it makes it very easy to find a therapist that's optimal for your needs. And I think it's fair to say that we can define a great therapist as somebody with whom you have excellent rapport, somebody with whom you can talk about a variety of different issues, and who can provide you not just support, but also insight. And with BetterHelp, they make it extremely convenient so that it's matched to your schedule and other aspects of your life.
+
+02:33.474 --> 02:56.766
+If you'd like to try BetterHelp, you can go to betterhelp.com slash Huberman to get 10% off your first month. Again, that's betterhelp.com slash Huberman. Today's episode is also brought to us by Element. Element is an electrolyte drink that has everything you need and nothing you don't. That means plenty of the electrolytes, magnesium, potassium, and sodium, and no sugar. As I mentioned before on this podcast, I'm a big fan of salt.
+
+02:56.962 --> 03:07.390
+Now, I want to be clear. People who already consume a lot of salt or who have high blood pressure or who happen to consume a lot of processed foods that typically contain salt need to control their salt intake.
+
+03:07.522 --> 03:37.488
+However, if you're somebody who eats pretty clean and you're somebody who exercises and you're drinking a lot of water, there's a decent chance that you could benefit from ingesting more electrolytes with your liquids. The reason for that is that all the cells in our body, including the nerve cells, the neurons, require the electrolytes in order to function properly. So we don't just want to be hydrated. We want to be hydrated with proper electrolyte levels. With Element, that's very easy to do. What I do is when I wake up in the morning, I consume about 16 to 32 ounces of water and I'll dissolve a packet of Element in that water. I'll also do the
+
+03:37.488 --> 04:04.670
+Today's episode is also brought to us by Waking Up.
+
+04:04.962 --> 04:25.374
+Waking Up is a meditation app that has hundreds of different meditations as well as scripts for yoga nidra and non-sleep deep rest or NSDR protocols. By now there's an abundance of data showing that even short daily meditations can greatly improve our mood, reduce anxiety, improve our ability to focus, and can improve our memory.
+
+04:25.666 --> 04:55.632
+And while there are many different forms of meditation, most people find it difficult to find and stick to a meditation practice in a way that is most beneficial for them. The Waking Up app makes it extremely easy to learn how to meditate and to carry out your daily meditation practice in a way that's going to be most effective and efficient for you. It includes a variety of different types of meditations of different duration, as well as things like Yoga Nidra, which place the brain and body into a sort of pseudo sleep that allows you to emerge feeling incredibly mentally
+
+04:55.632 --> 05:10.622
+In fact, the science around yoga Nidra is really impressive showing that after a yoga Nidra session, levels of dopamine in certain areas of the brain are enhanced by up to 60%, which places the brain and body into a state of enhanced readiness for mental work and for physical work.
+
+05:10.882 --> 05:38.942
+Another thing I really like about the Waking Up app is that it provides a 30-day introduction course. So for those of you that have not meditated before or getting back to a meditation practice, that's fantastic. Or if you're somebody who's already a skilled and regular meditator, Waking Up has more advanced meditations and yoga nidra sessions for you as well. If you'd like to try the Waking Up app, you can go to wakingup.com slash Huberman and access a free 30-day trial. Again, that's wakingup.com slash Huberman.
+
+05:39.202 --> 06:06.206
+And now for my conversation with Dr. Matthew Walker. Dr. Walker, welcome back. Dr. Huberman, an absolute pleasure. Let's talk about the different types of sleep, because I think most people think of sleep as just one thing. Most people sleep at night, some people also nap, a topic we'll also discuss today, but it turns out there are a lot of different types of sleep. What are the different types of sleep and what do they do for us?
+
+06:06.626 --> 06:26.334
+I guess everyone's probably wondering already, I certainly am, what types of sleep are we already engaging in? Meaning, am I involved in or having multiple types of sleep each night? This is a fascinating question and it comes back to something we've discussed in a previous episode. The different stages of sleep and how they unfold, we've described that.
+
+06:26.594 --> 06:52.670
+Fascinating stuff. What you're already asking though is an incredibly sort of subtle but relevant question. How should I be sleeping in terms of the phases of sleep? Should I have one phase? Should I have two phases of sleep? Or should I have many phases of sleep? In some ways, you can answer that question on the basis of the lifespan. Because how it is that we sleep is
+
+06:52.866 --> 07:20.382
+in terms of those chunking sessions, changes as we develop. To be clear in nomenclature, I'm saying monophasic, biphasic, polyphasic, unpack that. Monophasic obviously just simply means a single phase, monophasic. And when you say phase, you mean one bout of sleep. Correct. So that would be within a 24 hour period, you are having a single bout of sleep.
+
+07:20.482 --> 07:43.102
+Biphasic then means that within that 24-hour phase, you are having two bouts of sleep. And we'll speak about how those bouts are split up. Are they split up between two halves in the middle of the night? Or are they split up in terms of longer at night and siesta-like nap in the afternoon? And then we can speak about polyphasic sleep.
+
+07:43.234 --> 08:12.542
+Polyphasic sleep, we in sleep science have been using for many years in the context of infancy, because there, as any new parents will know, infants do not just simply have a nice single bout of sleep. They're up, they're down, they're up, they're down, and they have many bouts of sleep within that 24-hour period, and that's polyphasic sleep. The other term or the other application of that term, polyphasic sleep, has been used more so in
+
+08:12.642 --> 08:37.886
+this sort of interesting biohacker movement. And we'll come back to that perhaps later on. So how do these different phases of sleep change across the lifespan? Well, we've already said that when you're an infant and you're first born, within the first year of life, you are incredibly polyphasic and you are probably going through wake sleep phases every two hours. Why do you do that?
+
+08:38.082 --> 08:59.614
+Why can't you just simply be born and sleep in a monophasic way? It's for at least two reasons. First, an infant needs to feed every two hours. So their energy needs and their food intake requirements dictate that you can't sleep for very long because you need to be awake to feed and then you go back to sleep. Within
+
+08:59.746 --> 09:27.966
+probably the first six months, things will start to change a little bit. But the second reason that you are highly polyphasic when you are first born is because your suprachiasmatic nucleus, and in another episode, we spoke about the central master 24-hour clock that beats out your circadian rhythm, the rise and the fall, the wake and the sleep. That has not yet developed. It hasn't been glued into place into the brain, this 24-hour clock.
+
+09:28.130 --> 09:55.902
+So the infant seemingly knows nothing about when it's light or when it's dark outside. They're just awake or asleep, awake or sleep. So that's the second reason. Energy feeding needs is the first. And then an absence of yet a fully developed 24-hour clock in the brain to beat out that beautiful dictated rhythm. By about age one, that number of phases of sleep
+
+09:56.098 --> 10:19.230
+are starting to decrease, but it's still highly polyphasic. It's not until you get to probably age two or three that now you're starting to see this consolidation of sleep. What do I mean by that? Sleep is now happening more dominantly in the night phase of the 24 hour cycle. And there are fewer bouts of sleep during the daytime.
+
+10:19.330 --> 10:49.246
+perhaps by the time you're in kindergarten, you may be down to just two sleeps. So now we've switched from polyphasic sleep as infants to biphasic sleep as kindergarten. Could you describe those biphasic patterns? I recall in kindergarten having nap time in the afternoon. They'd put out these little mats and every kid would just kind of like roll up. It actually sounds really nice. And we'll speak about how some adults do this too, but-
+
+10:49.346 --> 11:18.974
+Almost every kindergarten system that I've inquired about around the world, different nations, they all have this nap time. And any teacher will tell you if one of those children does not nap during that period of time, they are the loose cannon. They are the live wire. And in subsequent episodes, we'll speak about exactly how sleep harnesses and improves our emotional and mental health and how it falls apart when we don't.
+
+11:19.202 --> 11:45.950
+So that's how it certainly is emerging biologically. And that's how we as a society respect that and accommodate that. And then probably by the age of starting school, so sort of five or six, now we're starting to see fully monophasic sleep, children sleeping long bouts at night, and then being able to sustain wakefulness during the day.
+
+11:46.146 --> 12:14.814
+At that point, you have locked in your monophasic pattern and that will continue throughout adulthood and into old age with a few caveats that we'll speak about. So that's how sleep unfolds in the monophasic, biphasic, polyphasic sleep across the lifespan. It doesn't quite tell you, however, how those different stages of sleep change across the lifespan. So I've shown you
+
+12:14.978 --> 12:41.726
+the view of sleep across the lifespan through one lens of the microscope. If we click down one lens and focus more deeply on the different stages of sleep, there we see a fascinating story. In utero, for the most part, you are in a sleep-like state as a fetus once you get to a certain point of development. In utero, that
+
+12:41.858 --> 13:09.726
+sleep-like state seems to be more so something that looks like REM sleep. Now it's not fully fledged full fat REM sleep yet, but it seems to be something very much like REM sleep. I say this because in the first episode, I told you as we go into REM sleep and we start to, as adults, dream, the brain paralyzes the body so that the mind can dream safely. Those kicks and those punches and those elbows that
+
+13:10.114 --> 13:36.062
+a mother will feel from the fetus seem to be during this dream state often. And I don't want to shatter any illusions of you start singing or you're cooing and you get these bumps and these elbows and these legs kicking and it's beautiful. It is beautiful, but it turns out that it's probably the REM sleep state, but the muscle sort of paralysis has not yet developed.
+
+13:36.226 --> 14:04.062
+So you're getting these electrical bursts, this frenetic activity of REM sleep that we described, but you're not getting any of the blockade of the motor output. And so it expresses itself as these kicks and these bumps. And then during the first six months of life, and at that point in the first six months, those infants are sleeping anywhere between 14 to 17 hours a day. That's immense, isn't it?
+
+14:04.290 --> 14:33.758
+I mean, it's right up there. If you look across phylogeny and you ask, which is, by the way, a fascinating topic. At some point, we should do a separate podcast on sleep across different species because I know, like me, you love the whole variety of species. But you've got elephants who will sleep as little as four hours. And then you've got the little brown bat who is the rock star of sleep. And it will sleep almost 17 to 18 hours a day. It nudges out the sloth.
+
+14:33.922 --> 14:56.254
+in that sense. Can I ask you a question about that little brown bat? Yeah. Does it sleep hanging upside down? It does. So it can't have sleep paralysis in its little claws. So it will not have that paralysis, but it goes through the stages of sleep very quickly. And this happens with birds as well. So birds that flock on a branch, they will sleep
+
+14:56.610 --> 15:21.086
+And they sleep in some fascinating ways, sometimes with one half of the brain, sometimes with both halves. But then you say, well, if I'm on a branch and there's this wonderful force called gravity underneath me, and I go into REM sleep and I have that muscle paralysis, which they do, how does that work? Well, they only have very brief REM sleep periods that last just for a few seconds, and then they regain their muscle tone. Got it.
+
+15:21.314 --> 15:41.918
+Couldn't help but ask it. It's genius, isn't it? The flora and the fauna. Oh, I love, don't get me started with that. But especially that the fauna enchant me that much. So I don't want to draw us off course, but now we know that they can, that's why the bats don't fall. That's why the birds don't fall. Correct. Got it. So when you are then as an infant sleeping 14 to 17 hours,
+
+15:42.274 --> 16:12.222
+What's happening with those different stages of sleep, non-REM and REM? At that point, we can't really define and separate the different stages of non-REM because it's not yet fully formed. But we have what looks like a REM sleep active state and a deep non-REM sleep passive state. Almost 50% of the time that an infant, a newborn is asleep is spent in REM sleep. Why do I say that with some kind of wonder in my voice? Because as adults,
+
+16:12.386 --> 16:41.630
+we're perhaps down to maybe 20% of our time spent asleep is in REM sleep, but 50% of the time when an infant is asleep, they are in REM. Why would this be the case? And across all species that have REM and non-REM, the time when we see REM sleep in highest volume amount is always after birth. There is something special about REM sleep and its function during that early period.
+
+16:42.018 --> 17:09.982
+And we now start to understand why. When you are first born, you are still going through a huge amount of brain maturation. And the recipe for the day there, unlike when we are teenagers, is exploding the brain with synapses, all of these connections throughout the brain. What we've discovered is that REM sleep acts as an electrical fertilizer to stimulate
+
+17:10.082 --> 17:27.614
+the growth of these connections within the brain. It's almost as though you could think about an internet service provider with this huge new neighborhood. And the first call of business is to go in and wire up each one of those homes with these fiber optic cables. That's what REM sleep is doing.
+
+17:28.674 --> 17:53.598
+And if you start to deprive, and these were studies done many years ago by Howard Rothfork and others, if you deprive animals of REM sleep, you stunt the developmental growth of the brain. And presumably the whole animal. And yeah, as a consequence, I mean, if you look at its social behavior, even just that, it's profoundly abnormal because you don't have that REM sleep developed brain.
+
+17:53.954 --> 18:23.454
+I mentioned this not because there is any causal evidence, but we have seen REM sleep impairments in certain developmental disorders, such as autism, as well as ADHD. I don't think there is any supportive evidence yet to come out with a claim that part of the trajectory underlying those conditions is abnormalities of REM sleep, but it's a very active area of research. So it's a fascinating time there during infancy when you get these
+
+18:23.650 --> 18:51.454
+huge amounts of REM sleep. Why? Because of what we call synaptogenesis, which is simply the creation of synapsis genesis. Then as you move from six months across the next 18 months, something odd happens. Total sleep time starts to decrease. REM sleep starts to decrease, but non-REM sleep actually increases even though total sleep time is decreasing.
+
+18:51.650 --> 19:13.790
+And there's a strange peak in lighter stage non-REM, what we call stage two non-REM, and those sleep spindles that I was describing in the first episode, these bursts of electrical activity. We will speak about the role of those sleep spindles in improving motor skill learning. And we've done many, many years of work in this area.
+
+19:13.890 --> 19:42.622
+Why is that relevant to this phase of life? That's right around the time when infants start to coordinate their limbs in a skilled way and begin to walk. And we believe that it is part of the process of the development of the motor system enabling walking to begin. Amazing. So then things will change further. Sleep time continues to decrease. And by about age five or six, now the
+
+19:42.722 --> 20:04.446
+cocktail blend of non-REM and REM is down to a stable ratio that will remain throughout the lifespan, which is a four to one ratio. So about 20% of the time that you're asleep will be REM sleep and the remaining time will be 80% of the time will be non-REM sleep. Provided one is getting sufficient
+
+20:04.578 --> 20:25.822
+Total amounts of sleep. Correct. And getting it at the right moments in time that we described in the first episode, getting that sort of that appropriate chronotype match to the 24 hour clock, that will certainly alter those things too. So that's how sleep unfolds both at the first level of the lens, monophasic,
+
+20:25.986 --> 20:55.326
+biphasic, polyphasic, and then double clicking how the different stages of sleep unfold and what the reasons are behind that. I then said, once we're adults, we become monophasic. Yes, to a degree, but there is some contention about the way that we sleep in modernity, that we may not be sleeping in the way that we were designed to sleep, which brings us back to biphasic sleep.
+
+20:55.458 --> 21:23.838
+In the first episode, we spoke about this strange afternoon dip in our alertness that happens called the postprandial dip. And it happened somewhere between the one to 4 p.m. region and it's measurable and it seems to be biologically wired into us. If you look at certain cultures that are not touched by modernity, so we know this have studied hunter gatherer tribes, they don't quite sleep the way that we do.
+
+21:24.098 --> 21:48.638
+And they don't sleep the way that we do for at least two reasons. The first is that they will often have a siesta-like pattern of behavior, where especially in the hot, dry season, they will take a nap in the afternoon. In the wet, cooler season, that may not be the case. But they certainly have more of a biphasic pattern where they'll sleep longer at night and then have a short nap.
+
+21:48.994 --> 22:17.342
+siesta-like. And then of course there are Latin and Mediterranean cultures and they have this practice of the siesta-like behavior. Coming back to the hunter-gatherer tribes, the way that they also do not sleep in a similar manner to that which we do is their timing of sleep. They don't go to sleep as the sun goes down. They will usually, on average as a group, they will usually go to sleep about two hours after sundown. And then they will wake up
+
+22:17.570 --> 22:46.750
+Not with the rising of the sun. They wake up just before that. And you think, are they predictive of the light? No. The thing that changes first before the sun truly rises is temperature. And temperature is a very strong predictor that forces them awake. So when you think about how they're sleeping then, consider the term midnight. Most of us never really think about what the term means.
+
+22:47.298 --> 23:16.446
+Midnight refers to the fact that it is the middle of the night. But for most of us in the modern world, that's the time when we're thinking about sending our last email or posting to social media. Midnight is no longer midnight for society, but it is for them. So should we be thinking about midnight as the middle of the night in the context of the extreme early person, morning person who, you know,
+
+23:16.770 --> 23:44.958
+and presumably likes to go to bed around 8 p.m., wake up around 4 a.m. Most people hear 4 a.m. and they go, oh, goodness, that's early. Sort of like the mighty Jocko Willink is famous for posting images of his digital watch. Usually I think it's 4.30 a.m. wake up and that's when he starts his workout. So his Twitter, I guess they call it X now feed, and Instagram is replete with images of his watch 4.30 and people think, goodness, that's early. Right.
+
+23:45.250 --> 24:09.406
+He was a guest on this podcast, spoken to him before, but he goes to bed pretty early. That's right. Most nights. So in some sense, midnight for him or for somebody with a similar schedule is truly middle of the night. That's right. But for the other chronotypes, for people that prefer to go to sleep or who naturally get sleepy around 10 or 11 p.m. or even later, how should they...
+
+24:09.634 --> 24:38.430
+think about this biphasic, polyphasic business, because at some level, we all have to reconcile our sleep schedule with the demands of work and family and so on. That's right. So I was very specific when I said the hunter-gatherer tribes, on average, that's the way that they will sleep. But like the rest of society, there's a huge distribution. And there will be some proportion of them who are a little bit like Jocko, who will be
+
+24:38.626 --> 25:07.710
+on the early side of that, on the very early side of that. But then there are other people who are clear night owls and they may not be going to bed until 10 or 11 and waking up later. So there is a distribution there. You don't have to worry that my statement of midnight on average, that does seem to be when we are dislocated from all of the trappings of modernity, how a group of representative humans
+
+25:07.842 --> 25:33.662
+on average will sleep. But there is huge, as I said, differences from one individual to the next. By the way, you can ask the question, why do we have these things called chronotypes? Why is there such variability in how people have a preference for when they sleep? Wouldn't it just be easier if biology designed us all to be asleep at the same time? Not so.
+
+25:34.178 --> 26:01.438
+We mentioned in the first episode that sleep is truly idiotic in the sense that, you know, you're not protecting yourself or the people that you care about. And if everyone slept at the same moment in time, you as a collective and as an individual would be vulnerable for an eight hour period, seven to nine hour period. But by way of this wonderful injection of variability,
+
+26:01.570 --> 26:28.510
+as to preferences for when people sleep. Maybe there are some people who are going to bed at 8 p.m. and there are other people and they're waking up at 4 a.m. There are other people who go to bed at midnight and wake up at 8 a.m. So then think about that. At some point, what you've done is that there will always be someone or a collection of people awake until midnight and there will always be a collection of people who are awake starting at 4 a.m.
+
+26:28.610 --> 26:56.798
+So as an individual, everyone gets their eight-hour opportunity. But as a collective, as a clan, you've reduced your vulnerability down by 50% because Mother Nature injected the variability by way of genetics of chronotype to distribute that and lessen the burden. Does that make any sense? It does. And it reminds me of how the circadian rhythm, which we discussed in episode one, is about vulnerability.
+
+26:57.026 --> 27:22.622
+24 hours, not exactly 24 hours. The rhythm of the suprachiasmatic nucleus neurons that generate the circadian rhythm, as I recall, is rarely exactly 24 hours. It's 24.2 or 24.4. And the idea in mind, the just so story, is that that variation allows for entrainment matching to the outside light-dark cycle, which changes across the year. So you don't want it rigidly
+
+27:22.818 --> 27:51.710
+24 hours, because if there's any variation in light-dark, which of course there is, you know, even at the equator across the year, there's subtle variations, but certainly as you move away from the equator. And so these, these variations and, you know, your circadian rhythm clock SCN, suprachiasmatic nucleus might be 24.2. Mine might be 24.6, 24, someone else 24.1. And in that sense, allows some malleability to
+
+27:51.810 --> 28:14.558
+to matching the circadian rhythm to outside like dark rhythms. Is that a decent parallel for what we're talking about here? It is, it's a beautiful demonstration that there is always some, it's almost wiggle room in how biology is programmed because some degree of sort of noise, almost stochastic noise can be very beneficial.
+
+28:15.042 --> 28:43.486
+And it's much more predictive of the way in which the world works. And it's much more adaptive for a species to enact and to embrace that kind of variability. And yours was a beautiful example that it's about 24 hours, but it's certainly responsive to changes in light duration across the year. And it has to be because we need to buckle ourselves to the light dark cycle for optimal survival.
+
+28:43.586 --> 29:08.990
+And here's another demonstration of where it's not about the circadian rhythm, but it's about the chronotype distribution, not within an individual across the year, but across individuals at any one moment in time. And that variability once again provides a biological benefit. In the first episode, and again now,
+
+29:09.570 --> 29:35.934
+you were discussing chronotypes. And one thing that I've been meaning to ask is, you said that chronotype is genetically determined, but does that necessarily mean it is directly inherited from mom and or dad? Meaning, if your parents are both extreme early morning types, will you grow up to be an extreme early morning type? You already established that during infancy and development, adolescence, et cetera, that our chronotype
+
+29:36.738 --> 30:05.918
+is somewhat masked by some of the developmental necessities. But once we reach young adulthood and our chronotype has been established, can we look to our parents to determine whether or not we are more likely to be a morning person or a late shifted? It's very unlikely to find anyone whose parents were both extreme morning types, who is a neutral or an evening type
+
+30:06.402 --> 30:34.110
+and vice versa. So my guess is that people with, if they know of their biological parents and they know of their rhythms, it's highly likely that you will at some point acquiesce in your lifetime to being very similar to them. Now, there are certain life conditions and contexts where you can fight that. If you're really into, if you're someone who is in
+
+30:35.330 --> 30:57.438
+punk rock band and you're touring all the time, even though your mom and dad may be morning types and you may be a morning type, you're on the road, you're playing gigs, there's no chance. But at some point, let's say you retire and you give yourself the opportunity to express your natural rhythm, you will go back to that. So yes, it's highly genetic. It's not...
+
+30:57.570 --> 31:23.742
+entirely genetic. There is some degree of modification that happens on the basis of context. And I've just given you a good example of context and also your exposure to light. You can be someone who is, let's say a neutral like me, but if you're constantly invaded by electric light at night, you're drinking too much caffeine and you're on your laptop and your computer and your phone and you're
+
+31:24.322 --> 31:53.886
+always activated by social media. It's very easy for someone like me to drift and become a 1 a.m. to 9 a.m. person. That's not my natural type, but context and the environment have shifted me. But for the most part, yes to your question. I'd like to take a brief break and acknowledge our sponsor, AG1. AG1 is a vitamin mineral probiotic drink that also contains adaptogens and is designed to meet all of your foundational nutritional needs.
+
+31:54.114 --> 32:16.158
+By now, I'm sure you've all heard me say that I've been taking AG1 since 2012, and indeed that is true. Now, of course, I do consume regular whole foods every day. I strive to get those foods mostly from unprocessed or minimally processed sources. However, I do find it hard to get enough servings of fruits and vegetables each day. So with AG1, I ensure that I get enough of the vitamins, minerals,
+
+32:16.258 --> 32:41.598
+prebiotic fiber, and other things typically found in fruits or vegetables, and of course, I still make sure to eat fruits and vegetables, and in that way, provide a sort of insurance that I'm getting enough of what I need. In addition, the adaptogens and other micronutrients in AG1 really help buffer against stress and ensure that the cells and organs and tissues of my body are getting the things they need. People often ask me that if they were going to take just one supplement, what that supplement should be, and I always answer AG1.
+
+32:41.762 --> 33:08.094
+If you'd like to try AG1, you can go to drinkag1.com slash Huberman to claim a special offer. You'll get five free travel packs plus a year's supply of vitamin D3 K2. Again, that's drinkag1.com slash Huberman. Okay, so getting back to these different phase opportunities for sleep. Clearly, I'm getting the language wrong here, but monophasic, biphasic, and polyphasic.
+
+33:08.994 --> 33:37.950
+Give us a few more examples of different types of biphasic and polyphasic sleep. So coming back to biphasic sleep, I described one version once we are adults, which is the siesta-like notion. One long bout at night, short a bout during the day. And that bout during the day is usually matching that drop in alertness that we described. It sort of hits that sweet spot right there. And it's quite easy for some people to fall asleep in a period of time.
+
+33:38.082 --> 34:06.206
+Somewhere between one and four. One to four, yeah. And I know it's a large window, but that just allows us to sort of know, okay, if you're someone like yourself, who's a morning type, you would probably start to want to nap a little bit earlier if you were biphasic. Someone like me, a neutral, probably an hour and a half, two hours later still. But there is a different version of biphasic sleep for adults that has been described in the literature, and it's
+
+34:06.498 --> 34:34.174
+fascinating, but I don't think it's biological. It's the notion that some people will have heard called first sleep, second sleep. And now you are splitting your sleep into two phases, but they're split across the night. So the idea is that you fall asleep and you'll maybe have four-ish hours and then you wake up and you then are awake for several hours.
+
+34:34.338 --> 35:03.294
+and then you go back to sleep for another three or four hours. If you look in history, in the record of human history, it's very clear that there were some cultures doing this, particularly if you look at some of the European cultures, Great Britain in particular, there is good evidence that somewhere between about the 15th to 19th century seems to have ended during the kind of Dickensian era. People were describing this behavior
+
+35:03.394 --> 35:32.254
+And they would wake up in the middle of the night after about four hours, they would make food, they would play music, they would write, they would make love. It was a real thing. And I'm not suggesting that it did not happen. It clearly did. And there's a great book that outlines this. But is it the way that we were designed to sleep biphasically versus the siesta-like? And I don't think it is. There is no good collection of evidence
+
+35:32.674 --> 35:58.910
+if you look at the biology of our human rhythms, that argues that there is this magical period of a huge spike in our circadian rhythm that happens right in the middle of the night that should force us awake. There is one paper that's often cited for this. And in truth, that paper, if you read it, says nothing about first sleep, second sleep, doesn't speak about biphasic sleep at all.
+
+35:59.554 --> 36:23.422
+That paper, I think, is unfairly used as a justification of first sleep and second sleep. And the paper to me has at least three problems. It's a great paper. There's no problem with the paper and its hypothesis, but its use as justification for first sleep, second sleep has three problems. The first is the artificial nature of the study. They weren't designing it to
+
+36:23.522 --> 36:51.582
+test the hypothesis, but they had individuals in bed for 14 hours straight relative to a standard eight hour period. And sure enough, what they found was that when you force people night after night to be in bed for 14 hours, somewhere after about six or seven hours, they wake up. And then you can't get out of bed in the study. So you just lie awake. And then at some point, I don't know if it's through boredom or
+
+36:51.682 --> 37:01.982
+you drift back off into sleep. And that was argued as a clear demonstration of this split sleep. But as I said, they're awake usually for about six and a half, seven hours.
+
+37:03.234 --> 37:31.678
+Also, there was no magical awakening period. It's a probability distribution. And what that means is if you look at the data, it's just more likely that people will wake up after about six or seven hours, and then more likely that they will go back down into sleep. It wasn't as though the whole experiment demonstrated a very clear termination of sleep that everyone had at that moment in time. So that's the first issue. And the second issue, which is first issue,
+
+37:31.938 --> 38:00.030
+kind of an abnormal thing, 14 hours forced in bed. The second is it wasn't a clear separation. It's just simply higher probability. The final issue is that it was a study done in only seven individuals, healthy males. And so I have yet to see it scaled up. Did it happen first sleep, second sleep? Yes, it did. Is there any strong evidence that that's how we naturally were designed and have evolved to sleep?
+
+38:00.962 --> 38:29.374
+In truth, I don't think so. At least I don't see good evidence right now supporting that, but remain open to it. In episode one, we talked a little bit about body position during sleep and how different degrees of incline or decline might impact some of the features of sleep. And I can't help but ask now, as you describe this biphasic pattern for people that were essentially experimentally restricted to the bed,
+
+38:29.986 --> 38:58.302
+Is there something about being horizontal that makes us sleepy? There is, and it's perhaps not for the reasons that you would think, which is, okay, I'm just pre-programmed when I lie down and my head hits the pillow. It turns out that it seems to be temperature, that when your body is recumbent, lying flat, horizontal, the distribution of how your body is able to move blood around
+
+38:58.530 --> 39:27.262
+the different regions and decrease your core body temperature, meaning it can push blood, warm blood out of the core of your body to these surface areas. And when you push it out to the surface areas, you release that heat. It's this huge thermal dissipation that happens when we move blood out of the core to the surface, you emit that heat and your core body temperature plummets. When your body temperature, your core body temperature decreases,
+
+39:27.426 --> 39:56.734
+you have a higher likelihood of sleepiness. In fact, it's very difficult for you to fall asleep if your core body temperature does not drop. And by lying down the body's, what we call vasoactive ability to distribute that blood in a way that is permissive for thermal dissipation of core body temperature is superior. And that's the reason why we find it easier to fall asleep lying down than
+
+39:56.994 --> 40:23.678
+let's say semi-recumbent or certainly propped all the way up. And it's probably the reason naturally we evolved just to lie down on the floor. Very interesting. Maybe now's a good time to talk about biphasic sleep in the context of a bout of sleep at night and the afternoon nap. You've mentioned this post-perrandial dip that most people experience between one and 4 p.m.,
+
+40:23.810 --> 40:53.534
+that many people try and combat with caffeine. We will also talk about caffeine this episode. Such an interesting substance. And I think the most commonly used drug, it is a drug after all worldwide. I think more than 90% of adults worldwide consume caffeine on a daily basis. That's correct. And I believe it is after oil, it may be perhaps the second or at least the third most traded commodity on this planet.
+
+40:53.666 --> 41:17.214
+And it is what we call a psychoactive stimulant. It is a stimulant. And it's probably one of the only stimulants that we will readily give to our children and not be too concerned about it. We'll get to caffeine in depth a little bit later in this episode, but I can't help but just mention that someone, I think it was Michael Pollan, said that caffeine is one of the few drugs that
+
+41:17.410 --> 41:43.582
+almost everybody takes just to quote unquote, feel normal. Yeah, exactly. You know, it's sort of, I think sometimes, you know, sleep deprivation is simply just the absence of caffeine. And so it's a very interesting chemical, which I have in truth changed my mind on. And I'm happy to speak about why I've changed my mind, but also some guardrails too.
+
+41:44.066 --> 42:14.014
+We'll go there. Meanwhile, I'll take a sip of my triple espresso here as we discuss naps. Are naps good for us? Should we nap? What if we don't like naps? Why do we wake up from naps groggy sometimes and other times we feel refreshed? Tell us about napping. Naps are both good and bad depending on the situation. Naps can be a double-edged sword, in other words.
+
+42:14.306 --> 42:42.206
+We and others have done lots of studies on naps and the benefits are fascinating and stunning. I'll tell you about one study we did. We had participants assigned to one of two groups and at midday, they all learned a whole list of new facts. So it was a study about learning and memory. And then one group took a 90 minute sleep opportunity, sort of focused right around that drop in alertness. The other just remained awake,
+
+42:42.338 --> 43:09.182
+lying on a bed and they just watched a nature documentary. And then five hours later, we had them do another learning session. And so they've woken up after the 90 minute nap, they've got through that sort of initial lull that we'll discuss what that is after you wake up. Everyone's now back to operating temperature. So in other words, I've had you try to cram in a whole list of facts
+
+43:09.282 --> 43:33.150
+at midday and then a whole list of facts, new facts again at 5 p.m. And I can ask, what is the learning capacity of your brain at midday and at 5 p.m.? And is there any difference in your learning ability when you have had a nap in between versus not? And sure enough, what happened in the group that did not nap, their learning capacity gradually declined across the day.
+
+43:33.922 --> 43:58.014
+The Knapp group, they were able to sustain their learning and in fact, if anything, improve it. And the difference between those two groups at 5 p.m. was about 20%. So that's certainly non-trivial in terms of if you were to say, you know, here's a new compound that can boost your learning capacity by 20%, would you take it? I suspect it would probably make some money. So...
+
+43:58.402 --> 44:27.518
+That's a demonstration of full learning and memory. We did another study very much like that in terms of its design, but we looked at your emotional brain. And we were showing people different types of emotional expressions and having them rate them. And we did that firstly before a nap and then after a nap versus that same time in sort of midday versus 5 p.m. and another group did not nap. And sure enough, the group that did not nap
+
+44:27.618 --> 44:57.150
+by about 5 p.m., they were starting to rate fearful faces and angry faces as much more fearful and much more angry. But if you looked at the group that napped, it was different. They actually lessened the response to fear and they blunted the normal increase in anger sensitivity across the day. And the nap seemed to boost how positively you rated happy faces.
+
+44:57.346 --> 45:26.590
+So a nap there had the ability to reset the magnetic north of your emotional compass. And there was a beneficial, almost added rose tint to your worldview glasses after you'd napped. What was also interesting in those two studies, two different types of sleep were transacting those benefits. In the nap group that was doing the learning, the learning benefit that they got wasn't just about them napping and sleeping.
+
+45:26.690 --> 45:55.870
+it was about them having these sleep spindles. The more of those sleep spindles that you had, the greater the restoration of your learning capacity when you wake up. For the emotional recalibration that I described in the nap, that had nothing to do with sleep spindles or even non-REM sleep. It required REM sleep to produce that benefit. So there are certainly many benefits and we've looked downstairs in the body, blood pressure, cardiovascular measures, immune health,
+
+45:56.002 --> 46:24.510
+they all seem to benefit. So at that point, everyone may be thinking, of course, this sounds good. Not to mention the basics, which is your attention, your concentration, your focus, and your energy all improve by way of naps. Even your decision-making. You said decision-making. Yeah. Even your decision-making is improved. So your capacity to make the correct decisional outcomes based on this weight of evidence that you're facing, that's also improved. So
+
+46:24.898 --> 46:54.078
+Almost all areas of cognition that we've looked at and many areas of your emotional and mood health we've looked at seem to benefit by way of a nap. At that point, you're thinking, so then what's the problem? The problem is that when you nap, you release some of that sleep pressure that's been building up. So in the first episode, we spoke about a chemical called adenosine. And the longer that you're awake, the more adenosine that builds up.
+
+46:54.466 --> 47:21.566
+the more adenosine that builds up, the sleepier you will feel. And after about 16 hours of being awake, you should have lots of healthy sleepiness of adenosine in your brain to put you asleep and keep you asleep. And when we sleep, we are able to clear that adenosine from the brain. So we wake up after seven to nine hours. And if it's been good quality sleep, we're refreshed because we've cleansed the brain in part of that adenosine. When you take a nap,
+
+47:22.690 --> 47:50.206
+like a pressure valve on a steam cooker, you just release some of that healthy sleepiness that you've been building up. So the dark side of napping is if you are struggling with sleep and you suffer from insomnia, the advice is do not nap during the day because you're setting yourself up for an even higher probability of failure at night. Why? Because when you nap, you release some of that
+
+47:50.306 --> 48:15.230
+good sleepiness that we need to build up for you as someone who is struggling with sleep to give you the greatest chance of a weight of sleepiness on your shoulders. So if you are not struggling with sleep and you can nap regularly, I would say naps are just fine. And we can unpack what is an optimal nap and the protocol for what napping should be. I would say that's great. The only caveat is
+
+48:15.330 --> 48:43.678
+make sure that you're not napping too late into the day. And this is one of the components of the protocol of how to nap because napping late in the day is too close to sleep. And you can think of it almost like snacking before your main meal. A nap late in the day just takes the appetite edge off your sleepiness so that when it comes time for sleep, you're not as hungry anymore. So just keep that in mind, but we can unpack
+
+48:44.130 --> 49:14.014
+perhaps the optimal way to nap if you are going to nap and exactly the do's and the don'ts of that, if that sounds of somewhat interest. Yeah, that is of immense interest to me. And I know many other people. I'm a huge believer in naps. I've always enjoyed short naps of about 10 to 30 minutes, unless I'm somehow sleep deprived, in which case I will sleep for an hour or even a little bit more. But I make sure I set an alarm really based on
+
+49:14.178 --> 49:43.070
+advice that you gave me, which was to first of all, decide whether or not a nap is beneficial for me or for whoever is considering that. But then to make sure that however long that nap is, zero to 90 minutes, that it not be longer than 90 minutes, because the real goal is to not disrupt nighttime sleep. That's right. Which is essentially just a more long-winded way of saying what you just said. So how does one determine the optimal duration of nap?
+
+49:43.234 --> 50:11.262
+And in particular, to avoid the problem of disrupting nighttime sleep by napping, but also this rather common phenomenon of waking up and feeling kind of groggy or even kind of grumpy. And that the post-nap face, or we should call it the post-nap expression. PNE, right, the PNE. What's your PNE? Or do you wake up in the... For morning too, some people wake up and they're like,
+
+50:12.386 --> 50:41.918
+that face. And then there's the like, good morning. You know, and I think people that wake up with the good morning are particularly delightful, unless you're of the post nap expression that is kind of the crumpled face. And then you just, you don't want to be around those people. Yeah. Yeah. And this probably relates to spirit animals and things like that. Some people wake up like a, like a cheerful chipmunk and other people seem to wake up like my bulldog Costello where it's, you know, jowls still in contact with the floor. Yeah. So I'm,
+
+50:42.018 --> 51:11.294
+I'm trying to hold it together and not absolutely just fall apart. It's brilliant. Please trademark it. So firstly, to your question, how to optimally nap. The word optimal is interesting because when people say, how long should I nap? What's the optimal nap duration? The question I have back to them is, what are you trying to optimize? Because once I understand what you're trying to optimize, I can give you a better understanding
+
+51:11.586 --> 51:23.102
+prescription, non-medical I'm talking about here, a better sort of protocol piece of advice for how to nap. I mentioned the study about emotional faces in part for a specific reason.
+
+51:23.586 --> 51:52.350
+because I told you there the benefit came by way, not of non-REM sleep, but REM sleep. And in our first episode, we said that when you go through these on average 90 minute cycles, you get most of your non-REM sleep first, and then you'll have this bout of REM sleep at the end. And it always seems to go that way when you are a healthy, normal person. You go into non-REM sleep and then you go into REM sleep. It's very rare that you ever go directly into REM sleep. There are only two reasons when that seems to happen. The first is a,
+
+51:52.674 --> 52:20.702
+clinical condition called narcolepsy where you can have sleep onset REM sleep and it's very rare. The second is if you are horrifically deprived of REM sleep night after night after night, I let you sleep then. At that point, REM sleep, the pressure for REM sleep has been built to the point of being almost just insatiable and your brain goes straight into REM sleep. But with those two things aside, you go into non-REM sleep first.
+
+52:20.802 --> 52:46.046
+So I brought up the emotional study of resetting your sort of mood compass because to get that REM sleep, you had to nap for a longer period of time because you had to get through the non-REM sleep first before you get the REM sleep. But let's come back to then assuming optimal is for most people when they speak about naps, I just want the quick reboot
+
+52:46.306 --> 53:14.238
+I want my alertness and concentration, which are failing because I'm staring at the screen or I just can't concentrate on the work that I'm doing. I want my alertness and my concentration to be improved. I want that sort of slight boost in brain energy where I know I can sustain myself for now a longer period of time. And I've got the motivation, which is really in some ways how I like to think about energy as well. I've got the motivation, the drive to keep going, which is just starting to fail me.
+
+53:15.266 --> 53:44.510
+To get those basic things, which is what most people nap for, aim for a 20 minute nap. Why 20 minutes? If I thin slice the nap duration and those studies have been done where we look at essentially what's called a dose response curve. I give you five minutes of a nap, 10 minutes of a nap, 15 minutes, 20 minutes, 30 minutes, 45 minutes, 90 minutes. After five or 10 minutes, you don't really get very much. You will wake up and you'll have
+
+53:44.738 --> 54:09.342
+some degree of improved alertness and your basic reaction time may be a little bit quicker, but that fades very quickly and you don't sustain that benefit. Once you get past about 15 to 17 minutes, now things start to look different. You get these nice benefits for concentration alertness and motivation and those things sustain. So once you wake up out of that,
+
+54:09.858 --> 54:37.502
+probably really, I would say 20 minute nap. At that point, you've got some good wind in your concentration and energy sales for the brain. And that will sustain you throughout the rest of the afternoon and into the evening. The benefit of the 20 minute nap is that you don't get the PNE, trademark Andrew Huberman. You don't get that
+
+54:37.730 --> 55:06.238
+almost sleep hangover. So some people will say, it's strange. I nap, maybe I'll nap 45 minutes, 15 minutes and I wake up and to be honest, Matt, I almost feel worse after the nap than I did before. And I don't understand it. It's something called sleep inertia. And an extreme version of this is in the first two hours of your night of sleep, you get a phone call or an alarm goes off
+
+55:06.786 --> 55:35.902
+and you wake up and you are just kind of lost in the ocean. You're looking around at your surroundings. You're just in this groggy state. You're half awake, half asleep and you can respond and you can do things, but boy, does it feel miserable. And it's almost as though you're going from the ground floor right up to the penthouse suite, but you get stuck somewhere in between kind of, you know, floor 13 and it's this rough state. If you go out,
+
+55:36.194 --> 56:02.238
+into sleep, light stage one non-REM, then stage two non-REM. And just before you get into the very deeper stages of non-REM, three and four, that starts to happen around 30 to 40 minutes for most people. But by cutting your nap off at 20 minutes, you still get these nice benefits from a good chunk of healthy non-REM sleep, but you're not going so far into the cycle, so deep.
+
+56:02.338 --> 56:25.790
+deep into your non-REM that when you wake up after 20 minutes, you're not in that, what we call sleep inertia phase, that sleep grogginess, that sleep hangover phase. So it's a nice benefit that you get all of these improvements in your brain, but you wake up and very quickly you're back up to operating temperature and you don't suffer that inertia. Now that's not to say that when you sleep or you nap
+
+56:25.890 --> 56:48.222
+longer, you don't start to get more benefits, you do. And those benefits are both greater in their magnitude and sustain for a longer period of time. They do. It's just that you have to understand the trade-off that you will suffer, which is I will get more bang for my buck and I will get more benefits, but I
+
+56:48.354 --> 57:17.726
+I will in the first sort of hour or so have to understand that at that point, I may even be functioning worse than that which I did before I even started napping. But if you're patient and you go through it, the rewards on the other side are significantly better still. So that's the first piece of advice. And when it comes to how to nap, I would say the dose and the timing make the poison and poison is hyperbole and
+
+57:17.858 --> 57:45.182
+It's simply just the poison being how much sleep inertia you're going to suffer. So aim for about 20 minutes. That's the dose. The timing comes back to that which we described before. Do not nap too late into the day. So what's the rule of thumb here for a protocol? On average, for the average adult, I would say don't nap after about 3 p.m. 20 minute naps, sometime between 3 p.m.
+
+57:45.282 --> 58:15.102
+And if you're struggling with sleep, don't do this at all. If you're not and you're able to get to sleep fine, this seems to be a good ingredient for the basic return on your investment. Again, if you tell me what's the optimal nap duration, we need to have a conversation to understand what is it that you're going after here? What are the benefits? And then I can sort of, you know, create a finger buffet kaleidoscope match to what you need. And we can think about the nap duration as a consequence.
+
+58:15.874 --> 58:40.286
+Thank you. That's very informative. I have a colleague at Stanford who's a Howard Hughes investigator, which for those that don't know is a rather elite club of academic researcher. They have to essentially try out for it. Every five years they go up for renewal. It's a lot of money, which gives them a greater capacity to take on greater risk work, higher risk work.
+
+58:40.386 --> 59:00.894
+And he's also a member of the National Academy. And he was one of these people who graduated high school at 15 years of age, one of these phenoms. And he is so religious about his napping such that when he travels to give seminars at other schools, he insists that they schedule a nap time for him after lunch. And in his office, you know,
+
+59:01.090 --> 59:30.174
+at between 12.30 and 1 p.m., he's napping. Everyone knows this. And I mention this because I think that oftentimes people think of the nappers as the lazy ones, but his output is near superhuman. And he attributes much of that output to the nap, not just the post-nap work that he's able to perform, but his ability to just kind of manage so many ideas. He has an enormous laboratory. And that's just one example. I think there are examples from sport of...
+
+59:30.306 --> 59:54.814
+sprinters taking naps on the, you know, on the side of the track field. I mean, so it seems that a capacity to nap is also something worth considering because I think many people listening to this are thinking, well, I can't nap. Should I nap? You know, and can one teach themselves to nap? So that's the question, if one would want to explore napping. And is that something that
+
+59:55.234 --> 01:00:18.462
+one should even consider doing. If you don't have a propensity to nap, should you avoid it? If you want to try naps, how could one teach oneself to nap? You just mentioned earlier lying down relates to body temperature, body temperature relates to sleepiness. And then as a third question, I promise I'll repeat these if we need to. As a third question, I'd like to have a little bit of a discussion about some of the pseudo-nap states
+
+01:00:18.754 --> 01:00:47.486
+that I certainly am intrigued by, for instance, just lying down and I'm doing a progressive bodily relaxation, things like yoga nidra, non-sleep deep rest, which is an acronym I coined simply to make it clear what I was talking about, but it's very similar to yoga nidra, things of that sort. In other words, put simply, should everyone think about having an early to mid-afternoon protocol to reset their cognition in their body? We call it a nap.
+
+01:00:47.650 --> 01:01:13.822
+but does it have to be a nap? And if we're not good nappers, should we try? And if so, how should we go about it? Yeah, so to your three questions, firstly, if you're not a natural napper, should you start doing it? If you want to start doing it, how should you do it? And then the third is, is there some kind of substitute for a like kind, which would be these, I love the phraseology that you use, these liminal states,
+
+01:01:14.114 --> 01:01:24.062
+Do they mimic that? Are they different to that? How should we think about those? The first thing I would say to point number one, if you are not a natural napper
+
+01:01:24.674 --> 01:01:52.990
+Don't necessarily force yourself to be, as long as you're getting the sleep that you feel you need at night and you feel refreshed and restored during the day. And you don't have that sort of postprandial drop to the point of thinking, I almost need to nap during the day. There is no pressure based on anything I've been telling you for you to start napping, nor should there be any reason that you do start napping. But let's say that you want to try what would be the right protocol to improve and
+
+01:01:53.666 --> 01:02:23.518
+increase the likelihood. The best way you can do this is to mimic nighttime as best you can. So wherever you are, if you can, shut off the lights, make sure that you can block out, you know, curtains, blinds. If you can't do that fully, and many people won't be able to, develop an eye mask procedure. So put an eye mask on, make sure you block out noise, earplugs,
+
+01:02:24.034 --> 01:02:48.446
+You can use a sound machine if you want, and we can speak about sound machines and whether or not they're good or bad on sleep. And then you can lie down, make sure that you try to take your shoes off and get under some kind of a blanket because we're so contextually cued by having something wrapped around us called a blanket or a duvet that to do it without that,
+
+01:02:48.546 --> 01:03:18.366
+if you are not a natural napper, can help you again. Some people will say, I can just kick my feet up on my desk, sit back in my reclining chair in the office, and I can fall asleep. That's great. But if you're not a natural person, I'm just trying to tell you things that increase the probability of that. And then set the alarm. I like your idea of making sure that if you do fall asleep, you don't accidentally go too long and then just feel miserable. So mimic the conditions that you're trying to get that you would normally get
+
+01:03:18.466 --> 01:03:47.038
+at night, that will increase the probability. Mask out noise, mask out light, kick your shoes off, have some kind of a blanket wrapping around you. That's probably the best. And then time it based on this sort of postprandial drop. You will know yourself. Everyone has fallen prey to it. You know, it's usually around about three, 4 p.m. that I do start to feel this decline or it's around 1 p.m. Try to match it.
+
+01:03:47.266 --> 01:04:11.518
+in accordance with that. So those are the first, I think, two questions. Should you, not necessarily, if you would like to, and are not normally doing it, how can you do it? The final point I think is fascinating, which is these alternate states of conscious brain activity. The most obvious is when we're awake and when we're asleep. Those are the
+
+01:04:11.906 --> 01:04:41.374
+two most dramatic changes in consciousness that we experience on a daily basis, short of anesthesia. I've become like you very fascinated by these sort of both meditative states or these liminal states. I think at some point you and I should collaborate and we should do some work and really unpack this. But the reason I find this interesting is because I'm going to guess you are having sleep-like states, but you are not fully asleep.
+
+01:04:41.890 --> 01:05:08.286
+how would I define a sleep-like state? What we've learned is that your brain, the way it sleeps, isn't on mass. It's not as though your entire brain sleeps. Different territories of your brain can sleep in different ways. And what we've also known, and there's some argument, even individual brain cells seem to have a period where they go into sleep.
+
+01:05:08.418 --> 01:05:34.110
+And these individual neurons will start to show what look like these beautiful, big, powerful, deep, slow waves in terms of their firing rate, at least in terms of those neurons firing away. I bring this up because if that means that your brain can have local sleep rather than global sleep, if you are in global sleep, you're out like a light. You are asleep.
+
+01:05:35.266 --> 01:06:02.942
+Perhaps these liminal states, the reason that they give these benefits is because you are still awake, not global sleep. So if you're in global sleep, you're asleep, but you're awake, so you're not in global sleep, but you may be having local sleep. Now using special setups in my laboratory, we can apply tens, maybe hundreds of electrodes all over your head and we can map the sort of the different levels
+
+01:06:03.106 --> 01:06:30.238
+places where your brain is having sleep in much higher resolution. So rather than a 480 DPI movie on YouTube, I'm now in 4K resolution. I can really dismantle what's going on analytically in your brain. I'm going to guess that when you're going into these states and you report coming out of those states, and I ask you on a scale of one to 10, how would you rate that
+
+01:06:30.530 --> 01:06:52.830
+as an experience based on your common experience. The greater the intensity of the liminal benefit and state that you experienced, I'm going to predict is directly related to the extent of this local deep non-REM slow wave sleep that's happening. You're still awake, but some parts of your brain for maybe seconds of time
+
+01:06:52.962 --> 01:07:13.406
+or maybe even tens of seconds of time, I'm going to bed, will be oscillating in what look like slow wave sleep, deep sleep states. And if all I would be able to look at is that one part of your brain and that small cluster of electrodes, and someone said to me, is this person awake or asleep? I would say, oh, they're asleep. They're in deep sleep.
+
+01:07:13.730 --> 01:07:40.734
+But then if you slowly reveal and back out and show me the rest of the brain and what it's doing, I would say, oh my goodness, no, this person must be awake. But that local territory, that district up there in their brain, they were having slow wave sleep. I think that's what we could find. And that may predict some of the benefits that you get, some of the productivity energy benefits. By the way, I should note that with all of this nap,
+
+01:07:40.962 --> 01:08:10.910
+NASA figured this out back in the 1980s. They were looking at ways to optimize their astronauts because when you are up in orbit, depending on what orbit you're in, you are rotating around the planet maybe 10, 20 times per 24 hours. So you're seeing 10 to 20 sunsets and sunrises. So your sleep is a total mess. And you can safety check almost everything in terms of technology.
+
+01:08:11.266 --> 01:08:30.686
+But the one weak link in a space mission is this thing called the human being. That's where errors typically happen. So how do you de-risk a human error up in space? Because if you make an error up there, I mean, on the ground, not great up there, kind of catastrophic. You can try to optimize
+
+01:08:30.881 --> 01:09:00.318
+their ability to sleep and their ability to maintain focus, concentration, alertness, and productivity. And what they found was that these naps produced almost a 20% boost in short naps, 20% boost in their alertness, and almost a 50% boost in their task productivity. And it was so powerful that it translated to the terrestrial employees of NASA on the ground, and it became what was known as the NASA nap culture.
+
+01:09:00.738 --> 01:09:28.670
+And from there on, we had what were called power naps. Power naps, by the way, why are they called power naps? And you think, well, just because it powers me up. It's a good idea, but it's wrong. It has a very specific story, a fascinating one. Two legends in my field, David Dinges and Mark Rosekind, they were looking at how to instigate risk mitigation, not in astronauts,
+
+01:09:28.770 --> 01:09:56.414
+but in pilots who are doing long haul flights. Because the most dangerous aspect of a long haul flight is when it is coming down to land. And that's when they can sometimes have these things called a catastrophic hull loss, which is a euphemistic phrase for a terrible plane crash. And they were trying to say, how could you use NAP strategically to de-risk that and improve their alertness?
+
+01:09:57.442 --> 01:10:27.230
+And they asked a very interesting question. If they can nap for only a certain period of time, because they have to be at work on the plane for the rest of it, when should you place that nap? Should you do it at the start of the long-haul flight, in the middle, or towards the end? And most people would bet, like they, I think, did, it's best to place it at the end when you're really starting to struggle, get that boost, and then you wake up, you're not in sleep inertia, because it's been brief,
+
+01:10:27.394 --> 01:10:53.214
+and then you are energized for landing. They didn't find that. They found that the most optimal time to nap was early on in that long haul flight, and it sustained them throughout the rest of the flight. Now they took their findings to the FAA who are funding the work and the Federal Aviation Authority here in the United States. And they said, we've got some great findings.
+
+01:10:53.314 --> 01:11:22.110
+And we think we should implement this. And we would like to use a term to help pilots understand this. And it's called prophylactic napping. And of course, there were many chuckles throughout the room, perhaps inappropriate. And they just said, look, you've got to understand our pilots that, you know, kind of alpha male guys. And if you're starting to say you need to prophylactically nap, it's not going to be adopted. That's a no-go.
+
+01:11:22.306 --> 01:11:49.502
+So they looked around the room because it's an alpha male culture. It's a mostly masculine culture at that time. They said, what could we, and there's a lot of beard stroking. And they said, I've got it, power naps. It's gotta be about power. And so that is where, if you've ever wondered where the term power naps come from, it's not because it reboosts your power, which it does and boost it back up. It's because there was chuckles at the time, prophylactic napping.
+
+01:11:50.146 --> 01:12:19.550
+like to take a brief break and acknowledge our sponsor, Eight Sleep. Eight Sleep makes smart mattress covers with cooling, heating, and sleep tracking capacity. Many times on this podcast, we discuss how in order to fall and stay deeply asleep, your body temperature actually needs to drop by about one to three degrees. And in order to wake up feeling maximally refreshed and energized, your body temperature needs to heat up by about one to three degrees. Eight Sleep makes it very easy to control the temperature of your sleeping environment so that it's easy to fall and stay asleep and wake up feeling refreshed.
+
+01:12:19.810 --> 01:12:49.776
+I started sleeping on an 8Sleep mattress cover several years ago, and it has completely and positively transformed my sleep. So much so that when I travel to hotels or Airbnbs, I really miss my 8Sleep. I've even shipped my 8Sleep out to hotels that I've been staying in because it improves my sleep that much. If you'd like to try 8Sleep, you can go to 8sleep.com slash Huberman to save $150 off their Pod 3 cover. 8Sleep currently ships to the USA, Canada, UK, select countries in the EU, and Australia. Again, that's 8sleep.com slash Huberman.
+
+01:12:49.776 --> 01:13:19.582
+The naming of things fascinates me, especially in the landscape of health and wellbeing also. And that's one reason why having become a real fan and practitioner of yoga nidra, which I think translates to yoga sleep, which is this process of lying down for a period of 30 to 60 minutes, progressive relaxation. These are scripts that are readily available as this is an age old practice.
+
+01:13:19.682 --> 01:13:44.894
+in India that is meant to restore mental and physical vigor by placing one into one of these liminal states. And I have great respect for the Nidra tradition, but sometimes the names are a separator. So people who hear Yoga Nidra and they think, oh, it must be yoga movement. And that's, of course, not true. Or they think that there must be some mystical component to it, which is
+
+01:13:45.026 --> 01:14:03.646
+not necessarily true. Sometimes they include intentions and things like that, but often not. So that's why I coined this phrase, non-sleep deep rest, which is essentially maintains the critical components of yoga nidra, but doesn't include intentions and has these shorter 10 or 20 minute
+
+01:14:03.778 --> 01:14:32.350
+protocols. So it'd be great fun and I think very interesting for us to do that project to explore what are the brain's activation states or deactivation states as the case may be in these non-traditional or liminal state practices. Now, along the lines of power napping, specifically in the naming of power napping, I think it's more than just an anecdote because I think it is very important for people to understand that
+
+01:14:32.738 --> 01:14:58.334
+these protocols, these tools that NASA and that laboratories have developed, oftentimes are for other purposes, but they translate to a kind of broader significance. And what I'm hearing and what I'm starting to integrate as we have today's conversation is that it seems that there is pretty good reason to at least explore biphasic sleep, right? That for the non-nappers to really
+
+01:14:58.626 --> 01:15:26.366
+Think about whether or not they would like to explore napping. As you mentioned, they don't have to. And then for people who are already napping, to really think about the placement of that nap within the day and the duration of that nap. What you told us a few moments ago suggests that I should be doing or anyone that's doing naps or entering these liminal states like NSDR might want to shift them a little bit earlier than the period in which they first become sleepy to take that nap.
+
+01:15:26.818 --> 01:15:49.534
+nap. Is that right? I mean, so for instance, should I do as my colleague and, you know, finish lunch and lie down for 10, 15 minutes rather than wait until 2 or 3 p.m.? Is that something that could make a meaningful difference? I think it could. And I think it really, again, depends on how much of a struggle sleep becomes in the evening for you. If it is becoming the later that you nap,
+
+01:15:50.082 --> 01:16:17.790
+if your sleep becomes either A, more difficult to initiate in the evening, or maybe you don't have any problems falling asleep. But for some reason, when I look back, I'm now starting to wake up more throughout the night. That in part, again, it's not just that if you nap late in the day, you struggle to fall asleep, you may not. The other consequence that can happen, which is non-mutually exclusive, is that you then stay in not as deep asleep
+
+01:16:18.050 --> 01:16:36.894
+and your sleep is more fragile in that sense. So the probability that you will wake up because you had the nap so late in the day is higher in the middle of the night. And then when you wake up, like many of us do, and you go to the restroom or it's perfectly natural,
+
+01:16:37.058 --> 01:17:05.982
+but the speed with which you can then fall back asleep is compromised. Why? Because you've jettisoned some of that sleepiness by way of the nap. And there isn't as much to take you back down into sleep after you've woken up. So I would just say that if you are seeing that pattern, that the later napping that you're doing, if you're doing that, and again, there's no reason that you need to nap, only if you choose to nap. If that's the case, then consider not necessarily
+
+01:17:06.178 --> 01:17:33.118
+obviating the nap, that may not be required. Just bring it back earlier, take it after lunch, see how things work out, do the experiment. And when you do the experiment, make sure that you do what I would describe as the on, off, on experiment, which is where you're napping as you normally do and you've noticed perhaps some problems with your sleep. Then do, so that's sort of the, well, it's sort of the on, off, on phase.
+
+01:17:33.282 --> 01:18:01.598
+So then change your nap protocol and move it earlier. So now you've switched off your standard protocol and you've moved on to something different. So you're on your standard protocol and then you come off it. And when you come off it, meaning you go to an earlier nap and you say, gosh, things do seem to be better. Maybe he had something there and it does seem to improve. Good, but I don't trust that because maybe it's just a placebo effect that you, you know,
+
+01:18:01.794 --> 01:18:27.646
+here's some dulcet British tones and you get convinced that maybe that would work. And now instead, after about two weeks of doing that and things have improved, go back to your original schedule, go back on to your original protocol. I'm not as interested about the fact that things got better when we changed it. I'm interested in the question, do things get worse when we stop it?
+
+01:18:27.970 --> 01:18:56.990
+And so when we stop the intervention, if things got worse again, now I'm believing it a lot more. So just as a tip, if you are a self-tinkerer and so you don't have to do that, but if you're idiotic like me and a scientist and you want to do it with this silly rigor, that's the way I would suggest doing it. I don't think it's idiotic at all. I think it's systematic. And what you just described is both a negative control and a positive control experiment. So you're a scientist through and through.
+
+01:18:57.826 --> 01:19:21.150
+Are there any individuals that should absolutely avoid napping? I've heard lore of elderly folks, folks with certain conditions. I can't imagine which, but I'm sure you'll tell us that for whom napping is harmful to their health. It's a very, I think...
+
+01:19:21.282 --> 01:19:51.134
+interesting question because the strongest evidence comes back to that, which we've mentioned before, which is insomnia. And really the recommendation there is just avoid naps. And what's problematic about insomnia when you are having such tough times with sleep at night and you are just dragging through the day, it is miserable. And I am, you know, I am very protective of my sleep. For the most part, I sleep
+
+01:19:52.322 --> 01:20:12.638
+but I'm not immune to the vagaries of sleep. I've had two bouts of insomnia throughout my life. Both have been what we call reactive insomnia, reactive to an event or something happening. And I know how just desperate and hungry you are for sleep.
+
+01:20:12.738 --> 01:20:22.558
+And if it's happening week after week, month after month, I'll just do anything to get sleep when I can. And the temptation therefore
+
+01:20:22.722 --> 01:20:51.166
+when you are suffering from insomnia is that much higher. And therefore the advice is that much harder to adopt. But trust me, that is one of the components that we have in the psychological treatment bucket that we use for insomnia, which is called cognitive behavioral therapy for insomnia or CBTI for short. And you can just look it up or on my own podcast, I did a six part series on insomnia. So I would say,
+
+01:20:51.874 --> 01:21:21.502
+to back away in that circumstance. But you brought up another example, which is in aging. There I think the evidence is a little less causal. So you have to be more cautious about recommending the absence as I was with insomnia of abstaining from naps. But the data has now become quite strong that when you get past about 65 years old and you look at napping behavior in large epidemiological studies, and you say,
+
+01:21:21.666 --> 01:21:51.198
+Is there a positive benefit in aging for napping or is there no benefit at all? And they looked at that because they thought, well, that perhaps based on the work in healthy adults that I've described, that would be good for older adults. Not only did they find that it wasn't good, they found that it was deleterious, that napping in older adults was predictive of worse health outcomes. And it also seemed to predict a higher likelihood of early
+
+01:21:51.330 --> 01:22:18.014
+mortality. So at this point we're thinking, well, how does that fit with everything you've been telling us? It comes back to this notion of bad sleep at night. It's probably not necessarily that napping during the day is bad for older adults. It's that the naps reflect a problem with the night of sleep for older adults.
+
+01:22:18.146 --> 01:22:48.094
+And as we get older, something I didn't mention during development was that, yes, we get this sort of stable ratio of four to one of one part REM sleep, four parts non-REM in our seven to nine hours. And I described these changes in REM early in development. I didn't mention two things about non-REM slow wave activity. First, as we go into our teenage years and we shift our sort of timing of sleep where we want to go to bed later and wake up later, that's biologically determined. It's not
+
+01:22:48.194 --> 01:23:14.910
+It's a teenager's fault. Something happens with their deep sleep, however. Their deep sleep starts to do a different action to the brain that REM sleep was doing as an infant. I said that during infancy, we have huge amounts of REM sleep and we're growing synapses, synaptogenesis, and we're wiring up all of those new territories, all of these new neighborhoods with fiber optic cable.
+
+01:23:15.106 --> 01:23:42.526
+But let's say that you've now run the experiment across many years through until teenagehood of those neighborhoods and you've been measuring the bandwidth consumption of each individual house. And you've started to realize, well, I wanted to create a big spread across the brain. And then I'm just going to let experience over the next year's time tell me which parts of the brain seem to enjoy that high bandwidth and which parts don't seem to use it very much.
+
+01:23:42.786 --> 01:24:04.382
+And as we go through into our teenage years, we go through something called synaptic pruning, where the brain actually culls and takes away synapses from certain parts of the brain. It seems to be that this change in slow wave sleep that happens around these adolescent years is performing the act of final cortical maturation
+
+01:24:04.802 --> 01:24:32.734
+that it's downscaling the synapses and fine tuning the brain. So you've got this beautiful efficiency. And now you've throttled back some of the bandwidth from some of those neighborhoods because they just don't use it very much. And you can move it over into the territories that are demanding more bandwidth and net, net, the brain is downscaled, but it's improved its efficiency in the sense that those regions that need it and are working hard
+
+01:24:32.834 --> 01:25:02.718
+based on what we think this organism has been doing over the past 13 years, that's where we need to now place our bets. But as we get through into our older years, and this will come back to this issue of napping, don't worry, stick with me here, folks. The reason is that as we're getting older, our sleep declines, but it's not just all sleep declines. Deep sleep declines most dramatically
+
+01:25:03.522 --> 01:25:32.350
+And we all think of aging from brain perspective as cognitive decline, that our learning and memory abilities begin to fade and decline, and they do. But I would argue that a physiological signature of aging is that your sleep gets worse, and particularly your deep sleep. What's perhaps concerning for people listening to this right now is that that decline in deep sleep doesn't start happening in your 60s or your 50s or even your 40s.
+
+01:25:32.930 --> 01:26:01.662
+we can start to pick up that great sleep decline beginning in your mid to late 30s. And then it just decreases. And by age 50, you are down to about 50% of the deep non-REM sleep that you were having when you were 17 or 18. By age 65 and overall, certainly by age 75, you are down to about just 5% of the deep sleep that you had when you were 17 or 18, which is a...
+
+01:26:01.826 --> 01:26:31.166
+planning decline. What that means comes back to the first episode. We spoke about the four macros of good sleep, quantity, quality, timing, and regularity. One of the measures of quality that I described to you was this electrical quality of deep sleep. The other measure of quality sleep I spoke about was how consolidated and consistent your sleep is versus how fragmented your sleep is. The measure of sleep quality
+
+01:26:31.330 --> 01:26:59.390
+is markedly compromised as we get older. We're waking up many more times, our sleep is much more fragmented and therefore our sleep efficiency is worse. And we've got this huge decline in our deep non-REM sleep. So no wonder then when you are awake during the day as an older adult, your sleep quality is so compromised at that stage, you perhaps try to compensate by way of napping.
+
+01:26:59.554 --> 01:27:19.390
+But that compromised quality of sleep that you're having at night is probably the reason that you start to get sick more, that you have a higher probability of illness and disease, and why also you probably have a higher risk of premature mortality. So in other words, it's the bad quality of sleep at night
+
+01:27:19.554 --> 01:27:49.150
+that leads to this behavior that we call daytime napping in older adults that seems to indirectly suggest, oh my goodness, it's daytime napping that's bad and that causes these problems. When in fact, it's that daytime napping is a proxy for the bad sleep that's happening at night. And it's really the bad sleep that's happening at night that is more directly related to the health and mortality concerns in older adults. So that's why I think right now as a field,
+
+01:27:49.474 --> 01:28:19.006
+I'm still open to evidence that napping for some reason that we just do not understand right now is problematic and does causally predict worse health and a shorter lifespan in older adults. I think the best evidence that we have right now is that it's actually the bad quality of sleep at night. And thus we should not be necessarily jumping to recommendations that all older adults should stop napping. I think we need more evidence and I'm open to both sides of that.
+
+01:28:20.162 --> 01:28:49.694
+Let's talk about caffeine. I've heard the term, is it napuccino? Yeah. I think it refers to a practice of drinking some caffeine, then laying down for a nap, and then supposedly waking up, feeling more refreshed. My understanding, and you'll tell us more, of course, is that caffeine is effectively an adenosine antagonist, although it's a competitive agonist. You'll explain, I'm sure. Yeah.
+
+01:28:49.890 --> 01:29:18.686
+Napping, as you mentioned before, removes some of the sleep pressure, aka wipes away some of that adenosine that's accumulated, both of which sound great. But as you mentioned earlier, there's a warning there as well. The warning label on both those things should be that having sufficient adenosine built up in your brain is one of the ways in which you feel sleepy at night and fall asleep and stay asleep. Yeah.
+
+01:29:18.882 --> 01:29:43.486
+What's the story with caffeine? How does it work to make us feel more alert? And what is the rationale for the nappuccino? The nappuccino, also known as the caffeine nap. Caffeine is a very interesting compound in relationship to sleep and wake. Obviously, everyone knows that caffeine can help you stay awake.
+
+01:29:43.778 --> 01:30:05.790
+It's no coincidence that those two words that you've used about these chemical compounds, caffeine and adenosine sound the same. It's because the receptor that, or the receptor systems that caffeine targets in your brain are the adenosine receptors. And you think, well, Matt was telling me that
+
+01:30:06.338 --> 01:30:36.158
+the more adenosine that builds up, in other words, the more adenosine that's latching onto those adenosine receptors in your brain, the sleepier that you feel. And I'm telling you that caffeine works on those same receptors. That doesn't make sense. Caffeine, if it's working on those same receptors, should increase your sleepiness. It doesn't because when it binds onto those adenosine receptors, those welcome sites in the brain, it simply blocks them.
+
+01:30:36.322 --> 01:31:05.854
+It doesn't deactivate them, nor does it activate them. It simply blocks them. So think about it almost a little bit like a room that's full of chairs. And at some point these adenosine, which is one collection of people with the name badges of adenosine, they would normally like to come in and start sitting down on those seats, which are the adenosine receptors. And as they sit down on those seats, you're building up this signal of sleepiness.
+
+01:31:05.954 --> 01:31:29.566
+Well, caffeine, which is another group of people with caffeine badges, they race into the room and they start to hijack the seats and they start to sit down on them. And all of a sudden, adenosine can't find any seats to sit on. So your brain is still flooding that room with adenosine. So the adenosine is still building up.
+
+01:31:29.986 --> 01:31:58.558
+But the reason that you don't feel sleepy anymore when you've had a shot of caffeine is because caffeine is raced in, it's latched onto the receptors and it has essentially hit the mute button on your sleepiness. So now your brain was thinking, gosh, I've been awake for about 13 or 14 hours. I'm starting to feel it. I'm just gonna take a quick espresso shot. And you get that, you think, well, hang on a second.
+
+01:31:58.658 --> 01:32:26.590
+20, 30 minutes later, I don't feel as tired anymore. Why? It's not because caffeine came in and removed the adenosine. It didn't. Caffeine has come in, blocked the sites, but the adenosine is still building up. And then at some point, the caffeine wears off. And therefore, not only do you go back to the same level of adenosine that you did two hours ago,
+
+01:32:26.946 --> 01:32:54.910
+It's that plus the additional two hours of adenosine that has been building up. And what you experience is something called a caffeine crash. And now you need even more caffeine, not just to get you back to where you were, but to recover the crash that you've had and go further. Caffeine in relationship to the caffeine nap, though, the nappuccino, is relevant because of its timing. Caffeine has...
+
+01:32:55.202 --> 01:33:18.782
+an instigating action of around 12, 14 to 17 minutes. So when you come through in the morning and you grab your first cup of coffee and within the first four or five minutes, you say, I just feel better. I've just had a couple of sips. I've had half a cup of coffee and I already feel better. I just needed that.
+
+01:33:18.914 --> 01:33:40.286
+If it's within the first five minutes that you're experiencing that, it's got nothing to do with the caffeine because the peak plasma concentration of your caffeine is not going to arrive with you until about 12 to 17 minutes. So why do you feel better? Some of it is placebo because you're smelling the coffee and you associate it with the learners. It's really not that though.
+
+01:33:40.482 --> 01:34:03.710
+Or when you say placebo, I also wonder whether or not it's possibly a conditioned effect, you know, like a Pavlovian thing, because the smell of the coffee, the taste of the coffee, the hum of the machine, the walking into the cafe and ordering it from the barista also creates an anticipatory arousal. Like the alertness is coming. And in that anticipation, there's...
+
+01:34:03.810 --> 01:34:20.798
+its own form of alertness. I think that's certainly a big component of it. The other component, however, if you look at the data is that it's got nothing to do with the caffeine in that moment. It's the temperature that most people take their caffeine warm, either it's tea or it's coffee or it's
+
+01:34:21.154 --> 01:34:43.070
+perhaps something else that Andrew Huberman would drink, but many people- Yerba mate. Since I was five years old, I don't know if I should have been drinking caffeinated yerba mate so young, maybe even four years old. There's a photo of me on my grandfather's lap drinking out of the mate gourd. Half my family's Argentine. And so I was caffeinated from a young age. This brain developed in a caffeinated milieu. This explains-
+
+01:34:43.394 --> 01:35:08.126
+so much about what I've known of you over these years. No, I'm kidding you. So, but we need to speak later. No. So what's interesting about that is it's the temperature. And I told you in the first episode that we need to cool down to stay asleep, but we need to initially warm up to fall asleep because warming up
+
+01:35:08.226 --> 01:35:35.326
+that moment I was telling you is warming up at the periphery. Warm up to cool down to fall asleep. So you need to warm up to cool down to fall asleep. Then you need to stay cool to stay asleep. And then you need to warm up to wake up. The warming up to cool down to fall asleep is not warming up in the middle deep core of your body. It's about warming up the hands and the feet and the head to dissipate the heat. Hence, warm up
+
+01:35:35.586 --> 01:35:59.294
+the outer surfaces to cool down the inner core to fall asleep. But then I told you, you have to warm up to wake up. And when we take a hot drink in the morning, usually caffeinated, the change in your core body temperature can happen within a handful of minutes. So the initial benefit that you get from the
+
+01:35:59.394 --> 01:36:29.342
+a hot cup of coffee in the morning or hot tea is from the temperature rise. And then you get this beautiful second kick from the caffeine itself. And that caffeine can then sustain for a longer period of time. So we mentioned this problem with napping that even at 25 or 30 minutes of a nap, you wake up with that kind of grogginess, that sleep inertia. And
+
+01:36:29.954 --> 01:36:58.718
+What however, if I could give you the benefits of a nap and have you come out of the nap with zero sleep inertia? And that's what some folks started to cleverly think about. What if I could look at the timing of the optimal nap, maybe 20 minutes and think about the timing of when peak plasma concentration of caffeine emerges. And I told you it really starts to kick into gear around 17 minutes and it's in full swing by 20.
+
+01:36:59.618 --> 01:37:29.566
+What if I was creative, I'm going to withhold from saying idiotic enough, but creative enough to get into bed just before I turn the light out for my nap in the afternoon, I swig a quick espresso, light goes off, I close my eyes, eye mask, earplugs, and I'm going to drift off fine because the caffeine is not gonna kick in for another 17, 20 minutes, perhaps at its full threshold.
+
+01:37:29.954 --> 01:37:59.934
+So now you fall into sleep and you're going down into sleep. And if you perhaps don't make it too large in terms of its serving, the temperature change is not going to affect you in a negative way. And then just as your alarm clock is about to go off after 20 minutes, you're on the beautiful ascending swing of upward plasma concentration of caffeine and you get ejected out the other side with both the benefits of the nap together with the benefits of the
+
+01:38:00.034 --> 01:38:27.710
+of the caffeine, so you get your cake and you can eat it too. You get the nap absent the sleep inertia. And hence this created what we call the caffeine nap. I love it. The nappuccino. The nappuccino. Maybe I'll give it a try. This is the first time I've ever heard the rationale and the fine structure of the nappuccino, but it makes sense at a logical and mechanistic level.
+
+01:38:28.322 --> 01:38:56.734
+I have to ask, is there anything besides caffeine and sleep that can clear adenosine? Can exercise clear adenosine? Can cold shower clear adenosine? I mean, and I understand that there are a bunch of competing mechanisms in the body, like presumably a spike in norepinephrine or adrenaline or both is going to impact the adenosine system. I once heard a great quote from a former member of the National Academy of Sciences,
+
+01:38:56.834 --> 01:39:23.870
+brilliant guy. He said, you know, a drug is a substance that when injected into an animal or a human produces a scientific publication. Meaning, meaning it is, it is rare to find a paper that doesn't see some effect of some drug, especially on sleep, I'm told. As I recall, if you put aspirin REM sleep into PubMed, you're going to see some effect on REM sleep for people to take aspirin. Pretty much any substance that one takes is going to
+
+01:39:24.034 --> 01:39:41.470
+alter some feature of sleep or of wakeful states if one is looking with a fine enough instrument? Or is that an overstatement? No, I don't think it is an overstatement. And it comes back to the first episode where we described the complexity, this incredible, beautiful physiological ballet.
+
+01:39:41.730 --> 01:40:07.134
+Certainly one of the recommendations when people say, I get this afternoon, this postprandial drop in my alertness, what can I do? I can say you could nap. But another way is just get outside and walk around, be physically active. Some of that has to do with the fact that you'll probably get some daylight and daylight can be a stimulator of alertness as long you've told us and educated us on. We also know that physical activity by itself can influence
+
+01:40:07.234 --> 01:40:26.430
+increase the amount of endorphins and dynorphins, and those are wake promoting, but none of those are really necessarily going to be altering adenosine. They're simply overriding the adenosine that is still building up. It really does seem to be for the most part, at least as all that I know,
+
+01:40:26.754 --> 01:40:55.742
+It's only sleep and particularly non-REM sleep that has the capacity to, or give the brain the chance to remove that adenosine. Now, what could be interesting, I think, is two circumstances. One is where your brain becomes less metabolically active for another reason. And I told you that it's not as though during deep non-REM sleep that there is some special pulsing cleansing mechanism for adenosine
+
+01:40:55.906 --> 01:41:17.214
+There is a cleansing system called the glymphatic system, which removes the toxic metabolic byproducts of the waking day. Wakefulness in some ways is biochemically low level brain damage and sleep is sanitary salvation in that regard. But which is again, it's hubristic and it's going too far, but it makes a point.
+
+01:41:17.410 --> 01:41:45.822
+The idea here, however, is that it's not that there is a special system that is removing the adenosine during deep non-remesleep. It's just that your brain is less metabolically active and therefore it's not producing as much adenosine. So the natural mechanisms that are always occurring in the background to be clearing adenosine and degrading it, simply get the chance to do that just as effectively as they have, but you're no longer working against the opposite tide that is
+
+01:41:46.178 --> 01:42:14.942
+growing the adenosine. Now the adenosine increase has dissipated because you're no longer metabolically active during deep sleep and you get the chance to cleanse it. All of which is to say therefore that, and I think that would mimic that such as for example, anesthesia. My guess is that you probably do jettison some sleep pressure when you are in anesthesia. I also think that these liminal states,
+
+01:42:15.522 --> 01:42:41.534
+sleep deep rest could be a fascinating territory there. Because at that point, I'm going to guess, and we'll be able to see with the EEG, and we may also be able to do some imaging, depending on how you and I designed the study, to look at what changes in the brain in terms of its activation state. My guess is that if it does put you into something like slow wave activity patterns, that means that those territories of the brain
+
+01:42:41.666 --> 01:43:09.630
+are metabolically less active and that allows the brain to dissipate the adenosine. So to your point, I don't think things like necessarily exercise or light change adenosine levels. They do give a nice alertness benefit for the reasons, but is there an alternative way of dissipating adenosine? Yes, I think anything that mimics a non or a less metabolically active brain could produce these beautiful adenosine benefits.
+
+01:43:10.274 --> 01:43:37.534
+Thank you for that. This brings me to a question about the period immediately after waking from the nightly bout of sleep. I've been touting the benefits of delaying one's caffeine intake by 90 to 120 minutes after waking. There's a little bit of a misconception out there. I think people ran with the ball assuming that I was mandating this or suggesting that everyone should do this.
+
+01:43:37.634 --> 01:44:04.958
+That's simply not the case. I actually wake up and I'll hydrate and drink caffeine very close to waking if I'm going to exercise soon after, which I often do. But I've experienced, and I know others have experienced, if they are not going to exercise immediately or they don't need caffeine to exercise for whatever reason, I've heard these people exist, I'm no such mutant, that delaying their caffeine intake by 90 to 120 minutes in some cases can
+
+01:44:05.058 --> 01:44:33.982
+offset the afternoon crash. Now, I wanna be clear, some of that may be offsetting the afternoon consumption of more caffeine because by delaying your caffeine intake in the morning, then perhaps there's less of an incentive or requirement to drink caffeine in the afternoon. And all of which dominoes to, as we'll talk about more in this series, to better sleep at night because you're not ingesting caffeine close to bedtime. But at risk of taking a massive tangent, here's what I'd like to know based on what you just told us.
+
+01:44:34.978 --> 01:45:02.174
+If indeed sleep and lower metabolic activity in certain brain regions can help reduce adenosine levels in the brain, one could imagine that upon waking, it is either a step function from, okay, let's say at 5.45 a.m. somebody is asleep and adenosine is still being cleared away because they're asleep and then they wake up.
+
+01:45:02.306 --> 01:45:28.478
+Does adenosine clearance immediately stop? Well, for people who have that crumpled face grogginess and they wake up at 5.45, maybe even by way of alarm, although we don't suggest that, right? And they stagger into the kitchen and ordinarily they'd make their cup of coffee, but they're in a pseudo sleep state. So it stands to reason that they're still clearing adenosine. Now, if they are to drink caffeine right away,
+
+01:45:28.834 --> 01:45:58.782
+then they're, as you pointed out, going to block those adenosine receptors, and there's going to be a continued buildup of adenosine as opposed to a clearance of adenosine. So this was part, not the entire reason, but part of the rationale for suggesting that people at least explore delaying caffeine slightly. And then there are things like the cortisol rise and et cetera. But does that kind of framework at least make logical sense? That doesn't mean it would hold up in a randomized controlled trial, but given that we're talking about essentially zero risk protocols here, what are your thoughts on that?
+
+01:45:59.362 --> 01:46:26.718
+I think it is good advice for people to test. And it's good advice for two reasons. The first is that which you describe in some ways by taking caffeine on early and masking that adenosine. Also caffeine can make your brain more metabolically active, which means that you're going to build up more adenosine during the day, which means that sleepiness is going to arrive earlier, which means that perhaps that postprandial drop is going to be harsher.
+
+01:46:26.818 --> 01:46:55.774
+And you're going to perhaps then need to self-medicate with more caffeine and so goes the vicious cycle. So I think that's one thing to keep in mind. I think that's one hypothesis. I think the second hypothesis for me, or the second reason I would advocate for that is if you've been using caffeine that way for a long period of time, you may also be masking the quality of your sleep because you wake up, you immediately medicate with caffeine and you are...
+
+01:46:55.874 --> 01:47:20.606
+you're awake and you think, well, looking back on my night, I'm awake now after my caffeine. And now is the important part of that sentence. I'm awake now. So there's nothing wrong with my sleep. Is that true? Maybe it is. Maybe it's not. Maybe if you abstain from caffeine through, and you have to get through the detox period, it's not gonna, this is not the right test immediately, but it's not,
+
+01:47:21.186 --> 01:47:50.430
+it for about two weeks. And then at that point, once you're free from the detox and the withdrawal, now you're in a somewhat naive state where you're taking your caffeine on. I'm not telling you to stop caffeine. You're taking it on at 11 o'clock after you've woken up at, let's say, seven o'clock in the morning. At that point, we've now got this nice clear window that has been consistently happening between seven to 11 in the morning. And I'm going to ask you now, do you feel rested, restored, and refreshed? And can you operate
+
+01:47:50.850 --> 01:48:20.222
+with cognitive acumen and skill in those first morning hours. Now, don't forget, we've got to get past the natural sleep inertia period in the first 90 minutes. But after the first 90 minutes of waking up, absent of caffeine, let's say by 9 a.m. in the morning, are you functioning well? Because if you're not, and you still think, do you know what? I don't feel restored by my sleep. I feel unrefreshed. I want to then start asking you, let's take a look at your sleep
+
+01:48:20.482 --> 01:48:43.166
+let's see how we can get you to a more refreshed state. And by using caffeine first thing in the morning, you don't give yourself the chance to test whether or not subjectively you sense your sleep is good quality. Now you don't need to do this forever. You can just do a test for a month and be asking that question. And if all is clear after you've got through withdrawal,
+
+01:48:43.298 --> 01:49:11.774
+you've got past the first 90 minutes after waking up and you tell me, now in this more caffeine naive state in the first few hours, I feel rest, I feel refreshed, I feel restored by my sleep, then that's great. We don't need to be concerned about your sleep. So that's the second reason I like it because it gives you the opportunity to test out whether or not your sleep is of good quality or not. I should also note, by the way, that I mentioned I've changed my mind on caffeine.
+
+01:49:12.066 --> 01:49:41.214
+And this comes back to, I just raise it because you had said, I made this suggestion and it wasn't binary. It wasn't dictatorial. You don't have to do it. I wasn't saying that everyone needs to do it. And in fact, even I will, you know, tweak my schedule. If I'm doing one thing in the morning, I will take on board caffeine fairly soon. If I'm not, I will hold off. I came out the gate when I first published a book and it,
+
+01:49:41.698 --> 01:50:11.070
+And I was very dictatorial about it. And I was very monoist. I was very binary. You know, it was sleep is absolute and it has to be this way and no other way. I was not in favor of caffeine and I was telling people about the dangers and there are dangers to your sleep and we can speak about those, but it was a little bit too heavy handed. I've changed my mind for at least two reasons.
+
+01:50:12.322 --> 01:50:40.670
+that's not the way society works or people live. So there's no amount just like technology and saying, leave your phone outside of the room for two hours before bed and don't check it for the first four hours. That genie is out the bottle. So the reason I have changed my mind on caffeine is because if you look at the data on caffeine, it's stunning for health. On almost every metric that we can measure
+
+01:50:41.346 --> 01:51:11.326
+drinking some degree of caffeine is beneficial. Now there is a U-shaped function to this, which is once you get past sort of three or four cups of coffee, then you start to go in the downward direction and things aren't so great. The contradiction, however, was that I was telling people, caffeine, not good for your sleep and sleep by the way is wonderful for health. It transacts all of these benefits that we have and we'll discuss in this series.
+
+01:51:11.714 --> 01:51:40.990
+then you compare that relative to caffeine and caffeine transacts many of the same health benefits. So how can you explain that Mr. Sleep Scientist? Well, if you look, the data is very clear. It's not the caffeine that's the benefit. Most people take on board caffeine by way of a cup of coffee. And the coffee bean is packed full, not just of caffeine,
+
+01:51:41.122 --> 01:52:01.246
+it contains a whopping dose of antioxidants. And because of our deficient Western diets, we're so absent of these antioxidants that the humble cup of coffee has been asked to carry the Herculean weight
+
+01:52:01.346 --> 01:52:30.718
+of our antioxidant needs on its shoulders. So no wonder it by itself carries such a strong health signal because it's providing you with this wonderful dose of antioxidants in addition to caffeine. Case in point, if you look at decaffeinated coffee, you still get the antioxidants, but now you don't get the caffeine and lo and behold, you get many of the same health benefits. It's not the caffeine, it's the coffee itself.
+
+01:52:31.522 --> 01:53:01.502
+think that is a perfectly good reason to justify caffeine. But again, just like naps, the dose and the timing make the poison. If you're not someone who's sensitive to caffeine, then having a couple of cups of caffeine and trying to step away from the use of caffeine, I would argue somewhere between 10 to 12 hours before you expect to go to bed, depending on your sensitivity. And it is different across people. And we know that it's genetic. There is a specific
+
+01:53:01.602 --> 01:53:23.230
+what we call polymorphism, which just means a variation in a particular gene. And if you look at variations in that, it will predict whether you are someone who is very sensitive to caffeine or not very sensitive to caffeine. And it comes down to how quickly you can essentially metabolically remove that caffeine from the system.
+
+01:53:23.394 --> 01:53:53.022
+So if you know that you're a very sensitive person, I would probably argue, try to steer clear maybe 12 to 14 hours. If you're someone who is not as sensitive, then you could maybe go to eight hours. The danger is for people who say, look, I'm one of those people who is, you know, really just not sensitive to caffeine at all. And I can have an espresso with dinner and I fall asleep fine. I stay asleep fine. So it's really not a problem for me. I would say that that
+
+01:53:53.346 --> 01:54:13.438
+That may be true, but the inherent danger here is that, and we've done these studies, if I give you a dose of let's say 200, 300, 400 milligrams of caffeine in the hours before bed, which would be a large strong cup of coffee or two espressos with dinner, some people can fall asleep and some people stay asleep.
+
+01:54:14.178 --> 01:54:39.678
+the amount of deep sleep that they have is compromised. In fact, it can drop your deep sleep by up to 20%. Now, the danger is that you wake up in the morning and there was no signals in your sleep that said you had problematic sleep because you're not aware of how much deep sleep that you had. That's the reason that I think, you know, sleep trackers can be helpful in some ways. But you then wake up
+
+01:54:39.778 --> 01:55:07.742
+you don't feel as refreshed and restored, but you don't remember having a hard time falling asleep or staying asleep. But now you find yourself reaching for three cups of coffee to wake up in the morning rather than the standard two. And so goes the vicious cycle. So, and also you see an interesting interrelationship. We did a recent study we just published in Wall Street Traders. It's not just caffeine use. It's also about alcohol use in the evening that people who over medicate with caffeine during the day
+
+01:55:07.906 --> 01:55:34.782
+they then need something to bring them down at night. And the principal depressant agent and depressant, not in the sense of psychiatric depression, but in the sense of brain neural activity depression is alcohol. So you get this classic cycle of uppers and downers. I need my uppers during the morning, my caffeine, and I need my downers at night to lull me into sleep. And it's this classic,
+
+01:55:34.946 --> 01:55:53.054
+really interesting trade-off, which we saw in these Wall Street traders. So coming back to the notion of caffeine though, I am favorable of it in terms of its health benefits. I think it's very, very clear. Just be mindful of the dose and be mindful of the timing
+
+01:55:53.314 --> 01:56:21.726
+Dose, try to not exceed about three cups of coffee. Timing, understand your sensitivity. There are certain genetic tests if you really want to get nerdy that will tell you if you have this sensitivity or not, but you will probably know it. And therefore just say, okay, I'm not that sensitive. I could probably go eight hours or as close as eight hours before sleep or 10 hours. If you're very sensitive, 14, 15 hours and keep it to one cup. So those are the ways that I would say
+
+01:56:21.826 --> 01:56:50.046
+moderating caffeine and changing my mind on caffeine, which just comes back to your point where you were saying, look, I made this recommendation about caffeine. I want to make sure I modify that so people don't get confused. I certainly needed to make a modification to my stance on caffeine. So thank you for letting me say that, which is a long winded way of getting around it. But does that help a little bit? That does help very much. Thank you for that. Yeah.
+
+01:56:50.338 --> 01:57:17.598
+Addendum to the legislature. Okay, so you told us about the power nap and you've told us about the caffeine nap, the so-called napuccino. What are some other types of naps that can be beneficial for sleep-wake cycles and alertness? So you can think about the caffeine nap as trying to amplify it as sort of a nap plus, as it were.
+
+01:57:19.362 --> 01:57:48.702
+To your question, the study that comes to mind, there was a brilliant investigation, Herculean in its study design from a great sleep research group out in Japan. And they asked, okay, the nap is good. The caffeine nap may be a little bit better, but can we go further? And so they designed a series of studies. They had five different experimental groups and they tried to basically create a stack of
+
+01:57:48.866 --> 01:58:17.342
+stacking system. They had across the five groups, there was a no nap group. That's the control. Then there was a nap group. Then there was a nap plus caffeine group. Then there was a nap plus cold face and cold hand washing immediately after you wake up. I'll come back to explain why that we think that works. And then the final group was a group that was a nap plus bright light. And the
+
+01:58:17.474 --> 01:58:45.694
+Again, thank you. Me offering this as the general public to you, Andrew Huberman, for your light revolution. So it was bright light at 2,000 lux immediately afterwards. So they had five groups. Again, there was no nap group, nap group, nap plus caffeine, nap plus cold hands and face washing, nap plus immediate bright light. The cold hands and face washing is interesting. I told you before that there was this three-part story to...
+
+01:58:45.794 --> 01:59:13.086
+the sleep-wake equation that you need to warm up to cool down to fall asleep, stay cool to stay asleep, warm up to wake up. And I'm saying warm up to wake up, but use cold water on your face and your hands. Don't forget that warming up when I say it in the morning is warming up at the central core of your body. You reverse engineer what you did in the evening. I said warm up to cool down to fall asleep. So you warm up the periphery
+
+01:59:13.186 --> 01:59:36.158
+to release the blood from the core and you cool down. Well, the reason that they use cold hand and face washing was because that's this vascular surface. It's the place where we can modulate temperature quite quickly. The cold water on the face and the hands therefore caused vasoconstriction. The vessels and the capillaries there...
+
+01:59:36.322 --> 01:59:46.366
+they all scrunched up and they forced the blood back down into the core of the body. So the core body temperature increased a little bit. Now you also get a bit of an adrenaline
+
+01:59:46.498 --> 02:00:16.446
+when you're splashing very cold water on your hands and your face. So there's some of that too, but that's the justification. So what they find, firstly, they were measuring different aspects of your cognition and your mood and your sleepiness. Those were the outcome measures to assess how did these five different experimental groups change? And you can imagine, I mean, this is, I don't think I would ever take on a study where I'm doing five nap groups all within one study. It's bloody amazing. So they did.
+
+02:00:16.546 --> 02:00:38.910
+the no-nap group. And then compared to the no-nap group, the nap group got a wonderful benefit, just as we described. And they showed benefits in their alertness, in their cognitive performance, and also they showed a reduction in their sleepiness. So point number one on the scoreboard for a nap. Then they did the nap plus the caffeine.
+
+02:00:40.002 --> 02:01:09.982
+And sure enough, you got an added benefit to that which you already obtained from the nap. Now, it was nowhere near as sizable as the benefit from the nap. So the addition of caffeine does give you some nice benefits. And I've used this before when I've worked with sort of professional athletes. We do instigate these nap, these caffeine naps when needed. So it did give a nice benefit. But then when they looked at the nap plus cold hand and face washing and the nap on
+
+02:01:10.178 --> 02:01:37.438
+plus the bright light, those also added something to the nap benefit. Now, they didn't do the sixth group, which is really what I'm going to do some hand-waving about, which is the full stack, full fat method, where they said, okay, you're going to do nap plus caffeine, plus cold hand and face washing, plus bright light. But if you were to put those together, my thought is that they're probably additive rather than simply just
+
+02:01:37.826 --> 02:02:06.590
+know, netting each other out, which means that if you really want to not just do a nap or a nap plus, which would be the caffeine nap, but the nap plus plus version, you can lean into this study. And the protocol there would be you get into bed, you have your espresso shot. Before you turn the light, you swig it, go down, set your alarm for 20 minutes. You wake up, the caffeine is kicking in, you get over the inertia, you go straight out,
+
+02:02:06.818 --> 02:02:36.414
+cold hands, cold face by way of cold water. And then you get immediate daylight for five to 10 minutes outside. And at that point, you're really in a supercharged state. So that's if you, just because I know there's probably going to be some audience members who are willing to give this a try or who really want to optimize. Don't give me, you know, what is good. Give me the extreme very best. That's the only suggestion I would have based on that data.
+
+02:02:36.866 --> 02:03:06.366
+I love it. And actually what you just described could easily be translocated to the period after waking from the nightly bout of sleep, although one wouldn't ingest caffeine prior to waking up for obvious reasons. But it would make good sense to me to wake up, obviously get sunlight in one's eyes, splash some cold water in one's face or hands, or get cold shower, cold plunge, caffeine or delay caffeine. I mean,
+
+02:03:06.658 --> 02:03:36.094
+It's essentially the same set of tools. And I think it really points to the fact that circadian rhythm, clearance of adenosine, temperature modulation, and of course the way in which these interact are really the levers and knobs to modulate wakefulness. Yeah, I think we've gone over this notion of naps, but there are ways that you can try to manipulate the nap system still.
+
+02:03:36.258 --> 02:04:05.182
+And there are ways that you can manipulate it even further. But I like what you're saying because it just comes back to the fundamentals. Let's forego the nap conversation. Just go back to the morning routine. You're absolutely right. And think about the cold water and warm water. My guess is that very few people, when they go to bed, they wash their face and their hands maybe. They're probably not washing it with cold water before they go to bed. Correct.
+
+02:04:05.474 --> 02:04:32.702
+they're going to be washing it with warm water. Why don't they do that? And they just say, well, why would I splash cold water on my face? It probably wakes me up. Have you ever thought about why it wakes you up? Part of it is the shot of activation, but the other part is thermoregulation. And the opposite is what you want to do. If anything, you want to be warming your hands and your feet. And that's exactly what you've always done. You've always medicated your sleep onset by using warm water on your face and your hands.
+
+02:04:33.154 --> 02:05:02.750
+Several times during today's discussion, we talked about polyphasic sleep and the different types of polyphasic sleep that we covered are, I wouldn't say conventional, but they're conventional-ish. What are some of the more esoteric or let's call them high-performance polyphasic strategies for sleep? So we've spoken about polyphasic sleep in the natural way it occurs, which is during infancy.
+
+02:05:02.850 --> 02:05:32.478
+And sleeping like a baby means that you're sleeping in a highly polyphasic way. But probably around about the late 1990s, 2000s with the emergence of the biohacker movement and the quantified self movement, there started to become a lot of chatter online about this notion of polyphasic sleep. And here, no longer are we infants, we're now adults, but we're engaging in a pattern that is highly polyphasic.
+
+02:05:33.314 --> 02:05:58.814
+Polyphasic sleep simply by definition, again, means that you're having multiple phases of sleep within 24 hour period. And there are different strategies. So the way polyphasic sleep in adults works is that you take the 24 hour period and you think about it like a pie chart. And then you start to slice that pie up into these quadrants. When it comes to polyphasic sleep, the goal is to insert multiple phases of sleep,
+
+02:05:58.978 --> 02:06:26.398
+around the 24 hour clock rather than one single phase. But the thinness of those slices of the pie are very thin, leaving large thick slices of wakefulness in between. The notion that being that if you were to sort of just intersperse little soup songs of sleep in terms of these little thin slices of sleep, you can increase the amount of time that you're awake and you can increase all of the benefits of wake.
+
+02:06:27.170 --> 02:06:56.126
+So if you look at the, there is a website, I think it's called the Polyphasic Society. And there it's not a scientific society, like the, you know, psychological, the American Association for Psychology or medical, American Medical Association or British Medical. It's not one of those ratified, certified scientific or medical. It's just a society that lives online, which is great. And they make...
+
+02:06:56.546 --> 02:07:21.278
+to suggest that polyphasic sleep can improve aspects of your mood, it can improve aspects of your productivity, it can maybe even improve aspects of health. I think sometimes there are claims that it can help with the lifespan. And there are a number of different schedules that they will describe to you and that you can find out there of polyphasic sleep.
+
+02:07:21.410 --> 02:07:43.070
+There is the first one that probably people have heard of is called the Uberman schedule. And by the way, there is no H at the start of that. It is simply you. I know it's not this man sitting across from me who has anything to do with this schedule. And after we discuss the data, he will reassert that very same fact.
+
+02:07:43.170 --> 02:08:10.654
+there's something called the everyman schedule, and then there is the triphasic schedule, and there's lots of different other flavors of this. The differences between them are in how you split up that pie chart and how much you assign to little thin slices of sleep versus longer periods of wake, and how many of those you insert, but they all follow the same pattern. If you look at the literature, however, it didn't begin with the biohacker movement. The first
+
+02:08:11.618 --> 02:08:39.710
+description I can find in the human record comes from Time Magazine, an issue in 1943. And they describe the protocol of, at the time, a fantastic, very interesting designer, a guy called Buckminster Fuller. And he created a design principle. And that design principle was called the Dymaxion principle. The Dymaxion principle was principally used initially for
+
+02:08:39.842 --> 02:09:09.808
+to build unique building structures. And it uses this notion of different sort of almost spokes that interconnect in a central hub that creates a self-supporting structure. The most obvious, have you ever been to one of those geodesic domes and inside you go in and sort of like a botanical garden and it's all tropical despite you being in a, let's say being in England in London and it's beautifully tropical inside of that. That structure, that sort of lattice structure that comes in part from here
+
+02:09:09.808 --> 02:09:23.806
+This was the Dymaxion principle. And he scaled it to different things. The Dymaxion car, the Dymaxion house, the Dymaxion dome. Fascinating. But he was no fan of sleep.
+
+02:09:23.938 --> 02:09:51.358
+he saw sleep as a rather significant waste of time when just like the rest of his Dymaxian principle, he could be harnessing more efficiency out of the system with less structure and here less sleep structure inserted into his 24 hour period. So he was the first one to describe his schedule and it was called the Dymaxian schedule of polyphasic sleep. So it may have been a practice earlier,
+
+02:09:51.618 --> 02:10:19.038
+in the record, but that's the earliest one I can find. So let's come back to the claims of polyphasic sleep, that it could improve, let's say your mood or your cognition or your productivity or your health. A group of scientists at Harvard, some of my old colleagues from Harvard, they looked at all of the literature on all of the studies that were polyphasic-like or testing this claim.
+
+02:10:19.970 --> 02:10:48.030
+And the first thing that they found was to their claims of improved cognition, productivity, mood, as well as health, they found no supportive evidence that polyphasic sleep was helpful. Then they turned the tables and they said, well, could it be hurtful? And in fact, that's exactly what they found. Firstly, the total amount of sleep that you get on any one of those schedules is decreased significantly. Now, of course, that's the goal.
+
+02:10:48.354 --> 02:11:13.950
+The quality of sleep that you get though is miserable. Your sleep efficiency, even when you're having these short periods of time, especially during the waking hours is very poor. It's not a type of even short sleep that you would wish for. Third, they found that it would reduce your REM sleep amounts. So that was the first set of findings. Your sleep is no better. If anything, it's significantly worse. And
+
+02:11:14.242 --> 02:11:40.766
+And then they started to find that there were significant impairments in many of those things, impairments in cognition, in judgment making and decision making, impairments in mood and some aspects of impairments in metabolic health, particularly glucose regulation. So when it comes to polyphasic sleep, sleeping like a baby, if you're an adult, seems to be a rather unwise piece of advice. Now-
+
+02:11:40.866 --> 02:12:02.398
+that goes along with eating baby food, drinking breast milk and having somebody else clothed and change you as an adult, it's probably not advisable. It doesn't seem to be at least supported by the data. And again, I want to be so careful here and you're very careful too.
+
+02:12:03.042 --> 02:12:32.382
+I'm not here to necessarily tell anyone absolutely how to live their life. I'm just a scientist and all I can do is give you the information just as you do. And then it's up to you to make the best decisions that you wish to make. All I would say is that I would hope that as long as you're not hurting yourself and harming your health and you're not hurting other people, then, and it makes you happy, then I say, whatever it is in life, good luck, I embrace it.
+
+02:12:32.482 --> 02:13:01.662
+I always say, do as you wish, but know what you're doing. And don't hurt yourself or anybody else. Can you get me that T-shirt and I will wear it five days through Tuesday? So here in this regard, though, I would say the evidence would suggest that maybe you're compromising your health and your wellness, but that's your choice and I understand it. So again, no judgment. To the question, however, of as long as you're not hurting other people, here, I would say that there is a pause for caution.
+
+02:13:01.794 --> 02:13:31.678
+Because what we know is that when you're not getting sufficient sleep, I described all of the health consequences in the first episode. There's another danger here, which is road traffic accidents. And we describe these micro sleeps that happen and why car accidents that are caused by sleepiness can be so catastrophic. There's a very interesting study that was done where they looked at people getting less than six hours of sleep for several nights and they put them into a driving simulator. And they asked, what is the probability that you have
+
+02:13:31.810 --> 02:13:44.318
+a crash or an off-road event. And sleeping less than six hours a night resulted in a 30% increase in you getting into a car crash. Now, the
+
+02:13:44.642 --> 02:14:12.574
+AAA released some data showing that when you get down to five hours of sleep, there is, I think it's something like two to three times higher likelihood of an accident based on real data. And then when you are on four hours of sleep, it was close to a 10 times greater risk. So in other words, the less and less sleep that you get, it's not a linear increase in your risk of a car accident. It's an exponential increase. So I bring this back to polyphasic sleep because I don't know
+
+02:14:12.706 --> 02:14:41.406
+Think about that 30% study. Let's not go to the extreme, just less than six hours of sleep. If this evening you called a taxi and it turns out two taxis turned up and outside of your door, I said, look, one of these two, you can choose either one of them, but I'll just tell you that one of these taxis has a 30% higher likelihood of getting in a crash relative to the other. And it's this one on the right, which would you like to pick? Or which would you like to put your wife and children in to send...
+
+02:14:41.602 --> 02:15:11.006
+It's very obvious. So I raised that question just to be mindful. No one would wish to cause harm on someone else, to carry the harm of someone else by way of your own doing on your shoulders for the rest of your life is not one I would wish for, and it's not one that you would wish for. That's the only cautionary note. But other than that, I would say, you know, sort of live life to the full. Well, that brings us to the conclusion of,
+
+02:15:11.106 --> 02:15:38.142
+yet another incredible voyage into the landscape of sleep, most notably the different phases, monophasic, biphasic, and polyphasic sleep, and naps and caffeine, and all of their interactions. These are such important topics at the level of concepts, the level of mechanisms, and as you've also beautifully described, at the level of protocols, that is actionable tools that people can apply.
+
+02:15:38.498 --> 02:15:55.134
+Thank you ever so much, Matt, for taking us even further along this voyage. I'll just remind people that episodes one and two of this series that Matt is so generously providing information about sleep for us are
+
+02:15:55.298 --> 02:16:24.734
+and those can be accessed through links in the show note captions. Those fill in yet other mechanisms and aspects of sleep. And I'm also particularly excited for the fourth installment in this series coming up about the relationship between sleep, memory, and creativity. So just incredibly important topics relevant to everybody. I also just wanna make note that I really appreciate you highlighting some of the developmental shifts that occur with sleep. I often get questions about
+
+02:16:24.898 --> 02:16:52.575
+you know, sleep in children and babies and elderly adults, as well as all the ages in between. And you've just built this incredible tapestry of information for people to think about and act upon should they choose. So thank you, Matt, ever so much. And I look forward to episode four. Andrew, thank you. It is such a privilege and it remains just my absolute delight to be here with you. Thank you. Thank you for joining me for today's episode with Dr. Matthew Walker.
+
+02:16:52.674 --> 02:17:20.734
+To learn more about Dr. Walker's research and to learn more about his book and his social media handles, please see the links in our show note captions. If you're learning from and or enjoying this podcast, please subscribe to our YouTube channel. That's a terrific zero-cost way to support us. In addition, please subscribe to the podcast on both Spotify and Apple. And on both Spotify and Apple, you can leave us up to a five-star review. Please also check out the sponsors at the beginning and throughout today's episode. That's the best way to support this podcast.
+
+02:17:20.962 --> 02:17:50.654
+you have any questions for me or comments about the podcast or topics or guests that you'd like me to feature on the Huberman Lab podcast, please put those in the comment section on YouTube. I do read all the comments. On many episodes of the Huberman Lab podcast, we discuss supplements. While supplements aren't necessary for everybody, many people derive tremendous benefit from them for things like improving sleep, for hormone support, and for focus. To learn more about the supplements discussed on the Huberman Lab podcast, go to Live Momentus, spelled O-U-S. That's livemomentus.com slash Huberman.
+
+02:17:50.882 --> 02:18:20.848
+you're not already following me on social media, I'm Huberman Lab on all social media platforms. So that's Instagram, X, LinkedIn, Facebook, and Threads. And on all those platforms, I discuss science and science-related tools, some of which overlaps with the content of the Huberman Lab podcast, but much of which is distinct from the content covered on the Huberman Lab podcast. So again, it's Huberman Lab on all social media platforms. If you haven't already subscribed to our Neural Network newsletter, our Neural Network newsletter is a zero-cost newsletter that provides podcast summaries as well as protocol
+
+02:18:20.848 --> 02:18:49.822
+protocols in the form of brief one to three page PDFs that cover everything from neuroplasticity and learning to sleep to deliberate cold exposure and deliberate heat exposure. We have a foundational fitness protocol and much more, all of which, again, is completely zero cost. You simply go to HubermanLab.com, go to the menu tab, scroll down to newsletter, and by supplying your email, you can subscribe. I want to point out that we do not share your email with anybody. Thank you once again for joining me for today's discussion all about sleep with Dr. Matthew Walker.
+
+02:18:49.922 --> 02:18:54.046
+And last, but certainly not least, thank you for your interest in science.

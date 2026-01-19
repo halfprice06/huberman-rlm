@@ -1,0 +1,283 @@
+WEBVTT
+
+00:00.226 --> 00:29.118
+Welcome to Huberman Lab Essentials, where we revisit past episodes for the most potent and actionable science-based tools for mental health, physical health, and performance. I'm Andrew Huberman, and I'm a professor of neurobiology and ophthalmology at Stanford School of Medicine. And now for my discussion with Dr. Wendy Suzuki. Wendy, great to see you again and to have you here. It's been a little while. It's been a while. So great to be here, Andrew. Thank you so much for having me. Yeah, delighted.
+
+00:29.346 --> 00:57.726
+I'd like to start off by talking about memory generally. And then I'd love to chat about your incredible work, discovering how exercise and memory interface and what people can do to improve their memory and brain function generally. Yes. Maybe you could just step us through the basic elements of memory. Well, I like to say there are four things that make things memorable. Number one is novelty. If it's something new, the very first thing
+
+00:57.922 --> 01:26.910
+For the very first time we've seen something or experienced something, our brains are drawn to that. Our attentional systems draw us to that. And when you are paying attention to something that's part of what makes things memorable. Second is repetition. Third is association. So if you meet somebody new that knows lots of people that you know, so you and I share many, many, many, many people that we both know.
+
+01:27.042 --> 01:51.486
+It's easier to remember you, especially if you were somebody new that I hadn't met before, we have met before. So association. And then the fourth one is emotional resonance. So we remember the happiest and the saddest moments of our lives. And that also includes, you know, funny, surprising things. That is the interaction between
+
+01:51.586 --> 02:16.734
+two key brain structures, the amygdala, which is important for processing lots of emotional, particularly threatening kinds of situations. But those threatening, surprising kinds of situations, the amygdala takes that information and makes another key structure called the hippocampus work better to put new long-term memories
+
+02:16.898 --> 02:45.566
+in your brain. So that in fact is the key structure for long-term memory, the structure called the hippocampus. Now step us through kind of what this structure is, what it looks like. The word hippocampus means seahorse. It is visually anatomically beautiful with these kind of intertwining sub regions within it. So that's anatomically. Functionally, what does it do? Well, it's easiest to understand
+
+02:45.954 --> 03:14.334
+what it does when you look at what happens when you don't have a hippocampus anymore. We know this from the most famous neurological patient of all time. His initials were HM, so all psychology and neuroscientists, neuroscience students know him. He was operated in 1954 and the paper was published in 1957. They removed both his hippocampi
+
+03:14.466 --> 03:37.886
+because he had very terrible epilepsy. And they knew that the hippocampus was the genesis of epilepsy. And this was experimental. His epilepsy was so bad that they decided not just to remove one hippocampus, but both. And what happened was immediate loss of all ability to form new memories of
+
+03:38.050 --> 04:05.758
+for facts and events. So this hippocampus does something with all of these perceptions that are coming at us every single day, every minute of the day, and not for all of them, but for some of them that have these features that we just talked about. Maybe they're novel, maybe they have associations, maybe they're emotionally relevant, maybe they've been repeated. Some of those things in the realm of facts or events get encoded
+
+04:05.858 --> 04:33.598
+in our long-term memory. The hippocampus and what it does really defines our own personal histories. It means it defines who we are, because if we can't remember what we've done, the information we've learned and the events of our lives, it changes us. That's what really defines us. But what people have started to realize that it's not just memory. It's not just putting together
+
+04:33.698 --> 05:02.462
+associations for what, where, and when of events that happened in our past, but it's putting together information that is in our long-term memory banks in interesting new ways. I'm talking about imagination. So without the hippocampus, yes, you can't remember things, but actually you're not able to imagine events or situations that you've never experienced before. So what that says is the hippocampus
+
+05:02.594 --> 05:24.638
+is important for memory is a too simple a way to think about it. What the hippocampus is important for is what we've already talked about, associating things together writ large. Anytime you need to associate something together, either for your past, your present, or your future, you are using your hippocampus. And it takes on this much more important
+
+05:24.962 --> 05:44.094
+role in our cognitive lives when we think about it like that. That is kind of the new hippocampus that neuroscientists are studying these days. I'd like to take a quick break and acknowledge our sponsor, BetterHelp. BetterHelp offers professional therapy with a licensed therapist carried out entirely online.
+
+05:44.674 --> 06:09.982
+I've been doing therapy for many years now, and I can tell you that it's a lot like physical workouts. There are days when I want to do it, and there are days when I don't want to do it. But every time I finish a therapy session, I come away feeling much better and knowing that the time was very well spent. Typically, when I finish a therapy session, I come away with at least one valuable insight or perspective on something that I'm working through, whether that's with work, relationships, or my personal life, or just simply my relationship to myself.
+
+06:10.242 --> 06:39.198
+There's just so much benefit that comes through effective therapy. And with BetterHelp, they make it very easy to find an expert therapist who can provide you with the benefits that come from effective therapy. And it works with an average rating of 4.9 out of 5 for a live session based on over 1.7 million client reviews. If you'd like to try BetterHelp, you can go to betterhelp.com slash Huberman to get 10% off your first month. Again, that's betterhelp.com slash Huberman. There are some memories that
+
+06:39.906 --> 07:09.598
+can be formed very quickly, so-called one trial learning. What is it about very emotionally salient events that allow memories to get stamped in? There is this protective function of our brains that has evolved over the last 2.5 million years that you need to pay attention and remember certain things for your survival. If something terrible happens, if something very scary happens, you remember that and that fear and that
+
+07:09.858 --> 07:38.814
+memory of all those things. I mean, I have one, when I lived in Washington, DC, I went to work at NIH on a Sunday afternoon, I came back and when I rounded the corner to my door of my apartment, it was crowbarred in. Somebody had taken a crowbar, opened up my door and stole the nicest things in my apartment. Ever since then, whenever I rounded that corner, I still had that memory. It was terrible because, you know, it put me in a terrible state when I was just coming home.
+
+07:38.914 --> 08:03.198
+And that's a survival mechanism. Do you want to be alert to possible danger? Absolutely, yes. So part of those one trial memories, I think, is often taking advantage of this evolutionarily developed system to tamp in things that could be potentially dangerous to you into your memory. So you forever will...
+
+08:03.330 --> 08:32.894
+remember this particular corner or this hallway, because that is where something really bad happened to you. For people trying to learn information that they're not that excited about. Right. Is there something that we can do to leverage knowledge of how the memory system works naturally to make that a more straightforward process? Yeah. Maybe we could talk about your story and how you came to the place you are at now. Yeah. Because I think it provides a number of tools that people could use
+
+08:33.409 --> 09:00.926
+implement themselves. Yeah, yeah. As I was working to get tenure at NYU, and as you know, it's a stress-filled process. They give you six years to, you know, show your stuff and you are judged in front of all your colleagues and either they say, okay, you can join the club or they say, sorry. And so my strategy was, I'm just going to not do anything but work. I'm going to just work as hard as I can for the six years
+
+09:01.058 --> 09:30.238
+And what happens when you work and you don't have any sort of life outside of work, you gain 25 pounds, which is exactly what I did. And you get really, really stressed. And so I decided to go on vacation and I did a adventure river rafting trip in Peru. And so I go by myself and, you know, meet other interesting people. And I was the weakest person on this whole trip. It was embarrassing. And I came back and I said, okay, I cannot do it.
+
+09:30.530 --> 09:52.062
+be the weakest person. I'm in my late 30s. I have to do something. So I went to the gym. Fast forward year and a half, I've lost the 25 pounds. So proud of myself, so much happier. And I'm sitting in my office doing what you and I do a lot, which is writing an NIH grant, which is our lifeblood, right? And writing, writing, writing.
+
+09:52.162 --> 10:21.950
+And this thought goes through my mind that had never gone through my mind before, which during this six years of frantic grant writing when I was trying to get tenure. And that thought was, grant writing went well today. That felt good. But when I thought about it, I thought it's not just today. My grant writing seems to have been getting smoother. Like I'm able to focus longer. The sessions feel better to me.
+
+10:22.210 --> 10:45.630
+you know, at that point, the only thing that I changed in my life, it was a huge thing, but I had become a gym rat rather than a workaholic. And that's when my, you know, spidey sense for neuroscientists popped up. And I said, what do we know about the effects of exercise on your brain? Because if I think about it, what was better about my writing is I could focus longer and deeper and
+
+10:45.922 --> 11:11.390
+very important. And I could remember those little details that you try and pull together for your million-dollar NIH grant from, you know, 30 different articles that you have open on your screen all at the same time. That's a hippocampal memory. I was studying that. I was writing the grants on hippocampal memory. And so that's when I got really interested in the effects of exercise on both
+
+11:11.650 --> 11:36.254
+prefrontal focus and attention function and hippocampal function because of my own observation and this kind of, I still remember where I was sitting, which office I was in when I had this revelation. But the thing that really sealed it for me is right around that time, I got a phone call from my mom who said that my dad wasn't feeling well and that he had, um,
+
+11:36.578 --> 12:05.886
+that he got lost driving back from the 7-Eleven, which was literally seven blocks from our house that I grew up in. And I knew that was hippocampal function. I suspected dementia. I suspected, though didn't want to admit Alzheimer's dementia, which he had. My dad is the engineer, not so active all his life, but would love to sit and read books all day. My mom was the athlete. She played tennis, team tennis,
+
+12:05.986 --> 12:32.286
+into her eighties and it started to show at that point. I noticed that all the things that were improving in my brain suddenly went away in my dad's brain. And I started thinking, this isn't just something to help, you know, somebody who wants to get tenure. This is something that could help millions and millions of people. Most importantly, our aging population. What if, you know, what's happening? And so,
+
+12:32.418 --> 12:55.422
+The thing that makes me wake up in the morning is when I realized that every single time you move your body, you are releasing a whole bunch of neurochemicals. And some of them we've talked about that the good mood comes from dopamine and serotonin and noradrenaline. But the thing that gets released also, particularly with aerobic exercise is a growth factor.
+
+12:55.522 --> 13:24.222
+called brain derived neurotrophic factor or BDNF. And that is so important because what it does is it goes directly to your hippocampus and it helps brand new brain cells grow in your hippocampus. We all have that. Even if you're a couch potato, you can get new brain cells in your hippocampus to grow, but it's like giving your hippocampus a boost with this regular BDNF if you are exercising, which means that we all have the capacity
+
+13:24.322 --> 13:53.790
+to grow a bigger, fatter, fluffier hippocampus. And so what I like to give people is this image of every single time you move your body, it's like giving your brain this wonderful bubble bath of neurochemicals. What's going on? I need my bubble bath of noradrenaline and dopamine and serotonin and growth factors. And with regular bubble baths, what am I doing? I'm growing a big, fat, fluffy hippocampus. And I'm not gonna cure my father's
+
+13:54.018 --> 14:21.566
+dementia, Alzheimer's dementia. But you know what? If I go into my seventies with a big fat fluffy hippocampus, even if I had that in my genes and it starts to kick in, it's going to take longer for that disease to start to affect my ability to form and retain new long-term memories for facts and events, which is my motivation for getting up and doing my 30 to 45 minutes of aerobic exercise every day. Tell us your routine. Your routine is 30 to 45 minutes of
+
+14:21.730 --> 14:49.726
+Are you a Peloton cycler? Does it matter? The data suggests that as long as your heart rate is getting up for these long-term effects on your hippocampus and prefrontal cortex, you also get better at shifting and focusing your attention. For that, you need cardiovascular. And what I use is a video workout. They are 30 minutes that I sometimes add on a 10 to 15 minute stretch at the beginning or at the end.
+
+14:49.826 --> 15:09.182
+But I love the variety. Sometimes I do it with weights. Sometimes I do it without weights. I love kickboxing. So they have a lot of kickboxing in there. It just fits my routine. And it's always there. And I don't have to get all dressed up to go to the gym to work out. So that's what I do.
+
+15:09.954 --> 15:29.566
+By now, I'm sure that many of you have heard me say that I've been taking AG1 for more than a decade. And indeed, that's true. The reason I started taking AG1 way back in 2012, and the reason why I still continue to take it every single day, is because AG1 is, to my knowledge, the highest quality and most comprehensive of the foundational nutritional supplements on the market.
+
+15:29.698 --> 15:56.830
+What that means is that it contains not just vitamins and minerals, but also probiotics, prebiotics, and adaptogens to cover any gaps that you might have in your diet, while also providing support for a demanding life. Given the probiotics and prebiotics in AG1, it also helps support a healthy gut microbiome. The gut microbiome consists of trillions of little microorganisms that line your digestive tract and impact things such as your immune status, your metabolic health, your hormone health, and much more.
+
+15:56.994 --> 16:26.960
+Taking AG1 consistently helps my digestion, keeps my immune system strong, and it ensures that my mood and mental focus are always at their best. AG1 is now available in three new flavors, berry, citrus, and tropical. And while I've always loved the AG1 original flavor, especially with a bit of lemon juice added, I'm really enjoying the new berry flavor in particular. It tastes great, but then again, I do love all the flavors. If you'd like to try AG1 and try these new flavors, you can go to drinkag1.com slash Huberman to claim
+
+16:26.960 --> 16:54.270
+special offer. Right now, AG1 is giving away six free sample packs of AGZ, which is AG1's new sleep formula, which by the way is fantastic. It's the only sleep supplement I take. It eliminates the need for all these pills and my sleep has never been better. The special offer gives you six free samples of that AGZ as well as three AG1 travel packs and a bottle of vitamin D3 K2 with your first subscription. Just go to drinkag1.com slash Huberman to get started.
+
+16:54.914 --> 17:23.326
+So let's imagine your morning routine, you do your cardiovascular exercise. Okay, so you're pumping more blood. That's the definition of a higher heart rate. Stroke volume of the heart goes up over time. You're getting fitter. So blood flow of the brain is increasing. Do we know how that gets translated to a signal to release more BDNF? Yeah. Before I go into the aerobic thing, I always like to start with the least amount of exercise to get
+
+17:23.521 --> 17:51.294
+something really useful because I don't want people to say, oh God, I hate, you know, sweating. I don't want to listen anymore. So, so I always like to start with studies have shown that just 10 minutes of walking outside can shift your mood. That is part of that neurochemical bubble bath that you're getting dopamine, serotonin, noradrenaline. And 10 minutes, and anybody can walk for 10 minutes. And so that is a,
+
+17:51.714 --> 18:19.422
+for all of you thinking that out there, what is the minimum that I could get some of these brain effects, 10 minutes of walking. That minimum amount of movement in your body can get you those mood effects. But what about the big fat fluffy hippocampus? What about the better performing prefrontal cortex? That's where you start to need the cardio workout. And from my reading of the literature, there haven't been enough studies, you know,
+
+18:19.618 --> 18:40.126
+directly comparing, contrasting kickboxing with running, with whatever other cardio that you need to do. But any cardio workout that is done has these positive effects. So I'm gonna say my interpretation of that is that whatever way you get your heart rate up, including a power walk, a power walk can get your heart rate up,
+
+18:40.450 --> 19:07.518
+that is beneficial. And what is happening, there are two pathways that have been studied about how you go from moving your body to more BDNF, that neurotrophin that's increasing the growth of new hippocampal brain cells. The two pathways are the following. One is a myokine, which is a protein released by the muscles. So, and not your heart, these are striated muscles in your body.
+
+19:08.002 --> 19:32.734
+by running, these were studies done in rats on running wheels. They showed that the running rats had more of this myokine release, the myokine passed the blood brain barrier, so got into the rarefied, very protected bloodstream of inside the brain. And that myokine stimulated the release of BDNF in the brain.
+
+19:32.834 --> 19:59.518
+pathway number one. Pathway number two comes through the liver because exercise is a stress on generally. How do we know that? Well, cortisol is released whenever we exercise. We need that sugar in our blood. And so that's how the physiological mechanisms work. And so there is a ketone, beta-hydroxybutyrate that
+
+19:59.874 --> 20:20.638
+we've known for a very long time that gets released by the liver during exercise. And we also know that that particular ketone passes that blood brain barrier and it's another stimulant for BDNF. So kind of the final common pathway seems to be BDNF stimulation in the hippocampus. Is it the only one?
+
+20:20.994 --> 20:49.598
+Probably not, but that's the one that has been studied most clearly. So it's, you know, it comes from all of our physiological systems, our muscles working, our liver responding to the stress of exercise. And what is it doing? It is making our, you know, giving more BDNF precursors to get into our brain to cause the up spike of BDNF, which is part of your bubble bath that you're getting every time you move. This issue of new neurons,
+
+20:49.698 --> 20:55.806
+is one that you hear a lot, neurogenesis, you're gonna grow new neurons. And my understanding
+
+20:55.938 --> 21:21.982
+is that the rodent literature is very clear. Running more on a wheel can trigger neurogenesis. Literally the birth of new neurons and the addition of new neurons to the hippocampus. And in humans, I think it's been a bit controversial. Some people say absolutely yes, other people say absolutely no, there are new neurons added to the adult brain. I haven't followed that literature down to the detail, but I do remember one study
+
+21:22.146 --> 21:49.950
+that I don't think is contested, which is the work of Rusty Gage at the Salk Institute, where they actually injected a sort of dye type marker into the brains of terminally ill humans who very graciously offered to have their brains removed and dissected after death. And in these, in some cases, very old, terminally ill humans, they did see evidence for new neurons being born in the hippocampus.
+
+21:50.402 --> 22:13.374
+trust that idea still? Is that generally accepted? Well, so after that study, which was quite a while ago, there are more recent studies, still controversial, but showing and demonstrating using even new and better techniques than were used in that original Rusty Gage study, which was groundbreaking at the time, that suggest and
+
+22:13.506 --> 22:28.382
+I think show that there are new neurons born in adult human brains into the ninth decade of life. So they not only did this, I think those patients were in their 60s, then they died of cancer.
+
+22:28.482 --> 22:58.110
+But these new studies looking across the timeline, can we see? Because the other thing was, yeah, maybe you have some when you're 20, but by the time you're older and you might need these new neurons, you have no new neuron growth. And so these studies seem to suggest that, yes, yes, you did. Yes, you do. And we all do, even into old age. If you would, could you tell us about some of the more specific effects of exercise on memory?
+
+22:58.338 --> 23:13.470
+Absolutely, let me start with kind of the immediate effects, acute effects as they're called of exercise on the brain. So this is asking, what does a one-off exercise session do for your brain? And there,
+
+23:13.602 --> 23:43.568
+There are three major effects that have been reproduced. I've seen it in my lab. Many labs have reproduced this. This is usually an aerobic type exercise session, 30 to 45 minutes. What you get is that mood boost, very, very consistent. You get improved prefrontal function, typically tested with a Stroop test, which is a test that asks you to shift and focus your attention in specific ways.
+
+23:43.568 --> 24:08.382
+challenging task and clearly dependent on the prefrontal cortex largely and significant improvements in reaction time. So your speed at responding often a motor kind of, but cognitive motor response is improved. One of the unpublished studies that I did looking at the effects of 30 minutes of age appropriate workout,
+
+24:08.738 --> 24:37.598
+in subjects ranging in age from their 20s all the way up to their 90s. So what are the things that I saw most consistently? Irrespective of your age, everybody got a decreased anxiety and depression and a hostility score, which is very important. So it's not just decreasing your anxiety and depression, but decreasing your hostility levels. Making the world a better place. Making the world a better place.
+
+24:38.594 --> 25:05.086
+energy, the feeling of energy went up. And what we found is in the older population, even more than in the younger population, we saw improved performance on both Stroop and Erickson-Flanker task, which is another task dependent on really focusing in on different letters and paying attention to what letter is being shown. So these are consistent
+
+25:05.250 --> 25:33.662
+How long do they last? One of the studies that I did publish in my lab showed that the immediate effects of exercise lasted up to two hours. Unfortunately, that was the longest that we lasted. We're still there at two hours. So that's, you know, that's a pretty big bang for your buck. That is. One 30 minute. So what this tells me is that exercising early in the day may have a special effect. Right. I know there are,
+
+25:33.762 --> 26:03.390
+moms and dads out there and they just say, look, I have a kid, the kid's more important than my doing my exercise. So you will get benefits if you do it whenever you can. So that's great, more power to you. But what all the neuroscience data suggests is the best time to do your exercise is right before you need to use your brain in the most important way that you need to use it every day. And so that is why the morning for most of us,
+
+26:03.778 --> 26:23.326
+is beneficial. That's why I do it in the morning. I'm lucky enough to be able to do that. I also want to emphasize, I'd love to get your thoughts on just memory and memory loss in general. You know, my understanding of the literature is that somewhere in our fifties or sixties, we start noticing little hiccups in memory. But I have to imagine that
+
+26:23.490 --> 26:52.414
+doing the exercise throughout one's entire life is going to help offset some of this. Simply because of the BDNF and other downstream effects. Yeah. First, I want to share one of my favorite studies, which is a longitudinal study done in Swedish women. And this was published in 2018. And what they did was back in the 1960s, they found Swedish women, 300 Swedish women in their forties. And they characterized them as
+
+26:52.578 --> 27:18.142
+Low fit, mid fit, high fit, okay? And then 40 years later, they came back and found these women. They let them live their lives. And they asked what happened to these women as a function of whether they were low fit, mid fit, high fit in their 40s. They're now in their 80s. And what they found was that relative to the low fit or mid fit women, the women that were high fit
+
+27:18.562 --> 27:48.030
+gained nine more years of good cognition later in life. Now, this is not a randomized control study. This is a correlational study, but does it agree with everything that we've been talking about today? Yes. Does it agree with this idea that, you know, the women that were high fit were giving their brains this bubble bath very, very regularly for that entire 40 years and that built up their big, fat, beautiful hippocampi.
+
+27:48.130 --> 28:17.662
+Yes, it does. So that's one of my favorite studies. Yeah, another cause for getting the exercise in consistently. Yes. So when I jumped into the exercise work, everybody was studying people 65 or older because that's when cognitive decline begins. And if the idea is exercise can help you with your cognition, then makes sense. However, I thought, well, you know, that it's great. There's lots of work there.
+
+28:17.794 --> 28:45.886
+I wanted to know what happens in people in their 40s and their 50s, maybe even their 30s and their 20s. Why? Because that's when we as humans are able, ready, willing and able to increase our exercise and gets us set up to build our brains as we go into our 60s. And so the first study that I did looked at low fit participants
+
+28:46.306 --> 29:15.454
+from their 30s to mid 50s. And we wanted to ask this question, how much exercise do you really need to start seeing benefits? Do you see benefits? Or maybe you have to wait until you start seeing cognitive decline to get benefits. That was one of the theories out there. And so that's what I wanted to do. And so what we did was three months of two to three times a week cardio. It was a spin class. So spin classes are great for cardio.
+
+29:15.554 --> 29:37.630
+And the comparison group was two to three times a week of competitive video scrabble. So no heart rate change, but they had to come into my lab and be in a group just like they were in a group for the spin class. We tested them cognitively at the beginning of the end of the session. What we found was,
+
+29:37.826 --> 30:06.526
+two to three times a week of cardio. In these people, they were low fit, which means specifically that they were exercising less than 30 minutes a week for the three months previous to the experiment. So they went from that to two to three times a week of spin class. And what we found was changes in baseline rates of their positive mood states went up relative to the video Scrabble group, their body image,
+
+30:06.722 --> 30:35.966
+got more positive because they were exercising, which is great. And really important, their motivation to exercise went up significantly compared to the Video Scrabble group, which is great. So the more you exercise, the more motivated you are to exercise. What about cognition? What changed in the cognitive circuits of their brain? Number one, we got improved performance on the Stroop task, but we're headed towards my favorite structure, which is the hippocampus.
+
+30:36.066 --> 30:53.086
+What we found was improved performance on both a recognition memory task, which was a memory encoding task, and that is, can you differentiate similar items that we're asking you to remember?
+
+30:53.474 --> 31:19.294
+and a spatial episodic memory task where we had them play one of those doom-like games when they went into this spatial maze and they had to do things in a virtual city. Their performance there got better, which is very, very classically dependent on the hippocampus. So it was so satisfying to do this study because I've been wanting to answer this question. What is a
+
+31:19.554 --> 31:48.862
+minimum amount or doable amount of exercise that will get you these cognitive benefits. And now I can say in 30 to 50 year olds that are low fit two to three times a week, is that doable? Absolutely. Will it be hard if you're low fit? Yeah, it's gonna be challenging, but absolutely doable. This is not like you have to become marathon runner to get any of these benefits. This is, you have to start moving your body on a regular basis
+
+31:49.090 --> 32:17.854
+two to three times a week. How long are those sessions again? 45 minutes. 45 minutes. Yeah, 45 minutes warm up for five minutes and a cool down for five minutes. So it's really 35 minutes, 35 minutes of, you know, they're really pushing you. Yeah. I'd like to take a quick break and acknowledge our sponsor Eight Sleep. Eight Sleep makes smart mattress covers with cooling, heating and sleep tracking capacity. One of the best ways to ensure you get a great night's sleep is to make sure that the temperature of your sleeping environment is correct.
+
+32:17.986 --> 32:43.934
+And that's because in order to fall asleep and stay deeply asleep, your body temperature actually has to drop by about one to three degrees. And in order to wake up feeling refreshed and energized, your body temperature actually has to increase by about one to three degrees. Eight sleep automatically regulates the temperature of your bed throughout the night according to your unique needs. I've been sleeping on an eight sleep mattress cover for nearly five years now, and it has completely transformed and improved the quality of my sleep.
+
+32:44.130 --> 33:04.958
+The latest eight sleep model is the Pod 5. This is what I'm now sleeping on and I absolutely love it. It has so many incredible features. For instance, the Pod 5 has a feature called Autopilot, which is an AI engine that learns your sleep patterns and then adjusts the temperature of your sleeping environment across different sleep stages. It'll even elevate your head if you're snoring and it makes other shifts to optimize your sleep.
+
+33:05.154 --> 33:27.998
+If you'd like to try 8sleep, go to 8sleep.com slash Huberman to get up to $350 off the new Pod 5. 8sleep ships to many countries worldwide, including Mexico and the UAE. Again, that's 8sleep.com slash Huberman to save up to $350. The second study that I wanted to share is part two of that study that I just described, which was the low-fit people.
+
+33:28.194 --> 33:56.414
+Next, we move to mid-fit people. It's like, what about us? We're already exercising. How am I gonna benefit from increasing my exercise? So here again, we collaborated with a great spin studio that had a whole bunch of mid-fit people that by our definition were exercising two to three times a week on a regular basis. That's great. All you people out there that are doing that, you should know you're already benefiting your brain. But our question was,
+
+33:56.514 --> 34:19.422
+what if we invited them to exercise as much as they wanted at the spin studio for three months from, you know, two to three times all the way up to seven times a week. And let's just see what happened. And the control group, we asked them not to change their exercise. And so what we ended up with was a nice big array of
+
+34:20.290 --> 34:47.935
+starting with mid-fit people that exercise between staying at two to three times a week all the way up to seven times a week. And the bottom line from that study is every drop of sweat counted. That is the more you change and you increase your workout up to seven times a week, the better your mood was. You had lower amounts of depression, anxiety, higher amounts of good depression,
+
+34:48.290 --> 35:15.678
+and the better your hippocampal memory was with the more you worked out. Again, this was for three months. So I love that too, because it gives power to those of us that are regularly exercising and wondering, do I really need to, I mean, is it really gonna help me? And the answer is yes. I mean, not all of us can exercise, go to a spin class seven times a week. But I love the message that
+
+35:15.938 --> 35:38.462
+Our body is responsive to that and you can get better hippocampal function, better overall baseline mood affect with a higher level. So it works for the mid fit people as well. What is, if any, the value of affirmation, of telling yourself something positive about yourself or of exercise on yourself?
+
+35:38.786 --> 36:01.726
+not the exercise itself, but on mood, self-image, memory, and brain function. Yeah. I looked into this because I am also a certified exercise instructor and the form of exercise that I teach is called Intensati. It's a form of exercise that was developed by this amazing fitness instructor, Patricia Moreno. And she combined...
+
+36:01.826 --> 36:30.270
+physical movements from kickbox and dance and yoga and martial arts with positive spoken affirmations. So each move, if you're punching back and forth as you would do in a kickbox class, you don't just punch, you say something like, I am strong now, which every punch is associated with a word. And you can create your own series of affirmations with the moves that you put together. There's something about the declaration, using your own voice,
+
+36:30.370 --> 36:57.662
+of saying things that you don't often say to yourself, like I'm strong, I'm inspired, I believe I will succeed, are all the kinds of affirmations you say. And so I started to look into what was known about affirmations. And it was clear that there was a literature showing that positive affirmations, saying them or reading them could change mood. It really gets you into a habit
+
+36:57.762 --> 37:18.878
+of saying good things about yourself. And then you start to remember, start to realize, oh my God, I'm so mean to myself. I have lots of negative thoughts going on about myself in my head. And which was part of the other reason why I loved this particular form of exercise. So what you get in
+
+37:19.394 --> 37:43.006
+intensati is the mood boost from the positive spoken affirmations together with all the other brain and affect boosts that we've been talking about for this whole podcast from the exercise, because it's a sweaty workout as well. So interesting. I'd like to touch on meditation. Yeah. Sounds like you've discovered a minimum
+
+37:43.394 --> 38:12.702
+a close to minimum threshold of meditation that can really benefit us. So maybe you could tell us about that study. Very practical study. Just 10 minutes, not 30 minutes, not an hour meditation, that's too hard. 10 minutes guided meditation. It's a body scan, very basic, but easy to follow kind of meditation. We looked at cognitive effects before and after this, it was eight weeks of daily
+
+38:13.186 --> 38:42.174
+it was actually 12 minute meditation, 12 minutes of body scan meditation. And what we found was significant decreases in stress response. So we did the Stryer stress test to see how you responded to unexpected stressful situation. The meditators did much better. Their mood was better and their cognitive performance was also better. I know there's so much evidence that meditation is beneficial.
+
+38:42.786 --> 39:08.222
+How do you think it's working or what do you think it's doing? I think that one of the most important things that gets worked when we are doing a simple 10 minute or 12 minute body scan meditation regularly, that's 10 minutes a day, 12 minutes a day, is the habit building and the practice of focusing on the present moment.
+
+39:08.674 --> 39:38.206
+I think that is very hard for us modern humans to do. If you know how to do that, that gives you this powerful tool for the rest of your day. You're not locked into that fearful future thinking that so many of us have or that just reliving of a terrible past, but you could enjoy, enjoy the present moment. Are there any other things besides exercise and meditation that you would like to see people do in terms of trying to increase their powers of attention?
+
+39:38.338 --> 40:05.662
+So I would say the top three tools that everybody right this minute today can use to up their capacity to attend where they want to include exercise for the reasons we've talked about. It has a direct effect on functioning of the prefrontal cortex, meditation also, clear clinical studies showing improved ability to focus and particularly focus on the present moment.
+
+40:05.826 --> 40:34.206
+And the third has to be sleep. It is so important for all core cognitive functions, including attention, including creativity, including just good basic brain function. So exercise, meditation, sleep can help you learn, retain, and perform better than if you do not have these three things in your life.
+
+40:34.786 --> 40:52.606
+Wendy, thank you so much for your leadership in the university system, for your leadership in public education, for the decades of important work on memory and neural circuitry, which we got to learn about today as well. Thank you ever so much. Thank you, Andrew. Fun conversation.

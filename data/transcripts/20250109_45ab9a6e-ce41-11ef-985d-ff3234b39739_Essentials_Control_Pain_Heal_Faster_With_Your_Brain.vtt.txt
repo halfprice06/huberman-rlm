@@ -1,0 +1,295 @@
+WEBVTT
+
+00:00.226 --> 00:29.854
+Welcome to Huberman Lab Essentials, where we revisit past episodes for the most potent and actionable science-based tools for mental health, physical health, and performance. I'm Andrew Huberman, and I'm a professor of neurobiology and ophthalmology at Stanford School of Medicine. Let's continue our discussion about neuroplasticity, this incredible feature of our nervous system that allows it to change itself in response to experience, and even in ways that we consciously
+
+00:29.954 --> 00:57.214
+and deliberately decide to change it. Most people don't know how to access neuroplasticity. And so that's what this entire month of the Huberman Lab podcast has been about. We've explored neuroplasticity from a variety of different perspectives. We talked about representational plasticity. We talked about the importance of focus and reward. We talked about this amazing and somewhat surprising aspect of the vestibular system, how altering our relationship to gravity
+
+00:57.378 --> 01:24.670
+And in addition to that, making errors as we try and learn can open up windows to plasticity, but we have not really talked so much about directing the plasticity toward particular outcomes. And thus far, we really haven't talked yet about how to undo things that we don't want. And so today we are going to explore that aspect of neuroplasticity, and we are going to do that in the context
+
+01:25.282 --> 01:43.422
+of a very important and somewhat sensitive topic, which is pain, and in some cases, injury to the nervous system. We, as always here on this podcast, are going to discuss some of the science, we get into mechanism, but we also really get at principles.
+
+01:43.906 --> 02:13.374
+Principles are far more important than any one experiment or one description of mechanism and certainly far more important than any one protocol because principles allow you to think about your nervous system and work with it in ways that best serve you. So let's start our discussion about pain and the somatosensory system. The somatosensory system is, as the name implies, involved in understanding touch, physical feeling on our body.
+
+02:13.474 --> 02:42.814
+And the simplest way to think about the somatosensory system is that we have little sensors and those sensors come in the form of neurons, nerve cells that reside in our skin and in the deeper layers below the skin. We have some that correspond to, and we should say respond to mechanical touch. So, you know, pressure on the top of my hand or a pinpoint or other sensors, for instance, respond to heat, to cold, some respond to
+
+02:43.202 --> 03:11.070
+vibration, we have a huge number of different receptors in our skin. And they take that information and send it down those wires that we call axons in the form of electrical signals to our spinal cord and then up to the brain. And within the spinal cord and brain, we have centers that interpret that information that actually makes sense of those electrical signals. And this is amazing because none of those sensors has a different unique
+
+03:11.298 --> 03:33.118
+form of information that it uses. It just sends electrical potentials into the nervous system. Pain and the sensation of pain is, believe it or not, a controversial word in the neuroscience field. People prefer to use the word nociception. Nociceptors are the sensors in the skin that detect particular types of stimuli.
+
+03:33.218 --> 04:01.854
+It actually comes from the Latin word nocera, which means to harm. And why would neuroscientists not want to talk about pain? Well, it's very subjective. It has a mental component and a physical component. We cannot say that pain is simply an attempt to avoid physical harm to the body. And here's why. They actually can be dissociated from one another. And there's a famous case that was published in the British Journal of Medicine where a construction worker
+
+04:02.818 --> 04:24.894
+I think he fell is how the story went. And a 14 inch nail went through his boot and up through the boot. And he was in excruciating pain just beyond anything he'd experienced. He reported that he couldn't even move in any dimension, even a tiny bit without feeling excruciating pain. They brought him,
+
+04:25.122 --> 04:41.598
+into the clinic, into the hospital. They were able to cut away the boot and they realized that the nail had gone between two toes and it had actually not impaled the skin at all. His visual image of the nail going through his boot gave him the,
+
+04:41.826 --> 05:06.046
+the legitimate feeling that he was experiencing the pain of a nail going through his foot, which is incredible because it speaks to the power of the mind in this pain scenario. And it also speaks to the power of the specificity. It's not like he thought that his foot was on fire. He thought because he saw a nail going through his foot, it was going through his boot, but he thought it was going through his foot that
+
+05:06.690 --> 05:36.318
+it was sharp pain of the sort that a nail would produce. It really speaks to the incredible capacity that these top-down, these higher level cognitive functions have in interpreting what we're experiencing out in the periphery, even just on the basis of what we see. So why are we talking about pain during a month on neuroplasticity? Well, it turns out that the pain system offers us a number of different principles that we can leverage to A, ensure that if we are ever injured,
+
+05:36.514 --> 05:59.262
+we are able to understand the difference between injury and pain, because there is a difference, that if we're ever in pain, that we can understand the difference between injury and pain, that we will be able to interpret our pain. And during the course of today's podcast, I'm going to cover protocols that help eliminate pain from both ends of the spectrum, from the periphery at the level of the injury,
+
+05:59.970 --> 06:27.998
+and through these top-down mental mechanisms. Believe it or not, we're going to talk about love. A colleague of mine at Stanford who runs a major pain clinic is working on and has published quality peer-reviewed data on the role of love in modulating the pain response. So what we're talking about today is plasticity of perception, which has direct bearing on emotional pain.
+
+06:28.290 --> 06:57.470
+and has direct bearing on trauma. So let's get started in thinking about what happens with pain. And I will tell you just now that there is a mutation, a genetic mutation in a particular sodium channel. A sodium channel is one of these little holes in neurons that allows them to fire action potentials. It's important to the function of the neuron. It's also important for the development of certain neurons. And there's a particular mutation. There are kids that are born without this sodium channel 1.7, if you want to look it up.
+
+06:57.570 --> 07:23.390
+those kids experience no pain, no pain whatsoever. And it is a terrible situation. They don't tend to live very long due to accidents. It's a really terrible and unfortunate circumstance. In fact, it's reasonable to speculate that one of the reasons, not all, but one of the reasons why people might differ in their sensitivity to pain is by way of genetic variation in how many of these sorts of receptors that they express.
+
+07:23.682 --> 07:46.366
+People who make too much of this receptor experience extreme pain from even subtle stimuli. So let's talk about some of the features of how we're built physically and how that relates to pain and how we can recover from injury. I'd like to take a quick break and thank our sponsor, Eight Sleep. Eight Sleep makes smart mattress covers with cooling, heating, and sleep tracking capacity.
+
+07:46.530 --> 07:54.206
+Now I've spoken before on this podcast about the critical need for us to get adequate amounts of quality sleep each night. Now one of the best ways to ensure a great night's sleep
+
+07:54.306 --> 08:24.272
+is to ensure that the temperature of your sleeping environment is correct. And that's because in order to fall and stay deeply asleep, your body temperature actually has to drop by about one to three degrees. And in order to wake up feeling refreshed and energized, your body temperature actually has to increase about one to three degrees. Eight Sleep makes it very easy to control the temperature of your sleeping environment by allowing you to program the temperature of your mattress cover at the beginning, middle, and end of the night. I've been sleeping on an Eight Sleep mattress cover for nearly four years now, and it has completely
+
+08:24.272 --> 08:41.119
+transformed and improved the quality of my sleep. Eight Sleep recently launched their newest generation of the pod cover called the Pod 4 Ultra. The Pod 4 Ultra has improved cooling and heating capacity. I find that very useful because I like to make the bed really cool at the beginning of the night, even colder in the middle of the night.
+
+08:41.282 --> 09:11.070
+warm as I wake up. That's what gives me the most slow wave sleep and rapid eye movement sleep. It also has a snoring detection that will automatically lift your head a few degrees to improve your airflow and stop your snoring. If you'd like to try an Eight Sleep mattress cover, go to eightsleep.com slash Huberman to save up to $350 off their Pod 4 Ultra. Eight Sleep currently ships in the USA, Canada, UK, select countries in the EU and Australia. Again, that's eightsleep.com slash Huberman. So first of all,
+
+09:11.298 --> 09:37.662
+We have maps of our body surface in our brain. It's called a homunculus. That representation is scaled in a way that matches sensitivity. So the areas of your body that are most sensitive have a lot more brain real estate devoted to them. Your back is an enormous piece of tissue compared to your fingertip, but your back has fewer receptors devoted to it. And the representation of your back in your brain is actually pretty small.
+
+09:37.858 --> 10:01.214
+whereas the representation of your finger is enormous. So how big a brain area is devoted to a given body part is directly related to the density of receptors in that body part, not the size of the body part. You can actually know how sensitive a given body part is and how much brain area is devoted to it
+
+10:01.378 --> 10:11.934
+through what's called two point discrimination. You can do this experiment if you want. I think I've described this once or twice before, but basically if you have someone put, maybe take two pens and,
+
+10:12.546 --> 10:40.638
+put them maybe six inches apart on your back and touch while you're facing away. And they'll ask you how many points they're touching you and you say two, but if they move those closer together, say three inches, you're likely to experience it as one point of contact. Whereas on your finger, you could play that game all day. And as long as there's a millimeter or so spacing, you will know that it's two points as opposed to one. And that's because there's more pixels, more density of receptors.
+
+10:41.314 --> 11:04.222
+This has direct bearing to pain because it says that areas of the body that have denser receptors are going to be more sensitive to pain than to others. So just as a rule of thumb, areas of your body that are injured that are large areas that have low sensitivity before injury likely are going to experience less pain and the literature shows will heal
+
+11:04.802 --> 11:33.982
+more slowly because they don't have as many cells around to produce inflammation. And you might say, wait, I thought inflammation is bad. Well, one of the things I really want to get across today is that inflammation is not bad. Inflammation out of control is bad, but inflammation is wonderful. Inflammation is the tissue repair response. I thought it might be a nice time to just think about the relationship between the periphery and the central maps in a way that many of you have probably heard about before, which will frame the discussion a little bit
+
+11:34.082 --> 11:55.966
+which is phantom limb pain. Now, some of you are probably familiar with this, but for people that have an arm or a leg or a finger or some other portion of their body amputated, it's not uncommon for those people to feel as if they still have that limb or appendage or piece of their body intact. And typically,
+
+11:56.258 --> 12:25.182
+Unfortunately, the sensation of that limb is not one of the limb being nice and relaxed and just there. The sensation is that the limb is experiencing pain or is contorted in the specific orientation that it was around the time of the injury. So if someone has a blunt force to the hand and they end up having their hand amputated, typically they will continue to feel pain in their phantom hand, which is pretty wild. And that's because
+
+12:25.346 --> 12:45.502
+the representation of that hand is still intact in the cortex, in the brain, and it's trying to balance its levels of activity. Normally it's getting what's called proprioceptive feedback. Proprioception is just our knowledge of where our limbs are in space. It's an extremely important aspect of our somatosensory system. And there's no...
+
+12:45.698 --> 13:10.622
+proprioceptive feedback. And so a lot of the circuits start to ramp up their levels of activity and they become very conscious of the phantom limb. Now, before my lab was at Stanford, I was at UC San Diego. And one of my colleagues was a guy, everyone just calls him by his last name, Ramachandran, who is famous for understanding this phantom limb phenomenon and developing a very simple, but very powerful solution to it that speaks to the
+
+13:10.754 --> 13:40.734
+incredible capacity of top-down modulation. And top-down modulation, the ability to use one's brain cognition and senses to control pain in the body is something that everyone, not just people missing limbs or in chronic pain can learn to benefit from because it is a way to tap into our ability to use our mind to control perceptions of what's happening in our body. So what did Ramachandran do? Ramachandran had people who were missing
+
+13:41.186 --> 14:06.814
+a limb, put their intact limb into a box that had mirrors in it, such that when they looked in the box and they moved their intact limb, the opposite limb, which was a reflection of the intact limb, because they're missing the opposite limb, they would see it as if it was intact. And as they would move their intact limb, they would visualize with their eyes,
+
+14:06.946 --> 14:36.350
+the limb that's in the place of the absent limb, so this is all by mirrors, moving around and they would feel immediate relief from the phantom pain. And he would tell them and they would direct their hand toward a orientation that felt comfortable to them. Then they would exit the mirror box, they would take their hand out and they would feel as if the hand was now in its relaxed, normal position. So you could get real time
+
+14:36.450 --> 14:58.846
+in moments remapping of the representation of the hand. Now that's amazing. This is the kind of thing that all of us would like to be able to do if we are in pain, because if you do anything for long enough, including live, you're going to experience pain of some sort. And this, again, I just want to remind you, isn't just about physical injuries and pain. This has direct relevance to emotional pain as well, which we'll,
+
+14:59.106 --> 15:16.926
+of course, we'll talk about. So the Ramachandran studies were really profound because they said a couple of things. One, plasticity can be very fast, that it can be driven by the experience of something, just the visual experience. And so this may come as a shock to some of you, and by no means, am I trying to be insensitive,
+
+15:17.090 --> 15:34.334
+Pain is a perceptual thing as much as it's a physical thing. It's a belief system about what you're experiencing in your body. And that has important relevance for healing different types of injury and the pain associated with that injury. Now, this brings up another topic, which is,
+
+15:34.562 --> 16:02.110
+definitely related to neuroplasticity and injury, but is a more general one that I hear about a lot, which is traumatic brain injury. Many injuries are not just about the limb and the lack of use of the limb, but concussion and head injury. But I want to talk a little bit about what is known about recovery from concussion. And this is very important because it has implications for just normal aging as well and offsetting some of the
+
+16:02.498 --> 16:27.038
+cognitive decline and physical decline that occurs with normal aging. Typically after TBI, there's a constellation of symptoms that many people, if not all people with TBI report, which is headache, photophobia, that lights become kind of aversive, sleep disruption, trouble concentrating, sometimes mood issues. There's a huge range. And of course the severity won't vary, et cetera. It's,
+
+16:27.170 --> 16:48.734
+very clear that regardless of whether or not there was a skull break and regardless of when the TBI happened and how many times it's happened, that the system that repairs the brain, the adult brain, is mainly centered around this lymphatic system that we call for the brain, the glymphatic system. It's sort of like a sewer system that clears out
+
+16:49.538 --> 17:18.335
+the debris that surrounds neurons, especially injured neurons. And the glymphatic system is very active during sleep. And the glymphatic system is something that you want very active because it's going to clear away the debris that sits between the neurons and the cells that surround the connections between the neurons called the glia, those cells are actively involved in repairing the connections between neurons when damaged. So the glymphatic system
+
+17:18.530 --> 17:38.782
+is so important that many people, if not all people who get TBI are told, get adequate rest, you need to sleep. And that's kind of twofold advice. On the one hand, it's telling you to get sleep because all these good things happen in sleep. It's also about getting those people to not continue to engage in their activity full-time or really try and hammer through it.
+
+17:38.946 --> 17:59.902
+The glymphatic system has been shown to be activated further in two ways. One is that sleeping on one side, not on back or stomach seems to increase the amount of washout or wash through, I should say, of the glymphatic system. The other thing that,
+
+18:00.258 --> 18:22.110
+has been shown to improve the function of the glymphatic system is a certain form of exercise. And I want to be very, very clear here. I will never, and I am not suggesting that people exercise in any way that aggravates their injury or that goes against their physician's advice. However, there's some interesting data
+
+18:22.306 --> 18:47.966
+that zone two cardio for 30 to 45 minutes, three times a week, seems to improve the rates of clearance of some of the debris after injury. And in general, injury or no, to accelerate and improve the rates of flow for the glymphatic system. It could be fast walking. It could be jogging. If you can do that with your injury safely, it could be cycling.
+
+18:48.162 --> 19:14.014
+And this is really interesting outside of TBI because what we know from aging is that aging is a nonlinear process. It's not like with every year of life, your brain gets a little older. Sometimes it follows what's more like a step function. You get these big jumps in markers of aging. I guess that we could think of them as jumps down because it's a negative thing for most everybody would like to live longer and be healthier in brain and body.
+
+19:14.242 --> 19:37.022
+The types of exercise I'm referring to now are really more about brain longevity and about keeping the brain healthy than they are about physical fitness. So I think this is really interesting. And if some of you would like to know the mechanism or at least the hypothesized mechanism, there's a molecule called aquaporin-4 that is related to the glial system
+
+19:37.154 --> 20:01.374
+So glia, it means glue in Latin, are these cells in the brain, the most numerous cells in the brain, in fact, that in sheath synapses, but they're very dynamic cells. Aquaporin-4 is mainly expressed by the glial cell called the astrocyte. Astro looks like a little star, incredibly interesting cells. And the thing to remember is that the astrocytes bridge the connection between the neurons, the neurons,
+
+20:02.050 --> 20:09.150
+synapse, the connections between them and the vasculature, the blood system and the glymphatic system.
+
+20:09.538 --> 20:36.094
+This glymphatic system and the glial astrocyte system is a system that we want chronically active throughout the day as much as possible. So low level walking, zone two cardio, and then at night during slow wave sleep is then really when this glymphatic system kicks in. So that should hopefully be an actionable takeaway provided that you can do that kind of cardio safely that I believe everybody should be doing who cares about brain longevity, not just people who are trying to get over TBI.
+
+20:36.354 --> 20:45.214
+I'd like to take a quick break and acknowledge our sponsor, AG1. By now, many of you have heard me say that if I could take just one supplement, that supplement would be AG1.
+
+20:45.474 --> 21:15.440
+The reason for that is HE1 is the highest quality and most complete of the foundational nutritional supplements available. What that means is that it contains not just vitamins and minerals, but also probiotics, prebiotics, and adaptogens to cover any gaps you may have in your diet and provide support for a demanding life. For me, even if I eat mostly whole foods and minimally processed foods, which I do for most of my food intake, it's very difficult for me to get enough fruits and vegetables, vitamins and minerals, micronutrients, and adaptogens from food alone. For that reason, I've
+
+21:15.440 --> 21:41.470
+I've been taking AG1 daily since 2012. When I do that, it clearly bolsters my energy, my immune system, and my gut microbiome. These are all critical to brain function, mood, physical performance, and much more. If you'd like to try AG1, you can go to drinkag1.com slash Huberman to claim a special offer. For this month only, January 2025, AG1 is giving away 10 free travel packs and a year's supply of vitamin D3 K2.
+
+21:41.666 --> 22:11.198
+Again, go to drinkag1.com slash Huberman to claim the 10 free travel packs and a year supply of vitamin D3, K2. Now I'd like to return a little bit to some of the subjective aspects of pain modulation, because I think it's so interesting and so actionable that everyone should know about this. Our interpretation, our subjective interpretation of a sensory event is immensely powerful for dictating our experience of the event. The molecule adrenaline
+
+22:11.362 --> 22:41.342
+when it's liberated into our body, truly blunts our experience of pain. We all know the stories of people walking miles on stumped legs, people doing all sorts of things that were incredible feats that allowed them to move through what would otherwise be pain. And afterward, they do experience extreme pain. But during the event, oftentimes they are not experiencing pain. And that's because of the pain blunting effects
+
+22:41.442 --> 23:09.406
+of adrenaline, adrenaline binding to particular receptors actually shuts down pain pathways. People who anticipate an injection of morphine immediately report the feeling of loss of pain. Their pain starts to diminish because they know they're going to get pain relief. And it's a powerful effect. Now, all of you are probably saying placebo effect. Placebo effects are very real. Placebo effects and belief effects as they're called,
+
+23:09.570 --> 23:35.582
+have a profound effect on our experience of noxious stimuli like pain, and they can also have a profound effect on positive stimuli and things that we're looking forward to. One study that I think is particularly interesting here is from my colleague at Stanford, Sean Mackey. They did a neuroimaging study. They subjected people to pain. In this case, it was a heat pain. People have very specific thresholds to heat, which they cannot tolerate any more heat.
+
+23:36.034 --> 24:05.406
+but they explored the extent to which looking at an image of somebody, in this case, a romantic partner that the person loved would allow them to adjust their pain response. And it turns out it does, they could tolerate more pain and they reported it as not as painful. That response, that feeling of love internally can blunt the pain experience to a significant degree. These are not small effects.
+
+24:05.602 --> 24:33.822
+And not surprisingly, how early a relationship is, how new a relationship is, directly correlates with people's ability, they showed, to use this love, this internal representation of love to blunt the pain response. So for those of you that have been with your partners for many years and you love them very much and you're obsessed with them, terrific. You have a pre-installed, well, I suppose it's not pre-installed, you had to do the work because relationships are work, but you've got a,
+
+24:33.954 --> 25:01.886
+installed mechanism for blunting pain. And again, these are not minor effects. These are major effects. And it's all going to be through that top-down modulation that we talked about, not unlike the mirror box experiments with phantom limb that relieve phantom pain or some other top-down modulation. And the opposite example is the nail through the boot, which is a visual image that made the person think it was painful when in fact it was painful, even though there was no tissue damage, it was all,
+
+25:02.018 --> 25:31.998
+So the pain system is really subject to these perceptual influences, which is remarkable because really when we think about the somatosensory system, it has this cognitive component, it's got this peripheral component, but there's another component, which is the way in which our sensation, our somatosensory system is woven in with our autonomic nervous system. Independent of love, we're going to talk about something quite different, which is putting needles and electricity in different parts of the body, so-called acupuncture, something that,
+
+25:32.802 --> 25:58.334
+For many people, it's been viewed as a kind of alternative medicine, but now there are excellent laboratories exploring what's called electroacupuncture and acupuncture. And I think what you'll be interested in and surprised to learn is that it does work, but sometimes it can exacerbate pain and sometimes it can relieve pain. And it all does that through very discreet pathways for which we can really
+
+25:58.626 --> 26:21.118
+say this neuron connects to that neuron, connects to the adrenals, and we can tie this all back to dopamine because in the end, it's the chemicals and neural circuits that are giving rise to these perceptions or these experiences rather of things that we call pain, love, et cetera. There are actually a lot of really good peer-reviewed studies supporting the use of acupuncture for in particular GI tract issues.
+
+26:22.818 --> 26:52.254
+In recent years, there's been an emphasis on trying to understand the mechanism of things like acupuncture and acupuncture itself, but as a way to try and understand how these sorts of practices might actually benefit people who are experiencing pain or for changing the nervous system or brain-body relationship in general. What I want to talk about in terms of acupuncture is the incredible way in which acupuncture illuminates the crosstalk between the somatosensory system, our ability to feel stuff,
+
+26:52.738 --> 27:20.286
+externally, extra reception, internally, interoception, and how that somatosensory system is wired in within communicating with our autonomic nervous system that regulates our levels of alertness or calmness. So this takes us all back to the homunculus. We have this representation of our body surface in our brain. That representation is what we call somatotopic.
+
+27:20.610 --> 27:50.590
+What somatotopy is, is it just means that areas of your body that are near one another are represented by neurons that are nearby each other in the brain. The connections from those brain neurons are sent into the body and they are synchronized with, meaning they cross wire with and form synapses with some of the input from the viscera, from our guts, from our diaphragm, from our stomach, from our spleen, from...
+
+27:50.786 --> 28:19.806
+our heart, our internal organs are sending information up to this map in our brain of the body surface, but it's about internal information, what we call interoception, our ability to look inside or imagine inside and feel what we're feeling inside. So the way to think about this accurately is that our representation of ourself is a representation of our internal workings, our viscera, our guts, everything inside our skin and the surface of our skin and
+
+28:19.938 --> 28:37.374
+the external world. Those three things are always being combined in a very interesting, complex, but very seamless way. Acupuncture involves taking needles and sometimes electricity and or heat as well, and stimulating particular locations on the body
+
+28:37.666 --> 28:52.510
+And if somebody has a gastrointestinal issue, like their guts are moving too quick, they have diarrhea, you stimulate this area and it'll slow their gut motility down. Or if their gut motility is too slow, they're constipated, you stimulate someplace else and it accelerates it. And hearing about this, if it sounds kind of,
+
+28:52.674 --> 29:13.662
+To a Westerner who's not thinking about the underlying neural circuitry, it could sound kind of wacky, but when you look at the neural circuitry, the neuroanatomy, it really starts to make sense. Intense stimulation of the abdomen, however, with this electroacupuncture has a very strong effect of increasing inflammation in the body.
+
+29:13.762 --> 29:38.910
+This is important to understand because it's not just that stimulating the gut does this because you're activating the gut area. It activates a particular nerve pathway for the aficionados. It's the splenic spinal sympathetic axis, if you really want to know, and it's pro-inflammatory under most conditions. If for instance, the person is dealing with a particular bacterial infection, that can be beneficial.
+
+29:39.234 --> 30:06.398
+This goes back to a much earlier discussion that we had on a previous podcast and that we'll revisit again and again, which is that the stress response was designed to combat infection. So it turns out that there are certain patterns of stimulation on the abdomen that can actually liberate immune cells from our immune organs, like our spleen and counter infection. When you stimulate these pathways that activate in particular the adrenals, the adrenal gland liberates norepinephrine and epinephrine,
+
+30:07.234 --> 30:29.118
+and the brain does as well, it binds to what are called the beta noradrenergic receptors. Okay, so this is really getting kind of down into the weeds, but the beta noradrenergic receptors activate the spleen, which liberates cells that combat infection. That's the short-term quick response. The more intense stimulation of the abdomen and other areas can be,
+
+30:29.218 --> 30:56.574
+because of the ways that they trigger certain loops that go back to the brain and trigger the sort of anxiety pathways that exacerbates pain. So one pathway stimulates norepinephrine and blunts pain, the other one doesn't. What does all this mean? How are we supposed to put all of this together? Well, there's a paper that was published in Nature Medicine in 2014, this is an excellent journal, that describes how dopamine can activate the vagus
+
+30:56.802 --> 31:25.246
+and norepinephrine can activate the vagus peripherally and reduce inflammation. What this means is that there are real maps of our body surface that when stimulated, communicate with our autonomic nervous system, the system that controls alertness or calmness, and thereby releases either molecules like norepinephrine and dopamine, which make us more alert and blunt our response to pain, and they reduce inflammation.
+
+31:25.346 --> 31:48.382
+But there are yet other pathways that when stimulated are pro-inflammatory. One of the things that bothers me so much these days, and I'm not easily irritated, but what really bothers me is when people are talking about inflammation, like inflammation is bad. Inflammation is terrific. Inflammation is the reason why cells are called to the site of injury to clear it out. Inflammation is what's going to allow you to heal from any injury.
+
+31:48.546 --> 32:14.782
+Chronic inflammation is bad, but acute inflammation is absolutely essential. Remember those kids that we talked about earlier that have mutations in these receptors that for sensing pain, they never get inflammation. And that's why their joints literally disintegrate. It's really horrible because they don't actually have the inflammation response because it was never triggered by the pain response. So I think that the data on acupuncture are turning out to be very interesting.
+
+32:15.394 --> 32:26.814
+I'd like to take a quick break and thank one of our sponsors, David. David makes a protein bar unlike any other. It has 28 grams of protein, only 150 calories and zero grams of sugar.
+
+32:26.914 --> 32:48.158
+That's right, 28 grams of protein and 75% of its calories come from protein. These bars from David also taste amazing. My favorite flavor is chocolate chip cookie dough, but then again, I also like the chocolate fudge flavored one and I also like the cake flavored one. Basically, I like all the flavors. They're incredibly delicious. For me personally, I strive to eat mostly whole foods. However, when I'm in a rush,
+
+32:48.258 --> 33:04.350
+or I'm away from home, or I'm just looking for a quick afternoon snack, I often find that I'm looking for a high quality protein source. With David, I'm able to get 28 grams of protein with the calories of a snack, which makes it very easy to hit my protein goals of one gram of protein per pound of body weight each day.
+
+33:04.546 --> 33:33.662
+And it allows me to do that without taking in excess calories. I typically eat a David Barr in the early afternoon or even mid afternoon, if I want to bridge that gap between lunch and dinner. I like that it's a little bit sweet, so it tastes like a tasty snack, but it's also given me that 28 grams of very high quality protein with just 150 calories. If you would like to try David, you can go to davidprotein.com slash Huberman. Again, the link is davidprotein.com slash Huberman. Before I continue, I just thought I'd
+
+33:33.954 --> 34:03.678
+answer a question that I get a lot, which is what about Wim Hof breathing? Wim Hof also called AKA the Iceman has this breathing that's similar to Tummo breathing as it was originally called involves basically hyperventilating and then doing some exhales and some breath holds. A number of people have asked me about it in relation to pain management. The effect of doing that kind of breathing, it's not a mysterious effect. It liberates adrenaline from the adrenals. When you have adrenaline in your system and when the spleen is very active,
+
+34:04.034 --> 34:25.566
+That response is used to counter infection and stress counters infection by liberating killer cells in the body. You don't want the stress response to stay on indefinitely, however. Things like Wim Hof breathing, like ice baths, anything that releases adrenaline will counter the infection.
+
+34:25.793 --> 34:52.894
+but you want to regulate the duration of that adrenaline response. Today, we've talked about a variety of tools, but I want to center in on a particular sequence of tools that hopefully you won't need, but presumably if you're a human being and you're active, you will need at some point. It's about managing injury and recovering and healing fast, or at least as fast as possible. It includes removing the pain, it includes
+
+34:53.378 --> 35:21.502
+getting mobility back and getting back to a normal life, whatever that means for you. I want to emphasize that what I'm about to talk about next was developed in close consultation with Kelly Starrett, who many of you probably have heard of before. Kelly can be found at The Ready State. He's a formally trained, so degreed and educated exercise physiologist. He's a world expert in movement and tissue rehabilitation. So I asked Kelly, I made it really simple. I said,
+
+35:21.698 --> 35:48.766
+okay, let's say I were to sprain my ankle or break my arm or injure my knee or ACL tear or something like that, or shoulder injury. What are the absolute necessary things to do regardless of situation? So the first one is a very basic one that now you have a lot of information to act on, which is sleep is essential. And so we both agreed eight hours of sleep would be ideal, but if not, at least eight hours immobile. So that's a non-negotiable in terms of
+
+35:48.962 --> 36:14.590
+getting the foundation for allowing for glymphatic clearance and tissue clearance, et cetera. The other is if possible, unless it's absolutely excruciating or you just can't do it, a 10 minute walk per day, of course, you don't want to exacerbate the injury, at least a 10 minute walk per day and probably longer. This is where it gets interesting. I was taught, I learned that when you injure yourself, you're supposed to ice something, you're supposed to put ice on it, but I didn't realize this, but
+
+36:14.850 --> 36:42.366
+When speaking to exercise physiologists and some physicians, they said that the ice is really more of a placebo. It numbs the environment of the injury, which is not surprising, and will eliminate the pain for a short while, but it has some negative effects that perhaps offset its use. It actually can create some like clotting and sludging of the tissue and fluids, which is bad because you want the macrophages and the other
+
+36:42.946 --> 37:05.790
+cell types phagocytosing eating up the debris and injury and moving it out of there so that it can repair. So that was surprising to me, which made me ask, well, then what about heat? Well, it turns out heat is actually quite beneficial. The major effects seem to be explained by heat improving the viscosity of the tissues and the clearance and the perfusion of fluid
+
+37:05.890 --> 37:32.926
+blood, lymph, and other fluids out of the injury area. So all of this might sound just like common sense knowledge. I always just thought it's ice, it's non-steroid anti-inflammatory drugs, it's things that block prostaglandin. So things like aspirin, ibuprofen, acetaminophen, those things generally work by blocking things like they're called the Cox prostaglandin blockers and things of that sort, things in that pathway. Those,
+
+37:33.282 --> 38:01.694
+sorts of treatments which reduce inflammation may not be so great at the beginning when you want inflammation, they may be important for limiting pain so people can be functional at all. But the things that I talked about today really are anchored in three principles. One is that the inflammation response is a good one. It calls to the site of injury, things that are going to clean up the injury in bad cells. Then there are going to be things that are going to improve perfusion like
+
+38:01.826 --> 38:26.110
+the glymphatic system, getting deep sleep, feet elevated, sleeping on one side, low level zone two cardio three times a week. Many people ask me about platelet-rich plasma, so-called PRP. They take blood, they enrich for platelets, and then they re-inject it back into people. Here's the deal. It has never been shown whether or not the injection itself is
+
+38:26.466 --> 38:56.286
+what's actually creating the effect. The claims that PRP actually contains stem cells are very, very feeble. And when you look at the literature and you talk to anyone expert in the stem cell field, they will tell you that the number of stem cells in PRP is infinitesimally small. Stem cells are an exciting area of technology. However, there's a clinic down in Florida that was shut down a couple of years ago for injecting stem cells harvested from patients
+
+38:56.386 --> 39:16.350
+into the eye for macular degeneration. These were people that were suffering from poor vision and very shortly after injecting these stem cells into the eyes, they went completely blind. And I'm not here to tell you that you should or shouldn't do something, but I do think that anything involving stem cells, one should be very cautious of. The major issue with stem cells that I think is concerning
+
+39:17.058 --> 39:43.390
+is that stem cells are cells that want to become lots of different things, not just the tissue that you're interested in. So if you damage your knee and you inject stem cells into your knee, you need to molecularly restrict those stem cells so that they don't become tumor cells, right? A tumor is a collection of stem cells. One needs to approach this with extreme caution, even if it's your own blood or stem cells that you're re-injecting.
+
+39:43.586 --> 40:09.790
+So I'm going to close there. I've talked about a lot of tools today. I've talked a lot about somatic sensation, about plasticity, about pain, about acupuncture, some of the nuance of acupuncture, inflammation, stress. We even talked a little bit about high intensity breathing. So as always, we take kind of a whirlwind tour through a given topic, lay down some tools as we go,
+
+40:10.082 --> 40:32.190
+Hopefully the principles that relate to pain and injury, but also neuroplasticity in general today in the context of the somatosensory system will be of use to all of you. I don't wish injury on any of you, but I do hope that you'll take the information, do with it what you will. Once again, thanks so much for your time and attention today. And as always, thank you for your interest in science.

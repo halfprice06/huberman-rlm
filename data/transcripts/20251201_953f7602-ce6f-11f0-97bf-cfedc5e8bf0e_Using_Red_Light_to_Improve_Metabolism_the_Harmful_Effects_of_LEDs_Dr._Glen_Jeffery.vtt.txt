@@ -1,0 +1,928 @@
+WEBVTT
+
+00:00.034 --> 00:27.102
+Let's talk about indoor lighting because I am very concerned about the amount of short wavelength light that people are exposed to nowadays, especially kids. This is an issue on the same level as asbestos. This is a public health issue and it's big. And I think it's one of the reasons why I'm really happy to come here and talk because it's time to talk. When we use LEDs, the light found in LEDs, when we use them
+
+00:27.298 --> 00:50.910
+certainly we'll be using them on the retina, looking at mice, we can watch the mitochondria gently go downhill. They're far less responsive. Their membrane potentials are coming down. The mitochondria are not breathing very well. You can watch that in real time. Welcome to the Huberman Lab podcast, where we discuss science and science-based tools for everyday life.
+
+00:53.826 --> 01:16.894
+I'm Andrew Huberman, and I'm a professor of neurobiology and ophthalmology at Stanford School of Medicine. My guest today is Dr. Glenn Jeffery, a professor of neuroscience at University College London. In today's episode, we discuss how you can use light, in particular red, near-infrared, and infrared light to improve your health. And no, not just by getting sunlight. Although we do talk about sunlight,
+
+01:16.994 --> 01:35.582
+Dr. Jeffery's lab has discovered that certain wavelengths or colors of light can be used to improve your skin, your eyesight, even your blood sugar regulation and metabolism. Dr. Jeffery explains how light is absorbed by the water in your mitochondria, the energy producing organelles within your cells, to allow them to function better by producing more ATP.
+
+01:35.810 --> 01:54.558
+He also explains how long wavelength light, things like red light, can be protective against mitochondrial damage caused by excessive exposure to things like LED bulbs and screens, which of course we are all exposed to pretty much all day long nowadays, and simple, inexpensive, and even zero cost ways that you can get long wavelength light exposure, and again,
+
+01:54.690 --> 02:19.486
+not just by getting more sunlight. He explains that long wavelength light can actually pass into and through your entire body and that it scatters when inside you. Now that might sound scary, but it's actually a great thing for your health because that's how long wavelength light can improve the health of all your organs by entering your body and supporting your mitochondria. Believe it or not, certain wavelengths of light can actually pass through your skull into your brain and help promote brain health.
+
+02:19.586 --> 02:45.054
+During today's episode, we also discuss new findings that correlate the amount of sunlight you're exposed to with longevity. Those are very surprising findings, but they're important. Also why everyone needs some UV light exposure. And we discuss whether it's important to close your eyes when using red light devices or in red light saunas, and how best to apply red light and things like infrared light in order to drive maximum health benefits. Today, you're going to learn from one of the greats in neuroscience,
+
+02:45.154 --> 03:13.950
+as to how to use light to improve the health and longevity of any and every tissue in your body and the mechanisms for how that works. Before we begin, I'd like to emphasize that this podcast is separate from my teaching and research roles at Stanford. It is however, part of my desire and effort to bring zero cost to consumer information about science and science related tools to the general public. In keeping with that theme, today's episode does include sponsors. And now for my discussion with Dr. Glenn Jeffery. Dr. Glenn Jeffery, welcome.
+
+03:14.626 --> 03:43.518
+Thank you. Thank you very much. We go way back. Later, I'll tell a little bit of the story and why it is truly unforeseen that we'd be sitting here talking about what we're talking about. But it's great to see you again. And I'm super excited about the work you've been doing over the last few years because it's completely transformed the way that I think about light and health, light and mitochondria. And frankly, every environment I go into now, indoor or outdoor, I think about how that
+
+03:43.714 --> 04:11.006
+lighting environment is impacting my cellular health, maybe even my longevity. So if you would be willing, could you explain for people a little bit about light as let's say the visible spectrum, the stuff that we can see and the stuff that's kind of outside what we can see as a framework for how that stuff impacts our cells? Because I think without that understanding, it's going to be a little bit mysterious how it is that lights of particular colors
+
+04:11.298 --> 04:32.926
+wavelengths as we call them, could impact our mitochondria the way they do. But with just a little bit of understanding about light, I think people will get a lot more out of our conversation. Yeah, sure. We think about light purely in terms of the light we see, and that's perfectly natural. And the light we see runs from deep blue, violet, out to pretty deep red, deep bicycle light.
+
+04:33.122 --> 05:01.246
+And that's what we see. That's what we're aware of. The trouble is that actually there's a lot more of it than that. The sun kicks out a vast amount of light that we don't see. So let's say the visual range is, just grab the numbers, which is say 400 to 700. That's our spectrum. Nanometers. Yeah, nanometers. And there we're talking about the wavelength, how bumpy those wavelengths of light are. Sunlight extends out almost to 3,000 nanometers. Just think about it. Big, big range. And then...
+
+05:01.794 --> 05:30.494
+That's in the infrared. And on the other end, the bits that we don't see, the deep, deep blues and the violets, that goes down deeply to about 300 nanometres. Now, this is a continuum. We parcel it up because there's bits we see and there's bits we don't see. You can think about it as a continuous wavelength, and the wavelength gets longer and longer and longer as we go out into the deep red. So short wavelength lights...
+
+05:31.074 --> 05:59.262
+The ones just below blue, they're very, very high frequency. They carry quite a kick. And that's why when you're sitting in the sun and you get sunburn, it's mainly because of those ultraviolet short wavelengths that are present. And then you go beyond our visual range, beyond 700, and the wavelengths become very, very long. And they carry a certain kind of energy, but they don't carry the kick. So the important point to think of is when you go out in sunlight,
+
+05:59.586 --> 06:27.902
+you see all these colors, blues, greens, reds, but there's so much out there that you don't see. And we thought probably you didn't need to be aware of. But nearly all animals basically see this visual range that we have. Red, orange, yellow, green, blue, indigo, violet. We could separate those out by shining light through a prism. I think the cover of the Pink Floyd, Dark Side of the Moon album. And that's separating out the different wavelengths. You say that the short wavelengths have a kick.
+
+06:28.034 --> 06:57.950
+I wanna talk a little bit about what that kick is. We distinguish between ionizing and non-ionizing radiation. And I think for a lot of people, they hear the word radiation and they think radioactive, and they think that all radiation is bad or dangerous. But in fact, light energy is radiating, right? So it's radiation energy. But at the short wavelengths, below UV, they are ionizing radiation. And maybe we could just explain what that means, how that actually changes our cells. Because if we get too much of that,
+
+06:58.114 --> 07:15.422
+it indeed can alter our DNA. I think the important point to think about is not only what the wavelengths are, but also how body responds to those wavelengths. So let's bounce back a little bit to, for instance, the sunburn. We're getting sunburnt because
+
+07:15.554 --> 07:44.830
+the body is blocking those wavelengths. Those wavelengths cannot penetrate very far. So when you're out on a hot, sunny day and part of your body goes pink, it's going pink because it's blocking those wavelengths. So the energy is not being distributed throughout the body. The energy is hitting the skin and you're getting an inflammatory response to it. Now, interestingly, we block those from our eye because our lens and our cornea...
+
+07:44.994 --> 08:12.126
+also blocks those short wavelengths. So that's part of the reason why we don't see them. But it's also the reason why, for instance, people get snow blindness, because it's just sunburn on the cornea and the lens. It's recoverable from, but it's very painful. And with age, some people who get a lot of sun exposure will get cataract. Yes, yeah. Which is a kind of a, the lens becomes more opaque. It does. And I've heard that described as being the lens being cooked.
+
+08:12.578 --> 08:40.862
+But in actual fact, I used to run the eye bank at Moorfields Eye Hospital, Eyes for Research. And you can actually open a patient's eyes up when they're dead. And you can look at the color of the lens and you can get a rough idea of how old that person was. So one of the surgical procedures that medics love is to replace a cataract, take an older person. They've got this thick brownish lens and...
+
+08:40.962 --> 09:07.806
+pop it out, and put a clear lens in. And the incident response in 90% of them is, wow. In the patients. Yeah. These are live patients. Live patients is done under a local anesthetic in older patients. And they just go, wow, isn't that amazing? Suddenly, they're getting a lot more light in their eye. Because the lens was brown, it blocked a lot of the blur wavelengths. And so they go, everything is very bright. Everything's very sparkly.
+
+09:07.906 --> 09:37.118
+And it was quite a dramatic response. But the interesting thing is two days later they said, yeah, it's gone. And the brain kind of re-adapts that visual input from the retina. But going back over the literature of replacing cataracts is quite interesting. It tells you actually quite a lot. Now when we put those plastic lenses in, we have UV blockers in them so that the amount of... So you don't actually get a lot of...
+
+09:37.730 --> 10:07.006
+short wavelengths coming through. But there was certainly the response in the earlier days when we didn't have UV blockers of people saying, God, that's sparkly. That's really sparkly. Yeah, the sparkliness being those short wavelengths. Like think off the top of water on a really sunny day. So I think the takeaway for me is that we should all be protecting our skin against too much UV and other short wavelengths. And we should probably protect our eyes against too much
+
+10:07.362 --> 10:32.190
+ultraviolet exposure over time. We know that you don't want the mutations of the skin or the clouding of the lens. I mean, you pointed out you can replace the lens, but I think at the same time we need UV, right? I mean, vitamin D production requires UV exposure. Do we know how that works, what that pathway is? Yeah, we've got a fairly good idea, but I
+
+10:32.322 --> 11:00.574
+I want to just take you back a step, if I may. There's some really fantastic work coming out at the moment where a few dermatologists are reevaluating the issue of sunlight on the human body. And the leader of that is a character called Richard Weller from Edinburgh. And he's going back over all the data. And Richard's coming out and saying, you know, all-cause mortality is lower in people that get a lot of sunlight.
+
+11:00.674 --> 11:29.534
+And his argument is that the only thing you've got to avoid is sunburn. You know, the mutations of DNA are occurring really when you've got very, very high levels, not when you've got relatively low levels. And Richard's work has been terribly interesting because he's dug out all the little corners, all the little things that you think about three days late. He's dug out all those little corners. And, you know, things like Aborigines in Australia,
+
+11:29.826 --> 11:59.518
+don't get skin cancer. White people there probably are in the wrong place given their evolutionary stage. Yeah, high levels of skin cancer in Australia. In the Caucasian population. But maybe they're getting too much sun exposure too fast. The UV index is very high down there, I will say. Yes, exactly. You feel it. You feel it, quote unquote. Yeah, yeah. It's interesting. I hosted a derm oncologist on this podcast, Dr. Teo Soleimani. So he's a dermatologist who's also
+
+11:59.682 --> 12:29.310
+and derm oncology. So skin cancer is one of his specialties. And he surprised me when he told us that indeed, sunburn can lead to skin cancers. Too many sunburns can lead to skin cancers, but that the most deadly skin cancers, the most deadly melanomas are not associated with sun exposure. Those can occur independent of sun exposure. And they often occur on parts of the body that get very little sun exposure. Like the melanomas will show up
+
+12:29.570 --> 12:57.438
+I think Bob Marley died eventually from one that started between his toes or something, or on the bottom of the foot. There's a lot to unpack about the relationship between light and skin cancers. And I'm going to chase down the literature trail of this Weller guy. Richard Weller is very interesting. I think he said he hasn't got any dermatological friends anymore. Probably not. But he also pointed out that if skin cancer was
+
+12:57.602 --> 13:24.382
+directly related with sunlight, then we should find in skin cancer patients, you know, very high levels of vitamin D. In actual fact, they've got relatively low levels of vitamin D. So as you say, that story needs to be unpacked. And what's happened, I think, in the dermatological literature is that we've followed a pattern. Yeah, we've followed an assumption and it's gone a very long way down the line. And then it's taken a little bit of a rogue to come out and say, hang on,
+
+13:24.802 --> 13:53.470
+We need to take a step back here. And I think Richard Weller's leading that. And we obviously both have an interest in daylight. But his interest in daylight tends to be focused a little bit more on those blue short wavelengths, whereas I'm at the other end of the spectrum. But I think he's a mover and a shaker. Great. Well, I'm excited to see where that literature leads. And I'm glad that somebody's parsing, as you said, all the corners of it, because I think we've been fed a story that
+
+13:54.018 --> 14:20.446
+excessive sunlight leads to skin cancer. And the data on reduced all-cause mortality in people that get a lot of sunlight, I saw a study out of Sweden, looks very, very solid. But more data is needed, clearly. Yeah. I think that that story, there was a story out of Sweden, there was also a story out of the University of East Anglia. And we're talking big numbers. We're talking very big numbers on that. So it could have a lot of
+
+14:20.578 --> 14:48.254
+points that we don't quite understand yet, but I think the solid thrust of it, and the interesting thrust of it for me is that that all-cause mortality flagships up on that are cardiovascular disease and cancers. It's not the obvious ones that we'd be thinking about. So yeah, let's use the term unpacking. That one definitely needs unpacking, but from a public health perspective, that's an important area. Well, I'm certainly a fan of people getting sunlight both
+
+14:48.418 --> 15:08.158
+in their eyes and on their skin, although not to the point of burning, obviously. In today's financial landscape of constant market shifts and chaotic news, it's easy to feel uncertain about where to keep your money. However, saving and investing does not have to be complicated. There's a solution that can help you take control of your finances while still managing risk.
+
+15:08.290 --> 15:30.942
+and that's Wealthfront. I've trusted Wealthfront with my finances for nearly a decade. With the Wealthfront cash account, I can earn 3.5% annual percentage yield, or APY, on my cash from program banks, and I know my money is growing until I'm ready to spend it or invest it. One of the features I love about Wealthfront is that I have access to instant no-fee withdrawals to eligible accounts 24-7.
+
+15:31.138 --> 16:00.574
+That means I can move my money where I need it without waiting. And when I'm ready to transition from saving to investing, Wealthfront lets me seamlessly transfer my funds into one of their expert-built portfolios. For a limited time, Wealthfront is offering new clients an additional 0.65% boost over the base rate for three months, meaning you can get up to 4.15% variable APY on up to $150,000 in deposits. More than 1 million people already trust Wealthfront to save more, earn more, and build long-term wealth with confidence.
+
+16:00.738 --> 16:28.958
+If you'd like to try Wealthfront, go to wealthfront.com slash Huberman to receive the boosted APY offer and start earning 4.15% variable APY today. That's wealthfront.com slash Huberman to get started. This is a paid testimonial of Wealthfront. Client experiences will vary. Wealthfront brokerage is not a bank. The Bayes APY is as of November 7th, 2025 and is subject to change. For more information, please see the episode description.
+
+16:29.314 --> 16:52.798
+Today's episode is also brought to us by Juve. Juve makes medical grade red light and infrared light therapy devices. Now, if there's one thing that I've consistently emphasized on this podcast, it is the incredible impact that light can have on our biology and our health. In fact, that's the topic of today's discussion with Dr. Glenn Jeffrey, the world's most accomplished biologist on the power of red light for promoting different aspects of your health.
+
+16:52.994 --> 17:05.982
+Red light and infrared light have been shown to have remarkable effects on cellular and organ health, including improved mitochondrial function, improved skin health and appearance, reduced pain and inflammation, and even for improving vision itself.
+
+17:06.114 --> 17:31.198
+Recent research shows that even relatively brief exposure to red and infrared light can meaningfully improve your metabolism and blood sugar regulation. Now there are a lot of different red light therapy devices out there, but what sets Juve lights apart and why they're my preferred red light therapy device is that they use clinically proven wavelengths, meaning specific wavelengths of red light, near infrared and infrared light in exactly the right ratios to trigger the cellular adaptations for health.
+
+17:31.458 --> 18:00.478
+Personally, I use the Juve whole body panel about three to four times per week for about five to 10 minutes per session. And I use the Juve handheld light both at home and when I travel. If you'd like to try Juve, you can go to Juve, spell J-O-O-V-V.com slash Huberman. Right now, Juve is offering a special holiday discount of up to $600 off select Juve products. Again, that's Juve, J-O-O-V-V.com slash Huberman to get up to $600 off. So let's talk about Juve.
+
+18:01.186 --> 18:28.414
+how light impacts mitochondria and other aspects of cellular function, and maybe use that as a segue into the longer wavelengths. Yeah, sure. That area is expanding enormously, and it's expanding enormously in lots of little pockets, and the pockets weren't always talking to one another very well. The first person that came along and said, look, longer wavelengths are really positively affecting mitochondrial function.
+
+18:29.218 --> 18:56.798
+was a lady called Tina Carew in Russia who was very largely ignored. I think she's still alive. I would love to buy her a glass of champagne, if only because she started it off. She kick-started it off. But she was very much of the opinion that mitochondria absorb long waves of light. Parts of the mitochondria absorb it. One of my studies to try and pin this down was
+
+18:57.538 --> 19:24.734
+was to take a whole load of mitochondria, put them in a test tube, put a spectrometer on them and a light and say, what are these guys absorbing? Well, I found the point where they were absorbing the damaging blue light, but I could not find the red. I could not find it. There's a lot of stomping around in the lab. You know, who's made a mistake? You know, everyone parceling the blame on. But it changed. It changed because...
+
+19:25.410 --> 19:54.846
+What absorbs long wavelength line? Well, a most obvious one is water. The sea is blue because the long wavelengths are absorbed. So someone came along and said, is it about water? Is it about water in mitochondria that's doing this? Now, when we make mitochondria make energy, they make energy called ATP, and you make your body weight in that every day. It's a vast process. And you make it as a wheel turns round.
+
+19:54.946 --> 20:23.326
+Mitochondria have these little wheels, these pumps that spin around, but they spin around in water, nanowater. And apparently, I'm not a physicist, nanowater is viscous. So one idea I think which we have to take quite seriously is that the viscosity of water is changing as a consequence of long wavelength light that penetrates deeply in the body. There is an increase in the spin rate of the motor,
+
+20:23.618 --> 20:51.966
+that produces ATP, and it gains momentum. Now, that is absolutely fine. I can stick with that one. I think that one makes a considerable degree of sense, and it gets us over a problem. Mitochondria themselves are not absorbing long-way flight. It's the water that they're surrounded by. It's their environment. Okay, so I think in the end when you talk about the function of anything, we tend to focus on that thing, and we don't talk too much about where is it.
+
+20:52.130 --> 21:22.046
+What's it surrounded by and how does it influence it? So the first reaction, I think, is that the motor starts to go around a little faster. But then something else happens, which is really interesting, which is we start to make more of these chains that make energy. So let's say mitochondria is a chain. It's a series of things and electrons are passed along that chain to produce energy. Well, when we give long wavelengths light,
+
+21:22.242 --> 21:52.190
+we find the proteins in those chains, we find a lot more of them. So my analogy is that giving red light gets the train to run down the track faster. That's true. But then something detects the speed of that train and says, lay down more tracks. We need more tracks. So we're finding a lot more protein there that is associated with passing that electron down the pathway to make energy. Interesting. So it sounds as if
+
+21:52.450 --> 22:20.542
+long wavelength light via water is actually changing the structure of mitochondria and its function as well. Yeah, I think I would say it's improving the function and it's influencing the more mitochondrial proteins to be synthesized. So we've got an immediate effect and we've got a longer term effect as well. Well, one thing we know about mitochondria is that they started off as independent
+
+22:20.706 --> 22:49.758
+bits of biology and then the eukaryotic cells, which we have, essentially took those in and they became fundamentally part of the cell and it's passed on through the genome. So the idea was that mitochondria were separate from our cells at one point or from cells and were essentially co-opted by our cells or hijacked our cells, we don't know which. And then now they, because they share a genome, mitochondrial DNA and genomic DNA,
+
+22:49.986 --> 23:18.718
+they're passed along. And it makes perfect sense to me as to why that if they're really of bacterial origin, which we think they are, that they would be absorbing or through the water they would be absorbing along wavelength light because they evolved in water. I think it's worth us just mentioning this business of absorption versus reflection in terms of colors. I think people might find this interesting that you said, you know, the ocean appears blue because it's
+
+23:19.170 --> 23:44.350
+absorbing all the red, all the long wavelength light, and it's reflecting back the short wavelength, blue light. Yeah, yeah. Red stuff does the exact opposite. Like when we see a red apple, it's doing the exact opposite. It's reflecting the red light back towards us, the long wavelength light. I think most people probably don't realize that. And then we talk about white containing all the wavelengths, right? Yes, yes. And black absorbing all the wavelengths, right? That's the notion. Yeah. So it's interesting. Yeah.
+
+23:44.450 --> 24:04.606
+to think about light as either being absorbed or reflected back. It makes perfect sense to me why the mitochondria would absorb the red light. But of course, I'm saying that already hearing the just so story. So it makes sense once you hear it. It makes sense once you hear it. And why the hell did we not think about that?
+
+24:04.866 --> 24:34.846
+five years ago. Scientists make really big mistakes in the pathways that they follow. And they don't talk about their mistakes, but their mistakes are every bit as important as their great results. Why didn't we think about water? Because our minds were trapped in a certain pathway going down a certain alleyway. And so whatever you think about the water hypothesis, the key point is that improvements in function as a consequence of exposure are
+
+24:35.362 --> 25:04.190
+Two longer wavelengths light correlate tightly with what water absorbs. Right? So, okay, that's a big one. That's a big one. That is there. We know that's true. You can pull it apart and find the things called water holes where there are places where water absorbs a bit more than it does in other places. But fundamentally, the absorption of long wavelength light fits water. So much of your work focuses on how long wavelength light
+
+25:04.578 --> 25:31.806
+can enhance the function of cells that are not on the surface of the body. They're not on the skin, they're in the eyes. And now we'll get to these data soon, but you published data that long wavelength light can penetrate very deeply and even through the body. Even when people are wearing a t-shirt, like all the way through the body and impact mitochondria all along the way. So maybe we should just talk about
+
+25:32.322 --> 25:59.742
+long wavelength light and how it can penetrate through the skin. You mentioned that UV is essentially blocked by the skin. So if I step outside, for instance, on a nice sunny morning, or even a partially overcast morning, but some long wavelength light is coming through, is it passing all the way through my body and impacting the water and mitochondria of every cell along the way? Is it scattering? I mean, how deep does this stuff go? Okay, so...
+
+25:59.906 --> 26:29.854
+Let's stand you out. Let's strip you off and stand you out in sunlight, you know, 12 o'clock in July. The vast majority of long wavelength light is being absorbed in the body. So what we assume is that it has a very, very high scattering ratio. So the vast majority of that long wavelength light is going to hit inside your, it's going to get through into your body and it's going to bounce around. So it's going to literally go through the skin.
+
+26:29.986 --> 26:59.710
+It goes through the skin. And let's take the simple experiment. The simple experiment was you strip people off and you stand them in front of sunlight and you put a radiometer on their back. Tell us what a radiometer is. A radiometer measures the amount of energy coming through. Okay. And then we put a radiometer on, we put a spectrometer on your back as well, which tells us the wavelength. And what we get from that, the reading we get from that, is that a few percent of
+
+26:59.938 --> 27:29.246
+a few percent is coming out the back. Now we shouldn't concentrate on that. What we should concentrate on is what happens to the rest because it's not bouncing back from the surface of the skin, very little bounces back. It's being absorbed. Amazing, which is amazing. Well, it's very interesting. It makes sense based on the physics of it, but it's amazing, right? That the long wavelength light is actually penetrating our skin, bouncing around in our internal organs, and some's getting out the other side. I think that's going to surprise a number of people.
+
+27:29.378 --> 27:55.550
+In any conversation like this, we need to talk about silos, people coming from different angles at a problem. And I have the advantage of Bob Fosbury working with me. Bob was lead for analyzing atmospheres on exoplanets with the European Space Agency. He had a lot to do with the European use of Hubble. And a lot of his spectrometers are up on the James Webb telescope. Now, there are super advantages to
+
+27:55.810 --> 28:21.342
+for having someone from another silo to come in. But there are also really annoying issues as well. So I said, Bob, I really want to measure whether light goes through the body. And he said, we all know that. Forget it. It's a waste of time. And I said, you think you know it based on principles of physics? I don't know it. And actually, I don't think you know something until it's published and everybody knows it and can talk about it. So yeah, Bob came along and said,
+
+28:21.570 --> 28:44.894
+Yeah, long wavelength has to go through. But it needed demonstrating. Now, the other thing that Bob did pick up on this and did start to get a lot more interested in it, because then he went through his wardrobe and he took different layers of clothing from his wardrobe and put long wavelength lights behind them. So what goes through clothing? And the amazing thing is long wavelength light goes through clothing.
+
+28:45.058 --> 29:09.918
+It goes through clothing. It goes through clothing. Any clothing? Well, if you want to wear rubber, I think not. But if you want to wear your standard T-shirt, I think he used six layers, T-shirt. And does color matter? Like I'm wearing a black shirt right now. No, makes no difference whatsoever. And the other thing we do not know, and this is terribly important, as we don't know here, is this long wavelength like bounces around all over the place.
+
+29:10.082 --> 29:37.406
+So we've got some long wavelength light sources and I think I'm shining this long wavelength light there, right? And then when I put my instrumentation up, it's all over the place. Inside the body. Inside the body, inside the room. It's going everywhere. I can't control it. Not unless I start putting materials like aluminium foil to block it. So when we think about long wavelength light, its advantages.
+
+29:37.538 --> 30:02.462
+We talk about using this device or that device. What we also need to think about is, okay, you've got a small device with a small beam of light going here. It's bouncing all around the room. It's coming in from a different angle and different parts of your body. But certainly most concentrated in terms of energy at the point source. But you cannot assume that the point source is the only source of energy.
+
+30:02.754 --> 30:30.814
+that long wavelength light if you're in a confined space. Well, let's use that as an opportunity to talk about a related study, and then we'll circle back to the, let's call it the light passing through the body study. Because the study I'm about to mention, I think is going to be so interesting to people and a little bit shocking and very, very cool because it's actionable, which is you did a study showing that
+
+30:32.098 --> 30:50.686
+Even if you illuminate just a small portion of the skin with long wavelength light, it changes the blood glucose response. Literally blood sugar response is altered by shining red light on the skin. And for years there were these, let's call them corners of the internet.
+
+30:51.138 --> 31:14.494
+that would say things like, oh, you know, when you eat out of doors, it has a different effect on your body than when you eat indoors. But there are too many variables there, right? Because when you eat out of doors, typically it's at a picnic and then you have greenery and they're socializing. And no one's going to fund a proper study to look at, you know, to parse every variable in a picnic versus an indoor cafeteria. And it's not worth the taxpayer dollars, frankly. You did the right study, which was to shine light
+
+31:14.626 --> 31:38.910
+on what was it, the back? It was on a small area of the back, yeah. And I must make it very clear, first of all, the person whose idea this was was my colleague, Mike Pounder. And Mike's thought processes were very, very clear. We were on a long drive to do some research well out of London. And that's a great time for, because the journey starts at five in the morning, it's a great time for gossip,
+
+31:39.138 --> 32:06.078
+It's a great time for wild ideas, for streams of consciousness, which sometimes are very important in science. And it was Mike who said to me, you know, if we make mitochondria work harder, then they need glucose and they need oxygen. So pause while Glenn, who's driving, kind of has to catch up on this idea. I'm generally about a mile behind him intellectually. And I went, yeah, yeah.
+
+32:06.338 --> 32:36.158
+So he said, well, let's not make idiots of ourselves. Let's do it with bumblebees. So our first experiment was to increase... Of course, bumblebees. Of course, why not? The first experiment was on bumblebees because it didn't involve people. It was simple to do. And all we did was we starved bumblebees overnight, gave them a standard blood glucose test. So, you know... Sounds a lot harder than working on humans. No, it's not. You just give them a little...
+
+32:36.290 --> 33:05.534
+of glucose because they have that and they go and their blood glucose goes up. You gave them red light or blue light. We give them red light and their blood glucose does not go up as much. We give them blue light and their blood glucose goes very high. So they're using more of the energy. Yeah. In the red light condition. In the red light condition. In the blue light condition, we're slowing their mitochondria down and so there is more glucose flowing around. I should say that
+
+33:06.274 --> 33:25.022
+Sampling the blood in a bee is a little bit difficult, but you basically pull off one of the antennae and you squeeze a bee and you get a little piece of... All the bee lovers out there. But, you know, we went to the chemist and we bought just the standard blood glucose test that you can get for a few dollars.
+
+33:25.986 --> 33:40.510
+We got a result, therefore it's worth moving forward. Therefore we got the ethical permission, therefore we did the, I can't do the experiment on blue light, I regard that as unethical. Really? Yeah. We're under blue light all day. I'm absolutely convinced that being under blue light
+
+33:40.674 --> 34:07.902
+or short wavelength shifted light all day is altering blood glucose in ways that are detrimental. But in any case, before I rant about that, what happened in humans? So in the humans, we did a standard blood glucose tolerance test, which is horrible. So you get people to starve overnight. They come in, they drink this big sort of cup of vile glucose. So we really pump up the glucose in their body. And then we prick their fingers at regular intervals.
+
+34:08.290 --> 34:33.342
+and sample their blood and see how their blood glucose level changes. And your blood glucose level will peak in about 40 to 60 minutes. It's hard getting subjects for this one. We also put a tube up their nose so we could detect how much oxygen they were consuming. You're calling on friends. I mean, I even dragged my son in as a subject for that one. The result, when we gave people a burst of red light beforehand,
+
+34:33.634 --> 35:03.390
+to stimulate their mitochondria was super clear. It wasn't ambiguous. The blood glucose levels went up, but they didn't peak anywhere near as seriously as they did without the red light. Now, I'm told that the level of your blood glucose is not necessarily a massive issue for concern. What is an issue for concern is it spiking, how much it spikes. And the reduction in the spike was of the order of just over 20%, if I remember correctly.
+
+35:03.490 --> 35:32.158
+Where was the light shown on the body? It was shown on the back, and it covered, I forget what the percentage of the body area was. I did this calculation four or five times because it was ridiculously small. So we were stimulating a very limited area of the body, but we got a systemic response. There was no way that the mitochondria in that little patch of skin was having that effect. But it fits into a wider notion that all these mitochondria...
+
+35:32.738 --> 35:57.726
+act as a community. Now, we now know that. That's coming all from different corners. They act, they do things together. It takes them a little time to have a conversation about it, but they act together. And if we're doing something which was over one to two hours, that's long enough for them to hold that conversation. I'd love to know more about that. Do you recall whether the subjects could feel heat from the infrared light? No. Okay, so they're not feeling heat.
+
+35:57.826 --> 36:26.302
+So that removes also a potential placebo effect of some sort. Do you recall just roughly what the area of illumination was? It's in the publication, but let's go like this. Okay. So for those just listening, maybe like a four by six rectangle. Four by six rectangle makes sense. Four by six inches. Yeah. For all those metric system folks out there. We're on common ground here, given that you're from the UK. We're not unique in finding this. It's just that other people are finding things with red light that are sitting behind different walls. So-
+
+36:26.658 --> 36:51.038
+John Metrophanis, who did most of his research in Australia, he induces Parkinson's disease in primates, which you can do pretty much overnight with a drug. And then he was giving red light to different parts of the body. Now, Parkinson's disease originates from a very small nucleus deep in the brainstem. But he was reducing the symptoms of primates.
+
+36:51.202 --> 37:20.350
+Parkinson's disease in these primates very significantly with lights that were being shone on the abdomen. So, any one of these you take in isolation, and there are many of these studies, and you go, yeah, maybe. Yeah. What does he think it was doing? I mean, clearly it's not rescuing the dopamine neurons that degenerate in Parkinson's, but maybe it's rescuing components of the pathway? It could be rescuing components of the pathway. I think that...
+
+37:20.514 --> 37:45.438
+We know that red light, and we're using that term very loosely, perhaps we shouldn't. We know that long wavelength light reduces the magnitude of cell death in the body. Cell death is very often initiated, apoptosis, by mitochondria. When mitochondria get fed up, and I see them as batteries, when the charge on the battery goes down low enough, they put their hand up and they say,
+
+37:45.922 --> 38:02.302
+time to die. And I think they actually present a molecular eat me signal. Yes. Which is interesting. Like, you know, when we talk about cells dying, that we think about it as a, you know, sort of they go from a shout to a whimper and then they get cleaned up. Like they just, they die. But they actually...
+
+38:02.562 --> 38:22.654
+they solicit for their own death with this eat me signal. They'll get opsonized, for the people that think about the immune system, opsonization, similar things. So if I understand correctly, he induced an insult to these dopamine neurons, and then he used red light shined on the abdomen to offset some of the degeneration that would have occurred.
+
+38:22.754 --> 38:52.414
+Yeah. Okay. Now that, again, fits into the wider spectrum of other research that's not put together. So that was John, and John has been a big leader in red light dementia and Parkinson's disease, and a lot of it in primate models, which means it's got a lot of validity to it. Yeah, they're similar to us. Yeah. Or us to them. Yeah. Another experiment we did was over life, you will lose a third of
+
+38:52.514 --> 39:17.694
+of your rod photoreceptors in your retina. Maybe just explain for people what the rod system is. Okay. The rod system is the majority of photoreceptors are rods. They tend, they're the receptors that you use when you're dark adapted, which a lot of us aren't really much these days. So we've got our cones, which deal with color and deal with bright light. Then as we turn the lights down, we start to use our rods. So
+
+39:17.858 --> 39:29.630
+loads and loads of rods, relatively few cones. What I usually tell students, so this is like in the old days when everyone didn't have a smartphone near their bed, you wake up in the middle of the night and you need to use the restroom.
+
+39:29.794 --> 39:58.270
+can navigate to the restroom. You might flick the light on in the restroom. I don't recommend doing that. It'll quash your melatonin unless it's a red light or you go out on a hike and you don't bring what we call flashlight. Glenn, you guys call it torch. But as you come back, your eyes start to adapt. It's getting dark. You can still see the outline of the trail. There's not starlight yet, but you're able to, as you say, dark adapt. And you can see enough of what you need to see. You're using your rod system. Yeah. The key thing here is rods are very, very numerous.
+
+39:58.882 --> 40:28.510
+are not so. So what happens then, for instance, if we take aging animals and we just expose them to red light every day, we give them a burst of red light, and then we count the number of rods they've got when they reach old age. And the result is super clear. We have reduced the pace of cell death in the retina. Okay. So red light is affecting mitochondria. Mitochondria have the ability to signal cell death
+
+40:28.642 --> 40:57.214
+And we're drawing back the probability of that cell dying. Now, we did that in mice. We did it on a lot of mice. It was a killer of an experiment to keep animals going forever. And then I forced one of my graduate students basically to go one, two, three, four, and count photoreceptor out of segments. She was a hero. So we can use red light to reduce the pace of cell death. So...
+
+40:57.346 --> 41:26.622
+I am not too surprised that John Metrophannis would have reduced the pace of cell death in the substantia Niagara, that nucleus that gives rise to Parkinson's disease. I'm seeing that coming out of loads of different labs, things that are all consistent with that kind of story. The other thing that I think you can start to address is if you've got bad mitochondria, say, very loose term, if you've got bad mitochondria,
+
+41:26.914 --> 41:51.326
+as you do have in Parkinson's disease. They're bad, they're not functioning very well on their way to death. Are they influencing other parts of your body? Parkinson's patients, you think, well, okay, they're all going to have movement disorders. But in actual fact, a lot of Parkinson's patients have a lot of other things that are going on in them. And we're minded to think that as good information can be passed
+
+41:51.874 --> 42:13.534
+to mitochondria and can be shared in that community, so can bad information. You know, if you really upset mitochondria in one place, then other things are changing in different places. So the big takeaway here, and it's not controversial to say, I've heard lots of people saying it, and I didn't say it originally, is that they're a community. You can't deal with them in isolation.
+
+42:14.146 --> 42:40.254
+Even across cells in different areas of the body, they're a community. They are a community. Probably by secreting certain things that support each other. Maybe I've heard some evidence that mitochondria can actually be released from cells. Oh, yeah. Different, although not entirely different than neurotransmitters are released between cells and communicate between cells. Very interesting when one thinks about mitochondria of having maybe
+
+42:40.354 --> 43:08.702
+bacterial origin, again, that our cells co-opted or they co-opted us. We don't know, again, the direction there. I have a question about how far long wavelength light can penetrate and through what tissues. I realize that in the studies we've been talking about, it's long wavelength light exposure to the back, lowering the blood glucose response, or to the abdomen, offsetting some of the degeneration as it relates to this Parkinson's model. If I were to take a long wavelength light
+
+43:09.282 --> 43:37.054
+and put it close to my head, would it penetrate the skull? Oh, definitely. If you look at a long wave light source, and again, this is published, Bob Fosbury did this. He put his hand on one, comes straight through his hand. But the interesting thing is you can't see the bones. It's passing through the bone. So that led me to go into grabbing a few skulls and
+
+43:37.186 --> 44:01.598
+Yeah, it's really not affected that much by bone. And I was talking to some audiology guys in Cambridge who wanted to use red light and they were taking, I think, heads or something and looking at them and they were shining red light in the eye and they say, we can see it in the ear. I can see it and vice versa. So there are things that
+
+44:01.730 --> 44:25.630
+red light doesn't go through. So it is absorbed by deoxygenated blood. So you get fantastic pictures of your veins in your hand or in your head. But the most obvious thing that you think is that long wavelength light will be blocked by something thick like a skull. The answer is no. So going back to our example of the ocean appearing blue because of
+
+44:25.762 --> 44:54.174
+blue light getting reflected back and red light getting absorbed. I think this is very important to kind of double click on in people's minds because people will see an image for instance, and I'll put a link to it from this recent publication of yours, of red light and other, excuse me, long wavelength light, not just red light being shown on a hand. And indeed you don't see the bones and you see the vasculature, this deoxygenated blood. When people see a structure under a particular wavelength of light,
+
+44:55.874 --> 45:09.214
+the kind of reflex is to assume that those structures are the ones that are using the light. But in fact, it's just the exact opposite. It's the stuff you don't see.
+
+45:09.346 --> 45:39.038
+right, that it's passing through. And I think for a lot of people, that's just kind of counterintuitive. So they'll see an image of the veins, right, carrying that deoxygenated blood, and they'll say, oh, you know, red light is impacting the veins, right? But the interesting thing is that it's passing through, that is interesting in itself, but it's passing through all these other structures. And to me, the idea that when I go out on a sunny day, because the sun includes long wavelength light, or were I to be near a long wavelength light emitting device,
+
+45:39.170 --> 46:07.198
+that it's actually getting into the deep brain tissue through the skull. I think for most people, it's just not intuitive to think about light passing through things that are solid in that way. Yes, and I had exactly the same problem. I had exactly the same problem. If you put a radiometer on a spectrometer to measure the energy and the wavelength on one side of someone's head and a light source on the other side of someone's head, you get a clear result. Now,
+
+46:07.554 --> 46:30.494
+Interestingly, it's not a sideline. It's actually a very important issue. A biomedical engineer, Ilias Tachtanidis at UCL, has used this because he works on, some of his work is on neonates that have had stroke. And he takes the neonate and actually does exactly that experiment. He passes red light on.
+
+46:30.626 --> 46:54.782
+wavelengths of light through the side of the neonate's head and records them coming out the other side. And he can use that as a metric of how well the mitochondria are functioning in that damaged brain. And the readouts that he gets are readouts that are indicative of the potential survival of that neonate. Now, I think there are lots of wows here. First of all, it
+
+46:54.946 --> 47:24.094
+He's got his work into a major London teaching and research hospital. He's got it into kids. And we've acknowledged that this is not dangerous. He's gone through loads of ethics committees. The long wavelength light, red and out towards infrared and near infrared, is non-ionizing. Yeah. Right? It's not altering the DNA of the cells. It's contributing to the healthy function of the mitochondria. Forgive me for interrupting. No, no, no. That's a good point. Because when people hear about light passing through a baby's head,
+
+47:24.226 --> 47:47.422
+In order to make that kid healthier, I mean, it's spectacular. I love that this is being done at such a fine institution and so carefully. But the reason it's safe is because that's long wavelength light. Were this to be short wavelength light, we have no idea what it would be doing. I mean, babies have very thin skulls. UV would be, who knows? X-rays, certainly you would never, ever, ever want to do this. So, yeah, I think it's important that people...
+
+47:48.290 --> 48:13.662
+Really remember what we're talking about passing through. Okay. And I think that it's a very important point because I have gone through so many ethics committees to shine long wavelength light, to do various things, including on people that they've got problems and they've got sight problems, they're patients. We've actually also done it with children.
+
+48:13.762 --> 48:42.814
+We've got through ethics committees really with very, very little comment because on many of the ethics committees, they're physicists and they understand the issue. By now, I'm sure that many of you have heard me say that I've been taking AG1 for more than a decade. And indeed, that's true. The reason I started taking AG1 way back in 2012 and the reason why I still continue to take it every single day is because AG1 is, to my knowledge, the highest quality and most comprehensive of the foundational nutritional supplements on the market.
+
+48:42.978 --> 49:10.110
+What that means is that it contains not just vitamins and minerals, but also probiotics, prebiotics, and adaptogens to cover any gaps that you might have in your diet, while also providing support for a demanding life. Given the probiotics and prebiotics in AG1, it also helps support a healthy gut microbiome. The gut microbiome consists of trillions of little microorganisms that line your digestive tract and impact things such as your immune status, your metabolic health, your hormone health, and much more.
+
+49:10.306 --> 49:18.366
+Taking AG1 consistently helps my digestion, keeps my immune system strong, and it ensures that my mood and mental focus are always at their best.
+
+49:18.466 --> 49:45.374
+AG1 is now available in three new flavors, berry, citrus, and tropical. And while I've always loved the AG1 original flavor, especially with a bit of lemon juice added, I'm really enjoying the new berry flavor in particular. It tastes great, but then again, I do love all the flavors. If you'd like to try AG1 and try these new flavors, you can go to drinkag1.com slash Huberman to claim a special offer. Just go to drinkag1.com slash Huberman to get started.
+
+49:45.666 --> 50:08.030
+Today's episode is also brought to us by Rora. Rora makes what I believe are the best water filters on the market. It's an unfortunate reality, but tap water often contains contaminants that negatively impact our health. In fact, a 2020 study by the Environmental Working Group estimated that more than 200 million Americans are exposed to PFAS chemicals, also known as forever chemicals, through drinking of tap water.
+
+50:08.194 --> 50:33.022
+These forever chemicals are linked to serious health issues, such as hormone disruption, gut microbiome disruption, fertility issues, and many other health problems. The Environmental Working Group has also shown that over 122 million Americans drink tap water with high levels of chemicals known to cause cancer. It's for all these reasons that I'm thrilled to have Rora as a sponsor of this podcast. I've been using the Rora countertop system for almost a year now.
+
+50:33.122 --> 51:03.088
+Rora's filtration technology removes harmful substances, including endocrine disruptors and disinfection byproducts, while preserving beneficial minerals like magnesium and calcium. It requires no installation or plumbing, it's built from medical grade stainless steel, and its sleek design fits beautifully on your countertop. In fact, I consider it a welcome addition to my kitchen. It looks great, and the water is delicious. If you'd like to try Rora, you can go to rora.com slash Huberman and get an exclusive discount. Again, that's Rora, R-O-R-R-A dot com slash Huberman.
+
+51:03.088 --> 51:31.486
+Let's talk about the two sort of bookends of age. You just mentioned babies, and we'll return to babies, children, and youth. Let's talk about some of the work you've done on retinal aging and using long wavelength light. I'm being very careful with my language here, because if I say red, people think you have to see it, but there's red, near-infrared, and IR. It's typically shown as NIR, infrared light. And I think we...
+
+51:31.586 --> 51:51.230
+We batch those when we say long wavelength light. It's going, what, 650 nanometers would be red out to, I guess, as far as 900 nanometers or so. Yeah, and then beyond 900 is infrared. So we've got the near infrared and we've got the infrared. Now, you're right. We've got to start kind of – we've got to start –
+
+51:51.970 --> 52:20.478
+defining these terms a little bit more clearly. But I think for nearly all of the research we're talking about, we're talking about where vision stops, which is around 700. And we're talking about the near infrared, which is, for practical purposes, is going up to around 900. But, you know, I remember doing an experiment with UV once, and it was an experiment, bizarre experiment, trying to work out if a reindeer could see
+
+52:21.314 --> 52:45.630
+UV light. Do they? Yeah, they do, actually. But then, you know, while we were doing the experiment, I was beginning to say, look, I'm not believing any of this data because I can see this flashing now. And as was pointed out to me, you will see wavelengths of light, you know, that you shouldn't see if you just turn the energy up. Right. So if I put you in a room with UV and I pump loads of energy into that UV, you'll see things that you shouldn't.
+
+52:45.922 --> 53:10.750
+And likewise with the reds, you shouldn't really see much above 700. I can get you to see 150 if I just turn the energy up a bit and you see these little red glows. Yeah, this explains a lot of people's ideas about whether or not they've seen ghosts, but that's a different podcast, ghosts and UFOs. But an interesting discussion for another time. And I can't help but mention that, okay, maybe we'll return to this later, but
+
+53:11.202 --> 53:40.990
+Glenn has worked on a variety of species, as have I, over the years. So maybe at the end we'll do a quick catalog of the species that we've worked on over the years. So I'm not surprised to learn that you worked on reindeers, given the other species you've worked on. But returning to the human, you published some papers over the last five, six years or so, looking at how when the eyes specifically are exposed to long wavelength light,
+
+53:41.538 --> 54:06.110
+It can do excellent things for preserving vision or offsetting some loss of visual function. Could you detail those experiments for us? Yeah. So let's take two pieces of information first. So one of the main theories of aging is the mitochondrial theory of aging. Mitochondria regulate the pace of aging. So if you can regulate mitochondrial health, you can regulate aging.
+
+54:06.370 --> 54:33.054
+That's relatively clear. So that's the first thing. And then the second thing to remember is that there's more mitochondria in your retina than there is in any other part of your body. Your retina has got the highest metabolic rate in the body, ages fast. And my argument always is it's the sports car. Bangs out of the garage, you know, but after so many thousand miles, you've got to service it. Otherwise, it falls apart.
+
+54:33.858 --> 54:59.966
+So there was a very strong argument for trying to manipulate mitochondria in the retina, which is great for me because I'm a retinal person. I'm a visual person. So I had the tools to do it. So the first experiment we did, which was very gratifying, was to actually measure people's ability to see colors. Now, we used a rather sophisticated test, first of all. And that was we'd put on a
+
+55:00.162 --> 55:25.278
+a very high resolution monitor, say the letter T in blue, and then we'd add loads and loads of visual noise to it in the background, or we'd have an F in red, visual noise. And then we found the threshold at which they could see that letter and happily identify it. So we found out what their visual ability was for colors. We then gave them a burst of red light,
+
+55:27.106 --> 55:44.350
+improve their mitochondria in cells that are very mitochondrial dependent and we then brought them back and we found the threshold had changed. That threshold had improved in every one of those subjects bar one. They could see something they couldn't see before.
+
+55:44.578 --> 56:13.854
+By one, I think it's hard. What scale is it on? Some of these tests, like this is the Triton test. Well, so we tested Tritan and Protan. So this is nerd speak for the different visual tests. Most people are familiar with the Snellen chart. When you go to get your driver's license, you have to read the letters of different sizes. Very different. This is measuring the just noticeable difference between you can see something, you can't see something. When you say there was an improvement of but one, could you frame that in real world context for...
+
+56:13.954 --> 56:39.838
+for people who are not thinking about visual psychophysics? Okay, it's very simple. Of all the people we've tested, we've got an improvement, and there's very large numbers of them, except one subject. Ah, you're saying but one. No, no, no. I thought you meant that was the numerical size of the effect. No, no, no. If you look over the population, the size of the effect is around 20%. It's very substantial. But our ability to improve...
+
+56:40.066 --> 57:00.830
+visual function varies enormously between individuals. You said, but one. This is a UK, US. Sorry. No, don't apologize. I should apologize. Okay. An improvement of 20%, improvement in threshold. So people are seeing better than they did prior. Could you explain what they did for the intervention? How many times...
+
+57:00.994 --> 57:25.406
+a week, a day, how long are they shining red light in their eyes? What's the, excuse me, long wavelength light? What's the nature of that light? Maybe even tell us how far away from it they are. Okay. So in our first experiments, we used 670 nanometers, right? Which is a deepish red light. The only reason we use that is because all the studies before us doing different things had used 670. Consequently, there was a database.
+
+57:25.730 --> 57:55.326
+So that's why we did it. And we did it with a little torch that we put in front of someone's eye. Flashlight. I'll translate for the flashlight. Not a torch with fire near the eye. No, definitely not. Oh, my goodness. And we did that for three minutes. And originally we did that every day for another one. Eye open, not eye close. Makes very little difference because the long wavelength light passes through the lid without it being affected very much. So I said to people,
+
+57:55.522 --> 58:25.150
+whatever you're comfortable with. You're doing me a favor. You're being a subject in my experiment. I'm not paying you for it. You want to keep your eyes closed, you keep your eyes closed. And those people all had an improvement in their color vision. Now, we then titrated that down. So instead of doing it every day for so many days, we just did it for one day. And three minutes of that lie, one day, and we brought them back, I think it was an hour later,
+
+58:26.466 --> 58:53.406
+then it all improved. How stable was the effect? I mean, did they have to only do one treatment ever? No. I wish that was the case. In all of those people, and I have to say we've done similar experiments on flies, on mice, on humans. It's five days. It lasts five days. Five days. It's a solid five-day effect. So something very fundamental that is conserved across evolution is...
+
+58:53.666 --> 59:22.942
+playing a role here. And I have to say that to a first approximation, anything I find in a fly, I find in a mouse. Anything I find in a mouse, I find in a human. I can't find a big disjuncture between those things. So it lasted five days. And the real big point to take on board is it's a switch. There's not a dose response curve here. You put enough energy in at a certain wavelength of light and it goes bang.
+
+59:23.074 --> 59:53.054
+and click. And then five days later, it goes chunk and stops. I have a lot of questions about these studies. So I'm going to try and be as precise about them. I know it's on people's minds. If people are going to get in front of a long wavelength light emitting device, do you think it's critical that it'd be 670 nanometers? Or could it be 650 out to 800? How narrow band does the light
+
+59:53.314 --> 01:00:20.318
+actually have to be in terms of wavelength? Pretty much anything works to a rather similar extent at 670 going upwards. When you go below 670 towards 650, the effects tend to be somewhat reduced. If this is happening very quickly, you said an hour later, the vision is better, thresholds have changed, and it lasts five days. Do you think we can get the same effect from sunlight?
+
+01:00:20.834 --> 01:00:48.574
+given that sunlight contains these long wavelengths of light, or is it that the sunlight isn't of sufficient energy for most people? I mean, with this, what you call torch, I call flashlight, light source, you know, the way you described it and showed it with your hand for those listening is you're fairly close to the eye, maybe, you know, eyelids closed or maybe open if people can tolerate that, and you shine that light in their eyes for a couple of minutes. How different is it?
+
+01:00:49.186 --> 01:01:10.462
+then stepping outside on a really bright day, closing my eyes if I look in the direction of the sun because that's pleasant, or just walking in the sunlight and getting long wavelength exposure. I'm a big, big fan of natural sunlight because life's evolved for billions of years under sunlight. It's only recently changed. I don't know that cutoff point, but there's an enormous difference between
+
+01:01:10.562 --> 01:01:39.358
+the light produced by a flashlight and sunlight. Sunlight is an enormous broad spectrum. And that flashlight is just a little window of light that happens also to be present in sunlight. Now, I think the two situations are probably incomparable, right? And I'm not going to spend whatever is left of my career hunting that down. We know, and I think this is a global concept I've got, which is that
+
+01:01:39.458 --> 01:01:58.270
+We can do much with single wavelengths of long wavelength light, like a flashlight, which is 850 or 610. We can do a lot, but we can never do the same as you can get from sunlight. But you can't do those tight controlled experiments with sunlight that I can do...
+
+01:01:58.530 --> 01:02:27.134
+more easily with specific wavelengths. Yeah, and you're in the UK, so you'd have a lot of days where you can do experiments at all. I'm just kidding. Well, I must say, oftentimes when I tell people to get sunlight in their eyes in the morning to set their circadian rhythm, I'm like repeating record with that, and I will be till the day I die, people will say, there's no sunlight where I live. And I remind them that even on a very overcast day, there's a lot of photon energy coming through, but the long wavelength light is cut off. So they're still getting a lot of
+
+01:02:27.298 --> 01:02:50.430
+I mean, compare how bright it is at 9 a.m. versus midnight the night before. Their sun, it said they can't see the outline of the sun as an object is what they're referring to. I think the important point there is that long wavelength light gets scattered by water. It gets absorbed and scattered by water. So on a winter's day, we've got a cloud and that cloud contains water.
+
+01:02:50.626 --> 01:03:12.862
+there will be an attenuation of the longer wavelength light. It won't be vast, but there will be an attenuation, but more, it would start coming at you in different angles. So when you, when you're walking on a sunny day and you're walking down the road, sun's in front of you, you feel warm on your chest when you've got clothes on and that's the longer wavelength light doing it because it's relatively focused. On that winter's day,
+
+01:03:13.634 --> 01:03:41.310
+still getting a lot of long wavelength light, but it's coming at you in a lot of different angles and it's slightly attenuated. So my argument, which is the new mantra of the lab to some extent, is get a dog. Get a dog because you'll have to go out in daylight two or three times a day. You'll get no argument from me. You're making me very happy, Glenn. I love dogs. Listeners of this podcast will know I absolutely love dogs. And my
+
+01:03:41.730 --> 01:04:11.326
+The last dog was an English bulldog, half English bulldog, half a mastiff. So the next one will also be an English bulldog. A couple more questions, because I know people are curious about long wavelength light emitting devices for their eyes and other tissues. You mentioned that one subject did not respond. And if I'm not mistaken, these effects, at least on the eyes, I don't know about the other effects on blood sugar, et cetera, but on the eyes,
+
+01:04:11.682 --> 01:04:26.334
+visual function seem to be gated by age, right? If I recall people younger than 40, you saw less of an effect. Overall, statistically, we saw less of an effect. Some people
+
+01:04:27.138 --> 01:04:45.310
+My youngest son responded very, very strongly. And at the time, I think he was about 25. So you have to look at a population level to get that. But, okay, look, this all makes sense. Mitochondrial theory of aging means that we should have more room to improve mitochondria in the elderly population.
+
+01:04:45.506 --> 01:05:14.942
+and the young, but we all age at different rates. One of the biggest problems about doing experiments on humans as opposed to mice is we all do radically different things. Some take exercise, some have very good diets, some have poor diets, and mice sitting in our animal house eating the same food, they're very, very similar to one another, everything is the same. So we have to accept that noise. But generally, when your mitochondria are in a poor state, which is consistent with ageing,
+
+01:05:15.394 --> 01:05:44.382
+Yes, we've got more room to lift them up and improve their function. What was the time of day, so-called circadian effect of this? Very clear. Again, same in flies, mice, and humans. Your biggest effect is always in the morning. And it's always generally just before perceived sunrise up until about 11 o'clock. So, and it's very, very clear.
+
+01:05:45.026 --> 01:05:58.686
+Let's look at the backdrop to this. Your mitochondria, they're not doing the same thing all the time. So if we did this experiment, 24 hours looking at mitochondria. And if you look at what mitochondria are doing over 24 hours, it's shifting.
+
+01:05:59.010 --> 01:06:27.326
+It's not the same even over a three-hour period. It's shifting. And so the proteins that we have in different parts of mitochondria are changing in concentration radically. It's a very, very active area. So if you're doing research on mitochondria and you're not taking account the time of day, you may have a problem. But the mornings are very, very special. In the morning, there are lots of things changing in your body.
+
+01:06:28.162 --> 01:06:57.022
+Your hormone levels are very, very different. Your blood sugars tend to be picking up. You've been asleep. A predator may have been watching you. You need to wake up and you need to be ready on the road. You can't be like a lizard that's got to wait for the sun to rise and to get themselves into a position where you can get your body temperature up. So the morning is very important. You're making more ATP, this petrol that mitochondria make, in the morning than at any other time. Now,
+
+01:06:57.122 --> 01:07:23.006
+I can improve function across a wide range of issues in the morning. I can't do it very easily in the afternoon. Interesting. I think this comes from a very myopic point of view, which is we think about mitochondria as purely as things that make energy. They do lots of other things. And my interpretation is that in the afternoon, well, the standard lab joke is they're doing the ironing. They're doing everything.
+
+01:07:23.106 --> 01:07:52.510
+other things that as organelles they need to do. They are over a period of a day, they're making contact with other organelles in the cell, particularly something called the endoplasmic reticulum. They're junctioning with that. We've got such a limited view of what they do. I was surprised to find that a mitochondria at nine o'clock in the morning was not a mitochondria at four o'clock in the afternoon. That poses some very serious problems about...
+
+01:07:52.962 --> 01:08:21.087
+The interpretation of our data is people are doing things at different times of day. So if somebody wants to improve their vision with long wavelength light exposure, maybe we can just give them a rough contour of what this would look like. Long wavelength of 670 and greater emitting flashlight torch at a comfortable distance from the eye. So it could be three inches, six inches, a foot.
+
+01:08:21.218 --> 01:08:49.311
+depending on how bright it is. But if I were gonna run the experiment, I'd probably wanna bring it about as close as people felt like they wanted to close their eyes, but then move it back just a little bit, just below the threshold of kind of, I don't wanna say discomfort, but where it's just too bright. And then you're saying it doesn't matter if their eyelids are closed or open, you give it three minutes, five minutes of exposure once every five days or so. And is that going to be sufficient? There is the difference between
+
+01:08:49.666 --> 01:09:18.239
+Something that has an effect and then the efficiency of that effect. So if you take a 670 nanometer light source and you do exactly that, you will have an effect. Now as we're going forward, we're finding, certainly we're finding the energy at which you give that wavelength is dropping and dropping and dropping and still effective. So you don't need a very bright light. No.
+
+01:09:18.529 --> 01:09:44.702
+No, you don't. So we were, the original experiments, they used watts. They measured it in watts, not lux. Lux is not very meaningful to this situation because that's adjusted for the human eye. We want to know what was the energy that the cell experienced. So people started off at, say, 40 milliwatts per centimeter squared. And I looked at that and I thought, crikey.
+
+01:09:44.834 --> 01:10:13.054
+That's bright. That's bright. That's very bright. Big after effect. Yeah, that's going to make someone wince. It is. So then we got ourselves down to what we do in the lab now generally, which is around eight, which is very comfortable, has the same effect. But then we had someone in the lab do an experiment, and we had the flashlights that had batteries in them, which got a lovely effect, and we found out the batteries had been run down. She was getting an effect close at one hour.
+
+01:10:13.314 --> 01:10:40.094
+milliwatt per centimeter squared. That is low. That's dim red light. That is low. Okay. So sounds like one can use dim to moderately bright red light that's comfortable. I say red, but I mean long white light that's comfortable and likely get the effect. Sounds like the effect can occur at any age, but it's going to be more pronounced in people that have experienced some
+
+01:10:40.482 --> 01:11:06.110
+loss of vision because of age, which everybody does. Yes. You've also looked at this in the context of macular degeneration, which is a very common form of blinding, especially in people as they get older. What were the results in terms of rescuing vision in people with macular degeneration? So macular degeneration is when, you could put it crudely, that the center of your retina that you're using for reading
+
+01:11:06.338 --> 01:11:35.486
+degenerates. And you could say it's part of an aging process. If I get you all to live to 50, so if I get you all to live to 100 years, probably 20% of you will have macular degeneration. Remember, the retina is a sports car. It burns out. So I had a very significant failure in a clinical trial because we took a whole group of patients who had macular degeneration. We treated them with red light. And
+
+01:11:35.874 --> 01:12:02.398
+We treated their partner. More women have macular degeneration than men. We took their husbands as the control subjects. And to a first approximation, we got absolutely no effect whatsoever. This is kind of a point where, you know, people working with Glenn are losing enthusiasm. But lo and behold, their husbands were.
+
+01:12:03.106 --> 01:12:18.174
+vision that they didn't have macular degeneration, but their vision was improving enormously, particularly the way in which they could deal with darkness. So we stomped around over this. Something was wrong. And we found that when we look back at it, we found that the
+
+01:12:18.498 --> 01:12:38.270
+Subjects that we were dealing with, the patients, their disease had reached a certain point. It had gone beyond a certain point. Now, when that study was replicated by someone who thought about it a bit more than me, an ophthalmologist called Ben Burton in the UK, he got a great result.
+
+01:12:38.690 --> 01:13:04.926
+he started to get a really good result. And when you talk to people about red light, and I talk to people, I talk to Parkinson's societies, I talk to various groups, and I talk to the researchers, and there is one thing that's very clear, is that red light can impact on aging, it can impact on disease, but it can't do it if that disease has really got its teeth into you. So where we need to get into situations is red.
+
+01:13:05.090 --> 01:13:18.270
+early on in disease. So we thought very much about one point about rheumatism, you know, rheumatoid arthritis. Yeah, very common autoimmune condition. Yeah, and we had absolutely zero effect, but...
+
+01:13:18.754 --> 01:13:48.158
+All the subjects we dealt with already had hands that were quite twisted. It wasn't people coming in saying, I've got this ache in my hand, which is where we should have intervened. So early intervention is absolutely critical. We don't have to give high energies. We don't have to give long exposures. We can improve situations. But where we need to put our effort is the efficacy of how we improve things. If I can improve something 20%, well, that's great for that person.
+
+01:13:48.322 --> 01:14:18.046
+But can we improve it? 80%. And that's all about wavelengths. It's all about energies. It's all about us thinking a little bit more carefully before we set up the experiment. It also makes me think that even though long wavelength light can penetrate the body and it scatters, like for instance, the shining of light on a four by six inch rectangle on the back impact blood glucose regulation everywhere, shining long wavelength light into the eyes improved
+
+01:14:18.626 --> 01:14:45.886
+presumably mitochondrial function in order to increase the visual detection ability and on and on. Presumably the tissue that you focus the light on, if it's a focused light, is going to derive the greatest benefit, right? Or at least the most opportunity for mitochondrial change. Then there will be these systemic effects. Those mitochondria are talking other mitochondria. I mean, I'm fascinated by how mitochondria are
+
+01:14:46.018 --> 01:15:13.726
+perhaps transported between cells and around the body. There's not even a cottage industry anymore. I think a lot of biologists are thinking about this seriously. But let's say I want to improve the mitochondrial function in my gallbladder. Should I shine the red light on my gallbladder? It stands to reason that the answer would be yes. I think the answer is yes. The issue is how quickly the effect takes place in distal and proximal
+
+01:15:13.922 --> 01:15:42.686
+tissues. So if you shine the light on your kneecap, something will probably happen within one to two hours. At the kneecap. At the kneecap. Right, right, right. But then if you're examining the response of that on your hand, it's 24 hours later, right? So the message has to get out and things have to, the story has to spread. And the spreading of the story, the spreading, that's an intense kind of area of activity. What is the signal?
+
+01:15:43.106 --> 01:16:02.686
+Where is it coming from? What is the signal? And I think we poked our finger at that slightly because we found that cytokine expression in the serum changed a lot. Inflammatory cytokines are going down? No. Increase in cytokine expression at low levels is protective.
+
+01:16:03.362 --> 01:16:29.374
+So what it's saying to the body is brace yourself, something's coming. The immune system is getting mobilized. Yeah. So that was very, very clear. So animals that had improvements in physiology also had changes in cytokine expression. I looked at that and I thought, is that the real reason? Or is this a secondary third or fourth level effect? Now, there's some stunning stuff that I'm waiting to come out from.
+
+01:16:29.570 --> 01:16:53.854
+at Westminster University in the UK, being done by a great scientist, Ify, there. And what she's showing is a means of communication that we are really rather unaware of, which is these micro vesicles that go around the body, around the serum. And these micro vesicles carry cargoes. Now,
+
+01:16:54.018 --> 01:17:18.462
+They carry all different sorts of cargoes. And people have played with them a little bit in terms of changes in the gut microbiome. How does that affect the whole body? They've been talking about microvesicles. And she's shown that microvesicle concentration is changing quite significantly with, in fact, what we did with her was we didn't give her a red light. We gave her an LED light where we changed the LEDs in there to put some long wavelength light.
+
+01:17:18.722 --> 01:17:46.014
+elements in it. So the communication around the body, what is doing? I've got to break that one. It's probably not one thing. You know, again, scientists always think about one thing. It's a complex pattern. When I looked at the changes in cytokine expression, my first reaction was I need a mathematician sitting next to me. All these things are changing in a complex manner, and I'm only looking at 50 of them, and there's probably over 300. So I could be missing the point.
+
+01:17:46.594 --> 01:18:15.294
+but communication, and you're right, you know, mitochondria, you can see cells come along to a sick cell and they join together and the mitochondria is pushed in to the sick cell. How amazing. We'd have never thought about that. Your mitochondria are ill. I'm going to come along and I'm going to give you some fresh mitochondria. They, the mitochondria, are amazing and it's amazing how little we really understand about how they work and yet
+
+01:18:15.522 --> 01:18:40.958
+What we do understand points to how spectacularly important they are for energy, longevity, and as you pointed out, how malleable they are. And it all makes sense in the evolutionary context of water and the absorption of red light. Another way that's kind of fun to illustrate this red light absorption by water thing is if anyone ever goes snorkeling on a tropical reef, you'll notice that in the first 10 feet
+
+01:18:41.186 --> 01:19:08.478
+of water from the surface down, you can see beautiful oranges and reds. And then if you go deeper, those seem to disappear. They haven't disappeared. It's just that the red light isn't penetrating that far, right? It gets absorbed. If you bring a flashlight down with you as night divers do, or even day divers will do that sometimes in order to see those red fish are still there deeper, but it disappears to you. So it's very interesting.
+
+01:19:09.090 --> 01:19:17.950
+I'd like to take a quick break and acknowledge one of our sponsors, Function. Last year, I became a Function member after searching for the most comprehensive approach to lab testing.
+
+01:19:18.274 --> 01:19:48.240
+Function provides over 100 advanced lab tests that give you a key snapshot of your entire bodily health. This snapshot offers you with insights on your heart health, hormone health, immune functioning, nutrient levels, and much more. They've also recently added tests for toxins, such as BPA exposure from harmful plastics, and tests for PFASs, or forever chemicals. Function not only provides testing of over 100 biomarkers key to your physical and mental health, but it also analyzes these results and provides insights from top doctors who are
+
+01:19:48.240 --> 01:20:16.222
+expert in the relevant areas. For example, in one of my first tests with Function, I learned that I had elevated levels of mercury in my blood. Function not only helped me detect that, but offered insights into how best to reduce my mercury levels, which included limiting my tuna consumption. I'd been eating a lot of tuna, while also making an effort to eat more leafy greens and supplementing with NAC and acetylcysteine, both of which can support glutathione production and detoxification. And I should say, by taking a second Function test, that approach worked.
+
+01:20:16.322 --> 01:20:46.288
+Comprehensive blood testing is vitally important. There's so many things related to your mental and physical health that can only be detected in a blood test. The problem is blood testing has always been very expensive and complicated. In contrast, I've been super impressed by Function's simplicity and at the level of cost. It is very affordable. As a consequence, I decided to join their scientific advisory board and I'm thrilled that they're sponsoring the podcast. If you'd like to try Function, you can go to functionhealth.com slash Huberman. Function currently has a wait list of over 250
+
+01:20:46.288 --> 01:21:14.654
+but they're offering early access to Huberman podcast listeners. Again, that's functionhealth.com slash Huberman to get early access to function. I'd like to talk a little bit about the other end of the wavelength spectrum, short wavelength light. And here I'd like to move to artificial lighting and point to what I think is a very serious concern. I know it might seem a little bit extreme,
+
+01:21:14.754 --> 01:21:42.174
+I am very concerned about the fact that people are exposed to so much short wavelength, what's commonly referred to as blue light, but I don't think that really captures it because people hear the words blue light and they think, oh, if a light source looks, appears blue, then that might be messing with my melatonin at night and might be messing with my mitochondria even, but it's the white light coming from LED sources, which are
+
+01:21:42.562 --> 01:22:11.262
+basically what we use as lighting sources nowadays, that yes, they contain blue light, but they also contain violet light and stuff that doesn't appear blue because you've got the other wavelengths in there. In other words, white light coming from LEDs is very short wavelength enriched. To me, that's a problem if short wavelength light is causing dysfunction of mitochondria, and I do believe that's the case, unless it's balanced by the longer wavelengths.
+
+01:22:11.874 --> 01:22:40.318
+And at the same time, like anything, it can be remedied if we do the right thing. So could you illustrate for us what happened over the last 30 years or so in most every country as we moved from, well, actually, let's take it further back. Let's go from candlelight and firelight to incandescent bulbs. Let's also talk about halogen bulbs and now LED bulbs.
+
+01:22:41.250 --> 01:23:10.622
+I know people like to focus on screens, but we'll set aside screens for the moment. Let's talk about indoor lighting, because I am very concerned about the amount of short wavelength light that people are exposed to nowadays, especially kids, especially given what you told us about blood glucose regulation. What's known about this? Okay. There's a group of us shuffling around corridors, all mumbling to one another saying, how big a stink is this?
+
+01:23:11.298 --> 01:23:37.470
+And some people are... I reviewed a document that was sent to the European Commission last week, just before I came over here, from a very balanced Dutch lighting engineer when he wrote to the European Commission saying, we've got to rethink this. And so the group of us that are shuffling around, some of them are saying, this is an issue on the same level as asbestos.
+
+01:23:38.050 --> 01:24:07.742
+This is a public health issue and it's big. And I think it's one of the reasons why I'm really happy to come here and talk because it's time to talk, right? We've got enough data. So LEDs came in and people won the Nobel Prize for this very rightly at the time because they save a lot of energy. They are very energy efficient because they do not produce on the whole light that we do not see.
+
+01:24:07.906 --> 01:24:35.646
+So the effort is all in what we see. Now, as you pointed out, the LED has got a big blue spike in it, although we tend not to see that. And that is even true of warm LEDs, and there is no red. Remember, so we're talking about billions of years of evolution under broad-spectrum sunlight. When we had fires, that was pretty much the same. A fire is pretty much broad-spectrum. Candles...
+
+01:24:35.938 --> 01:25:00.734
+much broad spectrum. So, nothing really changed in our world until around 2000. As we get to 2005, we're starting to find that the incandescent lights with their loads of infrared start being pushed off the market. And that was purely because they take more energy. Electric bills are higher and they don't last as long. Yeah, exactly. So,
+
+01:25:01.058 --> 01:25:29.950
+When we use LEDs, the light found in LEDs, when we use them, certainly we use them on the retina looking at mice, we can watch the mitochondria gently go downhill. They're far less responsive. Their membrane potentials are coming down. The mitochondria are not breathing very well. You can watch that in real time. Under LED lighting. Under LED lighting at the same energy levels that we would find in
+
+01:25:30.242 --> 01:25:56.446
+in a domestic or commercial environment. That's very concerning to me. It is. It was never picked up. Then also, if you do experiments, say for instance, on flies, flies don't live as long under blue light. Their mitochondria again decline quite markedly. You produce less ATP. If you look at mice, you find mice start putting on a lot of weight.
+
+01:25:56.930 --> 01:26:26.078
+They start putting on a lot of weight because their mitochondria are not taking that glucose out and it's being deposited as fat. Their control of their blood glucose, not surprisingly, becomes unbalanced. And they start to behave slightly peculiarly in open field situations. Now, you and I know that when you put a mouse in an open field situation, it's a measure of how confident it feels. So it runs around the edge at first until it feels happy and then it wanders around the middle and the rest of it.
+
+01:26:26.946 --> 01:26:55.166
+Mice under LED lighting do not make that transition from working around the edge and coming into the centre. And that is possibly consistent with the notion they have low-level infection, chronic infection. That's all published. Now, there's some stunning data coming out of another lab that will come out early next year showing that these same mice have fatty livers, again,
+
+01:26:55.522 --> 01:27:23.198
+not really desperately surprising. So same food chow as their full spectrum light counterparts, but they're under LED lighting and they've got fatty liver. But there's a clear systemic effect here because their livers are smaller, their kidneys are smaller, and their hearts are slightly smaller. With the liver problems, we get arrays in what we'll call liver distress signals, proteins coming around
+
+01:27:23.362 --> 01:27:45.950
+one that's called ALT, which tells you your liver is not happy at all. Interestingly, where do you also find vast numbers of mitochondria? You find them in sperm. So there is a greater concentration of sperm with abnormal swimming capacity and abnormal morphology in those mice. And the testicles have
+
+01:27:46.050 --> 01:28:14.974
+abnormal morphologies. Now, these are animals that are really run towards the end of their life. Okay. But again, let's put all these things together. This is clearly telling us that it's not just the LED. It's the LED range, which is 420 to 440. It's a specific range that the mitochondria absorb. And it's the absence of the red light to counter balance that. Got it. So this is so important for people to hear. And I just want to reiterate
+
+01:28:15.074 --> 01:28:39.742
+something you said earlier, you said that at least to your mind, this exposure to excessive amounts of short wavelength light because of LEDs is possibly as serious as asbestos exposure in terms of its detrimental effects to human biology. Possibly. Possibly. That's what we're shuffling around saying, getting confident about it.
+
+01:28:40.066 --> 01:29:08.766
+I'd point out another issue. Now, your colleagues, some are a bit more excitable than others. Some of them are very conservative and sit there- It depends on how much red light they're getting. Bad joke, I know. Yeah, bad joke. Let's look at growth in lifespan in Western Europe. Chugs up, chugs up, chung, chung, chung, chung. Slowly, we're living slightly longer on average one year than the next.
+
+01:29:09.218 --> 01:29:35.198
+And really, you could draw a line along that curve. Yeah, it's relatively straight. We get a dent in the curve and the tendency towards asymptote, which means flattening out, after about 2010. Now, that can be corrected for COVID. Something is turning that down. Now, I'm not going to say...
+
+01:29:36.578 --> 01:30:01.630
+LEDs are shortening lifespan, but I've got a number of colleagues around me who are saying you need to take this one into account. And you did say earlier that amount of sunlight exposure, which includes balanced wavelengths of short, medium, and long wavelengths, is associated with longer life, less all-cause mortality. Yes, definitely. And that brings me to the other point that you made. So I'm just...
+
+01:30:02.050 --> 01:30:18.590
+I'm aware that I'm just restating what you said, but it's really hovering in my mind. It's so important that I think people need to hear it again, which is it may not be that short wavelength light is detrimental to mitochondria per se. It's that in the absence of balanced light,
+
+01:30:18.754 --> 01:30:47.774
+you're taking whatever mechanisms that short wavelength light have on mitochondria and you're tipping the seesaw in that direction. And the other side of the seesaw would be weighted by long wavelength light. So presumably because mitochondria evolved under short, medium and long wavelength light, I mean, let's be fair. It's not like they evolved under red torches as you call them, right? The balance between these wavelengths is really what's key. And LEDs are just shifting the balance very heavily to short wavelengths. So
+
+01:30:48.002 --> 01:31:14.462
+I realize that we're framing long wavelengths as great and short wavelengths as bad. But like so many things in biology, it seems that it may just be the balance that's important and that long wavelengths can have this kind of protective effect to some extent. But the way I'm thinking about it is that LEDs may be problematic because of just how heavily they weigh one side of the mechanism. I think you've got it...
+
+01:31:14.690 --> 01:31:34.654
+You've got it in one there. It's a balance. As opposed to being quote unquote toxic, right? It would be like saying like, we need all three macronutrients. I suppose you could live without carbohydrates, but fats, proteins, and carbohydrates, and people will try and demonize any one of those depending on who they are. But most cultures, most humans evolved in the context of
+
+01:31:34.754 --> 01:32:03.742
+some amount of all three of those macronutrients, maybe to varying degrees, different seasons, et cetera. So you can't just say that one is bad. Fats are bad, proteins are bad, carbohydrates are bad. It's the weighting of them that's going to influence biology differently. It seems like the same thing would hold for light. So let's frame this in people's minds under typical lighting conditions with LEDs. So if I go buy an LED light bulb,
+
+01:32:04.290 --> 01:32:25.566
+And it doesn't say sunlight mimicking or full spectrum. How little long wavelength light is there in that bulb compared to sunlight? And how much short wavelength light is there compared to sunlight? Not in terms of intensity, because obviously the sun is generally far more intense than any bulb. But in terms of...
+
+01:32:25.826 --> 01:32:52.350
+The distribution of wavelengths, what sort of situation are we creating with those bulbs? Okay. So first of all, the way you've described it is absolutely the way I think about it. And I think all our colleagues, it's balance. It's balance. You should be very careful about what you read on an LED box because people are saying sun-like. Now, I've never found commercially an LED box.
+
+01:32:52.706 --> 01:33:10.622
+says that that's really gone anything significantly beyond 700. So it doesn't matter what they're telling you, I'm exceedingly doubtful that commercially anyone has got anything that does that. Because the only way you could do that
+
+01:33:10.850 --> 01:33:39.838
+is to have a vast array of LEDs in a single device. So, you know, I have an LED at 670, an LED at 700, an LED all the way up to, you know, over a thousand. It's not realistic because it's expensive and it draws lots of energy. And the other thing is that we now have found that the mitochondria knows that it's a compressed load of LEDs because if you put people under a compressed series of LEDs like that...
+
+01:33:40.386 --> 01:34:00.254
+you don't get the same response or the same positive effect as you do if you put them under an incandescent light where the spectrum is totally smooth. There's no ups and downs at the top of them, it's totally smooth. Now how a mitochondria does that is completely and utterly beyond me. Well it makes sense, the mitochondria evolved
+
+01:34:00.386 --> 01:34:26.654
+Under sunlight. Yeah. And sunlight is a smooth, when you say smooth, as opposed to bumps, what Glenn is referring to is short wavelengths leading, you said it's a continuum leading up to long wavelengths. Sunlight has that. We'll talk about incandescence in a moment. And these LEDs have these spikes of short, medium, and long-ish wavelength light, but they're not actually mimicking sunlight. No. And isn't it amazing that mitochondria can sort that one out?
+
+01:34:27.138 --> 01:34:56.126
+I think it's really cool. And it just makes me feel, by the time it's all over for me, I'll have got one bite at this apple. But there's a load more there that I think we're going to find out. They're doing things that are just inconceivable at the moment. What about incandescent bulbs and fire? Aside from being concerned that people are going to burn their apartments and homes down if they use candlelight or firelight at night, how
+
+01:34:56.514 --> 01:35:13.822
+healthy is candlelight, how healthy is incandescent light with respect to the mitochondria? So, I think we're going to leave candlelight out of it because to get enough light out of a candle, we're going to have to have copious amounts of candles. And that's where people burn down. Yeah, yeah. So let's, and I noticed
+
+01:35:14.018 --> 01:35:40.286
+California, people have got lots of wooden houses. Let's stay away from that. Got a lot of what? Wooden houses. Well, we had a serious fire issue in this very area. Yes, I know. I mean, as you're coming in the Pacific Coast Highway, you may have noticed that used to be covered with homes. I mean, it was a devastating fire. Yeah. To a first approximation, the spectrum of light that you get from an incandescent light bulb is highly similar to solar light, right? So it covers almost the same range.
+
+01:35:40.642 --> 01:36:10.046
+It's a smooth function. We drift gently from short wavelengths into medium wavelengths into long wavelengths. So in evolution, we were wandering around in sunlight. We then made the transition to fires, producing the same light. And that's quite interesting. Where do we use fires? We use fires as we move further north, as we come out of Africa, as we move into... I mean, why did people... It was beyond me having come...
+
+01:36:10.754 --> 01:36:38.174
+this interview from Northern Europe in winter. It's beyond me as to why they ever did that, because it's grim. But they had a light source that was very solar-like. And so there was no issue there, I don't think. So it's that really very dramatic change that happens in the early 2000s. Your body has never experienced...
+
+01:36:39.106 --> 01:36:58.078
+such confined limited spectrum of light. Never experienced it before. And one of the other issues that relates particularly to devices that people may use to increase the amount of long wavelength light they get. Some of these devices are lasers.
+
+01:36:58.274 --> 01:37:26.750
+No living entity has ever seen monochromatic light before. It is a totally alien thing to life. Yeah, but please, folks, do not shine lasers in your eyes. No, do not. In fact, don't shine lasers on your skin. The only people who should be shining lasers on bodies are trained medical professionals for which there's an important medical procedure being done. I'm going to encourage you to be willing to answer this, even though I realize it's a bit of an uncomfortable space for you.
+
+01:37:27.650 --> 01:37:55.742
+for artificial long wavelength light generating devices, like the red, near infrared and infrared. Some of these are fairly high power. There are a growing number of papers, certainly in dermatology and pain relief. I mean, not a ton of papers, but actually it was a cover of one of what I was told was one of the more prestigious dermatology journals is starting to evaluate what we call photobiomodulation with long wavelength light.
+
+01:37:56.386 --> 01:38:25.182
+When you look at those devices, do you think that exposure to those can offset the negative effects of LED lighting in a meaningful way? First of all, I think the majority of them do no harm. I suspect that the majority of them have a positive impact. But we've opened up a lot of those devices and they're pretty poor. Poor in terms of the amount of energy? Poor in terms of how they're put together.
+
+01:38:25.314 --> 01:38:42.974
+first of all. The value of the components. Got it. When you get an LED, you know, an LED is like buying a car. You can buy a bad car or you can buy a very good car. A lot of the LEDs are not what they say they are. Certainly when it comes to things like 670 nanometers, which is popular, they're hard to get. So,
+
+01:38:43.298 --> 01:39:08.766
+not what they say they are. And very often they're not what they say they are a year down the road when they've been on and off for a long period of time. Well, I think there's a range of qualities as well. Some are medical grade, some are not. Some are used actively by medical clinics, some are not. I hear you. I think it's like any industry associated with health and wellness as it's called. I think there's a range. So in terms of
+
+01:39:09.474 --> 01:39:35.390
+prescriptives as it relates to indoor lighting. Let's set aside long wavelength light emitting devices. Incandescent sound like the perfect solution, but can I still buy incandescent bulbs? Not in North America. You can't buy classic incandescents. They're gone? I think I signed a petition to try and keep them about six months ago, and I don't know what the status of it is now. You can still...
+
+01:39:35.778 --> 01:40:00.958
+You should still be able to get halogen bulbs, which are almost identical to incandescent. They're a type of incandescent. And the point here is that you can't have LED lights in ovens because they melt. Okay, so generally incandescents are retained for a few special reasons. The importance of these...
+
+01:40:01.570 --> 01:40:30.910
+I think is highlighted by something that should come out just before Christmas, one of our studies, where at University College London, we have some buildings without windows, and they've got some pretty harsh LED lighting in them. And what we did last year with those is we went in there and we measured all the people, staff in there, we measured their ability to detect color, color,
+
+01:40:31.810 --> 01:41:01.438
+Then we gave them a whole series of desk lamps, 40-watt incandescent desk lamps. And we said, you don't have to look at this. Just move around if that's on your desk. But a lot of them were architectural model makers. So they'd be sitting at their desk for a little bit at the time. Then they'd be going off gluing two bits of wood together. Where's the light directed for these people? Just directed down. It's directed down, not at their eyes. No, no, no, no. It's supplementing their whole environment. So we walked away from that and we left them.
+
+01:41:01.602 --> 01:41:22.174
+I think we left them for two weeks. We came back and we measured their color perception again. And we got so much better an effect than we ever got with reduced spectrum long wavelength LEDs. It was, well, I may just go back and do all the analysis again.
+
+01:41:22.466 --> 01:41:51.998
+I was really surprised. So with the LEDs, what you tend to do is the long wave flight ones. You improve your perception of blue a bit more than your perception of red. And there's a bit of a complex story and it's all over in five days. These characters, their perception of blue and red both improved to the same extent and it was very significant. And then we took the bulbs away and we thought, well, we'll come back six days later and we'll see where they are.
+
+01:41:52.546 --> 01:42:18.366
+came back, they were exactly the same. Their perception had declined. The improvement was maintained. The improvement was maintained. We went back a month later, the improvement was maintained. We went back a month later, the improvement was maintained. So I'm tracing all these people, what their lives are like and the rest. It was in November, December, so they weren't getting much daylight. They were in a rather
+
+01:42:18.914 --> 01:42:46.270
+They were in a situation like all people are in Northern Europe. And then we had a problem. It was Christmas. Experiment ended. But let's think about this. These people not only had more significant improvement than they would get with red light, the effect lasted much longer. Now, one of the things that makes me think now, I go back, I go back and I think about our experimental results,
+
+01:42:46.626 --> 01:43:11.902
+Why did I get such good experimental results in whatever it was I was doing? Is it simply because I am drawing my subjects from a population of human beings who are living under LED lights? If I went and did those same experiments on a group of farm assistants, you know, or people who are doing surveying of the countryside, would I get the same effect?
+
+01:43:12.002 --> 01:43:40.958
+I think that in the built environment, we are suffering from a suppression of our physiology. I have to be careful here about not going over the top. But we're suffering from a suppression of our physiology via mitochondria that is just being produced by the built environment. And a point that I really need to make here, because I now spend a lot of time talking to architects. I spend more time talking to architects than I do talking to
+
+01:43:41.090 --> 01:44:03.966
+ophthalmologists or medics. You put a building up, invariably the majority of the phases of that building will go over budget. It's rare for a building to come in under budget. The last thing to go into a building is the lighting. It is the very last that goes in after the glass. Okay. Where do you take your cup?
+
+01:44:04.066 --> 01:44:30.622
+your over expenditure, you take your cut on the lighting, you buy the cheapest LEDs you can, and the cheapest LEDs have got the restricted spectrum. And to add insult to injury on this, to retain thermal regulation of the building, all commercial buildings and all big buildings now, not domestic ones, will invariably have infrared blocking glass. So,
+
+01:44:30.818 --> 01:44:59.006
+You get the first hit on the fact that your LEDs are pretty awful, undermining your mitochondria. The second is you are isolated from the visual world outside by the infrared blocking glass. This is double hit. And I think that double hit is quite significant. Now, we have had a major, probably one of the world's largest architects, firms that have just won a very big contract,
+
+01:44:59.202 --> 01:45:26.014
+the USA for a hospital walk through the door and say, what is this about healthy lighting? And I know they're putting their money on the table on this one because they have a vast area where all the architects sit. It's like a aircraft hangar and they're stripping out all the LEDs. So what I'm gathering is that if people spend a lot of time outside, A, that's a good thing. Yeah.
+
+01:45:26.306 --> 01:45:53.982
+probably don't need to supplement your indoor lighting environment. LEDs might even be fine for those folks, although you wouldn't recommend it. Doesn't sound like they need to quote unquote supplement with incandescent or with long wavelength light exposure from a device. For people, which I think is most people nowadays, who are under LED lighting a significant portion of the day in a building with glass that filters the bright sunlight to control the temperature and make sure there isn't a lot of glaringly
+
+01:45:54.114 --> 01:46:21.406
+light coming in at certain phases of the day. They certainly should try and get outside. Yeah. More than they can. Take their lunch outside, take a call outside, get outside. Light clothing is going to be fine because the long wavelength light will pass through, as your colleague discovered, literally go through their body, scatter, et cetera. But they may need to, or choose to, excuse me, supplement with a halogen or incandescent
+
+01:46:21.602 --> 01:46:38.398
+even just table lamp for a short period of time now and again, especially it seems in winter, this would be beneficial. And where I worry the most about light environments as it relates to diminishing mitochondrial function is in kids who are staring at screens
+
+01:46:38.658 --> 01:46:52.670
+not getting outside enough because of screens, et cetera, classrooms, et cetera. What do we know about screen light? You know, I, like many people, will dim down my screen in the evening if I'm going to be on my computer. I do wear short wavelength blocking glasses after
+
+01:46:52.930 --> 01:47:20.574
+I wouldn't say after sundown, but after dark, really helps my transition to sleep for obvious reasons. I learned that people's sensitivity to light in terms of how it impacts sleep varies quite a lot. Some people can stare at blue light and fall asleep, no problem. Other people do that, they're waking up in the middle of the night. I'm very sensitive to it. But the blood glucose elevating effects of short wavelength light at night seem pretty ubiquitous. There's a study, I don't know if you're familiar with it,
+
+01:47:21.122 --> 01:47:44.126
+done is published in the Proceedings of the National Academy of Sciences. They had people, I think it was kids actually, sleep under a 100 lux overhead light. So their eyes are closed. 100 lux is very dim. And as compared to complete darkness, or it wasn't complete darkness, I think it was like a one to 10 lux lighting condition, you saw elevated blood morning glucose.
+
+01:47:44.418 --> 01:48:14.238
+which is not good, right? That reflects a cortisol increase. So it's not just about sleep. It's about blood glucose regulation, et cetera. So I'm summarizing here quite a lot of things and I'm speculating here and there as well. Do you think people need to supplement with long wavelength light if they're not getting outside enough or they work in one of these LED rich environments? Okay, let's backtrack a little bit, particularly about the kids and screens. So myself and a load of my colleagues have sat with a blue screen staring at it all day for
+
+01:48:14.402 --> 01:48:27.006
+It was a mind-bogglingly boring thing to do. It had almost no effect on it. Oh, you've done that experiment? We've done that experiment. I thought you were just describing your life. No, no.
+
+01:48:27.650 --> 01:48:56.382
+I think the answer is that the blue in most of those screens is actually rather long wavelength blue. So it's blue pushing 450 plus. So it's not in that danger zone, which I regard as 420 to 440. I think it's outside it. And I know we talked at one point to a major American computer manufacturer about this issue about the screen. So I am not as worried about that as I am.
+
+01:48:56.866 --> 01:49:25.694
+I would have been. But there is a separate issue, and it's one that the pediatric ophthalmologists are very concerned about, and that is particularly close work in kids, close work combined with a lot of screen work, and the issue of myopia. Close work being staring at something within a foot or two. Yeah, and myopia. Now, this is a very big issue in Asia and in China.
+
+01:49:25.890 --> 01:49:55.870
+And we know that the absence of long wavelength light is a driver. My problem is I can't work out why. Now, I should fundamentally be a pragmatist and say, if we know it's a driver, then let's just supplement it. When you say it's a driver, it's creating this problem. It is part of the thing that's creating this problem. Now, myopia is a really big issue because, okay, we can control myopia by just giving you different lenses. But,
+
+01:49:56.002 --> 01:50:25.502
+So your child will be able to read the text even though they've got myopia. The trouble is that when that child reaches 40 or 50, the retina has been stretched because the eye has grown too long. And as the retina stretches as you age and you lose cells, so the retina becomes a little less cohesive, you get tears and you can get a form of macular degeneration. Yikes. So this is a major concern, particularly in China, and they've taken a number of steps forward.
+
+01:50:25.666 --> 01:50:54.846
+deal with it. One of which, for instance, is in the classroom, they put a bar on the desk so the kids can't actually sit too far forward to read the text. Whoa. Right? So to increase the distance. They've also got into the red light, but part of the problem there is they've used lasers. So they've got a restriction in myopic development, but at the same time, when you go back and look at them, they're
+
+01:50:55.362 --> 01:51:23.902
+There are spots in the retina where the laser has affected. Negatively. Negatively. It's burning out pieces of retina. Yeah. But, you know, people come along and they say, well, we only used 10 milliwatts per centimeter squared. Same as an LED. The thing that they don't get is that laser light scatters in a very different way from LEDs. LED light scatters uniformly. Why do you think they use lasers? Because it sounds good.
+
+01:51:24.290 --> 01:51:49.886
+using light, we're doing something more powerful. That's a problem around this whole industry. We're doing powerful things. Now, laser light does not scatter evenly when it hits tissue. It forms something called caustics. And caustics are the sorts of things you see sometimes on a shallow lake where it's rippling and you get bright spots and you get dark spots. Those bright spots are what you get in
+
+01:51:50.178 --> 01:52:18.462
+laser light, these caustics. So the energies tripling or quadrupling in certain areas. So, I mean, I didn't know what a caustic was until I started to talk to physicists. Never, reiterate on you, never ever use a laser unless there is a profound medical reason for doing so. And certainly myopia, which is going to be, it's a ticking time bomb. No current politician is particularly concerned because it's going to be another person's problem in the future. So,
+
+01:52:19.074 --> 01:52:47.518
+Windows in classes, very important. And not tinted windows. Not tinted windows. We're currently talking about putting a few incandescent lights in. Schools generally are stretched for money. And their first reaction is, this is going to cost us a lot more. Well, the answer actually is put a dimmer switch on the incandescent light bulb. Even though it appears dim to you, still producing loads of infrared light because it's getting warm.
+
+01:52:48.738 --> 01:53:14.526
+other thing that we've not touched on, which is, I think, very important in the architectural world and the school world, is that all plant matter reflects infrared light. You grab a plant out here in California where maybe it's 80 degrees, the leaf is not hot. Why does that happen? It's because it reflects infrared light. Now, if you go up to a plant in
+
+01:53:15.138 --> 01:53:41.022
+brilliant sunlight and you put your measuring equipment on it, the light that's being reflective is just a small reach away from what we think the smallest therapeutic dose could be. So, planting trees to reflect the infrared light that is available to you is very important. Architects are really getting that one. Does it have to be trees or can it just be indoor plants and having an incandescent sort?
+
+01:53:41.154 --> 01:54:01.694
+Well, okay, have an incandescent source, but have also plants on the outside that are getting sunlight because they're going to bounce the infrared back to you. One of the physicists in our lab, Edward Barrett, has a fantastic infrared camera, and he goes around taking infrared photos.
+
+01:54:01.794 --> 01:54:30.110
+photographs and we were in a we were in a an office building and there was some blackout blinds very thick blinds and when we looked to the infrared camera there was a small fire at the bottom of these curtains I mean just really surprised and then we pulled back the curtain and there was a row of plants so and there is the name completely escapes me there is
+
+01:54:30.498 --> 01:55:00.126
+city in the Midwest where the authorities planted something like a thousand trees. And what they did was they measured blood markers that were blood markers of stress, including complement-related protein, which is a sign of systemic inflammation. And they planted these trees and they went back, I think two or three years later and measured these metrics and they got a significant reduction. Now, that is interesting.
+
+01:55:00.962 --> 01:55:30.942
+My big question, and it's one that I'm trying to get ethics to do now, is what happens to your blood as you pass from a concrete building, sit you in a concrete building for five hours? It's horrible. You're getting no infrared light. You've got infrared blocking windows. You've got LEDs. What happens when I wheel you into a park? What happens when I wheel you into woodland? You know you feel so much better. Everybody says, I feel so much. If you feel better, something's happening.
+
+01:55:31.362 --> 01:55:54.846
+What is happening? So it's not only about the light that we have in the built environment, it's about the glass that we have in the built environment. And it's about plant matter. Plant matter, should we be planting plants, for instance, on the north side of buildings, which are tall because they will hit the light level and they have the capacity to reflect it back through the
+
+01:55:55.074 --> 01:56:22.814
+to the building. I can tell you've been spending a lot of time with architects. A couple of things are really striking. One, it's very clear that as we become more and more modern as a species, we're going to look for more cost and energy efficient ways to do things. LEDs are a good example of that. And I think LEDs have been very beneficial across a number of different industries. But that...
+
+01:56:23.394 --> 01:56:49.406
+You know, as we move away from agricultural living for most people, nowadays people even will just have food delivered as opposed to going to restaurants. That's happening more and more. And I think it's a required effort to bring the critical elements of the outside indoors. Yes. And it sounds kind of crazy, but people will, you know, exercise indoors. I try and exercise outside if I can, but I can't always do that. But we're now talking about bringing long wavelength light indoors and bringing...
+
+01:56:49.698 --> 01:57:17.726
+balanced full spectrum light indoors. And if it's as simple as bringing some plants, putting plants around a building, keeping the tinting off of windows, maybe I could see where that might cause some issues with regulating temperature and the downstream costs of that, et cetera. But having some long wavelength emitting sources, maybe it's an actual long wavelength, aka red light somewhere
+
+01:57:17.826 --> 01:57:27.806
+near a plant or a series of plants. Because not everyone can change their internal environment, their apartments, et cetera. I must say in the last probably...
+
+01:57:27.970 --> 01:57:55.518
+18 months, I've made some pretty serious effort to get in front of a long wavelength emitting device. Just my own personal experience is that by doing that, and I do do it early in the day, I do not use protective eye covering because I'm comfortable with those wavelengths. I sometimes will close my eyes for portions of it. But I must say, and I don't think this is placebo, but who knows, I find that it produces a tangible increase in just energy and feelings of well-being.
+
+01:57:55.778 --> 01:58:22.142
+for a substantial amount of time afterwards for me. But that's on a backdrop of already doing a number of other things, including trying to get outside for brief 20 minute or even 10 minute walks, grab a little gulp of sunshine as I call it. It's not really a gulp. I think that the more we can get outdoors, great, provided we don't sunburn. But we need to start bringing certain elements of the outdoors in to classrooms, hospitals,
+
+01:58:22.242 --> 01:58:50.238
+I mean, there's this phenomenon ICU psychosis where people don't have access to sunlight and circadian rhythm information. They're being woken up in the middle of the night and they literally develop, they're not psychotic and they develop a transient psychosis that resolves when they leave the hospital. I mean, I feel as you can probably tell very, very strongly that lighting is so critical for immediate and long-term health. And I agree with you. I think we, not to sound catastrophic, but if we don't, no pun intended, short circuit this. Yeah.
+
+01:58:50.658 --> 01:59:09.086
+excessive short wavelength light issue that we are going to see more and more metabolic dysfunction, more and more visual dysfunction, myopia. And for people with neurodegeneration or a genetic bias toward it, or maybe they occupational hazard related bias toward it,
+
+01:59:09.186 --> 01:59:38.750
+that if they don't get the protective effects of long wavelength light, I think it's going to be really serious. Yeah, I completely agree with you. And we weren't sticking our head above the parapet three or four years ago, but we are now. We think this is a significant public health problem. And some people, we've been approached by a few critical care units saying, what about changing our lighting? I mean, the architects have taught me one or two things. So
+
+01:59:39.042 --> 02:00:05.598
+They say cost to me because they're commercial. So they say things like, okay, well, if that gets your patient out of intensive care unit one day earlier, what does it save you? With one group of architects, we've talked about changing the lighting in a building to having major refurbs on it. And, oh, you know, the owners are, you know, they're going, oh, do we need this, you know, et cetera, et cetera.
+
+02:00:05.762 --> 02:00:34.142
+The architect turned around and said, how many days did you lose sickness in this building last year? And of course, they didn't know the answer, but it put them really on the spot. But the architect said, you should look at the larger economic model here. And that includes the health, perceived health of the individual. But it may have beneficial effects for you in terms of reducing costs. I think they put their finger on that really quite sharply.
+
+02:00:34.914 --> 02:01:03.294
+For people that are on a real budget and like most of us have to rely on LED lighting, hopefully they're dimming their lighting a bit in the evening, not relying so much on overhead lighting, trying to get their circadian rhythm correct. And in the daytime, getting outside is get their sunlight in the morning, et cetera. And they want to get some more balanced or long wavelength light. And they want to do it in the least expensive way possible. Even though candlelight is not very bright, getting a, I would recommend a,
+
+02:01:03.490 --> 02:01:33.342
+because we're learning all this stuff about the odors from candles. A, you know, an odorless, like a pure beeswax candle that provided it safe, they can, you know, at their desk in the evening or next to, maybe even on their nightstand, they have a candle while they read, just getting a bit more long wavelength light, you know, as you say, supplementing with long wavelength light here and there, maybe while even they're on their phone or their tablet before sleep. I feel like these things ought to make a meaningful difference over time. They're very low cost.
+
+02:01:33.794 --> 02:02:03.646
+you don't burn your structure down, they're safe. And even better, it sounds like would be to get a hold of an incandescent or halogen bulb. But I feel like this is something that most anyone could do and seems very, very healthy to do. Well, I am 100% behind the idea that firstly, that this can change public health. And secondly, that it should be done at almost zero cost because that is a potential. So if you look at
+
+02:02:03.938 --> 02:02:29.342
+a number of my colleagues, and this includes myself, in the kitchen, I have got a halogen lamp. So when I get up in the morning and you're spending that 45 minutes that really should be 10 minutes, but you're faffing around doing stuff, there's a halogen lamp there on at the right time. It's not desperately bright, but it's there at a critical time during the day. What color does it appear?
+
+02:02:29.538 --> 02:02:59.102
+It's an ordinary white light. Okay, but it's full spectrum. But it's full, a proper halogen lamp is just a certain kind of incandescent that has potential longer life in terms of its shelf life because there are reasons you should keep it, reasons you should have it. And just do that. Great. Just, you know, a halogen lamp and particularly if you can afford to dim it, it'll last almost forever.
+
+02:02:59.586 --> 02:03:25.438
+Because if you just turn the power down, which increases the amount of infrared light, the bulb will last for ages, absolutely ages. And you're using this in the morning. You could also use it in the evening. And if you dim it down, it's not going to alter your melatonin level circadian rhythm. And if you dim it down, your energy bills should not go up. So I believe profoundly that...
+
+02:03:25.762 --> 02:03:53.886
+can affect public health and we should affect public health at a highly economic way. And that's kind of, so we are working hard on what's the minimum? What's the minimum? What's the minimum? You know, in critical care units, a big one that we really are trying to dent is nursing homes, where these people spend all their time in beds or they're, you know, they're away from windows. Can we wheel them all in for breakfast and actually have
+
+02:03:54.690 --> 02:04:22.622
+heat source, an incandescent heat source to provide incandescent light, but at the same time use that heat. So the architects used to say, well, if you want me to change all these lighting, what am I going to do with all this excess heat coming off ceiling lamps? Well, they've turned around now. They're saying, we'll put them lower down and maybe we'll use the heat circulating in the room. There's lots of imaginative ways around this. There's 50 PhDs in this.
+
+02:04:22.818 --> 02:04:50.974
+with some really simple winner experiments. It's great. I mean, I'd like everyone to think about their indoor lighting environment, how much sunlight exposure and short wavelength shifted LED exposure they're getting during the day. Not because I'm really into like extreme biohacking. I'm actually not. I just think that whatever we're missing from the out of doors that we need and is healthy for our mitochondria, which clearly involves long wavelength light, your work has demonstrated that beautifully,
+
+02:04:51.170 --> 02:05:20.446
+In the work of others, of course, you're always so good at attribution. So I want to acknowledge you for that by doing it as well. I think people should do it. And if it's an incandescent bulb or a halogen or candlelight, it seems like it would make a meaningful difference. Speaking of meaningful differences, before we part ways here, I would love to hear a story that you were starting to tell me before we recorded about a child with a mitochondrial disease. And...
+
+02:05:21.026 --> 02:05:50.462
+how some of this stuff about light and mitochondria was actually useful in that context. Yeah, so we're doing clinical trials, and I'm quite optimistic about some of them, but there is a specific group of diseases called mitochondrial diseases where the genetic code, because mitochondria have got their own DNA, the genetic code for making ATP gets disrupted. And that can be mild or it can be very severe.
+
+02:05:50.626 --> 02:06:19.550
+Some of these children do not make it beyond 25. Typical reasons are heart failure, et cetera. Some of them are very bed bound and crippled by the disease. Others manage to walk around and function to a first approximation. And I started to get emails from people who said, you know, you were showing red light. You're using word red light and mitochondria, improving mitochondria. My child's got mitochondrial disease.
+
+02:06:19.746 --> 02:06:49.150
+And I said, I don't have ethics for that. I can't pass any real comment. If you chose to do something, then I suggest you might consider doing this. And the first child that did do that had a, I would say, gut-wrenching improvement. We were devastated by its effect. Positive effect. Positive. Over here, when we say gut-wrenching, we mean it was negative. Oh, no, no, no. You're saying it was...
+
+02:06:49.250 --> 02:07:18.942
+Eye watering for you guys is negative. Gut wrenching is positive. Over here, eye watering is positive. I'm just teasing. So we were looking at simple metrics, which is how much they could open their eyelids. It's called ptosis. It couldn't open their eyes. This child, the first child within a month or so had semi-mobility. I got a video of her walking to school. I went to the bathroom and sobbed.
+
+02:07:21.442 --> 02:07:50.910
+something that's really helped someone. Then we had another couple of kids and they all had small improvements. We got a clinical trial for it. And our biggest problem is we couldn't get enough kids into the study. The density of kids with mitochondrial disease in the UK, we got funding for it, was just too low. So one of the things I've got to do, sadly, when I go back, certainly before Christmas, I've got to wrap that up and hand the money back. I'm just going to say, just could not get
+
+02:07:51.138 --> 02:08:13.150
+the kids. And some of them, as I told you, when that disease digs in badly, we can't do anything about it. Some of those kids were just so sick. It was a major effort to get them to the hospital to assess them. But let's take a defocused image on this. In theoretically, red light should help
+
+02:08:13.346 --> 02:08:42.142
+with mitochondrial disease. It will do absolutely no harm whatsoever. And I generally say, if all of this is a pile of rubbish, A, I'll look an idiot, but I don't think I am going to look an idiot. B, you will not have wasted money on something that's just completely worthless. So I'm talking to people now and I'm saying, okay, why don't you think about changing the light bulbs in the home to get, just get that extra bit of red light to help
+
+02:08:42.338 --> 02:09:05.534
+you through. We've got a trial for a retinal disease coming out shortly. I don't know the results. They won't show me, probably because they know I'll talk. And it's a disease called retinitis pigmentosa. Very common. And we've had a fantastic response from a donor in the States who has given us some money. And the next
+
+02:09:05.890 --> 02:09:29.758
+in that line is changing the light bulbs for patients with retinitis pigmentosa. I'm partly working at Moorfields Eye Hospital, supposedly it's got the biggest ophthalmic outpatient population in the world, and we do have enough people with retinitis pigmentosa. So I'm going to kick that off towards the end of this year. Everything's pointing towards light bulbs. Everything's pointing towards, and I would at this point say,
+
+02:09:30.050 --> 02:09:56.222
+I'm not saying it for the first time here. I've shouted about it for the last six months. Moorfields Eye Hospital is building a brand new hospital. Looks great. It's all in glass. It blocks infrared. And it's got the world's worst, it's gonna have the world's worst LEDs put in it. You know, we need to learn, but it's apparent to me we're gonna have to learn slowly. As with so many things with human health, but listen, Glenn,
+
+02:09:56.322 --> 02:10:23.902
+I want to thank you on many levels. First of all, for taking the long trek over here from the UK. We have some sunlight to offer you. Oh, let's do it. I'm on the Human Woman podcast. That's a big plus in life. I'm also, I got out of London, which was gray, grim, cold and wet. You didn't have to talk too hard to get me over here. All right. Well, we're happy to have you here in the studio sharing all this knowledge. And also, I really want to thank you for
+
+02:10:24.258 --> 02:10:48.126
+shifting your focus of research. We won't waste people's time by talking about the various things that you and I worked on for years. We were in slightly overlapping fields and then different fields and we would overlap again, but we go way back and you've always done such meticulous and really beautiful work. But I think you and I have shared with one another and I'll share now that at some point one reaches...
+
+02:10:48.226 --> 02:11:13.438
+like a juncture in their career where you kind of go, you know, how can I make the most positive impact? And a few years back when I started seeing the studies that you were doing on bees and mice and then humans evaluating how different wavelengths of light can impact visual function, mitochondrial health, and the number of really terrific collaborators that you've brought in around that. And again, I love the way that you give...
+
+02:11:13.570 --> 02:11:27.006
+such a ready attribution to the other people in the field. And also that you are willing to be vocal about what people can do. Scientists are often afraid of that. You give people meaningful suggestions about how they can
+
+02:11:27.170 --> 02:11:53.086
+improve their health, their vision, et cetera, using low cost or even in some cases cost saving technology. So I could go on and on here, but I really want to thank you for sharing all this knowledge, for doing the work you do and for being a voice for public health as it relates to indoor and outdoor lighting. And I really look forward to seeing what you do next. And it's a real pleasure for me to sit down with a long-term colleague. So thank you. I thoroughly enjoyed it. Thank you.
+
+02:11:53.442 --> 02:12:02.622
+Thank you for joining me for today's discussion with Dr. Glenn Jeffery. To learn more about his work and to find links to the various resources we discussed, please see the show note captions.
+
+02:12:02.754 --> 02:12:32.720
+If you're learning from and or enjoying this podcast, please subscribe to our YouTube channel. That's a terrific zero cost way to support us. In addition, please follow the podcast by clicking the follow button on both Spotify and Apple. And on both Spotify and Apple, you can leave us up to a five-star review. And you can now leave us comments at both Spotify and Apple. Please also check out the sponsors mentioned at the beginning and throughout today's episode. That's the best way to support this podcast. If you have questions for me or comments about the podcast or guests or topics that you'd like me to consider for the Huberman
+
+02:12:32.720 --> 02:12:56.958
+Please put those in the comments section on YouTube. I do read all the comments. For those of you that haven't heard, I have a new book coming out. It's my very first book. It's entitled Protocols, an Operating Manual for the Human Body. This is a book that I've been working on for more than five years, and that's based on more than 30 years of research and experience. And it covers protocols for everything from sleep to exercise, to stress control,
+
+02:12:57.090 --> 02:13:17.086
+protocols related to focus and motivation. And of course, I provide the scientific substantiation for the protocols that are included. The book is now available by presale at protocolsbook.com. There you can find links to various vendors. You can pick the one that you like best. Again, the book is called Protocols, an Operating Manual for the Human Body.
+
+02:13:17.442 --> 02:13:47.408
+And if you're not already following me on social media, I am Huberman Lab on all social media platforms. So that's Instagram, X, Threads, Facebook, and LinkedIn. And on all those platforms, I discuss science and science-related tools, some of which overlaps with the content of the Huberman Lab podcast, but much of which is distinct from the information on the Huberman Lab podcast. Again, it's Huberman Lab on all social media platforms. And if you haven't already subscribed to our Neural Network newsletter, the Neural Network newsletter is a zero-cost monthly newsletter that includes podcast summaries as well
+
+02:13:47.408 --> 02:14:13.086
+as what we call protocols in the form of one to three page PDFs that cover everything from how to optimize your sleep, how to optimize dopamine, deliberate cold exposure. We have a foundational fitness protocol that covers cardiovascular training and resistance training. All of that is available completely zero cost. You simply go to Hubermanlab.com, go to the menu tab in the top right corner, scroll down to newsletter and enter your email. And I should emphasize that we do not share your email with anybody.
+
+02:14:13.346 --> 02:14:21.822
+Thank you once again for joining me for today's discussion with Dr. Glenn Jeffery. And last, but certainly not least, thank you for your interest in science.

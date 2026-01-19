@@ -1,0 +1,1123 @@
+WEBVTT
+
+00:00.354 --> 00:17.310
+Welcome to the Huberman Lab Podcast, where we discuss science and science-based tools for everyday life. I'm Andrew Huberman, and I'm a professor of neurobiology and ophthalmology at Stanford School of Medicine. My guest today is Dr. Chris McCurdy.
+
+00:17.474 --> 00:44.638
+Dr. Chris McCurdy is a professor of medicinal chemistry at the University of Florida, where he directs research on natural products and their pharmacologic effects, most recently the plant-derived compound Kratom, which is readily sold in the U.S. and around the world and is now used by tens of millions of people daily, and those numbers are increasing fast. Dr. McCurdy's research focuses on understanding how Kratom interacts with our nervous system and affects our physiology and behavior. He also studies its potential for addiction.
+
+00:44.802 --> 00:49.950
+During today's episode, we discussed the complex effects of kratom and its relationship to the opioid system.
+
+00:50.050 --> 01:20.016
+Dr. McCurdy explains how kratom's active compounds work in the brain, why it shares certain similarities to opioid drugs, and critically, how kratom products available in the U.S. and elsewhere are largely derivatives and isolates of the kratom leaf, which is very different in terms of the effects it produces when compared to the traditional leaf products. And unfortunately, that has confused and in many cases harmed consumers. So today, you'll learn about kratom's effects at different doses and when it's sourced in different ways. You'll learn about how it can be a stimulant, how it can increase
+
+01:20.016 --> 01:44.414
+how it can be a painkiller, how it can increase euphoria, but also its strong potential for addiction. You'll also learn what is known about Kratom in terms of its ability to help people transition off traditional opioid drugs. It has been shown to be effective for that. However, we are also going to explain the potential harms of Kratom, in particular in young people whose brains are still developing and in people that don't have a prior opioid addiction.
+
+01:44.642 --> 02:14.608
+Our discussion about Kratom also opens up a broader discussion about other plant alkaloids that have medicinal properties, including those found in things like cocoa and 100% chocolate. And we discussed the incredible history of soft drinks like Coca-Cola, Pepsi, 7-Up, and Dr. Pepper, which believe it or not, were originally developed as pharmacologic tools before becoming the ultra popular beverages that we're familiar with today. So I realize many people have heard about Kratom, but also many of you perhaps have not. What everyone should know, however, is that Kratom products are pretty much
+
+02:14.608 --> 02:32.190
+everywhere now. You can find them in supermarkets, convenience stores, online, and they're sold under the pretense of having very specific effects related to energy, pain management, or mood. But by the end of today's episode, you'll have a thorough understanding of how this plant compound actually works. Yes, it's potential effects, but also it's serious risks.
+
+02:32.578 --> 03:00.830
+Before we begin, I'd like to emphasize that this podcast is separate from my teaching and research roles at Stanford. It is however, part of my desire and effort to bring zero cost to consumer information about science and science related tools to the general public. In keeping with that theme, today's episode does include sponsors. And now for my discussion with Dr. Chris McCurdy. Dr. Chris McCurdy, welcome. Thank you. It's really a pleasure to be here. I'm excited to have you here because you work on some incredibly interesting compounds.
+
+03:01.122 --> 03:30.110
+several of which are very controversial and all of which are impacting health and society in a major way right now, especially in the United States. The most notable of those is Kratom. I'm guessing some people have heard of Kratom. I'm guessing some people perhaps have not. I'm pretty certain everyone has seen a Kratom product because they are everywhere, but it's often in the fine print. So could you just tell us what Kratom is, where it's found,
+
+03:30.466 --> 03:53.662
+in nature and in the United States and some of its properties that people take it in order to achieve certain effects and maybe some of its lesser known properties. So that's a lot of questions. So maybe just a general description of kratom, where it's found and what it does. Let's just start from the beginning and make it easy. It's a tree that's called Mitragana speciosa by its botanical name.
+
+03:53.762 --> 04:23.134
+Um, it's called Kratom in Southeast Asia, which is where it's native to. It's actually native to, uh, where peninsular Malaysia and Thailand connect. So at the border of, of those two countries is thought to be ground zero for where this tree species came from. And in that region, it's very rural. It's lots of farmers and lots of outdoor laborers. And those outdoor laborers chew the leaves, um, in Thailand, or they make, uh,
+
+04:23.362 --> 04:49.726
+a tea, more technically what we call a decoction because they boil the leaves for hours. But they'll harvest fresh leaves and boil those leaves and then drink that just like we would drink a coffee drink in the morning to give them energy, to give them sort of sustainability throughout the day to tolerate that heat, humidity, and very harsh tropical environment. And it gives them the stamina to make it
+
+04:49.986 --> 05:19.870
+make it through the day. And that's really what the traditional use has always been, more or less for energy and to get through that day. But it also has been used to treat pain. It's been used to treat, of all things, erectile dysfunction. It's been said to be nature's sort of Viagra. It's used for mood elevation primarily. And so these individuals will...
+
+05:19.970 --> 05:49.214
+We utilize it, like I said, throughout the day. It's a Muslim population in that area, so there's no alcohol really and no consumption of alcohol. And this is sort of a socially lubricating product. And so in the evenings, on Friday, Saturday evenings, the men would generally gather and then increase their consumption of the tea just socially. And it could get them into a more sedative-like effect.
+
+05:49.442 --> 06:14.174
+There's always this sort of paradoxical description of kratom or as we say in the United States, kratom, where you get this stimulant effect at lower doses or smaller amounts and you get this more euphoric or sedative-like, opioid-like effect, if you will, at higher doses.
+
+06:14.370 --> 06:39.326
+They tend to use that traditionally. So they'll take the benefits of it, just like we would use coffee, I think, to sort of get us moving in the mornings. That's what they sort of use in those regions. And they move into, you know, on the weekend evenings, they'll use it as more of a social beverage. And so that's where that's been. We got interested in it from the standpoint that
+
+06:40.386 --> 07:06.974
+There were also reports that this could be utilized when they ran out of heroin or raw opium so that they wouldn't go into withdrawals. And so essentially they're already using it. They would increase the consumption when they ran out of heroin or opium and that would stave off withdrawals for them. And that became really interesting to me as an opioid researcher, a pain researcher, could this be something that
+
+07:07.138 --> 07:25.310
+has potential and obviously would have potential in helping with the opioid crisis that we're in. And that's kind of what drove us into starting to look at this. I'd like to take a quick break and acknowledge one of our sponsors, David. David makes a protein bar unlike any other.
+
+07:25.410 --> 07:52.798
+It has 28 grams of protein, only 150 calories and zero grams of sugar. That's right, 28 grams of protein and 75% of its calories come from protein. This is 50% higher than the next closest protein bar. David protein bars also tastes amazing. Even the texture is amazing. My favorite bar is the chocolate chip cookie dough, but then again, I also like the new chocolate peanut butter flavor and the chocolate brownie flavored. Basically, I like all the flavors a lot. They're all incredibly delicious.
+
+07:52.930 --> 08:22.896
+The toughest challenge is knowing which ones to eat on which days and how many times per day. I limit myself to two per day, but I absolutely love them. With David, I'm able to get 28 grams of protein in the calories of a snack, which makes it easy to hit my protein goals of one gram of protein per pound of body weight per day, and it allows me to do so without ingesting too many calories. I'll eat a David protein bar most afternoons as a snack, and I always keep one with me when I'm out of the house or traveling. They're incredibly delicious, and given that they have 28 grams of protein, they're
+
+08:22.896 --> 08:40.831
+really satisfying for having just 150 calories. If you'd like to try David, you can go to davidprotein.com slash Huberman. Again, that's davidprotein.com slash Huberman. Today's episode is also brought to us by Eight Sleep. Eight Sleep makes smart mattress covers with cooling, heating, and sleep tracking capacity.
+
+08:41.025 --> 09:04.798
+One of the best ways to ensure a great night's sleep is to make sure that the temperature of your sleeping environment is correct. And that's because in order to fall and stay deeply asleep, your body temperature actually has to drop by about one to three degrees. And in order to wake up feeling refreshed and energized, your body temperature actually has to increase by about one to three degrees. Eight Sleep automatically regulates the temperature of your bed throughout the night according to your unique needs.
+
+09:04.898 --> 09:31.102
+Eight Sleep has just launched their latest model, the Pod 5, and the Pod 5 has several new important features. One of these new features is called Autopilot. Autopilot is an AI engine that learns your sleep patterns to adjust the temperature of your sleeping environment across different sleep stages. It also elevates your head if you're snoring, and it makes other shifts to optimize your sleep. The base on the Pod 5 also has an integrated speaker that syncs to the Eight Sleep app and can play audio to support relaxation and recovery.
+
+09:31.202 --> 09:38.526
+The audio catalog includes several NSDR, non-sleep deep rest scripts that I worked on with Eight Sleep to record. If you're not familiar,
+
+09:38.626 --> 10:07.230
+NSDR involves listening to an audio script that walks you through a deep body relaxation combined with some very simple breathing exercises. It's an extremely powerful tool that anyone can benefit from the first time and every time. If you'd like to try 8sleep, go to 8sleep.com slash Huberman to get up to $350 off the new Pod 5. 8sleep ships to many countries worldwide, including Mexico and the UAE. Again, that's 8sleep.com slash Huberman to save up to $350.
+
+10:08.066 --> 10:37.758
+When we see a Kratom product in the United States, and I realize there are a variety of those, but let's just take, for example, I'm aware of a product that's very popular nowadays. It's a small blue bottle. It includes kava and Kratom as its primary ingredients. I have zero financial relationship to this company. I actually had the opportunity to be an early investor. I turned it down. When somebody takes...
+
+10:38.690 --> 11:08.126
+when they drink a bottle of that, how concentrated and how much kratom are they getting compared to say the typical adult user in Malaysia who drinks, I don't know, a mug of this concoction, are they comparable? Are they even the same compound? Can we think about them the same way? Because this is very much in my mind, like comparing,
+
+11:08.578 --> 11:36.798
+smoked cannabis. Let's just say there is no typical variety, but compared to a highly concentrated THC tincture, for instance, I mean, the same chemical structure, but at some point the pharmacokinetics changes and you're basically looking at different brain circuits, different bodily organs engaged is like kind of different experience altogether. Correct. And I, and I think it's important distinction to make at the outset of this is that, you know, what I described as the traditional use is, you
+
+11:36.930 --> 11:58.750
+is freshly picked leaves that day. They're either chewing them directly when they pull it off the tree or they're brewing this decoction right away. In the United States and in the Western world, it's a very different product from day one because it's a dried leaf material that's been exposed to the air, the sun, whatever environmental factors are there.
+
+11:58.946 --> 12:23.614
+plus shipping it all the way across the world from Indonesia, which is the primary country where most of this is grown. The last I heard a year ago was there's about 250,000 kratom farmers in Indonesia that are producing and exporting raw materials around the globe, but primarily to the United States. So...
+
+12:24.258 --> 12:52.382
+that leaf material comes in. And then leaf material has been ground and put into capsules, put into various products, even just powdered product where people will use tablespoons of powder and a couple grams of powder in their warm water or however they'd like to do. So it's an interesting product because that's as close to the traditional use of
+
+12:52.514 --> 13:06.558
+that you can get in the Western world, right? Because you're still using leaf, you're ingesting it, or you're making a tea from it. Water is the worst, least efficient extractor of
+
+13:06.786 --> 13:36.446
+chemicals out of a plant material. And even if we don't make a tea out of it, if we just take the leaf material internally, our body has to work incredibly hard to pull those active ingredients out of the plant material. So it's an active process for us as humans or as animals, if we want to talk about the animal research too, and where we've learned most all of this from, that our body has to work hard to get that into our system. Now...
+
+13:37.122 --> 13:50.590
+You take that leaf material and then you do something like you mentioned, put it into a tonic or you put it into a concentrate form or an extract. And now the compounds have been already...
+
+13:51.010 --> 14:16.958
+pulled out of the leaf material by the solvent or the liquid that's being utilized, whether it's ethanol or it's oil or some other type of vehicle. I think in the product you mentioned is pineapple juice, which again is not as efficient as something like oil or a solvent would be. But you start to pull these compounds into that liquid.
+
+14:17.794 --> 14:44.414
+Instead of our body having to pull it out of the leaf, it's already out of the leaf. Now we can ingest that and those compounds are absorbed much faster into our body, into our system. And it totally changes the dynamics of what our body is exposed to from that sort of more traditional-based product. And this is also where we feel that things have become problematic.
+
+14:44.610 --> 15:04.990
+And so if we go back to Paracelsus, you know, hundreds of years ago, talking about the poison is in the dose, where we've seen somewhat non-problematic use, I would say. The majority of non-problematic use is with that leaf material, more of that
+
+15:05.282 --> 15:28.926
+closer to traditional use. But as you start to make these concentrates and extracts and now isolates, which are even a whole other discussion because they're no longer even kratom products, you start to move ever so far across that spectrum. And I like to equate it to the alcohol world where we talk about
+
+15:29.090 --> 15:57.150
+seltzers or light beers being more comparable in an alcohol beverage to that traditional use of kratom, whereas we get to things like almost pure alcohol, Everclear, 190 proof, 95% alcohol. Now you're talking about these isolate products. And we have products in the alcohol industry through that whole span, but we've classified all of them. We don't call them alcohol.
+
+15:57.250 --> 16:27.102
+in general. We'll define them. Beer, wine, cider. Yeah. And it's the spirits and then into very fortified beverages. And so we don't have that delineation in the Kratom space. And so all Kratom products get dumped into a single bucket. And so whether or not it's a benign product or something that's highly, highly concentrated, and I shouldn't say benign, but something that
+
+16:27.202 --> 16:28.254
+is much more
+
+16:28.386 --> 16:58.352
+close to that traditional use that you're not gonna have a risk of getting a great exposure when you take some of it versus a shot that might be 15 milliliters and it tells you on the bottle it's nine servings, but nobody reads that part and just downs the entire bottle. Is that what we're talking about when we talk about this little blue bottle? No, the little blue bottle is more, actually is more similar in terms of what is dosed in there to a traditional exposure of a beverage.
+
+16:58.352 --> 17:25.310
+One bottle. One bottle. I say one bottle and forgive me for interrupting because about a year and a half ago, I ran into a friend and his assistant, she came running out and knowing what I do, she said, hey, do you know about this like blue bottle product? And I said, yeah, I've seen it, not tried it. And why, what do you think? And she said, well, I liked it because I –
+
+17:25.602 --> 17:55.294
+drank one, but now I'm drinking six a day and I can't seem to whittle it back. Like when I went to three, I did not feel well. Headaches, anxiety, not well. It was basically how she described it. And I said, well, sounds like either addictive or habit forming. And I don't know where she's at with that, but this seems very common. People start with one, not unlike nicotine pouches, start with three milligrams and they're up to six milligrams. And then pretty soon it's a 10.
+
+17:55.458 --> 18:23.742
+a day or a canister a day. So one bottle of that, of Kratom Kava, that's comparable to the plant use? I think if I remember right, the bottle is two servings. So we've tested almost every single product in the marketplace, and we've analyzed it for the content of alkaloids to see what's there and what they consider a serving. But if we only look at a serving...
+
+18:24.002 --> 18:48.158
+They're pretty much all equivalent. Again, it's what's in that bottle, right? Is it one serving, two servings, nine servings, 15 servings in a single bottle? So most people aren't going to look at it from the standpoint of, hey, I've got this bottle here, which is actually smaller than the blue bottle, but it's 10 times more servings.
+
+18:48.258 --> 19:17.278
+And so if you're used to consuming that blue bottle all at once, which is two servings, I think, then if you pick up one of those bottles that's 15 servings and you consume the whole thing at once, you're getting a much greater exposure immediately. And it's in a much easier vehicle for our body to welcome those compounds in, if you will. So it becomes a very...
+
+19:17.378 --> 19:42.206
+very slippery slope, in my opinion, with these different products that are out there in the marketplace. And so if someone is not paying attention to what the actual serving is supposed to be, then this is where problems become. And the other thing I would add to that is that a lot of times, and I've seen this, I've stopped in –
+
+19:42.370 --> 20:11.742
+of all places, I stopped at a Murphy USA gas station, Walmart's gas station, and they had Kratom energy shots right next to the five-hour energy shots. And so if you were in a hurry and you weren't even paying attention, you might accidentally grab something that you thought was a five-hour energy shot, right? And suddenly, and I took, you normally take two of those and I do it right back, back and throw them right back. And so if you, if you,
+
+20:11.906 --> 20:39.870
+get these and generally what we worry about is kids getting these, right? And getting these and then taking a shot, a whole bottle, which may be multiple servings and they don't feel anything right away. And somebody told them, you're going to get high from this. You can't believe it, but you'll get high from this thing you can buy in the gas station. And then they don't feel anything. And then suddenly they have another one, right? And then all of it,
+
+20:40.418 --> 21:05.694
+gets absorbed and hits them harder almost all at once. You can think of it like if you sat down and you drank a light beer and you drank that 12-ounce beer in a short period of time, you could really drink it fast, you're not going to get very much alcohol exposure because there's only 3.5% in that 12 ounces. But if you sit down and you do three shots of tequila,
+
+21:06.306 --> 21:31.262
+in a row in that same timeframe, your body is getting exposed to significantly more alcohol in that timeframe. And that's what our concerns are around some of these products. And so when you look at the specific serving, yeah, they dial it in to say, yep, this is what is comparable to a traditional full glass of tea. But they're...
+
+21:31.554 --> 22:00.510
+They're very, very concentrated. And now, as I mentioned, moving outside of this space into semi-synthetics and products that are no longer – kratom products are no longer traceable back to the plant material. They're actually semi-synthetically produced. That means they're chemically modified into other things that they're calling, in some cases, kratom product. Again, this is that trash can. Or –
+
+22:00.642 --> 22:27.230
+they're actually calling them kratom-derived products. Two things that I'm taking from what you've said thus far is that anyone considering kratom products of any kind needs to carefully consider serving size. And it's interesting that those small bottles, and frankly, the packaging of most things is pretty small, and I don't think it's just my age. You need to
+
+22:27.650 --> 22:53.406
+compound microscope to read some of the print. Like literally fine print has become so fine that I think it's below the threshold of a Air Force fighter pilot's high acuity vision. 2015. So in all seriousness, you need to look at the serving size and know how many servings are in there. Absolutely. So check serving size. And the other thing is to look for kratom-derived
+
+22:53.602 --> 23:20.702
+or kratom extracted versus actual kratom plant product. Because while we're not recommending usage here, there are a number of people using these products. There are a number of people that are going to use these products. We just have to be honest about that. And I think it's very important to understand how to navigate this space because as you've pointed out, it's not one thing. It's just not. And maybe just for the moment, let's step back in light of that. And let me just ask,
+
+23:20.866 --> 23:49.630
+You said earlier that when people use the plant at lower dosages, it's a bit of a stimulant. Might even have some aphrodisiac qualities to it, which suggests to me, I'm not a medicinal chemist as you are, but suggests that there might be some dopaminergic, maybe some cholinergic, maybe some vasodilation activity given the aphrodisiac part, et cetera. Okay. But then in higher doses, it starts to become more of a sedative. Yeah.
+
+23:49.762 --> 24:13.694
+people take kratom derivatives or these more manufactured or processed kratom products in the United States, the small blue bottle, let's say one or two servings, or the ones that are in the energy shot, let's say they take one or two servings, which would be basically a quarter of a sip of one of those little thimble size things. Are they seeking the stimulant aphrodisiac effect
+
+24:13.794 --> 24:42.654
+Or do you think that most, do we have any data rather as to whether or not users in the U.S. are really going for that kind of sedative numbing out effect? Because those are two very different things. Very, very different. And I don't think we have good, strong, definitive data. So I will say that with my colleague, Dr. Kirsten Smith at Johns Hopkins and others on our team, we've done pretty extensive surveying of users. Yeah.
+
+24:42.946 --> 25:11.262
+these users, you know, volunteer themselves into the studies. So I think we have to look at that from a standpoint of, you know, we're not just putting out random people on the street and asking them questions. These are people that choose to answer. But what we found in the largest study that we've done to date is most users are using it in a very responsible and directed way.
+
+25:12.002 --> 25:40.830
+where they're not using it to get this high or euphoria or, or sensitive feel. Really? Really. Okay. I want, could you repeat that? You said it very clearly, but I think the world needs to hear this. The estimated number of users right now, we don't really have a good thumb on this. All right. So the most recent literature report was around 2 million, 2 and a half million users. But if you look at sales of products and you talk to the manufacturers,
+
+25:41.186 --> 26:10.430
+The estimates are well over 20 million users in the United States. And if you look at the availability of product, it's got to be closer to those numbers. On a daily basis? On a daily basis. Daily basis. So this isn't, you know, 2 to 20 million people per year ingest a Kratom product. This is 20 million people a day. This is what is the estimate right now. Wow. Based on the amount of material that's been imported or, if you will, exported –
+
+26:10.690 --> 26:37.886
+to the U.S. and then manufactured. And so in 2019, when we actually had solid data, it is 1,950 metric tons per month coming in. Do you think there are many people in the U.S. that are ingesting Kratom products, like them for the effect it produces, and are not aware that they're actually taking Kratom? It's a very interesting question. So I work with a whole...
+
+26:38.946 --> 27:04.862
+of different people, right? So from emergency room physicians to medical toxicologists to basic scientists like myself and everything in between. And if people have heard of Kratom, they know what it is. And if they've heard of it and they are experienced in trying things, they've probably tried it.
+
+27:04.994 --> 27:32.830
+And then there's a whole group of people that have no idea what it is, never heard of it, just completely something that they drive by. They see it, like you said. You see it everywhere, but you don't have any idea what it is. So I think most people that are ingesting it or utilizing it know that they're utilizing it. I think they know they're specifically going after it. But again, what I'll say is what we did...
+
+27:32.994 --> 27:58.878
+It was an ecological momentary assessment. And so this is an EMA study where you're actually monitoring people with smartphone apps in every single dose they're taking. They're reporting what they're feeling. They're reporting why they're taking it, when they're taking it, right? And the majority of those people that were involved in those studies were using it in an appropriate sort of not-to-get-high way. What are they using it for?
+
+27:59.010 --> 28:22.654
+Mostly for energy, mood elevation, and pain treatment. So people like to use it as an alternative, particularly to opioids. So what we were surprised at, we thought we would see a lot of people using it to get off of opioids, right? Because that's sort of the general theme that it's had. Indeed, people are doing that.
+
+28:22.754 --> 28:43.870
+And I get emails almost weekly of people writing to me saying that this got them off the couch. They're getting their families back. They're getting their lives back because this really helped give them that energy that they didn't have when they had opioids. Really? Okay. We'll definitely double click on that in a few minutes. Yeah. And so that's an interesting group of people.
+
+28:44.738 --> 29:13.374
+but I'm not sure that that's the largest group that are out there. It's really these mood elevations. You touched on a little bit too with the exercise. People are using this as a pre-workout stimulant to give you more endurance, very similar to that traditional use, right? These people in the outdoor hot environment being able to work better, harder, faster. And people are using it as a post-workout stimulant
+
+29:13.602 --> 29:41.502
+pain treatment, right, to help kind of soothe them through all that lactic acid buildup and that pain feeling. So there's a variety of groups or reported groups of users. But the biggest one is really that mood elevation, that sort of kind of energy boost, just overall general good feeling, not a high feeling. And we specifically ask for those
+
+29:41.698 --> 30:10.334
+those questions, you know, are you using this to get high? And yet there's a population of people that are purely out there to say, this is my thing. This is what I use it for. I get high. I know people that on Friday nights, they're like, this is, this is my Friday night jam and this is what I do. And it makes me feel, you know, euphoric and relaxed and, and that's it. And so I think there's just various user populations and,
+
+30:10.466 --> 30:39.550
+And we can't even get to a granular point in that to say, you know, are these populations that are trying to get high, are they using those really concentrated products? More than likely, that would be the assumption. And are the people that are using it more on a daily basis, are they doing it with more of the powdered leaf material and those types of products? And that's generally what we've seen.
+
+30:39.778 --> 31:05.886
+And interestingly enough, I mean, we looked at the time of day. When are people using these products, right? They wake up and within the first half hour, they have it. Would you say they have it or they need it? It could be they need it. It does absolutely cause a physical dependence. You said it absolutely causes a physical dependence. Do you mean it absolutely causes a physical dependence at every dose and every desired effect?
+
+31:06.242 --> 31:36.094
+I would say not – so if you take it one time, you're not going to be physically dependent on it. But if you're utilizing it over a course of time – and I can't tell you what that timeframe is because we don't have any chronic studies in humans. We don't have – and sadly, we don't even have chronic studies in animals, although animals aren't going to be able to tell us, I need this, right? So the physical dependence feeling that most people will report is very similar to that. And I –
+
+31:36.994 --> 32:05.502
+I get caught making this comparison many times because people that are using leaf material, excuse me, if they get up in the morning and they want to go get their leaf material, they're not drinking coffee, they're drinking kratom or kratom. And they have a headache or they feel miserable if they don't get that into them. Very similar to what we would get with a caffeine withdrawal.
+
+32:05.698 --> 32:35.038
+physical dependence on caffeine. Now, I can't speak to how much intense that gets as you start to ramp up into those various products because we don't have good reports around those. But I can tell you that anecdotally, people have said they get more restless leg syndrome, they get more severe type physical dependence signs, which restless leg is much more related to opioid syndrome.
+
+32:35.458 --> 33:01.534
+withdrawal type issue than it is to a coffee withdrawal issue. So there's not only is there a spectrum of, of physical dependence symptoms, you know, you, you, you have this spectrum of products and which ones are causing, which we don't, we don't have a handle on yet. I'm gathering at this point that there are basically three paths of Kratom usage in the United States. One group of people,
+
+33:02.146 --> 33:31.614
+is using Kratom products to achieve an energetic lift, not dissimilar from the lift they're seeking with caffeine or an energy drink. Sounds like they're using Kratom products pretty regularly to achieve that. And if they don't use their Kratom product, they feel a little bit more lethargic, maybe a little bit of minor headache, not as energized and clear as they would otherwise. Sounds a lot like caffeine to me. With one caveat, I should add,
+
+33:33.026 --> 33:44.670
+When somebody consumes a lot of caffeine, at some point, the effect starts to drop off because they gain a tolerance. The effect of caffeine doesn't shift from a stimulant
+
+33:44.834 --> 34:08.670
+a more opioid-like effect the more you take. It tends to just make you less sensitive to caffeine over time. It's more of an inverted U-shaped function as opposed to two different curves, right? Right. But you will become, you know, you'll get jittery with caffeine and you get, it actually causes anxiety when you get into higher amounts of it. And so, yeah, I mean, point well taken. It's just a matter of
+
+34:08.866 --> 34:30.334
+where you are in that sort of U-shaped curve, right? You got to get over that sort of jittery anxiety point before it really starts to, it doesn't bother you, right? I mean, when I was a young assistant professor, they would see me come in the restaurant with our guests and they would immediately put a pot of coffee on because they knew I was going to sit there until...
+
+34:30.466 --> 34:59.454
+nine, 10 o'clock at night and drink coffee the whole time, right? And I go to bed, no problem. I can't do that today. Recently on a podcast I was a guest on, I shared that I drink, and I do not suggest people do this, but I legitimately drink somewhere between 600 and probably 900 milligrams of caffeine per day. And people say, well, that's impossible, but I'll drink five zero sugar cold brew yerba mates, each one of those 120 milligrams, plus a strong coffee, probably another half cup
+
+34:59.586 --> 35:27.646
+I limit it to the early part of the day or up to about 2 p.m., but no problem. But most people who get their commercial vendor coffee, let's say venti coffee, take that away from them for two days and they will be complaining of headache and maybe even nausea because there's so much caffeine in those. Okay, so we got this first case caffeine-like usage. Let's just rub in that. Second path of kratom usage seems to be
+
+35:27.778 --> 35:56.254
+people who use fairly high doses or concentrates to achieve an opioid-like effect, a mild sedative effect, euphoric effect. This sounds a lot like opioid use or higher dosage alcohol use, for instance. And then we've got this third category that you mentioned that are using Kratom to get off opiates or to stay away from opiates. And for whom you told us,
+
+35:57.154 --> 36:27.006
+Kratom is a real benefit for them because otherwise they would be strongly addicted to opiates. And I should just mention that this third category of people are the ones that I heard from when I mentioned on X, formerly known as Twitter, I said something kind of negative about Kratom. I just put out a then tweet, now post, which alluded to the darker sides of Kratom. And I got attacked actually by this community that said, hey, were it not for Kratom,
+
+36:27.106 --> 36:52.958
+we'd see a lot more opioid dependence, we'd see a lot more fatalities. And actually I learned about you in large part through the dialogue that emerged from that response. And so hopefully what listeners of this podcast are starting to hear is that this molecule is complicated, super interesting, and that the usage patterns are complicated and varied and very interesting. So we can't just say...
+
+36:53.250 --> 37:16.510
+Kratom bad, Kratom good. We really have to explore how it's delivered and what people are using it for. And again, we can't just say Kratom because it's, that's just like just saying alcohol, right? So there's, there's a variety of different forms of product that are, that are out there and that are being utilized. And, and it could be that those, those are being utilized in, in very different ways. Um,
+
+37:16.898 --> 37:43.358
+As I mentioned, we don't have good, strong data to suggest one way or the other, but you can assume and anecdotally say that it would make sense, right? So I think two things that will really kind of probably blow this open a little bit more. One is that kratom itself contains multiple compounds, multiple chemical compounds. So it's not just one thing.
+
+37:43.714 --> 38:07.582
+It's an alkaloid. It has at least 20 to 40 alkaloids in it. Can you explain to people what an alkaloid is and some other examples of alkaloids they might be familiar with? Sure. So alkaloid is a organic molecule that has at least a nitrogen in its structure. So it has to be nitrogen, carbon, hydrogen. It can or cannot have oxygen. But those are...
+
+38:07.874 --> 38:30.142
+essentially the template for what we would define as an alkaloid. And then there's various classes of alkaloids. Many things that people are familiar with, dopamine, serotonin, these are alkaloids. But we could go further. We've just talked about caffeine. Caffeine is an alkaloid. Cocaine is an alkaloid. Morphine is an alkaloid. So
+
+38:30.306 --> 38:54.014
+All of these molecules contain a nitrogen that is core to part of their activity. What we believe is essential for them to interact with the proteins in the body. Can I ask a question about nitrogen and protein interactions? Sure. Given this is a science slash health podcast, without getting too far down in the weeds, a number of people will hear, okay, it's got a nitrogen. Okay. They probably have...
+
+38:55.106 --> 39:22.654
+vague or clear memories of chemistry class. But the fact that you have this N, this nitrogen, and you have cells that have proteins, for the non-chemist, could you explain how the nitrogen allows that molecule to do something? Does it bind with more affinity? Does it change the gene expression? What is it about having a nitrogen that really changes the properties of a molecule? Yeah, so there's,
+
+39:22.850 --> 39:43.518
+There's a couple of important pieces here. Nitrogen is a element that can act as a base. So it can, in a technical term, can accept a proton. So it can also develop a charge. Charges are important because if you think about magnets, right, we have a
+
+39:43.618 --> 40:04.894
+positive charge magnet face and a negative charge magnet face. And those two things will attract each other. You can set them on a table and they'll find each other, right? Depending on how strong or close they are to each other. That's a very similar thing that happens between nitrogen that can gain a positive charge in our body and nitrogen.
+
+40:04.994 --> 40:30.718
+say, a carboxylic acid or a negative charge that would be present on a protein. And so that nitrogen being charged, I always call it when I teach my pharmacy students, it's almost like a tractor beam. That molecule is floating around and it's trying to find that negative charge to interact with. And when it finds the right one in the right space and the right fit,
+
+40:31.106 --> 41:01.086
+boom, it's into that protein and it causes whatever it's going to cause, whether it activates that protein or whether it blocks that protein from doing its function. It is a key element of life. All our amino acids, amino is nitrogen. All of our amino acids, our building blocks of life, have that nitrogen and they have the acid part to it. So they have a positive and a negative charge by nature. And that's what makes up all of our proteins.
+
+41:01.250 --> 41:27.614
+And so the proteins can have positive charges from the nitrogens and they can have negative charges from the acids. And what we generally see with plant materials is they have alkaloids within those plants. And those alkaloids have helped define really our chemical neurotransmitter systems. Nicotine, perfect example. It's an alkaloid. We have an entire acetylcholinergic nervous system
+
+41:27.714 --> 41:47.678
+which is the exclusive nervous system in insects. But nicotine binds to nicotinic acetylchloric receptors. That whole system was defined by nicotine. Right. And people, just to take a step back, what Dr. McCurdy is explaining is that there are receptors throughout the brain and body that are responsible actively.
+
+41:47.874 --> 42:17.310
+for everything from muscle movement and contraction to your ability to focus, to your memory, neuroplasticity, that are so-called nicotinic acetylcholine receptors. They didn't evolve because we thought that people would take nicotine. It just so happens that this plant, that tobacco plant that contains nicotine, was used as a experimental probe to understand where these nicotinic receptors are in the body.
+
+42:17.570 --> 42:45.310
+This reflects the fact that humans have been nibbling on plants and seeing what happens for a long time. There's a explicative version of this, which is F around and find out kind of experimentation. But this is really what old world primates, including humans, have been doing for a long time. And then just seeing whether or not your buddy that ate the plant died, got energized, mated, fought,
+
+42:45.442 --> 43:13.630
+slept. And I mean, this is kind of still what we're doing. It's just that we do this now with lab coats on. Right. In many ways. And you're 100% right, right? There's the old joke, there's two types of mushroom hunters, good ones and dead ones, right? Good joke, because it's going to keep a lot of people safe. Yeah. And I mean, that's the point. And in fact, I've done a lot of work with ethnobotanists and ethnopharmacologists and somewhat M1 myself being in that
+
+43:13.890 --> 43:28.542
+work we've been doing and actually going into the, you know, native places to learn more about it, which is what ethnobotanists or ethnopharmacologists would be doing. And, you know, we, we have, um,
+
+43:28.930 --> 43:52.062
+a lot to learn from the things that have existed on this earth for a long time. Many of those are animals. Animals were probably the first pharmacists and the first physicians because they learned which plants to utilize when they were ill or sick, and they used which plants to avoid stay alive. So they learned these things long before humans were capable of
+
+43:52.450 --> 44:20.926
+looking at and understanding what the animals were doing and then mimicking the animals, right? And then this is sort of how modern medicine started to develop was all by observational, all by anecdotal, hey, that looks interesting, right? This is happening. And you still do this now in your laboratory. You study animals and we advance to human clinical trials. Animals have a certain advantage in this regard because they don't,
+
+44:21.250 --> 44:48.894
+subject themselves to the placebo effect, as far as we know. Correct. And in addition to that, animals, most animals, including insects, but many non-human mammals, have a much more powerful sense of smell than we do. And many of the compounds in plants, if they have... Like some people will be familiar with the discussions about testosterone and estrogen as steroid hormones, and then the aromatase compounds
+
+44:49.154 --> 45:13.406
+properties, aroma. They literally have an aroma that chemists in the lab know, or you could smell if something has a steroid-like chemical structure by virtue of the way it smells. But animals are very good at seeking out plants that have estrogen or testosterone in them, just by virtue of their ability to smell those compounds very, very sensitive. And you take it a little step further, it's also the taste...
+
+45:13.602 --> 45:43.422
+that's involved. I had my original mentor, he's gone now, one of my original mentors, he actually would come into the lab, was so old school that he would dip his finger into whatever I made and taste it and say, yep, you got your product. I knew that was coming. Yeah. Because I knew one of these older... He was a neuroanatomist. I can't believe that these guys did this. These guys did it. He's dead now by way of age, but he was a member of the National Academy and everything. We had a shipment of...
+
+45:44.162 --> 46:04.094
+please do not do this, of non-human primate and human brain tissue being shipped in for his brain bank. Friends of mine will know who this is. And he opened up the jar that it was shipped in. It was in liquid. And he took off his glove, which itself is crazy. Dipped two fingers in and he goes, 30% sucrose.
+
+46:04.642 --> 46:32.190
+but this could have prions in it. Now it was fixed also being a pair of formaldehyde. No, no, no regard whatsoever. Rescrewed it, put it on the shelf and then, you know, people got to work and it was obviously a demonstrate. This was kind of bravado in laboratories too, self-experimentation, terrible habits. But it was not uncommon. I mean, this is the way chemistry was done. One of my great manners and I'll spare him sharing his name, but his, his,
+
+46:32.354 --> 46:55.294
+His master's thesis was making analogs of methylphenidate, which is Ritalin. And so he – Ritalin is a methyl ester. So it's a carboxylic acid that has one carbon attached to where the acid part is. So this makes what we call an ester. And if you extend the carbon chain of an ester, you can –
+
+46:55.586 --> 47:03.646
+one, increase how it is absorbed in the body, and two, you can potentially increase how long it lasts in the body.
+
+47:03.810 --> 47:31.454
+And so his whole project was making from the methyl, now we take two carbons, which is ethyl, and we take three carbons, which is propyl, and we branch those carbons to make isopropyl or whatnot. And he would try each one of the compounds that he made himself to see if pharmacokinetically and pharmacodynamically it's improved on methylphenidate. Well, guess what's still on the market today, methylphenidate. So that ought to tell you.
+
+47:31.554 --> 47:56.350
+the result of his work. But when he told me those stories, it just blew my mind because I'm so averse to even smelling the chemicals we work with. You can blow out your olfactory epithelium. I'd like to take a quick break and acknowledge our sponsor, AG1. AG1 is a vitamin mineral probiotic drink that also includes prebiotics and adaptogens.
+
+47:56.450 --> 48:26.416
+As somebody who's been involved in research science for almost three decades and in health and fitness for equally as long, I'm constantly looking for the best tools to improve my mental health, physical health, and performance. I discovered AG1 back in 2012, long before I ever had a podcast, and I've been taking it every day since. I find it improves all aspects of my health, my energy, my focus, and I simply feel much better when I take it. AG1 uses the highest quality ingredients in the right combinations, and they're constantly improving their formulas without increasing the cost.
+
+48:26.416 --> 48:44.894
+In fact, AG1 just launched their latest formula upgrade. This next-gen formula is based on exciting new research on the effects of probiotics on the gut microbiome, and it now includes several clinically studied probiotic strains shown to support both digestive health and immune system health, as well as to improve bowel regularity and to reduce bloating.
+
+48:45.026 --> 49:14.992
+Whenever I'm asked if I could take just one supplement, what that supplement would be, I always say AG1. If you'd like to try AG1, you can go to drinkag1.com slash Huberman. For a limited time, AG1 is giving away a free one month supply of omega-3 fish oil along with a bottle of vitamin D3 plus K2. As I've highlighted before on this podcast, omega-3 fish oil and vitamin D3 K2 have been shown to help with everything from mood and brain health to heart health to healthy hormone status and much more. Again, that's drink AG1.
+
+49:14.992 --> 49:26.366
+Today's episode is also brought to us by Roka.
+
+49:26.466 --> 49:56.432
+I'm excited to share that Roca and I recently teamed up to create a new pair of red lens glasses. These red lens glasses are meant to be worn in the evening after the sun goes down. They filter out short wavelength light that comes from screens and from LED lights, which are the most common indoor lighting nowadays. I want to emphasize Roca red lens glasses are not traditional blue blockers. They do filter out blue light, but they filter out a lot more than just blue light. In fact, they filter out the full range of short wavelength light that suppresses the hormone melatonin. By the way, you want melatonin
+
+49:56.432 --> 50:25.118
+high in the evening and at night, makes it easy to fall and stay asleep. And the short wavelengths trigger increases in cortisol. Increases in cortisol are great in the early part of the day, but you do not want increases in cortisol in the evening and at night. These Roka Red Lens glasses ensure normal, healthy increases in melatonin and that your cortisol levels stay low, which is again, what you want in the evening and at night. In doing so, these Roka Red Lens glasses really help you calm down and improve your transition to sleep.
+
+50:25.250 --> 50:52.030
+Roka Red Lens glasses also look great. They have a ton of different frames to select from, and you can wear them out to dinner or concerts, and you can still see things. I don't recommend you wear them while driving just for safety purposes, but if you're out to dinner, you're at a concert, you're at a friend's house, or you're just at home, pop those Roka Red Lens glasses on, and you'll really notice the difference in terms of your levels of calm and all the sleep stuff I mentioned earlier. So it really is possible to support your biology, be scientific about it, and remain social at the same time.
+
+50:52.162 --> 51:21.950
+if you like. If you'd like to try Roka, go to Roka.com, that's R-O-K-A.com, and enter the code Huberman to save 20% off your first order. Again, that's Roka.com, and enter the code Huberman at checkout. What's clear to me now is that what we're talking about, scientists and everyday apes that we call humans, smelling stuff and tasting stuff and experimenting,
+
+51:22.114 --> 51:47.070
+on one end of the spectrum. And that on the other end of the spectrum, somebody going into a convenience store, we're looking online and buying a little bottle and slugging it down and getting some effect. And I actually think in between those is some important experiential stuff that's missing that perhaps explains a bit of where we are with Kratom at this point in time, which is,
+
+51:47.778 --> 52:17.342
+historically, or what you call the traditional use, people would harvest the plant, they have knowledge of kind of the coloration of the plant, the texture, the feel, a lot of unconscious knowledge too. Maybe it's passed down through generations, maybe they just learn it in a couple of years. And next thing you know, they're brewing it, they're drinking it. As they're brewing it, they're smelling it. There are many more avenues of information coming in about the concentration. You're not just going from product purchase, ingestion effect.
+
+52:17.506 --> 52:42.750
+And I think that perhaps this explains a lot of how we end up with the highly processed food industry where, you know, much of what we're talking about today is paralleled. You know, sugar is, we have an innate desire for sugar. Who doesn't like sugar? We have an innate desire for protein and amino acids. But the highly processed food industry has figured out how to put all this into a package where there's
+
+52:42.850 --> 53:11.998
+two servings worth, right? So you're ingesting far more calories, far more preservatives, et cetera, in trying to get some effect. But what happens is your threshold changes. And the next thing you know, you're going to the highly concentrated version. In other words, we don't go through this process of stepping through and getting familiar with a molecule. And I think that could explain why people, you know, you're prescribed an opioid, next thing you know, you need that opioid. I mean, good people have been
+
+53:12.226 --> 53:40.862
+very willing, it's clear, to do bad things to other people in effort to try and avoid the withdrawal symptoms of opioids. And often the person they're harming the most is themselves. I think what you hit on is a really deep philosophical conversation on a whole nother level because I just had this conversation with a colleague. We've lost totally in our culture where it is that
+
+53:41.282 --> 54:09.470
+medicines have come from. If you look at prescription medications, FDA approved medications, in the neighborhood of 75% of those that are available today were either discovered because of a natural product or modified natural products that made it into our drug stores and our hospitals. Aspirin. Aspirin is one perfect example. Salicycate.
+
+54:09.698 --> 54:29.886
+Salicylic acid. It comes from salicylic acid, which is in the bark of the willow tree. And people used to chew on the bark of willow tree and that salicylic is the active form. You get salicylic acid, makes it more stable. And there's a long story there, but it's important because...
+
+54:31.202 --> 55:00.062
+we've lost that sort of connection to nature, that connection we just talked about with the animal world, right? That watching the animals do things and learning from the animals. Metformin, berberine, a tree bark that lowers blood glucose and works for all the world as well as metformin. Well, look at the biggest selling weight loss drugs right now, the GLP-1s. You know that story. They actually came from the saliva of the...
+
+55:00.514 --> 55:19.422
+the Gila monster. So this is a lizard that eats only a few times a year. But in its saliva, it has GLP-1 peptides. And this was learned to help control glucose and help
+
+55:20.034 --> 55:43.806
+do all these things and that was modified and now we have Wigovi and whatever, ZOZEMPIC out there as blockbuster drugs that are really changing the shape of our society for hopefully for a good benefit and getting people away from some of these sugary things you mentioned earlier too.
+
+55:43.938 --> 56:13.790
+But yeah, there's just this history, rich history of how drugs have gotten to where they are. And most of us, including myself, we run in and we pick up a prescription or we pick up something over the counter and don't even think twice about it. We know it's going to give us this effect and boom. And so you're 100% right. And like I say, it's a very long, deep philosophical discussion to get this whole thing circular. But we've lost...
+
+56:14.178 --> 56:42.622
+that whole understanding of where things are coming from. And that's one of the things that I've always loved in my training originally as a pharmacist. I've always felt like for every disease that presents itself in this planet, there's got to be a solution. There's got to be this balance in nature. And natural products has always attracted me because of that. I'm just struck by the number of examples that
+
+56:42.786 --> 57:12.094
+that are just like popping to mind about how we've gone from plants and food and compounds out in nature to through experimentation and observation to medicine. And then how those same medicines are extracted and concentrated and in some cases diabolically hidden in other things like food. Because I don't think sugar is poison in the same way that heroin is.
+
+57:12.482 --> 57:37.374
+poison, but sugar clearly can be destructive in a way that makes it poisonous. And the way it's used and packaged and marketed, et cetera, and kids cereals and things like that, I think is absolutely clear. And so the arguments about whether or not sugar is addictive in the same way that heroin or cocaine is addictive, they're kind of empty arguments until we really define what we're talking about. And it is that the dose makes the poison. It's also
+
+57:37.538 --> 58:06.750
+whether or not people are aware of what they're doing. I think this lack of awareness that we're using medicines when we consume products and that we're using medicines at high concentrations that are not typically found in nature is a big part of this. I also heard you say that you believe that for every human ailment and disease, there's probably a treatment and or cure out there in nature. That's an exciting thing to hear from a medicinal chemist who runs a laboratory.
+
+58:06.850 --> 58:30.238
+Which, by the way, folks, looking over Chris McCurdy's CV, they publish at an absolutely staggering rate and all high quality papers. I mean, there's never been a single retracted paper. They're just beautifully done studies that just the amount of work coming out of your lab in terms of trying to parse everything.
+
+58:30.338 --> 58:39.518
+but what these molecules are doing is just like mind blowing. So I just want to point that out. It's clearly clear that you're very passionate about this. I, I,
+
+58:40.578 --> 59:06.686
+I've heard the concept of slow food, you know, this idea that instead of just consuming prepackaged food and, you know, we're going to slow down, we're going to cook our food, we're going to get in touch with the food and that will give us a better understanding and health relationship with the food. I almost feel like we need a slow medicine movement as well. I like that idea. As somebody who has been using supplements since I was in my teens, um, and I know it's a less well-regulated, um,
+
+59:07.490 --> 59:35.934
+industry. I've long been interested in herbs like I use, and I'm open about the fact that I've used Tonga Ali for vitality for a long time, things like Fadoja. I continue to use these and my blood work says it's fine and I enjoy them and it works well for me. But if those were put into a pharmacologic agent at very high concentration, I can bet that it's an entirely different molecule and experience and
+
+59:36.194 --> 01:00:03.006
+might cause shutdown of certain hormone pathways and things like that. There seems to be something kind of unregulated and yet more nuanced and stayed about the use of medicinals in their more natural form. And this is kind of the yin-yan of it. It's like, yeah, you can't get an exact milligram dosage in concentration,
+
+01:00:03.138 --> 01:00:27.038
+but you're also not playing at very high concentrations. Right, right. I look at it like a natural products, they have evolved in Mother Nature's kitchen for, you know, millennials. I mean, they've been there for thousands of years. It only took humans coming along to figure out how to
+
+01:00:27.810 --> 01:00:55.710
+manipulate all that, right, and mess it up. So Mother Nature's kind of got it right in many cases. A couple of examples, just to bring this back to more of a discussion around alkaloids. Opium poppy, long been used, and yes, it's problematic, addictive, and all these things, but it's nowhere as bad as once...
+
+01:00:55.906 --> 01:01:18.718
+Morphine, which by the way, was the very first alkaloid ever isolated, characterized, identified. Morphine, when that happened, the poppy became sort of not that important anymore because we found the magic piece. The same thing happened with the second alkaloid ever isolated, cocaine. Cocaine...
+
+01:01:18.946 --> 01:01:48.062
+It comes from coca leaf, which has been used for thousands of years in South America and in indigenous tribes and cultures there. It's still used today. It's one of the only places on the face of the earth that it's legal. When cocaine was isolated and discovered, the rest of the leaf was criminalized and thrown out like the baby's bathwater. Yet there seems to be great medical potential with coca leaf, and this is something...
+
+01:01:48.194 --> 01:02:17.150
+my lab is getting ready to embark on next as kind of like our new challenge. We still have a lot of work to do with Kratom and understanding that, but you get to a point where a lot of the initial excitement starts to wear off and yeah, we know we need to do these other things, but we want to come back to some of that initial excitement project type work again and that's why we're embarking on that. We've
+
+01:02:17.442 --> 01:02:42.078
+World Health Organization is actually doing a critical review of coca leaf again to consider removing it as a globally banned substance and returning it back into potentially the food supply, which is a very nutritious plant. It's utilized by tribes in the high mountains, high elevations in South America where
+
+01:02:42.210 --> 01:03:11.518
+They don't have much dairy in their diet. There's tons of calcium in the coca leaf. There's tons of vitamins. It's so nutrient rich and just a remarkable plant in and of itself. But again, we've forgotten about this because we found this smoking bullet cocaine and we don't want people to mess with that plant because there's a chance they're going to get that out of it. And this has been a
+
+01:03:11.682 --> 01:03:41.246
+somewhat of a cautionary tale bringing this back to kratom because what we're seeing now is these kratom-derived products where they're actually taking compounds that are rich in the naturally occurring leaf and they're manipulating these into very potent opioids. They're chemically changing these molecules and these are now products that are out in the market that are available
+
+01:03:41.442 --> 01:04:06.846
+easily purchasable. And unfortunately, in the same places, you can buy the more benign leaf, if you will, and it's not benign. And please don't think that I'm saying kratom is benign at all, because the leaf material can be dangerous. And we know that people have problems with even just the leaf material over time. And so we don't understand where those things come from.
+
+01:04:07.266 --> 01:04:34.078
+We don't have a good scientific history of how that evolves. But what we do know is that if we go down the same pathway that we have for things like identification of morphine, identification of cocaine, to a product that we started from nature again, kratom, and now we're whittling down and figuring out
+
+01:04:34.690 --> 01:05:04.350
+Actually, it's a metabolite in our bodies. It's a metabolite controversially that may or may not exist in the plant. We've never found with all the work that we've done with expert biosynthetic plant folks, we've never found enzymes that will produce this compound, 7-hydroxymitriginin. And that's a metabolite of mitriginin, which mitriginin is the major alkaloid within the plant.
+
+01:05:04.450 --> 01:05:32.862
+Kratom. And as I mentioned, there's more than 20 alkaloids within this plant. And I really want to come back to this discussion about the differences in some of these alkaloids because they're very, very different. I look at this plant as almost a pharmaceutical shotgun. It's got different alkaloids that are targeting different systems in our body. And this is what makes Kratom different
+
+01:05:33.026 --> 01:06:01.470
+You referred to it in the past as it's opioid, but it's different opioid, right? It's different because it's interacting with multiple other systems in our brains. And so we need to come back and revisit that. But before we do that, what we know is that this 7-hydroxymitragyne and this metabolite that our bodies produce naturally from the major alkaloid is being chemically produced now.
+
+01:06:02.114 --> 01:06:26.334
+sold in commerce, and these are now kratom-derived products or isolates or synthetically derived products, we know that that molecule is pure opioid in its activity. It only interacts with opioid receptors. You said these are kratom-derived or kratom isolates. If they're going to experiment with
+
+01:06:26.434 --> 01:06:50.398
+or use Kratom products, they need to pay attention to serving size and also pay attention to whether or not the product contains Kratom-derived products within it or Kratom isolates because those more closely mimic powerful opioids. A pure drug. A pure drug. And I actually am of the belief that many people taking Kratom products are not aware of
+
+01:06:50.530 --> 01:07:18.750
+that they're not taking the leaf type product. Correct. Even if they're drinking it, it's because we just call it one thing. I agree. And that's where, you know, we've, we've, we've published commentaries, um, on this because we felt it's just really important to get this message out. And it's important to get this message out to the medical community because the medical community, um, that are dealing with patients, humans firsthand, they show up in an emergency department, um,
+
+01:07:19.426 --> 01:07:43.166
+They don't know to ask, did you take leaf? Did you take extract? Did you take a concentrate? What product is it that you actually take? Because most people, if they know, if someone was with them and they got intoxicated by a product, they're probably just going to generically say it's kratom. They're not going to specify what
+
+01:07:43.298 --> 01:08:10.878
+what it was. And so this is a big thing that we're trying to, as many of the researchers in the community are really trying to get out is this differentiation of not all kratom is the same, right? Well, fortunately we have the ear on this podcast from some of the folks like Jay Bhattacharya, NIH and, and others who are thinking seriously about revising laws around packaging of,
+
+01:08:11.490 --> 01:08:39.614
+food and drugs. I don't have any direct relationship to them, but we have their ears. So I think one thing that I can't imagine anyone would oppose would be the careful wording of warnings about this contains kratom-derived products or kratom isolates. In the same way that you'd like, you know, cannabis is legal in many places now, or at least decriminalized. As I learned from a guest on this podcast,
+
+01:08:40.258 --> 01:09:09.087
+who's expert in cannabis science, people who smoke cannabis are pretty good at regulating the dose based on number and duration of inhales. But people that take edibles are often the ones that end up in psychotic episodes or anxiety attacks due to overconsumption because you can eat something very fast before it hits you. There's this delay. I want to parse each of the things that you raised, but I think...
+
+01:09:09.858 --> 01:09:24.254
+There's likely to be a couple of basic questions that are on people's minds that maybe we can tick off really quick as we head into that. And I know it might be hard to answer these with a yes, no. So feel free to say maybe or it depends. Kids 18 or younger, avoid...
+
+01:09:24.801 --> 01:09:53.663
+Don't avoid or it depends when it comes to kratom. And here we're talking about leaf kratom or kratom products. And we're talking about kids in the US. So we're not – and in Europe. We're talking about outside of Malaysia where they have a more innate historical understanding of the plant. I'll preface it by saying I am not familiar with anybody young using this in Southeast Asia in a traditional sense. Well, that's good to know. So it's mostly used by people that are laborers that are out –
+
+01:09:54.018 --> 01:10:19.582
+doing this more adult, if you will. Most of the regulations that have been drafted and put into place in some states are either limiting age of 18 and older or 21 and older. Do you agree with that? I agree with that from the standpoint that the brain is still developing until we're 24, 25. We know from studies with cannabis that
+
+01:10:19.778 --> 01:10:44.798
+that can slow brain development and people can have lower IQs if they start at a younger age versus people that never smoked and developed their brain fully. So we have no idea what the impact is of kratom on developing brain. A lot of people will hate me for saying this, but my feeling is the drinking age should be
+
+01:10:44.962 --> 01:11:11.518
+24, 25, just like when your insurance rates go down for your car, it's 25. It's because you have a prefrontal cortex, right? And I think when you hijack that system with any substance that can be psychoactive, you run into problems. And so the best recommendations are, in my opinion, getting all the way up to that 24, 25. But I would be okay with people saying 18 or 21. Yeah.
+
+01:11:11.778 --> 01:11:39.070
+because that seems to be more acceptable in society as to where we've set barriers in historical precedent. So yeah, I don't—I have great fear as a parent that my own child would go into one of these gas stations not knowing what they're getting because one of their buddies told them, hey, this is cool, try it. Yeah.
+
+01:11:39.234 --> 01:12:08.894
+and consume it and something happens. And as you're well aware, there's a big difference between someone who's naive to any substance and takes it for the first time versus someone who's gained some experience with those substances. And so young people are, again, because there's not that executive control of the prefrontal cortex, are much more likely to take those risks
+
+01:12:09.570 --> 01:12:37.950
+but not because they're being dumb. They just don't, they don't understand. Well, they're not getting the information. Correct. And thanks to you, they're getting the information now. The second cohort that I'll ask about would be, you know, people, let's just say, you know, 18 to 25 and older who are seeking a caffeine stimulant-like effect, assuming they can get a hold of the more plant-like products. So the, you know,
+
+01:12:38.466 --> 01:13:05.758
+where it's not a Kratom derived product or isolate, are most people able to use a Kratom product in the same way that they use caffeine? So on a daily basis, but were they to not be able to get it, they would have a couple of days of mild discomfort, but they'd be okay. They could drink caffeine instead and get over the hump, so to speak. Yeah. So that's a definite maybe question. It depends on the person. It depends on the person. As you know, the
+
+01:13:05.890 --> 01:13:35.870
+We're all so different and we all respond differently to different or the same thing. But I think that let's just say the most frequent thing I hear from people that are using Kratom and particularly Kratom leaf products on a regular basis, they always say less is more. They always say that the lower amounts they take, they seem to derive more benefit from it. And I've
+
+01:13:36.578 --> 01:14:04.446
+I've struggled with that from the standpoint of just understanding pharmacology and understanding tolerance and understanding, you know, after you've been taking something for so long, you naturally think you've got to take more to benefit from it. And I think it comes again back to the group of users that we talked about. What is their goal at the end of the day? But if they're just taking it as this sort of mood lifting, elevating thing,
+
+01:14:04.642 --> 01:14:33.854
+energy-derived thing, then the recommendation, and I would say this for anything, is stay low and stay slow and never increase things. What I've been told, because again, that is not something that I use, is that people benefit from this on a consistent basis, just like most people benefit from a
+
+01:14:34.018 --> 01:14:58.750
+cup of coffee or two a day. And yeah, if you go a couple of days without it, you're going to have a headache. Where people start to develop problems is if they are using this for pain treatment or something else like that, and they initially start out and this is great, everything's good, it does seem that a tolerance develops
+
+01:14:58.850 --> 01:15:25.118
+the pain relieving properties of this. We don't know what that time scale looks like. So we have no idea and it will differ for everyone. We've not done these studies in animals to tell you that a mouse or a rat is going to take this much time and therefore we can scale this to what it would be on a human. We've not even done those types of studies to understand.
+
+01:15:25.442 --> 01:15:55.038
+But I can tell you anecdotally from talking to people, that's what happens. They'll develop these tolerance and they'll suddenly have to take more to get that relief. And as we take more of anything, we get closer and closer to a problem because it's not the benefit that we're getting that generally gives us the problem. It's something off target or off of that original frame that we're focused on that gives us into the problems.
+
+01:15:55.266 --> 01:16:24.382
+Opioids, for just a clear example, opioids are fantastic pain relievers, but humans develop tolerance to the pain relief properties of opioids quickly. Unfortunately, we don't develop tolerance to the constipating effects and the respiratory depressive effects of these as well. And those are the two things that limit clinical utilization of opioids. If you're getting constipated,
+
+01:16:24.546 --> 01:16:51.294
+then we have to stop using opioids from a clinical standpoint to treat your pain because you can get too stopped up and this could be worse. Same thing with respirations. Of course, the main reason that individuals die from opioid overdose is because they stop breathing. And that respiratory depression has nothing to do with the analgesia, has nothing to do with the pain relief. It's just this off...
+
+01:16:51.906 --> 01:17:16.990
+offside target. Yeah, it's these receptors in the brainstem. I mean, I think it raises the question whether or not kratom can cause respiratory suppression. It's a good segue to our paper that should be coming out in the next week or two. Oh, great. Well, since it's already accepted, yes or no? It's complicated. Is it dose dependent? So I will say this. In...
+
+01:17:18.306 --> 01:17:48.222
+Kratom as a whole, we've not studied in respiratory depression. So the products that are in the marketplace, we don't know. I don't know the answer to this. It's long been said that there's much less respiratory depression from Kratom than there is from clinically or illicit opioids. I think that's pretty well accepted in an anecdotal way. Scientifically, we can't say definitively what that is. The paper that we have that's coming out
+
+01:17:49.378 --> 01:18:16.542
+It should be in the Journal of Pharmacology and Experimental Therapeutics. It's already on BioArchive right now, but BioArchive is not a peer-reviewed site. We just wanted to get this information out as soon as possible because we think it is vitally important for public safety. These seven hydroxymitryginin products that are now being sold, as I mentioned, as semisynthetics or isolates,
+
+01:18:16.962 --> 01:18:41.310
+are actually causing respiratory depression equivalent to opioids. Wow. Okay. So these are the specific alkaloid metabolites. So to back up again, the kratom contains somewhere between 20 and 40 alkaloids. One of them is most abundant. The metabolite of that is what's active in the body.
+
+01:18:41.698 --> 01:19:07.486
+So chemists have figured out how to manufacture that metabolite. People are taking products of the pure metabolite mixed in with some other things and that can cause respiratory depression on par with opioids. In a rat. So I will caveat that. But it's one of these things that we talk about all the time. If it walks like a duck, if it quacks like a duck, if it looks like a duck...
+
+01:19:07.714 --> 01:19:35.934
+It's a duck. Yeah, I think when it comes to translating animal studies to humans, it's hard often to take a dosage by kilogram of body weight and translate because metabolism is different, et cetera. However, I think when it comes to neural circuitry, which is what we're talking about when we talk about respiration, these two nuclei in the brain, pre-Botzinger and parafacial nucleus, which have abundant receptors for these things that control breathing, that machinery is so highly conserved that
+
+01:19:36.258 --> 01:19:44.254
+from mice to rats to non-human primates, that's the way we say rat, cat, monkey, bat, and human, that it would be
+
+01:19:46.146 --> 01:20:15.454
+remarkable and extraordinary for the system to work much differently than human. And I think in humans, it's going to have exactly the same effect. But I can't say that definitively. And it's not an ethical thing to really do, right? But we know that that effect, even in the animals, is completely reversible with Narcan or Naloxone. So it's also highly opioid receptor involved.
+
+01:20:16.738 --> 01:20:25.598
+I'd like to take a quick break and acknowledge one of our sponsors, Function. Last year, I became a Function member after searching for the most comprehensive approach to lab testing.
+
+01:20:25.890 --> 01:20:55.856
+Function provides over 100 advanced lab tests that give you a key snapshot of your entire bodily health. This snapshot offers you with insights on your heart health, hormone health, immune functioning, nutrient levels, and much more. They've also recently added tests for toxins, such as BPA exposure from harmful plastics, and tests for PFASs, or forever chemicals. Function not only provides testing of over 100 biomarkers key to your physical and mental health, but it also analyzes these results and provides insights from top doctors who are
+
+01:20:55.856 --> 01:21:23.838
+expert in the relevant areas. For example, in one of my first tests with Function, I learned that I had elevated levels of mercury in my blood. Function not only helped me detect that, but offered insights into how best to reduce my mercury levels, which included limiting my tuna consumption. I'd been eating a lot of tuna while also making an effort to eat more leafy greens and supplementing with NAC and acetylcysteine, both of which can support glutathione production and detoxification. And I should say, by taking a second Function test, that approach worked.
+
+01:21:23.938 --> 01:21:39.134
+Comprehensive blood testing is vitally important. There's so many things related to your mental and physical health that can only be detected in a blood test. The problem is blood testing has always been very expensive and complicated. In contrast, I've been super impressed by function simplicity and efficiency.
+
+01:21:39.298 --> 01:22:09.182
+at the level of cost. It is very affordable. As a consequence, I decided to join their scientific advisory board and I'm thrilled that they're sponsoring the podcast. If you'd like to try Function, you can go to functionhealth.com slash Huberman. Function currently has a wait list of over 250,000 people, but they're offering early access to Huberman podcast listeners. Again, that's functionhealth.com slash Huberman to get early access to Function. So let me ask you this. If I were in charge of the FDA and I'm not,
+
+01:22:09.282 --> 01:22:37.502
+That makes two of us. But if I were, I would say, okay, based on everything I've learned thus far, the plant-based Kratom products that were still close to the plant products seem like it's a maybe scenario. Kids and people up to 18, maybe 21 or even 25, it's a hard no. Stay away from it. People older than that are going to have a varied response. Could be like a cup of strong coffee, coffee,
+
+01:22:38.594 --> 01:22:39.358
+War II.
+
+01:22:39.650 --> 01:23:09.616
+or an energy drink or two. I mean, some of these energy drinks now, I mean, they pack a serious punch and you look at the total caffeine count and it's not that high, but then you look at the serving number and you look at the other things that are in there that serve to amplify the neuromodulator effect, like increased dopamine epinephrine. I mean, they've got huperzine, alpha GPC, they've got things to enhance the serotonin pathway. They've got things to take away the jitters like L-theanine plus the caffeine, plus some additional stimulants. And pretty soon you go, yeah, the caffeine count isn't that high,
+
+01:23:09.616 --> 01:23:34.654
+but what you've got is a neuromodulator cocktail in there. So, and you'd say, okay, for adults, use with caution, figure out minimal effective dose and be aware that it could be habit forming in a serious way, something like that. But then I would probably also create a third category, which is, and I'm going to get the pronunciation wrong, but the seven hydroxy metabolite of mitraginine,
+
+01:23:34.978 --> 01:24:04.158
+Mitraginine. Mitraginine. Or mitraginine, some people call it. Mitraginine, seven hydroxy mitraginine. Traginine, tragedy, okay. Should be, if I were FDA commissioner, I'd say, this just sounds all bad. Just flat out make it illegal. So you're not making kratom illegal, you're making the opioid-like derivative illegal or extremely hard to get, or maybe you need some additional barriers there.
+
+01:24:04.450 --> 01:24:33.950
+Why isn't it that way? I mean, why did we sit down here today, me, ready to ask you, should kratom be illegal? When we're really talking about two different use categories, younger and adult people, and we're talking about basically two completely different compounds. Yeah. Well, even very different products, period, right? So it's extremely complicated because under the FDA's dietary ingredient rules,
+
+01:24:34.338 --> 01:25:02.878
+a metabolite of a dietary ingredient can also be considered a dietary ingredient. I see. So this is kind of the loophole, if you will, that's allowing this to be in the marketplace. But there's several group of advocacy, nonprofit organizations out there. There's American Kratom Association. There's a Global Kratom Coalition. There's a Holistic Alternative Recovery Association.
+
+01:25:03.554 --> 01:25:33.310
+What's the role? Are these people who are looking at this as a good alternative to opioid abuse? So in many of the cases, yes. All of the cases, yes. So I should say that. The American Kratom Association and Global Kratom Coalition are much more advocating for science-based information and knowledge around Kratom and Kratom products and
+
+01:25:33.858 --> 01:26:03.326
+putting actual guidelines in place that will give some regulation to the industry that they claim the FDA is not doing right now. The FDA is just letting it exist in the marketplace in whatever form, shape, size it wants to. Some of these groups are really trying to put guardrails around what a product should be, what should be on the label, what a serving size should be, what limits of alkaloid content should be.
+
+01:26:03.490 --> 01:26:26.558
+There's this other group, the heart group, which is really a proponent for this 7-hydroxy product and saying that it's out there to reduce harm. It's out there to help people benefit from a product that is not an opioid, right? But it is purely an opioid. But it's not a prescription opioid and they're saying it's reducing harm.
+
+01:26:26.786 --> 01:26:48.382
+I don't know that anybody has evidence to demonstrate that yet. There's no solid evidence. There's some, again, anecdotal evidence. They released a statement recently suggesting that there's no mention of these in the FDA's databases of adverse events, the FEARS database. But then again, it makes you wonder
+
+01:26:48.482 --> 01:27:15.454
+If these products have only been in the marketplace for a couple of years, is there even a coding to put it into the FEARS database so that it can even be recognized? If somebody were to take a Kratom product, either an isolate or the plant product, and then drink alcohol, are they at greater risk for dying from respiratory failure in the same way that if somebody takes an opioid and drinks,
+
+01:27:15.586 --> 01:27:40.094
+They can die. Actually, sadly, I know a lot of cases of this, of people who even took a prescription opioid a day before an afternoon or night of drinking and were pretty good drinkers, if I'm going to say it was not someone real close to me, but from what I understand, were good drinkers and then end up dying typically in their sleep after the night of drinking. This is not...
+
+01:27:40.354 --> 01:28:09.886
+And this is independent of all the fentanyl issues, right? Does kratom have the same potential risk? So kratom as a whole, it's hard to say. Nobody's done any studies combining this. In fact, interestingly enough, the studies that have been done with alcohol are looking at reduction of alcohol intake. So it has been reported anecdotally again that kratom actually reduces alcohol consumption.
+
+01:28:10.242 --> 01:28:37.854
+Interesting. And this has been anecdotally mentioned by many people that use it. You know, I just don't have the interest in drinking anymore or I can have a couple of drinks and I'm not trying to get drunk. Now, there's a lot to unpack there because there could be all kinds of different things happening pharmacokinetically, drug interaction wise, if you will, just like you're mentioning. There are groups that are funded now. We're not one of them. Yeah.
+
+01:28:38.114 --> 01:29:04.382
+from the National Institute of Alcohol and Alcoholism, Alcohol Abuse, NIAAA to study specifically Kratom as a harm reduction agent in alcohol use disorder. Such an interesting molecule, right? I'm talking about a molecule that can be potentially used to help wean people off opioids, maybe even limit alcohol consumption for people with alcohol use disorder, what used to be called alcoholism. And...
+
+01:29:04.578 --> 01:29:28.190
+at the same time, can serve as a stimulant and maybe even an aphrodisiac. Is there any, are there any data, excuse me, about the binding sites in the brain and some of the pathways that would make this molecule an aphrodisiac? Not specifically. So it, you know, I earlier said it's kind of nature's Viagra, but it's not interacting with
+
+01:29:28.290 --> 01:29:56.286
+the phosphodiesterase pathways. It's not causing vasodilation that we are aware of. Which is what Viagra basically does. Right, right. Limits the enzyme that would lead to vasoconstriction. Correct, correct. So you have... We don't really have clear evidence of that. And what it may be is that it's this increased sort of stimulant stamina activity. But let's back up to...
+
+01:29:56.386 --> 01:30:24.414
+One of the very first goals when we were funded by the National Institute on Drug Abuse to study this, the main question that was asked was, can you isolate as many of these 20 to 40 alkaloids as possible, purify them, and tell us what each one does individually? Okay? So the easy one to get was mitraganin. And if you look at...
+
+01:30:25.186 --> 01:30:51.742
+The majority of the literature around kratom, and there's almost 1,000 papers in PubMed now, I looked this morning, just on kratom. We account for almost 10% of that from my lab, by the way. Yeah, you guys are prolific. And the vast majority of the studies that are in the literature now have been done with the major alkaloid mitragynin. And I always remind my lab and my team and my collaborators, mitragynin does not equal kratom.
+
+01:30:52.674 --> 01:31:14.654
+is a complex natural product with all these other alkaloids in it. And so I wanted to come back to this, so let's just unpack those alkaloids very quickly just to tell you what's going on. So mitragynin, the major alkaloid, actually has affinity for opioid receptors, but very weak affinity and doesn't do much
+
+01:31:14.978 --> 01:31:42.910
+from an analgesia or painkilling perspective, which you would think the major one, that's what it's there for, that's what's going on. It also interacts with a couple other important neurotransmitter systems. And there are other alkaloids within the plant that are majorly exposed when you ingest the whole plant product into our bodies that are heavily interacting with serotonergic system. So our sort of satiety center, our...
+
+01:31:43.010 --> 01:32:12.574
+or mood elevating center if you will. Most of our antidepressants are targeting increased levels of serotonin and increased levels of norepinephrine in our bodies. And so we know that we're engaging and activating the serotonin system, which by the way is also involved in pain processing. And then some of these alkaloids are heavily hitting the adrenergic receptors, which is our stimulant sort of activity centers. Our fight or flight
+
+01:32:13.058 --> 01:32:40.350
+sort of system, if you will. And it makes it into this very complex alphabet soup, what I like to call a complex symphony orchestra, that's playing multiple instruments in our brain at the same time. And some people say that this is the best pain relief they've ever had. And I come back to it as a science. And now,
+
+01:32:40.546 --> 01:33:07.070
+saying, okay, we've looked at all these different mechanisms that are involved. We've never treated pain from those three prongs at once in a single drug or in a cocktail of drugs in a human. Can you list those off? Yeah. So those three are opioid, which obviously we use to treat pain. Serotonin, which we sometimes use now for chronic pain.
+
+01:33:07.234 --> 01:33:31.198
+Drugs like amitriptyline which is a serotonin reuptake inhibitor, old school tricyclic antidepressant used a lot for neuropathic pain before things like gabapentin and neurontin came along or pregabalin. And then the adrenergic system, which is actually one that we target in some of the side effects of opioid withdrawal.
+
+01:33:31.746 --> 01:33:51.326
+with drugs like clonidine, which are alpha-2 receptor agonists that help shut down neurotransmission in our brain. This is really fascinating because all three of these neurotransmitter systems are intimately involved in pain processing. And we've always looked at
+
+01:33:51.586 --> 01:34:16.574
+and I'll say this from a medicinal chemist standpoint. Medicinal chemists' goal are to make the best compounds, the most selective compounds for one target so pharmacologists can figure out what that target is doing. And here's another example from nature that's saying, look, if we hit all of these targets at once, you don't have to step on the gas quite as hard on each one and you get
+
+01:34:16.866 --> 01:34:45.854
+some kind of relief. And that's why I'm saying what I hear from a lot of people is less is more. So a lot of people that are reporting pain relief or mood elevation, they're not reporting psychoactivity. They're getting the benefit without the psychoactivity. But if you have the goal when you take these products that you want to get high or you should feel like you're on a drug, then that's, I think, where people are starting to push in saying, well, I've
+
+01:34:46.082 --> 01:35:15.102
+I obviously can't be benefiting from this if I'm not feeling like I'm on a drug, right? So I want to say, first of all, thank you for that description of this tripartite effect of the kratom plant and how pain relief in its ideal form, not too much sedative effect, pain gone, but still the noradrenergic effect where people aren't sedated to the point where they can't do anything is ideal and,
+
+01:35:15.234 --> 01:35:40.926
+And that what you said also really highlights, and you said it better than I ever could, that what we do in science and medicine, reductionist science and medicine, is we're trying to isolate receptors and pathways and dose-response curves, and we're trying to come up with essentially pills of isolated compounds that hit one, maybe two of these different pathways. In fact, it's interesting that whenever a drug...
+
+01:35:41.186 --> 01:36:06.718
+impacts multiple pathways, we call them off target effects. Just that language alone, it tells you everything you need to know, which is that you're trying to target specific receptors and pathways, but the way that the brain works isn't like that. Earlier we were talking about breathing. I mean, the cardiorespiratory system are intimately involved and it's no surprise therefore that you have some of the same receptors and systems involved.
+
+01:36:06.850 --> 01:36:36.670
+you mentioned increasing serotonin for the treatment of depression, SSRIs. These days, a lot of people are down on SSRIs because of the negative side effects, reduced libido, appetite, or increased appetite. I will say, in fairness to SSRIs, SSRIs have helped a great many people, especially with people with true clinical OCD. These are not people that are obsessive of nature. These are people who are really stricken by their OCD. So there are places where SSRIs are valuable. But...
+
+01:36:37.154 --> 01:37:02.910
+I think the interesting thing to me is always that a really good scientific study isolates variables so that you can assign any observed effect to that compound at that dose or that behavior at that frequency in that population. But that's just the nature of reductionist science. Plants, on the other hand, as you've pointed out before,
+
+01:37:04.354 --> 01:37:27.614
+you know, the fact that they hit multiple pathways and that when the dosages are appropriate, it seems like they can be very beneficial in certain areas, right? I'm not suggesting people use Kratom, but, you know, the Kratom leaf, it sounds like could be very beneficial for people in certain contexts, not just people trying to get over opioid addiction, but maybe pain relief, et cetera. But you have to kind of wonder, this is kind of a philosophical,
+
+01:37:27.906 --> 01:37:57.374
+spiritual question. I mean, it's kind of amazing that these plants contain a compound or set of compounds that can activate the pathways that we're seeking them to activate in a desired way. Plants, by the way, can also kill you folks or make you crazy if you take too many of them, legitimately crazy or dead. But you kind of have to wonder, like you can ask the why question, but you'll never get there. I wasn't consulted at the design phase and neither were you.
+
+01:37:57.570 --> 01:38:21.790
+but it is kind of beyond statistical probability to assume that a plant would contain the solution to pain by dosing each of the impact on these different pathways at just the right way. And yet it sounds like such a plant exists and that plant is kratom. This has been the fascinating part. And I have to just say one of the
+
+01:38:22.306 --> 01:38:52.158
+biggest changes in my entire research program is when we moved to the University of Florida. And the University of Florida is unique in that we have our College of Medicine and we have all the health sciences on one campus, including veterinary medicine, which we also work with. And we're doing clinical trials with Kratom and companion dogs, which is a whole other discussion. Yeah, animals need pain relief too. That's right. Yeah. And we have very poor pain control in animals, particularly in dogs.
+
+01:38:52.610 --> 01:39:18.238
+We can come back to that if you want. But most universities in the United States, state universities, have either the medical college or they have the agricultural college. University of Florida has both 800-pound gorillas, if you will, in the same system. So University of Florida is –
+
+01:39:18.498 --> 01:39:47.326
+extremely well known around the state of Florida and around the country for their unit called IFAS, which is the Institute for Food and Agricultural Sciences, which has a service facility in every single county in the state of Florida to work with agricultural industry. And we've worked with plant scientists on kratom to understand what is this plant doing and why is it producing what it's producing.
+
+01:39:47.618 --> 01:40:12.222
+Why are these chemicals there? So to get to the answer to your question, we think we've figured out why the plants are producing this. It's definitely not for our benefit. So plants produce chemical defense all the time, right? The alkaloids are, by the way, bitter compounds by nature. So most of the time they're anti-fedant to make sure that
+
+01:40:12.674 --> 01:40:40.190
+the passing by deer, giraffe, whatever, is not going to eat all the leaves off of that tree. They're going to have a couple and realize this is nasty. I don't want to do this. I'm going to move on to the next plant. However, interestingly enough, Mitragyna speciosa, the kratom tree, does not grow in a place where it's going to be attacked by herbivorous animals.
+
+01:40:40.898 --> 01:41:08.958
+These grow in very swampy conditions and in those swampy conditions, it's very humid. It's on the equator. It's incredibly hot. And what grows in hot, humid environments? Fungus. These compounds that the tree is producing, which yes, they seem to interact with our neurotransmitter systems for whatever reason.
+
+01:41:09.890 --> 01:41:38.174
+are highly effective antifungal agents for the plant to ensure its ability to survive and stay in that environment and thrive in that environment. Is it a good antifungal potentially in humans as well? So that's a great question, right? We've decided we would look at this from human pathogenic fungus, what fungus disease-causing fungi in humans. So far, we haven't seen anything.
+
+01:41:39.106 --> 01:42:00.894
+But as far as agriculturally important fungus, it seems to be able to be very potent on some of these. And so we're actually looking heavily into this area. So there's parts of the chemical structures that are conserved on all of the alkaloids that we see this tree producing. And that...
+
+01:42:01.090 --> 01:42:27.390
+Chemical structure, actually, the way that it tipped us off was we equated that back to a naturally occurring antifungal that's already used in the agricultural industry. It has the exact same chemical pattern, what we call a moiety or a function in the molecule. And those are called strobilarins, the molecules that are used and they're used in USDA agriculture.
+
+01:42:27.682 --> 01:42:57.566
+industry as natural antifungals. So we always kind of made the joke that if this gets put into the Controlled Substance Act, we'll just go to the agricultural chemical pathway and see if we can develop new antifungals for the ag industry, particularly in a state like Florida that's very hot and humid that could benefit from good antifungals. So there's a reason that plants are producing the molecules they're producing.
+
+01:42:57.698 --> 01:43:26.622
+But through trial and error, as we've talked about before, through watching and historical just trying things, the F around and find out, you know, figure out there's some benefit to humans from these plants, right? Plants are protecting themselves and trying to evolve just like any other species. Years ago, I had a friend who's very serious about Chinese medicine, like
+
+01:43:26.754 --> 01:43:51.774
+And I said, what sorts of goodies does Chinese medicine offer for somebody who's interested in, you know, supplements and medicine and formal medicine also? And they gave me – don't do this at home, kids. They gave me an alkaloid that's from gecko skin that's been shed. And it's a stimulant. And it's very bitter.
+
+01:43:52.098 --> 01:44:21.278
+I know because I opened the capsule and I tasted it before I took it. And it was a pretty decent stimulant. I prefer caffeine, but it was a nice arc stimulant and it was clearly a stimulant. And you think, okay, well, how did they arrive at this? Well, somebody observed that geckos are able to survive in an area where there are a lot of birds that feed on reptiles and other small critters. And that's the way that the geckos have learned to survive.
+
+01:44:21.730 --> 01:44:49.694
+less tasty be bitter yeah because if you're sweet or you're a great protein snack which most every moving organism is well then uh you you're better off being bitter than being sweet species won't be around long exactly so so there's a lot of this out there um a couple of days ago i asked my ex-audience does anyone have any um questions about kratom a lot of praise for you and your efforts to really be a discerning and and nuanced about the the
+
+01:44:50.146 --> 01:45:20.094
+messaging around Kratom and for your work. So someone asked something that I have no idea what it means, but this person is a researcher. I know them. They're a well-known neuroscientist. And they asked, is there really a difference between white vein, red vein, and brown vein? What are we talking about here? I'll answer the question very quickly. Most of this is marketing. But what we realized is that there's on the tree itself,
+
+01:45:20.802 --> 01:45:48.286
+The trees' leaves have veins, and those veins are red in some cases, or green in other cases, or white. You can think about this like rainbow shard at the supermarket, right? You know they've got beautiful colors or rhubarb or whatever you want to compare to. Blood oranges versus, yeah, sure. Sure. So what we have seen, and I'm going to caveat this answer too, because
+
+01:45:48.386 --> 01:46:15.006
+A lot of marketing goes into this white vein, red vein, brown vein, green vein, yellow vein. There are actually five colors of products that come into the United States. And it has to do with how those have been cured or dried after they've been harvested. So green leaves, fresh, not dried very much.
+
+01:46:16.130 --> 01:46:43.902
+dried in a cool environment indoors, they're going to retain the greenish color and they're ground and pulverized and that powder comes in green. That's it. That's your green vein in many cases. As you go through the colors, it really depends on how the color of the leaf material was. We grow these trees at the University of Florida and
+
+01:46:44.034 --> 01:47:13.118
+And it's interesting because they can get sunburned and they're an undercover canopy crop. So the trees naturally exist sort of underneath a higher canopy of trees. So they're shade grown. If they get direct exposure into the sun, they'll actually burn and the leaves will start to turn brownish red. We've done that with specific wavelength light studies in greenhouses and whatnot too.
+
+01:47:13.378 --> 01:47:41.886
+But they'll also get damaged when it gets cold and they'll get brownish color or they'll turn reddish color again. So there's some sort of response, chemical response. But it is a chemical response and this is where I put the caveat in. Because when we've isolated it, when we've not isolated, but we've analyzed the different strains and colors of powders for their alkaloid content, they're all very similar.
+
+01:47:42.562 --> 01:48:05.790
+So the alkaloid is not changing. So we always said it's kind of a marketing deal and it's more of a potential placebo thing like, oh, this is more relaxing. This is more pain. This is very reminiscent of the Indica Sativa question that I got around cannabis. And yet when you talk to users...
+
+01:48:05.986 --> 01:48:32.894
+of indica versus sativa and different strains and different amounts of terpenes and types of terpenes and cannabis. People will swear by the vastly different effects of these things, but it became clear to me anyway, that some of that, not all of it, some of it is related to the fact that you have different, you call them chains of custody as you go from the plant to the product. So people will associate a particular effect with a given product. That product might be labeled.
+
+01:48:33.058 --> 01:48:57.278
+green vein or red vein. So the effects may indeed differ, but it's hard to trace back to the actual differences in green vein versus red vein. That's what I'm gathering. In terms of their alkaloidal makeup. So when we analyze things, and let me just, let me take a step back here. So plants produce many classes of chemicals, right? Alkaloids are the ones that traditionally people think of
+
+01:48:57.890 --> 01:49:23.358
+with pharmacological activity that are interesting, that are going to have psychoactive activity. So most people focus on alkaloids as being the biologically relevant plant materials. You mentioned cannabis. Cannabis has no alkaloids. So those are terpenes, which is another chemical class of molecules. They do not contain nitrogens and they...
+
+01:49:23.458 --> 01:49:43.518
+we all know interact with specific proteins in our body as well, like cannabinoid receptors. So plants are producing many classes of compounds. They produce steroids, what we call phytosteroids. They produce tannins, which anybody who's...
+
+01:49:43.746 --> 01:50:09.406
+like me, likes wine. You know, you talk about tannins and all the different types of tannins that can be present in a wine. Or teas. Or teas, yeah. And to that point, there's antioxidant-type compounds in there. You know, all kinds of classes of chemicals. No one, to my knowledge, has studied anything other than the alkaloids in the crayon plant.
+
+01:50:10.018 --> 01:50:18.206
+Likewise with cannabis, a lot of it hasn't been explored besides THC and CBD. And many of it is because it's in such low quantity.
+
+01:50:18.434 --> 01:50:47.486
+And coming back to the point, when we talk about most of those studies that have been in the literature have been done with the major alkaloid because that's the thing that people can get a hold of. It's easy to isolate, purify, and if it's the major alkaloid, by default, it should be causing the activity. It makes for good science, right? It's hard to risk somebody's PhD career on a gene or molecule that's in low abundance. You want to err towards probability of success. Okay, so...
+
+01:50:47.650 --> 01:51:15.934
+Here's your answer on white vein, red vein, brown vein. It sounds like it's more product dependent and source dependent in terms of the, for the user, the potential user, and maybe you shouldn't trust the marketing. Yeah, I mean, just finalize that with the fact that we don't know if there's other changes in chemical composition outside the alkaloids. So there could be something there. Is there a potential use for kratom as an antidepressant? I think that's probably one of the areas that
+
+01:51:16.578 --> 01:51:45.950
+needs to be investigated much more thoroughly. We got a specific marching order. We were looking at many things, including regulation of blood glucose. So we can talk about a lot of potential things that are going on, but the mood elevation and the sort of overall well-being feeling that many people report
+
+01:51:46.338 --> 01:52:14.494
+it's all anecdotal, right? But at a certain point, anecdotal is a signal because it tells you once enough people are saying this, it must be something. So we need to pursue that and we need to do it in very good control clinical trials with humans so that we can understand if there is true benefit. Next question for you is, and this was a very common question,
+
+01:52:16.162 --> 01:52:38.910
+to get off kratom. This person says, my brother was on it and is having a dreadful time with it. He takes it now just to feel normal. He feels like he's a slave to kratom. We don't know what product he's taking or how much, but I will tell you, even though that's just one question, this came up numerous times. Yeah, and it's a great...
+
+01:52:39.010 --> 01:53:07.486
+question, unfortunately, without answer right now. But I do want to stress a very important piece of this research and what we're trying to understand. I've talked a lot more about the chemical nature and the pharmacology and differences in pharmacokinetics and potential benefits with this plant. But it's clear that there's potential harm as well. And we've seen that in many cases.
+
+01:53:07.714 --> 01:53:33.982
+many stories, these are examples of that. I have a pretty routine lunch with addiction physicians in Gainesville, Florida. And pre-COVID, many of them said, hey, this will be interesting to you. One of our patients came in an opioid treatment and said they started using Kratom and they're doing much better and they're benefiting.
+
+01:53:35.330 --> 01:54:05.022
+And we didn't see each other for a couple of years because of COVID. We resumed our lunches and they said, you won't believe what we're seeing now. People are coming in seeking treatment to get off. We've unpacked a lot of discussions over a lunch table in trying to figure these things out. Most medical practitioners go to the fact that this is opioid-like and they're using buprenorphine
+
+01:54:05.154 --> 01:54:33.086
+or Suboxone, which is one of our gold standard treatments, or even methadone to get individuals off of Kratom. And they say it's working. But my problem with that is we've said already, this is not a typical opioid. Kratom is not a typical opioid. It's atypical for sure. It's having these other pharmacologies. And so...
+
+01:54:33.410 --> 01:54:59.006
+Yes, we may have success in converting people from taking Kratom by putting them on an opioid, which many of them might have been trying to get off of in the first place with this. But the pharmacology of Kratom is so complex and different that you're only pressing one of those levers in the system that we just talked about is at least tripartite in its activities, right?
+
+01:54:59.842 --> 01:55:28.734
+So you're ignoring the serotonergic piece, you're ignoring the adrenergic piece by only giving an opioid like methadone or buprenorphine. Is that the right way? I don't know. I don't know the answer to that question. We know that in certain cases when we've tested animals and we've pushed them into toxic levels of certain alkaloids, not kratom itself, but we know
+
+01:55:29.570 --> 01:55:58.494
+We know that in many cases, opioid antagonists won't reverse some of those effects. Because of these non-opioid pathway effects. So it sounds like for this person's brother or sister or somebody that wants to get off kratom, suppressing the same pathways that are used to get people off opioids like buprenorphine, naboxone, et cetera, could be useful, but there could be still other...
+
+01:55:58.946 --> 01:56:21.790
+aspects of dependency related to Kratom that those won't resolve. That's what I'm hearing. That is. And the concern is by moving someone from a Kratom product to a pure opioid product, like, are you actually potentially making things worse? Because it's going to be hard for them now to get off of those products. It's a circular process.
+
+01:56:22.082 --> 01:56:47.774
+question, right? It's very difficult to answer. And this is one of the things we're really trying to get to the bottom of. What is a better, what is a more appropriate treatment? But for right now, it seems that what is working is opioid use disorder treatments. Buprenorphine. Yeah, buprenorphine. I will say there were a number of people in the response, and obviously this isn't a formal study, who said best way to get off it, not to start.
+
+01:56:47.938 --> 01:57:16.574
+just don't touch it there were a lot of don't touch this stuff that's based on observation it seems you know i'm i'm uh it's conjecture here but based on observation um that they know people have had a terrible time getting off it like the best way to to to avoid dependence is to not start um there were a couple um questions about uh that specifically um and the effect on the serotonin system is there um you know is
+
+01:57:16.866 --> 01:57:38.078
+You could imagine if you're trying to come off Kratom because of an opioid-like dependence, taking buprenorphine, maybe doing other things to support the serotonin system at the same time. It doesn't have to be just one treatment. But obviously this has to be overseen by somebody that can prescribe these drugs. Yeah. No, and I think the key there is –
+
+01:57:38.850 --> 01:58:04.414
+is not ignoring and trying to do it on your own, but getting medical professional help and getting someone that can give you not only a, you know, medication assistance in treatment, but giving you supportive treatment. In other words, counseling and, and social aspects of that as well. I'm going to just tell you one comment that,
+
+01:58:04.706 --> 01:58:34.110
+Somebody asked I relay to you because I think it's informative for everybody. And then I have one more question from the online audience. Please tell your guest I quit prescribed topical boot trans patches for lower back pain, cold turkey by switching to kratom as an alternative treatment. They wanted you to know that. So this is somebody for whom it was effective and apparently they wanted you in particular to know that. I appreciate that comment. And it's not an uncommon theme that I've heard and I've gotten emails from people
+
+01:58:34.242 --> 01:59:03.006
+from people that have had that story. They've been able to switch cold turkey. And just to touch on what you said earlier too, you know, we had a first case report that we published in the literature was in 2008 with a human case with my longtime collaborator, Ed Boyer, who's an emergency department physician. And Ed called me and he said, you're not going to believe what I have in the
+
+01:59:03.170 --> 01:59:26.462
+ED, he said, I've got someone. The ED is the emergency department. Came in with a full-blown seizure. And this is all in this paper. It's unpacked. It was what we think happened is that he took a modafinil, which is a drug for actually narcolepsy. He was feeling tired. His wife had
+
+01:59:26.626 --> 01:59:54.942
+And so he took this on top of his well-established use of kratom. And this was... A lot of people use modafinil as a stimulant cognitive enhancer. Yeah. Very, very common now. You have to remember this took place in 2007. Okay. So the only product that was in the market at that point in time was leaf. So leaf kratom and modafinil. Yeah. So it caused him to have a seizure.
+
+01:59:56.098 --> 02:00:23.134
+In the emergency department, they had no idea what to do. Luckily, Ed knew me and we were working on this and we were working on another thing called Salvia divinorum, which is a whole other study about a hallucinogenic mint plant. But we started talking and when this guy came conscious and was fine – by the way, he quit a habit of Dilaudid
+
+02:00:23.682 --> 02:00:53.310
+which is a prescription opioid, cold turkey, switch to Kratom, no issues, Kratom leaf. And then after he had the seizure and came to in the hospital, he quit cold turkey Kratom. The only thing that he had was a runny nose and he said he had no desire to go back and take it anymore. Now, at the moment in time that that happened, this was an N equals one case ever.
+
+02:00:53.474 --> 02:01:19.870
+and my friend Ed said, this sounds like the Holy Grail. If you can get off of it... Off the laud. Off the laud, off of kratom, and now you don't even have a craving to go back to it, right? Now, that's a huge caveat in this story. The guy had a seizure. So significant event occurred that...
+
+02:01:20.834 --> 02:01:48.318
+He decided at that point in time he was never going to touch Kratom again. Speaks to the precariousness of polypharmacology done at home. Yes. And I once took modafinil, half a dose, I'm very susceptible to medication, and it kept me up for almost two days. Wow. And I took it in the morning time. Some people I know can take it just fine and use it as a stimulant when traveling, especially to give talks after...
+
+02:01:48.418 --> 02:02:17.214
+and on and for narcolepsy, et cetera, as well. I'm wondering if we can have a bit more fun talking about plants and some of the things that come from plants and their interesting uses. You mentioned the coca plant earlier. I don't think anyone except a cocaine user would say cocaine is a good thing. I mean, it seems to destroy a lot of lives. And I'm sure there are people who can use it at low doses or low frequency and not end up in the gutter.
+
+02:02:17.634 --> 02:02:44.574
+one way or another, but it does seem to be a fairly destructive compound on the whole. And yet, as you mentioned, the coca leaf has these interesting compounds when it's used as a leaf product. There's a similarly sounding leaf, which is the cocoa leaf chocolate, and then there's cacao. And I'm not trying to get down into the romper room version of plant medicines here, but
+
+02:02:44.770 --> 02:03:09.438
+Recently, I started eating roasted raw cacao beans for their polyphenol content. I actually like the bitterness. They have a lot of fiber. You have to not over consume them. You have to make sure they're clean source so you don't consume heavy metals, et cetera. But there's a lot of interesting, healthy stuff coming from plants. So let's talk for a moment, if you would, about the cocoa leaf and cocoa and chocolate. I like 100% chocolate, 100% Venezuelan chocolate.
+
+02:03:09.986 --> 02:03:32.286
+Delicious. People might be, it sounds like a baking chocolate, but it's, it's smooth. I love it. It's got a bitterness, but a little bit of sweetness. It tickles my brain just right. It's healthy. It doesn't have sugar. I don't overdo it. And wow, it's, it's a, it's, it's a real thing. Yeah. And I, and it's delicious and I look forward to it and I don't feel like I'm addicted to it.
+
+02:03:32.450 --> 02:04:02.142
+I haven't had any for a little while and I'm fine, but I'm looking forward to it. Tell me about the benefits of cocoa and some of the alkaloids and other things that are in cocoa. This is not to send people out to ingest a bunch of sugar, sweetened chocolate. We're talking about 100% cocoa or cacao beans. Right. There's real medicinal power in this stuff. Yeah, yeah, there absolutely is. And it's fascinating too because there's a few things that are in there and this is not something that I'm an expert on by any means, but...
+
+02:04:02.658 --> 02:04:31.486
+laying around in these areas, you start to learn and you start to take notice. One of the main components in chocolate or cacao is a compound called theobromine. So theobromine is an alkaloid. It is what we specifically call a xanthine alkaloid, which is identically a cousin, almost maybe like a
+
+02:04:32.802 --> 02:04:59.390
+sibling of caffeine. Okay? So caffeine is a molecule, again, a xanthine alkaloid, and it has three nitrogens that contain methyl groups on them. So a carbon with three hydrogens on them attached to the nitrogens. And caffeine is an easy one to remember in this class because it's
+
+02:04:59.618 --> 02:05:22.046
+is fully methylated. So I call it high test, full caffeinated, substituted xanthine alkaloid. And then theobromine has no bromine on it. It has nothing to do with bromine. I have no idea where the name came from, but it's missing one of those carbons that makes it different from caffeine. But it causes...
+
+02:05:22.210 --> 02:05:51.806
+It actually improves respiration when it's been studied, very similar to things like theophylline that have been used long time for asthmatics before we got to the inhalers and things evolved in terms of our understanding of that treatment. But there's also compounds within cacao that very much mimic our...
+
+02:05:52.034 --> 02:06:19.838
+dopaminergic type system and turn us on to feeling like, you know what? That was really good. I want that again. It's not like a dopamine release that you get from a hardcore drug like cocaine or something like that. Not even close. I've never done cocaine, but I agree. It's a subtle kind of push toward, yeah, I'd like more of that, but I feel pretty good. And the anticipation of it is positive.
+
+02:06:20.450 --> 02:06:48.254
+and you certainly can work and do other things. It's not a, certainly does not destroy, as far as I know, does not destroy lives. It's rewarding. Unfortunately, the industry to harvest is what destroys the lives, right? So there's a lot of very poorly sourced and many of the individuals that work those fields and places are really abused. And it's a problem in the chocolate industry as a whole. There's
+
+02:06:48.354 --> 02:07:16.254
+some really great companies out there that are really promoting good, sustainably sourced, ethically sourced cacao beans. And, you know, that's just a side note for something to look for when you're looking for a good, solid chocolate source. So ethically sourced. And you mentioned cacao beans. So the raw cacao beans that I'm now eating every morning, usually a
+
+02:07:17.250 --> 02:07:32.638
+not immediately in the morning, usually like half hour before my first meal of the day, which for me falls a little bit late morning or closer to lunch, but I'll have five or 10 of those things. Boy, do I look forward to it, as I mentioned. And those raw cacao beans are,
+
+02:07:32.770 --> 02:08:01.534
+Essentially the same as the 100% chocolate in terms of polyphenol content. Pretty much. I think – I mean, again, I'm not an expert and I haven't done analysis of those. But I'm pretty sure that most of those would be retained in the processing into chocolate as a food. One thing that strikes me is probably one of the first things I ever learned of a natural product was the shells.
+
+02:08:02.146 --> 02:08:23.582
+the beans. So growing up as a kid in Pittsburgh, there was a lot of rose bushes around and people would use cacao shells as a fertilizer for the rose bushes. And so you'll walk by and as a kid, I would get this waft of chocolatey smell and
+
+02:08:24.482 --> 02:08:53.726
+along with that smell of the roses, you know? And it's like, what a... It's like Valentine's Day. It's like these things were meant to be together. So it's just a weird side note, just a memory that you brought back, but... I love that. And I really think there's something pseudo-spiritual or spiritual about these combinations of molecules that exist in plants. And sure, the plants are fending for themselves and the fungi are fending for themselves and the birds and the geckos and the humans, but the same biological...
+
+02:08:54.466 --> 02:09:23.902
+motifs are used over and over again throughout nature. And of course, some species like insect species rely more on one neuromodulator. We're more a cocktail of serotonin, dopamine, epinephrine, and acetylcholine. But there does seem to be something to it. Maybe AI will pull out some of the thematics of that going forward. So cacao, great. So I'm not alone in my...
+
+02:09:24.034 --> 02:09:51.614
+I love the love of raw cacao beans and 100% chocolate, but look for sustainably sourced. Ethically sourced. Ethically, excuse me. That's okay. Ethically sourced. No, that's an important distinction. So there's a myth that Coca-Cola at one point had cocaine in it, not just the coca leaf, but actual cocaine. But then you hear various versions of this myth slash legend. What's the deal with Coca-Cola, the coca leaf, and cocaine? Yeah.
+
+02:09:51.810 --> 02:10:14.494
+Yeah, so it's a great old story. John Pemberton was a pharmacist in Atlanta, home of Coca-Cola these days, and developed a formula that contained the coca leaf, extract from the coca leaf, and extract from the cola nut, so Coca-Cola. And
+
+02:10:14.722 --> 02:10:36.574
+this together, sold it as a tonic. It's an interesting, just a quick segue on soft drinks in general. So soft drinks came about because they weren't hard drinks. So it was an alternative to liquor. So they weren't hard alcohol, they were soft drinks or soft beverages. They also generally had effervescence to them or carbonation.
+
+02:10:36.674 --> 02:11:05.630
+And most of those were available at a pharmacist soda fountain. So 7-Up had lithium in it in the past and it was, you know, for mind wellness. Pepsi had pepsinogen, which is a digestive peptide in it. Most of the soft drinks, Dr. Pepper was developed by Dr. Pepper in Waco, Texas and was a special formula that he had come up with for well-being as well. So all these soft drinks have a really cool history, but...
+
+02:11:05.922 --> 02:11:27.774
+Tom Pemberton's story of Coca-Cola was—actually, it goes way back farther than Coca-Cola in terms of putting coca leaf into beverages, but we'll just stick with Coca-Cola. So Coca-Cola definitely had cocaine in its original setting.
+
+02:11:27.938 --> 02:11:54.846
+And then as time went on and we realized that cocaine was problematic and addictive, there was pressure for him to take that out of the process. And so what they realized was the coca leaf, and many people that chew coca leaf talk about the different varieties that are available within South America and different flavor profiles that are there. Well, the specific...
+
+02:11:54.978 --> 02:12:23.038
+One that they use for Coca-Cola has a definitive flavor profile to it. And when they took that out, it lost the flavor that people were used to. And so they decided to keep this in there. And Coca-Cola is still the major importer of coca leaves into the United States to this day. They do it through a company called the Stepan Company in New Jersey.
+
+02:12:23.778 --> 02:12:40.446
+The leaf comes from Peru, comes from a state-run company in Peru that oversees the production of the coca leaf, comes into this company in New Jersey. They then process the leaf into two parts.
+
+02:12:40.578 --> 02:13:05.438
+So they take all of the cocaine and all of the cocaine metabolites, essentially the alkaloids, right? We talked about these alkaloids. They take the alkaloids out and that gets sent to a pharmaceutical company and those are processed into cocaine which is used as a pharmaceutical still to this day. A lot of people probably don't know this but cocaine is the best local anesthetic that's ever been discovered.
+
+02:13:05.538 --> 02:13:32.382
+It was the template for all the local anesthetics that we use now, like lidocaine or papivacaine. It was the template. And it is still the best one that we have. And it's used almost exclusively for nasal and eye surgeries now, where you have to stay awake and you have to be functioning and we can't intubate you and we can't do these things. So this is the ideal drug. It's also obviously...
+
+02:13:32.738 --> 02:13:58.366
+into lots of drug testing kits and supplies and whatnot for the forensics industries. But what's the fate of what's left, right? Well, that coca leaf extract, the dealkalinated extract, decoconized extract, if you will, is the secret sauce, if you will, for Coca-Cola still. So that is a...
+
+02:13:58.562 --> 02:14:28.222
+grass substance, G-R-A-S, generally recognized as safe food substance. And that is the flavoring agent that gives Coca-Cola its unique flavor. And there was a period of time, I believe it was in the 80s, where Coca-Cola really wanted to distance itself from the cocaine industry. Cocaine became hugely the drug of choice, sort of drug of abuse. Len Bias, one NBA basketball player, died from
+
+02:14:28.322 --> 02:14:55.518
+overdose. It just became a very nationally aware drug of abuse and there was a problem associated with cocaine. And so Coca-Cola said, we're going to cut our ties with the coca plant completely. They came out with this product called New Coke and it didn't last long because the flavor profile couldn't be replicated to the old Coke. And so indeed they re-replicated
+
+02:14:55.714 --> 02:15:24.318
+up their sort of contract and have been bringing it in ever since. And to this day, Coca-Cola Classic and Coke Zero are the two products. Interestingly enough, Diet Coke does not taste very much like Coca-Cola Original. A lot of people complained about that for a long time. They got smart and made this product called Coke Zero that has the flavoring agent from the coca plant in it and the
+
+02:15:24.418 --> 02:15:53.182
+lo and behold, everyone started saying, gosh, this tastes a lot more like Coca-Cola does. Well, yeah, it's got the flavoring ingredient in it. And so everybody in the United States almost has had a Coke at one point in time, so you've all had Coca-Leaf already in your dietary chain. And I think it'll be interesting to see where things develop as we start to do more research, as the World Health Organization reconsiders our
+
+02:15:53.282 --> 02:16:19.934
+removing coca leaf from an international ban and looking at it as a potential product to work into food products and develop further. And so, you know, it supposedly has no abuse potential as the leaf. But again, it's that story of isolating that one alkaloid out and sort of destroying the rest of it forever. However...
+
+02:16:20.034 --> 02:16:49.407
+Coca-Cola was smart enough to keep sort of a monopoly, if you will, on keeping that plant alive in their product. And so it's there. And the next time you have a Coca-Cola or a Coke Zero, just realize that it's got natural product in it. That's incredible. And I'll keep that in mind the next time I have a Coke Zero. Is there any evidence that what's still retained from the Coca plant
+
+02:16:49.762 --> 02:17:18.142
+in Coca-Cola is psychoactive and not just there for flavor? That's a great question. And that's been debated quite a bit. So the one thing that we know is that probably it is not having any psychoactivity. And the other thing that we know, back to my pharmacy days, we used to sell Coke syrup. So when Coke is sold for fountain beverages, it's the syrup.
+
+02:17:18.498 --> 02:17:43.103
+that's then blended with the carbonated water to make Coca-Cola. And that's why a lot of people say Coca-Cola out of a fountain is so much better than out of a can or a bottle because it is a sort of formulated on the spot product, if you will. On tap. Yeah, on tap. And Coke syrup we used to sell out of the pharmacy for...
+
+02:17:43.201 --> 02:18:12.510
+nausea and vomiting, particularly in pregnant women, is one of the safest things you could use. And it really calms and settles the GI tract. And this is interesting because one of the big benefits that people report drinking coca tea is that it soothes their GI tract and it calms their GI tract and it helps them be able to be alert. Of course, the coca tea's got all the
+
+02:18:12.610 --> 02:18:30.335
+alkaloids in it. But that same GI tract benefit is still there. And that's probably what's still remaining within that extract that's now devoid of the alkaloids. And you are not paid for by Coca-Cola? No.
+
+02:18:30.690 --> 02:18:59.518
+In fact, we went to Coca-Cola to see if we could work with them on developing some type of medications or something from the coca leaf. And I have a former colleague that is in their natural products division at Coca-Cola and they said they won't even let us touch the coca extract. And they've also got all that cocaine that they've pulled out of the coca leaf in this plant in New Jersey.
+
+02:19:00.034 --> 02:19:27.070
+I can only imagine what the security is on this place. I don't know. But you can fact check me on Wikipedia, which is not a great place to fact check. You got my agreement there. But the Stepan Company is listed there in New Jersey and their connection to Coca-Cola and this whole story is actually out there in front of everybody to see. It just takes knowing where to look and find it.
+
+02:19:27.618 --> 02:19:57.438
+Love it. Last question about soda. Is there still lithium in 7-Up? No. Lithium has gone from 7-Up. But that was the whole idea, right? Up, mood, lift your mood up. And we know lithium carbonate is still used to this day as a treatment for psychosis. I'm curious a bit about you. I know a few chemists. There are a couple of good jokes about chemists.
+
+02:19:57.538 --> 02:20:26.238
+but it's clear that you love chemistry and you love the chemistry of plants and you're also interested in public health and you're interested in, I'm gathering, I'm not a psychologist, but kind of the, the, the psychology behind all of this as well. When you were a kid, were you always, were you playing with a chemistry set? Yeah, you would think, right? No, I, interestingly enough, my, my father was a pharmacist and I,
+
+02:20:26.530 --> 02:20:51.390
+just never really paid attention, but I was always under tow. And so I saw what he did and I'd see him behind the counter at a store somewhere and just never really thought much about it. But I knew that he knew a lot about medicines and he knew a lot about
+
+02:20:51.874 --> 02:21:16.734
+health care. And what he was doing was really trying to benefit people and help people. And I always thought that to be noble. And my mother, interestingly, she was a stay-at-home mom, raised us kids, but was very much into education and was a teacher prior to myself being born. I'm the oldest. I have a sister and
+
+02:21:16.994 --> 02:21:46.142
+younger sister, Lisa, who's a nurse, by the way, nurse practitioner. So medicine has stayed within the family and science has stayed within the family. But my mother, once we were old enough to be on our own, if you will, she went back and became a comprehensive science teacher at the high school level. And so just watching her work through getting her recertification, the education process, and how passionate she was about
+
+02:21:46.882 --> 02:22:16.414
+educating others obviously stuck with me as well. And so those are the things that drove me. I have no idea where the sort of, I really think, innate passion came for the chemistry side of things. But when I was in high school, I did an independent chemistry project coming back to caffeine. I was just curious, like, what's the best caffeinated beverage for me to be drinking so I can stay up as late as
+
+02:22:16.642 --> 02:22:40.286
+I can and have fun. Well, at the time it was Jolt Cola, which doesn't exist anymore, right? But Jolt Cola, Mountain Dew was second. Yeah, drank a lot of Dye Mountain Dew in graduate school. I can't say I recommend it. I mean, that was our... I was a band geek in high school and... What instrument? I played trumpet and I played piano and a bunch of...
+
+02:22:40.386 --> 02:23:06.398
+buddies and I would get together on Friday nights and we would drink a case of Mountain Dew. You know, it was like everyone else is out drinking beer. We were doing musical things and drinking Mountain Dew. So it was kind of crazy. But I just wanted to know what was there. Right. And I wanted to see and I got Vibrin tablets and I extracted the caffeine out of the Vibrin tablets to quantify how much caffeine was in those. And yeah,
+
+02:23:06.786 --> 02:23:29.502
+still, I didn't really think anything of it. I decided very late in my high school career that I needed to do something with my life. I was bored in high school. I did not do well. I was not a great student. I think if I was lucky, I graduated with a 3.0 from high school. And my father...
+
+02:23:29.762 --> 02:23:48.766
+said, you need to decide on something. And so I said, well, pharmacy looks like it's been pretty good to you and our family. We've had a good life. I went to pharmacy school. And in pharmacy school, taking biochemistry and my first medicinal chemistry course, I got
+
+02:23:49.122 --> 02:24:15.102
+by a brand new assistant professor, someone very relatable, you know, close in age, just thought the world of this guy. And he said, hey, I'm looking for anybody who's interested in working in a lab to come work in a lab. And I was like, well, chemistry, he's cool. I'd like to get to know him. So I went to the lab, started working in a lab. And he told me, he said, you know,
+
+02:24:15.362 --> 02:24:42.046
+have some gift here or some talent and you should really explore it. I'm like, yeah, I'm going to be a pharmacist. What are you talking about? Said, no, I'm going to set you up with my PhD advisor, which happened to be the guy who tasted the stuff I talked about earlier, down at the University of Georgia for the summer. And so I went down and did a summer intensive research program in medicinal chemistry at the College of Pharmacy at the University of Georgia and
+
+02:24:42.978 --> 02:25:08.862
+Left there, went back to Ohio Northern University where I did my pharmacy degree, finished out all my clinical rotations. I was getting ready to graduate and take my boards and become a pharmacist. And the phone rang. This was back before cell phones, so I'm dating myself obviously. But the phone rang at home, and I happened to be home because I was doing a local rotation near home so I could save money.
+
+02:25:09.506 --> 02:25:35.998
+And it was the department chair of medicinal chemistry from the University of Georgia and says, we don't have your application for graduate school. What's going on? And I said, I'm not going to graduate school. I'm about to finish pharmacy school. And 15 minutes later, he was a great salesman. He had me going to graduate school. And so that really changed the course of my life. And I ended up going to Georgia, Georgia.
+
+02:25:36.098 --> 02:26:00.830
+sitting for my pharmacy boards in Georgia, becoming a licensed pharmacist in Georgia, practiced pharmacy while I was in graduate school, which today is almost a no-no. But I worked five days a week in the lab and every Saturday and Sunday in the pharmacy, which made me the party guy because I was making money and all the other grad students were making their stipend that year.
+
+02:26:01.762 --> 02:26:28.574
+We all know what graduate school stipends were like. Very low. But I would be the ones that treated us every so often to nice dinners and things like that since I had a little extra to share with my friends. But got done with a PhD and was working as a pharmacist during that time. And I realized that I had a passion for education.
+
+02:26:28.898 --> 02:26:51.614
+And I had a passion for the chemistry and the pharmacology and talking to customers or patients when they would come in. I worked in a grocery store pharmacy and they would come in and I would tell them, oh, you're on this new drug that's brand new to the market. It interacts with this protein. It does this and it does all these great things and you're so lucky to be trying this.
+
+02:26:51.938 --> 02:27:20.894
+I'll be anxious to hear how it works for you. And they would just look at me and say, do I take it with food or not? Right? And that was the... I realized I was standing in the wrong place to impact the public. Right? And it came to me that if I'm going to do something with my PhD, of course I fell in love with the research along the way, but I realized that impacting pharmacists
+
+02:27:21.634 --> 02:27:49.406
+then impact their patients was going to be a much more effective way for me to use my talents and skills in the classroom and education wise. And then obviously doing the research and following that passion, I was lucky. I mean, my PhD was around synthesis of analogs of a natural product called Lobeline, which came from Indian tobacco, Native American Indian tobacco, not cigarette tobacco.
+
+02:27:49.570 --> 02:28:18.974
+that was used actually as a respiratory stimulant. So this is hoppe? No, this was lobella inflata was the plant. And so lobeline was the compound that we worked on and made analogs of. We were looking at it, interestingly enough, coming back to the cholinergic nervous system, we were looking at it as a potential treatment for Alzheimer's disease because at that time a paper came out in Science noting that
+
+02:28:19.074 --> 02:28:47.742
+smokers did not tend to develop dementia and Alzheimer's disease. And so it also left the caveat of, do they actually live long enough to develop dementia? We don't know. However, since that time in the 90s, the whole cholinergic hypothesis of Alzheimer's disease evolved. And those are the major treatments we have for dementia through the FDA approved process now. I'm so glad you mentioned it. I've gotten myself into real trouble.
+
+02:28:48.002 --> 02:29:17.246
+covering nicotine, where I put the caveats after the statement about nicotine being potentially neuroprotective in Parkinson's and Alzheimer's. People will take that, cut that, run with it, come back later and say, I'm addicted to nicotine pouches. I always follow that statement with, it raises blood pressure, it's highly habit-forming slash addictive, and has a bunch of other issues that might make most people want to avoid it. But nonetheless,
+
+02:29:17.410 --> 02:29:46.590
+Nicotine, which stimulates the cholinergic pathway, as you point out, does seem to be protective against loss of cognitive function, at least somewhat, and loss of neurons, dopamine and cholinergic neurons. That's right. I don't get paid by big nicotine. Yeah, and that's what drove a lot of research back in those days to really see could we find something. The idea was, the hypothesis really was, could we find a nicotine that one wasn't addictive,
+
+02:29:46.754 --> 02:30:16.190
+two, didn't interact with the cardiovascular system, and three, ideally, that we could put in a vitamin every day that people could take to ward off nerve degeneration. And? No. Darn. Otherwise, I don't think I'd be sitting here talking to you. No, no, you'd be on a yacht someplace. Actually, I take that back. You'd probably be on a yacht someplace that has a small chemistry lab and you'd be probably running mass spec. Marine natural products. Exactly. Yeah, but I think, you know,
+
+02:30:16.674 --> 02:30:42.270
+That led to me going to a post-doc at the University of Minnesota and working for opioid chemists that really defined chemically the opioid receptors through analogs of naturally occurring opioids like morphine. And then it kind of launched me into my own career of saying, hey, I've worked now on natural products. Even though I didn't work directly with those natural products,
+
+02:30:42.402 --> 02:31:03.518
+I've always felt what I said earlier about this sort of balance in nature and I wanted to pursue natural products. And so when I got to the University of Mississippi, which happens to be a natural products mecca for pharmaceutical natural products research, there's the National Center for Natural Products Research there. There's the...
+
+02:31:03.682 --> 02:31:29.790
+National Institute on Drug Abuse's federal marijuana farm is there. It was the only legal federal marijuana farm for decades. And it was like landing in the perfect place to do what I wanted to do. And so that's where I started working on salvia divinorum. And salvia divinorum generated a compound called salvinorin A, which is to this day thought to be one of the most potent hallucinogens.
+
+02:31:29.954 --> 02:31:59.166
+non-nitrogen containing diterpene. We talked about terpenes, very similar, not very similar structurally to cannabinoids but in composition, just carbon, hydrogen, oxygen. It interacted with kappa opioid receptors. In kappa opioid receptors, there's a huge difference between mu opioid receptors, kappa opioid receptors and delta opioid receptors. Those are the three sort of traditionally accepted receptors
+
+02:31:59.490 --> 02:32:25.982
+opioid family receptors. Mu is actually the Greek letter and was defined by Morpheus, the god of dreams, which is morphine got its name and that's where the mu receptor sort of nomenclature came from. And since it was related back to Greek mythology, they gave it the Greek symbol mu. And then when they found these other receptors, kappa and delta, they just maintained that Greek sort of nomenclature,
+
+02:32:26.114 --> 02:32:52.318
+We all know that mu is the primary target for clinically used analgesics. It also causes the euphoria. Kappa opioid receptors also have analgesic effects and it was for a long time thought that targeting Kappa opioid receptors was the holy grail of painkillers because you got the same pain relief as you would get with something like morphine or even more potent opioids, but the animals didn't want to abuse it.
+
+02:32:52.994 --> 02:33:21.022
+They've moved into human clinical trials and we learned something in psychiatry at that moment that kappa opioid receptors cause dysphoria instead of euphoria. So people don't like the effect. So people don't like the effect. However, there's a group of people out there that tend to like whatever that is. Being miserable. Or that makes them feel better. Maybe they're miserable by nature and that makes them feel better. I don't know what is there, but there was a whole group of people...
+
+02:33:21.122 --> 02:33:41.566
+using salvia divinorum plant. It's called diviner sage. It's a mint from Oaxaca, Mexico that was used by a shaman there to diagnose people. When they couldn't figure things out, they would give it to the subject and then that would open up their mind and hopefully tell them what was wrong with them and then if the
+
+02:33:41.730 --> 02:34:10.302
+couldn't tell the shaman what was wrong, the shaman would resort to taking it himself to go into the spiritual world to figure out what was wrong, right? So this is a fascinating plant. And that plant is the plant that led me to Mitragyna speciosa. So I was funded by NIDA, National Institute on Drug Abuse, to study Salvia Divinorum. And my program officer, who's the person that manages your grant,
+
+02:34:10.466 --> 02:34:38.078
+the institute contacted me and said, hey, I'd like to invite you to this neuroscience meeting and give a talk on naturally occurring pain medications or substances. And so I said, that sounds cool. That should be easy. There's aspirin, there's morphine, there's this. And so I dove into the literature and started looking for all these different sources of naturally occurring pain medications and
+
+02:34:38.274 --> 02:35:07.262
+Lo and behold, there was Mitragyna speciosa with an incredible track record of study by SmithKline in French, which was now GlaxoSmithKline. Back in the 60s, they isolated Mitragynin out of the plant. They did as much, and to this day, it's still the most complete study in the literature. So 19, I think it's a 1972 paper by Mako et al.,
+
+02:35:07.426 --> 02:35:35.582
+I can't remember the journal, but it detailed all the clinical development of mitragynin. And at the end of the day, they decided to not pull the trigger on full development because it was no better than codeine as an analgesic. And at that time was the emergence of a new class of drugs called the non-steroidal anti-inflammatory drugs, which had no opioid activity, which were...
+
+02:35:36.002 --> 02:36:01.214
+Much safer, no habit-forming properties. We've come to learn there's problems with NSAIDs as well, like ibuprofen. Liver issues. Liver, kidney, GI bleeding. Also, they're not that potent. Yeah. No. They're for mild pain. And mitragynin was even recognized back then as being very comparable to codeine, which is really for more moderate patients.
+
+02:36:01.314 --> 02:36:25.758
+It's not morphine. That's a whole other discussion, but it's much less potent than morphine codeine is. It has great antitussive properties for cough, and that's why they put it in cough syrups, and it works better for that than it really does for pain control. But it was just equivalent to that, and they said there's no point in trying to compete with this new class that's
+
+02:36:25.922 --> 02:36:55.070
+safe, right? Or thought to be safer. So they shelved the project at SmithKline and French. Thank God they did because that's what I found. And that was when I realized nobody's touched this plant. Fantastic arc. Yeah. And one that really reflects a constant curiosity and willingness to see when a door opens and go through it. So it's really wonderful that you did.
+
+02:36:55.170 --> 02:37:24.990
+Clearly that's in your nature. And I think one consistent theme throughout – there are several. But what I heard were themes related to intense curiosity, a real practical grounding. You're a practical guy. It's clear. This comes from your pharmacist father and your mom who impressingly – My wife may not agree with this. And your mom who impressively is what I meant to say went back and –
+
+02:37:25.378 --> 02:37:54.974
+after raising you guys and became a scientist in her own right and teacher. And then this element of public education, teaching pharmacists, teaching neuroscientists. I've long wanted to do an episode about Kratom. And for a variety of reasons, the most important one being that many people ask about it and it's out there and it's having an impact and it's growing in usage. And that there's these very polarized views. You hear, this is the greatest thing ever.
+
+02:37:55.138 --> 02:38:23.230
+help me or someone I know get off opioids. And then you also hear this stuff is dreadfully bad. And in the course of researching Kratom, it's not hard to find your name because you're responsible for publishing an enormous percentage of the work on Kratom. But I would also hear things from people like, got to get Chris McCurdy on. He's the man. I heard he's the man a lot. And so I just really want to thank you for coming here today with –
+
+02:38:23.362 --> 02:38:49.598
+with the intention to teach. I've clearly learned, everyone's learned so much from this, from hearing you today and your nuanced perspective that when someone says is Kratom good or bad, safe or not safe, you break it down. Look, here are the different things we're talking about when we're talking about Kratom. And I list off some of the key takeaways earlier. Serving size matters, Kratom derived products versus isolates. Why are you using Kratom?
+
+02:38:50.178 --> 02:39:18.654
+the F around and find out reason is not a good reason, you know, but is it pain relief? Is it to avoid or trying to alleviate a much more serious condition or addiction in some cases? Drug interactions, there's your pharmacist side, this case example of a seizure and on and on. I mean, you've just done a spectacular job of explaining the nuance that one has to address that question with. I must also highlight that as somebody who's
+
+02:39:18.850 --> 02:39:39.006
+very interested in science and public health, but also the natural world. Um, you've done such a spectacular job of explaining how plants contain these incredible compounds interact with the animal world and with the human world and medicine, uh, for better or worse. And, uh, and that's a beautiful dance. And, um,
+
+02:39:39.266 --> 02:39:54.046
+you're clearly encyclopedic about all of it. So thank you so much for coming here, for sharing all this knowledge. So clearly people are going to be safer and are going to make excellent use of this knowledge, I'm sure. And as things evolve in the world of Kratom and Kratom,
+
+02:39:54.146 --> 02:40:22.174
+Boca Leaf and Cacao, please come back and share with us what you discovered. Absolutely. Thank you so much for having me. Thank you for giving me your platform as well to get this education out there. It needs to be out there and people need to understand that there may be benefits indeed, but there's risks and there's potentially harm. And we've got to figure out where each of those lie. Well, it's been a pleasure. Thank you. Thank you.
+
+02:40:22.626 --> 02:40:29.182
+Thank you for joining me for today's discussion with Dr. Chris McCurdy. To learn more about his work, please see the links in the show note captions.
+
+02:40:29.346 --> 02:40:59.312
+If you're learning from and or enjoying this podcast, please subscribe to our YouTube channel. That's a terrific zero cost way to support us. In addition, please follow the podcast by clicking the follow button on both Spotify and Apple. And on both Spotify and Apple, you can leave us up to a five-star review and you can now leave us comments at both Spotify and Apple. Please also check out the sponsors mentioned at the beginning and throughout today's episode. That's the best way to support this podcast. If you have questions for me or comments about the podcast or guests or topics that you'd like me to consider for the Huberman
+
+02:40:59.312 --> 02:41:23.550
+podcast please put those in the comments section on youtube i do read all the comments for those of you that haven't heard i have a new book coming out it's my very first book it's entitled protocols an operating manual for the human body this is a book that i've been working on for more than five years and that's based on more than 30 years of research and experience and it covers protocols for everything from sleep to exercise to stress control to
+
+02:41:23.714 --> 02:41:43.710
+protocols related to focus and motivation. And of course, I provide the scientific substantiation for the protocols that are included. The book is now available by presale at protocolsbook.com. There you can find links to various vendors. You can pick the one that you like best. Again, the book is called Protocols, an Operating Manual for the Human Body.
+
+02:41:44.034 --> 02:42:14.000
+if you're not already following me on social media, I am Huberman Lab on all social media platforms. So that's Instagram, X, Threads, Facebook, and LinkedIn. And on all those platforms, I discuss science and science-related tools, some of which overlaps with the content of the Huberman Lab podcast, but much of which is distinct from the information on the Huberman Lab podcast. Again, it's Huberman Lab on all social media platforms. And if you haven't already subscribed to our Neural Network newsletter, the Neural Network newsletter is a zero-cost monthly newsletter that includes podcast summaries as well
+
+02:42:14.000 --> 02:42:39.710
+as what we call protocols in the form of one to three page PDFs that cover everything from how to optimize your sleep, how to optimize dopamine, deliberate cold exposure. We have a foundational fitness protocol that covers cardiovascular training and resistance training. All of that is available completely zero cost. You simply go to HubermanLab.com, go to the menu tab in the top right corner, scroll down to newsletter and enter your email. And I should emphasize that we do not share your email with anybody.
+
+02:42:39.938 --> 02:42:48.382
+Thank you once again for joining me for today's discussion with Dr. Chris McCurdy. And last, but certainly not least, thank you for your interest in science.

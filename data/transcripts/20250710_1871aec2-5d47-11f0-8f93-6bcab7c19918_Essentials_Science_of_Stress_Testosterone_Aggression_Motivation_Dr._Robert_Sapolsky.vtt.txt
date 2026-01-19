@@ -1,0 +1,250 @@
+WEBVTT
+
+00:00.354 --> 00:27.486
+Welcome to the Huberman Lab Podcast, where we discuss science and science-based tools for everyday life. I'm Andrew Huberman, and I'm a professor of neurobiology and ophthalmology at Stanford School of Medicine. Today, I have the pleasure of introducing Dr. Robert Sapolsky. Thank you so much, Robert, for joining us today. It's quite a pleasure to be here. I want to return to a topic that is near and dear to your heart, which is stress.
+
+00:27.714 --> 00:57.342
+What is the difference between short and long-term stress in terms of their benefits and their drawback? How should we conceptualize stress? Basically, sort of two graphs that one would draw. The first one is just all sorts of beneficial effects of stress short-term. And then once we get into chronicity, it's just downhill from there. The sorts of chronic stressors that most people deal with are chronic
+
+00:57.698 --> 01:25.022
+just undeniably in the chronic range, like having spent the last 20 years daily traffic jams or abusive boss or some such thing. The other curve that's sort of perpendicular to this is dealing with the fact that sometimes stress is a great thing. Like our goal is not to cure people of stress because if it's the right kind, we love it. We, we,
+
+01:25.154 --> 01:53.918
+pay good money to be stressed that way by a scary movie or rollercoaster ride. What you wind up seeing is when it's the right amount of stress, it's what we call stimulation. One thing that's really striking to me is how physiologically the stress response looks so much like the excitement response to a positive event. But is there anything else that we know about the biology that reveals to us what
+
+01:54.338 --> 02:22.206
+You know, what really creates this thing we call valence, that an experience can be terrible or feel awful or it can feel wonderful depending on this somewhat subjective feature we call valence? On a really mechanical level, if you're in a circumstance that is requiring that your heart races and your breathing is fast and you're using your muscles and some such thing,
+
+02:22.370 --> 02:51.774
+you're going to be having roughly the same brain activation profile, whether this is for something wonderful or something terrible, with the one exception being that if the amygdala is part of the activation, this is something that's going to be counting as adverse. The amygdala, in some ways, is kind of the checkpoint as to whether we're talking about excitement or terror. Let's use the amygdala as a transition point to another topic that
+
+02:51.874 --> 03:21.278
+you've spent many years working on and thinking about, which is testosterone and other sex steroid hormones. How should we think about the role of testosterone in the amygdala, given that the engagement of the amygdala is fundamental in this transition point between a exhilarating positive response and a negative stressful response? Or maybe just broadly, how should we think about testosterone and its effects on the brain? Basically,
+
+03:21.698 --> 03:49.918
+Almost everybody out there has a completely wrong idea as to what testosterone does, which is testosterone makes you aggressive because males, virtually every species out there, have more testosterone and are more aggressive. And the reality is testosterone does no such thing. It doesn't cause aggression. And you can see this both behaviorally and in the amygdala. It lowers the threshold for the sort of things that would normally provoke you into being aggressive.
+
+03:50.082 --> 04:19.550
+so that it happens more easily. It makes systems that are already turned on, turn on louder rather than turning on aggressive music or some such thing. It's not creating aggression, it's just upping the volume of whatever aggression is already there. And in terms of status and the relationship between individuals, either non-human primates or humans, can we say that relative levels of testosterone between individuals is
+
+04:19.841 --> 04:49.246
+correlated to status within the hierarchy? Yes. Like you go back, I don't know, whatever number of decades to endocrinology texts, and there were two totally reliable findings in there, which is higher levels of testosterone predict higher levels of aggression in punids and other animals. Higher levels of testosterone predict higher levels of sexual activity. And the correlation is there. And when you look closely, we've got cause and effect stuff
+
+04:49.410 --> 05:14.302
+Sexual behavior raises testosterone levels. Aggression raises testosterone levels. Your levels beforehand are barely predictive of what's going to happen. So it's a response rather than a cause. Just a great footnote. If you have the right type of willing to die in the trenches devotion sort of thing, watching your favorite team play a sport,
+
+05:14.562 --> 05:44.030
+will raise your testosterone levels as you sit there with the potato chips in your armchair. So it's not the physicality of aggression. It's the psychological framing of it. So yeah, testosterone is not causing that. And a great way to appreciate that is you do a subtraction study. You remove the testes. And as I said before, levels of sexual behavior goes down. Good.
+
+05:44.226 --> 06:13.438
+we've just shown that testosterone is somehow caused this. Critically, they go down, but not down to zero. Whether you are a rat or a monkey or a human, whatever, and what predicts how much residual sexual behavior is there, how much sexual behavior there was before castration? What that's telling you is by then, that's behavior that's being carried by social learning and context is
+
+06:13.538 --> 06:30.974
+rather than by the hormone. The exact same thing with aggression. Drops after castration doesn't go to zero. The more prior history of it, the more it just keeps coasting along on its own, even without testosterone. I'd like to take a quick break and acknowledge one of our sponsors, Function.
+
+06:31.106 --> 06:49.086
+Last year, I became a Function member after searching for the most comprehensive approach to lab testing. Function provides over 100 advanced lab tests that give you a key snapshot of your entire bodily health. This snapshot offers you with insights on your heart health, hormone health, immune functioning, nutrient levels, and much more.
+
+06:49.250 --> 07:05.534
+Function not only provides testing of over 100 biomarkers key to your physical and mental health, but it also analyzes these results and provides insights from top doctors who are expert in the relevant areas. For example, in one of my first tests with Function, I learned that I had elevated levels of mercury in my blood.
+
+07:05.634 --> 07:26.238
+Function not only helped me detect that, but offered insights into how best to reduce my mercury levels, which included limiting my tuna consumption. I'd been eating a lot of tuna, while also making an effort to eat more leafy greens and supplementing with NAC and acetylcysteine, both of which can support glutathione production and detoxification. And I should say, by taking a second Function test, that approach worked.
+
+07:26.370 --> 07:41.534
+Comprehensive blood testing is vitally important. There's so many things related to your mental and physical health that can only be detected in a blood test. The problem is blood testing has always been very expensive and complicated. In contrast, I've been super impressed by function simplicity and
+
+07:41.698 --> 08:06.174
+at the level of cost. It is very affordable. As a consequence, I decided to join their scientific advisory board and I'm thrilled that they're sponsoring the podcast. If you'd like to try Function, you can go to functionhealth.com slash Huberman. Function currently has a wait list of over 250,000 people, but they're offering early access to Huberman podcast listeners. Again, that's functionhealth.com slash Huberman to get early access to Function.
+
+08:06.786 --> 08:36.670
+Today's episode is also brought to us by Element. Element is an electrolyte drink that has everything you need, but nothing you don't. That means the electrolytes, sodium, magnesium, and potassium, all in the correct ratios, but no sugar. Proper hydration is critical for optimal brain and body function. Even a slight degree of dehydration can diminish cognitive and physical performance. It's also important that you get adequate electrolytes. The electrolytes, sodium, magnesium, and potassium are vital for the functioning of all the cells in your body, especially your neurons or your nerve cells.
+
+08:36.833 --> 09:03.870
+Drinking Element dissolved in water makes it extremely easy to ensure that you're getting adequate hydration and adequate electrolytes. To make sure that I'm getting proper amounts of hydration and electrolytes, I dissolve one packet of Element in about 16 to 32 ounces of water when I wake up in the morning, and I drink that basically first thing in the morning. I also drink Element dissolved in water during any kind of physical exercise that I'm doing. They have a bunch of different great tasting flavors of Element. They have watermelon, citrus, et cetera. Frankly, I love them all.
+
+09:04.002 --> 09:33.182
+If you'd like to try Element, you can go to drinkelement.com slash Huberman Lab to claim a free Element sample pack with the purchase of any Element drink mix. Again, that's drinkelement.com slash Huberman Lab to claim a free sample pack. As I've heard you talk about testosterone today and over the years, I start to get the impression that as the most misunderstood molecule in human health in the universe, it has, it's clearly doing something very powerful. It's shifting the way that
+
+09:33.282 --> 10:02.878
+certain neural circuits work, adjusting the gain on the amygdala, as you described. And is there any truism about testosterone and its relationship to effort or its relationship to resilience in a way that maybe will help me and other people sort of think about how to think about testosterone? Yeah. Maybe three separate answers to that. The first one is, I think it's a fair summary of
+
+10:03.522 --> 10:30.654
+to think that when it comes to motivated, strong behaviors, what testosterone does is make you more of whatever you already are in that domain. Sexual arousal, libido, aggressiveness, spontaneous aggression, reactive aggression, things of that sort. It's upping the volume of things that are already strongly there. Second way to think about it is
+
+10:32.354 --> 11:00.286
+Well, here's my favorite finding about testosterone. And this was some wonderful work by a guy, John Wingfield, who's one of the best behavioral endocrinologists out there. And about 20 years ago, he formulated what was called the challenge hypothesis of testosterone action. What does testosterone do? Testosterone is what you secrete when your status is being challenged.
+
+11:00.834 --> 11:27.998
+And it makes it more likely that you'll do the behaviors needed to hold onto your status. Okay, so that's totally boringly straightforward if you're a baboon. If somebody is challenging your high rank, the appropriate response on your part is going to be aggression. All right, so we've just gotten through the back door, testosterone and aggression again. But then you get to humans. And humans have lots of different ways of achieving or maintaining status.
+
+11:28.162 --> 11:51.582
+And all you need to do is go to some fancy private school's annual auction, and you will see all these half-drunk alpha males competing to see who can give the most money away as a show of conspicuous property that they have. And in a setting like that, I mean, I've...
+
+11:51.714 --> 12:19.422
+Haven't been able to take urine samples at those times, unfortunately. But that shows the flip side of it. If you have a species that hands out status in a very different sort of way, testosterone is going to boost that also. Okay, so that generates a totally nutty prediction. Wow. Take people in a circumstance, say playing an economic game where you get status by being trustworthy and being generous in your interactions with the game.
+
+12:19.522 --> 12:47.422
+If you give people testosterone, does that make them more generous? And that's absolutely the case. Totally cool finding. And if we have a societal problem with too much aggression, the first culprit to look at is not testosterone. The first to look at is that we hand out so much damn elevated status for aggression in so many circumstances. Third thing about subtlety of testosterone. Okay, so...
+
+12:47.554 --> 13:16.478
+like some subtler behavioral effects, you give testosterone to people and they become more confident. They become more self-confident. Well, that's good. People pay to take all sorts of nonsensical self-help courses that will boost your self-esteem. And that's a good thing unless testosterone makes you more confident. That is inaccurate. And you're more likely to barrel into wrong decisions. What's shown in
+
+13:16.674 --> 13:43.870
+economic gameplay is that testosterone, by making you more confident, makes you less cooperative. Because who needs to cooperate? Because I'm on top of this all on my own. Testosterone makes people cocky and impulsive, and that may be great in one setting, but if in the others, you're absolutely sure your army is going to overrun the other country in three days, so hell, let's start World War I, and you get a big surprise out of it.
+
+13:44.418 --> 14:11.518
+testosterone altering risk assessment beforehand probably played a big role in that kind of miscalculation. Super interesting. I always think about testosterone and dopamine being close cousins in the brain because of dopamine's salient role in creating this bias towards exteroception. You know, when somebody takes a drug that increases dopamine or their chock-a-block full of dopamine, it
+
+14:11.682 --> 14:40.734
+they tend, I wanna highlight tend because I'm really generalizing here, but they tend to focus on outward goals, things beyond the boundaries of their skin. And testosterone seems to do a bit of the same. It tends to put us into a similar mode of perceiving the outside world in ways that we're asking questions like, how do I relate to this other of my species? How do I relate to these goals? Is there anything that we can...
+
+14:40.834 --> 15:07.742
+do it better conceptualize the relationship between testosterone and dopamine and motivation? Well, I think it's got lots to do with sort of this massive revisionism about dopamine. Everyone since the pharaohs got brought up being taught that dopamine is about pleasure and reward. Turns out it isn't. It's about anticipation of reward. And it's about generating the motivation, the goal-directed behavior needed to
+
+15:07.938 --> 15:37.022
+to go get that reward. And before you know it, you're using like elevated dopamine your entire life to motivate you to do whatever is going to get you like entry into heaven after life's kind of, you know, it's, it's doing that sort of thing. So it's really about the motivation and what testosterone does, even in individuals who were not aggressive and why testosterone replacement is often a very helpful thing for aging males is that
+
+15:37.122 --> 16:06.014
+increases energy. It increases a sense of there-ness, of presence, of alertness. It increases motivation. Testosterone within minutes increases glucose uptake into skeletal muscle. You're just more awake and alert and all of that. And that has a lot to do with what dopamine does. And as one might predict then, getting just the right levels of testosterone infused into your bloodstream
+
+16:06.306 --> 16:35.838
+feels great to lab rats. They will never press to get infused into the range that optimizes dopamine release. You're absolutely right. They're deeply intertwined. I want to ask about estrogen. We don't hear about estrogen as often, and yet estrogen has some very powerful effects on both the animal brain and on the human brain of males and females. Are there any general themes of estrogen that
+
+16:36.290 --> 16:54.686
+that people should be aware of or that you think that are generally misunderstood? Is it really all about feelings and empathy and making us more sensitive? I sense not. No. If you had a choice in the matter between having a lot of estrogen in your bloodstream or not, go for having a lot of estrogen.
+
+16:55.074 --> 17:23.934
+It enhances cognition. It stimulates neurogenesis in the hippocampus. It increases glucose and oxygen delivery. It protects you from dementia. It decreases inflammatory oxidative damage to blood vessels, which is why it's good for protecting from cardiovascular disease. In contrast to testosterone, which is making every one of those things worse, estrogen is one of the greatest predictors of
+
+17:24.034 --> 17:51.198
+protection from Alzheimer's disease, all of that, but it needs to be physiological. Just keep going, keep continuing what your body has been doing for a long time versus let the whole thing shut down and suddenly try to fire up the coal stoves at the bottom of the basement kind of thing and get that going. There you get utterly different outcomes. Fascinating. I guess it raises the question about testosterone replacement too, whether or not
+
+17:51.298 --> 18:20.894
+people should talk to their doctor before too long. Men and women, talk to your physicians before too long to avoid these, whatever is happening in these periods where there isn't sufficient testosterone and or estrogen. Sounds like it could cause longer term problems even when therapies are introduced. I'd like to briefly return to stress. You described a study once about two rats
+
+18:21.250 --> 18:48.734
+one running on a wheel voluntarily, one who's basically stuck in a running wheel and is forced to run anytime rat number one runs. So in one case, the rat is voluntarily exercising, and in the other case, the rat is being forced to go to PE class, so to speak, and seeing divergent effects on biology. What do you think about stress mitigation and what should we do as individuals
+
+18:48.866 --> 19:18.526
+and as families, and as a culture to try and encourage people to mitigate their stress, but in ways that are not going to turn us into rat number two, where we're being forced to mitigate our own stress and therefore becomes more stressful. And what you see is rat number one gets all the benefits of exercise. Rat number two gets all the downsides of severe stress with the same exact muscle expenditure and movements going on, perfectly yoked
+
+19:18.626 --> 19:42.814
+great example that it's the interpretation in your head. Anything I should say here, I should preface with I'm reasonably good at telling people what's going to happen if they don't manage their stress, but I'm terrible at actually managing stress or advising how to manage it. I'm much better with the bad news aspect of it. But I
+
+19:43.106 --> 20:13.086
+Some people have massive stress responses, others not at all in between, enjoy it. Like, what are the building blocks of what makes psychological stress stressful? And the first one is exactly what is brought up by that running study. Do you have a sense of control? A sense of control makes stressors less stressful. Related to that is a sense of predictability. And that's enormously protective. Others...
+
+20:13.314 --> 20:41.502
+Outlet for frustration, you take a rat who's getting shocked and it can gnaw on a bar of wood, the stressor is less stressful. Unfortunately, if you have a rat or primate or human and they're stressed, the ability to aggressively dump on somebody smaller and weaker also reduces the stress response and the fact that displacement aggression reduces stress
+
+20:41.634 --> 21:10.238
+accounts for a huge percentage of Earth's unhappiness. So all of those variables get social support as well. That's a good one, interpreting circumstances as being good news rather than bad. Hooray. So you've got this very simple sort of like take-home recipe of go out and get as much control and as much predictability and as many outlets and as much social support as possible, and you're going to do just fine. And you go out and do that, and that's a recipe for total disaster.
+
+21:10.882 --> 21:38.462
+because it's much, much more subtle than that. And that's why stress management techniques, control and predictability, wind up being far worse than neutral if you're preaching that to somebody homeless or somebody with terminal cancer or somebody who's a refugee. Tell a neurotic middle-class person that they have the psychological tools to turn hell into heaven, and there's some truth to that.
+
+21:38.562 --> 22:08.094
+Do the same thing to somebody who's going through a real hell, and that's just privileged heartlessness to do that because that doesn't work. It's not simple. It takes a lot of work to do it right because you do it wrong, and it may temporarily seem like a great thing, but when it turns out to be completely misplaced faith, you're going to be feeling worse than before you started.
+
+22:09.026 --> 22:18.206
+I'd like to take a quick break and acknowledge our sponsor, AG1. AG1 is a vitamin mineral probiotic drink that also includes prebiotics and adaptogens.
+
+22:18.338 --> 22:48.304
+As somebody who's been involved in research science for almost three decades and in health and fitness for equally as long, I'm constantly looking for the best tools to improve my mental health, physical health, and performance. I discovered AG1 back in 2012, long before I ever had a podcast, and I've been taking it every day since. I find it improves all aspects of my health, my energy, my focus, and I simply feel much better when I take it. AG1 uses the highest quality ingredients in the right combinations, and they're constantly improving their formulas without increasing the cost.
+
+22:48.304 --> 23:06.750
+In fact, AG1 just launched their latest formula upgrade. This next-gen formula is based on exciting new research on the effects of probiotics on the gut microbiome, and it now includes several clinically studied probiotic strains shown to support both digestive health and immune system health, as well as to improve bowel regularity and to reduce bloating.
+
+23:06.882 --> 23:36.848
+Whenever I'm asked if I could take just one supplement, what that supplement would be, I always say AG1. If you'd like to try AG1, you can go to drinkag1.com slash Huberman. For a limited time, AG1 is giving away a free one month supply of omega-3 fish oil along with a bottle of vitamin D3 plus K2. As I've highlighted before on this podcast, omega-3 fish oil and vitamin D3 K2 have been shown to help with everything from mood and brain health to heart health to healthy hormone status and much more. Again, that's drinkag1.com.
+
+23:36.848 --> 23:50.782
+www.kg1.com slash Huberman to get a free one month supply of omega-3 fish oil plus a bottle of vitamin D3 plus K2 with your subscription. Today's episode is also brought to us by David. David makes a protein bar unlike any other.
+
+23:50.882 --> 24:18.270
+It has 28 grams of protein, only 150 calories and zero grams of sugar. That's right, 28 grams of protein and 75% of its calories come from protein. This is 50% higher than the next closest protein bar. David protein bars also taste amazing. Even the texture is amazing. My favorite bar is the chocolate chip cookie dough, but then again, I also like the new chocolate peanut butter flavor and the chocolate brownie flavored. Basically, I like all the flavors a lot. They're all incredibly delicious.
+
+24:18.434 --> 24:48.400
+The toughest challenge is knowing which ones to eat on which days and how many times per day. I limit myself to two per day, but I absolutely love them. With David, I'm able to get 28 grams of protein in the calories of a snack, which makes it easy to hit my protein goals of one gram of protein per pound of body weight per day, and it allows me to do so without ingesting too many calories. I'll eat a David protein bar most afternoons as a snack, and I always keep one with me when I'm out of the house or traveling. They're incredibly delicious, and given that they have 28 grams of protein, they're
+
+24:48.400 --> 25:15.550
+really satisfying for having just 150 calories. If you'd like to try David, you can go to davidprotein.com slash Huberman. Again, that's davidprotein.com slash Huberman. These days, there's a lot of interest in using physical practices to mitigate stress, you know, trying to get out of the ruminating and to some extent, take control of neural circuits in the brain by using exercise and using breathing and
+
+25:15.682 --> 25:44.894
+hypnosis. What are your thoughts on more, for lack of a better way to put it, more head-centered cognitive approaches to stress mitigation versus kind of going at the core physiology? Cold showers now are even a thing to some extent, you know, just to get people stress acclimated, voluntarily taking cold showers, you know? Oh, transcendental meditation, mindfulness, exercise, prayer, sort of reflecting on gratitude,
+
+25:45.058 --> 26:14.270
+all that sort of thing. Collectively, they work on the average. They work in terms of they can lower heart rate and cholesterol levels and have all sorts of good outcomes, but they can provide those. One is exactly the caveat that comes out of the Gruney Neal study is it doesn't matter how many of your friends swear by the stress management technique. If doing it makes you want to scream your head off after 10 seconds, that's not the one that's going to work for you. So-
+
+26:14.690 --> 26:42.654
+You know, redefine printing the testimonials, but it's got to be something that works for you. Another one is the stress management type techniques that work. You can't save them for the weekend. You can't save them for when you're stuck on hold on the phone with Muzak for two minutes. It's got to be something where you stop what you're doing and do it virtually daily or every other day and spend 20, 30 minutes doing it.
+
+26:42.818 --> 27:06.654
+Whatever stress management technique you then do in those 20 minutes, short of who knows what, you're already 80% of the way there simply by having decided your well-being is important enough that you're going to stop every single day and have that as priority. So there's no magic breathing tool or exercise. It's any variety of those or one of those techniques.
+
+27:06.818 --> 27:33.630
+And again, we come back to this idea that it's the one that you select and the one that you make space for, and it's the one that you hopefully enjoy that's going to work best in terms of physiology. That brings me to this question of, I find it amazing that how we perceive an event and whether or not we chose to be in that event or not can have such incredibly different effects on the
+
+27:34.018 --> 28:00.894
+circuitry of the brain and circuitry of the body and biology of cells. And in some ways it boggles my mind, like how can a decision made presumably with the prefrontal cortex, although other parts of the brain as well, how can that change essentially the polarity of a response in the body? And I mean, you've talked before about type A personalities and we don't have to go into all the detail there for sake of time, but it is interesting that
+
+28:01.058 --> 28:28.926
+the effects of endothelial cells. I mean, literally of the size of the portals for blood are in opposite direction, depending on whether or not somebody wants to be in a situation, is a highly motivated person. Maybe you could just give us the top contour of that. And then maybe if you would, you could just speculate on how the brain might have this switch to turn one experience from terrible to beneficial.
+
+28:29.378 --> 28:51.486
+Or from beneficial to terrible. It's really fascinating. You can think autonomic regulatory neurons into action in ways that only other animals can do with extremes of environmental circumstances. We talk about the optimal amount of stress that counts as stimulation. And in general,
+
+28:51.682 --> 29:19.550
+that stress that's not too severe and doesn't go on for too long and is overall in a benevolent setting. And under those conditions, we love being stressed by something unexpected and out of control and predictability, like a really interesting plot turn in the movie you're watching. That's great, but you get the individual differences that somehow has to accommodate the fact that for some people, the perfect stimulatory amount of stress is what it
+
+29:19.714 --> 29:47.550
+getting up early for an Audubon birdwatching walk next Sunday morning. And for somebody else, it's signing up to be like a mercenary in Yemen and tremendous individual differences that swamp any simple, you know, prescriptions. Yeah. The prefrontal cortex, this thinking machinery that we all harbor, it's such a double-edged sword. And, uh,
+
+29:47.682 --> 30:16.798
+What's remarkable to me is how the areas of the brain, like the hypothalamus and the amygdala, they're sort of like switches. I mean, if you stimulate ventromedial hypothalamus, you get the right neurons, an animal will try and kill even an object that's sitting next to it. You tickle some other neurons, it'll try and mate with that same object. I mean, it's really wild. I think there are probably rules to prefrontal cortex also, but it sounds like the context, plural, from which prefrontal cortex can draw from are
+
+30:16.994 --> 30:42.334
+is probably infinite so that we could probably learn to perceive threat in anything, whether or not it's another group or whether or not it's science or whether or not it's somebody's version of the shape of the earth versus another. I mean, it's like you can plug in anything to this system and give it enough data. And I think it sounds like you could drive a fear response or a love response. Is that overstepping? No, that's absolutely the case.
+
+30:42.562 --> 31:09.758
+To what extent can we toggle this relationship between the prefrontal cortex and these other more primitive systems? An enormous amount. For example, being low in a hierarchy is generally bad for health and like every mammal out there, including us. But we do something special, which is we can be part of multiple hierarchies at the same time.
+
+31:10.082 --> 31:28.414
+And while you may be low ranking in one of them, you could be extremely high ranking in another, you're like have the crappiest job in your corporation, but you're the captain of the team softball, of the softball team this year for the company. And you better bet that's somebody who's going to find all sorts of ways
+
+31:28.514 --> 31:52.478
+decide that nine to five Monday to Friday is just stupid paying the bills. And what really matters is the prestige on the weekend. So we can play all sorts of psychological games with that. One of the most consistent, reliable ones that we do and need to use the frontal cortex like crazy is somebody does something rotten and you need to attribute it
+
+31:52.706 --> 32:18.782
+And the answer is they did something rotten because they're rotten. Always have been, always will be this constitutional explanation. You do something rotten to somebody, and how do you explain it afterward? A situational one. I was tired. I was stressed. In this sort of setting, I misunderstood this. We're best at excusing ourselves from bad things because we have access to our inner lives.
+
+32:18.914 --> 32:45.598
+And we've got prefrontal cortexes that are great at coming up with a situational explanation rather than, hey, maybe you're just like a selfish, rotten human. You need to change. And that's all prefrontal cortex. And we do that every time. We don't let somebody, you know, merge in the lane in front of us, even though you curse somebody who does the same thing to you and, you know, endlessly. Yeah.
+
+32:46.754 --> 33:14.494
+I love it. Your statement about the fact that we can select multiple hierarchies to participate in, to me, seems like a particularly important one nowadays with social media being so prevalent. But what's interesting about social media, I found, is that the context is very, very broad. As you scroll through a feed, you are being exposed to thousands, if not millions, of contexts. This meal, that
+
+33:14.626 --> 33:43.550
+soccer game, this person's body, this person's intellect. It's a vast, vast landscape. So the context is completely mishmash. Whereas I'm assuming we evolved, I think we did evolve, under contexts that were much more constrained. We interacted with a limited number of individuals and a limited number of different domains. But now more than ever, our brain, our prefrontal cortex, and our sense of where we exist in these multiple hierarchies has essentially wicked out
+
+33:43.650 --> 34:03.742
+How do you think this might be interacting with some of these more primitive systems and other aspects of our biology? Well, I think what you get is in some ways the punchline of what's most human about humans, which is
+
+34:03.874 --> 34:30.142
+Over and over, we use the exact same blueprint, the same hormones, the same kinases, the same receptors, the same everything. We're built out of the exact same stuff as all these other species out there. And then we go and use it in a completely novel way. And usually in terms of being able to abstract stuff over space and time and dramatic ways,
+
+34:30.594 --> 34:55.870
+So, okay, you're a low-ranking baboon and you can feel badly because you just like killed a rabbit and you're about to eat and some high-ranking guy boots you off and takes it away from you. And you feel crummy and it's stressful and you're unhappy. We are doing the exact same things with like our brain and bodies when we're losing a sense of self-esteem, but we can do it.
+
+34:56.034 --> 35:20.670
+watching a movie character on the screen and feeling inadequate compared to like how wonderful or attractive they are. We can do it by somebody driving past us in an expensive car and we don't even see their face and you can feel belittled by your own socioeconomic status. You can watch like the lifestyles of the rich and famous or read about what
+
+35:21.026 --> 35:37.566
+Dezos is up to and for some reason decide your life is less fulfilling because you didn't fly into space for 11 minutes. And so you can feel miserable about yourself in ways that no other organism can simply because it's
+
+35:38.050 --> 36:06.686
+We can have our meaningful social networks include like the party you're reading about on Facebook that you weren't invited to because it's taking place in Singapore and you don't know any of those people. But nonetheless, somehow that could be a means for you to feel less content with who you've turned out to be. Very grateful to you for this conversation today. I learned a ton. Every time you speak, I learn. And for me, it's really been a pleasure and a delight to interact with you.
+
+36:07.042 --> 36:30.494
+today and over the previous years, I should say, as colleagues. And thank you again, Robert, for everything that you do and all the hard, hard work and thinking that you put into your work, because it's clear that you put a lot of hard work and thinking and we all benefit as a consequence. Thanks. And thanks for having me. This was a blast.

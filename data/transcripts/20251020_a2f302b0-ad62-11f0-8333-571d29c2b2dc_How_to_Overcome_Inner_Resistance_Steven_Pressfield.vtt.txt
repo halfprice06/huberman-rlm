@@ -1,0 +1,925 @@
+WEBVTT
+
+00:00.130 --> 00:27.198
+For years when I was struggling and could never get it together, I realized that at one point that I was just thinking like an amateur and that if I could flip a switch in my mind and think like a professional, that I could overcome some of the things. A professional shows up every day. A professional stays on the job all day or the equivalent of all day. A professional, as I said this before, does not take success away
+
+00:27.298 --> 00:57.278
+or failure personally. An amateur will, right? An amateur gets a bad review, bad response of this, and they just crap out. I don't want to do this anymore. A professional plays hurt. Like if Kobe Bryant, Michael Jordan, you know, if they've tweaked the hamstring, they're out there, you know. They'll die before they'll be taken off the court. Whereas an amateur, when he or she confronts adversity, will fold. Oh, it's too cold out, you know. I've got a, you know, I've got the flu.
+
+00:57.378 --> 01:21.534
+That kind of thing. An amateur worries about how they feel. Like, oh, I don't feel like getting out of bed this morning. I don't feel like really doing my work today. A professional doesn't care how they feel. They do it. So an amateur has amateur habits, and a professional has professional habits. Welcome to the Huberman Lab podcast, where we discuss science and science-based tools for everyday life.
+
+01:24.706 --> 01:52.254
+I'm Andrew Huberman, and I'm a professor of neurobiology and ophthalmology at Stanford School of Medicine. My guest today is Steven Pressfield. Steven Pressfield is an author of numerous historical fiction and nonfiction books, including the now iconic War of Art and also the book Do the Work, which both focus on understanding the forces in our minds that barrier us from being our most focused, creative, and productive selves, and more importantly, how to overcome those barriers.
+
+01:52.354 --> 02:19.998
+Perhaps it's because Stephen worked hard physical labor jobs and was in the military prior to becoming a book author and screenwriter. Or perhaps it's because he published his first book at age 52 that Stephen really understands how to persevere and overcome inner doubt and procrastination and turn creative blocks into important creative works. As you'll hear during today's episode, Stephen doesn't talk in inspirational slogans or metaphors. So none of this get after it or, you know, you just have to do the work.
+
+02:20.098 --> 02:29.918
+Instead, he gets very concrete about how to structure your day, how to frame your goals and your setbacks, and even how to make your creative environment more conducive to focus and effort.
+
+02:30.082 --> 03:00.048
+We also talk about how to capture your best ideas, which by the way, often occur away from the work that you're actually trying to do and how to implement them. So if you have an idea or you're searching for an idea for a creative project to share with the world, this conversation will be immensely useful to you. It will also be extremely useful to anyone who suffers from procrastination and self doubt, which frankly I think is all of us at some point or another. I read Steven's book, The War of Art some years ago, and I loved it. It transformed the way that I did my science, how I approached the podcast and many,
+
+03:00.048 --> 03:20.446
+other aspects of life. You'll also notice that at 82 years old, Stephen is incredibly sharp and fit. So we talk about his physical regimen and the important role that it plays in keeping his mind active, productive, and overcoming resistance. Stephen is not only very accomplished, he is also truly wise and generous. And today he shares a wealth of practical wisdom with us.
+
+03:20.642 --> 03:41.406
+Before we begin, I'd like to emphasize that this podcast is separate from my teaching and research roles at Stanford. It is, however, part of my desire and effort to bring zero cost to consumer information about science and science-related tools to the general public. In keeping with that theme, today's episode does include sponsors. And now for my discussion with Steven Pressfield. Steven Pressfield, welcome.
+
+03:41.634 --> 04:06.718
+Andrew, it's a pleasure to be here. We're former neighbors, you know, so we've been talking about this for a while. It's great to be here. Yeah, I've been wanting to do this for a while. I've been reading your books for, goodness, a couple of decades now or more. First, War of Art. Then I started through the library. You've written a lot of books, nonfiction and fiction. It's been super impactful to me and many other people.
+
+04:07.394 --> 04:35.326
+I think everybody deals with procrastination. You'll tell us about resistance. But there's a quote out there. They claim is you. I'm going to assume it's you. I'm laughing already. And I recommend accepting that it's you, even if it's not, because it's a beautiful quote. If it's a good quote, I'll take credit for it. It's great. And I'd like your reflections on it and what you intended when you said it, which is, quote,
+
+04:35.650 --> 05:02.686
+The more important to your soul's growth, the stronger the resistance will be, which for me was very counterintuitive. We all imagine the creative process as one of, you know, being inspired. Oh, this is my soul's work and having a ton of motivation to get the work done, a ton of desire and drive. But the more important to your soul's growth, the stronger your resistance will be.
+
+05:03.330 --> 05:21.278
+Interesting. That's absolutely true. And what I meant by that was that when we conceive an idea for something we want to do, a movie we want to make or a book we want to make, it's not like at all like what the fantasy was of, oh, I'm really charged up. It's going to be great.
+
+05:21.378 --> 05:42.046
+What happens is waves of what I call resistance with a capital R start coming off that keyboard or whatever it is to try to stop us from doing it, make us procrastinate, make us go to the beach, make us give in to distractions, so on and so forth. But the weird principle is...
+
+05:42.306 --> 05:59.518
+And this is why I always say, if you want to know which one of three or four projects that you should do, you should do the one you're most afraid of. Because that fear is a form of resistance with a capital R. And the more important a project is to your soul's evolution...
+
+06:00.066 --> 06:29.502
+not to your commercial success, but to your own evolution as an artist, the more resistance you will feel to it. So in other words, the thing that you really should be doing is going to be the hardest and is going to punch you in the face the hardest, which is why so many artists have such a hardcore professional attitude because they have to have it to be able to kind of stand up to that resistance that's trying to push them away from doing their project, whatever it is.
+
+06:29.858 --> 06:53.022
+The more important to your soul's evolution, the more resistance you're going to experience. But that's the project you should be doing. Yeah. Here's an analogy that I use sometimes, Andrew, and you may have heard me say this before. I think about if you can imagine a tree in the middle of a sunny meadow. As soon as the tree appears, a shadow appears.
+
+06:53.282 --> 07:23.262
+It's going to appear. And the shadow is going to be the tree is your dream, whatever it is, right? A book, a movie, whatever. And the shadow is the resistance you're going to feel. And they're directly proportionate to each other. The bigger the tree, the bigger the shadow. So when you feel that shadow, you feel that massive reason. Oh, I want to quit. I don't want to. I'm not good enough to do this, et cetera, et cetera. That's a good sign. And then it says that the tree, your dream is really big and it's
+
+07:23.522 --> 07:47.262
+And so you got to do it. That's not the, you don't want to take a little tree. You want to take the big tree. You have military training and background. You were a Marine, correct? Yeah. I was a reservist Marine infantryman. How much does your training as a Marine impact this concept of resistance and your suggestions for people and your ability to
+
+07:47.426 --> 08:16.638
+push through resistance? A tremendous amount. I think when I was going through boot camp and infantry training and stuff like that, I hated it. And I thought, I just can't wait till I get out of this and just be a regular civilian again. But as I've grown and lived through the artist's life of writing, being in a room with your own demons for two or three years at a time, I've learned that the virtues that you learn in the military
+
+08:16.866 --> 08:43.454
+are the same virtues that you have to call upon to live that war of art, the war inside your head. You know, the virtues of stubbornness, of the willing embracing of adversity, of patience, of selflessness, of courage, because it's about fear. And so, yeah, it's influenced me tremendously. And I found sort of to my amazement...
+
+08:43.586 --> 09:08.958
+as I started writing fiction, that I was drawn to themes of war, even though I've never actually been in a war. But it's the inner war that interests me, the metaphor of war. So yeah, a lot. It meant a lot. Do you think the physical training that you took part in when you were in the Marines has impacted, A, your current physical regimen,
+
+09:09.538 --> 09:34.974
+By the way, everybody, Stephen is 82 years old. I see him at the gym. He's there every morning very early. What time do you get there? I get there at quarter to five. Quarter to five a.m., which is why I see him from time to time because I'm not there at quarter to five. You're coming in. I'm going home. Yeah, and I sometimes train there and elsewhere, but you are very consistent. You train very early. So clearly you're in great place.
+
+09:35.330 --> 10:02.750
+physical and mental shape, it's awesome to see. You are, you know, with all the discussion about longevity, you are living proof. So I am curious about your physical regimen and the extent to which your physical regimen impacts your ability to lean into and against resistance to do your creative work at the keyboard or with pen and paper. That's a great question. Going to the gym early, first thing for me is a rehearsal.
+
+10:03.010 --> 10:31.710
+for when I get home and I go sit at the keyboard and I actually have to face the resistance of working that day, right? So to me, the gym is about something that I don't want to do. I hate to get up that early in the morning and get there. It's something that is going to hurt, right? We all know about that. And it's something that I'm afraid of because, as you know, there are all kinds of ways you can hurt yourself and embarrass yourself and so on and so forth. But having done that,
+
+10:31.906 --> 11:01.310
+that in the morning. So it's from, I've got like, I think we have a mutual friend in Randy Wallace, right? Do we have? Yeah. Randy has this thing, Randall Wallace, who wrote Braveheart and his secretary directed that and many others. He has a thing in the morning that he calls little successes. And what he's trying to do to build momentum for when he's actually going to sit down and write is, you know, achieve something that he can say, okay, I did something good here. And then I did, you know, so going to the gym for me,
+
+11:01.410 --> 11:22.942
+is that. It's not so much about the physical aspect of it. It's the rehearsal for kind of facing like it. So I feel like when I finish at the gym, nothing I'm going to do for the rest of the day is going to be as hard as what I already did. So, you know, there we go. The waves are greased and I can go forward. That's the theory anyway.
+
+11:23.074 --> 11:48.926
+So when you wake up in the morning, you're not looking forward to working out. Fuck no. I mean, can we say that here? Sure, yeah, absolutely. Absolutely not. It's a drag. I hate to go. You prefer to stay in bed? Absolutely. I wish I could stay in bed. But on the days I do stay in bed, Sunday, I don't feel so good about myself. I wish I had gone to the gym. I mean, you must feel the same way, Andrew, about whatever you do and being an old skateboarder and
+
+11:49.026 --> 12:16.574
+you know, a fitness guy your whole life. How does it fit in with your regimen? Well, the problem for me is that I love working out. Oh, you do? Wow. I do, and I always have. I have noticed in the last maybe two, three years that occasionally I have to push myself a little bit more. But I loathe rest days, but they are important. You know, I do believe in taking one full day off per week, letting my body recover. Uh-huh.
+
+12:16.930 --> 12:45.182
+But that's the problem is I really enjoy working out. And so by the time I'm done working out and then I shower up and I eat and I'm sitting down to do some work, I'm like, oh, now comes the really hard workout. But I noticed that I learned things during those workouts, provided that I don't have my phone with me. I might listen to music on my phone, sometimes a podcast or an audio book, but I don't.
+
+12:45.442 --> 13:08.606
+do my very best not to be on social media or text during those workouts. Because during those workouts, something always comes to mind that I find useful for elsewhere in life. And it usually pops up during a rest period between sets. You know, I think exercise takes our brain and body into these unfamiliar states. And I think that our unconscious mind geysers stuff up and...
+
+13:08.866 --> 13:27.358
+I think it was the great Joe Strummer of The Clash that said, you know, when you have a thought that feels important, write it down because you think it will be there later. But certain thoughts and ideas are offered up and they don't last, at least not in that form. You need to catch them.
+
+13:27.490 --> 13:57.456
+And so I have a mode of catch usually in notes. Do you have a capture method for ideas, whether or not you get them during workouts or the middle of the night? I don't have during workouts. I don't seem to get ideas during workouts, but I completely agree with that, that, you know, those ideas that come like in the shower or when you're on the subway or when you're driving along the freeway, your mind is occupied in something else, right? Your ego is involved and somehow it opens the pipeline and things burble up and you always think, oh, I'll remember that. But you forget it's like a dream, you know?
+
+13:57.456 --> 14:10.398
+You know, they just go away. So, yeah, I mean, I'll just dictate it into my phone. I mean, my phone now is, you know, full of stuff that I've got to transcribe. But I couldn't agree more with that. Yeah, there's something about the way they're...
+
+14:10.786 --> 14:40.752
+our unconscious mind, I feel like it kind of tosses things up for the conscious mind to catch. And in those moments, just like in a dream, we think, oh, I'll remember this later. Yeah, yeah. And we don't. It's amazing how they go away. They just, it's evanescent, you know. Evanescence. Yeah. It's a beautiful word and it captures it perfectly. See, I'm a different believer. I don't believe it's really coming from the subconscious. I'm a believer in the goddess. I'm a believer in the muse. I think it's coming from someplace else, you know, and that they're playing with us a little bit, you know,
+
+14:40.752 --> 14:59.870
+Like I know Steven Spielberg says when an idea comes, he says it whispers rather than shouting, which is his way, I think, of saying, you know, it just it's a very subtle thing that goes away very fast, you know, and you've got to grab it while it's there. I'd like to take a quick break and acknowledge our sponsor, Helix Sleep.
+
+15:00.066 --> 15:30.032
+Helix Sleep makes mattresses and pillows that are customized to your unique sleep needs. Now, I've spoken many times before on the Huberman Lab podcast and elsewhere about the fact that getting a great night's sleep is the foundation of mental health, physical health, and performance. Now, the mattress you sleep on makes a huge difference in terms of the quality of sleep that you get each night. How soft it is, how firm it is, how breathable it is, the temperature, all play into your comfort and needs to be tailored to your unique sleep needs. If you go to the Helix website, you'll take a brief two-minute quiz, and it will ask you questions such
+
+15:30.032 --> 15:58.622
+Do you tend to sleep on your back, your side of your stomach? Maybe you don't know, but it will also ask you, do you tend to run hot or cold during the night or the early part of the night, et cetera, things of that sort. Maybe you know the answers to those questions. Maybe you don't, but either way, Helix will match you to the ideal mattress for you. For me, that turned out to be the Dusk mattress, D-U-S-K. I started sleeping on the Dusk mattress about three and a half years ago, and it's been far and away the best sleep that I've ever had. It's absolutely clear to me that having a mattress that's right for you
+
+15:58.786 --> 16:27.166
+Does improve one's sleep. If you'd like to try Helix, you can go to helixsleep.com slash Huberman. Take that two minute sleep quiz and Helix will match you to a mattress that is customized for your unique sleep needs. Right now, Helix is giving up to 20% off all mattress orders. Again, that's helixsleep.com slash Huberman to get up to 20% off. Today's episode is also brought to us by BetterHelp. BetterHelp offers professional therapy with a licensed therapist carried out entirely online.
+
+16:27.362 --> 16:48.062
+I've been doing weekly therapy for well over 30 years, and I've found it to be an extremely important component to my overall health. There are essentially three things that great therapy provides. First of all, it provides a good rapport with somebody that you can trust and discuss issues with. Second of all, great therapy provides support in the form of emotional support or directed guidance with practical issues in your life.
+
+16:48.226 --> 17:18.192
+And third, expert therapy can provide useful insights, insights that can allow you to make changes to improve your life, not just your emotional life and your relationship life, but also your professional life. With BetterHelp, they make it very easy to find an expert therapist who can help provide the benefits that come through effective therapy. And it's carried out entirely online, so it's extremely convenient. No driving to the therapist's office, no looking for parking, et cetera. If you would like to try BetterHelp, go to betterhelp.com slash Huberman to get 10% off your first month. Again, that's
+
+17:18.192 --> 17:48.062
+Betterhelp.com slash Huberman. Tell me more about this from the goddess or the gods or the muse, you know, from outside us or from God. Well, you know, if you go back to the ancient Greeks, right? Every, the Iliad or the Odyssey or any of those other great works always start with an invocation of the muse, right? Homer writes, you know, goddess, you know, tell the story, you know, and basically,
+
+17:48.290 --> 18:15.646
+the artist is stepping or taking his ego out of the picture and saying, I'm not the one that's going to tell you this story about ancient Troy. The goddess will tell through me. So they're sort of asking, you know, help me, show me, you know, that kind of thing. And I had a mentor, you know, Rob, we were talking about that earlier, a guy named Paul Rink. He's like, can I get into the weeds on this thing, Andrew? Please. And...
+
+18:16.514 --> 18:44.510
+He sort of introduced me to this concept. This was like the first time I tried to write a book. I was like 27 or something like that. Well, I had actually tried and failed before, but it was the first time I ever finished one. And I used to have breakfast every morning. This was in Carmel Valley, not so far from where you grew up. And with my friend Paul Rink, who was maybe 30 years older than me. He was an established writer. He knew John Steinbeck, knew Henry Miller from Big Sur.
+
+18:44.642 --> 19:13.758
+And he told me about the muses, the Greek goddesses, the nine sisters, whose job it was to inspire artists, right? The classic image of the muse is Beethoven at the piano and a kind of a shadowy female figure is kind of whispering in his ear, you know, bringing him da-da-da-dum, right? And so he wrote out for me, my friend Paul, the invocation of the muse from, he typed it out on his Remington page,
+
+19:13.890 --> 19:42.750
+manual typewriter, the invocation of the muse from the Odyssey, from Homer's Odyssey, translation by T.E. Lawrence. And I've kept that. It burned up in the fire, lost it in the fire. But I've kept that for like 50 years. And every morning before I sit down to work, I say that prayer, you know, out loud and in full earnest, you know, goddess, help me. And I'm absolutely a believer that,
+
+19:43.170 --> 20:10.750
+That ideas come from another place, and it's our job, and I don't think it's the subconscious. It's our job to open the pipeline and get out of the way. I love it, and I'm totally open to the idea that it's not the unconscious mind or the subconscious, whatever people want to call it. I'm sad to hear that this write-up,
+
+20:11.170 --> 20:39.934
+of Invocation of the Muse burned. We should probably just mention that we used to be neighbors. Yeah. Your home burned in the fires, sadly. The home that I lived in, it was not my home. I was renting it, also burned in the fires. So my guess is that at some point during today's conversation, we'll talk about loss of objects and items. But it sounds like this one was pretty precious. Yeah, it was a sad thing to lose that, you know. But, you know, it's in my head, you know. How long is it?
+
+20:40.546 --> 21:10.270
+It was on one page, double-spaced. I would say to recite it takes maybe 90 seconds. Do you have any interest or desire in calling it up now or a portion of it? I'll call up just the opening of it because the middle part is Homer sort of describing the whole story of the Odyssey. But it starts like this. It goes, Oh, divine poesy, goddess, daughter of Zeus...
+
+21:10.370 --> 21:36.062
+sustain for me this song of the various-minded man, meaning Odysseus. And then he kind of goes on to talk about da-da-da-da. And at the end it says, make this tale live for us in all its many bearings, O Muse. Which I think is a great, you know, make it live, make it come alive in all its many bearings. And so, you know, that's a...
+
+21:36.354 --> 22:05.918
+Thanks to my friend Paul. That's been a thing that's been with me for 40 years. I love it. Well, we'll provide a link to the full script. It's in The War of Art, actually. I wrote this out in The War of Art. I think it's on page 114 or 115. Yeah, and if anyone hasn't read War of Art, it's an absolute must-read. I've read it many times. It's an audiobook form, hard copy form. It is awesome. It is just awesome. So when you sit down to write,
+
+22:06.914 --> 22:36.382
+after you've recited this, how many times in the first 10 minutes do you think your mind flits to something else? I mean, you're now a pro. Like, you've written many books, and you know what is noise, and you know what is signal, and you know if you really need to go to the bathroom or if you don't. Well, these are the things that pop up, right? As you pull it out. Resistance comes in, oh, you need another glass of water, or I'm not caffeinated enough, or there's not enough sunlight coming through my window, whatever, right? Yeah.
+
+22:36.834 --> 23:02.270
+How many times in the first 10 minutes on a typical day, just give us an average, do you think your mind flits to, man, like I wonder what's going on in the news? That's a great question. You know, like what's going on in the world? I mean, how many times? One, two, never. Never. Now, that's not to say when I first started many, many moons ago that I didn't have a lot of that sort of stuff. But I have, I don't know whether just over the years,
+
+23:02.370 --> 23:27.774
+I'm absolutely a believer in, you know, like diving straight into the pool. You know, I don't sit there for one second, you know, wondering what I'm going to do. I just plunge right in. And, you know, thank goodness somehow I've learned how to do it. And I just focus full tilt on it. So, yeah, I don't have those thoughts at all. How long do you write in that first bout? Maybe an hour. Mm-hmm.
+
+23:27.906 --> 23:57.872
+And then I'll take a little bit of a break. I love to do laundry. That's my big thing. I'll put in the laundry at the start, and the load will be done. Then I can put it into the dryer. I take a little break, and then I come back and start again for another hour. You enjoy it, or you enjoy clean laundry, or both? I enjoy the ritual of it and the craziness of it. Not me, not one bit. The only thing I enjoy about doing laundry is clearing the lint trap. There's something very satisfying about that. That's what I hate. I don't want to do that at all. Interesting. All right.
+
+23:57.872 --> 24:24.894
+Well, we're not considering, but we'd make good roommates. Interesting. So for an hour, you're locked in and you're just typing, wait, how often does your inner critic pop up nowadays versus at the beginning? Meaning the, I don't know if this is going the right direction. I've heard before that you're just supposed to create and then edit later. What's your process there? It almost never comes up, the inner critic. Again, it used to.
+
+24:25.346 --> 24:54.782
+You know, used to all the time. It was a terrible struggle I had for years. You know, you sit down and you think, well, is Hemingway, would Hemingway write this sentence? You know, right? Or, you know, what will the New York Times think when I write, you know? But eventually over time you learn you just can't deal with that bullshit. You know, it drives you insane. You know, so no, I don't let that inner critic come in. You know, and I'm definitely a believer. At the end of the day, I never read what I wrote.
+
+24:55.010 --> 25:18.046
+and I never looked back on it the next day. I believe in multiple drafts. Somebody taught me this one time, that think in multiple drafts. This was Jack Epps, the original writer of Top Gun. I was working for him on a movie project, and he said, always think in multiple drafts. And
+
+25:18.338 --> 25:42.206
+And you can only fix so much in one draft. You can only fix one thing in one draft. So I usually will think of, and I start a book, maybe 13, 14, 15 drafts. The last seven or eight will be really small, you know, really slight changes. But I won't look back on the day's work. So I figure on the next draft, then I'll...
+
+25:42.306 --> 26:04.702
+Then I'll read it fresh and it'll look a million times much more clear sense. Is this any good? Because if you do it when it's too fresh, you start to drive yourself crazy. You start to, you know, perfectionism, another form of resistance comes in. So, yeah, that's my process. I know a lot of other people don't do it that way, but that's the way I do it. I never – when the day is done –
+
+26:04.802 --> 26:33.982
+The bell rings, the office is closed, that's it. I turn off my mind and just let the muse take care of it overnight, and I try not to worry about it at all. All I ask myself, I know I'm getting into the weeds here really, Andrew. No, it's very important that you get into the weeds because I think you've offered many times through books and other podcasts the contour and a lot of depth, but I think the more detail the better because everyone will do it slightly differently, but...
+
+26:34.274 --> 26:56.190
+I think it's very important. We rarely hear what people's real process is. So please don't edit yourself here. At the end of a day's session, all I ask myself is, did I put in the time and did I work as hard as I can? Quality will take care of itself later. The next draft, the next draft after that. But I'd never judge it.
+
+26:56.322 --> 27:25.566
+you know, and it took a long, long time to get to that place to learn that, you know, because I would drive myself insane for years and years judging along the way. How long is the total writing session, depending on how much laundry you have to do? Great questions. I used to be able to write for four hours. Now I can only write for about two. What I tell myself, and I think it's true, is that I can do in two hours now what I used to do in four. But I stop when I start making mistakes, when I start
+
+27:26.114 --> 27:49.246
+having typos and things like that, then it's kind of like a workout at the gym. You know, when you've reached the end, you know, I'm just going to hurt myself if I do another set, you know, the point of diminishing returns. So when I get tired, I stop and I don't question it at all. I don't say, I don't make myself feel bad about, oh, you can get another 10 minutes. Like Steinbeck used to say that, um,
+
+27:50.242 --> 27:57.054
+Pressing forward at the end of a long day to get just a little bit more is the falsest kind of economy.
+
+27:57.634 --> 28:26.206
+because you pay for it the next day. And Hemingway used to say he always stopped when he knew what was coming next in the story, which I also believe in that too, because that'll help you in that hairy first moment when you're sitting down, because at least you know, oh, OK, this is what's going to happen. Ah, so you leave sort of an ellipse in your mind. So the next morning, you know exactly where to pick up, and the entry point is a little easier. Yeah, exactly. The analogy to working out is a great one.
+
+28:27.106 --> 28:53.694
+years ago when I started resistance training, I learned from Mike Menser. I don't know if you ever overlapped with Mike at Gold's. No. He died some years ago. Let's just interrupt for a second. They call it resistance training, which is exactly what we were talking about for art. Yeah. But please continue. Yeah. Excellent point. No, please. You know, there are a lot of theories out there about resistance training and how best to get muscles to grow and to get stronger, et cetera. At one extreme is, you know, you warm up and then you do one set
+
+28:53.794 --> 29:18.910
+to absolute failure, maybe a second set you push through. That's kind of the menser, high intensity thing. At the other extreme is it's volume, just lots and lots and lots of sets. There's been debate about this endlessly and it has to do with all sorts of factors. But the literature is now coming to a place where it's pretty clear that after warming up, the first one or two sets that you do are really the most valuable of a given exercise. I didn't know that. Almost certainly you need more than one set.
+
+29:19.010 --> 29:47.902
+overall, you certainly do, but that it's really the intensity that you bring. But here's the point that is strongly analogous to what you're talking about. When you say you used to be able to write for four hours a day, now you do two and you tell yourself that you accomplish the same amount in those two. That's almost certainly true based on what we understand about neuroscience and believe it or not, resistance training in the gym. And the argument is that as you resistance train or write or
+
+29:48.066 --> 30:15.966
+play volleyball, or do any activity, you develop a better ability to recruit your nervous system to do the necessary work. You said you didn't, you used to be able to just sit down and focus for an hour with minimal interruption in your mind. Now you can, you learned that. The more intensity that we can bring to something, the more focus we can bring to something, the more taxing it is. Like if I do one set
+
+30:16.098 --> 30:39.422
+In the gym, with total concentration to absolute failure, which is very difficult to do when you first start training. You barely know how to do the movement, right? You're still learning. Your nervous system is still learning. You can't inflict the same stimulus with one set that you can later after you're practiced. Makes a lot of sense. And so there's this counterintuitive thing that people in the high performance field do.
+
+30:39.522 --> 31:05.950
+are really starting to adopt, and I talk to people in a bunch of different high-performance fields, not just exercise and creative works, that the better you get at something, the shorter your real work bouts should be, and the more intense they should be. It's almost like a knife that's getting sharper and sharper. You can cut deeper and deeper. Whereas at the beginning, we have sort of a dull blade, and we have to route over the same path. So I think this is a nervous system
+
+31:06.114 --> 31:34.782
+feature. And that's why it transcends physical and mental, creative and other types of works. Because if you talk to great musicians, they're not practicing 11 hours a day anymore. They're practicing for three or four extremely focused hours, sometimes divided up by naps and meals. So in any case, so you put in your two very focused hours with some laundry in between. Yeah. And then
+
+31:35.266 --> 32:02.622
+You rack it, you hang it up, and you don't look at it. Are you thinking about it throughout the day? No. But like we were talking about, if an idea comes to me, then I grab my phone and I dictate that. And let me say one thing here for anybody that's listening to this and would want to be writers, aspiring writers. So I'm a full-time writer. I don't have another job. I don't have to do anything. But yet, I can only get...
+
+32:03.266 --> 32:31.934
+Two hours at a time, basically in a day. So if you guys have a full-time job and kids and a family and a wife and a spouse, whatever, if you can squeeze out a couple of hours a day, you're on the same level with me, same level with a full-time writer, so that it is possible to have a full-time job and still do your artistic thing to a full tilt version. Excellent point.
+
+32:32.130 --> 33:01.214
+How important do you think it is for you to start that writing session at more or less the same time each day? You're not saying two hours in the morning or two hours in the evening. Two hours in the morning or hour in the morning, hour in the afternoon. It sounds like it's very regimented. It is. I think it's really important. And when life was more predictable for me, I would always do it. But like since the fires and other things like that, um,
+
+33:01.442 --> 33:28.606
+Sometimes I have to shift time frames around and be ready to do that. I have a good friend, Jack Carr, the thriller writer who did The Terminal List. And he's a master of writing in airplanes and writing at Starbucks because he's always traveling and doing all kinds of stuff. And just finding the time. God bless him. I don't know how he does it.
+
+33:28.706 --> 33:51.390
+And he is incredibly productive. I don't know if I could do that. Maybe I will shift from writing from 11 to 1 to writing from 1 to 3, but that's about the most variance I can put into it. Do you have your phone in the room when you write, and is the Internet open?
+
+33:51.522 --> 34:20.638
+engaged on your computer? Not at all. You know, no. Both of those. I mean, my phone is there maybe to dictate a note or something like that. But otherwise, no, I don't, you know, absolutely not. And, and yeah, I can't even imagine that. Music? No, no music. No. Just the sound of your own breathing. Yeah, yeah. What's that? Because you're in your own head, right? You're in that universe, you know? This is what I find so odd about writing is you're in your head and
+
+34:21.634 --> 34:50.846
+It's your voice in your head, but you're in a conversation with the potential audience. What is the actual dialogue? Are you thinking? This gets a little philosophical, but at the end of the day, it's very concrete. Are you thinking about a conversation with the audience, or are you just translating thoughts into words and the audience doesn't exist yet? I'm very aware of the reader in the sense of...
+
+34:51.585 --> 35:11.774
+Let's say it's a scene that I'm writing and I know certain things have to happen in this scene. Character A has to do something, character B, da-da-da-da. And so I'm trying to put that down, but I'm thinking, is the reader understanding? Have I got this in the right order?
+
+35:11.970 --> 35:34.238
+for them? You know, am I, am I boring them? Is it, did I, did I say that, you know, two pages ago and now I'm repeating myself. So I'm, but I'm not having a conversation. I'm just trying to, to make it as, as easy and as interesting and as fun as I can for the, for the reader. And, and always trying to make sure that
+
+35:34.498 --> 36:01.854
+I'm leading them. I'm seducing them. I'm trying to reel them in, you know, and not bore them, you know. By the end of this chapter or scene, I want the reader to be thinking, oh, I can't wait to turn the page and see what happens next. Growing up, were you a storyteller among your friends? No, I never even thought about it as a kid. Like you didn't, hanging out with friends, you wouldn't tell a story about what had happened three days ago? No, I mean, just like anybody else would. But no, I was never like a...
+
+36:01.954 --> 36:29.118
+you know, a storyteller or anything. I was not a kid that wanted to be a writer and never thought about it at all. So you just kind of tripped and fell into all that? I mean, my first job was in advertising in New York City, right out of college. So it's like the Mad Men thing. Yeah, yeah. But I guess at the time I thought, oh, I'd love to write a commercial that people said, oh, that was great. It was so funny. I loved that thing. So that sort of...
+
+36:30.146 --> 36:50.846
+got me kind of a little bit started into the idea of storytelling. And then I had a boss, his name was Ed Hannibal, and he wrote a book kind of at home and it became a hit. You know, and it was called Chocolate Days Popsicle Weeks. And he quit to become like a novelist. And so I thought, well, shit.
+
+36:51.266 --> 37:19.198
+Why don't I do that? You know? So that was what sort of started me into it, you know, being completely naive and totally stupid, you know, and having no idea of what I was doing. That's wild. So I imagined you as like the kid who was always coming in and telling stories. No, not at all. And you were writing in the background. Advertising is pretty interesting, though, because it's the same process. You have to get into the mind of the audience. You have a story to tell. And you
+
+37:19.874 --> 37:45.406
+I guess with advertising, the goal is a purchase, and with writing, the idea is they buy into the next page. Yeah. Something like that. Yeah, yeah. Very similar in that sense, you know? Any ads that you recall particularly enjoying? No, I was terrible. I was never any good at it. I never made any money at it. I was never successful at all. But I met a lot of nice people, and I learned a lot of stuff in that, you know. You said that was in New York City? It was in New York City. Yeah.
+
+37:45.538 --> 38:12.254
+In fact, if I can hype one of my books, it's a small follow-up to The War of Art called Nobody Wants to Read Your Shit. And a lot of it is about what you learn in advertising because nobody wants to read your ads or listen to your commercials or anything like that. And so one thing you learn in that business is to make it so good –
+
+38:12.354 --> 38:41.566
+or so interesting, so intriguing that people will overcome their hatred of having to listen to your stupid Preparation H commercial. So that was, anyway, that was what got me started. But I was never a storyteller as a kid, no. I'd like to go back to the quote that we started with. The more important to your soul's growth, the stronger the resistance will be. I think many people will hear that, including myself,
+
+38:41.666 --> 39:10.494
+and we'll think, okay, what is my soul's growth? Where does it want to go? You know, I think when we hear the word soul and growth, particularly when it's about us, we think, like, there's going to be this big sign written on the heavens about what we're supposed to do, and we're going to feel compelled to do it. You're saying the opposite, that the thing that we need to do most sometimes is hidden from us. The muse, perhaps, can reveal that, and it's through the act of writing that
+
+39:10.626 --> 39:39.486
+without knowing what the work even is that sometimes we arrive there. So for people that don't have a crystallized idea yet and they want to explore their creative sense, they might want to do it through writing, they might want to do it through pottery, they might want to do it through music, they might want to do it through making movies, any number of things. What's the translation from the thing you need most is the thing you're resisting most to actually getting
+
+39:39.746 --> 39:52.382
+getting into the process of evolving that thing out of us. It sounds like an extrusion process. Like you're trying to like push semi-solid concrete through a filter. But I want to know what the filter is.
+
+39:52.898 --> 40:14.974
+I mean, I know that young people today, there's a tremendous amount of pressure on people to find their passion, you know, and follow their passion and so on and so forth. And I know for me, I would, as a young person, I would go, what the fuck is that? I don't know what it is that I want to do, you know. I'm lost. I'm just, you know, struggling. But I do think that we are all born together.
+
+40:15.394 --> 40:44.670
+with some sort of a, at least one, a kind of a calling of some kind. And it may not be the arts, you know, it may be helping other people through some kind of a nonprofit or something, or like what you're doing, Andrew, you know, where you're bringing neuroscience and the scientific, you know, to personal development and so on and so forth. I think we do all have some sort of calling. And like, we know it.
+
+40:46.082 --> 41:12.094
+Like if we could somehow put somebody in here and say, I'll give you three seconds, tell me what you should be supposed to be doing, it will pop into somebody's head. They'll go, oh, I know I've always wanted to be a motorcycle, whatever. But then that sort of whisper urge to do this thing is immediately countered by this force of resistance.
+
+41:12.194 --> 41:30.174
+because it's trying to stop us. It's the devil. It's trying to stop us from being our true selves and becoming self-realized, self-actualized, or whatever. So resistance will immediately say to us, like if you were to say, oh, I want to have a podcast and I want to talk about science, da-da-da-da, immediately resistance would say,
+
+41:30.370 --> 41:51.422
+Who are you, Andrew, to do this thing? I mean, you're a professor at Stanford. We don't have any experience doing this. Not to mention it's been done a million times by other people. They've done it a thousand times better than you. Nobody's going to give a shit. You're going to put this out or you're going to embarrass yourself. You had a certain level of prestige at Stanford. Now you're an idiot. It's going to be that voice, right? Some people actually said...
+
+41:51.938 --> 42:19.230
+Stanford's not going to like it. Why would you do this? You're tenured at Stanford. What are you doing? You're funded. Your lab's publishing well. One of those people was my father, who's also a scientist. My process of pushing back on that. I rest my case. Yeah. And the true part here, the really kind of interesting part, is a lot of times those voices will be the voices closest to us, our spouse, our father, you know, because...
+
+42:19.458 --> 42:48.030
+Well, I can get into that. I'll get into that if we want to continue. But in any event, so that voice of resistance will come up. In addition, resistance will try to distract us. It'll try to make us procrastinate. It'll try to make us yield to perfectionism where we noodle over one sentence for three days. Or fear, all of the other things will stop us. So many people live their entire lives and never enact their real calling.
+
+42:48.194 --> 43:15.294
+You know, but we were talking about the more important to the growth of your soul. That was what we started with this, right? So that calling, whatever it is, to be a writer, a filmmaker, whatever it is, if we don't do that in our life, that energy doesn't go away. It becomes, it goes into a more malignant channel.
+
+43:15.810 --> 43:42.302
+Right? And it shows itself in maybe an addiction, alcoholism, cruelty to others, abuse of others, abuse of ourselves, porn, you name it, any of the sort of vices that people have. Because that original creative, divine energy that really wants to be the Odyssey or something like that, if we...
+
+43:43.554 --> 44:08.542
+yield to our own resistance and don't evolve that, then bad things happen. On the other hand, if we do follow that, we kind of open ourselves up to, you know, to becoming who we really are. And, you know, a lot of people in the podcasting and the human development or whatever they call it, personal development world, they sort of
+
+44:08.674 --> 44:35.838
+like some sort of nirvana is going to happen if you do X, Y, Z. But what I'm promising is a fuck of a lot of hard work that's probably never going to be rewarded, but you'll be on the track that your soul was meant to be on. And God bless you. You can't ask for any more than that. And sometimes it works out at spectacular levels of,
+
+44:35.938 --> 45:05.726
+whatever, income, fame, whatever it is that people think they might want, but that's not really the thing to chase. We'll talk about that. Yeah, we'll talk about that. So sometimes it's the lottery of life. Sometimes, yeah. Sometimes, but that absolutely should not be the thing that people are chasing. Yeah. Yeah, I only know my own experience, and I couldn't help but reflect a little bit on, you know, when I was deciding to do the podcast, and I did get some voices back, like, hey, like, maybe that's, you know,
+
+45:06.018 --> 45:33.790
+What are you doing? I, I, I had not clinically diagnosed with Tourette's or anything like that, but I felt at that point that I had a certain amount of knowledge in me based on 25 years of studying and research in neuroscience and related fields. And I felt like if I didn't let it out, I was going to explode. And so Rob, my producer and my, my bulldog Costello, and I went into a small,
+
+45:34.178 --> 46:03.646
+closet in Topanga, set up some cameras, and I exploded onto the camera. It just poured out. I think for the entire first year, we were doing almost all solos, hardly any guests, because it was pandemic, and we weren't quite sitting down with guests. Oh, I didn't know that. And I don't even remember thinking about the hundreds of hours of preparation. We did hundreds of hours of preparation for each episode, but the just... I just feel like it just kind of geysered out. So I think there's some benefit to having...
+
+46:03.746 --> 46:28.094
+something build up so much within us that it has to come out. And I can certainly relate to the dangers of suppressing something. And how old were you when you started that? 45 years old. 45, huh. Yeah, so I was kind of late to it. Now, I lectured in front of students and given seminars and lectured in front of donors, which is in some way similar to the podcast in the sense that you're
+
+46:28.514 --> 46:56.382
+teaching science often to non-scientists or diverse fields. But for me, it was just inside, I couldn't help it. My only answer was I couldn't help it. And to his credit, by the way, my dad has been immensely supportive of the podcast. He actually was on the podcast and gave us a chance to bond and learn about him. And he's a scientist, so I got to learn some physics. The audience got to learn some physics as well. But yeah, when you...
+
+46:56.898 --> 47:24.862
+take on something that people are not familiar with you doing, or they are projecting onto you the sense that they want you safe and secure. Because sometimes it's a real, it's a genuine feeling of support for somebody. A mother or father or siblings, like, hey, so you're going to give up your job as a lawyer to go write movie scripts? And you got three kids, and they're scared for you because they
+
+47:25.090 --> 47:46.110
+don't want to see you take your life off a cliff. Yeah. What's your response to that? I mean, there's validity to that, obviously. Yeah. But I think what happens is that each person is dealing with their own resistance, their own calling, their own that they know that
+
+47:46.210 --> 48:10.270
+that they really should be doing. And 99.999% of them are not doing it or are unconscious of it, right? It's sort of a niggling thing, but they don't know about it. So then when they see you, Andrew, starting your podcast, that's a reproach to them. And they say, well, if Andrew can do it, why can't I do it? And so then it becomes kind of malicious. And I don't think it's
+
+48:10.370 --> 48:37.982
+deliberately malicious a lot of times, but people will then try to undermine you and say, and under the guise of, we're only looking out for you, we don't want your children to be starving and in the street, they will try to undermine you and stop you from doing it and make fun of you or ridicule you. Like the filmmaker David O. Russell, I don't know if you know who I'm talking about. He did The Fighter with Mark Wahlberg. I love that movie. He did Silver Linings Playbook.
+
+48:38.082 --> 49:00.830
+you know, with Jennifer Lawrence and Bradley Cooper. I did not see that one, but I did see the fighter. And Joy, about the lady who invented the miracle mop, which was Jennifer Lawrence. And all of these stories are about sabotage by the people closest to you, particularly your family. Like in The Fighter, Mark Wahlberg is this big,
+
+49:00.930 --> 49:26.750
+boxer, right? And he's got seven sisters and he also has an older brother. And they're like, and his mom is his manager and she's like booking him fights where he's outweighed by 20 pounds and he gets massacred, you know? True story of Mickey Ward. Yeah. Right. And the story is, you know, he finally meets a girl who's like really supportive of him. But anyway, it's a real theme that the people closest to us will try to, they don't want us to
+
+49:26.978 --> 49:56.542
+They're happy the way, you know, we like you, Andrew, the way you are. You know, our son, we know he's working at Stanford. He's doing his thing. We don't want to see him. It may be unconscious. I'm not knocking your dad. We don't want to see him suddenly burst out of the cocoon and become a butterfly and wing away from us, you know. So they like you the way they are, you know, the way you are. We've known for a long time that there are things that we can do to improve our sleep. And that includes things that we can take, things like magnesium threonate,
+
+49:56.770 --> 50:23.806
+theanine, chamomile extract, and glycine, along with lesser known things like saffron and valerian root. These are all clinically supported ingredients that can help you fall asleep, stay asleep, and wake up feeling more refreshed. I'm excited to share that our longtime sponsor, AG1, just created a new product called AGZ, a nightly drink designed to help you get better sleep and have you wake up feeling super refreshed. Over the past few years, I've worked with the team at AG1 to help create this new AGZ formula.
+
+50:23.906 --> 50:53.150
+It has the best sleep supporting compounds in exactly the right ratios in one easy to drink mix. This removes all the complexity of trying to forge the vast landscape of supplements focused on sleep and figuring out the right dosages and which ones to take for you. AGZ is to my knowledge, the most comprehensive sleep supplement on the market. I take it 30 to 60 minutes before sleep. It's delicious by the way. And it dramatically increases both the quality and the depth of my sleep. I know that both from my subjective experience of my sleep and because I track my sleep.
+
+50:53.346 --> 51:17.982
+I'm excited for everyone to try this new AGZ formulation and to enjoy the benefits of better sleep. AGZ is available in chocolate, chocolate mint, and mixed berry flavors. And as I mentioned before, they're all extremely delicious. My favorite of the three has to be, I think, chocolate mint, but I really like them all. If you'd like to try AGZ, go to drinkagz.com slash Huberman to get a special offer. Again, that's drinkagz.com slash Huberman.
+
+51:18.306 --> 51:40.638
+Today's episode is also brought to us by Rora. Rora makes what I believe are the best water filters on the market. It's an unfortunate reality, but tap water often contains contaminants that negatively impact our health. In fact, a 2020 study by the Environmental Working Group estimated that more than 200 million Americans are exposed to PFAS chemicals, also known as forever chemicals, through drinking of tap water.
+
+51:40.770 --> 51:57.822
+These forever chemicals are linked to serious health issues, such as hormone disruption, gut microbiome disruption, fertility issues, and many other health problems. The Environmental Working Group has also shown that over 122 million Americans drink tap water with high levels of chemicals known to cause cancer.
+
+51:58.082 --> 52:28.048
+It's for all these reasons that I'm thrilled to have Rora as a sponsor of this podcast. I've been using the Rora countertop system for almost a year now. Rora's filtration technology removes harmful substances, including endocrine disruptors and disinfection byproducts, while preserving beneficial minerals like magnesium and calcium. It requires no installation or plumbing. It's built from medical grade stainless steel, and its sleek design fits beautifully on your countertop. In fact, I consider it a welcome addition to my kitchen. It looks great, and the water is delicious. If you'd like to try Rora,
+
+52:28.048 --> 52:57.854
+You can go to rora.com slash Huberman and get an exclusive discount. Again, that's Rora, R-O-R-R-A.com slash Huberman. We've had several clinical psychologists on the podcast and a resounding theme from them has been that it is astounding and yet consistent that people will remain in a not so great place that they understand and is predictable in exchange
+
+52:58.338 --> 53:27.614
+for what they could do, stepping into some new life, even getting over their anger about something. In fact, I was thinking throughout today's conversation, I couldn't help but think that perhaps the two most dangerous things to the creative process, to really doing the important work, are the many, many things that exist in the world now that basically sell us the opportunity for free to be angry,
+
+53:27.906 --> 53:56.638
+or to numb out. I mean, again, if people wanna drink a little bit, I'm not gonna disparage that. I've done an episode on alcohol. It's not good for you, but some people can have a couple of drinks or a week or whatever. Okay, not judging there, but things like alcohol, like certain forms of social media, and I say certain forms because I do think social media can be informative and educational in the right context and the right amount. Certain forms of media more generally, the news, right?
+
+53:57.090 --> 54:26.910
+any number of highly processed, highly palatable foods, which are not delicious, but they allow us to kind of numb out, numb out our senses and just kind of mindlessly eat and on and on. I feel like anger and numbing out are how the world is trying to pull us away. And someone gets paid for that. We think we get it for free, but they get paid for that very well. We give our time, our soul, according to what you're saying, and then more close to us within our inner circle...
+
+54:27.810 --> 54:56.862
+People that genuinely care about us are, from what you're saying, kind of in their own psychological entanglements, and they really care, they want us safe, they want to keep us where they know they can find us. And as a consequence, it's really tough to even get to the process of resistance at this point. It's all around us. Yeah. It's all around us. You hit the nail on a lot of heads. So I feel like, do you think the world is set up
+
+54:57.250 --> 55:23.582
+now in ways that it's more difficult to get to that chair and to meet the inner resistance. That's, I phrased it poorly before. There's resistance all around us. There's in the things that are being sold to us, quote unquote, for free. The cost is immense. It's true. You're not putting a coin in a slot and pulling a lever, but it's your time. It's your soul. It's your essence. It's your life. And then it's
+
+55:23.970 --> 55:52.318
+close to us with family members and friends and significant others sometimes. Dogs are immune from this. Cats are immune. They want us to do the real work because they'll be right next to us. And then with all that, then we sit down and then the resistance comes up from right up in the middle. It's like, this is a minefield. Yeah, I agree with you completely. I don't think it's ever been harder. It's like, I always said that
+
+55:52.482 --> 56:21.918
+If you want to make a billion dollars, come up with some kind of product that feeds into people's natural resistance, like potato chips or social media or something like that. And they did come up with a product, and it's called, you know, the Internet. It's called social media. And you're right. People make a lot of money off of that because they – and I don't think they're even aware of what they're doing or aware of what they're tapping into, but they're just allowing people –
+
+56:22.530 --> 56:51.934
+You or me, who has a calling that we know we should be doing, they're allowing us to not do it, to be drawn over here for whatever reason. And I think a lot of the anger and polarization in politics is about that today, you know, because people can't face, you know, to sit down and do whatever they were born to do. So it's much easier to hate the other person over here or get completely caught up in all that rabbit hole of all that sort of stuff, you know.
+
+56:52.898 --> 57:21.694
+Yeah, it's, to follow your calling is a really hard thing, you know, it's not, we were born to be, by evolution, to be tribal creatures, you know, through all those evolution. And the opposite, the one thing that the tribe hates the most is somebody that goes his own way or her own way, right, follows their own thing and doesn't, you know, hew to what the tribe wants them to do. So,
+
+57:21.794 --> 57:51.550
+For us to do that as individuals is a bitch, you know? And it's usually like what you said, you sort of exploded out of you when you got... You have to almost reach a breaking point, you know? Almost hit bottom in some kind of a sense before it just kind of explodes out of you because we'll all resist that so much. It's so scary. It's so interesting. I think it was in high school that I first realized...
+
+57:51.938 --> 58:18.206
+how silly humans are. And it was the following at the time I was into skateboarding. Skateboarding has gone through various evolutions of being popular. Now it's in the Olympics of being unpopular or being profitable. When I got into it, it was really unpopular. It had gone through one big, two big waves. There was the kind of Dogtown and Z-Boys wave, like discovering backyard pools, this kind of thing that the surfers did. Then there was a second wave for those who
+
+58:18.306 --> 58:43.230
+That CARE, this was like the classic Bones Brigade wave. There were only two or three big companies. Tony Hawk was early in this because he was young. His dad, Frank Hawk, ran the National Skateboard Association. And then it disappeared. Just kind of, you know, the kids that were into soccer, they were into other sports. Skateboarding wasn't a big thing. It was small. And there was this really kind of weird trend in the early 90s where skateboarders started wearing really baggy clothes.
+
+58:43.650 --> 59:12.478
+No one wore really baggy clothes. And I'll never forget, because I was part of that community, we wore these what now wouldn't even be considered baggy shorts. So we're not talking about like a deep sag on the shorts, but it was like baggy shorts. And I'll never forget the amount of teasing and ridicule that we received. People like, pull up your pants, you know, why you're grinning, so that by the athletes, by the water polo athletes, the jocks, the everything, but not just at school, but elsewhere. Leave for the summer.
+
+59:13.538 --> 59:42.334
+And over that summer, someone in the world of rock and roll and in hip hop had kind of picked this up from skateboarding culture. And baggy pants and shorts hit the mainstream. Oh, I never knew that. And the next year, everyone was into it. And that's when the bell went off. I was like, they don't actually know what they like. This is just the essence of peer pressure. They have no concept of what they actually like.
+
+59:42.434 --> 59:58.206
+And I think that was a big one for me. Well, first of all, I thought they're hypocrites. I thought they're idiots. And then I realized, but they're none of those things. It's that for most people, what they like is sold to them. And they're tracking someone else.
+
+59:58.338 --> 01:00:26.526
+And so throughout my life, I've had mentors that didn't know me. I literally have a list of different names, some of these people live, some of them dead. Amazingly, some of them are now my close friends. I embarrass them all the time by telling them that they're on this list. But I think that the concept of mentorship is so much different than the concept of looking to the other members of our species more broadly for what is cool, what's worth pursuing.
+
+01:00:27.074 --> 01:00:44.830
+How valuable for you have mentors been? I know you've been a mentor to many people. By the way, you're on the list, just to embarrass you. I can show you that list from the late 90s, late 90s, 2000s transition. How important are mentors and how do we differentiate mentors from mentors?
+
+01:00:45.538 --> 01:01:15.504
+voice in our own head? How important is it to be self-guided versus encouraged and guided by these mentor voices? Because I believe that the general public is the absolute wrong signal. I think that signal takes you off the metaphorical cliff. Yeah. Mentors have been really important to me, very important. In fact, I wrote a memoir called Government Cheese. I don't know if you've heard about this one at all, but the chapters are named after the various mentors that I've had.
+
+01:01:15.504 --> 01:01:44.190
+And many, many of them. And a lot of them are not in the writing world at all. And like my friend Paul, he was in the writing world. But, you know, I had a boss at a trucking company that I worked for that was like a real mentor to me. I once, I picked fruit in Washington State, you know, as a migratory worker, you know, for a while. And I had a mentor there. I never even knew his last name.
+
+01:01:44.322 --> 01:02:10.046
+He was a fellow fruit picker, you know, former Marine from the Chosin Reservoir in Korea. I'm sure nobody listening to this knows what that is, but it was like an amazing horror show of heroism in any way. What was it about those two mentors that you can maybe summarize that you extracted? Was it a work ethic? Was it a style of being? It was a work ethic in both cases.
+
+01:02:10.722 --> 01:02:38.878
+In the one, again, I'll sort of get a little into the weeds here a little bit. Please, please. I was, I had gone to a tractor trailer driving school and I got hired to work for this company in North Carolina. And I was, you know, a beginner. And I really, I fucked up big time one time. I dropped a trailer with like $300,000 worth of, you know, industrial equipment in it. And, and...
+
+01:02:39.330 --> 01:03:02.846
+My boss, his name was Hugh Reeves, took me out to this hot dog place called Amos and Andy's in Durham, North Carolina. And he sat me down and he said, son, I don't know what internal drama you're going through. I know you're going through something. But let me tell you this. While you're working for me, you're a professional.
+
+01:03:03.042 --> 01:03:32.990
+And your job is to deliver a load. And I don't care what happens between A and B, you got to do that. You know, and I was like, well, you know, and I knew he was just absolutely right. And that, uh, and I thought, man, I got to get my shit together here. You know, I can't. And so that obviously stuck with me forever. And the, uh, um, my friend John from Seattle in the fruit picking world was, again, I'm going to do a longer story than probably needs to be here. Um,
+
+01:03:34.306 --> 01:03:55.262
+In the fruit picking world, at least when I was doing this, most of the work was done by fruit tramps, by guys that were riding the rails from the old days. And the big, one of the phrases that they used was pulling the pin. Have you ever heard this thing? And what pulling the pin meant was quitting.
+
+01:03:55.394 --> 01:04:24.094
+too soon. Like pulling the pin came from railroad. If you want to uncouple one car from another, the trainman would pull a heavy steel pin and the cars would uncouple. So like you would wake up one day in a bunkhouse, six weeks into a season, and so-and-so would be gone. He'd say, oh, you know, what happened to Andrew? And I'd say, oh, he pulled the pin. So at the time that I was there, I was trying for the first time to finish a book. And I'd run out of money, and this is why I was working to get the money.
+
+01:04:24.194 --> 01:04:50.750
+And I realized that in my life, I had pulled the pin on everything that I'd ever done, on my marriage, on this, that, the other. And this friend of mine, John, I wanted to quit before the season ended, you know, and he would not let me do it, you know. He sort of just had a – he just took me under his wing. And so that was another thing that was just drilled into my head in the sense of –
+
+01:04:51.010 --> 01:05:18.462
+Am I going to finish this project? Fuck yeah, I'd rather die. I will die before I'll give up on this project. And it was all because of him. So those are two mentors that weren't writing mentors, but that I used there. Those lessons stuck with me forever. And I will say one thing, too, for anybody that's struggling with finishing anything. Once I did finish that book, which I did, I've never had any trouble writing.
+
+01:05:18.690 --> 01:05:47.230
+finishing anything ever again. Whereas it was my bet noire for years. I would fumble on the goal line, you know, resistance, former resistance. I love that those two guys are now alive and present in 2025. I don't know. They may still be alive in general, but perfectionism. You've talked about it as the enemy. Um, uh,
+
+01:05:47.362 --> 01:06:08.574
+I learned two very disparate schools of thought in research science. One was no one study can answer everything. So when you get to the point where you have a clear answer what the data mean, you write it up, you ship it out, you publish. And I feel very fortunate that I worked for people that encourage that.
+
+01:06:08.674 --> 01:06:27.806
+because many people get caught up in the idea that every paper has to be a landmark paper. Actually, that's one of the major causes of scientific fraud, by the way. When people feel that their papers have to be published in the top tier journals. It's probably the strongest driver of scientific fraud. There are probably some bad apples that come in and
+
+01:06:27.906 --> 01:06:56.446
+are seeking ways that they can build narratives to get prizes and stuff. But I think they're exceedingly rare. Those people are driven to other fields where there's more money involved, more fame involved. But in science, a lot of bad stuff comes from people feeling that they have to have a landmark paper. And I was taught early on some papers end up in solid journals, and some end up in spectacular journals. And some projects go nowhere. That's just the reality. The key is to figure out which one is which. But finish things.
+
+01:06:56.546 --> 01:07:26.014
+At the other end of the spectrum is this idea that if you are able to make something better, you should. And this is the reason I delayed my book release for a year. I felt like I could make it better. There are new data. I want to add illustrations. But at some point, it's got to ship. So I think we can all agree that perfectionism is not great because it limits our ability to complete things and ship things off, sometimes even our ability to do the work in the first place.
+
+01:07:26.114 --> 01:07:46.686
+But at some level, if we can make something better, we probably should. That's also part and parcel with meeting resistance and pushing through it. So how do you balance those two? They're in a strong push-pull for me. I think that it's another great question. I mean, it's so easy to...
+
+01:07:46.786 --> 01:08:15.262
+as a writer, to noodle all day with one paragraph, you know, and of course it's obviously, you know, resistance is watching and laughing at you, you know, oh man, look at this poor idiot, I've gotten him to completely blow the day on this one thing. So that sort of perfectionism is a form of resistance and really has to be avoided at all costs. On the other hand, you do want to produce something that's really good, you know, and not, but...
+
+01:08:15.650 --> 01:08:42.782
+You know, like Seth Godin says, when it's, you know, ship it, right? When it's ready to go, you know, there comes a time when you know, I'm just noodling with this because I'm afraid of the response. Is this going to fail? Is it going to fizzle? Is it going to crash and burn? So I don't want to ship it out right now. I had a friend, I tell this story, who had written this deeply personal novel about...
+
+01:08:43.073 --> 01:09:12.351
+salvaging a ship. He had been in the Merchant Marine and, you know, I mean, what a great metaphor that was. And I read it. It was in its mailing box back in the days when you typed it out on a typewriter, ready to go to his agent. And he couldn't make himself send it off, you know. And the sad part of the story is my friend died. And there, so that was, I don't know whether that was perfectionism or just fear of
+
+01:09:12.450 --> 01:09:41.726
+of being judged in the real world. So it's a real vice, perfectionism, and to be guarded against at all costs, I think. But when a thing is ready to go, let it go. I'd like to talk about death. Me too. Great. I've listened to and read Steve Jobs's biography. I think it's spectacular.
+
+01:09:41.826 --> 01:10:10.750
+I had a particular interest in it because... What's the title? Because I've never read it. I think it's Steve Jobs by Walter Isaacson. Oh, I see. It wasn't by Steve Jobs. No, it's not an autobiography, although there was communication with him in the process of writing the book. I think that's one of the kind of agreements for Isaacson is you have to be willing to talk to him and he can talk to people in one's life. And it's spectacular. And one of the reasons I was so interested in it is that, you know, the personal computer came out during my, you know...
+
+01:10:11.266 --> 01:10:38.494
+childhood. Steve lived in our area. We'd see him around downtown Palo Alto. He'd come into the sports shop where I worked to get rollerblade wheels. And I was a skateboarder, but we had to assemble rollerblades. It was just part of the job and wagons and things. In any case, he, from a very early point, apparently understood his own mortality. And apparently that was a strong driver for his intense,
+
+01:10:38.594 --> 01:11:08.126
+drive to create things, to envision things. In some sense, people say it's part of the reason why he didn't pay much attention to kind of typical conventions and he was able to evolve the world and create these incredible products. Devices, I mean, portals, they're really portals of communication and creativity. And having a strong sense of one's mortality seems very useful in that respect.
+
+01:11:08.514 --> 01:11:36.510
+The other end of the spectrum, I have a theory, which is that all forms of addiction are basically an attempt to try and avoid the reality that we're going to die, to just forget that for moments, shorter or longer moments. And in some sense, the pursuit of flow states and creative works are an attempt to kind of either forget about that or to some people want to immortalize themselves. But I think knowing that one is going to die is an incredible thing.
+
+01:11:37.026 --> 01:12:05.854
+driver. I have always had a lot of energy, but it was only recently on the threshold of my 50th birthday coming up that I realized, oh, I'm probably at about the halfway mark. You know, realistically, I'm a biologist. I mean, I think genetic potential in human longevity is probably about 120. And with certain practices, maybe you can get out past your, you know, where one is fated to die by maybe five, maybe 10, maybe 20 years. And maybe new technologies will come along that will
+
+01:12:05.986 --> 01:12:34.910
+expand that number. But I figure I'm probably about the halfway mark. So it's kind of nice to have like an oh shit moment because you stop wasting time like anyone else have wasted time. So how present is your sense of death eventually coming, hopefully a long time from now? Again, you're in spectacularly good health. And so that's important. But how present is the reaper?
+
+01:12:35.970 --> 01:13:05.790
+In your process. And do you think having a real sense that the Reaper's coming is useful? Yeah, definitely. I was having breakfast in New York a couple of years ago with a friend of mine who's exactly my age, you know. And I asked him, I said, Nick, how often do you think about your own mortality? And he said, every fucking minute of every fucking day, you know. Maybe that's a little bit excessive because it can become paralyzing too. Yeah. Right.
+
+01:13:05.986 --> 01:13:33.982
+So I don't know if I go that far, but I'm definitely aware of it. You know, like Robert Redford died two days ago, right, in his sleep. You know, to me, it was like an immortal guy that was going to live forever. On the other hand, I have another friend who actually died a couple of years ago. One of my bosses in advertising named Phil Slott, great, smart guy. And he said one time to me,
+
+01:13:34.370 --> 01:14:03.550
+That people tell you that life is short, but really life is long. And like thinking about you, Andrew, that you're 50 years old, you've got another 50 years ahead of you, you know, so that one has to think, you know, it can be also a form of resistance. Like for me at my age to think, well, I'm only going to be around a few more years. I might as well fuck off or, you know, I don't have to work that hard, you know, but no, because I might be around for another 20 years or more.
+
+01:14:03.906 --> 01:14:33.502
+That's a career. I could write 15 books. I could make them. Who knows what? Certainly I have to, which is part of why I go to the gym, you know, to think of I don't want to start thinking that I'm on the way down or I haven't got, you know, life is long. It's longer than we think. And we have in the sense of it's opportunity to do stuff, but it's also an obligation to do stuff, to keep evolving, so on and so forth.
+
+01:14:33.602 --> 01:14:59.966
+On another sort of side of, I don't know if this was, this will be confessional for me. I know when I was a kid, our family was sort of like the black sheep of our bigger family. Like everybody, all my uncles and stuff were all really successful. And my dad was kind of struggling, you know. And so it became...
+
+01:15:02.210 --> 01:15:30.398
+thing in my mind where I said, and it's just looking ahead for how long you're going to live, I said, I'm going to show these motherfuckers that our family is not what they think they are, you know? And so I, um, that's been a real driver for me more so than any idea of mortality, even over those long years where I was getting nowhere that, uh, um, to sort of honor my dad and, um, that I was going to, you know,
+
+01:15:31.298 --> 01:15:56.414
+hang in there and do something. Yeah, I think that's a great opportunity for us to talk about another kind of resistance which is actually very adaptive and can propel us forward, which is having some friction with someone or something. I know this is a little politically incorrect, but in one's mind to be able to drive yourself harder.
+
+01:15:56.610 --> 01:16:10.622
+And I think this can take on toxic forms, but I think it can also be very beneficial. There's this great moment in one of those Dark Knight movies where the Joker has the opportunity to kill Batman. And he says something like,
+
+01:16:11.170 --> 01:16:35.966
+just kill me. And the Joker says, kill you. He's like, I don't want to kill you. You complete me. You know, it's this moment where the Joker doesn't exist without Batman and vice versa, right? That having somebody or something that you're challenging yourself to, to, uh, that you're trying to prove yourself to sometimes to yourself, um, can be very beneficial. And at different times in my career, certainly not now, um,
+
+01:16:36.130 --> 01:17:05.854
+And I kind of miss it a little bit, to be honest. But at various times in my different careers of pursuits, I should say, being in competition can be an incredible driver. I could go into a whole story here, but it doesn't matter. I think that it's kind of evident what we're talking about, that having someone that you're not going to let get the best of you, that you know you can do better, can be very useful. It can also be toxic, as we pointed out. Yeah. Because it's...
+
+01:17:06.146 --> 01:17:34.462
+feel having experienced that and having won, by the way, no, I'm just kidding. Not kidding. But that the energy that it pulls on, here I'm going to put my physiologist neuroscience hat on, is it's more of an adrenal, adrenaline type drive than kind of orienting towards your love of craft. I mean, it's meshed with that. Hopefully it's within a craft you love. But
+
+01:17:34.626 --> 01:17:46.430
+To just be in sheer competition all the time can be depleting. One has to be really careful with this stuff. So obviously that got you propelled forward.
+
+01:17:46.690 --> 01:18:12.030
+In an unconscious way. It certainly was not, you know, I'm only becoming aware of it now. Oh, I see. So at the time you weren't aware of it. I wasn't even aware of it. Oh, okay. Yeah. Okay. I was very aware of this friction because the guy and I had like an outright rivalry. And it was a lot of fun too. Actually, years later, we shared a coffee and reflected on how much great work we each got done in this process. I mean, if you think about Larry Bird and Magic Johnson.
+
+01:18:12.130 --> 01:18:34.078
+you know, how they kind of made each other, you know, boom, boom, boom. And now they're the best of friends, you know, which is a great- Steve Jobs and Bill Gates early on. Was that true? I didn't know that. Oh yeah, there was a big competition, especially in the Bay Area where you had a lot, was it was and still remains kind of the seat of tech and computer science. It was like, is it going to be Windows or is it going to be the Mac operating system? And then when they joined forces later-
+
+01:18:34.242 --> 01:18:59.390
+That would have been like the Yankees and the Red Sox merging. It's like it was a mind bend. You're like, this can't be happening. And all the nerds in the Bay Area are like, oh, yeah, this happened. Next thing you know, everybody's moved on. So I think having resistance with the desire to prove oneself, I think, can be helpful. Yeah, I think so too. Yeah.
+
+01:18:59.522 --> 01:19:29.406
+You know, my trainer at the gym, T.R. Goodman, he's trained a lot of professional athletes, particularly hockey players. And a lot of them, he says, because he got to know them very well, really had a chip on their shoulder about something or other, like, my dad, I'm going to show my fucking dad that I can do this thing, you know? And it would drive them. But, like you say, it becomes kind of toxic. At some point, you do have to sort of have that...
+
+01:19:29.730 --> 01:19:59.614
+come to Jesus moment when you say, well, wait a minute, you know, let me get a handle on this and maybe a little forgiveness here or a little bit of empathy, a little of, you know, putting myself in the position of this person that I'm trying to show. Greg Norman's dad, you know, the golfer, you know, that there's so many people like that, that it does become toxic, but it's, like you say, it can produce great success because it drives people. Yeah, Michael Jordan was famously competitive about everything. Yeah.
+
+01:19:59.810 --> 01:20:27.486
+Everything. Yeah. Yeah. Yeah. I feel very fortunate that these days I do things and I create out of just a love for what I do. There's none of that. I never think about another podcaster or what other people, I think about none of that. Truly, I would admit if I did. Good for you. That's great. But in the past, that wasn't the case. That wasn't the case. And I think that, and at times it brought out my best and at times it brought out my best, but it made the process better.
+
+01:20:27.842 --> 01:20:54.302
+much more painful. I think doing something for love of craft is really important. Yeah, I couldn't agree more. But as you've pointed out, that process can be painful, even though you love the craft. It's a weird thing. This is bizarre, dark and light braided together, this creativity thing. What about feedback from the outside after the thing is done? Reviews. Let's talk about King Kong.
+
+01:20:54.498 --> 01:21:20.222
+I mean, you've written about the fact that you made this movie, and it wasn't received with broad accolades. It was quite embarrassing, yeah. But was the movie that bad? Oh, it was terrible. Yeah, it was really terrible. Did you know it was terrible when you released it? No, that was even worse. So you thought it was awesome. It was King Kong Lives, one of the worst movies ever. And I remember that...
+
+01:21:20.322 --> 01:21:45.086
+I wrote this with a partner, Ron Shusett, who was one of the guys who originally did the first Alien. The thing where the guy burst, the alien burst out of the guy's chest, that was his. Along with the whole face hugger thing, that was his too. So he was like a really legendary guy, particularly in science fiction. And I was kind of his junior partner. And...
+
+01:21:45.186 --> 01:22:06.814
+When we did this movie for Dino DeLaRentis on a contract, and when we were done, we thought, this is great. This is how crazy we were. And we invited all of our friends to the screening or something. And when it was over, it was like deathly silence. And I was telling you before we did this thing today, the review in Daily Variety said...
+
+01:22:07.586 --> 01:22:24.094
+Ronald Chucet and Steven Pressfield, we hope these are not their real names for their parents' sake. So that was definitely a bad moment. But from my point of view, it was the first time I got a movie made.
+
+01:22:24.194 --> 01:22:47.262
+that I was involved with at all. So I had to say, a friend of mine, my friend Tony Keppelman, took me aside and said, you know, you're in the arena, man. You're taking the blows, but you're out there doing it. And he was absolutely right. So at the end, I turned out to be very grateful to that. And I still am grateful to it. But it certainly was a terrible review and kept you humble.
+
+01:22:47.490 --> 01:23:17.246
+Did you go back and analyze what was wrong with the movie and what could have made it great? No. It was like too painful to even think about. Yeah. When was the last time you watched it? Oh, not since when it came out, which was like 1980 something or other. Yeah. What was the budget for the movie? A lot. It was a big budget. Yeah. Um, I don't know, I don't know what it was then, but it was, it was a big budget. Yeah. In the millions. Oh yeah. Yeah. A lot of special effects. I mean, you know, a King Kong movie you had to, yeah. Wild. Yeah. So that was terrible. But, uh,
+
+01:23:17.634 --> 01:23:40.382
+I'm definitely a believer that the ideal is to not listen to anything that anybody says about what you did and to judge it only yourself, you know. And if you can, I think it's good to get a sort of an objective cross section. You know, some things go out there and they sink without a trace. Some things people really love.
+
+01:23:40.482 --> 01:24:10.206
+But the bottom line is, like Paul Rink said to me, start the next one today, you know, as soon as you finish. Because it's a lifelong, like we were telling you, it's for the love of the game. It's a lifelong practice. And, you know, a professional does not take success or failure personally, but keeps on going and does the next one and the next one and the next one. With creative works or anything that our name is closely attached to,
+
+01:24:10.946 --> 01:24:40.030
+it's a challenge, right? I mean, a book with the author's name there, a movie with the producers and the directors there and the actors, a podcast. I mean, almost every major podcast is named after the podcaster. It's kind of funny. And in science, the lab is named after you. You know, Huberman Lab or whatever lab. I always thought the lab should be named after a particular scientific quest. That's how they do it in other countries. I think that's a lot more elegant. And it also...
+
+01:24:40.354 --> 01:25:04.638
+teaches a lesson to the students in postdocs that you're after discovery. It's not just about your career. Unfortunately, in the United States, we promote this notion of the independent investigator. It's all about the individual or maybe small group of two or three of them cracking some really difficult nut, Watson and Crick. It's always been this way. It's terrible. It's a feature that
+
+01:25:04.770 --> 01:25:25.790
+If I had a magic wand and I don't, I would abolish. But when our name is closely attached to something, feedback that's great feels pretty good. And if you're a self-critical, hard-driving person, feedback that's negative can hurt. I will say my experience is that the larger volume of
+
+01:25:26.274 --> 01:25:56.126
+of negative feedback that you get day in and day out, the less of an impact it has. Initially, like podcasts would come out, you get a bunch of great comments and then you get some nasty ones and then you're like, oh, that really hurts. You know, you podcast every week, two episodes a week or an episode every week and pretty soon that just flies right by. The signal, the noise, it just goes way, way down. So I offer that to people because the more you put out there, the more feedback you get and the less of an impact the feedback has.
+
+01:25:56.450 --> 01:26:26.430
+but the positive feedback also. It becomes just noisier in general. So now when you sit down to write a book, you must see some level of feedback. You want to know, is it selling? Is it doing well? Is it not doing well? But it sounds like you don't analyze why it might have done well or not well. You just assume that's where you were at in that point in time and that's where they're at. Yeah, I don't analyze it because I don't know if you can ever even figure it out. And also so much of it has to do with in any...
+
+01:26:26.690 --> 01:26:55.326
+that you put out with timing are people you know is this you know ready the moment you know how much does it get did it get promoted did it get you know did people even know it existed there's so many factors that are above and beyond whether it was actually good and I think you can only you can only ask you you know did you do your best you know did you leave it all on the floor and if you did and you
+
+01:26:55.810 --> 01:27:24.638
+That's all you can ask. But again, for me, it's a lifelong practice and I'm going to do this till they take me out, you know, and whatever the next one is, I'll do that. It's clear you're not going to pull the pin. No, I'm not going to pull the pin. Good. Dopamine dynamics in the brain would tell us that if you have a big success, say a book or a movie or an album, what have you, that the next thing, no matter how
+
+01:27:24.898 --> 01:27:54.270
+well it goes is not going to feel that great unless it exceeds the previous thing. This is just the laws of dopamine circuitry that exist in all of us. I didn't write the script. It's hardwired. Of all your books, which one got the most public acceptance and praise? It's either the war of art or gates of fire. Okay. What book came after that? But on, uh, let me say on both of them, it took years to,
+
+01:27:54.562 --> 01:28:22.526
+years for that, for either of them to reach any kind of level. Neither of them were overnight successes. There wasn't any, you know, any of that fanfare, nothing really. Finally, like maybe eight or 10 years later, you know, you realize, oh, you know, this thing is percolating along pretty good, you know? So that's a whole different sort of, there wasn't that much dopamine coming in to me on that. That's probably a good thing.
+
+01:28:22.978 --> 01:28:49.342
+Yeah, I think so. Yeah. I mean, you know, the whole notion of one hit wonders, like, you know, bands that get, you know, there's a great movie with Tom Hanks about that. I forget what the title is. That Thing You Do. That Thing You Do. It's a perfect example of that. And, you know, these one hit wonders are kids that, you know, they blow up, they get one song, gone. There's actually an incredible movie that, if you don't mind, I'll just mention to people that I wish everyone would see. Yeah.
+
+01:28:50.082 --> 01:29:18.526
+It's a documentary that I saw at the Tribeca Film Festival years ago called My Big Break. Ah, never heard of it. And it's a true story of four guys living in an apartment in Los Angeles who all want to become actors. And I won't give any more information about it, but let's just say one of them becomes immensely successful. I won't talk about what happens to the other three. But the takeaway from the movie, and this is not a spoiler, is that
+
+01:29:18.722 --> 01:29:46.302
+Everybody gets their big break at some point. Most people blow it. And they don't blow it because they can't do the thing. They blow it because they can't handle that it's happening. And it gets in the way of their creative process or their essence. It's an awesome documentary. Oh, really? My big break. Yeah. Fantastic documentary. And I think anyone that wants to get good at anything should see it. I certainly learned a lot from it.
+
+01:29:46.786 --> 01:30:15.742
+Okay, so you're not paying attention to the criticism. I'm trying not to. I'm human. Sure. But definitely the ideal is to really move beyond that. I went to college with Jack Johnson, a guitar player. He's a very successful musician. And years ago we connected, and he was telling me about his life because I knew his now wife. She went to college with us, and he was telling me about his kids. And it was so clear from everything he was telling me that he
+
+01:30:15.874 --> 01:30:41.758
+he had created methods to not really come in contact with just how big he had gotten. Like to really like humble himself. Good for him. On a daily basis. Yeah. Doing house chores. Great. Cleaning the toilet, whatever it is, you know, especially the days after big, big festivals where he just, you know, had immense crowds and, you know, that he had built these,
+
+01:30:41.954 --> 01:31:10.942
+sort of self-regulatory process. It sounds like... It's like a very zen sort of story. We grew up in Hawaii. The master would say, sweep the corner, you know, yeah. We grew up in Hawaii, so he's got that. He always had this mellow. It was amazing. From day one of college, he was way cooler than everybody and super nice. So he didn't act cool. He was just cool because he was just Jack. Great surfer, great guy. His wife's awesome. Picked up a guitar. He was in a college band that was...
+
+01:31:11.074 --> 01:31:40.286
+It was like a backup. He wasn't even the main guy. And then I was in graduate school one day and I think I got iTunes. And I look and I was like, Jack Johnson. I called a friend. I was like, Jack Johnson's on iTunes. They're like, you haven't noticed? I was like, no, I've been nosed down in the lab. He's a really big deal. And he's been a really big deal for a very long time. Incredibly humble, incredibly kind and self-regulates. Good for him. Yeah. External validation sounds like it's an enemy for you.
+
+01:31:40.738 --> 01:32:10.654
+as much as criticism is an enemy. Yeah, I mean, I certainly don't believe in it at all. I think it's a seductive thing that's only going to pull you in the wrong direction, you know? And third-party validation as my partner, Sean Coyne, my business partner, Sean Coyne, which I have to give him credit before we forget. The title, The War of Art, was not my title. It was Sean Coyne's title. He handed that to you. He gave me that title, yeah. We published a book together. His little company published it.
+
+01:32:10.754 --> 01:32:35.774
+But that was his title. So God bless him. Yeah, God bless him. Titles matter. Yeah, they do. Titles matter. Eat, pray, love. How does that? It doesn't get better than that. Yeah. The Body Keeps the Score. Ah, yeah. No other book in the field of kind of psychology, biology, wellness has resonated in people's minds as...
+
+01:32:36.322 --> 01:33:05.534
+much and as long as the body keeps the score, because it's just an awesome title. Yeah, it is. It's a great one. Yeah. How much or how often do you think about book titles? Is it at the end, during? At the end, but I find that they're really hard. You know, and a lot of times other people have titled stuff for me, or I've, you know, it's really hard to come up with a great one. Yeah. I don't know what the secret is at all. If it sometimes it pops out along the way. Yeah, I don't know.
+
+01:33:06.914 --> 01:33:15.774
+I'd like to take a quick break and acknowledge one of our sponsors, Function. Last year, I became a Function member after searching for the most comprehensive approach to lab testing.
+
+01:33:16.066 --> 01:33:46.032
+Function provides over 100 advanced lab tests that give you a key snapshot of your entire bodily health. This snapshot offers you with insights on your heart health, hormone health, immune functioning, nutrient levels, and much more. They've also recently added tests for toxins, such as BPA exposure from harmful plastics, and tests for PFASs, or forever chemicals. Function not only provides testing of over 100 biomarkers key to your physical and mental health, but it also analyzes these results and provides insights from top doctors who are
+
+01:33:46.032 --> 01:34:13.982
+expert in the relevant areas. For example, in one of my first tests with Function, I learned that I had elevated levels of mercury in my blood. Function not only helped me detect that, but offered insights into how best to reduce my mercury levels, which included limiting my tuna consumption. I'd been eating a lot of tuna, while also making an effort to eat more leafy greens and supplementing with NAC and acetylcysteine, both of which can support glutathione production and detoxification. And I should say, by taking a second Function test, that approach worked.
+
+01:34:14.114 --> 01:34:29.310
+Comprehensive blood testing is vitally important. There's so many things related to your mental and physical health that can only be detected in a blood test. The problem is blood testing has always been very expensive and complicated. In contrast, I've been super impressed by function simplicity and
+
+01:34:29.442 --> 01:34:58.014
+at the level of cost. It is very affordable. As a consequence, I decided to join their scientific advisory board and I'm thrilled that they're sponsoring the podcast. If you'd like to try Function, you can go to functionhealth.com slash Huberman. Function currently has a wait list of over 250,000 people, but they're offering early access to Huberman podcast listeners. Again, that's functionhealth.com slash Huberman to get early access to Function. Do you think that personal sacrifice at the level of relationships
+
+01:34:59.170 --> 01:35:26.078
+necessary to be a successful artist of any kind? Certainly in my experience, yes. And I was talking to a friend of mine who's a bodybuilder and he was talking, he was just saying to me the other day, he said, I don't believe in balance, you know, the work-life balance, you know.
+
+01:35:26.786 --> 01:35:54.718
+And I'm kind of that way too, you know, that if you want, I mean, I take my hat off tremendously to Kobe Bryant for being such a family man, obviously loved his kids, loved his wife, but yet was obsessed with basketball, you know, to the nth degree. Somehow he did it and able even to go beyond that, you know, and be helpful to people and so forth. But I do think that at some point,
+
+01:35:55.362 --> 01:36:15.326
+You know, if you're going to pursue your calling, whatever it is, you got to pursue it with both feet. And, you know, so that might lead to an unbalanced, you know, life. So that means telling people you're going to bed early. You go to bed early.
+
+01:36:15.554 --> 01:36:45.502
+I go to bed early, but that's just my own quirkiness, you know. But there are a lot of things that I've missed in life, including having kids. But I don't regret it. You know, that's the nature of the game, I think. You have a rich and full life. I mean, I have an unbalanced life, but to me, it's what I've chosen, you know. This is like that great speech in The Godfather Part II where...
+
+01:36:45.954 --> 01:37:14.654
+Is it Lee Strasberg who played the equivalent of Meyer, not Meyer Lansky, the real whatever, I forget his name was. But he said he was talking about one. Hyman Roth. Hyman Roth, Hyman Roth. And he said he had this scene with Michael Corleone where he says, he talks about Mo Green, his protege that they grew up. Somebody put a bullet in his eye. And I never asked who did it because I said to myself, this is the life we've chosen.
+
+01:37:15.490 --> 01:37:44.190
+And that's how I look at it. It's interesting. It was a great scene, too. It is a great scene. God, those movies are so good. Yeah. The first two, anyway. Yeah. Yeah. Talk about a flop on the third. Yeah. Yeah. In the United States, we celebrate high achievers and people that really break off from the pack. It's really the essence of the United States in terms of how it was. Yeah.
+
+01:37:44.770 --> 01:38:13.822
+you know, uh, more's the pity. Yeah, exactly. Now we're paying the price. Yeah. But you know, Michael Jordan, you know, Kobe Bryant, I mean, these people had, as you pointed out, very, um, well, maybe Kobe was a bit more balanced, but immense number of hours devoted to craft. But I feel like if you grew up in the United States, at some point you get the message that that could be you, right? That's, that's different than, uh, and I know cause my dad's from South America and I have
+
+01:38:13.986 --> 01:38:42.686
+family from Europe, and I've been exposed to the fact that not every kid around the world grows up getting the message in their ear all the time, like, hey, that could be you. You just have to find your thing and devote yourself. And then now there seems to be a bit of a pivot where people focus on, you know, the flaws those high achievers had and that they weren't perfect. And I think what we're saying here is that, or what I'm hearing is that
+
+01:38:42.946 --> 01:39:11.422
+it's by definition that if you're going to go for a high peak, that your life is not going to be balanced. Sort of like, you know, Edmund Hillary first to climb Everest, he was gone for a long time. They didn't have cell phones. I imagine if he had a family, they didn't even know if he was going to come back. That's not balance. That's not balance at all. They weren't handing out checks at the top of Everest. So this idea that, you know, pursuing one's craft at the expense of something else, is that something that
+
+01:39:11.586 --> 01:39:41.374
+you've carefully analyzed along the way, or do you feel you've been driven by some force inside you to just keep leaning into creative works, and if things have to gently or not so gently fall off the side, so be it? I have tried in my life various other endeavors, including love, marriage, a straight career, you know, a blue-collar career,
+
+01:39:41.762 --> 01:40:10.206
+always trying to find something that at the end of the day I could lay my head on the pillow and have peace of mind. And nothing worked until I found, you know, pursuing my craft. That worked for me. You know, I could, at the end of the day, I felt, okay, I've earned my place on the planet doing this, whereas other things I would, at the end of the day, I would just be crazy, you know.
+
+01:40:10.818 --> 01:40:31.390
+So I was sort of led to that. It was like, thank God I found something, you know, that I can hang my hat on. And that was a long time ago. And over the course of those years, I sort of, from time to time, I asked myself, is this still working for you? Or is this, are you, did you, you know, should you be evolving into something beyond this? But it is still working for me.
+
+01:40:31.522 --> 01:41:00.478
+And there is, I don't really have a bucket list of stuff, you know. If somebody gave me a billion dollars, I'd just give it away, you know. So, yeah, it just was for me. And, again, it's not even like about peak success because I haven't had peak success at all. You know, I've had enough success to pay the rent, which is good enough for me, you know. I'm doing what I want to do and I don't have to do something else. Yeah.
+
+01:41:00.994 --> 01:41:29.534
+So it is, for me, it's really a sort of pursuit of what I figure like I was put on the planet to do. And it's always been a surprise too, book to book to book. Each one is a surprise, which is another sort of weird counterintuitive thing. It isn't like, oh, could you do a five-year planning on this and this? No. You know, something comes, it presents itself, it comes in from the goddess, and there it is, you know, and then you do it.
+
+01:41:30.690 --> 01:41:59.582
+it's clear it's in your nature to create things and to discover what it is you need to create. I can't help but feel that like we're all here to do something particular to us. Yeah, I think so. Yeah, and I think a lot of times if people don't have a balanced life, people assume, oh, well, that's trauma, and sometimes it is, or that's this or that's that. I mean, nowadays I have more, you know, quote unquote,
+
+01:41:59.778 --> 01:42:28.318
+famous friends and a lot of them have trauma. A lot of them don't. Some of them are really happy. And a lot of them have disappointing. And a lot of them have what I call it kind of more of a bento box life, like there, but where their career is, you know, the main entree. And then there's some other little things and they have relationship and of different kinds, animals or people. And, and some people, the relationship bin is bigger.
+
+01:42:28.674 --> 01:42:49.950
+and their career is less of a focus, and they seem very happy. So this notion of balance is a peculiar one that people, whatever bento box people seem to exist in, they sort of like to project onto others. How much time do you spend on social media? Maybe an hour a day. You know, I sort of...
+
+01:42:50.082 --> 01:43:15.806
+It's a vice, which I've got to definitely stop doing. But I will go through Instagram and do that. As far as communicating with people, very little. My email, I'm done with my email in like two minutes in the morning. But I do think it's great that it's you on social media, that it's your voice for your content.
+
+01:43:16.002 --> 01:43:42.302
+I think that's great because I think that there's a real thing to that. People now can get in near direct contact with the creators that they're inspired by. Which is great. And with other people that are doing whatever they're doing. Yeah. One thing that I really appreciate about all your work is that there doesn't seem to be a consistent theme. Some of them overlap, right? But there are a lot of different themes in there.
+
+01:43:42.594 --> 01:44:10.622
+Before we move to some of the themes that perhaps people are not expecting that I'd like to parse with you, talk about turning pro and the concept of being a professional. If we accept the idea of resistance with a capital R, that's our own internal tendency to sabotage ourselves when we try to set out to write our book or do our movie or follow our calling, whatever it is, then the question becomes, well, how do you overcome resistance?
+
+01:44:10.786 --> 01:44:36.382
+thing and what worked for me was the idea of turning pro for years when i was struggling and could never get it together i realized that at one point that i was just thinking like an amateur and that if i could flip a switch in my mind and think like a professional that i i could overcome some of the things like um um when i think of
+
+01:44:36.546 --> 01:44:59.742
+A great pro, I think, of Kobe Bryant or Michael Jordan or Tom Brady or somebody like that. And so like a professional, some of the characteristics of a professional as opposed to an amateur. A professional shows up every day. A professional stays on the job all day or the equivalent of all day.
+
+01:44:59.842 --> 01:45:19.806
+I mean, a lot of us who have jobs are professionals in our jobs. But when we come home at night and we try to, you know, start our band or, you know, our fiddle band, we flame out on that because we can't sort of carry over that professional attitude. A professional, as I said this before, does not take success away.
+
+01:45:19.938 --> 01:45:45.886
+failure personally. An amateur will, right? An amateur gets a bad review, bad response of this and they just crap out. I don't want to do this anymore, right? A professional plays hurt. Like if Kobe Bryant, Michael Jordan, you know, if they've tweaked the hamstring, they're out there, you know. They'll die before they'll be taken off the court, you know. Whereas an amateur, when he or she confronts adversity, will fold.
+
+01:45:46.082 --> 01:46:09.310
+Oh, it's too cold out, you know, I've got the flu, that kind of thing. Another thing, an amateur worries about how they feel. Like, oh, I don't feel like getting out of bed this morning. I don't feel like really doing my work today. A professional doesn't care how they feel. They do it, right? Right.
+
+01:46:09.506 --> 01:46:36.574
+So an amateur has amateur habits and a professional has professional habits. And my book, Turning Pro, is about that, flipping that switch in your head that costs no money. You don't have to take a course. You don't have to get certified. All you have to do is sort of say to yourself, if you can do it, and it ain't easy, okay, I'm going to attack this thing, whatever it is now, as if I were Kobe Bryant. Would he quit?
+
+01:46:36.834 --> 01:47:01.630
+You know when he didn't feel like doing it? Absolutely not. So and oh, here's another aspect of turning pro that worked for me. I had like about a 10-year career as a screenwriter, as we talked about with King Kong Lives. And one of the things you learn is that screenwriters a lot of times will have their one-man corporations and they will not
+
+01:47:02.306 --> 01:47:32.030
+sign a contract as themselves. You know, it won't be Andrew Huberman on the contract. It'll be your corporation, Huberman Lab, FSO, for services of Andrew Huberman. And I really love that idea of thinking of yourself as a two-part thing. You're the CEO of this thing, and then you're also the guy that does the work. And I would find that if I was just thinking of myself as the guy that's doing the work,
+
+01:47:32.898 --> 01:47:44.638
+I have a hard time pitching my ideas. I'm sort of too shy. But if I'm the CEO of my company, of my corporation, I'm a pro. I can go in there and pimp the hell out of it, you know?
+
+01:47:45.058 --> 01:48:10.494
+So that idea of looking at yourself as a professional kind of takes all judgment out of any failures that we've had. We don't blame ourselves anymore for procrastinating or being perfectionists or giving in to fear or self-doubt or anything. We just say, well, okay, I did that when I was thinking like an amateur. But now I'm going to think like a pro. And a pro just doesn't yield to that stuff. So it's a...
+
+01:48:10.818 --> 01:48:39.454
+That's a mind shift, a mindset shift that really helped me a lot. I love that. I mean, so much of that feels is nested in taking oneself seriously. Yeah. You know, I think when people hear the words taking oneself seriously, they think, oh, well, someone's going to be heavy. They're never going to joke. No sense of humor. But that's not what I'm referring to. I wish people would take themselves more seriously, including their creative sparks inside of them, right?
+
+01:48:39.906 --> 01:49:08.286
+You said there's no cost to turning pro. I agree there's no monetary cost. You can decide to flip that switch. I would argue, and I'm not arguing against, because I don't think that... No, I know what you're going to say. I agree with you. I think there's a huge cost, and the huge cost I'm referring to is the one of how people around you react when you start taking yourself seriously. I mean, I don't need to go into the story. I've done it elsewhere, but I was a...
+
+01:49:08.386 --> 01:49:35.838
+an unimpressive high school student. Thank God for my high school girlfriend going off to college and discovering that. And then thank God for the biology teacher that turned me on to biology. Thank God for Harry Carlyle. But I had the drive, but certainly it wasn't organized in the right ways. But when I switched from being a fun guy to be around in a lot of context to the guy that is absolutely going to ace the exam,
+
+01:49:36.546 --> 01:50:04.702
+no matter how much work I have to put into it, that's absolutely going to be in the gym three days a week. That's absolutely going to get my sleep. And, you know, you get a lot of flack, especially in your early 20s, late teens, early 20s. Now, I did go out and party then. I was, I didn't, never drank a lot, but I went to parties. But across the years, I did fewer and fewer social things. Even as a, as a graduate student, postdoc and junior professor, you know, at meetings, everyone would go to happy hour. I would go work out.
+
+01:50:05.026 --> 01:50:34.302
+if I hadn't done it that morning. And I would go to sleep at night instead of staying up late talking in the bar because great interactions would happen in those bars, scientific discussions and so forth. But the next morning, I wanted to be on point during the seminar and be able to learn and be able to contribute. And so the big cost is not everybody likes that because they feel it as pressure. It's sort of like if you're eating well, you're eating healthy, people pay more attention to the...
+
+01:50:34.722 --> 01:51:03.646
+they are not eating healthy, and they will do everything they can to try and make you feel bad about that. We see this in mass. We see this in culture. There are extremes of body dysmorphia and people taking fitness to extremes that aren't healthy or anything to extremes. But we see people being basically not shamed, but ridiculed for being serious about their health.
+
+01:51:03.906 --> 01:51:22.622
+It's nuts, but it's all about them. It's very clear. It's all about their own unwillingness to give up the second chocolate croissant. Yeah. You know, or to feel like maybe they're not as fit as the people around them. I mean, when standards around you are at risk of rising, that can be really scary to people. Yeah.
+
+01:51:23.074 --> 01:51:52.510
+We were talking about that earlier, Andrew, when I was saying that like it becomes when you start eating healthy and sleeping and getting up early and stuff, it becomes a reproach to your friends who know that they're not doing that, know they should be doing that. And they say, who's this guy to do that? And then they will try to sabotage you and undermine you and ridicule you. And so you're right. Turning pro does have a cost. A lot of times, if you take that course, you have to leave people behind.
+
+01:51:52.674 --> 01:52:16.798
+You know, people who were your friends, you can't be friends with them anymore, you know? Because a lot of times, groups of friends will have an unspoken kind of compact among them that we're all going to stay mediocre. That's the deal, right? And in fact, Good Will Hunting, that was what that movie was about, right? That the...
+
+01:52:17.314 --> 01:52:27.230
+Matt Damon character was this mathematical genius, right? And his buddies, all of his fist fighting Boston, South E guys,
+
+01:52:27.330 --> 01:52:57.296
+had this compact. They were all going to stay, you know, kind of blue collar guys and we're all going to be buddies and we're going to have a wonderful time, you know. And then there's that great scene at the end of the movie where Ben Affleck, his best friend, says to him, you know, if I come back 20 years from now and you're still here, I'm going to kill you because you won the lottery. You got this thing and this gift and you got to use it. So there are those kind of pacts that people make. We're all going to stay mediocre right here where we are. And if you, Andrew,
+
+01:52:57.296 --> 01:53:23.198
+try to rise above, you be the tall poppy, somebody's going to, you know, cut you off. So sometimes we do have to leave people behind, you know? Well, the good news is, and I can say this from experience, that there are people waiting for you who have high standards that are, make excellent friends. And many of the people that at one point we feel we've left behind later come back and
+
+01:53:23.586 --> 01:53:52.414
+ask for ways to better themselves physically, creatively, et cetera. Yeah, I think the notion of dominant culture is one that my dad internalized in me really early on. One of the things I love about being a professor at Stanford is you look to your right or you look to your left, and people are awesome. People are going, it has, if anything, I mean, it's the issue that you go, well, how much pressure is this? And
+
+01:53:52.610 --> 01:54:19.582
+I would say actually very little from the outside. Everyone who's a faculty member at Stanford is putting so much pressure on themselves to live out their vision of what they're trying to create. I mean, it's spectacular. I've got colleagues that I could tell you about multiple domains of life where they're just 11 out of 10, right? And some, it's only one. And in some, they have more challenged personal lives like anything else. And in some, they seem to just do it all. But I think...
+
+01:54:20.290 --> 01:54:48.958
+The notion, a former guest on this podcast who's a former tier one operator, DJ Shipley, said, you never want to be the big fish in the small pond. That's the worst place to be. It's the most uncomfortable, sad, low growth place to be. You want to be surrounded by people who are really striving, really pushing themselves. Your standards go up and you get better and you realize all sorts of wonderful things about who you can become. I think that's one...
+
+01:54:49.154 --> 01:55:18.078
+good feature of social media now, which is that people can find mentors. They can find people who are not giving the illusion of being perfect. You know, we used to think that famous people were perfect. Nowadays, the more famous you are, the harder it is to control your reputation. And I think that's in some ways a good thing. It has its darker side, but the idea that nobody's perfect, it's just that people are emphasizing or de-emphasizing certain aspects of life. So, but yeah, I think...
+
+01:55:18.562 --> 01:55:47.134
+learning oneself pro, which is, as you pointed out, something that people can just do for themselves, is really about taking yourself seriously and taking life seriously. And that brings me to a bigger question, which is so much of what you talk about, this is why I love it so much, is about the practical. We started off talking about what you do and when and how and how you close out a session and how you reopen a session. But it seems like you're also very connected to the spiritual
+
+01:55:47.586 --> 01:56:16.030
+aspects of the creative process. And that you really bookend these, for lack of a better phrase, that you really bookend the two aspects of the creative process. Because for many people, they hear about creativity, and it can seem kind of mystical. And it's almost like trying to grab fog. Many times the process is like trying to grab fog. So you've given a lot of extremely practical advice. But when it comes to the kind of spiritual higher order stuff, if you will, the muse, the
+
+01:56:17.410 --> 01:56:37.694
+How large a role does that play in your reflections about where you're going? Because it sounds like you believe that a lot of this stuff is not us. It's coming through us. I absolutely believe that. And, you know, you're right, Andrew. The creative life, I think, is a two-part.
+
+01:56:37.826 --> 01:57:05.694
+sided thing. You know, the one side is kind of the blue collar practical aspect of being a professional that, you know, you can sit down, you can do your work, you discipline yourself, you know what you're going to do. But the other side is that where do ideas come from? They don't come from us, you know, they come from someplace else. And so I'm definitely a believer that we live on the material plane here, but there's a plane above us.
+
+01:57:05.794 --> 01:57:32.798
+And we're trying to communicate to that plane, and that plane is trying to communicate to us. And our job as artists, like if we were in a monastery or something, the move from here to here would be called prayer. But if we're artists, the move from here to here is like the invocation of the muse. It's kind of saying, give me an idea. Help me, you know. And one, we on the material plane...
+
+01:57:33.090 --> 01:57:42.526
+ourselves at the service of this higher plane of our illumined self or whatever you want to call it the union self whatever we want to call it and um
+
+01:57:43.426 --> 01:58:13.392
+to channel it as best we can. And our job here is to be, in terms of being a pro, is to sort of be ready to take that voltage as it comes in. And like Beethoven could play on the piano what he was hearing in his head, right? So that's our job. We have to be able to know how to produce that in material form, whatever that is. But it's coming from another place. So I'm absolutely
+
+01:58:13.392 --> 01:58:31.646
+a believer that, you know, there are higher dimensions and there's probably a lot of higher dimensions. And I think the Greeks were really kind of onto something in the ancient Greeks in their concept of the muses and the various gods and goddesses that are...
+
+01:58:31.778 --> 01:59:01.374
+you know, interacting with this material plane that we're on. You know, that's a way of anthropomorphizing it. I'm sure we could come up with some way in the quantum field or something. I mean, you're a scientist. You probably know that it has to do with something. I don't know what. But there is something coming from somewhere, and it ain't us. Well, I have my ideas about that. Very few of them are grounded in neurons and cells, but they interact with neurons and cells. It's an evolving area. You know, we had...
+
+01:59:02.306 --> 01:59:31.326
+a guest on the podcast, David Desteno, who's a professor at Northeastern University, talked about the relationship between science and religion and how acts of faith, not just saying one believes in God, not just saying one believes in a higher order consciousness, but acts of faith, prayer for you, maybe through writing or other expressions that involve action, that those things
+
+01:59:31.650 --> 01:59:59.326
+absolutely have positive health benefits. We now know that. But that it's really about the acts of faith. I love that phrase. That's a great one. And it's true. Yeah. It struck a chord with me too because in biology, you learn that you need to understand the names of things. Mitochondria, Golgi apparatus. You need to know that. But those are just names. But the real magic in understanding biology and being able to internalize it
+
+01:59:59.426 --> 02:00:27.006
+is understanding things in their verb states, right? Understanding how neurons work, not just as a description, but being able to think about that and visualize it. I think it's the same with ourselves. This is why clinical labels can be useful, but understanding when one is in a sort of a place, verb actions of gratitude, as opposed to just reciting some gratitude thing, it's subtle, but it's meaningful. Anyway, I don't quite know how to articulate it, but Desteno did.
+
+02:00:27.234 --> 02:00:45.598
+describe this and the data from his laboratory are showing that when people start to think in terms of faith-based actions, for many people through religious scripture, reading scripture or whatever it is, but there are many ways to access this, that
+
+02:00:45.858 --> 02:01:15.710
+all sorts of interesting things start to happen at the level of morality, at the level of their own consciousness, at their level of feelings of connectedness that go beyond any kind of simple two plus two equals four outcome. So I totally agree with you. There's something else, definitely something else going on. It's exciting. I think, you know, I know you're not a big drinker, neither am I. Maybe that's why you look so young for your age and so robust. Although I think if I were to wager, I'd say it's also because you're
+
+02:01:15.938 --> 02:01:37.566
+pursuing what you love, you're answering your calling, certainly. That's the never-ending source of dopamine. Ah, is it? Absolutely, because it's self-replenishing. Ah, that's a great word, self-replenishing. Yeah, that's clearly the thing. Clearly the thing.
+
+02:01:38.850 --> 02:02:08.318
+You don't drink much, but nowadays there's a lot of discussion and perhaps there always was about taking things to be able to act to bridge this plane between the self and this higher order, these messages that we can receive and can come through us. I know a lot of writers drink a lot. There have been a lot of alcoholic writers. I hear that anyway, not that I know anybody. Yeah, I think historically that was true. I think a lot of writers have relied on amphetamines and alcohol.
+
+02:02:08.738 --> 02:02:38.462
+get their work done and nicotine nicotine is kind of making a comeback in non-smoke form so let's set that aside um you do this through sheer good old marine style grit it sounds like yeah or or kind of surrendering to it you know like i'm not a meditator but from what i gather that's sort of what meditation is about you know so yeah just sort of that's how i that's how i do it i'm not even sure how i do it i just
+
+02:02:38.658 --> 02:03:04.990
+myself at the service of what I'm trying to do and try to get out of the way as much as I can. I'd like to take a quick break and acknowledge one of our sponsors, David. David makes a protein bar unlike any other. It has 28 grams of protein, only 150 calories and zero grams of sugar. That's right, 28 grams of protein and 75% of its calories come from protein. That's 50% higher than the next closest protein bar.
+
+02:03:05.122 --> 02:03:21.086
+These bars from David also taste amazing. Right now, my favorite flavor is the new cinnamon roll flavor, but I also like the chocolate chip cookie dough flavor, and I also like the salted peanut butter flavor. Basically, I like all the flavors. They're all delicious. Also, big news, David bars are now back in stock.
+
+02:03:21.218 --> 02:03:51.184
+were sold out for several months because they are that popular, but they are now back in stock. By eating a David Bar, I'm able to get 28 grams of protein in the calories of a snack, which makes it very easy for me to meet my protein goals of one gram of protein per pound of body weight per day, and to do so without eating excess calories. I generally eat a David Bar most afternoons, and I always keep them with me when I'm away from home or traveling because they're incredibly convenient to get enough protein. As I mentioned, they're incredibly delicious, and given that 28 grams of protein, they're pretty filling for just
+
+02:03:51.184 --> 02:04:17.982
+150 calories. So they're great between meals as well. If you'd like to try David, you can go to davidprotein.com slash Huberman. Again, that's davidprotein.com slash Huberman. Throughout today's discussion, you've mentioned various physical labor jobs. I have a very practical question. How comfortable is the chair you sit in when you write? Not very comfortable, but I'm only sitting there for a couple hours, so it's okay. Still? Yeah. Yeah.
+
+02:04:18.370 --> 02:04:48.350
+much do you care that it's not that comfortable? I probably should not be comfortable, you know? But hopefully you're in your head and you're not really noticing that sort of thing. Why do you ask that question, Andrew? Because years ago, I went online, I was looking at some stuff about writers, and there's a very famous writer, I won't mention his name, and he said, you know, it's very important that you have a super comfortable chair, because otherwise you're going to be... And you know what my first thought was? Even though he's far more successful at writing than I am, I thought...
+
+02:04:49.122 --> 02:05:16.158
+That's terrible advice because if someone were going to ask me, you know, how to do, I don't know, like a really clean protein labeling experiment in the lab, you know, immunohistochemistry or something like that, I would make sure that they had everything. I would make sure that the antibodies were fresh out of there, but then I would not want them to even know that there are now, you know, like kits that can make certain...
+
+02:05:16.322 --> 02:05:39.134
+aspects of the process much easier because the moment you experience that creature comfort, the more painful the classic way of doing it is. Now, that's not to say I wouldn't embrace new technologies, but this notion of optimization, which sometimes gets thrown at me, is a terrible one with respect to the creative process because I believe that if you're thinking about, oh, like,
+
+02:05:39.682 --> 02:06:00.798
+comfortable or not? Am I in an optimal place to create? We started this podcast in a closet, a small closet with me, Rob, and the bulldog. And we were not thinking about optimizing anything except getting the audio and the visuals just right enough that we could get it out there. So I love, love, love, and I'm not surprised that
+
+02:06:01.282 --> 02:06:27.838
+you have a slightly uncomfortable chair and then you don't really care so much. Yeah. Yeah. I agree completely that, you know, that advice was really bad. I would go the absolute opposite, you know, get the most uncomfortable chair you possibly can have. Do you think those years of physical labor, Marine training and your morning ritual of going to the gym, uh, have allowed your mind to be more durable by virtue of the fact that you can tolerate, I think you can tolerate a fair amount of physical
+
+02:06:27.938 --> 02:06:57.374
+discomfort that you probably don't even realize because you have no comparison that most people would probably buckle under or at least be kind of like you like you that I don't know I feel like you are the opposite of like crotchety you know a terrible word yeah you don't see me at home okay yeah are you you're not a are you a complainer no I'm I've really tried I'd never complain at all I think it's a real vice it's another form of resistance interesting
+
+02:06:57.986 --> 02:07:22.366
+Well, Steven Pressfield, this has been awesome. Before we conclude, I do want to ask you, what's your most recent book and what's it about? And if you're willing, maybe give us a little peek behind the veil of what might be coming next. I have a book coming next June. We were talking about this before.
+
+02:07:22.466 --> 02:07:45.822
+I had a book a few years ago called A Man at Arms, which was about, it's about a recurring character that I have who I call the one man killing machine of the ancient world, kind of the Clint Eastwood of the ancient world, Telamon of Arcadia. And that book took place around the time of the crucifixion, fiction. The new book is,
+
+02:07:46.210 --> 02:08:11.326
+One of the aspects of Telemont is he keeps living life after life after life. And he's doomed, because of crimes he committed in the past, to live life after life as a soldier, always as a soldier, always fighting, always killing, always being killed, so on and so forth. So this new book that's coming out, it's called The Arcadian, is about his final life.
+
+02:08:12.194 --> 02:08:41.662
+And I won't say any more than that, except that it takes place in the past and that it's pretty interesting how this all sort of plays out. It really kind of goes what we were talking about before about are there different levels of reality? And in this case, there definitely are different levels of reality. And this character has to deal with them on the field of justice and payback. Fantastic.
+
+02:08:41.826 --> 02:09:09.374
+Next June. The next June, yeah. Okay. The Arcadian. The Arcadian. We'll keep our eyes and ears out for that. Meanwhile, you know, I don't know which book to recommend most, but, you know, I love War of Art. I love Do the Work. There's so many, you know, so I won't ask you to add just one other, Gates of Fire. They're all awesome. They're awesome listens and they're awesome reads. People should definitely check these out. It's...
+
+02:09:09.890 --> 02:09:33.950
+you've had an enormous impact on people's creative process. And these books are also very entertaining to listen to. It's not a bunch of lists. Yeah, they really are. And I'm actually very grateful, I should say, that you didn't have a ton of immediate and big success with your movie, with the King Kong movie, and that War of Art took some time because I do think
+
+02:09:34.274 --> 02:10:02.814
+Everything we know about dopamine dynamics tells us that, who knows, maybe you would have not written the subsequent books. And I look at your work as a body of work. And as a scientist, that's something that I can really appreciate. A body of work is really what makes for an awesome... And what you just said about dopamine, I never had thought about it that way. That's sort of a slow-release dopamine for me over many years. And it compounds the way that you've experienced your wins. I mean, oh, I've got stories...
+
+02:10:02.914 --> 02:10:30.974
+go on for days about people I knew that had big papers published in Science or Nature then disappeared completely. They're just gone. They're just completely gone because they couldn't take that the next thing didn't match up to the first thing. You know, this stuff is real. The one hit wonder thing happens in every field. And that movie, My Big Break, like really captures it in the realm of acting. You know, a lot of things we're talking about here today, Andrew, they don't teach you in school.
+
+02:10:31.810 --> 02:10:59.198
+Nobody teaches you about what if you have a one hit? How do you handle? Nobody even that's the topic doesn't come up at all. Or how to handle negative criticism, how to handle positive stuff like that. What's the idea of turning pro? Nobody, you never learn this, you know? And they're all absolutely vital life skills that you hope you encounter mentors along the way that teach you. Because it's not taught in school. Well, yeah.
+
+02:10:59.778 --> 02:11:21.726
+God bless you for stepping up and being that mentor to so many people, including to me. You're on that list, I swear. You're on that list, and it's not a long list. I'm embarrassed. Well, for the right reasons, I should say. And thank you for coming here today. Thank you for having me. Yeah, this has been a real pleasure. We've been talking about this for years. It was great when we discovered we were neighbors. Yeah.
+
+02:11:21.826 --> 02:11:44.798
+I hope we haven't squeezed all the fruit out of the orange here. We can do this again sometime. Oh, absolutely. And I'll see you in the gym. I'll try and get up a little earlier. That's actually starting after my 50th birthday. I'm going to be a 5 a.m. riser. No matter what time I went to sleep. That was something I resolved a few days ago after a different discussion on here. But I'm
+
+02:11:44.962 --> 02:12:12.094
+I feel a strong antidepressant effect of waking up and you just get so much more done. But that getting out of bed when you haven't slept quite as much as you would like is brutal. And as I said to you before, 50 is nothing at all. You're just a kid. You got another 50 plus years ahead of yourself. So I know when you turn 50, you turn 40, you turn 30, you say, oh my God, my life is over. Not so. Take it from me.
+
+02:12:12.290 --> 02:12:39.422
+I'd give my left arm to be 50 again. You got it made. Awesome. Well, that perhaps is the best birthday gift I could have received. Feels good to hear. Thank you. Please come back again. Thanks for doing everything you're doing. I know I do not need to tell you this, but please just keep going. We're all benefiting. I will if you will. Deal. All right. Thank you for joining me for today's discussion with Steven Pressfield. To learn more about his work and to find links to his various books, please see the show note captions.
+
+02:12:39.522 --> 02:13:09.488
+If you're learning from and or enjoying this podcast, please subscribe to our YouTube channel. That's a terrific zero cost way to support us. In addition, please follow the podcast by clicking the follow button on both Spotify and Apple. And on both Spotify and Apple, you can leave us up to a five-star review. And you can now leave us comments at both Spotify and Apple. Please also check out the sponsors mentioned at the beginning and throughout today's episode. That's the best way to support this podcast. If you have questions for me or comments about the podcast or guests or topics that you'd like me to consider for the Huberman
+
+02:13:09.488 --> 02:13:33.694
+Please put those in the comments section on YouTube. I do read all the comments. For those of you that haven't heard, I have a new book coming out. It's my very first book. It's entitled, Protocols, an Operating Manual for the Human Body. This is a book that I've been working on for more than five years, and that's based on more than 30 years of research and experience. And it covers protocols for everything from sleep to exercise, to stress control,
+
+02:13:33.890 --> 02:13:53.854
+protocols related to focus and motivation. And of course, I provide the scientific substantiation for the protocols that are included. The book is now available by presale at protocolsbook.com. There you can find links to various vendors. You can pick the one that you like best. Again, the book is called Protocols, an Operating Manual for the Human Body.
+
+02:13:54.210 --> 02:14:24.176
+And if you're not already following me on social media, I am Huberman Lab on all social media platforms. So that's Instagram, X, Threads, Facebook, and LinkedIn. And on all those platforms, I discuss science and science-related tools, some of which overlaps with the content of the Huberman Lab podcast, but much of which is distinct from the information on the Huberman Lab podcast. Again, it's Huberman Lab on all social media platforms. And if you haven't already subscribed to our Neural Network newsletter, the Neural Network newsletter is a zero-cost monthly newsletter that includes podcast summaries as well
+
+02:14:24.176 --> 02:14:49.886
+as what we call protocols in the form of one to three page PDFs that cover everything from how to optimize your sleep, how to optimize dopamine, deliberate cold exposure. We have a foundational fitness protocol that covers cardiovascular training and resistance training. All of that is available completely zero cost. You simply go to HubermanLab.com, go to the menu tab in the top right corner, scroll down to newsletter and enter your email. And I should emphasize that we do not share your email with anybody.
+
+02:14:50.082 --> 02:14:58.110
+Thank you once again for joining me for today's discussion with Steven Pressfield. And last, but certainly not least, thank you for your interest in science.

@@ -1,0 +1,1087 @@
+WEBVTT
+
+00:00.354 --> 00:30.046
+Welcome to the Huberman Lab Podcast, where we discuss science and science-based tools for everyday life. I'm Andrew Huberman, and I'm a professor of neurobiology and ophthalmology at Stanford School of Medicine. My guest today is Dr. Poppy Crum. Dr. Poppy Crum is a neuroscientist, a professor at Stanford, and the former chief scientist at Dolby Laboratories. Her work focuses on how technology can accelerate neuroplasticity and learning and generally enrich our life experience.
+
+00:30.210 --> 00:52.766
+You've no doubt heard about and perhaps use wearables and sleep technologies that can monitor your sleep, tell you how much slow wave sleep you're getting, how much REM sleep, and technologies that can control the temperature of your sleep environment and your room environment. Well, you can soon expect wearables and hearable technologies to be part of your life. Hearable technologies are, as the name suggests, technologies that can hear your voice and the voice of other people,
+
+00:52.898 --> 01:20.542
+and deduce what is going to be best for your immediate health and your states of mind. Believe it or not, these technologies will understand your brain states, your goals, and it will make changes to your home and working in other environments so that you can focus better, relax more thoroughly, and connect with other people on a deeper level. As Poppy explains, all of this might seem kind of space age and maybe even a little aversive or scary now, but she explains how it will vastly improve life for both kids and adults, and indeed increase human-human empathy.
+
+01:20.674 --> 01:32.510
+During today's episode, you'll realize that Poppy is a true out-of-the-box thinker and scientist. She has a really unique story. She discovered she has perfect pitch at a young age. She explains what that is and how that shaped her worldview and her work.
+
+01:32.706 --> 01:53.246
+Poppy also graciously built a zero cost step-by-step protocol for all of you. It allows you to build a custom AI tool to improve at any skill you want and to build better health protocols and routines. I should point out that you don't need to know how to program in order to use this tool that she's built. Anyone can use it. And as you'll see, it's extremely useful. We provide a link to it in the show note captions.
+
+01:53.346 --> 02:22.142
+Today's conversation is unlike any that we previously had on the podcast. It's a true glimpse into the future, and it also points you to new tools that you can use now to improve your life. Before we begin, I'd like to emphasize that this podcast is separate from my teaching and research roles at Stanford. It is, however, part of my desire and effort to bring zero cost to consumer information about science and science related tools to the general public. In keeping with that theme, today's episode does include sponsors. And now for my conversation with Dr. Poppy Crum.
+
+02:22.370 --> 02:48.222
+Dr. Poppy Crum, welcome. Thanks, Andy. It's great to be here. Great to see you again. We should let people know now. We were graduate students together, but that's not why you're here. You're here because you do incredibly original work. You've worked in so many different domains of technology, neuroscience, et cetera. Today, I want to talk about a lot of things, but I want to start off by talking about neuroplasticity, this incredible ability of our nervous systems to change in response to experience.
+
+02:48.418 --> 03:17.470
+I know how I think about neuroplasticity, but I want to know how you think about neuroplasticity. In particular, I want to know, do you think our brains are much more plastic than most of us believe? Like, can we change much more than we think? And we just haven't accessed the ways to do that. Or do you think that our brains are pretty fixed? And in order to make progress as a species, we're going to have to, I don't know, create robots or something to do the work that we're not able to do because our brains are fixed. But let's start off by just getting...
+
+03:17.794 --> 03:47.582
+your take on what neuroplasticity is and what you think the limits on it are. I do think we're much more plastic than we talk about or we realize in our daily lives. And just to your point about creating robots, the more we create robots, there's neuroplasticity that comes with using robots as humans when we use them in partnerships or as tools to accelerate our capabilities. So neuroplasticity, where I resonate with it a lot,
+
+03:47.714 --> 04:15.806
+is trying to understand, and this is what I've done a lot of in my career, is thinking about building and developing technologies, but with an understanding of how they shape our brain. Everything we engage with in our daily lives, whether it's the statistics of our environments and our context or the technologies we use on a daily basis, are shaping our brains in ways through neuroplasticity.
+
+04:15.906 --> 04:43.934
+Some more than others. Some we know as we age are very dependent on how attentive and engaged we are as opposed to passively just consuming and changing. But we are in a place where everyone, I believe, needs to be thinking more about how the technologies they're using, especially in the age of AI and immersive technologies, how they are shaping or architecting our brains as we move forward.
+
+04:44.130 --> 05:12.382
+You go to any Neuroscience 101 medical school textbook and there's something, you'll see a few pages on something called the homunculus. Now, what is the homunculus? It's a data representation, but it'll be this sort of funny looking creature when you see it. But that picture of this sort of distorted human that you're looking at is really just a data representation of how many cells in your brain are helping, are coding the
+
+05:12.482 --> 05:30.686
+and representing information for your sense of touch, right? And that image, though, and this is where things get kind of funny, that image comes from Wilder Penfield back in the 40s. He recorded somatosensory cells of a patient's
+
+05:30.882 --> 06:00.382
+just before they were to have surgery for epilepsy and such. And since we don't have pain receptors in our cortex, he could have this awake human and be able to touch different parts of their brain and ask them to report what sensation they felt on their bodies. And so he mapped that part of their cortex. And then that's how we ended up with the homunculus. And you'll see it'll have bigger lips. It'll have smaller parts of your back and the areas where you just don't have the same sensitivities.
+
+06:00.578 --> 06:27.454
+Well, fast forward to today. When you look at that homunculus, one of the things I always will ask people to think about is, you know, what's wrong with this image? You know, this is an image from 1940 that is still in every textbook. And, you know, any Stanford student will look at it and they'll immediately say, well, the thumb should be bigger because we do this all day long. And I've got more sensitivity in my fingers because I'm always typing on my mobile device, which is absolutely true.
+
+06:27.906 --> 06:52.926
+Or maybe they'll say something like, well, the ankles are the same size and we drive cars now a lot more than we did in the 40s. Or maybe if I live a different part of the world, I drive on one side versus the other. And in a few years, you know, we probably won't be driving and those resources get optimized elsewhere. So what the homunculus is, is it's a representation of how our brain has allocated resources and
+
+06:53.186 --> 07:14.846
+to help us be successful. And those resources are the limited cells we have that support whatever we need to flourish in our world. And the beauty of that is when you develop expertise, you develop more support, more resources, go to helping you do that thing, but they also get more specific.
+
+07:14.978 --> 07:41.854
+They develop more specificity so that, you know, I might have suddenly a lot more cells in my brain devoted to helping me. You know, I'm a violinist and my, well, my left hand, my right hemisphere, my somatosensory cortex, I'm going to have a lot more cells that are helping me, you know, feel my fingers and the tips of everything so that I can, you know, be fluid and more virtuosic. But that means I have...
+
+07:42.050 --> 08:11.198
+more cells, but they're more specified. They're giving me more sensitivity. They're giving me more data that's differentiated. And that's what my brain needs, and that's what my brain's responding to. And so when we think about that, you know, my practice as a musician versus my practice playing video games, all of these things influence our brain and influence our plasticity. Now, where things get kind of interesting to me and sort of my obsession on that side is
+
+08:11.458 --> 08:40.158
+Every time we engage with a technology, it's going to shape our brain, right? It's both, you know, our environments, but our environments are changing. Those are shaping who we are. You know, I think you can look at people's hearing thresholds and predict what city they live in. Really? Absolutely. Yes. Can you just briefly explain hearing thresholds and why that would be? I mean, I was visiting the city of Chicago a couple years ago. Beautiful city. Yeah. Amazing food. Love the people. Yeah.
+
+08:40.385 --> 09:08.702
+Very loud city, wide downtown streets, not a ton of trees compared to what I'm used to. And I was like, wow, it's really loud here. And I grew up in the suburbs, got out as quickly as I could. Don't like the suburbs, sorry. Suburb dwellers, not for me. I like the wilderness and I like cities. But you're telling me that you can actually predict people's hearing thresholds for loudness?
+
+09:08.898 --> 09:38.078
+simply based on where they were raised or where they currently live? In part, it can be both, right? Because cities have sonic imprints, types of noise, things that are very, you know, very loud cities, but also what's creating that noise, right? That's often unique, the inputs, the types of vehicles, the types of density of people and even the construction in those environments. It is changing what noise exists. That's shaping, you know, people's
+
+09:38.178 --> 10:06.590
+hearing thresholds at the lowest level, it's also shaping their sensitivities. If you're used to hearing, you know, certain animals in your environment and they come with, you know, you should be heightened to a certain response in that, you're going to develop increased sensitivity to that, right? Whereas if it's really abnormal, you know, to, I hear chickens, I have a neighbor who has chickens in the city, but- Roosters too? Yes. Yes. I grew up near a rooster. I can still hear that rooster. Yeah. Yeah.
+
+10:06.882 --> 10:32.670
+Those sounds are embedded deeply in my mind. There's the semantic context and then just the sort of spectrum, right? And the intensity of that spectrum, meaning when I say spectrum, I mean the different frequency amplitudes and what that shaping's like. High pitch, low pitch. Yeah, yeah. And that affects how your neural system is changing, even at the lowest level of what, you know, what it's your ear is, your
+
+10:32.770 --> 10:57.086
+brain your cochlea is getting exposed to, but then also where, you know, so that would be the lower level, you know, what sort of noise damage might exist, what exposures, but then also then there's the amplification of, you know, coming from your higher level areas that are helping you know that these are frequencies are more important in your context, in your environment. There's a
+
+10:57.282 --> 11:26.878
+funny, like this is kind of funny, there was a film called, I think it's The Sound of Silence, and it started, I love Peter Sarsgaard, he was one of the actors in it, and it was sort of meant to be a bit fantastical, or is that a word, is that the right word? But in fact, to me, so the filmmakers had talked to me a lot as had, and to inform this sort of main character and the way he behaved, because I have absolute pitch, and there were certain things that they were trying to emulate in this film,
+
+11:27.202 --> 11:54.942
+in this film. He ends up being this person who tunes people's lives. He'll walk into their environments and be like, oh, you know, things are going badly at work or your relationships because you're, you know, you've got this tritone or your water heater is making this, you know, pitch and your teapot is at this. Oh my God, this would go over so well in LA. People would pay millions of dollars in Los Angeles. It's totally funny. Do you do this for people? No. Okay, okay. I will tell you, I...
+
+11:55.266 --> 12:22.526
+I will walk into hotel rooms and immediately if I hear something, I've moved. And so, you know, that is... Because you have perfect pitch. Could you define perfect pitch? Does that mean that you can always hit a note perfectly with your voice? There is no such thing as perfect pitch. There's absolute pitch. And so I think only because the idea of... So, like, ah, that would be A equal 440 hertz, right? But that's a standard that we use in modern time. And the, you know, different...
+
+12:22.786 --> 12:46.878
+What A is has actually changed throughout our lives with aesthetic, with what people liked, with the tools we used to create music. And, you know, in the Baroque era, A was 415 hertz. Can you hit that? Awesome. And in any case, so that's why it's absolute because, you know, guess what? As my basilar membrane gets changed,
+
+12:47.426 --> 13:15.870
+more rigid as I might age or my temporal processing slows down, my brain's going to still think I'm in, you know, I'm singing 440 hertz, but it might not be. Basilar membrane is a portion of the internal ear that converts sound waves into electrical signals, right? Yeah. Okay, fair enough. Well, I'm talking to an auditory physiologist here. I teach auditory physiology, but I want to just make sure because I'm sitting across from an expert. I'd like to take a quick break and acknowledge one of our sponsors, David.
+
+13:15.970 --> 13:45.630
+David makes a protein bar unlike any other. It has 28 grams of protein, only 150 calories and zero grams of sugar. That's right, 28 grams of protein and 75% of its calories come from protein. This is 50% higher than the next closest protein bar. David protein bars also taste amazing. Even the texture is amazing. My favorite bar is the chocolate chip cookie dough, but then again, I also like the new chocolate peanut butter flavor and the chocolate brownie flavored. Basically, I like all the flavors a lot. They're all incredibly delicious.
+
+13:45.794 --> 14:11.134
+The toughest challenge is knowing which ones to eat on which days and how many times per day. I limit myself to two per day, but I absolutely love them. With David, I'm able to get 28 grams of protein in the calories of a snack, which makes it easy to hit my protein goals of one gram of protein per pound of body weight per day. And it allows me to do so without ingesting too many calories. I'll eat a David protein bar most afternoons as a snack. And I always keep one with me when I'm out of the house or traveling.
+
+14:11.234 --> 14:26.238
+They're incredibly delicious, and given that they have 28 grams of protein, they're really satisfying for having just 150 calories. If you'd like to try David, you can go to davidprotein.com slash Huberman. Again, that's davidprotein.com slash Huberman.
+
+14:26.498 --> 14:46.014
+Today's episode is also brought to us by Helix Sleep. Helix Sleep makes mattresses and pillows that are customized to your unique sleep needs. Now, I've spoken many times before on this and other podcasts about the fact that getting a great night's sleep is the foundation of mental health, physical health, and performance. Now, the mattress you sleep on makes a huge difference in the quality of sleep that you get each night.
+
+14:46.146 --> 15:16.112
+how soft it is or how firm it is, all play into your comfort and need to be tailored to your unique sleep needs. If you go to the Helix website, you can take a brief two minute quiz and it will ask you questions such as, do you sleep on your back, your side, or your stomach? Do you tend to run hot or cold during the night? Things of that sort. Maybe you know the answers to those questions, maybe you don't. Either way, Helix will match you to the ideal mattress for you. For me, that turned out to be the Dusk mattress. I started sleeping on a Dusk mattress about three and a half years ago and it's been far and away the best sleep that I've ever had. If you'd
+
+15:16.112 --> 15:37.822
+Okay, so our brains are customized to our experience. Yeah.
+
+15:38.114 --> 16:07.294
+especially our childhood experience, but also our adult experience. Yes. You mentioned the homunculus, this representation of the body surface. And you said something that I just have to pick up on and ask some questions about, which is that this hypothetical Stanford student, could be any student anywhere, says, wait, nowadays we spend a lot of time writing with our thumbs and thinking as we write with our thumbs and emoting, right? I mean, when we text with our thumbs, we're sometimes involved in an emotional situation.
+
+16:07.490 --> 16:37.246
+Yeah.
+
+16:38.722 --> 17:05.822
+But then I'm also internalizing the voice of the person writing to me if I know them. But it's coming through filtered by my brain, right? So it's like, I'm not trying to micro dissect something here for the sake of micro dissection, but the conversation that we have by text, it's all happening in our own head. But there are two or more players, group text was too complicated to even consider right now. But...
+
+17:06.849 --> 17:36.638
+what is that transformation really about? Previously, I would write you a letter. I would send you a letter. I'd write you an email. I'd send you an email. And so the process was really slowed. Now you can be in a conversation with somebody that's really fast, back and forth. Some people can type fast. You can email fast, but nothing like what you can do with text. I can even know when you're thinking because it's dot, dot, dot, or you're writing. And so is it possible that we've now allocated an entire...
+
+17:36.866 --> 18:03.966
+region of the homunculus or of some other region of cortex brain to conversation that prior to 2010 or so, the brain just was not involved in conversations of any sort. In other words, we now have the integration of writing with thumbs, that's new, hearing our own voice, hearing the hypothetical voice of the other person at the other end, and doing that all at
+
+18:04.098 --> 18:30.654
+rapid speed? Are we talking about like a new brain area or are we talking about using old brain areas and just trying to find and push the overlap in the Venn diagram? Because I remember all of this happening very quickly and very seamlessly. I remember like texting showed up and it was like, all right, well, it's a little slow, a little clunky. Pretty soon it was autofill. Pretty soon it was learning us. Now we can do voice recognition. And it's, it's,
+
+18:30.946 --> 19:00.894
+You know, people pick this up very fast. So the question is, are we taking old brain areas and combining them in new ways? Or is it possible that we're actually changing the way that our brain works fundamentally in order to be able to carry out something as what seems to be nowadays trivial, but as basic to everyday life as texting? What's going on in our brain? We aren't developing new resources. We've got the same cells that are, or I mean, there's neurogenesis, of course, but...
+
+19:01.122 --> 19:14.942
+It's how those are getting allocated. And, you know, just one quick comment from what we said before when we talk about the homunculus. The homunculus is an example of a map in the brain, a cortical map. And maps are important in the brain because they, you know,
+
+19:15.362 --> 19:45.054
+allow cells that need to interact to give us specificity, to make us fast, to have, you know, tight reaction times and things, you know, because you've got shorter distance and, you know, things that belong together. Also, there's a lot of motility in terms of, you know, what those cells respond to potentially dependent on our input. So the homunculus might be one map, but there are maps all over our brain. And those maps still have a lot of cross input. So what you're talking about is, are you having areas where we didn't use to allocate and differentiate
+
+19:45.186 --> 20:12.158
+in the specificity of what those cells were doing that are now quite related to the different ways my brain is having to interpret a text message. And the subtlety and the nuance of that, that actually now I get faster at, I have faster reaction times, I also have faster interpretations. So am I allocating cells that used to do something else to allow me to have that? Probably. But I'm also building, you know, where we're
+
+20:12.290 --> 20:38.398
+Like think about me as a multisensory object that has, you know, I have to integrate information across sight, sound, smell to form a holistic object experience. That same sort of integration and pattern is happening now when we communicate in ways that it didn't used to. So what does that mean? It means there's a lot more repeatability, a lot faster pattern matching, a lot more integration that is allowing us to go faster.
+
+20:38.978 --> 21:07.870
+I completely agree. I feel like there's an entire generation of people who grew up with smartphones for which it's just part of life. I think one of the most impactful statements I ever heard in this general domain was I gave a talk down at Santa Clara University one evening to some students. And I made a comment about putting the phone away and how much easier it is to focus when you put the phone away and how much better life is when you take space from your smartphone and all of this kind of thing. And afterwards, this...
+
+21:07.970 --> 21:34.814
+A young guy came up to me, he's probably in his early 20s, and he said, listen, you don't get it at all. I said, what do you mean? He said, you adopted this technology into your life and after your brain had developed. He said when – he's speaking for himself. He said, when my phone runs out of charge, I feel the life drain out of my body. And it is unbearable or nearly unbearable until that phone pops back on.
+
+21:36.226 --> 22:05.630
+And then I feel life return to my body. And it's because I can communicate with my friends again. I don't feel alone. I don't feel cut off from the rest of the world. And I was thinking to myself, wow. Like his statements really stuck with me because I realized that his brain, as he was pointing out, is indeed fundamentally different than mine in terms of social context, communication, feelings of safety, and on and on. And I don't think he's alone. I think for some people it might not be quite as extreme. Hmm.
+
+22:06.210 --> 22:27.774
+But for many of us to see that dot, dot, dot in the midst of a conversation where we really want the answer to something or it's an emotionally charged conversation can be a very intense human experience. That's interesting. So we've sped up the rate that we...
+
+22:28.162 --> 22:55.870
+transfer information between one another. But even about trivial things, it doesn't have to be an argument or like, is it stage four cancer or is it benign, right? Those are extreme conditions, right? Are they alive? Are they dead? Did they find him or her or did they not? Those are extreme cases, but there's the everyday life of, and I noticed this, like if I go up the coast sometimes or I'll go to Big Sur and I will intentionally have time away from my phone, it takes about a
+
+22:56.098 --> 23:21.790
+an hour or two or maybe even a half day to really drop into the local environment where you're not looking for stimulation coming in through the smartphone. And I don't think I'm unusual in that regard either. So I guess the question is, do you think that the technology is good, bad, neutral, or are you agnostic as to how the technologies are shaping our brain? It goes in lots of different directions.
+
+23:21.986 --> 23:27.902
+One thing I did want to say, though, with smartphones specifically and sort of everything, you know, in...
+
+23:28.258 --> 23:57.886
+In audio, our ability to carry our lifetime of music and content with us has been because of huge advances in the last 25, 30 years, and maybe slightly more, around compression algorithms that have enabled us to have really effective what we call perceptual compression, lossy perceptual algorithms, and things like MP3 and my past work with companies like Bilby.
+
+23:58.146 --> 24:25.182
+Whenever you're talking about what's the goal of content compression algorithms, it's to translate the entirety of the experience, the entirety of a signal with a lot of the information removed, right? But in intelligent ways. When you look at the way someone is communicating with acronyms and the shorthand that the next generations use to communicate, it is such a rich communication, even though they might
+
+24:25.378 --> 24:54.494
+Just say LOL. I mean, it's like, or they might, you know, it's actually a lossy compression that's triggering a huge cognitive experience, right? Can you explain lossy for people who might not be familiar with it? Lossy means that in your encoding and decoding of that information, there is actually information that's lost when you decode it. But hopefully that information is not impacting the perceptual experience. Imagine I have, you know, a song and I want to represent that song.
+
+24:54.594 --> 25:24.574
+I could take out, to make my file smaller, I could take out every other, you know, every 500 milliseconds of that, and it would sound really horrible, right? Or I could be a lot more intelligent, and instead, basically, you know, if you look at early models like MP3, they're kind of like computational models of the brain. They stop, you know, they might stop at like the auditory nerve, but they're trying to put a model of how our brain would deal with sound, what we would hear, what we wouldn't. This sound's present, and it's
+
+25:24.834 --> 25:52.254
+present at the same time as this sound, then this sound wouldn't be heard, but this sound would be. So we don't need to spend any of our bits coding this sound. Instead, we just need to code this one. And so it becomes an intelligent way for the model and the algorithm of deciding what information needs to be represented and what doesn't to create the same, you know, the best perceptual experience, which perceptual meaning what we get to, you know, take home. I think one of the things that's
+
+25:52.450 --> 26:13.950
+Important then why I think whenever I had used to have to teach some of what it means to represent a rich experience with minimal data, you think with minimal information, some of the acronyms that exist in like mobile texting, they've taken on a very rich life in internal life. LOL, OMG.
+
+26:14.082 --> 26:40.478
+Yeah, well, those are simplistic ones, but I think people can have communication now that we can't understand entirely. Is it because you have a 10-year-old daughter? Does she have communication by acronym that to you is cryptic? Sometimes, but I have to figure it out then. But yes. But the point is, that is an example of a lossy compression algorithm that actually has a much richer perceptual experience, right? And it often needs context, but it's still, you know, you're using...
+
+26:40.642 --> 27:08.958
+few bits of information to try to represent a much richer feeling in a much richer state, right? And, you know, if you look at different people, they're going to have, you know, bigger physiological experience dependent on, you know, how they've grown up with that kind of context. It sounds to me, I don't want to project here, but it sounds to me like you see the great opportunity of data compression. Like, let's just stay with the use of acronyms in texting, right?
+
+27:09.122 --> 27:38.494
+That's a vast data compression compared to the kind of speech and direct exchange that people engaged in 30 years ago. So there's less data being exchanged, but the experience is just as rich, if not more rich, is what you're saying, which implies to me that you look at it as generally neutral to benevolent. It's good. It's just different. I'm coming up on 50 in a couple months. And as opposed to somebody saying, well, you know, when I was younger, we'd write
+
+27:39.138 --> 28:08.862
+boyfriend or girlfriend a letter. You know, I would actually write out a birthday card. I would go, you'd have a face-to-face conversation and you've got this younger generation that are saying, yeah, whatever. You know, this is like what we heard about. I used to trudge to school in the snow kind of thing. It's like, well, we have heated school buses now and we've got driverless cars. So I think this is important and useful for people of all ages to hear that, you
+
+28:09.410 --> 28:32.126
+The richness of an experience can be maintained even though there are data or some elements of the exchange are being completely removed. Absolutely. But it's maintained because of the neural connections that are built in those individuals, right? And that generation. I always think of, okay, and the nervous system likes to code along a continuum, but like yum, yuck, or meh.
+
+28:32.226 --> 28:53.886
+Like, do you think that a technology is kind of neutral? Like, yeah, you lose some things, you gain some things. Or do you think like this is bad? These days we hear a lot of AI fear. We'll talk about that. Or you hear also people who are super excited about what AI can do, what smartphones can do. I mean, some people like my sister and her daughter love smartphones because they can –
+
+28:53.986 --> 29:13.758
+It gives a feeling of safety at a distance. Like quick communications are easier. It's hard to sit down and write a letter. She's going off to college soon. So the question is like, how often will you be in touch? It raises expectations about frequency, but it reduces – of contact, but it reduces expectations of depth. Because you can do like a, hey, I was thinking about you this morning, and that can feel like a lot.
+
+29:13.922 --> 29:37.438
+But a letter, if I sent a letter home, you know, during college to my own, like, hey, what's thinking about you this morning? Love, Andrew. I'd be like, okay. Like, I don't know how that would be. They'd be like, well, that didn't take long, right? So I think there's a – it's a seesaw, you know. You get more frequency and then it comes with different levels of, you know, expectation on those. My daughter's at camp right now and we're only allowed to write.
+
+29:37.538 --> 30:00.030
+Letters for two weeks. Handwritten letters. Handwritten letters. How did that go over? It's happening. I mean, I'd lost their home in a flood years ago. And one of the only things I saved out of the flood, which is this, and I just brought these back because I got them from my brother, is this communication between one of my ancestors, you know, during the Civil War, like they were courting.
+
+30:00.226 --> 30:29.374
+And that was all saved, these letters back and forth between the women. And, you know, it's like 1865. Do you have those letters? I do. I do. I had them in my computer bag until I flew up here. But, you know, they were on parchment. And even though they went through a flood, they didn't run. And it's this very different era of communication. And it's wonderful to have that preserved because that doesn't translate, right, through...
+
+30:29.890 --> 30:43.422
+without that history. In any case, I am a huge advocate for integration of technology, but it's for me the world is data. And I do think that way. It's, you know, and I
+
+30:43.714 --> 30:59.934
+I look at the way my daughter behaves. I'm like, okay, well, what data is coming in? And why did she, you know, respond that way? And, you know, there's an example I can give. But, you know, you think we were talking about neuroplasticity. It's like we are the creatures of sort of three things. One is...
+
+31:00.706 --> 31:23.646
+sensory systems, how they've evolved, and be it by the intrinsic noise that is degrading our sensory receptors or the external strain. My brain is going to have access to about the same amount of information as someone with hearing loss if I'm in a very noisy environment. And so suddenly you've induced, you've compromised the data I have access to.
+
+31:23.778 --> 31:53.278
+And then also our sort of experientially established priors, right? Our priors being, if you think about the brain as sort of a Bayesian model, things aren't always deterministic for us like they are for some creatures. Our brain's having to take data and make decisions about it and respond to it. Which is Bayesian. We should just explain for people. Deterministic would be input A leads to output B. Bayesian is, it depends on the statistics of what's happening externally and internally. These are probabilistic models. Like there's a likelihood of A...
+
+31:54.018 --> 32:19.006
+becoming B, or there's a likelihood of A driving B, but there's also a probability that A will drive C, D, or F. Absolutely. And, you know, we should get into, I mean, some of the things that make us the most effective in our environments and just in interacting in the world is how fast and effective we are with dealing with those probabilistic, you know, situations. Those things where your brain, it's like probabilistic inference is a great
+
+32:19.202 --> 32:41.918
+indicator of success in an environment and you know be it a work environment be it just you know walking down the street and um how that's how do we deal with this like data that doesn't just tell us we have to go right or left but there's a lot of different inputs and it's our sort of situational intelligence in the world and there you know we can break that down into a lot of different ways in any case we are the products of our you know
+
+32:42.210 --> 32:54.558
+Our sensory systems, our priors, which are the statistics and data we've had up until that moment that our brain's using to weight how it's going to behave and the decisions it makes, but also then our expectations.
+
+32:54.786 --> 33:20.510
+the context of that, you know, that have shaped where we are. And so there's this funny story, like my daughter, when she was two and a half, we're in the planetarium at the Smithsonian and we're watching, I think one typical film you might watch in a planetarium. We started in LA, zoom out on our way to the sun and we passed that sort of, you know, quintessential NASA image of the earth. And it's totally dark and silent. And my daughter, as loud as she possibly could, yells minions. And I'm like, what? What's going on?
+
+33:20.642 --> 33:49.598
+I'm like, oh, yes, of course. Her experience fully established prior of that image is coming from the Universal logo. And, you know, she never, you know, that says Universal. Yeah, no, I love it. It was totally valid. But it was this very, you know, honest and true part of what it is to be human. Like each of us is experiencing very different, you know, having very different experiences of the same physical information.
+
+33:49.698 --> 34:19.134
+And we need to recognize that, but it is driven by our exposures and our priors and our sensory systems. It's sort of that trifecta and our expectations of the moment. And once you unpack that, you really start to understand and appreciate the influence of technology. Now, I am a huge advocate for technology, improving us as humans, but also improving the data we have to make better decisions and the sort of insights that drive us.
+
+34:19.522 --> 34:45.054
+At the same time, I think sometimes we're pennywise pound foolish with how we use technology. And the quick things that make us faster can also make us dumber and take away our cognitive capabilities. And, you know, where you'll end up with those that are using the technologies might be to, you know, to write papers all the time or maybe, well, and we can talk about that more, are putting themselves in a place where,
+
+34:45.186 --> 35:06.942
+they are going to be compromised trying to do anything without that technology and also in terms of their learning of that data, that information. And so you start even ending up with bigger differentiations and cognitive capabilities by how you use a technology tool to make you better or faster or not. One of my sort of
+
+35:07.042 --> 35:34.206
+things I've always done is teach at Stanford. Thus, we also have that in common. I need to sit in on one of your lectures. Yeah, but my class there is called neuroplasticity and video gaming. And I'm a neurophysiologist, but I'm really a technologist. I like buildings. I like innovation across many domains. And while that class says video gaming, it's really more, well, video games are powerful in the sense that there's this sort of closed loop interaction
+
+35:34.306 --> 36:03.582
+environment. You give feedback, you get data on your performance, but you get to control that and know what you randomize, how you build. And what our aim is in that class is to build technology and games with an understanding of the neural circuits you're impacting and what you want to train. I'll have students that are musicians, I'll have students that are computer scientists, I'll have students that are some of Sanford's top athletes. I've had a number of their top athletes go through my course. And
+
+36:04.162 --> 36:29.246
+It's always focused on, okay, there's some aspect of human performance I want to dissect and I want to really amplify the sensitivity or the access to that type of learning in a closed loop way. Just for anyone that isn't familiar with the role or the history of gaming in the neuroscience space, you know, there's been some great papers in the past. Take a gamer versus a non-gamer, just to start with someone self-identified.
+
+36:29.346 --> 36:58.878
+a typical gamer actually has what we would call more sensitive, and this is your domain, so you can counter me on this anytime, but, you know, contrast sensitivity functions. And like a contrast sensitivity function is, you know, ability to see edges and differentiation in a visual landscape, okay? They can see faster and, you know, they're more sensitive to that sort of differentiation. So then someone who...
+
+36:59.362 --> 37:26.814
+says I'm not a video game player or self identifies that way. Because they've trained it. They've trained it. Like a first person shooter game, which I've played occasionally in an arcade or something like that. I didn't play a lot of video games growing up. I don't these days either. But yeah, a lot of it is based on contrast sensitivity knowing is that a friend or foe? Are you supposed to shoot them or not? You have to make these decisions very fast. Like right on the threshold of
+
+37:27.042 --> 37:54.366
+what you would call like reflexive, like no thinking involved, but it's just rapid iteration and decision-making. And then the rules will switch, right? Like suddenly you're supposed to turn other things into targets and other things into friends. Well, you're spot on because then you take someone who that self-identified non-gamer, make them play 40 hours of Call of Duty, and now their contrast sensitivity looks like a video game player and it persists, you know,
+
+37:54.658 --> 38:21.918
+go back, measure them a year later. But, you know, 40 hours of playing Call of Duty and I see the world differently, not just in my video game. I actually have foundational shifts in how I experience the world that give me greater sensitivity to my situational awareness, my situational intelligence. In real life. Yeah. Yeah. Yeah, because that's a low-level processing capability. I love intersecting those when you can. But what's even, I think, more interesting is you also, and these were some, this was a great study by Alex Puget, you
+
+38:22.658 --> 38:49.022
+And Daphne de Berrier, where it's not just the contrast sensitivity. It's let's go to that next level where we were talking about Bayesian, like probabilistic decisions where things aren't deterministic. And for a video game player, and I can train this, they're going to make the same decisions as a non-video game player in those, you know, probabilistic inferential situations, but they're going to do it a lot faster.
+
+38:49.378 --> 39:19.230
+And so that edge, that ability to get access to that information is phenomenal, I think. And when you can tap into that, that becomes a very powerful thing. So like probabilistic inference goes up when I've played 40 hours of Call of Duty. But then what I like to do is take it and say, okay, here's a training environment. I had a couple of Stanford's top soccer players in my course this year, and our focus was, okay, what data...
+
+39:19.490 --> 39:28.830
+do you not have? And how can we build a closed loop environment and make it something so that you're gaining better neurological access to
+
+39:29.026 --> 39:56.350
+your performance based on data like my acceleration, my velocity, not at the end of my, you know, two-hour practice, but in real time and getting auditory feedback so that I'm actually tapping into more neural training. So we had sensors, you know, like on their calves that were measuring acceleration, velocity, and able to give us feedback in real time as they were doing, you know, a sort of...
+
+39:56.706 --> 40:19.358
+somewhat gamified training. I don't want to use gamified, it's overused, but let's say it felt like fun environment, but it's also based on computation of that acceleration data and what their targets were. It's feeding them different sonic cues so that they're building that resolution. When I say resolution, what I mean is
+
+40:19.522 --> 40:45.982
+Especially as a novice, I can't tell the difference between whether I've accelerated successfully or not. But if you give me more gradation in the feedback that I get with that sort of that closed-loop behavior, I start to – my neural representation of that is going to start differentiating more. So with that, that's where the auditory feedback – so they're getting that in real time. And you build that kind of closed-loop environment that helps build that –
+
+40:46.466 --> 41:11.870
+create greater resolution in the brain and greater sensitivity to differentiation. I'd love for you to share the story about your daughter improving her swimming stroke, right? Because she's not a D1 athlete yet. Maybe she will be someday. But she's a swimmer, right? And in the past, if you wanted to get better at swimming, you needed a swimming coach. And if you wanted to get really good at swimming, you'd have to find a really good swimming coach and you'd have to work with them repeatedly.
+
+41:11.970 --> 41:32.638
+You took a slightly different direction that really points to just how beneficial and inexpensive this technology can potentially be or relatively inexpensive. First, I'll say this. Number one is having good swimming coaches. Sure. I'm not trying to do away with swimming coaches. Parents who are data-centric and really like building technologies are sometimes maybe more.
+
+41:32.930 --> 41:58.558
+can be red herring distractions, but hopefully not. Okay. All right. Well, yes. That's one of them. Let's keep the swimming coaches happy. So for example, like you go and train with elite athletes and if you go to a lot of swimming camps or training programs, it's always about work with cameras and what they're recording you, they're assessing your strokes. But the point is, I mean,
+
+41:58.850 --> 42:26.206
+You can use, and I did this, you know, knowing the things that the coaches, or frankly, you can go online and learn some of those things that matter to different strokes. You can use, you know, use perplexity labs, use repli, use some of these. These are online resources. Yeah, yeah. And you can build, quickly build a computer vision app that is giving you data analytics on your strokes and in real time.
+
+42:26.306 --> 42:47.166
+So how does that work? You're taking the phone underwater, analyzing the stroke? In this case, I'm using mobile phones, so I'm doing everything above. Okay, so you're filming. If you could walk us through this. So you film your daughter doing freestyle stroke for, you know. Right, right, or breaststroke or butterfly. There's a lot of core things that, you know, maybe you want to care about. Backstroke and freestyle. What's their, you know, and I am not, I was,
+
+42:47.330 --> 43:15.646
+We used to run. Like, I know you're a good runner, but I'm a runner, I'm a rock climber, less a swimmer. But, you know, things like the roll or how high they're coming above the water, what's your, you know, what's your velocity on a, you know, you can get actually very sophisticated once you have the data, right? And, you know, what's your velocity on entrance? How much, you know, how far in front of your head is your arm coming in? How, you know, what is maybe there's, again,
+
+43:16.130 --> 43:32.126
+Maybe there are things that are obvious, which is you want to know how consistent are your strokes and your cadence across the pool. So you don't just have your speed. You suddenly have access to what I would call, and you'll hear me,
+
+43:32.258 --> 43:59.934
+use this a lot better resolution, but also a lot more analytics that can give you insight. Now, important thing here is, you know, my 10 year old is not going to, I'm not going to go tell my 10 year old that she needs to change her, her velocity on this header stroke, but it gives me information that I can at least understand and help her know how something is going and how consistent she is on certain things that her coaches have told her to do. Um,
+
+44:00.130 --> 44:24.734
+And what I love about the idea is, look, this isn't just for the ease of getting access to the type of data and information that would previously – and I mean, I do code in a lot of areas, but you don't have to do that anymore to build these apps. In fact, you shouldn't. You should leverage AI for development of these types of tools. You tell AI to write a code so that it would analyze –
+
+44:24.866 --> 44:54.832
+you know, trajectory, jumping into the pool, how that could be improved if the goal is to swim faster. You'd use AI to build an app that would allow you to do that so that you would have then access to that, whatever the data is that you want to do. Yeah. So in that case, you're trying to do better stroke analytics and understand things as you move forward. You could do the same thing for running, for gait, for, you could do, you know, in a work environment, you can understand a lot more about where vulnerabilities are, where weaknesses are. There are sort of two different places where I see
+
+44:54.832 --> 45:23.358
+this type of AI acceleration and tool building really having major impact. It's on sort of democratizing data analytics and information that would normally be reserved for the elite to everyone that's really engaged. And that has a huge impact on improving performance because that kind of data is really useful in understanding learning. It also has applications for when you're in a work environment and you're trying to better understand
+
+45:23.458 --> 45:52.766
+success in that environment, in some process or skill of what you're doing, you can gain different analytics than you otherwise would in ways that are become much more successful, but also give you new data to think about with regard to what I would call a digital twin. And when I use the word digital twin, the goal of a digital twin is not to digitize and represent a physical system in its entirety. It's to
+
+45:53.026 --> 46:17.022
+gain, use different interoperable, meaning data sets coming from different sources to gain insights, you know, digitized data of a physical system or a physical environment or physical world, be it a hospital, be it airplanes, be it my body, be it my fish tank, to give me insights that are, you know, continuous and in real time that I otherwise wouldn't be able to gain access to.
+
+46:17.890 --> 46:47.326
+We've known for a long time that there are things that we can do to improve our sleep. And that includes things that we can take, things like magnesium threonate, theanine, chamomile extract, and glycine, along with lesser known things like saffron and valerian root. These are all clinically supported ingredients that can help you fall asleep, stay asleep, and wake up feeling more refreshed. I'm excited to share that our longtime sponsor, AG1, just created a new product called AGZ, a nightly drink designed to help you get better sleep and have you wake up feeling super refreshed.
+
+46:47.490 --> 47:17.342
+Over the past few years, I've worked with the team at AG1 to help create this new AGZ formula. It has the best sleep supporting compounds in exactly the right ratios in one easy to drink mix. This removes all the complexity of trying to forge the vast landscape of supplements focused on sleep and figuring out the right dosages and which ones to take for you. AGZ is to my knowledge, the most comprehensive sleep supplement on the market. I take it 30 to 60 minutes before sleep. It's delicious by the way. And it dramatically increases both the quality and the depth of my sleep.
+
+47:17.474 --> 47:46.302
+I know that both from my subjective experience of my sleep and because I track my sleep. I'm excited for everyone to try this new AGZ formulation and to enjoy the benefits of better sleep. AGZ is available in chocolate, chocolate mint, and mixed berry flavors. And as I mentioned before, they're all extremely delicious. My favorite of the three has to be, I think, chocolate mint, but I really like them all. If you'd like to try AGZ, go to drinkagz.com slash Huberman to get a special offer. Again, that's drinkagz.com slash Huberman.
+
+47:46.626 --> 48:08.958
+Today's episode is also brought to us by Rora. Rora makes what I believe are the best water filters on the market. It's an unfortunate reality, but tap water often contains contaminants that negatively impact our health. In fact, a 2020 study by the Environmental Working Group estimated that more than 200 million Americans are exposed to PFAS chemicals, also known as forever chemicals, through drinking of tap water.
+
+48:09.090 --> 48:37.502
+These forever chemicals are linked to serious health issues, such as hormone disruption, gut microbiome disruption, fertility issues, and many other health problems. The Environmental Working Group has also shown that over 122 million Americans drink tap water with high levels of chemicals known to cause cancer. It's for all these reasons that I'm thrilled to have Rora as a sponsor of this podcast. Rora makes what I believe are the best water filters on the market. I've been using the Rora countertop system for almost a year now.
+
+48:37.602 --> 48:56.734
+Roro's filtration technology removes harmful substances, including endocrine disruptors and disinfection byproducts, while preserving beneficial minerals like magnesium and calcium. It requires no installation or plumbing. It's built from medical grade stainless steel, and its sleek design fits beautifully on your countertop. In fact, I consider it a welcome addition to my kitchen. It looks great.
+
+48:56.834 --> 49:25.182
+and the water is delicious. If you'd like to try Rora, you can go to rora.com slash Huberman and get an exclusive discount. Again, that's Rora, R-O-R-R-A dot com slash Huberman. We will definitely talk more about digital twins, but what I'm hearing is that it can be very, as nerds speak, but domain specific. I mean, like the lowest level example I can think of, which would actually be very useful to me, would be a digital twin of my refrigerator that would...
+
+49:25.538 --> 49:52.446
+place an order for the things that I need, not for the things I don't need, eliminate the need for a shopping list. It would just keep track of like, hey, like you usually run out of strawberries on this day and this day. And it would just keep track of it in the background and this stuff would just arrive and it would just be there. And like eliminate what seemed like, like, well, gosh, isn't going to the store nice? Yeah, this morning I walked to the corner store, bought some produce. I had the time to do that, the eight minutes to do that. But really I...
+
+49:53.058 --> 50:17.982
+I would like the fridge to be stocked with the things that I like and need. And I could hire someone to do that, but that's expensive. This could be done trivially and probably will be done trivially soon. And I don't necessarily need to even build an app into my phone. So I like to think in terms of kind of lowest level but highly useful and easily available now type technologies. There are a couple of areas like when it comes to students and
+
+50:18.754 --> 50:48.318
+learning information. We've heard that AI, we've heard of AI generally as like this really bad thing, like, oh, they're just going to use AI to write essays and things like that. But there's a use of AI for learning. I know this because I'm still learning. I teach and learn all the time for the podcast, which is I've been using AI to take large volumes of text from papers. So this isn't AI hallucinating, just take large volumes of text verbatim from papers.
+
+50:48.482 --> 51:15.518
+Yes. I've read those papers, literally printed them out, taken notes, et cetera. And then I've been using AI to design tests for me of what's in those papers. Because I learned, you know, about eight months ago when researching a podcast on how to study and learn best, the data all point to the fact that when we self-test, especially when we self-test away from the material, like when we're thinking, oh, yeah, like what is the cascade of hormones driving the cortisol and
+
+51:15.650 --> 51:37.310
+negative feedback loop. When I have to think about that on a walk, as opposed to just looking it up, it's the self-testing that is really most impactful for memory because most of memory is anti-forgetting. This is kind of one way to think about it. So what I've been doing is having AI build tests for me and having asked me questions like, you know, what is the
+
+51:37.954 --> 52:02.942
+you know, the signal between the pituitary and the adrenals that drives the release of cortisol. And what layer of the adrenals does cortisol come from? And I love that. And so I'm sure that the information it's drawing from is accurate, at least to the best of science and medicine's knowledge now. And it's just testing me and it's learning. This is what's so incredible about AI. And I don't consider myself like extreme on AI technology at all. It's learning...
+
+52:03.042 --> 52:25.054
+where I'm weak and where I'm strong at remembering things. Because I'm asking it, where am I weak and where am I strong? And they'll say, oh, like naming and this and like third order conceptual links here need a little bit of work. And I go, test me on it. And it starts testing me on it. It's amazing. Like I'm blown away that the technology can do this. And I'm not building apps with AI or anything. I'm just using it to try and learn better.
+
+52:25.250 --> 52:44.862
+Whether you're building apps or you're building a tool, you're using it as a tool that's helping you optimize your cognition and find your weaknesses, but also give you feedback on your performance and accelerate your learning in this, right? Well, that's the goal. But you're still putting in the effort to learn. And I think even the...
+
+52:45.090 --> 53:14.942
+The ways that I'm using it to, you know, computer vision with mobile devices, AI is a huge opportunity and tool. Using the cameras and the data that you've collected to, you know, have much more sophisticated input is huge. But in both of those cases, you're shaping cognition. You're shaping, you're using data to enrich what you can know. And AI is just, you know, incredibly powerful and a great opportunity in those spaces.
+
+53:15.618 --> 53:44.734
+The place where I think it is, and I sort of separate it into literally just two categories. Maybe that's too simplistic. It's, am I using, and this is true for any tool, not just AI, but am I using the tool, am I using the technology in a way to make me smarter about, and let me have more information and make me more effective, but also cognitively more effective, gain different insights, or am I using it to replace a cognitive skill I've done before?
+
+53:44.962 --> 54:14.494
+to be faster. And it doesn't mean you don't want to do those things. I mean, GPS in our car is a perfect example of a place where we're replacing a cognitive tool of, you know, to make me faster and more effective. And frankly, you know, you take away your GPS in a city you drive around and we're not very good. I remember paper maps. I remember the early studies of the hippocampus were based on London taxi drivers that had mental maps of the city. Absolutely. That, you know, with all due respect to London taxi drivers up until...
+
+54:14.658 --> 54:42.654
+GPS, like that, those mental maps are not necessary anymore. No. And I mean, they had more gray matter in their hippocampus and we know that. And you look at them today and they don't have to have that because the people in their back seats have more data, have more information, have eyes from the sky. I mean, satellite data is so huge in our success in the future. And, you know, it can anticipate the things that locally you can't. And so it's been replaced, but it can't,
+
+54:43.074 --> 55:10.430
+It still means when you lose that data, you don't expect yourself to have the same spatial navigation of that environment without it, right? I love your two batches, right? You're either using it to make you cognitively better or you're using it to speed you up. But you have to be—here's where I think people— Cognitively or physically. Cognitively or physically. But you're still trying to gain insight and data and information that's making me a more effective human. Right. And I think that the place where people are concerned— Yes, exactly.
+
+55:10.530 --> 55:32.094
+including myself, is when we use these technologies that eliminate steps, make things faster, but we fill in the additional time or mental space with things that are neutral to detrimental. It's sort of like saying, okay, I can get all the nutrients I need from...
+
+55:32.194 --> 56:00.158
+a drink that's eight ounces. This is not true. But then the question is like, how do I make up the rest of my calories, right? Am I making up with also nutritious food, right? Let's just say that it keeps me at a neutral health status or am I eating stuff that because I need calories that I'm not necessarily gaining weight, but I'm bringing in a bunch of bad stuff with those calories. In the mental version of this, things are sped up, but people are filling the space with things that are making them dumber, right?
+
+56:00.418 --> 56:24.062
+in some cases. There was a recent paper from MIT that I actually, it was, it is very much what I spend a lot of my time talking about, but, and thinking about, but. Yeah, could you describe that study? The upshot of the paper first was that people, there's a lot less mental process or cognitive process that goes on for people when they use LLMs to write papers, and they have
+
+56:24.322 --> 56:52.670
+they don't have the same transfer and they don't really learn the information. Surprise, surprise. So just to briefly describe the study, even though it got a lot of popular press, it's, you know, MIT students writing papers using AI versus writing papers the old-fashioned way where you think and write. So there were three different categories. People had to write the papers, you know, just with or using their brain only. That would be case one. Case two would be I get to use search engines, which would be sort of a middle ground. Again, these are
+
+56:52.834 --> 57:03.166
+you know, rough categories. And then a third would be I use LLMs to write my paper. And they're looking at, you know, sort of what kind of transfer happened, what
+
+57:03.330 --> 57:29.374
+you know, what kind of, they were measuring neural response. So they were using EEG to look at neural patterns of, across the brain to understand how much neural engagement happened during the writing of the papers and during the whole process. And then what they could do with that, what they knew about that information down the road. It's a really nice paper, so I don't want to diminish it in any way by summarizing it. But what I think is a really important point
+
+57:29.474 --> 57:55.998
+upshot of that paper and also just how we talk about it that I liked was they, I talk a lot about cognitive load always. And you can measure cognitive load in the diameter of your pupil and body posture and how people are thinking. It's really how hard is my brain working right now to solve a problem or just in my context. And there are a lot of different cues we give off as humans that tell us when we're under states of different load and cognitively and whether we are aware of it or not.
+
+57:56.770 --> 58:25.694
+And there's something called cognitive load theory that breaks down sort of what happens when our brains are under states of, you know, load. And that load can come from sort of three different places. It might be coming from intrinsic, what you would call intrinsic information, which is what, and this is all during learning. The intrinsic load, cognitive load, would be from, you know, the difficulty of the material I'm trying to understand, how, you know, really complex.
+
+58:25.858 --> 58:51.838
+Some things are easy to learn. Some things are a lot harder. And that's intrinsic load. Extraneous load would be the load that comes from how the information is presented. Is it poorly taught? Is it poorly organized? Or also even the environment. If I'm trying to learn something auditorily and it's noisy, that's introducing extraneous cognitive load, right? It's not the information itself, but it's because of everything else happening with that data. And then the third is germane.
+
+58:52.002 --> 59:13.662
+cognitive load. And that's the load that is used in my brain to build mental schemas, to build, to organize that information, to really develop a representation of what that information is that I'm taking in. And that germane cognitive load, that's the work, right? And if you don't have germane cognitive load, you don't have learning, really.
+
+59:13.762 --> 59:42.302
+And what they found is basically the germane cognitive load is what gets impacted most by using LLMs, which is, I mean, it's a very obvious thing. Meaning you don't engage quite as high levels of germane cognitive load. Using LLMs, you're not engaging the mental effort to build cognitive schema, to build neural schemas and sort of the mental representation of the information that you can interact with it later and you have access to it later.
+
+59:42.754 --> 01:00:11.838
+And this is really important because without that, you won't be as intelligent on that topic, that's for sure, down the road. Let me give two examples. I have a doctor, I have a lawyer, and both of them use LLMs extensively for searches, say, or for building information. In one case, it's for patient aggregation of patient data. In another case, it's for, you know, history of case files. And that is the GPS that's happening in those spaces. And because those are the tools that are quickly adopted. Where you have someone that is maybe...
+
+01:00:12.066 --> 01:00:41.182
+came from a different world, has learned that information, has gone and worked with data in a different way, worked their representation of that information. It's going to be better at extrapolation. It's going to be better at generalization. It's going to be better at seeing patterns that would exist. The brain that has done everything through LLMs is going to be in a place where they will get the answer for that relevant task or using the tools they have. But
+
+01:00:41.314 --> 01:01:07.806
+You're not the same level of richness and depth of information or generalization or extrapolation for those topics as someone that has learned in a different way. There's a generational difference in understanding, not because they don't have the same information, but there is an acknowledgement that there's a gap, even though we're getting to the same place as fast. And that's because of the learning that's happened. Mm-hmm.
+
+01:01:08.258 --> 01:01:36.798
+The germane cognitive load. Absolutely. The cognitive load. Like, you've got to do the work. Your brain has to. And, you know, what was beautiful about your descriptions, Andy, is when you were talking about how you were using it, which I love, you know, to test yourself, find your vulnerabilities is, you know, and actually in the paper on MIT, which I think, again, these are things that are somewhat obvious, but we just have to, I think we have to talk about them more, is people with higher competency on the topic use the tools in ways that still engage more germane.
+
+01:01:36.930 --> 01:02:05.054
+cognitive load, but helped accelerate their learning. It's, you know, where is the biggest vulnerability in GAAP? It's when it's, especially in areas and topics where you're trying to learn a new domain fast, or you're under pressure and you're not putting in the germane effort, or you're not using the tools that you have access to that AI can enable. You're not using them to amplify your cognitive gain, but instead to deliver something faster, more rapid,
+
+01:02:05.282 --> 01:02:26.078
+And then walking away from it. I'm going to try and present two parallel scenarios in order to go further into this question of how to use AI to our best advantage to enrich our brains as opposed to diminish our brains. So I could imagine a world, because we already live in it, where...
+
+01:02:26.498 --> 01:02:53.886
+there's this notion of slow food. Like you cook your food, you get great ingredients from the farmer's market, like a peach that quote unquote really tastes like a peach, this kind of thing. You make your own food, you cook it and you taste it and it's just delicious. And I can also imagine a world where you order a peach pie online, it shows up and you take a slice and you eat it. And you could take two different generations of people, maybe people that are currently now
+
+01:02:54.274 --> 01:03:20.030
+50 or older and people that are 15 or younger. And the older generation would say, oh, isn't that the peach pie that you made so much better? Like these peaches are amazing. And I could imagine a real scenario where the younger person, 15 to 30, let's say, would say like, I don't know, I actually really liked the other pie. I like it just as well. And the older generation is like this, like, what are you talking about? Like, this is how it's done.
+
+01:03:20.738 --> 01:03:41.726
+What's different? Well, sure, experience is different, et cetera. But from a neural standpoint, from a neuroscience standpoint, it very well could be that it tastes equally good to the two of them, just differs based on their experience, meaning that the person isn't lying. It's not like this kid, you know,
+
+01:03:42.050 --> 01:04:11.390
+isn't as fine-tuned to taste. It's that their neurons acclimated to like what sweetness is and what contrast between sweet and saltiness is and what a peach should taste like. Because damn it, they had peach gummies and that tastes like a peach, you know. And so we can be disparaging of the kind of what we would call the lower level or diminished sensory input. Yeah. But it depends a lot on what those neural circuits were weaned on. A couple of comments. I love the peach pie example. Making bread.
+
+01:04:11.682 --> 01:04:34.654
+is another example of that. And in the 90s, everyone I knew when they graduated from high school got a bread maker that was shaped like a box and created this loaf of bread with a giant rod through it. And it was the graduation gift for many years. And you don't see those anymore. And
+
+01:04:34.786 --> 01:05:04.734
+You know, if you even look at what happened with like the millennial generation in the last five years, especially during the pandemic, suddenly bread making, sourdough, that became a thing. What's the difference? You know, you've got bread, it's warm. It's, you know, with the bread maker, it's fresh. And it is not at all desired relative to bread that takes a long period of time and is tactile and in the process and the making of it. And, you know, is clearly much more onerous than the other in its...
+
+01:05:04.866 --> 01:05:29.790
+process of development. I think the key part is it's in the appreciation of the bread, the process is part of it. And that process is development of sort of the germane knowledge and the commitment and connection to that humanness of development, but also the tactile commitment, the work that went into it is really appreciated in the same way that that peach pie for
+
+01:05:30.210 --> 01:05:59.966
+One comes with that whole time series of data that wasn't just about my taste, but was also smell, also physical, also visual, and saw the process evolve and build a different prior going into that experience. And that is, I think, part of richness of human experience. Will it be part of the richness of how humans interact with AI? Absolutely. Or interact with robots.
+
+01:06:00.194 --> 01:06:25.214
+Absolutely. So it's what are the relationships we're building and how are they, you know, how integrated are these tools, these, you know, companions, whatever they may be in our existence will shape us in different ways. What I am particularly, I guess, bullish on and excited for is the robot that optimizes my health, my comfort, my intent in my environment and
+
+01:06:25.538 --> 01:06:44.542
+Be it in the cabin of a car, be it in my rooms, my spaces. So what would that look like? Could you give me the lowest level example? Like, would it be an assistant that helps you travel today when you head back to the Bay Area? Like, what is this non-physical robot?
+
+01:06:44.738 --> 01:07:13.694
+And I think we already have some of these. Like, it's the point where HVAC systems actually get sexy, right? Not sexy in that sense, but they're actually really interesting because they are the heart of, you know. HVAC systems. Heating, ventilation. But you think about a thermostat, you know, a thermostat right now is optimizing for an AI thermostat, optimizing for my behavior. But it's trying to save me resources, trying to save me money. But it's not, it doesn't know if I'm hot or cold. It doesn't know, to your point, it doesn't.
+
+01:07:14.050 --> 01:07:43.070
+my intent, what I'm trying to do at that moment, where, and this speaks more to a lot of the things you've studied in the past. You know, it doesn't know what my optimal state is for my goal in that moment in time. But it can very easily, frankly, you know, it can talk to me, but it can also know how my state of my body right now and what is going, you know, if it's 1 a.m. and I really need to work on a paper, you know, my house should not get cold, but it also should be...
+
+01:07:43.330 --> 01:08:11.582
+It should, for me, it shouldn't. I know for some people it should. Yeah. My eight sleep mattress, which I love, love, love, love. And yes, they're a podcast sponsor, but I would use one, anyone. It knows what temperature adjustments need to be made across the course of the night. I put in what I think is best, but it's updating all the time now because it has updating sensors, like dynamically updating sensors. I'm getting close to two hours of REM sleep a night, which is outrageously good.
+
+01:08:11.842 --> 01:08:40.574
+for me, much more deep sleep, and that's a little micro environment. You're talking about integrating that into an entire home environment. Home, vehicle, yes, because it needs to treat me as a dynamic time series. It needs to understand the context of everything that's driving my state internally. There's everything that's driving my state in my local environment, meaning my home or my car, and then there's what's driving my state externally from my external environment. And
+
+01:08:40.706 --> 01:08:43.838
+we're in a place where those things are rarely treated
+
+01:08:43.938 --> 01:09:13.918
+know, interacting together for the optimization and, you know, the dynamic interactions that happen. But we can know these things. We can know so much about the human state from non-contact sensors. Yeah. And we're right at the point where the sensors can start to feed information to AI to be able to deliver what effectively, again, a lower level example would be like the cooling, the dynamically cooling mattress or dynamically heating mattress. Like I discovered through the AI that my mattress was applying that, and I was told that heating your
+
+01:09:14.018 --> 01:09:42.206
+sleep environment toward the end of the night increases your REM sleep dramatically, whereas cooling it at the beginning of the night increases your deep sleep. This has been immensely beneficial for me to be able to shorten my total sleep need, which is something that for me is like awesome. Because I like sleep a lot, but I don't want to need to sleep so much in order to feel great. Well, you want to have your own choice about how you sleep. Yeah. Given the date it's helping you have that. Sometimes I have six hours, sometimes I have eight hours, this kind of thing.
+
+01:09:43.106 --> 01:10:07.582
+Here's where I get stuck, and I've been wanting to have a conversation about this with someone, ideally a neuroscientist, who's interested in building technologies for a very long time. So I feel like this moment is a moment I've been waiting for for a very long time, which is the following. I'm hoping you can solve this for all of us, Bobby. We're talking about sleep, and we know a lot about sleep.
+
+01:10:07.746 --> 01:10:31.902
+You've got slow wave sleep, deep sleep, growth hormone release at the beginning of the night. You have less metabolic need then. Then you have rapid eye movement sleep, which consolidates learning from the previous day. It removes the emotional load of previous day experiences. We can make temperature adjustments. We do all these things, avoid caffeine too late in the day. Lots of things to optimize these known states that occupy this thing that we call sleep. And AI and technology is, I would say, is doing a really great job.
+
+01:10:32.610 --> 01:11:00.190
+as is pharmacology, to try and enhance sleep. Sleep's getting better. We're getting better at sleeping, despite more forces potentially disrupting our sleep, like smartphones and noise and city noise, et cetera. Okay. Here's the big problem in my mind, is that we have very little understanding or even names for different awake states. We have names for the goal, like I want to be able to work.
+
+01:11:00.706 --> 01:11:28.222
+Okay, what's work? What kind of work? I want to write a chapter of a book. What kind of book? A nonfiction book. Based on what? But like we don't, we talk about alpha, beta waves, theta waves. But I feel like as neuroscientists, we have done a pretty poor job as a field of defining different states of wakefulness. And so that like the technology, AI and other technologies are, don't really have, they don't know what to do.
+
+01:11:28.546 --> 01:11:56.286
+shoot for. They don't know what to help us optimize for. Whereas with slow wave sleep and REM sleep, like we've got it. I ask questions of myself all the time, like, is my brain and what it requires in the first three hours of the day, anything like what my brain requires in the last three hours of the day, if I want to work in each one of those three hour compartments? Like, and so I think like we don't really understand what to try and adjust to. So here's my question. Do you think AI is
+
+01:11:56.834 --> 01:12:24.670
+would help us understand the different states that our brain and body go through during the daytime, give us some understanding of what those are in terms of body temperature, focus ability, et cetera, and then help us optimize for those the same way that we optimize for sleep. Because whether it's a conversation with your therapist, whether or not it's a podcast, whether or not it's playing with your kids, whether or not it's Netflix and chill, whatever it is, the goal and what people have spent so much time, energy, money,
+
+01:12:24.770 --> 01:12:48.862
+et cetera, on whether or not they're drinking alcohol, caffeine, taking Ritalin or Adderall or running or whatever. Humans have spent their entire existence trying to build technologies to get better at doing the things that they need to do. And yet we still don't really understand waking states. So can AI teach it to us? Can AI teach us a goal that we don't even know we have?
+
+01:12:49.410 --> 01:13:17.278
+Can AI teach it to us? I would say AI is part of the story, but before we get AI, we need better, more data. Not just me, right? So maybe I am very focused right now, but without my belief, and this is my perspective, is imagine I'm very focused right now. I need to know the context of my environment that's driving that. Like what's in that environment? Is it internal focus that's gotten me there already?
+
+01:13:18.082 --> 01:13:46.654
+What is my environment? What is that external environment? So the understanding my awake state for me is very dependent on the data and interactions that happen from these different environments. Let me give an example. Like if I'm in my home or I'm in a, say I'm in a vehicle, right? And you are measuring information about me and you know I'm under stress or you know I'm experiencing joy or I'm, or heightened attention right now.
+
+01:13:46.914 --> 01:14:11.454
+Some different states you may want to have my home or my system react to mitigate. Well, like if you get sleepy in a self-driving, in a smart vehicle, it will make adjustments. Potentially it will make adjustments, but not necessarily right for you. That's an important part is optimizing for personalization and how a system responds. And, you know, it can make adjustments.
+
+01:14:11.682 --> 01:14:41.598
+Any home, an HVAC system or the internal state of a vehicle is going to adjust, you know, sound, background sound, music. It's going to adjust, you know, whatever, whether it can haptic, feedback, temperature, lighting, you know, any number of, you know, position of your chair, dynamics of what's in your space. All of these different systems in my home or my other, you know, what at my vehicle, if it, or whatever.
+
+01:14:41.762 --> 01:15:11.230
+some other system can react, right? But the important thing is how you react is going to shift me. And the goal is to not measure me, but to actually intersect with my state and move it in some direction, right? Some... Yeah, I always think of devices as good at measurement or modification. Right. Measurement or modification. Measurement is critical. And that's... Yeah, but measurement, not just of...
+
+01:15:11.458 --> 01:15:37.598
+but also of my environment and understanding of the external environment. This is where things like Earth observation and understanding, we're getting to a place where we're getting really good image quality data from the satellites that are going in the sky at much lower distances so that you now have
+
+01:15:37.698 --> 01:16:04.126
+you know, faster reaction times between technologies and the information they have to understand and be dynamic with them, right? Can you give me an example where that impacts everyday life? Are we talking about like weather analysis? Sure. Weather predictions, car environment, you know, things happening. What about traffic? Why haven't they saw traffic yet given all the knowledge of object flow and how to optimize for object flow? And we've got satellites that can basically look at
+
+01:16:04.450 --> 01:16:28.926
+traffic and open up roads dynamically, like change number of lanes. Why isn't that happening? The traffic problem gets resolved when you have autonomous vehicles in ways that don't have like the human side of things. That gets resolved. It does. Autonomous vehicles can solve traffic. Fully autonomous vehicles, you don't have traffic in the ways that you do with human behavior. That's reason alone to...
+
+01:16:29.090 --> 01:16:56.414
+to shift to autonomous vehicles. It is that injection from the human system that, you know, is interrupting all the models. I think the world right now, we think about wearables a lot. Wearables track us. You have smart mattresses, which are wonderful for understanding. So there's so much you learn, well, you know, from a smart mattress and ways of also both measuring as well as intervening to optimize your sleep, which is the beauty. And it's this nice...
+
+01:16:56.930 --> 01:17:24.670
+incredible period of time where you can measure so many things. But, you know, in our home, so I used the example of a thermostat, right? It's pretty, you know, frankly dumb about what my goals are or what I'm trying to do at that moment in time, but it doesn't have to be. And there are, you know, there's a company, PassiveLogic, I love them. They actually have, I think, some of the smartest digital twin HVAC systems, but, you know, their sensors measure things like sound. They measure
+
+01:17:24.866 --> 01:17:52.606
+carbon dioxide, your carbon, your CO2 levels. Like when, when we breathe, we give off CO2, you know, so imagine, you know, there's a dynamic mixture of acetone, isoprene and carbon dioxide that's constantly exchanging when my, you know, when I get stressed or when I'm feeling, you know, happiness or suspense in my, my, in my state. And that dynamic sort of
+
+01:17:52.834 --> 01:18:20.574
+cocktail mixture that's in my breath is both an indicator of my state, but it's also something that, you know, it's just the spaces around me, you know, have more information to contribute about how I'm feeling and can also be part of that solution in ways that I don't have to have things on my body, right? So I have sensors now that can measure CO2. You can watch my TED Talk. I have given examples. We brought people in when I was at Dolby and had...
+
+01:18:20.706 --> 01:18:50.526
+Had them watching Free Solo, you know, the Alex Honnold movie where they're climbing El Cap. Stressful. So carbon dioxide is heavier than air. So we could measure carbon dioxide from just tubes on the ground. And you could get the real-time differential of CO2 in there. Were they scared throughout? No. But, I mean, I like to say we broadcast how we're feeling, right? And we do that wherever we are. And in this, you could look at the time series of carbon dioxide levels and be able to, you know, know...
+
+01:18:50.754 --> 01:19:11.838
+what was happening in the film or in the movie without actually having it annotated. You could tell where he summited, where he had to abandon his climb, where he hurt his ankle. Absolutely. There's another study. I forget who the authors are, and they've got different audiences watching Hunger Games. And different days, different people, you can tell exactly where Katniss's dress catches on fire.
+
+01:19:12.034 --> 01:19:29.854
+And, you know, it's like we really are sort of, you know, it's like digital exhaust of how we're feeling. But, you know, and our thermals, we, you know, radiate the things we're feeling. I'm very bullish on the power of, you know, our eye in representing our cognitive load, our stressors. Our eye?
+
+01:19:30.018 --> 01:19:52.702
+Our eye, yes, like the diameter. Oh, our eye. Our, yes. Our eye, sorry, literally our eyes that are pupil size. Yes, yes, yes. Back when I was a physiologist, I've worked with a lot of species on understanding information processing internally in cells, but also then I would very often use pupilometry as an indicator of...
+
+01:19:52.962 --> 01:20:07.006
+engagement and experience. Yeah, bigger people mean more arousal, higher levels of alertness. Yeah, more arousal, cognitive load, or, you know, obviously lighting changes. But the thing that's changing from, you know,
+
+01:20:07.714 --> 01:20:32.830
+20 years ago, 15 years ago, it was very expensive to track the kind of resolution and data to, you know, leverage all of those autonomic nervous system, you know, deterministic responses. Because those ones are deterministic and not probabilistic, right? Those are the ones that it's like the body's reacting even if the brain doesn't say anything about it. Below conscious detection. Yeah. And, but today we can do that with, well, we can do it right now with, you know,
+
+01:20:33.858 --> 01:21:00.638
+open source software on our laptops or our mobile devices, right? And every pair of smart glasses will be tracking this information when we wear them. So it is, becomes a channel of data. And, you know, you, it may be an ambiguous signature in the sense that there's, you know, changes in lighting, there's changes, am I aroused or am I, you know. Those can be adjusted for, right? Like if you, you can, you can literally take a measurement, wear eyeglasses that are measuring pupil size. The eyeglasses are,
+
+01:21:00.738 --> 01:21:30.366
+could have a sensor that detects levels of illumination in the room at the level of my eyes. It could measure how dynamic that is. And we just make that the denominator in a fraction, right? And then we just look at changes in pupil size as the numerator in that fraction, right? Yep. More or less. You just have to have other sensors. All you need to do is cancel. So as you walk from a shadowed area to a brighter area, sure, the pupil size changes. But then you can adjust for that change, right? You just like normalize for that. And you end up with an index of arousal. Right.
+
+01:21:30.466 --> 01:21:58.014
+Which is amazing. You could also use the index of illumination as a useful measure of, like, are you getting compared to your vitamin D levels, to your levels of, maybe you need more illumination in order to get more arousal. Like, it could tell you all of this. It could literally say, hey, take a five-minute walk outside to the left after work, and you will get your photon requirement for the day. You know, this kind of thing, not just measuring steps. All this stuff is possible now.
+
+01:21:58.562 --> 01:22:28.254
+I just don't know why it's not being integrated into single devices more quickly because you'd love to also know that person's blood sugar instead of like drawing their blood, taking it down to the wall. Like you think about with the resident that's been up for 13 hours because that's the standard in the field and they're making mistakes on a chart. It's like I think at some point we're just going to go, I can't believe we used to do it that way. It's crazy. Yeah. No, and it's a lot of the consumer devices and just computation we can do from, you know,
+
+01:22:28.482 --> 01:22:58.046
+whether it's cameras or exhalent or, you know, other data in our environments that tell us about our physical state and some of these situations that you're talking about. A lot of the, I mean, why isn't it happening? A lot of the reasons are simply the regulatory process is antiquated and not up to keeping up with the acceleration of innovation that's happening. You know, getting things through the FDA, even if they're, you know, deemed in the same ballpark and supposed to move fast, you know,
+
+01:22:58.146 --> 01:23:22.782
+the regulatory costs and processes is really high. And, you know, you end up many years, you know, down the road from when the capability and the data and technology actually, you know, should have arisen to be used in a hospital or to be used in a place where you actually have that kind of appreciation for the data, you know, and use. The consumer-grade process,
+
+01:23:23.170 --> 01:23:51.422
+devices for tracking of data of our biological processes are on par and in many cases surpassed the medical grade devices. And that's because they just have, but then they will have to bill what they do and what they're tracking in some way that is consumer, you know, is not making the medical claims to allow them to be able to be, you know, continue to move forward in those spaces. But there's no question that that's a big part of what Ken, you know, holds back
+
+01:23:51.522 --> 01:24:07.550
+the availability of a lot of these devices and capabilities. I'd like to take a quick break and acknowledge one of our sponsors, Function. Last year, I became a Function member after searching for the most comprehensive approach to lab testing.
+
+01:24:07.842 --> 01:24:37.808
+Function provides over 100 advanced lab tests that give you a key snapshot of your entire bodily health. This snapshot offers you with insights on your heart health, hormone health, immune functioning, nutrient levels, and much more. They've also recently added tests for toxins, such as BPA exposure from harmful plastics, and tests for PFASs, or forever chemicals. Function not only provides testing of over 100 biomarkers key to your physical and mental health, but it also analyzes these results and provides insights from top doctors who are
+
+01:24:37.808 --> 01:25:05.790
+expert in the relevant areas. For example, in one of my first tests with Function, I learned that I had elevated levels of mercury in my blood. Function not only helped me detect that, but offered insights into how best to reduce my mercury levels, which included limiting my tuna consumption. I'd been eating a lot of tuna while also making an effort to eat more leafy greens and supplementing with NAC and acetylcysteine, both of which can support glutathione production and detoxification. And I should say, by taking a second Function test, that approach worked.
+
+01:25:05.890 --> 01:25:21.118
+Comprehensive blood testing is vitally important. There's so many things related to your mental and physical health that can only be detected in a blood test. The problem is blood testing has always been very expensive and complicated. In contrast, I've been super impressed by function simplicity and
+
+01:25:21.250 --> 01:25:49.118
+at the level of cost. It is very affordable. As a consequence, I decided to join their scientific advisory board and I'm thrilled that they're sponsoring the podcast. If you'd like to try Function, you can go to functionhealth.com slash Huberman. Function currently has a wait list of over 250,000 people, but they're offering early access to Huberman podcast listeners. Again, that's functionhealth.com slash Huberman to get early access to Function. Okay, so I agree that we need more data.
+
+01:25:49.538 --> 01:26:11.710
+And that there are a lot of different sensors out there that can measure blood glucose and sleep and temperature and breathing and all sorts of things, which raises the question of, are we going to need tons of sensors? I mean, are we going to be just wrapped in sensors as clothing? Are we going to be wearing 12 watches? What's this going to look like?
+
+01:26:11.874 --> 01:26:31.646
+I'm an advocate for fewer things on, you know, not having all this stuff on our bodies. There's so much we can get out of the computer vision side, you know, from the cameras in our spaces and how they're supporting us in our rooms, in our – the sensors on our – you know, I brought up HVAC systems earlier. So now you've got –
+
+01:26:31.938 --> 01:27:01.214
+effectively a digital twin that's tracking, you know, and sensors that are tracking my metabolic rates just in my space. They're tracking carbon dioxide. They're tracking sound. You're getting context because of that. You're getting intelligence. And now you're able to start having more information from, you know, what's happening in my environment. The same is true in my vehicle. You can tell how I'm, whether I'm stressed or how I'm feeling just by the posture I have in
+
+01:27:01.314 --> 01:27:27.678
+sitting in my car, right? And you need AI. This is AI interpretation of data. But what's driving that posture might be coming from also an understanding of what else is happening in that environment. So it's suddenly this, with contextual intelligence, AI-driven understanding of what's happening in that space that's driving, you know, the state of me and how do I, you know,
+
+01:27:28.034 --> 01:27:53.054
+I keep leaning to the side because I'm thinking about the way I move and sit. It's a proxy for what's actually happening inside me. And then you've also got data around me coming from my environment. What's happening if I'm driving a car or what's happening in my home in the weather, in not just threats that might be outside, in
+
+01:27:53.250 --> 01:28:20.702
+Noise that's happening not inside the space, but things that give context to have more intelligence with the systems we have. So I'm a huge believer in you don't... We aren't anywhere until we have integration of those systems between the body, the local environment, and the external environment. And we're finally at a place where AI can help us start integrating that data. In terms of wearables, though...
+
+01:28:20.962 --> 01:28:42.238
+So obviously some of the big companies, we've got the watch we have on our hand has a lot of information that is very relevant to our bodies. The devices we put in our ears, you may not realize, but a dime-sized patch in your concha, we can know heart rate, blood oxygen level, because...
+
+01:28:42.530 --> 01:28:55.038
+the electrical signature that your eye produces when it moves back and forth, we can know what you're looking at just from measuring a signature, measuring your
+
+01:28:55.170 --> 01:29:22.046
+electrooculogram in your ear. We can measure EEG, electroencephalograms. You can also get, you know, eye movements out of electroencephalograms, but you can get attention. You can know what people are attending to based on signatures in their ear. So our earbuds, you know, that become sort of a window to our state. And you've got a number of companies working on that right now. You know, so do we need to wear lots of different sensors? No. No.
+
+01:29:22.626 --> 01:29:52.478
+we need to have the sensors, the data we have, whether it's on our bodies or off our bodies, be able to work together and not be proprietary to just one company, but to be able to integrate with other companies. That becomes really important. You need integrative systems so that the data they have can interact with the systems that surround you or surround my spaces or the mattress I'm sleeping on, right? Because you've had a lot of specialty of
+
+01:29:53.058 --> 01:30:06.014
+come from different developers. And that's partly been a product of, again, the FDA and the regulatory pathways because of the cost of development. It tends to move people
+
+01:30:06.370 --> 01:30:36.336
+companies towards specialization unless they're very large. But where we're at today is you're going, you know, we're getting to a point where you're going to start seeing a lot of this data get integrated, I think. And by all means, hopefully, we're not going to be wearing a lot of things on our bodies. I sure as heck won't. You know, the more we put on our bodies, it affects our gait. It affects, it has ramifications in so many different ways. When I got here, I was talking to some of the people that work with you, and they're like, well, what wearables do you wear? And I actually don't wear many at all. And
+
+01:30:36.336 --> 01:31:04.318
+You know, I have worn rings, I've worn watches at different times, but for me, the importance is the point at which I get insights that, you know, I am a big believer in as little on my body as possible when it comes to wearables. One interesting company that I think is worth mentioning is Pison. And Pison, you know, again, they've got a form factor that's, you know, like a Timex watch or they're partnered with Timex, but they're measuring...
+
+01:31:05.122 --> 01:31:35.070
+Are you familiar with PYSIM? No. Okay. So they're measuring psychomotor vigilance. So, you know, really trying to understand it's like a ENG, electroneuromodulation. And they're trying to understand fatigue and neural attentiveness in a way that is, you know, continuous and useful for, say, high-risk operations or training, whether it be in sport.
+
+01:31:35.266 --> 01:32:02.878
+But what I like about it is it's actually trying to get at a higher level cognitive state from the biometrics that you're measuring. And that to me is an exciting, really exciting direction is when you're actually doing something that you could make a decision about how I engage in my work or how I engage in my training or my life based on that data about my cognitive state and how effective I'm going to be. And then I can start associating that data with the other data.
+
+01:32:02.978 --> 01:32:30.718
+to have better decisions, better insights at a certain point in time. And that's really your digital twin. It's interesting. Earlier you said you don't like the word gamification. But one thing that I think has really been effective in the sleep space has been this notion of a sleep score where people aspire to get a high sleep score. And if they don't, they don't see that as a...
+
+01:32:30.978 --> 01:32:55.486
+disparagement of them, but rather that they need to adjust their behavior. So it's not like, oh, I'm a terrible sleeper and I'll never be a good sleeper. It gives them something to aspire to on a night by night basis. Yes. And I feel like that's been pretty effective. When I say gamification, I don't necessarily mean competitive with others, but I mean encouraging of oneself, right? So I could imagine this
+
+01:32:55.714 --> 01:33:25.246
+showing up in other domains too for wakeful states. Like, you know, like I spent, I had very few highly distracted, you know, work bouts or something like that. Like I'd love to know at the end of my day, I had three really solid work bouts of an hour each at least that would feel good. It was like a day well spent, even if, you know, I didn't accomplish what I wanted to in its entirety. Like I put in some really good solid work right now.
+
+01:33:25.890 --> 01:33:51.486
+It's all very subjective. We know the gamification of steps was very effective as a public messaging, you know, 10,000 steps a day. We now know you want to get somewhere exceeding 7,000 as the threshold. But if you think about it, we could have just as easily said, hey, you want to walk at a reasonable pace for you for 30 minutes per day. But somehow the counting steps thing was more effective because people I know who are not
+
+01:33:51.650 --> 01:34:19.742
+about exercise at all will tell me, I make sure I get my 11,000 steps per day. People tell me this. I'm like, oh, okay. So apparently it's a meaningful thing for people. So I think quantification of performance creates this aspirational state. So I think that can be very useful. Data and understanding the quantification that you're working towards is really important. Those are summary factors.
+
+01:34:20.226 --> 01:34:40.958
+summary statistics effectively that maybe they're good on some level to aim for if it means that people move more. All for it, right? And it's something that if I didn't move as much before and I didn't get up and I didn't do something and this is making me do it, that's awesome or that's great. But it's also great when now –
+
+01:34:41.154 --> 01:35:04.254
+like a computer vision app, I can understand it's not just 10,000 steps, but maybe there's a small battery of things I'm trying to perform against that are helping shape me neurally with the feedback and the targets that I'm getting so that there's more nuance towards achieving the goal I'm aiming for, which is what I'm all about from a neuroplasticity perspective.
+
+01:35:04.386 --> 01:35:31.262
+So I just don't like the word gamification. I believe everything should be fun. Everything, training can be fun and gamified in some ways. You know, again, like my life has been predominantly in industry, but I've always, you know, I love teaching and I've always been at Stanford to, you know, really there I try to, it's how do I use technology and merge it with the human system in a way that does help optimize learning and training in a way that is,
+
+01:35:31.458 --> 01:35:59.518
+from a sort of neural circuit first perspective, you know, how do we think about the neural system and use, you know, this more enjoyable, understandable target to engage with it. One of my favorite examples, though, is there was a period, it was right around 2018, 2020, and from 2018 to 2020 and into the pandemic where, you know, there became a
+
+01:35:59.618 --> 01:36:27.806
+students, I noticed, had a much more... There were a lot of projects. Their final project, they can build whatever they want. And they've had to do projects where they build brain-computer interfaces. They've had to build projects in VR. They've had to build AR projects. They've had to build projects that use any sort of input device. They have to use different sensor-driven input devices, and that's all part of what they develop. And
+
+01:36:28.034 --> 01:36:57.982
+Around 2018, 2020, I started to see almost every project had a wellness component to it, which I loved. I thought that was... And it was a very notable shift in, like, the student body, and maybe you've seen that, too. But I still got this... Like, one of my favorite games to date was this VR game where I'm, you know, in a morgue. I wake up. I've got to solve an escape room. I've got zombies that are coming out of me, and they're climbing out of the morgue, and they're getting closer, and there's people breathing on my neck, and they're like, you know, and everything...
+
+01:36:58.274 --> 01:37:13.246
+And it's a wellness app. Go figure. It was their idea of, look, this is what I feel like. I've got to, because I'm also measuring my breath and heart rate. And I've got to keep those biological signatures.
+
+01:37:13.474 --> 01:37:41.310
+Everything about how the zombies in solving my escape room problems, they're going to get closer to me if my breath rate goes up, if my heart rate goes up. I've got to keep... So it was about stress control, basically. Exactly. Yes. But it was in that environment and it was, you know, realized for them how they felt. But yeah, and you can do it in much simpler ways. But at least I'm a huge fan of how do we use the right quantification to develop the right habits, the right skills, the right...
+
+01:37:41.410 --> 01:38:06.398
+acuity or resolution in a domain we might not, or an area where we might not be able to break it into the pieces we need, but it's going to help us get there. Because my brain actually needs to now learn to understand that different, you know, that sophistication. Yeah, it's clear to me that in the health space, giving people information that scares them is great for getting them to not do things, but it's very difficult to
+
+01:38:06.498 --> 01:38:35.582
+scare people into doing the right things. You need to incentivize people to do the right things by making it engaging and fun and quantifiable. And, you know, I like the example of the zombie game. OK, so fortunately, we won't have to wear dozens of sensors. They'll be more integrated over time. I'm happy to walk through a cheat sheet later after, you know, for building out like a computer vision app if, you know, for quantifying some of, you know, some of these more
+
+01:38:35.746 --> 01:38:57.662
+personalized domain-related things that people might want to do. That would be awesome. Yeah, and then we can post a link to it in the show note captions because I think that the example you gave of creating an app that can analyze swimming performance, running gait, focus, focused work bouts, I think that's really intriguing to a lot of people. But I think there's a, at least for me, there's a gap there between
+
+01:38:57.826 --> 01:39:24.798
+hearing about it, thinking it's really cool and how to implement. So I'd certainly appreciate it. I know the audience would too. I mean, just- And that's very generous of you. Thank you. Yes, absolutely. And we're in an era where everyone, all you hear about is AI and AI tools. And there are tools that absolutely accelerate our capabilities as humans. But we gave the examples of talking about some of the LLMs. I mean, I sat next to-
+
+01:39:25.282 --> 01:39:52.190
+we went to Cal. I sat next, I was at a film premiere and I was sitting there, I was sitting next to a few students who happened to be from Berkeley. And they said to me, you know, they were computer science students and double engineering. And one of them, when he knew what I talk about or care about, he's like, you know, I'm really worried my, my peer group, like my peers can't start a paper without chat GPT. And yeah, it was a truth, but it was also a concern.
+
+01:39:52.322 --> 01:40:17.182
+So they understand the implications of what's happening. And, you know, that's on one level. We're in an era of agents everywhere. And, you know, I think Reid has said that there's, you know, a number of people have said, you know, we won't. We'll be using agents, AI agents for everything at work in the next five years. And some of those things we need to use. Agents will accelerate.
+
+01:40:17.442 --> 01:40:46.430
+They will accelerate capability. They will accelerate short-term revenue, but they also will diminish workforce cognitive skill. And as a user of agents in any environment, as an owner of companies employing agents, you have to think hard about what the near-term and long-term ramifications. Doesn't mean you don't use your agents in places where you need to, but you need to, without the germane cognitive load,
+
+01:40:46.850 --> 01:41:15.390
+There is a different dependence now that you have to have down the road, but also you have to think about how do you engage with the right competence to keep your humans that are engaged with developing their cognitive skills and their mental schemas to be able to support your systems down the road. Let's talk more about digital twins. Sure.
+
+01:41:15.970 --> 01:41:43.294
+I don't think this concept has really landed squarely in people's minds as like a specific thing. I think people hear AI, they know what AI is more or less. They hear about a smartphone, they obviously know what a smartphone is. Everyone uses one, it seems. But what is a digital twin? I think when people hear the word twin, they think it's a twin of us. Earlier, you pointed out that's not necessarily the case. It can be a useful tool for some people
+
+01:41:43.842 --> 01:42:11.870
+of our life, but it's not a replica of us, correct? Not at all in the ways that I think are most relevant. Maybe there are some side cases that think about that. And so first, two things to think about. One, when I talk about digital twins to companies and such, I like to frame it on how it's being used, the immediacy of the data from the digital twins. So let's go back 50 years and
+
+01:42:12.226 --> 01:42:27.102
+an example of a digital twin that we still use, air traffic controllers. When an air traffic controller sits down and looks at a screen, they're not looking at a spreadsheet. They're looking at a digitization of information about physical objects that is meant to
+
+01:42:27.330 --> 01:42:51.582
+them fast reaction times, make them understand the landscape as effectively as possible. We would call that situational awareness. I've got to take in data about the environment around me, and I've got to be able to action on it as rapidly, as quickly as possible to make the right decisions that mitigate any potential, you know, things that are determined to be problems or risks, right? And so that's what you're trying to engage a human system, you know,
+
+01:42:51.714 --> 01:43:21.182
+visualization of that data is important or doesn't have to be visualization, the interpretation of it, right? And it's not the raw data. It's, again, it's how is that data, you know, represented. You want the key information in a way that the salient, most important information, in this case, you know, about planes is able to be acted on by that human or even autonomous system, right? Could you give me an example where in like a more typical home environment...
+
+01:43:21.346 --> 01:43:49.694
+into reefing. And, you know, I built an aquacultured reef in my kitchen partly because I have a child and I wanted her to understand. I love it myself, so don't get that wrong. It wasn't just ultra. But to understand sort of the fragility of the ecosystems that happen in the ocean and things we need to worry about, care about, and all. And, you know, initially when I started and maybe, you know,
+
+01:43:49.826 --> 01:44:14.334
+This is not something you encountered, but when you build a reef or a reef tank and do saltwater fish, a couple of things. You're doing chemical measurements by hand usually, weekly, biweekly. There's a whole 10 different chemicals that you're measuring. And I would have my daughter doing that so that she would do the science part of it.
+
+01:44:14.594 --> 01:44:42.782
+And you're trying to, you know, you know the ranges, the tolerances you have. And you're also observing this ecosystem and looking for problems. And by the time you see a problem, you're reacting to that problem. And I can tell you, it was very unsuccessful. I mean, there's lots of error and noise in human measurements. There's, you don't have the right resolution of measurements. Resolution, I mean, every other, you know, every few days is not enough.
+
+01:44:42.914 --> 01:45:08.062
+to track a problem. You also have the issue of, you know, you're reactive instead of being proactive. It's just you're not sensing things that where you're, the point at which it's visible to you, it's probably too late to do anything about it. So if you look at my fish tank right now or my reef tank right now, I have a number of digital sensors in it. I have dashboards. I can track a huge chemical assay.
+
+01:45:08.162 --> 01:45:25.566
+is tracked in real time so that I can go back and look at the data. I can understand. I can see, oh, there was a water change there. Oh, the roadie tank. I can tell what's happening by looking at the data. I have, you know, and you know this, you've got the spectrum of your lights is on a cycle of effect.
+
+01:45:25.698 --> 01:45:53.438
+That's representative of the environment that the corals you're aquaculturing would, you know, that their systems, their deterministic systems are looking for, right? And so you've built this ecosystem that when I look at my dashboards, I have a digital twin of that system. And my tank is very stable. My tank knows what's wrong, what's happening. I can look at the data and understand that an event happened somewhere that could have been mitigated or something
+
+01:45:53.634 --> 01:46:20.702
+can understand that something's wrong quickly before it even shows up. It's amazing. I mean, I think for people who aren't into reefing, you might ask, like, you know, I know people that are, multiple people in my life are soon to have kids. Most everybody nowadays has a camera on the sleeping environment of their kids so that if their kid wakes up in the middle of the night, they can see it, they can hear it. So camera and microphone. Do you think we're
+
+01:46:21.186 --> 01:46:49.278
+either have now or soon will have AI tools that will help us better understand the health status of infants. Parents learn intuitively over time based on diaper changes, based on all sorts of things, cries, frequency of illnesses, et cetera, and their kids, how well their kids are doing before kids can communicate that. Do you think AI can help parents be better parents by giving...
+
+01:46:49.506 --> 01:47:19.230
+real-time feedback on the health information of their kids, not just if they're awake or asleep or if they're in some sort of trouble, but really help us adjust our care of our young, like what's more important for our species than, you know, supporting the growth of our next generation. No, absolutely. But I'd even more on the biological side. I mean, so think about digital twins. There's, and I'll get to babies in a moment, but just if you've ever bought a plane ticket,
+
+01:47:19.490 --> 01:47:36.254
+which any of us have today, that's a very sophisticated digital twin. Not the air traffic controllers looking at planes, but the pricing models for what data is going in to driving that price in real time, right? You might be trying to...
+
+01:47:36.418 --> 01:48:00.734
+a ticket and you go back an hour later or half hour later and it's like double or maybe it's gone up. And that's because it's using constant data from environments, from things happening in the world, from geopolitical issues, from things happening in the market that's driving that price. And that is very much an AI-driven digital twin that's driving the sort of value of that ticket. And
+
+01:48:00.834 --> 01:48:10.206
+Again, so there are places where we use digital twins. So that would be sort of the example of something that's affecting our lives. But we don't think about it as a digital twin, but it is a digital twin.
+
+01:48:10.338 --> 01:48:36.926
+And then you think about a different example where you've got a whole sandbox model. The NFL might have a digital twin of every player that's in the NFL, right? They know data. They're tracking that information. They know how people are going to perform many times. What do they care about? They want to anticipate if someone might be, you know, high risk for an injury so that they, you know, can mitigate it. They're using those kind of data. Absolutely. Yeah. Interesting. I think the word twin is the misleading part. I feel like digital twin, I feel like,
+
+01:48:37.122 --> 01:49:04.158
+Soon that nomenclature needs to be replaced because people hear twin, they think a duplicate of yourself. Yes. I feel like these are. Well, it's a duplicate of relevant data and information about yourself, but not just trying to like, what's the purpose in emulating myself? It's to emulate key. So imagine me as a physical system. I'm going to digitize some of that data.
+
+01:49:04.642 --> 01:49:32.606
+And whatever data I have, it's how that data I interact with it to make intelligent insights and feedback loops in the digital environment about how that physical system is going to behave. Okay. So it's a digital representative. Yes. More than a digital twin. Yes. I'm not trying to split it. There are many digital twins and any digital twin. So like even, you know, you've got data, you live with lots of digital, what I would, I think the world would, the digital twin system.
+
+01:49:33.154 --> 01:49:57.630
+whatever nomenclature would say is a digital twin, but I like a digital representative. And it's informing some aspect of decision-making and it's many feedback. So I'm digitizing different things. I'm, you know, in that situational awareness model, like just can I give a quick example? So imagine I, so I can digitize an environment, right? I can digitize the space we're in right now. And
+
+01:49:57.858 --> 01:50:27.390
+Would that be a digital twin? So first there in situational awareness, there's the state of, okay, so what's the sort of sensor, you know, limitations, the acuity of the data I've actually brought in. Okay. So that's like perception and same with our sensory systems. And then there's comprehension. So comprehension would be like, okay, that's a table, that's a chair, that's a person. Now I'm in those sort of semantic units of relevance that the digitization takes. Then there's the insight.
+
+01:50:27.682 --> 01:50:54.878
+So what's happening in that environment? What do I do with that? And that's where things get interesting. And that's where a lot of, I think, the future of AI products is. Because then it's the feedback loops of what's happening with that input and that data. And it becomes interesting and important when you start having multiple layers of relevant data that are interacting that can give you the right insights about what's happening, what to anticipate, and in that space.
+
+01:50:54.978 --> 01:51:22.974
+That's all about our situational awareness and intelligence in that environment. Yeah, I can see where these technologies could take us. I think for the general public right now, AI is super scary because we hear most about AI developing its own forms of intelligence that turn on us. I think people are gradually getting on board the idea that AI can be very useful. We have digital representatives already out there for
+
+01:51:23.138 --> 01:51:31.742
+for us in these different domains. Absolutely. I think being able to customize them for our unique challenges and our unique goals is really what's
+
+01:51:32.002 --> 01:52:00.958
+most exciting to me. I love that because, I mean, I think what I was trying to say is exactly what you said. Look, they are out there and these are effectively digital twins. Every company that you're interacting with social media has an effectively a digital twin of you in some place. It's not to emulate your body, but it's to emulate your behaviors. So to, you know, in those spaces or you're using tools that are optimum, you know, have digital twins for things you do in your daily life. So the question is,
+
+01:52:01.154 --> 01:52:22.206
+do we harness that for our success, for individual success, for understanding an agency of what that can mean for you? If the NFL is using it for a player, you can use it as an athlete, meaning as an athlete at any level, right? And it's that digitization of information that can feed you. For my baby, you can...
+
+01:52:22.626 --> 01:52:48.478
+better understand a great deal about how they're successful or what isn't successful about them. And, you know, some of, not your baby's always successful, I don't want to say, but what is maybe not, you know, working well for them. You know, the things that, but I would tend to say the exciting places about digital twins come in and really once you start integrating the data from
+
+01:52:48.770 --> 01:53:09.470
+different places that tell us about the success of our systems. And those are anchored with actual successes, right? I think you used an example of your mattress and sleep and or even like you, one I liked was I had three good, very focused work sessions. You may have used different words, Andy. But the idea is, okay, you've had those.
+
+01:53:10.658 --> 01:53:39.742
+It's when you can correlate it with other systems and other outputs that it becomes powerful. That's the way a digital representative or a digital twin becomes more useful, is thinking about not the resolution of the data, where the data source, where the data is coming from, meaning whether is it biometric data, is it environmental data? Is it the context of the state of what else was happening during those work sessions? And how is that something that I don't have to think about, but AI can help me understand that?
+
+01:53:39.842 --> 01:54:07.934
+where I'm successful and what else drove that success or what drove that state. Because it's not just my success, it's intelligence. I like to call it situational intelligence. It's sort of the overarching goal that we want to have. And that involves, you know, my body and systems having situational awareness. But it's really, you know, a lot of integration of data that, you know, AI is very powerful for thinking about how does it optimize and give us the insights that
+
+01:54:08.034 --> 01:54:37.534
+It doesn't have to just have systems behave, but it can give us the insights of how effectively we can act in those environments. Yeah, I think of AI as being able to see what we can't see. Yes. So, for instance, if I had some sort of AI representative that paid attention to my work environment and to my ability to focus as I'm trying to do focused work, and it turned out, obviously I'm making this up, but it turned out that every time my...
+
+01:54:38.082 --> 01:55:07.582
+air conditioner clicked over to silent or back to on, that it would break my focus for the next 10 minutes. Yes. And I wasn't aware of that. And by the way, this, for people listening, this is entirely plausible because so many of our states of mind are triggered by cues that we're just fundamentally unaware of. Or that it's always at the 35-minute mark that my eyes start to have to reread words or lines and
+
+01:55:07.746 --> 01:55:36.478
+because somehow my attention is drifting, or that it's paragraphs of longer than a certain length. It's a near infinite space for us to explore on our own, but for AI to explore it, it's straightforward. And so it can see through our literal, our cognitive blind spots and our functional blind spots. And I think of where people pay a lot of money right now to get information to get around their blind spots are things like when you have a pain and you don't know what it is, you go to this thing called a doctor.
+
+01:55:37.122 --> 01:56:05.150
+Or when you have a problem and you don't know how to sort it out, you might talk to a therapist, right? People pay a lot of money for that. I'm not saying AI should replace all of that, but I do think AI can see things that we can't see. Two examples to your point, which I love. The reading, potentially there's a point at which you're experiencing fatigue and ideally, much like the fish tank, you want to be not reactive. You want to be proactive. You want to mitigate it.
+
+01:56:05.314 --> 01:56:31.166
+know, stop or you could have your devices can have that integration of data and respond to give you feedback when you're either your mental acuity, your vigilance, or your just effectiveness has waned, right? But also on the level of health, we know AI is, you know, huge for identifying a lot of different pathologies out of, you know, data that as humans, we're just not that good at
+
+01:56:31.266 --> 01:56:58.206
+discerning our voice. In the last 10 years, we've become much more aware of the different pathologies that can be discerned from AI assessments of our speech and not what we say, but how we say it. Yeah. There's a lab up in the University of Washington. I think it's Sam Golden's lab who's working on some really impressive algorithms to
+
+01:56:58.338 --> 01:57:27.806
+analyze speech patterns as a way to predict suicidality. Oh, interesting. And to great success. Where people don't realize that they're drifting in that direction. Yeah. And phones can potentially warn people. Yes. Warn themselves, right, that they're drifting in a particular direction. People who have cycles of depression or mania can know whether or not they're drifting into that. That can be extremely useful. They can discern who else gets that information.
+
+01:57:27.906 --> 01:57:51.262
+I think it's all based on tonality at different times of day, stuff that even in a close, close relationship with a therapist over many years, they might not be able to detect if the person becomes reclusive or something of that sort. Absolutely. I mean, neural degeneration, it shows up in short assessment of how people speak –
+
+01:57:51.586 --> 01:58:03.838
+They've definitely been able to show potential likelihood of psychosis. And that's with syntactic completion and how people read paragraphs.
+
+01:58:03.938 --> 01:58:32.446
+Neural degeneration, though, things like Alzheimer's show up in speech because of the, you know, linguistic cues control, but, you know, sometimes 10 years before a typical clinical symptom would show up that would be identified. And what I think is important for people to realize is it's not someone saying, I don't remember. It's nothing like that. It's not those cues that you think are actually relevant. It's more like an individual says something relevant.
+
+01:58:32.962 --> 01:59:01.054
+something like that, what I just did, which was I purposely stuttered. I started a word again, right? And it's, you know, what we might call a stutter in how we're speaking, sometimes duration of spaces between starting one sentence to the next. These are things that as humans, we've adapted to not pick up on because it makes us, you know, it makes us ineffective in communication or, but an algorithm can do so very well. Diabetes,
+
+01:59:01.314 --> 01:59:10.270
+heart disease, both show up in voice. Diabetes shows up because you can pick up on dehydration in the voice.
+
+01:59:10.498 --> 01:59:39.998
+much, again, I'm a sound person in my heart and my past. And if you look at the spectrum of sound, you're going to see changes that show up. You know, there are very consistent things in a voice that show up with dehydration in the spectral, you know, salience, as well as with heart disease, you get sort of flutter that shows up. It's a proxy for things happening inside your body, you know, with problems, cardiovascular issues, but you're going to see them as certain like modulatory fluctuations in certain frequency bands. And again,
+
+01:59:40.354 --> 02:00:02.942
+We don't walk around as, you know, a partner or a spouse or a child, you know, caretaking our parents and listening for, you know, like the four kilohertz modulation, but an algorithm can. And, you know, all of these are places where you can identify something that is potentially, you know, mitigate something proactively before you.
+
+02:00:03.234 --> 02:00:31.518
+there's a problem. And especially with like neural degeneration, we're really just getting to a place where there's pharmacological opportunities to slow something down. And you want to find that as quick as possible. So where do you want to have that input so that you can do something about it? You asked me about the babies. The type of coughs we have tell us a lot about different pathologies. So
+
+02:00:31.938 --> 02:00:51.486
+For a baby, they're cry. If I'm thinking, you asked me about a digital tomb, where would I be most interested in using that information if I had children? I mean, I do have a child. But in the sort of lowest touch, most opportunity, it's to identify potential issues.
+
+02:00:51.586 --> 02:01:13.054
+pathologies or issues early based on, you know, the natural sounds and the natural utterances and, you know, that are happening to understand if there is something that, you know, there's a way it could be helped. It could be, you know, you could proactively make something much better. Let's talk about you. Oh, boy. And how you got into...
+
+02:01:13.314 --> 02:01:39.518
+all of this stuff because you're highly unusual in the neuroscience space. I recall when we were graduate students, when you were working on auditory perception and physiology, and then years later, now you're involved with an AI neuroplasticity, you were at Dolby. What is to you the most interesting question that's driving all of this? Like what guides your choices about what to work on?
+
+02:01:39.682 --> 02:02:09.534
+Human technology intersection and perception is my core, right? I say perception, but the world is data. And how our brains take in the data that we consume to optimize how we experience the world is what I care about across all of what I've spent my time doing. And for me, technology is such a huge part of that. I like to innovate. I like to build things. But I also like to think about how do we improve human performance?
+
+02:02:09.666 --> 02:02:35.294
+to improving human performance is understanding how we're different, not just how similar, but the nuances of how our brains are shaped and how they're influenced. And that's why I care. I've spent so much time in neuroplasticity, and it is at the intersection of everything. It's how are we changing and how do we harness that? How do we make it something that we have agency over, whether it's from the technologies we build and we innovate,
+
+02:02:35.554 --> 02:03:04.222
+the point of, I want to feel better. I want to be successful. I don't want that to be something left to surprise me, right? So you asked me, how did I get there? One thing that, so I was violinist back in the day. I'm still a violinist and music's a part of my life, but I was studying music and engineering when I was an undergrad. And I think we alluded to the fact I have absolute pitch. And absolute pitch is for anyone that doesn't
+
+02:03:04.354 --> 02:03:28.094
+No, it's not anything that means I always sing in tune. What it means is I hear the world, like I hear sound like people see color. Okay. And I can't turn it off really. I can kind of push it back. Wait, sorry. Don't we all hear sound like we see? I mean, I hear sounds and I see colors. Could you clarify what you mean? Okay. So when you...
+
+02:03:28.226 --> 02:03:52.254
+down the street, your brain is going, oh, that's red, that's black, that's blue, that's green. My brain's going, that's an A, that's a B, that's a G, that's an F, right? I see. You're categorizing. There's a categorical perception about it. And because of the nature of, I think, my exposure to sound in my life, I also know what frequency it is, right? You know, so I can say that's, you know, 350 hertz, or that's 400 hertz, or that's 442 hertz. And
+
+02:03:52.386 --> 02:04:19.934
+It has different applications. I mean, I can transcribe a jazz solo when I listen to it. That's a great party trick. But it doesn't mean that it's not necessarily a good thing for a musician, right? You know, as well as I do, that categorical perception is, we all have different forms of it, usually for speech and language, like the units of vowels or phonetic units will, especially vowels, will, you can hear many different versions of an
+
+02:04:20.098 --> 02:04:49.630
+E and still hear it as an E. And that's what we would call categorical perception. And my brain does the same thing for a sort of set of frequencies to hear it as an A. And that can be good at times, but when you're actually a musician, there's a lot more subtlety that goes into how you play with other people and what key you're in or what, you know, the details. Like if you ask me to sing happy birthday, I'm always going to
+
+02:04:49.794 --> 02:05:18.206
+it in the key of G if I am left to my own devices. And I will get you there somehow if we start somewhere else. So what happened to me when I was in music school, when I was in conservatory and also engineering school is I was taking two things happened. I knew that I had to override my brain because it was not allowing me the subtlety I wanted to play my Shostakovich or play my chamber music in the ways that were that
+
+02:05:18.306 --> 02:05:42.462
+I was having to work too hard to override what, you know, these sort of categories of sounds I was hearing. So I started playing early music, early music, Baroque music. For anyone, I think I said earlier, A is a social construct. Today, we typically, as I said, as a standard, A is 440 hertz. If you go back to, like, the 1700s, A was...
+
+02:05:42.594 --> 02:06:08.222
+415 hertz in the Baroque era. And 415 hertz is effectively a G sharp. So it's the difference between ah and ah. Okay. And what would happen to me when I was trying to override this is I was playing an early music ensemble and I would tune my violin up and I would see A on the page and I'd hear G sharp in my brain. And it was completely...
+
+02:06:08.386 --> 02:06:35.358
+It was, I was terrible. I was like always, it was really hard for my brain to override. And I mean, brass and wind players do this all the time. It's like transposition and they modulate to the key that they're in and they doesn't, their brains have evolved, you know, through their training and neuroplasticity to be able to not have the same sort of experience I had. Anyhow, long story long, I was,
+
+02:06:35.682 --> 02:06:56.254
+was also taking a neuroscience course. In this neuroscience course, we were reading papers about sort of different map making and neuroplasticity. And I read this paper by a professor at Stanford named Eric Knudsen. And Eric Knudsen did these amazing, well, he did a lot of seminal work for how we understand the auditory pathways as well as how we form auditors.
+
+02:06:56.386 --> 02:07:21.694
+multisensory objects and the way the brain integrates cells data across our modalities, meaning sight and sound. But in this paper, what he was doing was he had identified cells in the brain that optimally responded, the receptive fields, receptive field being that sort of like in all of that giant data set of the world, it's that, you
+
+02:07:21.858 --> 02:07:45.438
+set of data that optimally causes that cell to respond. And for these cells, they cared about a particular location in auditory and visual space, which, you know, frankly, for mammals, we don't have the same sort of like cells because we can move our eyes back and forth in our sockets, unlike owls. And he studied owls. And owls have a very hardwired map of auditory visual space.
+
+02:07:45.602 --> 02:08:14.910
+On the other hand, if I hear click off to my right, I turn my head to the right. You turn your head. It triggers a different, you know, vestibular ocular response that moves, you know, all of that. Yes. But in this case, he had these beautiful hardwired maps of auditory visual space. And then he would rear and raise these owls with prism glasses that effectively shifted their visual system by 15 degrees. And then he would put them, key to developing neuroplasticity, he would put them in high, you know, important...
+
+02:08:15.298 --> 02:08:42.462
+you know, high, not stress, but let's say situations where they had to do something critical to their, you know, their survival or their well-being. And so they would hunt and they would feed and do things like that with this 15-degree shift. You know, and consequently he saw the cells, the auditory neurons, he saw their dendrites realign to the now 15-degree visually shifted cells. And it was this
+
+02:08:42.562 --> 02:09:08.510
+realization that they developed a secondary map that was now aligned with the 15-degree shift of the prism glasses as well as their original map was super interesting for understanding how our brains integrate data and the feedback and neuroplasticity. So I go back to my Baroque violin where I'm always out of tune, and I'm tuning up with, you know, tuning up my Baroque violin, and I realize I had developed a
+
+02:09:09.090 --> 02:09:35.390
+absolute pitch at A415. So I developed a secondary absolute pitch map. And then I would go play Shostakovich right after at A440. And I had that map. And I have nothing in between, but I could modulate between the two. And that's like the point at which I said, I think I just, you know, my brain is a little weird. And I just did something that I need to go better understand. So that's how I like ended up here as a neuroscientist. I know Eric's worked really well.
+
+02:09:35.490 --> 02:09:58.142
+Our labs were next door. Yes. Our offices were next door. He's retired now. He knows. I told him this story. He's wonderful. I think one of my favorite things about those studies, I think people will find interesting, is that if an animal, human or owl, you know, has a...
+
+02:09:58.306 --> 02:10:28.158
+displacement in the world. Something's different, something changes and you need to adjust to it. It could be like new information coming to you that you need to learn in order to perform your sport correctly or to perform well in class or an emotionally challenging situation that you need to adjust to. All of that can happen, but it happens much, much faster if your life depends on it. And we kind of intuitively know this, but one of my favorite things about his work is where he said, okay, well,
+
+02:10:28.418 --> 02:10:58.366
+yeah, these owls can adjust to the prism shift. Their maps in the brain can change, but they sure as heck form much faster if you say, hey, in order to eat, in other words, in order to survive, these maps have to change. You know, and I like that study so much because, you know, we hear all the time, you know, it takes 29 days to form a new habit or it takes 50 days to form a new habit or whatever it is. Actually, you can form a new habit as quickly as is necessary to form that new habit.
+
+02:10:58.498 --> 02:11:28.030
+And so the limits on neuroplasticity are really set by how critical it is. Yeah. And, you know, of course, if you put a gun to my head right now and you said, okay, remap your auditory world. I mean, there are limits at the other end too. I mean, I can't do that quickly. But I think it's a reminder to me anyway, and thank you for bringing up Eric's work. It's a reminder to me that neuroplasticity is always in reach. If the incentives are high enough, we can do it.
+
+02:11:28.162 --> 02:11:57.950
+And so I think with AI, it's going to be very interesting, or with technology generally. You know, our ability to form these new maps of experience, at least with smartphones, has been pretty gradual. I really see 2010 as kind of the beginning of the smartphone, and then now by 2025, we're in a place where most everyone, young and old, has integrated this new technology. I think AI is coming at us very fast, and it's unclear what form it's coming at us and where. And as you said, it's already here. And I think...
+
+02:11:58.050 --> 02:12:22.366
+We will adapt for sure. We'll form the necessary maps. I think being very conscious of which maps are changing is so key. I mean, I think we're still doing a lot of cleanup of the detrimental aspects of smartphones. Short wavelength, light late at night. You know, being in contact with so many people all the time, maybe not so good. I mean, I think what scares people, certainly me, is the idea that,
+
+02:12:22.530 --> 02:12:52.158
+we're going to be doing a lot of error correction over the next 30 years because we're going so fast with technology because maps can change really, really fast. They do change. Sam Altman had a, I saw him say this, and actually that was a really good description. It's like, you know, Gen X or, you know, there's a group that is using AI as a tool that's sort of novel, interesting. Then, you know, you've got a different millennials are using it as, you know, a search tool.
+
+02:12:52.290 --> 02:13:14.174
+And maybe that's even GenX, but, you know, it's a little more deeply integrated. But then you go back, you know, to younger generations, and it's an operating system, and it already is. And that has major changes in neural structure for not just, you know, maps, but also neural processes for how we deal with information, how we learn. Yeah.
+
+02:13:14.466 --> 02:13:38.878
+idea that we are very plastic under pressure? Absolutely. And that's where it gets interesting to talk about different species too. I mean, we're talking about owls and that was under pressure, but what is successful human performance in training and all of these things? It's to make those probabilistic situations more deterministic, right? That's when you are, if you're training as an athlete, you're really trying to not have to think
+
+02:13:39.010 --> 02:14:08.446
+to have the fastest reaction time to very complex behaviors given complex stimuli, complex situations and contexts. But that situational awareness or physical behavior in those environments, you want that as fast as possible with as little cognitive load as possible. And it's like that execution is critical. You love looking across species, so do I. And looking for these ways where a brain is changing or you've got
+
+02:14:08.610 --> 02:14:34.430
+species that can do something that is absolutely not what you would predict or it's incredible. And it's, you know, how it can evade a predator, how it can find a target, you know, find a mate. And, you know, it's doing things that are critical to it being able to survive much as you said. Like if I make it something that is absolutely necessary for success, you
+
+02:14:34.882 --> 02:15:04.766
+going to do it. One of my favorite examples is a particular moth that bats predate on, echolocating bats. And frankly, echolocating bats are sort of nature's engineered, amazing predatory species. Their brains, when you look at them, are just incredible. They have huge amounts of their brain just dedicated to what's called a FM, constant frequency FM sort of sweep. Some of the bats elicit a call that's sort of like,
+
+02:15:06.498 --> 02:15:26.654
+Really high. So we can't hear it. Yes. What does that do for them? It's doing two things. One, that constant frequency portion is allowing them to sort of track the Doppler in a moving object. So, and they're even so, I mean, it's such clever and sophisticated. They're not changing. They're changing things.
+
+02:15:26.914 --> 02:15:54.110
+subtlety, what frequencies they elicit the call it so that it always comes back in the same frequency range because that's where their heightened sensitivity is. So otherwise, you know, so they're modifying their vocal cords to make sure that the call comes back in the same range. And then they're tracking how much they've had to modify their call. Just so that people are on board. Yeah, bats echolocate. They're sending out sound and they can measure distance and they can essentially...
+
+02:15:54.210 --> 02:16:23.070
+see in their mind's eye. They can sense distance. They can sense speed of objects. They can sense shape of objects by virtue of sounds being sent out and coming back. Absolutely. And they're shaping the sounds going out differently so that they can look at multiple objects simultaneously. But also, so they're shaping the sounds they send out so that whatever comes back is in their optimal neural range so that they don't have to go through more neural plasticity that they already have, like circuits that are really dedicated to these certain frequency ranges. Right.
+
+02:16:23.202 --> 02:16:49.278
+And so they send it out, and then they're keeping track of the deltas. They're keeping track of how much they've had to change it. And that's what tells them the speed. So that constant frequency is a lot like the ambulance sound going by. That's the compression of sound waves that you hear as a whoo when things move past you at speed. That's the Doppler effect. And then there also, it has usually a really fast FM frequency modulated sweep. And that lets me take kind of an imprint approach.
+
+02:16:49.505 --> 02:17:18.686
+So one's telling me the speed of the object, another one's telling me sort of what the surface structure looks like, right? That FM sweep lets me get a sonic imprint of what's there so I can tell topography. I can tell if there's a moth on a hard surface, right? So what's beautiful about other species is you've got a little moth and you've got nature's predatory marvel. And 80% of the time about
+
+02:17:18.850 --> 02:17:43.038
+moth gets away. How? Multiple things. I call it almost an acoustic arms race that's happening between the two. And there's a lot of acoustic subterfuge between the moth, you know, but there's also beautiful deterministic responses that they have. And so first, deterministic behaviors, again, be it an athlete, be it, you know, effectiveness, being fast, quick in making good things,
+
+02:17:43.138 --> 02:18:13.118
+decisions that get you the right answer are always important. So, you know, moths have just a few neurons when that echolocating bat is flying, you know, at a certain point when those neurons start firing, they will start, you know, they'll start flying more of a random pattern. You'll see the same thing with seals when there are great white sharks around, right? It's decreasing the probability that, you know, it's easy for them to continue to track you. So they'll fly in a random pattern. And then when their neurons saturate, you know, when it gets, those calls get
+
+02:18:13.314 --> 02:18:35.902
+enough, the moth will drop to the ground with the idea that, you know, in assuming we don't live in cities, in a natural world, the ground is, you know, wheat, grass. It's a difficult environment for an echolocating back to locate you, right? So that is just a deterministic behavior that will happen regardless. But then the interesting part is
+
+02:18:36.002 --> 02:19:01.918
+Their body is reflecting, meta-reflectors effectively, so that the bat may put out its call and it deflects the energy of the call away from its body. So you're deflecting it away from critical areas. And this is all happening and the changes in the physical body are interesting, but then it's the
+
+02:19:02.146 --> 02:19:32.062
+behavioral differences, they're really key, right? It's how fast does that moth react? If it has to question, you know, or if it were cognitively responsive instead of being deterministic in its behavior, it wouldn't escape, right? But it gets away. Yeah, I've never thought about bats and moths. I never got the insect. I was about to say I never got the insect bug. No pun intended. I never got the insect bug because I...
+
+02:19:32.802 --> 02:19:56.254
+I don't think of things in the auditory domain. I think of things in the visual domain. And some insects are very visual, but it's good for me to think about that. One of my favorite people, although I never met him, was Oliver Sacks, the neurologist and writer. And he claimed to have spent a lot of time just sitting in a chair and trying to imagine what life would be like as a bat.
+
+02:19:56.994 --> 02:20:25.662
+a way to enhance his clinical abilities with patients suffering from different neurologic disorders. So when he would interact with somebody with Parkinson's or with severe autism or with Lockton syndrome or any number of different deficits of the nervous system, he felt that he could go into their mind a bit to understand what their experience was like. He could empathize with them. And that would make him more effective at
+
+02:20:25.826 --> 02:20:54.046
+And he certainly was very effective at storing out their experience in ways that brought about a lot of compassion and understanding. Like he never presented a neural condition in a way that made you feel sorry for the person. It was always the opposite. And I should point out, I'm not trying to be politically correct here, but when I say autistic, I've been the patients he worked with were severely autistic to the point of, you know, never being able to take care of themselves. We're not talking about autism.
+
+02:20:54.178 --> 02:21:23.518
+along a spectrum, we're talking about the far end of the spectrum of needing assisted living their entire lives and being sensory very, from a sensory standpoint, extremely sensitive, couldn't go out in public, that kind of thing. Now we're not talking about people that are functioning with autism. So apparently thinking in the auditory domain was useful for him, so I should probably do that. So I have one final question for you, which is, what's really two questions?
+
+02:21:23.746 --> 02:21:47.294
+First question, why did you sing to spiders? And second, what does that tell us about spider webs? Because I confess I know the answers to these questions, but I was absolutely blown away to learn what spider webs are actually for. And you singing to spiders reveals what they're for. So why did you sing to spiders?
+
+02:21:47.650 --> 02:22:15.038
+And you can watch me sing to a spider on a TED talk I gave a few years ago. We'll put a link to it. Okay. And, no, so maybe this comes back to I have absolute pitch, so I know what frequencies I'm singing. But I also recognize by having absolute pitch, I know my brain is just a little different. Again, you asked me what threads drive me. It's always been we do experience the world differently, and I believe that our success, everyone's success,
+
+02:22:15.170 --> 02:22:35.326
+the success of our growth as humans is partly dependent on how we use technology to help, you know, improve and optimize each of us with, you know, the different variables we need, right? So different species and how they respond to sound is very interesting to me. And as much as you...
+
+02:22:35.586 --> 02:23:05.552
+I know, Andy, you look at how different species respond to color and to information in the world, be it cuttlefish or such. I have jellyfish too. And I can see how they, you know, their pulsing rates change with their photoreceptors when they, you know, with different light colors. It's very obvious that some clearly make, you know, that they are under, when they're under stress versus when they're in a more calming state. And so it's like understanding the stimuli in our world that shape us, those changes is a huge part of being human in my perspective.
+
+02:23:05.552 --> 02:23:17.886
+In this case, this happens to be an orb spider, the one I sing to. And when I hit about 880 hertz, you will see the spider kind of dances. But what this particular species is,
+
+02:23:17.986 --> 02:23:47.742
+and not all spiders will do this, is predated on by echolocating bats and birds, which makes sense that then it tunes its web effectively. And orb weavers are all over California. They show up a lot around Thanksgiving if you are October, November, for anyone that's out here on the West Coast. They're not bad spiders. They are not spiders you need to get rid of. They're totally happy spiders. There are some that maybe you should worry about more. Anyhow, they tune their webs to...
+
+02:23:48.130 --> 02:24:16.414
+resonate like a violin. And when you'll see it, as I hit a certain frequency, it'll effectively tell me to go away. And it's a pretty interesting sort of deterministic response. Other insects do different things. The one kind of funny for that was when my daughter was, I think at the time, she was about two and a half or three, and she kind of adopted a
+
+02:24:17.122 --> 02:24:43.390
+asking me when we would see spiders if it was the kind we should sing to or the kind we shouldn't touch. And so those were the two classes. So amazing. So if I understand correctly, these orb spiders use their web. Yes. More or less as an instrument to detect certain sound frequencies in their environment. Resonances, absolutely. So that they can respond appropriately. Yeah. Either by raising their legs to...
+
+02:24:43.618 --> 02:25:12.702
+themselves or to attack or whatever it is, the spider web is a functional thing not just for catching prey. It's a detection device also. And we know that because when prey are caught in a spider web, they wiggle and then the spider goes over to it and wraps it and eats it. But the idea that it would be tuned to particular frequencies is really wild. Yeah, not just by any vibration, right? You know, there's the idea that there's any vibration. I know I've got, you know, food somewhere. I should go to that food source. But instead it's
+
+02:25:12.834 --> 02:25:32.286
+something that if I experience a threat or something, I'm going to behave. And that is a more selective, you know, response that I've tuned it towards. It's so interesting because if I just transfer it to the visual domain, it's like, yeah, of course. Like if an animal, including us, sees something like a looming object coming at us,
+
+02:25:32.386 --> 02:26:00.382
+closer to dark, our immediate response is to either freeze or flee. Like that's just what we do. The looming response is one of the most fundamental responses, but that's in the visual domain. So the fact that there would be auditory cues that would bring about sort of deterministic responses seems very real. I feel like the wail of somebody in pain evokes a certain response. Yesterday there was a lot of noise outside my window at night, and there was a moment where I couldn't tell where these
+
+02:26:00.546 --> 02:26:27.422
+Shouts of glee or shouts of fear. And I like continue. And then I heard this like kind of like high pitch fluttering that came after the scream. And I realized these were kids playing in the alley outside my house. And I went and looked. I was like, oh, yeah, they're definitely playing. But I knew even before I went and looked based on the kind of the flutter of sound that came after the like shriek, the shriek.
+
+02:26:27.554 --> 02:26:56.606
+shriek. It was like, and then it was, it was like, I can't, I can't reproduce the sound at that high frequency. But so the idea that this would be true all the time is, is super interesting. We just don't tend to focus just on our hearing, unless of course, somebody's blind, in which case they have to rely on it much more. So two interesting things to go with that. So like crickets, for example, crickets have bimodal neurons that have sort of peaks in two different frequency ranges for the same neuron. And each frequency
+
+02:26:56.706 --> 02:27:25.246
+frequency range will elicit a completely different behavior. So you've got a peak at 6K and you've got a peak at 40K. And this is the same neuron. Cricket hears 40K from a speaker, run over to it because that's got to be my mate or something. And you hear 40K and they run away. And, you know, it's very predictive behavior. I spent a lot of, well, I spent a good period of time working with non-human primate species, marmosets.
+
+02:27:25.890 --> 02:27:52.510
+Marmosets are very interesting when you get to a more sophisticated neural system. But marmosets are very social. It's critical to their happiness. If you ever see a single marmoset in the zoo or something, that's a very unhappy animal. But they're native to the Amazon, New World monkeys native to Brazil and the Amazon, but they're arboreal. They live in trees and they're very social.
+
+02:27:52.706 --> 02:28:21.662
+So that kind of can be in conflict with each other because you're in dense foliage, but yet you need to communicate. So they've evolved very interesting systems to be able to achieve what they needed to, which, one, if you ever see marmosets, they're very stoic, unlike macaque monkeys that often have a lot of visual expression of how they're feeling. Marmosets always look about the same, but they're
+
+02:28:22.306 --> 02:28:52.286
+Their vocalizations are almost like birdsong, and they're very rich in the information that they're, you know, communicating. They also have a pheromonal system. Like, you know, they thought you can have a dominant female in the colony who may not be because you have to have ways of community. When one sense is compromised, the other senses sort of rise up to help assure that the success of what that, you know, that species or system needs is going to be, you know,
+
+02:28:52.386 --> 02:29:19.166
+And in the case of marmosets, you can have the dominant female effectively causes the ovulation of like the biology to change of all the other females. And you can have a female that you put just in the same proximity, but now as part of a different group and her biology will change. I mean, it's very powerful, the pheromonal interactions that happen in the, because those are things that can travel even when I can't see you.
+
+02:29:19.778 --> 02:29:45.310
+One thing when I was working with them, you know, that I thought was, and I never, I like writing pads more than publishing papers. But these things are real because I was studying pupilometry is understanding the power of the, you know, their saccades. I could know what they were hearing based on their eye movements, right? So if I play, marmosets have, you know, call, some of their calls are really antiphonal. They're to see, hey, are you out there?
+
+02:29:45.538 --> 02:30:14.718
+Am I alone? Who else is around? It's like texting for humans. Yeah. And sometimes it's light or sometimes it might be like, oh, you know, from be careful. There's, you know, there's somebody around that we got to watch out for. Maybe there's a leopard on the ground or somebody, something. Right. And then sometimes it's like, you're in my face. Get out of here now. Right. And those are three different things. And I can play that to you and I can tell you without hearing it. And I know exactly what's being heard in the case of the antiphonal. Hey, are you out there? You see like the eye will just start.
+
+02:30:14.882 --> 02:30:44.574
+scanning back and forth, right? Because that's the right movement. I'm looking for where's this coming from. Yeah, they paired the right eye movement with the right sound. Exactly. In the case of, you know, look, it's, you know, there's something to be threatened of, you're going to see dilation and you're also going to see some scanning, but it's not as slow. It's a lot faster because there's a threat to me. My autonomic system and my cognitive system are like reacting differently. And in the case of you're in my face, it's going to be, you know, without even, so without
+
+02:30:44.802 --> 02:31:12.030
+seeing you, if I hear another, you know, sort of aggressive sound, I'm going to react. I'm going to be, you know, I'm not scanning anywhere, but my dilation is going to be fast and, you know, my, and I'm also going to be much more on top of things. But we do this as, you know, humans too, right? And it's like, you can walk into a business meeting, you know, walk into a conference room and, you know, it's these subtle cues that are constant. We can't, don't always suppress them. We show them.
+
+02:31:12.194 --> 02:31:36.222
+we think we do or we don't. But, you know, when you look at species like that, it's very much like, okay, you know, there's a lot of, you know, sophistication in how their bodies are helping them be successful, even in a world or an environment that has a lot of things that could maybe, you know, come after them. So interesting to think about that in terms of our own human behavior and what
+
+02:31:36.322 --> 02:32:06.206
+we're optimizing for, especially as all these technologies come on board and are sure to come on board even more quickly. Poppy, thank you so much for coming here today to educate us about what you've done, what's here now, what's to come. We covered a lot of different territories, and I'm glad we did because you have expertise in a lot of areas, and I love that you are constantly thinking about technology development. And I drew a little diagram for myself that I'll just
+
+02:32:06.370 --> 02:32:32.862
+describe for people because if I understood correctly, one of the reasons you got into neuroscience and research at all is about this interface between inputs and us. And what sits in between those two things is this incredible feature of our nervous systems, which is neuroplasticity or what I sometimes like to refer to as self-directed plasticity because unlike other species,
+
+02:32:33.346 --> 02:33:00.926
+We can decide what we want to change and make the effort to adopt a second map of the auditory world or visual world or take on a new set of learnings in any domain. And we can do it. If we put our mind to it, if the incentives are high enough, we can do it. And at the same time, neuroplasticity is always occurring based on the things we're bombarded with, new technology. So we have to be aware of how we are changing and we need to intervene at times and
+
+02:33:01.282 --> 02:33:18.302
+leverage those things for our health. So thank you so much for doing the work that you do. Thank you for coming here to educate us on them and keep us posted. We'll provide links to you singing to spiders and all the rest. My mind's blown. Thank you so much. Thank you, Ed. Great to be here.
+
+02:33:18.754 --> 02:33:48.720
+you for joining me for today's discussion with Dr. Poppy Crum. To learn more about her work and to find links to the various resources we discussed, please see the show note captions. If you're learning from and or enjoying this podcast, please subscribe to our YouTube channel. That's a terrific zero-cost way to support us. In addition, please follow the podcast by clicking the follow button on both Spotify and Apple. And on both Spotify and Apple, you can leave us up to a five-star review. And you can now leave us comments at both Spotify and Apple. Please also check out the sponsors mentioned at the beginning and throughout today's
+
+02:33:48.720 --> 02:34:02.494
+episode. That's the best way to support this podcast. If you have questions for me or comments about the podcast or guests or topics that you'd like me to consider for the Huberman Lab podcast, please put those in the comment section on YouTube. I do read all the comments.
+
+02:34:02.658 --> 02:34:21.790
+For those of you that haven't heard, I have a new book coming out. It's my very first book. It's entitled, Protocols, an Operating Manual for the Human Body. This is a book that I've been working on for more than five years, and that's based on more than 30 years of research and experience. And it covers protocols for everything from sleep to exercise to stress control,
+
+02:34:21.954 --> 02:34:41.950
+protocols related to focus and motivation. And of course, I provide the scientific substantiation for the protocols that are included. The book is now available by presale at protocolsbook.com. There you can find links to various vendors. You can pick the one that you like best. Again, the book is called Protocols, an Operating Manual for the Human Body.
+
+02:34:42.306 --> 02:35:12.272
+If you're not already following me on social media, I am Huberman Lab on all social media platforms. So that's Instagram, X, Threads, Facebook, and LinkedIn. And on all those platforms, I discuss science and science-related tools, some of which overlaps with the content of the Huberman Lab podcast, but much of which is distinct from the information on the Huberman Lab podcast. Again, it's Huberman Lab on all social media platforms. And if you haven't already subscribed to our Neural Network newsletter, the Neural Network newsletter is a zero-cost monthly newsletter that includes podcast summaries as well
+
+02:35:12.272 --> 02:35:37.950
+as what we call protocols in the form of one to three page PDFs that cover everything from how to optimize your sleep, how to optimize dopamine, deliberate cold exposure. We have a foundational fitness protocol that covers cardiovascular training and resistance training. All of that is available completely zero cost. You simply go to Hubermanlab.com, go to the menu tab in the top right corner, scroll down to newsletter and enter your email. And I should emphasize that we do not share your email with anybody.
+
+02:35:38.242 --> 02:35:46.206
+you once again for joining me for today's discussion with Dr. Poppy Crum. And last, but certainly not least, thank you for your interest in science.

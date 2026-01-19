@@ -1,0 +1,784 @@
+WEBVTT
+
+00:00.354 --> 00:26.270
+Welcome to the Huberman Lab Podcast, where we discuss science and science-based tools for everyday life. I'm Andrew Huberman, and I'm a professor of neurobiology and ophthalmology at Stanford School of Medicine. Today, we're discussing the vagus nerve. The vagus nerve, or what neuroanatomists call cranial nerve 10, is an extremely interesting nerve because when we hear the word nerve,
+
+00:26.498 --> 00:52.926
+We often think of a small connection between one thing and another, the wires of the nerve, which of course we call axons. If you didn't know that, now you know they're called axons. But actually the cranial nerve is an extensive pathway. It's a whole set of connections that link the brain and body. In fact, in many respects, it looks kind of like its own nervous system within the traditional nervous system of the brain and the spinal cord,
+
+00:53.026 --> 01:17.726
+the connections between spinal cord and muscle. The vagus nerve is so vast, it spreads out through so much of the body. And as you'll learn today, it's connected to so many interesting different brain areas and has so many interesting different functions that it deserves, well, an entire episode of this podcast. The other great thing about the vagus nerve is it is highly actionable, meaning what you will learn today
+
+01:17.826 --> 01:46.718
+if you already know something about the vagus nerve, is going to change what you know and believe about the vagus nerve. What you hear today will also, if you don't know or you're not familiar with the vagus nerve, is going to educate you on the latest about the vagus nerve. We've learned a lot about the vagus nerve and ways to control the vagus nerve in the last few years. And finally, and perhaps most importantly, the information that you're going to learn today includes actionable tools that will, for instance, allow you to make yourself more alert when you want to.
+
+01:46.818 --> 02:13.534
+without the use of pharmacology. It will allow you to calm yourself down quickly when you want to, on demand and quickly without the use of pharmacology or devices. And it will also allow you to alter your mood for the better and indeed to improve your ability to learn. The vagus nerve is that important. It's involved in that many different things. And the pathways of the vagus nerve, as I mentioned, have been charted in more detail in recent years.
+
+02:13.634 --> 02:42.942
+and the ways that we can get into the vagus nerve and stimulate its actions in specific ways to achieve those end points of improved mood, deeper relaxation, fast relaxation, elevated levels of alertness, and on and on are now very well understood. So as you can probably tell, I'm extremely excited about today's episode because the vagus nerve is just one of the most fascinating aspects to our nervous system. You have one, I have one, so let's figure out how they work and how to put it to work for the better.
+
+02:43.266 --> 03:10.398
+Before we begin, I'd like to emphasize that this podcast is separate from my teaching and research roles at Stanford. It is, however, part of my desire and effort to bring zero cost to consumer information about science and science related tools to the general public. In keeping with that theme, today's episode does include sponsors. Our first sponsor is Element. Element is an electrolyte drink that has everything you need and nothing you don't. That means the electrolytes, sodium, magnesium, and potassium in the correct amounts, but no sugar.
+
+03:10.530 --> 03:40.496
+Proper hydration is critical for optimal brain and body function. Even a slight degree of dehydration can diminish cognitive and physical performance. It's also important that you get adequate electrolytes. The electrolytes, sodium, magnesium, and potassium, are vital for functioning of all the cells in your body, especially your neurons or your nerve cells. Drinking element dissolved in water makes it very easy to ensure that you're getting adequate hydration and adequate electrolytes. To make sure that I'm getting proper amounts of hydration and electrolytes, I dissolve one packet of element in about 16
+
+03:40.496 --> 04:10.448
+to 32 ounces of water when I first wake up in the morning, and I drink that basically first thing in the morning. I'll also drink Element dissolved in water during any kind of physical exercise that I'm doing, especially on hot days when I'm sweating a lot and losing water and electrolytes. Element has a bunch of great tasting flavors. I love the raspberry. I love the citrus flavor. Right now, Element has a limited edition lemonade flavor that is absolutely delicious. I hate to say that I love one more than all the others, but this lemonade flavor is right up there with my favorite other one, which is raspberry or watermelon.
+
+04:10.448 --> 04:31.838
+Again, I can't pick just one flavor. I love them all. If you'd like to try Element, you can go to drinkelement.com slash Huberman, spelled drinkelement.com slash Huberman, to claim a free Element sample pack with a purchase of any Element drink mix. Again, that's drinkelement.com slash Huberman to claim a free sample pack. Today's episode is also brought to us by
+
+04:31.938 --> 05:01.918
+by Juve. Juve makes medical-grade red light therapy devices. Now, if there's one thing that I have consistently emphasized on this podcast, it is the incredible impact that light can have on our biology. Now, in addition to sunlight, red light and near-infrared light sources have been shown to have positive effects on improving numerous aspects of cellular and organ health, including faster muscle recovery, improved skin health and wound healing, improvements in acne, reduced pain and inflammation, even mitochondrial function, and improving vision itself.
+
+05:01.922 --> 05:22.718
+What sets Juve lights apart and why they're my preferred red light therapy device is that they use clinically proven wavelengths, meaning specific wavelengths of red light and near infrared light in combination to trigger the optimal cellar adaptations. Personally, I use the Juve whole body panel about three to four times a week, and I use the Juve handheld light both at home and when I travel.
+
+05:22.850 --> 05:52.766
+If you'd like to try Juve, you can go to juve spelled J-O-O-V-V.com slash Huberman. Juve is offering an exclusive discount to all Huberman Lab listeners with up to $400 off Juve products. Again, that's Juve spelled J-O-O-V-V.com slash Huberman to get up to $400 off. Okay, let's get familiar with the vagus nerve. The vagus nerve is cranial nerve 10. The vagus nerve is very different than the other cranial nerves because whereas it does have connections with areas
+
+05:52.898 --> 06:19.710
+on the face, head and neck, and deep to those areas too, so throat, et cetera. It also has connections, or I should say it receives and provides connections to areas within the body. In fact, it has connections with the head area, the neck area, the chest area, the abdomen, and even a bit lower into the lower intestines. So the vagus nerve is super extensive in terms of its outputs.
+
+06:19.842 --> 06:49.630
+and its inputs. And I'll explain what I mean by outputs and inputs in just a moment. But what's very useful to understand and visualize in your mind a bit, anytime we're talking about the vagus nerve, is we're talking about a nerve of many, many different pathways that both receives and provides information from essentially all areas of the body down to the base of your pelvis. And that stands in stark contrast from the other cranial nerves, which tend to receive information from restricted areas of the body, most typically,
+
+06:49.794 --> 07:18.110
+the head and neck area, and that tend to provide connections to the head and neck area. The word vagus actually translates more or less to vagabond, which means wandering. So early neuroanatomists saw that this nerve, cranial nerve 10, had connections to large areas of the body and head and neck and received inputs from lots of areas of the body and decided to call it essentially the vagabond nerve or the vagus nerve. Now, even though the word vagabond
+
+07:18.210 --> 07:43.966
+means essentially wandering. And the word wandering kind of suggests random. There is nothing random about the wiring of the vagus nerve. The vagus nerve is incredibly precise in terms of where it receives information from and where it provides information to. Now, I want to be very clear what I mean about information, okay? If you're a biologist, you'll probably understand some of this. If you're not, and I have to assume most of you are not,
+
+07:44.098 --> 08:13.470
+it's still very important that you understand, and it's very easy to understand, that your nervous system, your brain, spinal cord, and of course your nervous system includes all these cranial nerves, including the vagus nerve, are carrying different types of information along different pathways, different neurons or different nerve cells within the vagus nerve, for instance, are receiving or giving different types of information for different purposes. For instance, there is sensory information carried by neurons, nerve cells in your nervous system.
+
+08:14.082 --> 08:38.334
+Sensory information is the kind of information that, for instance, converts light into electrical signals at the level of your eyes. Then your eyes are providing information to the brain about what's out in the visual world. That's sensory information. The same could be said for sound waves. That's sensory information that your auditory system converts to basically your understanding of speech and sound and music, et cetera.
+
+08:38.946 --> 09:08.126
+Other neurons control motor functions, literally the movement of your limbs by controlling contraction of your muscles or the movement of your lips or the closing or opening of your airways, for instance. So motor information, of course, can be seen on the surface of the body. I'm moving my hands now, I'm moving my mouth. You don't even need to see me do that to know that I'm doing that. But within our body, we have organs that also need motor control. For instance, our gut.
+
+09:08.450 --> 09:36.318
+Our gut is not just a passive tube through which food moves, the gut is contracting and relaxing. It's moving food through from one end to the other, okay? We have our pancreas, we have our liver, we have our spleen, and you might think, oh, well, those are sort of vegetative organs. They just kind of sit there. Maybe the cells do stuff, but they don't move much. But actually your spleen even has a contractile ability, so it can contract to release red blood cells or immune cells into circulation and so on and so forth.
+
+09:37.154 --> 10:00.158
+different organs, including your muscles, but other organs as well, need instructions as to when they should move, when they should contract, when they should relax. So we have sensory information that's carried by essentially one set of neurons in our nervous system. So carrying light information or sound information, or as you'll see in a few minutes, chemical information about the acidity of the gut, for instance.
+
+10:00.930 --> 10:14.526
+And we have neurons that are considered motor neurons. They control the contraction of muscles or the contraction of these different organs or the encouragement for different aspects of the digestive tract to contract or relax to move food along.
+
+10:14.690 --> 10:44.656
+Okay, so we've got sensory neurons and we have motor neurons. And then there are a lot of other neurons as well that we call modulatory neurons that kind of adjust the balance between the sensory information and motor information. We aren't going to talk so much today about modulatory neurons, but they are an important third category of neuron in the nervous system. Now, why am I telling you all this stuff about sensory motor? Because the vagus nerve is also unique in that it is both a sensory pathway and a motor pathway. And this is something that most discussions about
+
+10:44.656 --> 11:08.190
+In fact, I would say 99% of discussions about the vagus nerve that you see online, or when you hear about, forgive me in your yoga classes, by the way, I'm going to touch on how yoga and ancient yogic practices actually managed to tease apart some very important functions of the vagus nerve without knowing any of the underlying mechanisms. But it is the case that most of the time when you hear about the vagus nerve out there in the
+
+11:08.578 --> 11:38.366
+general world or in the media. It's about the vagus nerve being a calming pathway that's involved in transmitting information about the sensory milieu of the body. So, you know, heart rate, acidity of the gut, you know, how comfortable we are in our body to our brain. And people will say, you want to activate the vagus nerve because you want to calm down. Well, that is true, but that is just one small fraction of the functions of the vagus nerve. Why? Because the vagus nerve includes both sensory
+
+11:38.498 --> 12:05.374
+and motor neurons within it. And while it is true that a ton of sensory information is coursing up from the organs of the body into the brain through what we call the vagus nerve, there's also motor information coming from the brain to the body. So if we are going to have an accurate, meaningful, actionable conversation about the vagus nerve, it's very important that you know that the vagus nerve contains sensory neurons as well as motor neurons.
+
+12:05.570 --> 12:19.166
+And I want to be clear that I'm not just telling you about sensory versus motor neurons in the vagus nerve to just overload you with nomenclature. Turns out that if you want to access the calming aspects of vagus nerve activation versus the
+
+12:19.266 --> 12:46.046
+energizing effects of vagus nerve activation versus the immune enhancing effects of vagus nerve activation versus the ways that you can improve learning using vagus nerve activation, you need to know whether or not you're trying to activate a sensory pathway or a motor pathway within this vast set of connections that we call the vagus nerve. Okay, so I want to just briefly describe the sensory pathways within the vagus nerve. And by the way,
+
+12:46.146 --> 13:11.518
+If you're a yoga teacher, if you are a therapist, if you are a teacher, if you are a human being on earth, this information is going to be very useful to you because this is the information that will allow you to understand why it is that when your body is in a certain comfortable or uncomfortable state, it has a particular effect on your mind and your brain to feel, well, in general, comfortable or uncomfortable.
+
+13:11.778 --> 13:37.374
+Your vagus nerve includes very interesting and kind of unusually shaped neurons. Okay, the neurons of the vagus nerve are not like the ones that you see in the typical picture if you were to look up neuron online. If you were to look up neuron online, what you would find is you'd see a picture of what's called a cell body where the nucleus, the DNA is. You'd see what are called dendrites, which typically are the area where neurons receive input. And then you'd see the wire-like extension that we call the axon.
+
+13:38.050 --> 14:04.222
+out to the area that that neuron communicates with. And then you might see a little picture of some little blobs or what we call vesicles being released at the end of that axon. That is not at all what vagal nerve neurons look like. Some of them do, but the vast majority, about 85% of the neurons in the vagus nerve have a cell body with that DNA with the nucleus in it sitting in an area kind of near your neck and
+
+14:04.450 --> 14:25.726
+back of your head, sort of what we call the brainstem. And it's called the nodose ganglion. Now the nodose ganglion is a collection of cell bodies of neurons. So you can think of it kind of like a cluster of grapes. And they do indeed have an axon extending from the wire that goes out to the body. Okay. That wire looks for all the world,
+
+14:25.826 --> 14:55.134
+be axons on any other neurons. And that little axon can be very short if it terminates, as we say, in an area of the neck. It can be slightly longer if it terminates in the chest area, and even longer if it goes to what we call our viscera, our lungs, our pancreas, our liver, down to any number of different organs within our major abdominal body compartment. Okay, you also see an axon, a little wire from a vagal sensory neuron out to the spleen.
+
+14:55.522 --> 15:22.014
+Now, what I just described, a cell body with an axon extending from it out to the organs of the body, different organs of the body tend to be innervated by different neurons, not always, but in general. But here's what's different about these vagal neurons. These vagal neurons have another axon that goes from the cell body. So they're what we call a bipolar neuron. They have another axon that extends up into the brainstem.
+
+15:22.562 --> 15:48.478
+and terminates in generally one of three different, what we call brainstem nuclei, which are just areas of the brainstem. So this is very important to embed in your mind, right? Because in reality, embedded in your head and neck or in your brain and neck are these neurons, which are kind of like a cluster of grapes that have, each one is going to have two branches, one that goes out to a particular organ of the body and another branch that goes up into your brainstem.
+
+15:48.642 --> 16:18.398
+Now, this visual understanding, which hopefully is starting to take place in your mind, is extremely important to understand how 85% of the vagus nerve works. 85% of the vagus nerve works by having these neurons that have axons in say the spleen or around the lungs, or that innervate the heart, or that innervate any number of different organs in your body. And they collect sensory information about what's going on in each and every one of those organs.
+
+16:18.530 --> 16:45.502
+That information goes up the axon. Remember there's a cell bodies in the nodos ganglion, and then it goes further up past the cell body into the brainstem. Okay, so when people talk about the vagus nerve, cranial nerve 10 as being a sensory pathway, it is mostly a sensory pathway. It's collecting information through these axons. Why is that weird? Well, it's not weird, but it's different than the way we normally talk about neurons where the axon is the output end.
+
+16:45.634 --> 17:13.822
+right where it's dumping stuff onto the next neuron to make things happen. The neurons in the nodos ganglion of the vagus nerve, I know that's a lot of language, but these neurons that send an axon branch out to the organs of the body are collecting information about what's happening, what sensory information is occurring out at those organs. And that information goes up those wires past the cell body and into the brainstem, and then that's communicated to the brain.
+
+17:14.338 --> 17:44.254
+So basically we can think of 85% of the vagus nerve, this huge super highway from the body to the brain as being sensory. And when we talk about sensory, it's important that you understand that two types of sensory information are coming in through these wires, through these axons, and that are delivered to the brain. And in response to that sensory information, as you'll soon learn, your brain will change its levels of alertness. Sometimes it gets more alert, sometimes it gets calmer. Sometimes it primes you to learn better.
+
+17:44.354 --> 18:14.238
+Sometimes it will turn on a fever. It will literally heat up your entire body based on what those axons are sensing out in the periphery. The periphery, of course, being the organs and tissues of your body outside your brain and spinal cord. So I realize that's a bit of neuroanatomy. For those of you that aren't familiar with neuroanatomy, it might seem like an overwhelming amount of neuroanatomy, but it's extremely important to have that idea in your mind of sensory information flowing up into the brain from your organs because
+
+18:14.626 --> 18:43.742
+Anatomically speaking and functionally speaking, it runs exactly opposite to how we typically see neurons when they're drawn in diagrams for us and how we talk about neurons as just putting stuff out at the level of the axon at the end of those wires. Information's coming up those wires in the case of the vagus. Okay, so whereas for the visual system or the auditory system or for the smell system or the taste system, typically we have one type of sensory information coming in. So for instance, in the visual system, light,
+
+18:44.034 --> 19:11.038
+photons of energy are converted into electrical signals that the rest of the visual system unpacks to give you visual perceptions, to control your circadian rhythms. Or in the case of the auditory system, you have sound waves which are transduced by this beautiful mechanism of your inner ear that then gets converted into your understanding of speech or music, et cetera. In the case of the vagus nerve, the sensory information coming from your organs, from your lungs,
+
+19:11.426 --> 19:36.606
+from your gut. And by the way, your gut, when I say that, I don't just mean your stomach, I also mean the large and small intestine and all the stuff above your stomach as well. The sensory information that's coming from the body includes both chemical information and mechanical information. Now the mechanical information is pretty straightforward to understand. If your gut is full of food or air or water, and it's very distended, you can feel that.
+
+19:36.834 --> 20:05.406
+The reason you can feel that is because you have mechanoreceptors that sense stretch in the lining of the gut and send that information by way of those axons up to and past the nodos ganglion. There's some processing of that information in the nodos ganglion, but then it goes up and into your brainstem. Okay. Now also within the gut, you have chemical information. There's information about, for instance, and we'll talk more about this later, how much serotonin is in the gut.
+
+20:05.730 --> 20:34.174
+You may have heard that 90% of the serotonin in your body is manufactured in the gut. And indeed it's manufactured in your gut. It plays an important role in gut motility and gut health. The serotonin in your gut is distinct from the serotonin released in your brain. Later we'll talk about how the levels of serotonin in your gut are conveyed to the brain by way of, you guessed it, the vagus nerve. And your brain in turn makes different levels of serotonin to impact your mood.
+
+20:34.338 --> 20:51.326
+Super interesting, super important pathway, has relevance for depression and just for everyday mood and wellbeing. We'll talk about it. It's a highly actionable pathway, super cool. So you have mechanical information and you have chemical information coming from, for instance, your gut up through the sensory in the,
+
+20:51.458 --> 21:16.094
+Technical nomenclature is called afferents. Afferents is a technical language, feel free to ignore this, but for those of you that want to know, you aficionados already know this, the afferents are the inputs to a structure, efferents are the inputs from a structure. But what we've got in the case of the gut is mechanical and chemical information being sensed by different neurons with different receptors that pay attention to different things, meaning those
+
+21:16.226 --> 21:41.022
+Receptors are activated by either mechanical stretch or by the presence or absence of particular chemicals in the gut, how acidic the gut is, and that information goes up, processed a bit in the no-dose ganglion, and then relayed up to the brainstem. And we'll talk in a moment about what happens to that information after it lands in the brainstem. Now, chemical and mechanical information is also being conveyed from other structures in the body. You can probably imagine what some of these are.
+
+21:41.218 --> 22:09.566
+and we don't have to go through each and every one, but as one additional example to the gut, I'll just use, for instance, the lungs. When your lungs expand and contract as you breathe, that information is relayed up through and past the nodos ganglion and up into the brainstem. And as you can imagine, your lungs, because you're inhaling oxygen and you're also offloading carbon dioxide, your lungs are expanding and contracting. Your lungs are also communicating mechanical
+
+22:09.666 --> 22:33.374
+and chemical oxygen carbon dioxide ratio information up to the brain. Now, if we wanted to, we could explore and discuss every single organ of your body that gets axon input from the vagus nerve and therefore can carry sensory information up the vagus. And again, there's going to be information about the chemical environment and the mechanical status of each of those organs carried up to your brainstem. We're not going to do that now for sake of time.
+
+22:33.858 --> 23:02.366
+but it's very important that you now take a step back and you realize, hmm, I understand what sensory information is. I understand that it's different than motor information. It's carried by different neurons in the nervous system. The vagus nerve has both sensory and motor neurons. The sensory neurons are collecting information from all these bodily organs. And by the way, those bodily organs don't just stop at the level of the lungs. It includes the heart, it includes some stuff that's happening in the neck, some of the muscles that are controlling the constriction of the airways.
+
+23:02.466 --> 23:30.526
+We'll get into this a little bit more in a few minutes, but you now also know that when we talk about collecting sensory information from the body and sending it to the brain by these vagal pathways, that the types of sensory information include both chemical and mechanical information. And the reason that's important is not just academic and intellectual, it's not just to fill the airspace with nomenclature, it's because if you're going to think about ways to change the activity of the vagus system,
+
+23:30.626 --> 23:53.726
+The ways to, for instance, calm down or the ways to improve your immune system function or to improve your mood in the short and long term, you need to ask yourself, am I going to do that through a mechanical change or am I going to do that by making a change to the chemical milieu of a given organ or set of organs? So to drive the point I just made home, let's take an example that we see a lot out there.
+
+23:53.826 --> 24:05.118
+which is that if you want to increase the activity of your vagus nerve, you want to calm down. Why am I saying calm down? I neglected to say earlier that, by the way, every medical student and pre-med student should know,
+
+24:05.282 --> 24:35.166
+which is that cranial nerve 10, the vagus nerve, is classified as a parasympathetic nerve. Parasympathetic refers to one branch of the so-called autonomic nervous system. The autonomic nervous system controls your levels of alertness and your levels of calm. It has two major branches. One branch is called the sympathetic nervous system. It has nothing to do with emotional sympathy. The sympathetic nervous system is generally responsible for increasing our levels of alertness. Everything from being alert like I am now, all the way up to full-blown panic attack.
+
+24:35.330 --> 24:59.262
+which fortunately I'm not right now. The parasympathetic nervous system is often referred to as the rest and digest system. And indeed it has roles in rest and digestion, but it controls a lot more than just that. The parasympathetic branch of the autonomic nervous system controls, for instance, digestion. It controls our ability to fall asleep at night. If the parasympathetic nervous system is overly activated,
+
+24:59.362 --> 25:27.774
+It can make us sleepy when we don't want to be sleepy. It can make us pass out when we don't want to pass out. It can be responsible for putting people into a state of coma. So it's not good to think about the sympathetic nervous system simply as fight or flight, how it's often referred to, because it's also responsible for generating healthy, wakeful, non-anxious, non-stress levels of alertness, as well as stressed out panic states. And the parasympathetic nervous system is responsible for putting us into a calm and relaxed state or a
+
+25:27.970 --> 25:30.014
+deep sleep state or
+
+25:30.274 --> 26:00.240
+a coma state if it were to be hyperactivated. The autonomic nervous system is a seesaw where the levels of alertness and calm that we experience at any one moment reflect the relative balance of sympathetic nervous system and parasympathetic nervous system activity. They're sort of in a push-pull with one another. Increase the parasympathetic nervous system activity a little bit, you get a bit calmer. Increase the sympathetic nervous system activity a little bit, you get a bit more alert, but they're always both active. The vagus nerve is classified as a parasympathetic nerve.
+
+26:00.240 --> 26:29.662
+However, it's a bit of a misnomer because as you'll soon realize, there are pathways within the vagus nerve that were you to activate these pathways within the vagus nerve, you would become more alert, not less alert. This is one of the things that I'm hoping to dispel through the course of this episode, which is this very common myth out there. It's almost pervasive that when you activate the vagus nerve, you're going to calm down. It is simply not true, okay? There are instances where that is true,
+
+26:29.986 --> 26:56.702
+There are instances where the opposite is true depending on which branch of the vagus nerve you happen to activate or suppress. One example, however, where activating a particular branch of the vagus nerve does indeed lead to more relaxation is the branch of the vagus nerve that again is sensory, okay? So it's taking information about mechanical phenomenon, in this case, pressure or touch, and it's sending that information
+
+26:56.802 --> 27:12.350
+down into the brainstem areas that are going to interpret that information. This branch of the vagus nerve that is carrying sensory information doesn't come from the viscera or the neck, it comes from the head. And it's the branch of the vagus nerve that essentially
+
+27:12.642 --> 27:42.608
+goes behind the ear and in some of the deeper components of the ear. Remember they tell you don't put anything into your ear that's smaller than your elbow. Well, I'm breaking that rule right now and I'm putting my index finger into my ear and rubbing in a circular way that kind of the area right outside the whole of the ear. There's a branch of the vagus nerve there. There's also, as I mentioned, a branch of the vagus nerve behind the ear. And were you to rub behind the ear just gently or with a little bit of pressure, indeed, you're going to activate that branch of the vagus nerve.
+
+27:42.608 --> 28:06.014
+That branch of the vagus nerve is carrying sensory information so that mechanical pressure is being conveyed into the brainstem. And indeed that pathway satisfies all the criteria of being a parasympathetic or calming inducing pathway. Now you can find all over the internet that, you know, rubbing behind the ears is really going to calm us down and really bring our level of overall autonomic arousal way, way down.
+
+28:06.114 --> 28:14.462
+In reality, it doesn't bring our overall level of autonomic arousal way, way down. It brings our level of autonomic arousal down a bit depending on
+
+28:14.658 --> 28:44.624
+how active our sympathetic nervous system happens to be. Why do I tell you this? Well, I'm not trying to rain on any parties out there, but the truth is, if you're super stressed, if you're in a panic attack, rubbing behind your ears might help a little bit, but it's not going to suddenly bring you into a state of calm. Soon we're going to talk about things that can bring you into a state of calm very fast, and I will explain exactly how they work and why they work so quickly and why they are so robust. I don't want to be disparaging of the area behind the ear or the area within their ear.
+
+28:44.624 --> 29:14.366
+or ears rubbed. I certainly like the area behind my ears rubbed like I'm doing now or the areas within my ears gently rubbed. Who doesn't like that? And indeed it's calming, but it's one minor branch of the vagus nerve carrying sensory information. It's not going to suddenly shift your autonomic nervous system. It's not going to suddenly tilt that seesaw into parasympathetic dominance as it were. To do that, you need to leverage some of the other more robust branches of the vagus nerve. And I'll teach you how to do that in just a moment here. The point is that
+
+29:14.498 --> 29:34.622
+The vagus nerve does carry sort of classic parasympathetic information. If you're asked on an exam, students, med students, I don't want to be responsible for you getting this wrong. I'd love to be responsible for you getting it right. I teach neuroanatomy to medical students. If you're asked, is cranial nerve 10, the vagus nerve, parasympathetic or sympathetic, you should answer,
+
+29:34.914 --> 30:01.694
+If you're asked if it's sensory or motor, you should say it's mixed, it's both. So it's mixed parasympathetic. However, for everybody out there, med student or not, just understand that when you activate certain branches of the vagus nerve, you're either going to get an elevation in alertness, that is an increase in sympathetic nervous system activity, or a decrease in alertness, that is an elevation in parasympathetic activity, depending on which branch you activate and the context matters. So,
+
+30:01.890 --> 30:29.022
+If you want to relax, you can rub behind your ears, you can rub inside your ears. If you have permission, you can do that to the person next to you if they like it, but it's not the case that activating any branch of the vagus nerve is going to calm us down. That's simply not the case. And in a moment, I'll tell you why. I'd like to take a quick break and acknowledge our sponsor, AG1. AG1 is a vitamin mineral probiotic drink that also includes prebiotics and adaptogens.
+
+30:29.122 --> 30:59.088
+As somebody who's been involved in research science for almost three decades and in health and fitness for equally as long, I'm constantly looking for the best tools to improve my mental health, physical health, and performance. I discovered AG1 back in 2012, long before I ever had a podcast, and I've been taking it every day since. I find it improves all aspects of my health, my energy, my focus, and I simply feel much better when I take it. AG1 uses the highest quality ingredients in the right combinations, and they're constantly improving their formulas without increasing the cost.
+
+30:59.088 --> 31:17.598
+In fact, AG1 just launched their latest formula upgrade. This next-gen formula is based on exciting new research on the effects of probiotics on the gut microbiome, and it now includes several clinically studied probiotic strains shown to support both digestive health and immune system health, as well as to improve bowel regularity and to reduce bloating.
+
+31:17.698 --> 31:47.664
+Whenever I'm asked if I could take just one supplement, what that supplement would be, I always say AG1. If you'd like to try AG1, you can go to drinkag1.com slash Huberman. For a limited time, AG1 is giving away a free one month supply of omega-3 fish oil along with a bottle of vitamin D3 plus K2. As I've highlighted before on this podcast, omega-3 fish oil and vitamin D3 K2 have been shown to help with everything from mood and brain health to heart health to healthy hormone status and much more. Again, that's drink AG1.com.
+
+31:47.664 --> 31:59.038
+Today's episode is also brought to us by Roca.
+
+31:59.170 --> 32:29.136
+I'm excited to share that Roka and I recently teamed up to create a new pair of red lens glasses. These red lens glasses are meant to be worn in the evening after the sun goes down. They filter out short wavelength light that comes from screens and from LED lights, which are the most common indoor lighting nowadays. I want to emphasize Roka red lens glasses are not traditional blue blockers. They do filter out blue light, but they filter out a lot more than just blue light. In fact, they filter out the full range of short wavelength light that suppresses the hormone melatonin. By the way, you want melatonin
+
+32:29.136 --> 32:57.822
+high in the evening and at night, makes it easy to fall and stay asleep. And those short wavelengths trigger increases in cortisol. Increases in cortisol are great in the early part of the day, but you do not want increases in cortisol in the evening and at night. These Roka Red Lens glasses ensure normal, healthy increases in melatonin and that your cortisol levels stay low, which is again, what you want in the evening and at night. In doing so, these Roka Red Lens glasses really help you calm down and improve your transition to sleep.
+
+32:57.922 --> 33:27.888
+Roka red lens glasses also look great. They have a ton of different frames to select from, and you can wear them out to dinner or concerts, and you can still see things. I don't recommend you wear them while driving just for safety purposes, but if you're out to dinner, you're at a concert, you're at a friend's house, or you're just at home, pop those Roka red lens glasses on, and you'll really notice the difference in terms of your levels of calm and all the sleep stuff I mentioned earlier. So it really is possible to support your biology, be scientific about it, and remain social at the same time, if you like. If you'd like to try Roka, go to roka.com.
+
+33:27.888 --> 33:56.862
+That's R-O-K-A.com and enter the code Huberman to save 20% off your first order. Again, that's Roka.com and enter the code Huberman at checkout. Okay, so we've talked about all the sensory information coming in from behind the ear, from deep in the ear, from the body, coursing up past no-dose ganglion into the brainstem. I told you earlier, and it's still true now, that 85% of the vagus nerve pathways are sensory,
+
+33:57.250 --> 34:23.006
+in nature, carrying chemical and mechanical information. So what about this other 15% of the vagus nerve that is not carrying sensory information from the body, from the head into these brainstem nuclei? By the way, when I say brainstem nuclei, I don't mean nuclei in the context of one neuron. This can be a little bit confusing, but when we hear about the nucleus of a neuron, we mean the area that generally contains the DNA
+
+34:23.138 --> 34:50.015
+and we're distinguishing it from the axon and the other parts. When we hear about a nucleus in the brain, these neuroanatomists should have been more creative, but when we're hearing about a nucleus in the brain, it means a collection of different neurons, so a big group of neurons. So when I say brainstem nuclei, I mean a lot of neurons, thousands of neurons in little clumps there that we call nuclei. So the vagus nerve includes different nuclei, different collections of neurons,
+
+34:50.178 --> 35:19.902
+And these neurons have what we call efferents, outputs to, as you might've guessed, the body, back to the various organs of the body. They also have connections to things within the head and face area. But for the time being, I'm mostly going to talk about the motor outputs of the vagus nerve that come from these brainstem nuclei. So these motor outputs are not themselves paying attention to mechanical or chemical information. They are going to control
+
+35:20.002 --> 35:48.414
+the organs of the body. This is extremely important if you want to be able to understand and leverage your vagus nerve for health and wellbeing, mental health, physical health, performance. And even for accelerated learning, I guess that would fall under performance, or for recovery from different diseases. There are really nice papers starting to emerge that if you can selectively activate these motor pathways, you can accelerate and increase the recovery from stroke. So this is of serious significance. But for those of us that
+
+35:48.610 --> 35:59.870
+unfortunately don't have strokes, it's still of serious significance. And in fact, right now I'm going to tell you about an actionable tool whereby you can leverage one of these motor pathways to a very specific endpoint anytime you want.
+
+36:00.098 --> 36:22.846
+So let's talk about how you can leverage these motor pathways of the vagus in order to what's called auto-regulate. Auto-regulation is not just a fancy word for calming down. We are going to talk about calming down, but auto-regulation is the way in which your vagus nerve makes sure that that seesaw of sympathetic nervous system to parasympathetic nervous system balance doesn't get tilted too far
+
+36:23.106 --> 36:52.062
+to the side of sympathetic nervous system activation, that your levels of alertness, your heart rate, your breathing rate, et cetera, don't get too high. And the reason it's called auto-regulation and not just calming down is that auto-regulation is something that's always happening in the background as you're going about your daily activities. In fact, it's also happening while you sleep. In fact, now we're going to talk about things that you can do deliberately to indeed calm down, but to also increase the amount of auto-regulation that occurs
+
+36:52.322 --> 37:22.302
+during your entire day when you're not focusing on doing these particular protocols, as well as during sleep, and that will result in elevated what's called HRV or heart rate variability. Now I realize that's a tall order, but what we're going to do is we're going to step through this first by focusing on the protocol. And then now that you're familiar with all the business about sensory and motor and parasympathetic, now that you have all that science and nomenclature in mind, it will all make perfect sense as I describe this protocol for auto-regulation and improving HRV
+
+37:22.306 --> 37:49.374
+and all the protocols that follow. Okay, so embedded in your brain and in your vagal nerve pathways and in your body, you have an incredible neural circuit. This neural circuit is one that you are born with, and it's one that you will have your entire life. This is also a pathway that you'll want to keep tuned up. That is that you'll want to make sure is activated on a pretty frequent basis, super easy to do as you'll soon see, so that the pathway does not deteriorate.
+
+37:49.762 --> 38:19.038
+This is a pathway that originates in an area of your brain called the dorsolateral prefrontal cortex. Now the dorsolateral prefrontal cortex, and by the way, it's the left dorsolateral prefrontal cortex in particular, sort of on the left upper part of the front of your skull. If you were to go deep to that area, you would be on the left dorsal top lateral side prefrontal cortex, kind of toward the front right behind your forehead. Okay, dorsolateral prefrontal cortex sits deep to that area.
+
+38:19.682 --> 38:41.534
+The dorsolateral prefrontal cortex has outputs to a couple of other brain areas called the cingulate, called the insula. You don't have to worry about those names unless you're really interested in them. Those areas have communication with one of the brainstem nuclei, one of those brainstem areas that gets input from the sensory pathways from the body, from the head of the vagus.
+
+38:42.274 --> 39:08.830
+and that also contains neurons that have motor output to particular areas of your body. And that brain area, and you're going to love this, is called nucleus ambiguous. I kid you not, it's called nucleus ambiguous. Nucleus ambiguous contains some neurons that project down to what's called the sinoatrial node of the heart. And those neurons are responsible for deceleration of heart rate.
+
+39:09.634 --> 39:35.262
+And it turns out that you can selectively activate those neurons in no small part because they receive input, albeit several synapses away, from the left dorsolateral prefrontal cortex because the prefrontal cortex is involved in deliberate action, in planning and execution of action. It doesn't do it alone, it does it through communication with some other brain structures, but if you, for instance, decide that you're going to activate this deceleration pathway, you can do it.
+
+39:35.426 --> 40:01.662
+The beautiful thing is these neurons that also control deceleration of heart rate are active in the background. They're under autonomic control, but you can take control of them. When does that happen? Well, for instance, in sleep, if your heart rate starts to increase, these decelerating neurons, which are neurons of the vagus nerve, they're motor output neurons, they release acetylcholine and they act on the sinoatrial node, which is a node within the heart that controls heart rate to slow your heart rate down.
+
+40:02.114 --> 40:14.622
+This is the way in which your heart rate never gets too high. The seesaw that is the autonomic nervous system, it's kind of weighted to the sympathetic nervous system side. A simple example of this is if you have to stay awake,
+
+40:15.202 --> 40:34.718
+you can probably do it. At some point you'll fall asleep. But if you really want to fall asleep, it's harder to make yourself fall asleep. The sympathetic nervous system is one that we can more easily leverage in order to push through things, deadlines, stay up to take care of a sick relative, push ourselves to migrate out from a dangerous place or away from a famine.
+
+40:34.818 --> 40:55.870
+another example of a dangerous place, I guess. The idea here is that the sympathetic nervous system has kind of a bias towards activity. And in fact, your heart rate is driven by the sympathetic nervous system. And that heart rate would continue to accelerate unless there was this deceleration pathway that every once in a while would pump the brake on heart rate. And that's what this vagal pathway
+
+40:56.482 --> 41:20.862
+from nucleus ambiguous down to the sinoatrial node is doing. And by the way, this deceleration of heart rate that goes from the vagus motor pathway to the sinoatrial node is the basis of what's called HRV or heart rate variability. We hear a lot nowadays about heart rate variability. For those of you that have heard of it, and for those of you that haven't, having a higher HRV or heart rate variability is a good thing.
+
+41:20.994 --> 41:39.230
+Normally, if you hear something like heart rate variability, sounds like a bad thing, turns out it's a great thing. Heart rate variability is essentially the distance or the time rather between beats of the heart. So you might think that it's great to have a really consistent heart rate, boom, doom, or actually in reality, it's more like, doom, doom, doom.
+
+41:39.426 --> 42:04.638
+and I'm missing some of the beats within the waveform, but you get the idea. But actually it's well known to be correlated with a number of positive health outcomes, including things related to brain and body and longevity and performance to have high heart rate variability. Heart rate variability is going to lead to a pattern of heartbeats that is more like, doom, doom, doom, doom, doom, doom, doom, doom, doom, doom, doom.
+
+42:04.834 --> 42:34.800
+Now you might say that's arrhythmia, ah, but there are cases of arrhythmia that are good and there are cases of arrhythmia that are bad. Higher HRV in general is a good thing. You want it during sleep and you want it during wakeful states. In sleep, heart rate variability comes about because this vagal pathway from nucleus ambiguous, so the cell bodies, the nuclei, literally the DNA within those nuclei, those neurons reside in nucleus ambiguous and they project to the sinoatrial node and every once
+
+42:34.800 --> 43:04.158
+they'll just pump the brake on heart rate and slow heart rate down. And then they'll come off that brake, slow down, come off heart rate. And here's the really beautiful part. And the way that you get actionable leverage over the system, the control by the vagus nerve of the sinoatrial node and heart rate is coordinated with your breathing. Now, as I tell you this, it'll make perfect sense, but I just want you to step back from it a second and realize that these systems of the body are so elegantly coordinated.
+
+43:04.354 --> 43:31.390
+And here's how it works with respect to heart rate and breathing. When you inhale air, of course your lungs expand. You have a muscle that sits below your lungs called the diaphragm. As you inhale air, of course that diaphragm moves down. Now, as your diaphragm moves down and your lungs expand, your heart literally has a bit more space in the thoracic cavity to expand. Okay, it's not going to swell massively, but it's going to expand.
+
+43:31.618 --> 43:52.286
+Now, as a consequence of that expansion, the blood that's moving through your heart is going to move a little bit more slowly per unit volume. That is sensed by a particular group of neurons in your heart, and that sends a signal to your sympathetic nervous system to speed your heart rate up. Put differently, inhaling speeds your heart rate up.
+
+43:53.250 --> 44:13.566
+Now the converse is also true. When you exhale, your lungs deflate, your diaphragm moves up. And as a consequence, there's slightly less space for the heart. So the heart shrinks a little bit, not a ton, but it shrinks a little bit. And it's enough such that whatever blood is in the heart moves through more quickly per unit volume.
+
+44:13.986 --> 44:39.070
+That faster movement is sensed by neurons within the heart, sends a signal to the brain, and the brain activates those neurons within nucleus ambiguous, and very quickly sends a signal to the sinoatrial node to slow your heart rate down. Put differently, exhale, slow your heart rate down, and they do so by way of vagal control over the sinoatrial node. This is the deceleration pathway over heart rate.
+
+44:39.522 --> 44:56.382
+So as I mentioned, this is happening all the time during sleep. You don't have to be consciously aware for this to happen. It's a fortunate consequence of nature that the neurons within your brainstem that control breathing and the neurons within your brainstem that control heart rate and the other neurons within the heart itself that control heart rate, the pacemaker cells,
+
+44:56.514 --> 45:24.798
+all can function without you having to think about it. That's a wonderful thing for obvious reasons. It's also the case that because we have this input from the left dorsolateral prefrontal cortex down through a couple other structures like the cingulate and the insula, and that converge on nucleus ambiguous, if you decide to slow your heart rate down, you can do it. And you do so by doing a deliberate exhale and or by increasing the intensity or the duration of your exhale.
+
+45:24.898 --> 45:46.110
+So you can do that right now. If you want to slow your heart rate down, that is, if you want to increase parasympathetic nervous system activity and you want to calm down fast, you can literally just exhales slow your heart rate down and exhales tilt that seesaw that is the autonomic nervous system more toward the parasympathetic side.
+
+45:46.402 --> 46:06.398
+Now I've talked before on this podcast and all over social media about the so-called physiological sigh, a naturally occurring form of breathing that occurs in sleep and that we can deliberately do anytime we want to calm down fast. And the physiological sigh consists of, as many of you know, two inhales through the nose, followed by a long to lungs empty exhale through the mouth.
+
+46:06.626 --> 46:34.750
+Typically the first inhale is longer. Again, it's done through the nose. The second inhale is shorter, kind of a sharp inhale to make sure you maximally inflate all the little sacs within your lungs. And then the exhale is a long, slow exhale that dumps all your air. I'll just demonstrate the physiological side for you, for those of you that haven't seen it. You again, big inhale through the nose, second sharp inhale through the nose to make sure you maximally inflate the lungs and then long exhale to lungs empty. It goes like this.
+
+46:51.074 --> 47:19.742
+Okay, lungs are empty. That is indeed the fastest way to activate the parasympathetic nervous system and to tilt that seesaw from levels of high sympathetic nervous system activation to lower levels of sympathetic nervous system activation. In fact, I immediately feel calmer. Maybe you can even hear it in my voice. So when you do a physiological effect, you're getting both a chemical signal into the brain, that is the adjustment of that carbon dioxide oxygen ratio. It's mainly due to the offloading of carbon dioxide.
+
+47:20.578 --> 47:48.990
+that lower level of carbon dioxide is registered by the brain very quickly and leads to an increase in calm. The deceleration of heart rate driven by the exhale is also registered by the brain very quickly, leads to an increase in calm. When you just emphasize an exhale, meaning you extend it or you make it more intense and you don't do the two inhales first, that is you don't do the physiological sigh, well, you get the mechanical signal, but you don't get the chemical signal, at least not to the same degree you do with the physiological sigh.
+
+47:49.090 --> 48:18.366
+Put simply, if you want to calm down fast, ideally you do the physiological sigh. However, it turns out that one of the best ways to improve your HRV, both in sleep and in wakeful states, which takes a very minimum of effort and is rarely if ever discussed, is simply throughout the day, I would say 10, 15, maybe even 20 times per day, anytime it occurs to you to just deliberately extend your exhale, that is to pump the break on your heart rate through the vagus nerve pathway that I've been describing,
+
+48:20.066 --> 48:47.390
+Just exhale, slow your heart rate down and then get about your normal routine. You can do that essentially anytime you remember to. This is literally going to increase your HRV. You now know the mechanism by which it does that. And get this, it will also increase your HRV in sleep at night. And the reason is this pathway that originates with the left dorsolateral prefrontal cortex and goes down to nucleus ambiguous and then to the sinoatrial node of the heart because it's under conscious control and
+
+48:47.650 --> 49:17.406
+because it's subject to what we call plasticity, to strengthening and to weakening. That is, if you use it deliberately, it gets strengthened. If you don't use it deliberately, it gets weakened. Well, that's a great thing because it means that if you just simply remember to do some extended exhales throughout the day, you're going to strengthen this pathway such that it operates in the background through auto-regulation without you ever having to think about it. Now, of course, that effect wears off over time if you don't occasionally remember to just do some...
+
+49:17.634 --> 49:45.982
+some longer exhales, but this is a wonderful protocol in my opinion because it capitalizes on a inborn circuit, right? A circuit that you were born with that is already installed that you can use at any point. It doesn't take any learning, but that if you just ping every once in a while with some extended exhales throughout the day, it takes essentially no time. You get the benefit of feeling a little bit calmer, slowing your heart rate down and your HRV, which is correlated with a host of positive health outcomes in the short and long term will increase.
+
+49:46.178 --> 50:15.102
+Two interesting things everyone should be aware of is that as we age, of course, a number of things happen, memory gets slightly to much poorer, all right, there are ways to offset that. Heart rate variability gets much worse. Now, an interesting finding from Nolan Williams' lab at Stanford is that if you activate dorsolateral prefrontal cortex using what's called transcranial magnetic stimulation, this is a procedure where you take a stimulator and you non-invasively place it on the skull outside
+
+50:15.202 --> 50:38.750
+and just above dorsolateral prefrontal cortex, and you stimulate through the skull dorsolateral prefrontal cortex, you observe, as you would expect, a deceleration of heart rate, and it's known to be carried through this vagal pathway to the sinoatrial node. Even after the stimulation is removed, you find that heart rate variability increases because this pathway has been stimulated into
+
+50:39.106 --> 51:09.072
+neuroplasticity, it's strengthened. The other way to strengthen this pathway is to do exactly what I just described, to deliberately engage this long exhale mechanism various times throughout the day. Now, if you miss a day, is the pathway going to atrophy? No. If you do it 50 times a day, is it going to strengthen more than if you do it one time per day? Yes. Do we know the exact thresholds of how many times per day you should be doing these deliberate exhales in order to keep this pathway robust? No, unfortunately we do not. However, we do know that in human patients that suffer atrophy of the door
+
+51:09.072 --> 51:31.038
+dorsolateral prefrontal cortex that's associated with normal aging or with accelerated atrophy of dorsolateral prefrontal cortex or lesions of dorsolateral prefrontal cortex that tend to occur in older people who get strokes or just associated with the normal aging process, heart rate variability declines with age. And it is now thought that heart rate variability declines with age
+
+51:31.202 --> 52:01.168
+of course, in part through lower levels of physical activity, because there are of course, certain forms of physical activity like high intensity interval training to keep that heart rate variability elevated over time using exercise. But it's also true that if this pathway degenerates, you see a decrease in heart rate variability. If you keep this pathway engaged by behaviorally, deliberately doing these long exhales, or if you take the more robust approach of transcranial magnetic stimulation, something that most people unfortunately won't have the opportunity to do, although maybe in
+
+52:01.168 --> 52:30.718
+there will be commercial devices that will allow us to do this. You can keep heart rate variability higher as you age, which as I mentioned before is correlated with a number of different positive health outcomes. So these pathways by which we can tap into deliberate activation of this vagal control over the sinoatrial node are not just incidental. They turn out to be central to the aging process. They turn out to be central to countering the aging process. And you now know you have some agency and control over them.
+
+52:31.234 --> 52:59.134
+So earlier I was talking about how despite the fact the vagus nerve is classified as a parasympathetic nerve, that it also can be alerting. It can increase levels of sympathetic nervous system activity. And that runs counter to the concept of parasympathetic, which is always labeled as rest and digest. I'm now going to tell you a tool that you can use when you're feeling less than energized, less than motivated, and when
+
+52:59.490 --> 53:25.374
+You need to exercise and you don't feel like doing it. And when you want to leverage exercise as a way to improve brain function and plasticity, it all involves the vagus nerve and it involves an aspect of the vagus nerve that very few people are aware of, but in my opinion, is one of the coolest aspects of the vagus nerve. It's at least as cool as vagal control over heart rate variability and auto-regulation. And it goes like this.
+
+53:26.850 --> 53:54.302
+There's a beautiful set of findings from a guy named Peter Strick at the University of Pittsburgh, who use these really cool methods for tracing connections between the brain and body to ask the question, what areas of the brain are communicating with our adrenal glands? Our adrenal glands are two glands that sit atop your two different kidneys. So one atop each kidney and release as the name suggests, adrenaline. Adrenaline is also called epinephrine. Your adrenal glands also release cortisol,
+
+53:54.914 --> 54:24.030
+But for sake of this discussion, let's just think about adrenaline released from your adrenals. What he found through a bunch of experiments done in non-human primates, and that seemed to correspond very well to what we observe in humans as well, is that there are three general groups of brain areas, motor activation areas, so what we call upper motor neurons. So these are the neurons in the brain that control the lower motor neurons in the spinal cord that control the muscles of the body, as well as neurons within our brain that are involved in cognition and planning.
+
+54:24.162 --> 54:53.118
+and areas of the brain that are involved in emotion that can communicate with the adrenals and cause them to release adrenaline. Now that's great, but it sort of points to a pathway whereby, okay, you know you should exercise, you tell yourself you should exercise, you're emotional about it, and your adrenals release adrenaline and you exercise. Now that's interesting, but what's perhaps far more interesting is that the data from strict lab and other labs as well shows that
+
+54:53.346 --> 55:22.046
+When we move the large muscles of our body, the adrenals release adrenaline, epinephrine. Now, epinephrine has an activating sympathetic nervous system stimulatory effect, right? It tends to make the tissues of the body that are associated with movement and with so-called fight or flight, although again, fight or flight is kind of an extreme example. It tends to activate the organs of the body and make them more likely to be active. It increases the probability that movement will occur.
+
+55:22.754 --> 55:52.478
+So when we move the large muscles of our body, our legs, and in particular our trunk muscles, we release adrenaline, that adrenaline activates the organs of our body and further makes it likely that we're going to move our musculature more. But get this, adrenaline, epinephrine doesn't cross the blood brain barrier. So how does it increase our level of alertness in our brain, right? You don't want your body to be super active and your brain to be kind of sleepy. That's not good. That's not adaptive. It turns out that the body
+
+55:52.610 --> 56:15.262
+that when the adrenals release adrenaline, it binds to receptors on the vagus nerve itself, those sensory axons that extend into the body. There are receptors on those wires, right? Not all the receptors are at one end or the other, they're also on those axons. The adrenaline binds to the receptors on those axons and the vagus nerve in turn releases glutamate,
+
+56:15.362 --> 56:43.614
+an excitatory neurotransmitter in a structure in the brain called the nucleus tractus solitaris. The neurons in what I'm just going to call the NTS for simplicity, in turn, activate neurons in a brain structure called the locus coeruleus. The locus coeruleus contains neurons that release what's called norepinephrine. And the neurons of locus coeruleus send their axons out very extensively across the brain in kind of a sprinkler system like organization such that
+
+56:43.938 --> 57:10.558
+When you move the large musculature of your body, you release adrenaline. That adrenaline activates the tissues of your body, makes them more likely to move, also binds to receptors on the vagus. The vagus nerve in turn releases glutamate, an excitatory neurotransmitter in the NTS. The NTS then passes off that excitatory signal like a bucket brigade off to the locus coeruleus. The locus coeruleus dumps a bunch of norepinephrine into the brain and increases your levels of alertness.
+
+57:10.690 --> 57:34.686
+What this means is that the vagus nerve is central to the process of using physical activity to make your brain more alert. And we know that activation of locus coeruleus makes the brain areas that are involved in motivation and the propensity to move more higher in levels of activity. In other words, if you're not feeling motivated to exercise or you're not feeling alert enough,
+
+57:34.818 --> 58:03.998
+movement of the body that includes especially the legs, the large muscles of the legs, so quadriceps, hamstrings, et cetera, as well as the trunk muscles of the body, stimulate this pathway in a kind of dominoing effect that makes the likelihood and believe it or not, the desire to move much more likely. This I've personally found to be an immensely useful piece of information because sure, I knew that sometimes I would go to the gym or I'd head out on a run and I wasn't feeling motivated,
+
+58:04.610 --> 58:30.526
+or I'd sit down to do some work and I'd feel kind of sleepy, despite the fact that I'd slept pretty well the night before and eaten just fine and the room wasn't too warm, et cetera. And I feel kind of lethargic. And I was like, what's going on here? And yes, I had the experience of sometimes, you know, doing a bit of a warmup, maybe some light calisthenics, maybe a few warmup sets or jogging for a little while, and then finding that my levels of alertness increased. But I've also had just as often the experience of not feeling that,
+
+58:30.690 --> 58:52.094
+motivation for physical activity or for cognitive activity come online, especially if I wasn't extremely interested in that activity or that thing that I was supposed to learn. You know, it's very easy to be excited when we want to do the activity or we want to learn the thing that we're supposed to be learning at a given moment or reading at a given moment. This pathway is immensely useful to understand because it explains why it is that
+
+58:52.194 --> 59:09.566
+even when you're not feeling motivated, if you do some activity that yes, is preceded by a bit of a warmup. So maybe, I don't know, you do some light calisthenics or you go on the treadmill for a few minutes walking, then maybe a little bit faster, that it can increase your levels of alertness and motivation. But it especially explains how if you,
+
+59:09.858 --> 59:36.894
+put in some effort that at the moment feels like a big exertion, your entire body and brain state shifts in a way that levels of motivation and energy to do more physical work or more cognitive work or both increases dramatically. And these are not small effects when they've been measured. In fact, for all the talk that's out there in kind of pop psychology and in kind of pop neuroscience about the vagus being a calming pathway,
+
+59:37.634 --> 01:00:00.894
+All the neurophysiologists out there, and I know there aren't very many, but I'm friends with a lot of neurophysiologists, they'll all tell you that if they're doing a surgery or they're doing some sort of brain recording and the animal or person that they're doing the brain recording from is starting to drop into a state of deep parasympathetic activity, they're falling asleep or they need to be more alert, what do they do? They stimulate the vagus.
+
+01:00:01.026 --> 01:00:20.446
+they stimulate the vagus nerve in order to wake up the brain. In fact, stimulating the vagus has been used to save people's lives when they are drifting too far down into deeper and deeper planes of anesthesia. So stimulating the vagus wakes up the brain. And the way to stimulate the vagus is by way of these receptors on the vagus nerve itself. And the way to do that
+
+01:00:20.706 --> 01:00:49.054
+without an electrical stimulator, right? Because we're not talking about clinical conditions here, in order to increase levels of motivation, alertness, and focus for physical activity or cognitive activity and learning, et cetera, or simply to overcome lethargy and brain fog is to do some sort of physical activity that includes the large musculature of your body. These could be things like jumping. These could be things like actual resistance training. This could be running. This information really points to the idea of, of course, after a good warmup,
+
+01:00:49.570 --> 01:01:05.982
+doing more sprinting type activity, more strength type activity, six repetitions or less, where you're getting close to failure, this sort of thing, to wake up the brain and body, as opposed to doing long rhythmic activity that's below the threshold of what would activate a lot of adrenaline from the adrenals.
+
+01:01:06.114 --> 01:01:24.958
+So the idea is to get those adrenals to release adrenaline into your system. It won't cross the blood brain barrier, but your vagus nerve provides this beautiful link between the body and brain to match levels of excitation from the body to the brain, and you can leverage that. In addition, there's also the well-described effects, and I've done an entire episode about this,
+
+01:01:25.634 --> 01:01:47.454
+of how exercise can improve brain plasticity and the ability to learn. And while there are a host of mechanisms involving long-term changes in things like brain-derived nootrophic factor and increases in lactate, which might open the door to plasticity and so on and so forth, it does seem that one of the major ways that exercise improves our brain function and our ability to learn
+
+01:01:47.554 --> 01:02:10.718
+is simply by increasing our levels of alertness. And I should say the word simply placed in there is probably a bit unfair. There is absolutely nothing trivial about using exercise as a way to stimulate a sort of cascade of this neural circuit from the adrenals up the vagus and into locus coeruleus in order to wake up your brain networks that are involved in motivation, focus, and learning. As we'll talk about in a few minutes, many of us,
+
+01:02:10.818 --> 01:02:24.702
+most of us perhaps are used to using pharmacology like caffeine or other stimulants in order to try and wake up levels of alertness in the brain. And I'm not being disparaging of that. I am an avid consumer of caffeine in the form of yerba mate or coffee, I'll occasionally,
+
+01:02:25.026 --> 01:02:49.086
+like an alpha GPC or an L-tyrosine as well. You know, I do all those things. However, in my opinion, it's far more powerful to be able to leverage, that is to activate these levels of alertness in your brain and body in a way that doesn't require any pharmacology if you don't have it available to you, or you're trying to avoid pharmacology, or working out late at night, or you want to focus later at night, you don't want to be kept awake by the caffeine, or even if you consume caffeine or other stimulants.
+
+01:02:49.314 --> 01:03:15.134
+Knowing the organization of these neural circuits from the body to the brain and how they match levels of alertness and leveraging them is so straightforward, but most people don't actually get to the point where they're doing that high intensity work or they're doing the work that involves the large musculature of their body when they're feeling not motivated. In fact, they usually do the opposite thing. Now, sometimes you need rest days. This is true, right? You need to rest and recover to make progress. You don't want to exhaust yourself. You need to get sleep. You need to take care of yourself.
+
+01:03:15.266 --> 01:03:39.870
+However, the reason we're talking about this is it's a beautiful opportunity to A, explain that the vagus nerve is not just about calming down. It's actually actively used to wake up your brain when your body is active, when the large musculature of your body is active. And B, that like with auto-regulation, this stuff is under conscious control. Yes, if you were to be frightened immediately,
+
+01:03:39.970 --> 01:04:09.086
+This is the same pathway that would be reflexively activated by an intruder or by a big explosion or something of that sort. Your body would wake up, release adrenaline, then that adrenaline would set up along this cascade and your mind would be immediately alert as well. There's some parallel mechanisms too to make sure that your brain and your body are alert immediately. But when you start to understand what these pathways are and that they are very specific and very powerful, potent inroads into activating these circuits, it does indeed give you a tremendous amount of agency.
+
+01:04:09.506 --> 01:04:35.742
+especially for those of you that might think you're not motivated to exercise or you're always lethargic or you have brain fog. There might be other reasons for that, but for many people, chances are you're not getting past that threshold whereby these circuits involving the vagus can be activated. And now you know how, so activate them. I'd like to take a quick break and acknowledge one of our sponsors, Function. Last year, I became a Function member after searching for the most comprehensive approach to lab testing.
+
+01:04:36.034 --> 01:05:06.000
+Function provides over 100 advanced lab tests that give you a key snapshot of your entire bodily health. This snapshot offers you with insights on your heart health, hormone health, immune functioning, nutrient levels, and much more. They've also recently added tests for toxins, such as BPA exposure from harmful plastics, and tests for PFASs, or forever chemicals. Function not only provides testing of over 100 biomarkers key to your physical and mental health, but it also analyzes these results and provides insights from top doctors who are
+
+01:05:06.000 --> 01:05:33.982
+expert in the relevant areas. For example, in one of my first tests with Function, I learned that I had elevated levels of mercury in my blood. Function not only helped me detect that, but offered insights into how best to reduce my mercury levels, which included limiting my tuna consumption. I'd been eating a lot of tuna while also making an effort to eat more leafy greens and supplementing with NAC and acetylcysteine, both of which can support glutathione production and detoxification. And I should say, by taking a second Function test, that approach worked.
+
+01:05:34.082 --> 01:05:49.342
+Comprehensive blood testing is vitally important. There's so many things related to your mental and physical health that can only be detected in a blood test. The problem is blood testing has always been very expensive and complicated. In contrast, I've been super impressed by function simplicity and efficiency.
+
+01:05:49.442 --> 01:06:13.918
+the level of cost it is very affordable as a consequence i decided to join their scientific advisory board and i'm thrilled that they're sponsoring the podcast if you'd like to try function you can go to functionhealth.com slash huberman function currently has a wait list of over 250 000 people but they're offering early access to huberman podcast listeners again that's functionhealth.com slash huberman to get early access to function
+
+01:06:14.242 --> 01:06:43.230
+I just got done telling you how you can increase your levels of alertness by activating this vagal nerve pathway from the body to the brain. And that increasing your level of alertness allows for more opportunity to focus and to learn. But when we say focus and learn, what we're really talking about is neuroplasticity, this incredible feature of your nervous system to be able to change in response to experience in deliberate ways. The plasticity that you have when you are a child from the time you're born until about age 25 typically can occur
+
+01:06:43.426 --> 01:07:05.950
+even in passive experience. That is, you're in class, a teacher's teaching you something, your brain is changing. Maybe you put a bit more effort into something, you're focused, your brain will change. But as we get into adulthood, most of our neural maps in the brain, certainly our sensory maps and our cortex, our motor maps that allow us to move in particular ways, those have been established. You can still change them,
+
+01:07:06.050 --> 01:07:30.366
+but they've mostly been established throughout childhood and into our early 20s. And if we want to modify those circuits with neuroplasticity, there are a couple of key requirements. One, you need to be alert. You can't get neuroplasticity. That is, you can't trigger neuroplasticity unless you're alert. You also have to be focused. This is critical and differentiates adult plasticity in a major way from plasticity when we're young, where we can learn by passive exposure, okay?
+
+01:07:30.594 --> 01:08:00.158
+When we're young, we can learn by passive exposure or even better by focused exposure. But when we are adults, we need alertness and we need focus. Just passively being exposed to music or to motor pattern is not going to allow us to change our nervous system. That's been shown over and over again. Fortunately, what also has been shown over and over again is that if we are alert and we're focused and we are determined, especially if we undertake what's called incremental learning, where we go after small bits of neuroplasticity,
+
+01:08:00.258 --> 01:08:26.366
+repeatedly over time, we can get as much neuroplasticity as one observes in childhood. It just takes longer and you have to do it so-called incrementally. There's a lot to say about that, but for sake of today's discussion about the vagus nerve, I just want to tell you that there's a particular pathway in the brain that involves the molecule acetylcholine. Acetylcholine is used to contract the muscles, it's released from motor neurons,
+
+01:08:26.466 --> 01:08:56.351
+and the spinal cord onto muscles to contract the muscles. It's also used in the brain and elsewhere in the nervous system, and it does a lot of different things. It's actually involved in generating the rhythms of the heart. But acetylcholine released from a particular nucleus in the brain called nucleus basalis. The acetylcholine released from nucleus basalis is what we call permissive for plasticity. In other words, if you have acetylcholine released from nucleus basalis into the brain, plasticity is much more likely to occur. And in fact,
+
+01:08:56.546 --> 01:09:15.358
+Acetylcholine released from nucleus basalis is sort of like a gate whereby if you release acetylcholine, the opportunity for neuroplasticity and learning is available for some period of time. So the question therefore becomes, how do you get acetylcholine released from nucleus basalis? There are these incredible experiments that have been done by Mike Merzenich and colleagues,
+
+01:09:15.970 --> 01:09:45.936
+showing that if you stimulate nucleus basalis to release acetylcholine and you expose an animal or a human to a particular sensory stimulus, the brain remaps very fast according to that experience. Just enormous amounts of plasticity that you wouldn't observe otherwise. There are also fortunately experiments showing that if you pharmacologically increase acetylcholine, that you can enhance the opportunity for neuroplasticity. You still need to do the learning. You still need to attempt to learn something. You still have to make it incremental, but the amount of plasticity is significantly
+
+01:09:45.935 --> 01:10:00.926
+increased when there's acetylcholine released from nucleus basalis. So in the absence of deep brain stimulation using an electrode, which most of you fortunately will not experience because it requires drilling down through the skull and placing an electrode in basalis,
+
+01:10:01.122 --> 01:10:28.798
+And assuming that you're not taking anything to increase acetylcholine transmission to learn, although there are ways to do that. I've talked about that before, and I'll talk about that again in a future podcast. Some of those ways include supplementing with things like alpha-GPC, which is a precursor to acetylcholine. There are some other precursors to acetylcholine or things that stimulate the release of acetylcholine, such as huperzine and things like that, that will open the opportunity for enhanced plasticity for a few hours. And there is...
+
+01:10:29.282 --> 01:10:49.470
+Good old nicotine. I know the word nicotine brings to mind things like lung cancer because for many, many years, many, many people, and still now smoked nicotine in the form of cigarettes or vaping, both of which I think are absolutely terrible as is dipping and snuffing because yes, they increase levels of nicotinic acetylcholine receptor activation, which is just
+
+01:10:49.602 --> 01:11:18.078
+Fancy nerd speak for acetylcholine transmission in the brain is enhanced by nicotine, but those delivery mechanisms also, of course, can give you cancer in the case of smoking, dipping or snuffing, and vaping, despite what you hear out there, is absolutely terrible for your health. I don't care what anybody says, the evidence is starting to really pile up that vaping is bad for you. Now, is oral form nicotine bad for you in the form of gum or in the form of a pouch, et cetera? I just want to say a couple of things.
+
+01:11:18.690 --> 01:11:47.998
+One, it's extremely habit forming. Two, it increases blood pressure and it's a vasoconstrictor. These drawbacks about nicotine are real and are critical to consider if you're going to use nicotine as a focusing agent or a so-called nootropic. I don't really like that word, but if you're using nicotine as a way to enhance cognition and enhance neuroplasticity, you should know what the potential drawbacks are. Most notably, the habit forming and addicting properties, which are very robust.
+
+01:11:48.194 --> 01:12:17.342
+Now, with that said, there are ways to non-pharmacologically stimulate the nucleus basalis acetylcholine pathway to enhance the window for plasticity. And the way to do that is, you guessed it, through the vagus nerve. Studies in healthy humans and humans who have had, for instance, stroke, as well as animal studies have shown that if you stimulate the vagus nerve electrically, you increase the level of alertness in the brain. And part of the mechanism by which you do that is the one I told you about a few minutes ago, the adrenals, vagus,
+
+01:12:17.474 --> 01:12:34.814
+but also there's a separate pathway from the NTS to nucleus basalis that stimulates the release of acetylcholine from nucleus basalis and opens up the opportunity for neuroplasticity. This I should mention is not a small effect. It is,
+
+01:12:34.946 --> 01:12:54.558
+a rapid effect, and it's one that has allowed stroke patients, for instance, to improve their motor capabilities very quickly as compared to when the vagus nerve is not stimulated or when acetylcholine transmission is not enhanced pharmacologically. And fortunately now, there are studies starting to accumulate in animal models and some in humans.
+
+01:12:54.978 --> 01:13:21.406
+We need more, but there are some showing that if you enhance alertness by way of activating the vagus nerve through the mechanism that I told you before, which is good old fashioned high intensity exercise, that in the several hours following that exercise, there is an enhanced opportunity for neuroplasticity. Now that enhanced opportunity for neuroplasticity comes by way of two different pathways. You already heard about the first one, which is the locus coeruleus,
+
+01:13:21.506 --> 01:13:44.926
+release of norepinephrine, that's going to increase alertness, which is a prerequisite for focus. And it appears to be the case that the release of acetylcholine from nucleus basalis that's also triggered by this high intensity exercise is what allows for that alertness to be converted into focus. And those two things together, alertness and focus are the triggers for adult neuroplasticity.
+
+01:13:45.090 --> 01:14:08.254
+If you think about this, this is really exciting. For 25 years or more, we've known that plasticity is possible in the adult human. We knew you needed alertness and you needed focus. We also, by the way, know that you need to get great sleep that night and in subsequent nights in order to actually allow the plasticity to occur. Plasticity is a process. It's not just triggered when you go about trying to learn something, it actually takes place
+
+01:14:08.482 --> 01:14:37.150
+as well as sleep-like states like non-sleep deep rest and meditation, but especially in deep sleep and rapid eye movement sleep. This is why you can attempt to learn something cognitively or behaviorally over and over and over. You can't get those scales on the piano right. You can't get the information dialed in from your class, a language class or from engineering, or you're trying to figure out what this picture should be in your mind that you're going to paint, et cetera. You work at it, you work at it, you work at it.
+
+01:14:37.250 --> 01:15:03.390
+you sleep, you sleep, and then one day you wake up and suddenly you have the skill. It's because the actual rewiring of those circuits that we call neuroplasticity occurs during sleep, but it's triggered in those moments of incremental learning and really struggling. And keep in mind the struggle to learn something, that friction is part of the neuroplasticity process. And it's oh so clear now that alertness and focus are the prerequisites for plasticity, that alertness is coming
+
+01:15:03.522 --> 01:15:33.054
+in large part by way of the release of norepinephrine from locus coeruleus, that the focus is being augmented and perhaps it's even originating entirely from the release of acetylcholine and nucleus basalis that acts as sort of a spotlight on a particular set of things that are happening while we're trying to learn. And then that triggers the plasticity process, which takes place during sleep. So that beautiful picture of self-directed adaptive plasticity in adulthood is allowed to happen
+
+01:15:33.186 --> 01:15:41.278
+because the vagus nerve in part is triggering NTS to say, hey, locus coeruleus,
+
+01:15:41.442 --> 01:16:06.078
+Nucleus basalis, wake up, release norepinephrine, release acetylcholine. Now's the time to learn. So what this means is if you're struggling to learn, if you want to continue to have robust neuroplasticity, if you happen to have some damage to motor pathways, or you're having trouble with focusing and brain fog, keep in mind, focus itself is served by a circuit that is subject to plasticity. You can actually get better at focusing
+
+01:16:06.178 --> 01:16:28.030
+by working on focus just the same way you would on any skill. And so if you're struggling with focus, I highly recommend finding a threshold of exercise that stimulates brain alertness, that triggers these pathways that are now starting to be clear that they occur from the literature in animals and humans. And yes, you might augment this with something like caffeine,
+
+01:16:28.226 --> 01:16:58.192
+further increase levels of norepinephrine. You might even use low dose nicotine. I'm not necessarily recommending that, certainly not for young people. And you do need to be aware of the habit forming, AKA addictive properties of nicotine. You definitely don't want to consume it in any form that's going to cause you to increase your risk of cancer or popcorn lung from vaping. You could use pharmacology, you could use alpha GPC, you could use Herpruzine in combination with exercise. However, I strongly, strongly recommend that anyone who's interested in lifelong learning
+
+01:16:58.192 --> 01:17:24.254
+Think about organizing your bouts of learning, especially cognitive learning, to come in the two to three hours, maybe even four hours, but certainly in the one to two hours after you do some sort of exercise that doesn't leave you exhausted, but leaves you with elevated levels of energy in your body. So you don't want to take this physical exercise that I'm talking about to exhaustion because that's going to leave you depleted. That's going to cause a uptick in parasympathetic activity.
+
+01:17:24.354 --> 01:17:50.558
+Many of you that have done a hard leg workout, and then two, three hours later, it's very clear brain oxygen levels are down, parasympathetic activity is up, you are tired because you exhausted all that energy and exercise. But if you can use exercise as a trigger to release adrenaline and stimulate these pathways within the brain that arrive via the signaling from the vagus, you do indeed open up the opportunity for enhanced neuroplasticity at any age.
+
+01:17:50.658 --> 01:18:19.166
+And that is a non-trivial thing. In fact, it's downright exciting because the search for adult neuroplasticity tools is one that's existed probably for thousands of years and that has been documented for hundreds of years. And the thing that makes the nervous system of humans so special is that it is capable of changing itself throughout the lifespan. So now you know at least one method by which you can do that. And it of course involves the vagus. Okay, so one of the most incredible things about the vagus nerve that I myself have
+
+01:18:19.298 --> 01:18:34.846
+really not ever heard talked about out there, is the way it communicates and coordinates levels of serotonin in the gut with levels of serotonin in the brain. Now, a discussion about serotonin that's complete would take many, many hours, but suffice to say that
+
+01:18:35.042 --> 01:18:59.870
+Serotonin is a neuromodulator, much like dopamine or acetylcholine or norepinephrine, in that it modulates the activity of other circuits. It's critically important for mood. In the gut, it's critically important for gut motility, for ease of digestion, and for gut health. In the brain, we say serotonin is important for mood. I don't want to give the impression that high levels of serotonin good, low levels of serotonin bad.
+
+01:19:00.450 --> 01:19:30.416
+Serotonin needs to be at a particular level, so neither too high nor too low. As many of you know, one of the major ways that depression has been treated over the last decades is through the administration of something called SSRI, selective serotonin reuptake inhibitors, which have the net effect of increasing levels of serotonin at synapses. SSRIs are somewhat controversial because in many people, they do alleviate certain symptoms of depression, but they often carry side effects because serotonin is used in multiple circuits throughout the brain. I don't want to give the impression
+
+01:19:30.416 --> 01:19:58.878
+that SSRIs are always bad or always good. It's highly dependent on the patient and a bunch of other things that really, unfortunately, can only be explored through experimentation. That's typically what psychiatrists will do. They'll prescribe an SSRI at a given dose, see how a patient reacts. Maybe they'll take them off an SSRI entirely, give them a different type of antidepressant that works on a different set of neuromodulators like dopamine and norepinephrine. So Welbutrin would be a non-SSRI antidepressant. And there are a whole set of issues around SSRIs, for instance,
+
+01:19:59.554 --> 01:20:25.406
+they can be very beneficial for people with full clinical OCD, obsessive compulsive disorder. And then again, other people suffer terrible side effects from SSRIs. So I don't want to suggest that SSRIs are a solution. I also don't want to suggest that serotonin is the only problem with depression or is always a problem in cases of depression. That itself is heavily debated. What's emerging from the data is that elevating levels of serotonin
+
+01:20:25.602 --> 01:20:46.878
+in the brain can increase neuroplasticity, which can allow people who have major depression to learn new contingencies. These are people who at one point are thinking, why would I ever try and get a new relationship or job? Like everything always turns out terribly. These are hallmarks of depression, lack of excitement about the future. Everything's a negative outcome in their mind.
+
+01:20:47.010 --> 01:21:09.694
+Through neuroplasticity, it's clear that people can form new contingencies. They can start to imagine life as more positive and holding more possibility. And changing levels of serotonin is known to be, much in the same way acetylcholine can increase plasticity, permissive for neuroplasticity. So that might be one way by which SSRIs actually can provide help for certain people for depression.
+
+01:21:09.794 --> 01:21:22.814
+However, because of the side effects associated with SSRIs, many people are leaning away from them, and yet having adequate levels of serotonin is absolutely critical for people depressed, as well as people who are not depressed, to feel a sense of wellbeing.
+
+01:21:23.490 --> 01:21:46.750
+overall sense of wellbeing, being okay with who they are and where life is at, being able to lean into effort and all these things. It's absolutely critical that we have adequate levels of serotonin in the brain. Now you may have heard, and it is absolutely true, that 90% of the serotonin manufactured in your body is in the gut. Now, what you don't often hear is that serotonin stays in the gut
+
+01:21:46.914 --> 01:22:13.726
+We hear these days, oh, most of your serotonin is manufactured in your gut, which has given millions of people the false impression that if you get your gut serotonin right, somehow it's traveling up to your brain and performing all the important roles that serotonin plays in your brain. That's not how it works at all. Fortunately, however, there are ways that you can modify the levels of serotonin in your gut, and indeed the levels of serotonin in your gut
+
+01:22:14.050 --> 01:22:41.342
+powerfully impact the levels of serotonin in your brain. And this occurs, you guessed it, by way of the vagus. It's a super cool mechanism and it's one that you can exert some positive control over in order to, for instance, increase your baseline levels of mood, in order to increase levels of serotonin if that's something that you seek. Here's the pathway and the mechanism. And I'm going to provide this in kind of top contour form. In the future, I'll do an entire episode about serotonin, but here's the idea.
+
+01:22:42.978 --> 01:22:54.014
+In your gut, you have cells, including neurons, but you also have a lot of other cells, mostly other cells, frankly. And there's a particular category of cells called the enterochromafen cells.
+
+01:22:54.370 --> 01:23:22.782
+You don't need to know that name, but if you want, they're the enterochromafin cells and they manufacture serotonin. They do that through a beautiful pathway involving an enzymatic reaction that converts tryptophan from the food you eat. Tryptophan's an amino acid, gets converted eventually into serotonin. There are a bunch of steps in there in the biochemistry. Gets converted into serotonin. That serotonin binds to the ends of neurons, the axons of neurons in the vagus nerve that innervate your gut, not just your stomach, but your
+
+01:23:23.106 --> 01:23:51.582
+large intestine and your small intestine. Remember those sensory afferents, those sensory axons that extend into the body have receptors on them, right? The serotonin in the gut, assuming you're getting enough tryptophan and assuming the milieu of your gut is correct. We'll talk about what that means and how you can exert control over it, get the milieu right. That serotonin binds to the ends of those axons in the gut and stimulates a particular category of them
+
+01:23:52.354 --> 01:24:22.302
+that then relays the signal up and through nodos ganglion, you now are familiar with these names, up into the brain to the nucleus tractus solitaris, okay, that NTS again, and then the nucleus tractus solitaris doesn't just communicate with locus coeruleus and with nucleus basalis, it also sends a powerful signal to what's called the dorsal raphe nucleus. The dorsal raphe nucleus in your brain is responsible for the release of the majority of the serotonin in your brain.
+
+01:24:22.466 --> 01:24:41.854
+So when you hear that most of the serotonin in your body is made in your gut, that's true and it stays in your gut, but the levels of serotonin are communicated to the brain by the vagus and then stimulates the release of serotonin from the dorsal raphe nucleus. So the question therefore becomes,
+
+01:24:42.274 --> 01:25:03.070
+If we want to increase levels of serotonin in the brain, or simply to maintain healthy levels of serotonin in the brain for somebody who's not depressed, or maybe somebody who's having low mood, just to keep elevated levels of mood and proper levels of serotonin overall, because it's involved in lots of things, not just mood, we need to make sure that we're getting adequate production of serotonin in the gut.
+
+01:25:03.170 --> 01:25:16.126
+And again, adequate production of serotonin in the gut has a bunch of other positive effects on the immune system, on gut motility. In fact, having adequate levels of serotonin in the gut is powerfully associated with having a healthy gut and not having irritable gut.
+
+01:25:16.290 --> 01:25:43.518
+Irritable bowel syndrome is something that vexes many people. It might sound kind of funny to those of you that don't have, oh, you have an irritable bowel. People with IBS, irritable bowel syndrome, oftentimes suffer tremendously. They can't go out to dinner, they can't eat foods that other people offer them. They'll eat a bunch of foods for a while and feel fine, then they feel terrible. It's not just about having diarrhea. Often they have a bunch of other gut issues and it's correlated with a bunch of other major problems over time.
+
+01:25:43.874 --> 01:26:03.806
+We're going to do an entire episode about gut health as it relates to IBS. There are things that you can do to improve IBS. One of them is to keep your, or get your gut levels of serotonin right. How do you do that? Well, one way to do that is to make sure that the microbiota of your gut are healthy and that they are diverse. The best way to do that
+
+01:26:04.162 --> 01:26:15.710
+not using any kind of supplementation is to make sure that you're ingesting one to four servings of low sugar fermented foods per day. I've talked about this before on the podcast. This is based on beautiful data from my colleague, Justin Sonnenberg.
+
+01:26:16.386 --> 01:26:45.758
+and Christopher Gardner at Stanford showed that the ingestion of one to four servings of low sugar fermented foods per day. So these would be things like kimchi, sauerkraut, again, low sugar, look at the labels. This is the stuff that would need to be refrigerated. We're not talking about pickles kept on the non-refrigerated shelf and the non-refrigerated section of the grocery store, but rather the brine and the pickles that don't have a ton of sugar. So the sour pickles that is that are kept in the refrigerator, things like kimchi, things like kombucha,
+
+01:26:46.050 --> 01:27:15.774
+Keep in mind some kombucha has alcohol. So keep that in mind if you're giving this to kids who shouldn't be ingesting alcohol. Any adults probably shouldn't be ingesting alcohol. Kombucha has very little alcohol, but if you're an alcoholic and you're completely avoiding alcohol, you should know that. Kombucha contains some alcohol. Things like kefir, quality yogurts, low sugar yogurts. You can look up online what are different low sugar fermented foods. These things are going to improve the gut microbiota that in turn promote the production of serotonin
+
+01:27:15.874 --> 01:27:44.382
+if and only if, this is important, if and only if there's also sufficient levels of tryptophan in your dietary intake. So you're going to want to take a look at what you're eating and just through a simple online search, you can figure out whether or not you're getting sufficient levels of tryptophan. Many people are familiar with the idea, because it's true, that turkey contains high levels of tryptophan. This is thought to be responsible for the post Thanksgiving dinner effect, although that's probably due to just eating a lot of food and when the gut is distended.
+
+01:27:44.834 --> 01:28:00.254
+The distension of the gut is communicated by mechanosensors up the vagus nerve sensory neurons and set in motion the so-called rest and digest, or I guess it would be like a collapse and pass out. And in the case of Thanksgiving, collapse and pass out.
+
+01:28:00.770 --> 01:28:30.736
+of having a lot of food in your gut, doesn't matter what the food is, but you're going to want to make sure that you're ingesting foods with sufficient levels of tryptophan. So dairy products will do that, white turkey meat will do that. There are other foods that have tryptophan in them. I'm not going to bother to list those off now. You can simply look those up. So make sure you're getting enough tryptophan in your diet, make sure that you're getting enough low sugar fermented foods, or if you're not doing that, and perhaps even if you are, you might think about supplementing your diet with probiotic on occasion, right? I'm not talking about constantly taking high doses of probiotics.
+
+01:28:30.736 --> 01:28:53.694
+I don't recommend that. But for many people who are suffering low mood, supplementing with a quality probiotic can actually improve mood. And the purported mechanism by which that happens is the increase in serotonin that is allowed by improving the gut microbiota and including foods with enough tryptophan, which is the precursor to serotonin. So what I've done here is I've created the real conceptual link,
+
+01:28:53.890 --> 01:29:22.174
+the anatomical link and the chemical link between the production of serotonin in the gut and serotonin in the brain. And I wouldn't be talking about this if there wasn't actually data on this. I'll include links to a few papers about the, and here I'm quoting the title of a great paper, the interaction of the vagus nerve and serotonin in the gut brain axis. There's also been at least one clinical trial study exploring how taking probiotics, and in this case, it was actually probiotics plus magnesium. It was magnesium orotate,
+
+01:29:22.370 --> 01:29:51.390
+which is just one form of magnesium, as well as I would say a low-ish dose of coenzyme Q10. Combining those three things in this paper entitled Probiotics and Magnesium Orotate, it should have said probiotics and magnesium orotate and coenzyme Q10, but the title is Probiotics and Magnesium Orotate for the Treatment of Major Depressive Disorder, a Randomized Double Blind Control Trial. And I want to emphasize that the results of this paper show that in the short term,
+
+01:29:51.874 --> 01:30:21.726
+there's an improvement in symptoms of major depression. That is, symptoms of major depression were reduced through the administration of this combination of probiotics, magnesium orotate, and coenzyme Q10. However, it was a short-lived effect. Now, it was also a short-lived treatment, but it was a short-lived effect that showed up in the, essentially, starting about the four-week mark, and then carried out to 10 and 15 weeks,
+
+01:30:22.178 --> 01:30:38.270
+the effect disappeared. Now this is important because what it suggests is that in the short term, if you're seeking to improve your mood, or if you're suffering from major depression, please seek help for major depression. This of course wouldn't be the only approach. You don't want to, you know, start being your own psychiatrist.
+
+01:30:38.370 --> 01:31:01.246
+So this treatment very well could be combined with things and should be combined probably with things like exercise, maybe with pharmacologic treatment, with antidepressant drugs. It really depends on the situation. But if you are somebody who's suffering from major depression or just mild depression, or if you're just seeking to maintain healthy serotonin levels or improve your mood slightly, the consumption of things that are going to improve your gut microbiome
+
+01:31:01.570 --> 01:31:14.846
+absolutely is going to support that process. This has been shown over and over again because the gut microbiota create these short chain fatty acids that are critically involved in this biochemical pathway that converts tryptophan into serotonin.
+
+01:31:14.978 --> 01:31:40.446
+I'm going to repeat that because it's very important. The microbiota of the gut, if they're diverse and you have enough of them, are going to produce the short chain fatty acids that are critically required for the conversion of tryptophan, which again is going to come from your diet, into the serotonin of your gut, which in turn is going to be relayed. And it's not the actual serotonin that's relayed, but the presence of serotonin at sufficient levels in the gut is communicated by the vagus nerve
+
+01:31:40.738 --> 01:32:09.054
+up to the dorsal raphe nucleus. Remember there's some stations in between, but it's communicated up to the dorsal raphe and your dorsal raphe then releases serotonin in the brain. Again, a beautiful coordination of the body and the brain, just as activity levels in the body and the brain are matched through the vagus or from the brain to the body, depending on the direction of flow, right? Alertness in the brain, body becomes alert. Alertness in the body, brain becomes alert. Serotonin elevated in the gut, serotonin elevated in the brain.
+
+01:32:09.282 --> 01:32:35.390
+All of that happens by way of vagal signaling. Okay, so the vagus is involved in lots and lots of things. It's not just for calming down, it's also for slowing the heart rate, which is related to calming down, but it's critically required for this thing that we're calling auto-regulation, for increasing HRV. It's also involved in increasing levels of alertness, and you can do that through exercise. It's also involved in increasing levels of serotonin in the brain,
+
+01:32:35.490 --> 01:33:00.990
+We just learned about that. But there is, as you've probably heard before, also a role for the vagus nerve in calming down. Now, the reason I saved this portion for last is because there's just so much information out there about how vagal activation calms us down. And I felt it was important that I also focus on some of the ways that vagus does other things quite robustly, including also enhancing learning and plasticity.
+
+01:33:01.474 --> 01:33:29.086
+But I would be remiss if I didn't offer some of the science-backed tools for calming yourself down by engaging the vagus. And when I say engaging the vagus, I mean engaging very specific pathways within the vagus circuitry. You now, of course, can appreciate that the vagus nerve is a superhighway, bi-directional superhighway of sensory and motor connections. Has a ton of specificity, it's signaling mechanical and chemical information, it's controlling the body,
+
+01:33:29.250 --> 01:33:57.598
+And yet there are specific pathways that will indeed calm you down if you activate them. These are the ones that you typically hear about at the end of yoga classes that you hear about often online. And I don't want to be disparaging of any of that. In fact, I love, love, love the book, Polyvagal Theory by Steven Porges. I think it's a beautiful description of our understanding about the vagus nerve circa, I don't know, maybe 10, 15 years ago, which is,
+
+01:33:57.922 --> 01:34:26.590
+not disparaging at all. I think he did an incredible job of talking about the dorsal motor nucleus of the vagus, which I'll talk about in a few moments, as a pathway for regulation of bodily state, for calming down, about the role of parent-child relationships in infancy, and how the vagus nerve pathways are present and can be activated early in life without any learning or plasticity, and how that's so critically important to the bond that's formed between caretaker and infant. And there's just a,
+
+01:34:26.914 --> 01:34:54.654
+a beautiful set of studies and a beautiful set of clinical data that he describes in that book, Polyvagal Theory, as it relates to things like PTSD, et cetera. So hats off, kudos, and much respect and gratitude to Steven Porges for writing Polyvagal Theory. Most of what I've talked about up until now are things that are either touched on just briefly or that are not included in his book on Polyvagal Theory, mostly because they relate to data that had been accumulated in the last 10 or 15 years,
+
+01:34:55.298 --> 01:35:19.326
+And so there was no way it could be in that book. The ways to calm down using activation of specific vagal pathways do indeed start to mimic some of the things that we hear about in or at the end of yoga classes, or that we think of in terms of kind of new agey types of things. Now, this is coming from somebody who earlier was talking about breathwork, right? I was talking about
+
+01:35:19.618 --> 01:35:43.774
+cyclic sighing or cyclic physiological sighing. You know, in science, we tend to call it respiration physiology. We call it cyclic sighing. In yogic traditions or in breathwork classes, they might call it something else. For those of you that are familiar with me, you know that I appreciate all the lenses into ways to be healthier mentally, physically, and in two ways to improve our performance. I just happen to take the biological side
+
+01:35:44.290 --> 01:36:13.886
+the neurobiological and physiological perspective on these things, because I like to think, in fact, I know that understanding mechanism gives us more agency over these protocols and practices. So what I'm going to describe next is my view of the specific practices that yes, absolutely exist in other territories related to yogic practices, et cetera, that have been purported to increase levels of parasympathetic activation by engaging the vagus.
+
+01:36:13.986 --> 01:36:43.166
+The reason I selected the things I'm about to tell you is because I ran them by two colleagues, one who is a neurologist and psychiatrist practicing, the other who is a neurosurgeon and is very familiar with the Vegas. And what I did is I said, listen, there's all this stuff out there. You can hear all sorts of interesting things on YouTube and elsewhere about ways to calm down by engaging the Vegas. Which of these, and I basically described five, which of these
+
+01:36:43.554 --> 01:37:13.502
+five practices do you think actually triggers activation of the specific nerve fibers that would trigger a parasympathetic response? And what was interesting is that both of them said, actually there are three of them that absolutely trigger activation of the parasympathetic response. And we know because we've recorded from those neural pathways. And so it's obvious that they work. So those are the three that I'm going to describe. I want to remind you that if you want to calm down fast,
+
+01:37:13.762 --> 01:37:40.798
+The physiological sigh is still going to be your best tool. If you want to improve HRV, you want to get better auto-regulation and you want your HRV to improve in sleep as well. The deliberate exhales from time to time spread throughout the day, still going to be great. Still do your high intensity interval training and other ways to increase HRV. But if you want to use the vagal pathways to calm down, here are the three best ways that are supported by the neurophysiology in humans that I'm going to tell you about.
+
+01:37:41.090 --> 01:38:09.598
+First capitalizes on the fact that a major branch of the vagus that extends out of the brainstem and that includes a lot of those sensory afferents, those axons coursing up from the body to the brainstem, runs along a portion of the neck that's deep to the muscle that's going to stick out if you turn your head to one side. Now I'm specifically avoiding the muscle and vasculature nomenclature right now because we've already had so many terms this episode.
+
+01:38:09.698 --> 01:38:37.918
+and it's really not necessary to understand how to use these practices. But were you to say, lie down or even just sit at a table surface like I am now, for those of you that are listening, I'm just seated in front of my desk, I'm putting my hands, palms down, my elbows at the edge of the table. And what I'm going to do next is I'm going to push my elbows down and away from my ears. Then I'm going to turn my head up and to the right,
+
+01:38:38.754 --> 01:39:07.326
+I'm going to talk while I'm doing it, but you wouldn't want to. And when one does that, you feel a kind of stretch both on the outside of the neck, so that's on the left-hand side, as well as in particular on the right-hand side. Okay? And it's important to keep your elbows pushing down and you're looking up into the right. And then you do it to the other side, you go up into the left. Yes, this is looking a lot like yoga, but this is not yoga. This is
+
+01:39:09.154 --> 01:39:35.134
+a way of mechanically activating some of the fibers that course along the vasculature and the musculature at the side of the neck. That is a major pathway of the vagus. Now I had to ask my neurosurgeon and neurophysiology friends, does this actually activate the vagus nerve? And they said, yes, to some degree, it's mechanically going to activate some of those
+
+01:39:35.938 --> 01:40:02.942
+some of those axons, is it going to activate the calming pathways of your vagus nerve as much as say electrical stimulation of your vagus nerve? No, it's not. Electrical stimulation of the vagus nerve is used for major depression. It's also used using different patterns of stimulation frequency to calm people down. It can be used for a number of different things, depending on the way the stimulation is done and where it's done along the vagus nerve pathways. However, this is a very,
+
+01:40:03.426 --> 01:40:17.374
+basically mechanical activation of this vagus nerve pathway. It doesn't just feel good because you're stretching your neck out. It does indeed activate some of the sensory and probably some of the motor fibers as well that course through the vagus nerve
+
+01:40:17.570 --> 01:40:44.414
+And keep in mind, this is interesting, that the majority of the parasympathetic effect of mechanically activating those vagal nerve fibers is going to be on the right-hand side. I know this is starting to sound a little bit like yoga classes where they say, hey, you know, breathing through your left nostril or your right nostril is going to reflect sympathetic or parasympathetic activation. Guess what? When we had Noam Sobel, one of the world's foremost experts on olfaction and basically sniffing and breathing,
+
+01:40:44.706 --> 01:41:13.694
+and its effects on the brain on the podcast, he indeed told us that the switching back and forth between right and left nostril dominance is indeed governed by changes in that seesaw of the autonomic nervous system. It switches over, I believe once about every 90 minutes. Incredible, right? Obviously impacted if you have a deviated septum, et cetera. So this stuff that comes from yogic tradition, while it might not be mechanistically accurate, and it sometimes includes other things that are unrelated to the mechanism, oftentimes it's pretty spot on.
+
+01:41:13.858 --> 01:41:41.982
+If you want to calm down and you want to do that by activating your vagus, you already know a bunch of ways that you can do that. We talked about it, the ear thing, the exhale thing, et cetera, physiological size. But this simple process of looking up and to the right and then up and to the left. And the reason for doing it both sides is you'll feel a stretch on one side, then a contraction on the other. Doing that a few times back and forth indeed can lead to a calmer state following. How robust that is,
+
+01:41:42.626 --> 01:42:10.942
+it's going to depend on a lot of factors. Frankly, I don't think it's as robust as the physiological sigh or exhale emphasized breathing. I don't think it's as fast, but nonetheless, it is supported by the anatomy, it's supported by the function, and a lot of people simply like to stretch. So I'd be remiss if I didn't include that. The other way that you can calm down by way of incorporating vagus nerve activation, and you can do that non-invasively, is the following. All right, this one, again, verified with
+
+01:42:11.106 --> 01:42:39.902
+who are expert in these specific pathways in humans. And I know it might not sound neuroscientific, but believe it or not, the stuff that you hear, no pun intended, about humming and activation of the vagus nerve and calming down by way of humming because of the way it impacts the vagus nerve turns out to be true. However, and get this, you actually have to hum correctly. Now, you might think humming is just,
+
+01:42:40.034 --> 01:43:06.046
+That's not what we're talking about here. What we're talking about here is again, mechanically through vibration, activating the branches of the vagus that innervate the larynx. And now keep in mind, some of the neurons in nucleus ambiguous that carry neurons that are officially members of the vagus nerve, they travel with neurons that are not officially members of the vagus, but they travel together from nucleus ambiguous to a lot of the speech machinery
+
+01:43:06.722 --> 01:43:32.734
+in your throat and in your mouth and with your tongue and your lips. Okay. That's a discussion for an entirely different podcast. But it turns out if you view the hum through the perspective of that it's an H and an M, right? Hmm, right? That if you want to activate this vagal pathway to calm down, the way to hum correctly, I know this sounds wild, but the way to hum correctly is actually to extend the H part
+
+01:43:32.866 --> 01:44:02.558
+not the M. I talked to somebody who's expert in speech neurophysiology and it's because the H part, the is different than the part. The is slightly higher frequency. And actually, if you notice, if you do an extended H hum and then an M hum after, you'll notice that it shifts from the back and deeper parts of your throat, which is where the vagal activation comes from, to sort of further up along your speech pathway toward your mouth and your lips.
+
+01:44:02.754 --> 01:44:24.510
+So just give that a try for a second. Maybe you have to do this in private because otherwise it'd be too embarrassing, but it's incredibly calming. I did this earlier and I was really positively surprised how well it worked. It's basically this. You're trying to get the vibration to move from the back of your throat, down your neck, into your chest, and even into your belly and diaphragm. So it goes like this.
+
+01:44:31.202 --> 01:45:00.126
+If you want to know what it's like from a sensation perspective, think about gargling. This is getting crazier and crazier toward the end of this podcast, but indeed, if you look online, gargling has been proposed as a way to activate the calming aspects, so-called parasympathetic aspects of the vagus nerve. And indeed, when you gargle, you're using the back of your throat. That's the sensation, it's this vibration at the back of your throat. So when you hum, emphasizing the H part of the hmm and leaving off the M part,
+
+01:45:04.450 --> 01:45:34.366
+and you can actually move the vibration down into your chest. I find it's easier if I'm lying down. And when you do that, it's quite remarkable how fast you calm down, but give this a try. I know it might seem a little silly, but if you want to try and really deep relax, this extended humming that you're trying to move down further and further from say your lips to the back of your throat, to deeper in your throat, near your Adam's apple, to your chest region, even into your,
+
+01:45:34.530 --> 01:46:00.222
+in your diaphragm, you'll notice that it really, really calms you down. This is also, it turns out, because I talked to somebody who is a singer, this is the way that singers often will start to relax in order to get into some of the deeper frequency notes that they need to hit with their voice. As you've probably observed, high notes sort of bring people up into their head and up, even if they're using their diaphragm, higher and higher and higher, whereas lower frequency sounds
+
+01:46:00.322 --> 01:46:25.854
+and deeper and it's just mechanical activation of the particular branches of the vagus that are able to drive this parasympathetic response. And if you notice, the hum is like all speech, an exhale, it's a long, slow exhale. So this is the third part. There's also a collateral activation, which is just neuroscience speak for activation of that deceleration pathway.
+
+01:46:26.146 --> 01:46:54.750
+When you do this humming at the back of your throat and down into your chest and into your belly, you're also getting the same effect that you get with an exhale, which is to slow the heart rate way, way down. So it turns out the stuff they say it retreats in yoga classes is mechanistically supported. At least some of it is, and some of it perhaps isn't. And that doesn't really matter right now. What we're talking about is the incredible pathway, the incredible neural circuit that is
+
+01:46:54.914 --> 01:47:24.862
+In fact, calling it the vagus nerve, you now realize, as I talked about at the beginning of the episode, is really not sufficient to encapsulate the incredible variety of different pathways, the sensory stuff up from the body, the motor stuff down from the brain, the way you can calm down, the way you can alert yourself, the relationship and pairing of serotonin levels in the gut through the microbiome and what you eat and the tryptophan with serotonin levels in the brain and mood and neuroplasticity and learning and,
+
+01:47:25.378 --> 01:47:50.110
+To be fair, we didn't even cover everything that the vagus nerve does. There's this whole landscape of electrical stimulation of the vagus nerve, transcranial magnetic stimulation of the parts of the brain like the dorsal lateral prefrontal cortex that allow you to engage more plasticity and control over auto regulation. That stuff all requires devices and a physician or a laboratory to deliver. So I focused on the things that you can do.
+
+01:47:50.242 --> 01:48:19.646
+to activate your vagus in the various ways that's going to serve you best in terms of mental health, physical health, and performance. And I like to think that you also learned a lot about the vagus nerve biology, both structurally and functionally. I personally find it to be one of the most incredible aspects of the nervous system. It exists in all mammals. It's also in non-mammalian vertebrates, but it's definitely in us humans, and it's absolutely active from the time we're born until the very last breath we take.
+
+01:48:19.842 --> 01:48:46.398
+in hopefully late, late age. And it's just a miraculous pathway. Nature created this vagus nerve thing and you can control it and understanding the mechanisms by which you can control it, I do believe is the best way to go about it. So thank you for joining me on this mechanistic slash practical voyage through the vagus nerve. I'm enchanted by the vagus nerve and I like to think that you might be too.
+
+01:48:46.626 --> 01:49:16.592
+If you're learning from and or enjoying this podcast, please subscribe to our YouTube channel. That's a terrific zero-cost way to support us. In addition, please follow the podcast by clicking the follow button on both Spotify and Apple. And on both Spotify and Apple, you can leave us up to a five-star review. And you can now leave us comments at both Spotify and Apple. Please also check out the sponsors mentioned at the beginning and throughout today's episode. That's the best way to support this podcast. If you have questions for me or comments about the podcast or guests or topics that you'd like me to consider for the Huberman
+
+01:49:16.592 --> 01:49:40.798
+Lab podcast, please put those in the comments section on YouTube. I do read all the comments. For those of you that haven't heard, I have a new book coming out. It's my very first book. It's entitled Protocols, an Operating Manual for the Human Body. This is a book that I've been working on for more than five years, and that's based on more than 30 years of research and experience. And it covers protocols for everything from sleep to exercise, to stress control,
+
+01:49:40.962 --> 01:50:00.958
+protocols related to focus and motivation. And of course, I provide the scientific substantiation for the protocols that are included. The book is now available by presale at protocolsbook.com. There you can find links to various vendors. You can pick the one that you like best. Again, the book is called Protocols, an Operating Manual for the Human Body.
+
+01:50:01.314 --> 01:50:31.280
+And if you're not already following me on social media, I am Huberman Lab on all social media platforms. So that's Instagram, X, Threads, Facebook, and LinkedIn. And on all those platforms, I discuss science and science-related tools, some of which overlaps with the content of the Huberman Lab podcast, but much of which is distinct from the information on the Huberman Lab podcast. Again, it's Huberman Lab on all social media platforms. And if you haven't already subscribed to our Neural Network newsletter, the Neural Network newsletter is a zero-cost monthly newsletter that includes podcast summaries as well
+
+01:50:31.280 --> 01:50:56.990
+as what we call protocols in the form of one to three page PDFs that cover everything from how to optimize your sleep, how to optimize dopamine, deliberate cold exposure. We have a foundational fitness protocol that covers cardiovascular training and resistance training. All of that is available completely zero cost. You simply go to HubermanLab.com, go to the menu tab in the top right corner, scroll down to newsletter and enter your email. And I should emphasize that we do not share your email with anybody.
+
+01:50:57.250 --> 01:51:10.622
+Thank you once again for joining me for today's discussion about the vagus nerve and all the incredible things it can do and all the incredible things that you can do with it. And last, but certainly not least, thank you for your interest in science.

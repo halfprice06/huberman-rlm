@@ -1,0 +1,337 @@
+WEBVTT
+
+00:00.226 --> 00:28.574
+Welcome to Huberman Lab Essentials, where we revisit past episodes for the most potent and actionable science-based tools for mental health, physical health, and performance. And now my conversation with Dr. Lex Friedman. We meet again. We meet again. I have a question that I think is on a lot of people's minds or ought to be on a lot of people's minds. What is artificial intelligence and how is it different
+
+00:29.122 --> 00:51.806
+from things like machine learning and robotics? So I think of artificial intelligence first as a big philosophical thing. It's our longing to create other intelligence systems, perhaps systems more powerful than us. At the more narrow level, I think it's also a set of tools
+
+00:52.002 --> 01:12.318
+that are computational mathematical tools to automate different tasks. And then also it's our attempt to understand our own mind. So build systems that exhibit some intelligent behavior in order to understand what is intelligence in our own selves. So all of those things are true. Of course, what,
+
+01:12.514 --> 01:39.166
+AI really means as a community, as a set of researchers and engineers, it's a set of tools, a set of computational techniques that allow you to solve various problems. There's a long history that approaches the problem from different perspectives. What's always been throughout one of the threads, one of the communities goes under the flag of machine learning, which is emphasizing in the AI space
+
+01:39.330 --> 01:53.214
+the task of learning. How do you make a machine that knows very little in the beginning, follow some kind of process and learns to become better and better at a particular task? What's been most
+
+01:53.410 --> 02:22.366
+very effective in the recent about 15 years is a set of techniques that fall under the flag of deep learning that utilize neural networks. It's a network of these little basic computational units called neurons, artificial neurons. And they have these architectures have an input and output. They know nothing in the beginning and they're tasked with learning something interesting. What that something interesting is usually involves a particular task. The
+
+02:23.010 --> 02:51.006
+There's a lot of ways to talk about this and break this down. One of them is how much human supervision is required to teach this thing. So supervised learning, this broad category, is the neural network knows nothing in the beginning. And then it's given a bunch of examples in computer vision that would be examples of cats, dogs, cars, traffic signs. And then you're given the image and you're given the ground truth
+
+02:51.266 --> 03:15.678
+of what's in that image. And when you get a large database of such image examples where you know the truth, the neural network is able to learn by example, that's called supervised learning. There's a lot of fascinating questions within that, which is how do you provide the truth? When you've given an image of a cat, how do you provide to the computer
+
+03:16.354 --> 03:35.326
+that this image contains a cat? Do you just say the entire image is a picture of a cat? Do you do what's very commonly been done, which is a bounding box? You have a very crude box around the cat's face saying this is a cat. Do you do semantic segmentation? Mind you, this is a 2D image of a cat. So it's not a,
+
+03:35.682 --> 04:01.054
+the computer knows nothing about our three-dimensional world. It's just looking at a set of pixels. So semantic segmentation is drawing a nice, very crisp outline around the cat and saying, that's a cat. That's really difficult to provide that truth. And one of the fundamental open questions in computer vision is, is that even a good representation of the truth? Now, there's another contrasting set of
+
+04:01.154 --> 04:30.814
+their attention, their overlapping is what's used to be called unsupervised learning, what's commonly now called self-supervised learning, which is trying to get less and less and less human supervision into the task. So self-supervised learning is more, has been very successful in the domain of language models, natural language processing, and now more and more is being successful in computer vision task. And what's,
+
+04:30.978 --> 04:59.230
+The idea there is let the machine without any ground truth annotation, just look at pictures on the internet or look at text on the internet and try to learn something generalizable about the ideas that are at the core of language or at the core of vision. And based on that, we humans at its best like to call that common sense. So with this, we have this giant base of knowledge
+
+04:59.426 --> 05:25.342
+on top of which we build more sophisticated knowledge, but we have this kind of common sense knowledge. And so the idea with self-supervised learning is to build this common sense knowledge about what are the fundamental visual ideas that make up a cat and a dog and all those kinds of things without ever having human supervision. The dream there is, you just let an AI system that's
+
+05:25.698 --> 05:52.062
+self-supervised, run around the internet for a while, watch YouTube videos for millions and millions of hours, and without any supervision, be primed and ready to actually learn with very few examples once the human is able to show up. We think of children in this way, human children, is your parents only give one or two examples to teach a concept. The dream with self-supervised learning is that would be the same with
+
+05:52.226 --> 06:02.302
+with machines that they would watch millions of hours of YouTube videos and then come to a human and be able to understand when the human shows them, this is a cat.
+
+06:02.850 --> 06:29.246
+like remember this a cat they will understand that a cat is not just a thing with pointy ears or a cat cat is a thing that's orange or it's furry they'll they'll see something more fundamental that we humans might not actually be able to introspect and understand like if i asked you what makes a cat versus a dog you wouldn't probably not be able to answer that but if i showed you brought to you a cat and a dog you'll be able to tell the difference what are the ideas that
+
+06:29.506 --> 06:59.006
+your brain uses to make that difference. That's the whole dream of self-supervised learning is it would be able to learn that on its own, that set of common sense knowledge that's able to tell the difference. And then there's like a lot of incredible uses of self-supervised learning, very weirdly called self-play mechanism. That's the mechanism behind the reinforcement learning successes of the systems that want it go,
+
+06:59.170 --> 07:27.422
+at AlphaZero, that one at chess. Oh, I see. That play games. That play games. Got it. So the idea of self-play, this probably applies to other domains than just games, is a system that just plays against itself. And this is fascinating in all kinds of domains, but it knows nothing in the beginning. And the whole idea is it creates a bunch of mutations of itself and plays against those
+
+07:27.554 --> 07:55.966
+versions of itself. And then through this process of interacting with systems just a little better than you, you start following this process where everybody starts getting better and better and better and better until you are several orders of magnitude better than the world champion in chess, for example. And it's fascinating because it's like a runaway system. One of the most terrifying and exciting things that David Silver, the creator of AlphaGo and AlphaZero, one of the leaders of the team said to me,
+
+07:56.482 --> 08:24.894
+is they haven't found the ceiling for alpha zero, meaning it could just arbitrarily keep improving. Now in the realm of chess, that doesn't matter to us that it's like, it just ran away with the game of chess. Like it's like just so much better than humans. But the question is what, if you can create that in the realm that does have a bigger, deeper effect on human beings and societies, that can be a terrifying process.
+
+08:25.026 --> 08:54.654
+To me, it's an exciting process if you supervise it correctly. If you inject, if what's called value alignment, you make sure that the goals that the AI is optimizing is aligned with human beings and human societies. There's a lot of fascinating things to talk about within the specifics of neural networks and all the problems that people are working on. But I would say the really big, exciting one is self-supervised learning.
+
+08:54.882 --> 09:19.198
+We're trying to get less and less human supervision, less and less human supervision of neural networks. And also just to comment and I'll shut up. No, please keep going. I'm learning. I have questions, but I'm learning. So please keep going. So to me, what's exciting is not the theory, it's always the application. One of the most exciting applications of artificial intelligence
+
+09:20.194 --> 09:49.566
+specifically neural networks and machine learning is Tesla Autopilot. So these are systems that are working in the real world. This isn't an academic exercise. This is human lives at stake. Even though it's called FSD, full self-driving, it is currently not fully autonomous, meaning human supervision is required. So human is tasked with overseeing the systems. In fact, liability-wise, the human is always responsible. This is a human factor psychology.
+
+09:49.762 --> 10:16.894
+question, which is fascinating. I'm fascinated by the whole space, which is a whole nother space of human robot interaction. When AI systems and humans work together to accomplish tasks, that dance to me is one of the smaller communities, but I think it will be one of the most important open problems once they're solved is how do humans and robots dance together? To me,
+
+10:17.218 --> 10:46.846
+semi-autonomous driving is one of those spaces. So for Elon, for example, he doesn't see it that way. He sees semi-autonomous driving as a stepping stone towards fully autonomous driving. Like humans and robots can't dance well together. Like humans and humans dance and robots and robots dance. Like we need to, this is an engineering problem. We need to design a perfect robot that solves this problem. To me forever, maybe this is not the case with driving,
+
+10:46.978 --> 11:13.726
+the world is going to be full of problems where it's always humans and robots have to interact because I think robots will always be flawed, just like humans are going to be flawed, are flawed. And that's what makes life beautiful, that they're flawed. That's where learning happens at the edge of your capabilities. So you always have to figure out how can flawed robots and flawed humans
+
+11:14.498 --> 11:42.590
+interact together such that they, like the sum is bigger than the whole, as opposed to focusing on just building the perfect robot. So that's one of the most exciting applications, I would say, of artificial intelligence to me is autonomous driving and semi-autonomous driving. And that's a really good example of machine learning because those systems are constantly learning. And there's a process there that maybe I can comment on
+
+11:42.946 --> 12:03.262
+And Andre Karpathy, who's the head of Autopilot, calls it the data engine. And this process applies for a lot of machine learning, which is you build a system that's pretty good at doing stuff. You send it out into the real world. It starts doing the stuff and then it runs into what are called edge cases, like failure cases, where it screws up.
+
+12:04.354 --> 12:29.694
+You know, we do this as kids. We do this as adults. We do this as adults. Exactly. But we learn really quickly. But the whole point, and this is the fascinating thing about driving, is you realize there's millions of edge cases. There's just like weird situations that you did not expect. And so the data engine process is you collect those edge cases and then you go back to the drawing board and learn from them.
+
+12:30.114 --> 12:46.846
+And so you have to create this data pipeline where all these cars, hundreds of thousands of cars are just driving around and something weird happens. And so whenever this weird detector fires, it's another important concept, that piece of data goes back
+
+12:47.458 --> 13:15.966
+to the mothership for the training, for the retraining of the system. And through this data engine process, it keeps improving and getting better and better and better and better. So basically you send out a pretty clever AI systems out into the world and let it find the edge cases, let it screw up just enough to figure out where the edge cases are and then go back and learn from them and then send out that new version and keep updating that version.
+
+13:16.162 --> 13:37.438
+One of the fascinating things about humans is we figure out objective functions for ourselves. Like we're, it's the meaning of life. Like why the hell are we here? And a machine currently has to have a hard coded statement about why. It has to have a meaning of artificial intelligence.
+
+13:37.634 --> 14:02.014
+based life. Right. If you want a machine to be able to be good at stuff, it has to be given very clear statements of what good at stuff means. That's one of the challenges of artificial intelligence is in order to solve a problem, you have to formalize it and you have to provide both like the full sensory information. You have to be very clear about what is the data that's being collected.
+
+14:02.178 --> 14:31.678
+And you have to also be clear about the objective function. What is the goal that you're trying to reach? Ultimately, currently, there has to be a formal objective function. Now, you could argue that humans also has a set of objective functions we're trying to optimize. We're just not able to introspect them. Yeah, we don't actually know what we're looking for and seeking and doing. As many of you know, I've been taking AG1 daily for more than 13 years.
+
+14:31.778 --> 14:42.046
+However, I've now found an even better vitamin mineral probiotic drink. That new and better drink is the new and improved AG1, which just launched this month.
+
+14:42.146 --> 15:12.112
+This next-gen formula from AG1 is a more advanced, clinically-backed version of the product that I've been taking daily for years. It includes new bioavailable nutrients and enhanced probiotics. The next-gen formula is based on exciting new research on the effects of probiotics on the gut microbiome, and it now includes several specific clinically-studied probiotic strains that have been shown to support both digestive health and immune system health, as well as to improve bowel regularity and to reduce bloating. As someone who's been involved in research science for more than three decades,
+
+15:12.112 --> 15:40.798
+and in health and fitness for equally as long, I'm constantly looking for the best tools to improve my mental health, physical health, and performance. I discovered and started taking AG1 way back in 2012, long before I ever had a podcast, and I've been taking it every day since. I find that it greatly improves all aspects of my health. I just feel so much better when I take it, but with each passing year, and by the way, I'm turning 50 this September, I continue to feel better and better, and I attribute a lot of that to AG1.
+
+15:40.930 --> 16:10.896
+AG1 uses the highest quality ingredients in the right combinations, and they're constantly improving their formulas without increasing the cost. So I'm honored to have them as a sponsor of this podcast. If you'd like to try AG1, you can go to drinkag1.com slash Huberman to claim a special offer. Right now, AG1 is giving away an AG1 welcome kit with five free travel packs and a free bottle of vitamin D3 K2. Again, go to drinkag1.com slash Huberman to claim the special welcome kit with five free travel packs and a free bottle
+
+16:10.896 --> 16:32.350
+of vitamin D3 K2. Today's episode is also brought to us by Maui Nui venison. Maui Nui venison is the most nutrient dense and delicious red meat available. It's also ethically sourced. Maui Nui hunts and harvest wild access deer on the island of Maui. This solves the problem of managing an invasive species while also creating an extraordinary source of protein.
+
+16:32.546 --> 16:45.598
+As I've discussed on this podcast before, most people should aim for getting one gram of quality protein per pound of body weight each day. This allows for optimal muscle protein synthesis while also helping to reduce appetite and support proper metabolic health.
+
+16:45.762 --> 17:03.998
+Given Maui Nui's exceptional protein to calorie ratio, this protein target is achievable without having to eat too many calories. Their venison delivers 21 grams of protein with only 107 grams per serving, which is an ideal ratio for those of us concerned with maintaining or increasing muscle mass while supporting metabolic health.
+
+17:04.162 --> 17:34.128
+They have venison steaks, ground venison, and venison bone broth. I personally love all of them. In fact, I probably eat a Maui Nui venison burger pretty much every day. And if I don't do that, I eat one of their steaks. And sometimes I also consume their bone broth. And if you're on the go, they have Maui Nui venison sticks, which have 10 grams of protein per stick with just 55 calories. I eat at least one of those a day to meet my protein requirements. Right now, Maui Nui is offering Huberman Podcast listeners a limited collection of my favorite cuts and products. It's perfect for anyone looking to improve
+
+17:34.128 --> 18:03.774
+their diet with delicious, high-quality protein. Supplies are limited, so go to mauinuivenison.com slash Huberman to get access to this high-quality meat today. Again, that's mauinuivenison.com slash Huberman. Does interacting with a robot change you? Does it, in other words, do we develop relationships to robots? I believe that most people have a notion of loneliness in them that we haven't discovered.
+
+18:04.002 --> 18:29.310
+that we haven't explored, I should say. And I see AI systems as helping us explore that so that we can become better humans, better people towards each other. So I think that connection between human and AI, human and robot is not only possible, but will help us understand ourselves in ways that are like,
+
+18:29.410 --> 18:56.446
+several orders of magnitude deeper than we ever could have imagined. So when I think about human relationships, I don't always break them down into variables, but we could explore a few of those variables and see how they map to human robot relationships. One is just time, right? If you spend zero time with another person at all in cyberspace or on the phone or in person, you essentially have no relationship to them.
+
+18:57.506 --> 19:26.718
+If you spend a lot of time, you have a relationship. This is obvious, but I guess one variable would be time. How much time you spend with the other entity, robot or human. The other would be wins and successes. You enjoy successes together. The other would be failures. When you struggle with somebody, when you struggle with somebody, you grow closer. So I've never conceptualized robot human interactions this way. So tell me more about how this might look. Are we thinking about,
+
+19:26.914 --> 19:49.822
+a human appearing robot. What is the ideal human robot relationship? So there's a lot to be said here, but you actually pinpointed one of the big, big first steps, which is this idea of time. I think that time element, forget everything else, just sharing moments together that changes everything.
+
+19:50.210 --> 20:11.358
+I believe that changes everything. There's specific things that are more in terms of systems that I can explain you. It's more technical and probably a little bit offline because I have kind of wild ideas how that can revolutionize social networks and operating systems. But the point is that element alone
+
+20:11.618 --> 20:37.150
+Forget all the other things we're talking about, like emotions, saying no, all that. Just remember sharing moments together would change everything. We don't currently have systems that share moments together. Like even just you and your fridge, just all those times you went late at night and ate the thing you shouldn't have eaten. That was a secret moment you had with your refrigerator.
+
+20:37.666 --> 21:04.798
+You shared that moment, that darkness or that beautiful moment where you just, you know, like heartbroken for some reason, you're eating that ice cream or whatever. That's a special moment. And that refrigerator was there for you. And the fact that it missed the opportunity to remember that is tragic. And once it does remember that, I think you're gonna be very attached to the refrigerator. You're gonna go through some...
+
+21:05.218 --> 21:28.926
+through some hell with that refrigerator. Most of us have like in a developed world have weird relationships with food, right? So you can go through some deep moments of trauma and triumph with food. And at the core of that is the refrigerator. So a smart refrigerator, I believe would change society, not just the refrigerator, but these ideas.
+
+21:29.218 --> 21:56.030
+in the systems all around us. So that, I just want to comment on how powerful that idea of time is. And then there's a bunch of elements of actual interaction of allowing you as a human to feel like you're being heard, truly heard, truly understood. And I think there's a lot of ideas of how to make AI systems to be able to ask the right questions.
+
+21:56.130 --> 22:25.406
+and truly hear another human. This is what we try to do with podcasting, right? I think there's ways to do that with AI, but above all else, just remembering the collection of moments that make up the day, the week, the months. I think you maybe have some of this as well. Some of my closest friends still are the friends from high school. That's time. We've been through a bunch of shit together. And that like, we've,
+
+22:25.538 --> 22:55.422
+We're very different people, but just the fact that we've been through that and we remember those moments and those moments somehow create a depth of connection like nothing else, like you and your refrigerator. There may be relationships that are far better than the sorts of relationships that we can conceive in our minds right now based on what these machine relationship interactions could teach us. Do I have that right? Yeah, I think so. I think there's no reason to see machines as somehow
+
+22:55.682 --> 23:25.662
+incapable of teaching us something that's deeply human. I don't think humans have a monopoly on that. I think we understand ourselves very poorly and we need to have the kind of prompting from a machine. Maybe the thing we want to optimize for isn't necessarily like some sexy, like quick clips. Maybe what we want is long form authenticity. Depth. Depth.
+
+23:26.114 --> 23:54.302
+from like a very specific engineering perspective is I think a fascinating open problem that hasn't been really worked on very much. Early on in life, and also in the recent years, I've interacted with a few robots where I understood there's magic there. And that magic could be shared by millions if it's brought to light. When I first met Spot from Boston Dynamics,
+
+23:54.818 --> 24:23.294
+I realized there's magic there that nobody else is seeing. Is the dog. Is the dog, sorry. The spot is the four legged robot from Boston Dynamics. Some people might have seen it. It's this yellow dog. This magic is something that could be every single device in the world. The way that I think maybe Steve Jobs thought about the personal computer. And so for me, I'd love to see a world where there's every home has a robot.
+
+24:23.874 --> 24:45.822
+and not a robot that washes the dishes, but more like a companion. A family member. A family member, the way a dog is, but a dog that's able to speak your language too. So not just connect the way a dog does by looking at you and looking away and almost like smiling with its soul in that kind of way, but also,
+
+24:46.530 --> 25:10.270
+to actually understand what the hell, like why are you so excited about the successes? Like understand the details, understand the traumas. I love this desire to share the delight of an interaction with a robot. And as you describe it, I actually, I find myself starting to crave that because we all have those elements from childhood where, or from adulthood where we experienced something we want other people to feel that.
+
+25:10.402 --> 25:29.630
+And I think that you're right. I think a lot of people are scared of AI. I think a lot of people are scared of robots. My only experience of a robotic like thing is my Roomba vacuum where it goes about actually was pretty good at picking up Costello's hair when he was shed. And then and I was grateful for it. But then when it would
+
+25:29.762 --> 25:55.774
+when I was on a call or something and it would get caught on a wire or something, I would find myself getting upset with the Roomba in that moment. I'm like, what are you doing? And obviously it's just doing what it does. But that's a kind of mostly positive, but slightly negative interaction. But what you're describing has so much more richness and layers of detail that I can only imagine what those relationships are like. Well, there's a few, just a quick comment.
+
+25:55.970 --> 26:24.446
+So I've had, they're currently in Boston, I have a bunch of Roombas from iRobot. And I did this experiment. Wait, how many Roombas? Sounds like a fleet of Roombas. Yeah, so probably seven or eight. Wow, that's a lot of Roombas. So you have these seven or so Roombas, you deploy all seven at once? Oh no, I do different experiments with them. So one of the things I want to mention, I got them to the Scream in pain.
+
+26:24.642 --> 26:47.710
+and moan in pain whenever they were kicked or contacted. And I did that experiment to see how I would feel. I meant to do like a YouTube video on it, but then it just seemed very cruel. Did any Roomba rights activists come out? Like, I think if I release that video, I think it's gonna make me look insane, which,
+
+26:47.906 --> 27:14.174
+I know people know I'm already insane. Now you have to release the video. Sure. I think maybe if I contextualize it by showing other robots, like to show why this is fascinating, because ultimately I felt like they were human almost immediately. And that display of pain was what did that. Giving them a voice. Giving them a voice, especially a voice of dislike, of pain. Mm-hmm.
+
+27:14.338 --> 27:41.598
+So is the video available online? No, I haven't recorded it. I just hit a bunch of Roombas that are able to scream in pain in my Boston place. What about shouts of glee and delight? Well, I don't know. To me, delight is quiet, right? But there's a way to frame it being quite dumb as almost cute.
+
+27:42.338 --> 28:10.878
+You know, you're almost connecting with it for its dumbness. And I think that's an artificial intelligence problem. Interesting. I think flaws should be a feature, not a bug. So along the lines of this, the different sorts of relationships that one could have with robots and the fear, but also some of the positive relationships that one could have. There's so much dimensionality. There's so much to explore. But power dynamics in relationships are very interesting.
+
+28:10.978 --> 28:40.414
+because the obvious ones that the unsophisticated view of this is, you know, one, there's a master and a servant, right? But there's also manipulation. There's benevolent manipulation. You know, children do this with parents. Puppies do this. Puppies turn their head and look cute and maybe give out a little noise. Kids, coo. And parents always think that they're, you know, they're doing this because, you know, they love the parent, but in,
+
+28:40.514 --> 29:06.462
+Many ways, studies show that those coups are ways to extract the sorts of behaviors and expressions from the parent that they want. The child doesn't know it's doing this. It's completely subconscious, but it's benevolent manipulation. So there's one version of fear of robots that I hear a lot about that I think most people can relate to where the robots take over and they become the masters and we become the servants. But there could be another version that, um, uh,
+
+29:06.818 --> 29:34.494
+you know, in certain communities that I'm certainly not a part of, but they call topping from the bottom where the robot is actually manipulating you into doing things. But you are under the belief that you are in charge, but actually they're in charge. And so I think that's one that if we could explore that for a second, you could imagine it wouldn't necessarily be bad, although it could lead to bad things.
+
+29:34.786 --> 29:59.646
+The reason I want to explore this is I think people always default to the extreme, like the robots take over and we're in little jail cells and they're out having fun and ruling the universe. What sorts of manipulation can a robot potentially carry out, good or bad? Yeah. So there's a lot of good and bad manipulation between humans, right? Just like you said. To me...
+
+30:01.826 --> 30:28.158
+Especially, like you said, topping from the bottom, is that the term? So I think someone from MIT told me that term. It wasn't Lex. I think, so first of all, there's power dynamics in bed and power dynamics in relationships and power dynamics on the street and in the work environment. Those are all very different. I think power dynamics can make,
+
+30:28.258 --> 30:57.982
+human relationships, especially romantic relationships, are fascinating and rich and fulfilling and exciting and all those kinds of things. So I don't think in themselves they're bad. And the same goes with robots. I really love the idea that a robot would be a top or a bottom in terms of like power dynamics. And I think everybody should be aware of that. And the manipulation is not so much manipulation, but...
+
+30:58.146 --> 31:21.246
+a dance of like pulling away, push and pull and all those kinds of things. In terms of control, I think we're very, very, very far away from AI systems that are able to lock us up. To lock us up in it, like to have so much control that we basically cannot live our lives in the way that we want.
+
+31:21.602 --> 31:50.846
+I think there's, in terms of dangers of AI systems, there's much more dangers that have to do with autonomous weapon systems and all those kinds of things. So the power dynamics as exercised in the struggle between nations and war and all those kinds of things. But in terms of personal relationships, I think power dynamics are a beautiful thing. I do believe that robots will have rights down the line. And I think in order for us to have deep meaningful relationship with robots, we would have to consider them
+
+31:51.138 --> 32:16.446
+as entities in themselves that deserve respect. And that's a really interesting concept that I think people are starting to talk about a little bit more, but it's very difficult for us to understand how entities that are other than human, I mean, the same as with dogs and other animals, can have rights on a level as humans. I'd like to take a quick break and acknowledge one of our sponsors, Function.
+
+32:16.578 --> 32:46.544
+Last year, I became a Function member after searching for the most comprehensive approach to lab testing. Function provides over 100 advanced lab tests that give you a key snapshot of your entire bodily health. This snapshot offers you with insights on your heart health, hormone health, immune functioning, nutrient levels, and much more. They've also recently added tests for toxins, such as BPA exposure from harmful plastics, and tests for PFASs, or forever chemicals. Function not only provides testing of over 100 biomarkers key to your physical and mental
+
+32:46.544 --> 32:58.878
+health, but it also analyzes these results and provides insights from top doctors who are expert in the relevant areas. For example, in one of my first tests with function, I learned that I had elevated levels of mercury in my blood.
+
+32:58.978 --> 33:19.582
+Function not only helped me detect that, but offered insights into how best to reduce my mercury levels, which included limiting my tuna consumption. I'd been eating a lot of tuna, while also making an effort to eat more leafy greens and supplementing with NAC and acetylcysteine, both of which can support glutathione production and detoxification. And I should say, by taking a second function test, that approach worked.
+
+33:19.714 --> 33:34.942
+Comprehensive blood testing is vitally important. There's so many things related to your mental and physical health that can only be detected in a blood test. The problem is blood testing has always been very expensive and complicated. In contrast, I've been super impressed by function simplicity and
+
+33:35.042 --> 34:04.798
+at the level of cost. It is very affordable. As a consequence, I decided to join their scientific advisory board and I'm thrilled that they're sponsoring the podcast. If you'd like to try Function, you can go to functionhealth.com slash Huberman. Function currently has a wait list of over 250,000 people, but they're offering early access to Huberman podcast listeners. Again, that's functionhealth.com slash Huberman to get early access to Function. Today's episode is also brought to us by David. David makes a protein bar unlike any other.
+
+34:04.898 --> 34:32.319
+It has 28 grams of protein, only 150 calories and zero grams of sugar. That's right, 28 grams of protein and 75% of its calories come from protein. This is 50% higher than the next closest protein bar. David protein bars also taste amazing. Even the texture is amazing. My favorite bar is the chocolate chip cookie dough, but then again, I also like the new chocolate peanut butter flavor and the chocolate brownie flavored. Basically, I like all the flavors a lot. They're all incredibly delicious.
+
+34:32.418 --> 34:58.270
+The toughest challenge is knowing which ones to eat on which days and how many times per day. I limit myself to two per day, but I absolutely love them. With David, I'm able to get 28 grams of protein in the calories of a snack, which makes it easy to hit my protein goals of one gram of protein per pound of body weight per day, and it allows me to do so without ingesting too many calories. I'll eat a David protein bar most afternoons as a snack, and I always keep one with me when I'm out of the house or traveling.
+
+34:58.370 --> 35:21.086
+They're incredibly delicious. And given that they have 28 grams of protein, they're really satisfying for having just 150 calories. If you'd like to try David, you can go to davidprotein.com slash Huberman. Again, that's davidprotein.com slash Huberman. We can't and nor should we do whatever we want with animals. We have a USDA, we have departments of...
+
+35:21.186 --> 35:50.590
+of agriculture that deal with animal care and use committees for research, for farming and ranching and all that. So when you first said it, I thought, wait, why would there be a bill of robotic rights? But it absolutely makes sense in the context of everything we've been talking about up until now. If you're willing, I'd love to talk about dogs because you've mentioned dogs a couple of times, a robot dog.
+
+35:50.786 --> 36:18.718
+You had a biological dog. Yeah. Yeah, I had a Newfoundland named Homer for many years growing up. In Russia or in the US? In the United States. And he was about, he was over 200 pounds. That's a big dog. That's a big dog. If people know, people know Newfoundland. So he's this black dog that's really long hair and just a kind soul. I think,
+
+36:18.978 --> 36:48.446
+Perhaps that's true for a lot of large dogs, but he thought he was a small dog. So he moved like that and- Was he your dog? Yeah, yeah. So you had him since he was fairly young? Since the very, very beginning to the very, very end. And one of the things, I mean, he had this kind of, we mentioned like the Roombas, he had a kind hearted dumbness about him that was just overwhelming. It's part of the reason I named him Homer because
+
+36:48.706 --> 37:18.590
+It's after Homer Simpson, in case people are wondering which Homer I'm referring to. I'm not, you know. So there's a clumsiness. Yeah, exactly. There's a clumsiness that was just something that immediately led to a deep love for each other. And one of the, I mean, he was always, it's the shared moments. He was always there for so many nights together. That's a powerful thing about a dog that he was there.
+
+37:18.722 --> 37:48.606
+through all the loneliness, through all the tough times, through the successes and all those kinds of things. And I remember, I mean, that was a really moving moment for me. I still miss him to this day. How long ago did he die? Maybe 15 years ago. So it's been a while. But it was the first time I've really experienced like the feeling of death. So what happened is he got hurt.
+
+37:48.866 --> 38:18.270
+cancer and so he was dying slowly and then at a certain point he couldn't get up anymore. There's a lot of things I could say here, you know, that I struggle with that maybe, maybe he suffered much longer than he needed to. That's something I really think about a lot. But I remember I had to take him to the hospital and the nurses
+
+38:18.434 --> 38:47.166
+couldn't carry him. Right? So you talk about 200 pound dog. I was really into powerlifting at the time. I remember, like they tried to figure out all these kinds of ways to, so in order to put them to sleep, they had to take them into into a room. And so I had to carry him everywhere. And here's this dying friend of mine that I just had to, first of all, it's really difficult to carry somebody that heavy when they're not helping you out.
+
+38:47.522 --> 39:15.006
+And yeah, so I remember it was the first time seeing a friend laying there and seeing life drain from his body. And that realization that we're here for a short time was made so real that here's a friend that was there for me the week before, the day before, and now he's gone. And that was...
+
+39:16.098 --> 39:40.030
+I don't know, that spoke to the fact that you could be deeply connected with the dog. Also spoke to the fact that the shared moments together that led to that deep friendship will make life so amazing. But also spoke to the fact that death is a motherfucker.
+
+39:40.514 --> 40:09.790
+So I know you've lost Costello recently. Yeah. And you've been going. And as you're saying this, I'm definitely fighting back the tears. I thank you for sharing that. That I guess we're about to both cry over our dead dogs. That it was bound to happen just given when this is happening. Yeah. How long did you know that Costello was not doing well? Well, let's see. A year ago.
+
+40:10.050 --> 40:39.934
+during the start of about six months into the pandemic, he started getting abscesses and he was not, his behavior changed and something really changed. And then I put him on testosterone because which helped a lot of things. It certainly didn't cure everything, but it helped a lot of things. He was dealing with joint pain, sleep issues. And then it just became a very slow decline to the point where, you know, two, three weeks ago, he had,
+
+40:40.226 --> 41:08.670
+you know, a closet full of medication. I mean, this dog was, you know, it was like a pharmacy. It's amazing to me when I looked at it the other day, I still haven't cleaned up and removed all his things because I can't quite bring myself to do it. But, um, do you think he was suffering? Well, so what happened was about a week ago, it was really just about a week ago. It's amazing. He was going up the stairs. I saw him slip and he was a big dog. He wasn't 200 pounds, but he was about 90 pounds. He's a bulldog. That's pretty big. And he was fit. Um,
+
+41:08.834 --> 41:37.022
+And then I noticed that he wasn't carrying a foot in the back like it was injured. It had no feeling at all. He never liked me to touch his hind paws. And I could do that thing was just flopping there. And then the vet found some spinal degeneration and I was told that the next one would go. Did he suffer? Sure, hope not. But something changed in his eyes. Yeah, it's the eyes again. I know you and I spend long hours on the phone and talking about like the eyes and how what they convey and what they mean about internal states and
+
+41:37.570 --> 42:00.158
+for sake of robots and biology of other kinds. But- Do you think something about him was gone in his eyes? I think he was real. Here I am anthropomorphizing. I think he was realizing that one of his great joys in life, which was to walk and sniff and pee on things.
+
+42:00.354 --> 42:27.550
+This dog loved to pee on things. It was amazing. I wondered where he put it. He was like a reservoir of urine. It was incredible. I think, oh, that's it. He's just, he'd put like one drop on the 50 millionth plant. And then we get to the 50 millionth in one plant and he just have, you know, leave a puddle. And here I am talking about Costello peeing. He was losing that ability to stand up and do that. He was falling down while he was doing that. And I do think,
+
+42:28.130 --> 42:55.262
+he started to realize and the passage was easy and peaceful, but you know, I'll say this, I'm not ashamed to say it. I mean, I wake up every morning since then, just, I don't even make the conscious decision to allow myself to cry, I wake up crying. And I'm fortunately able to make it through the day, thanks to the great support of my friends and you and my family, but I miss him, man. You miss him? Yeah, I miss him. And I feel like he, you know,
+
+42:55.394 --> 43:22.174
+Homer, Costello, you know, the relationship to one's dog is so specific. So that party is gone. That's the hard thing. You know, what I think is different is that I made the mistake, I think. I hope it was a good decision, but sometimes I think I made the mistake of I brought Costello back.
+
+43:22.690 --> 43:51.006
+a little bit to the world through the podcast, through posting about him. I gave, I anthropomorphized about him in public. Let's be honest. I have no idea what his mental life was or his relationship to me. And I'm just exploring all this for the first time because he was my first dog, but I raised him since he was seven weeks. Yeah. You got to hold it together. I noticed the episode you released on Monday, you mentioned Costello. Like you, you brought him back to life for me for that brief moment. Yeah. But he's, he's, he's gone. That's the,
+
+43:52.322 --> 44:19.006
+He's going to be gone for a lot of people too. Well, this is what I'm struggling with. I know how to take care of myself pretty well. Yeah. Not perfectly, but pretty well. And I have good support. I do worry a little bit about how it's going to land and how people will feel. I'm concerned about their internalization. So that's something I'm still, I'm still iterating on. And you have to, they have to watch you struggle, which is fascinating. Right. And I've mostly been shielding them from this, but
+
+44:19.138 --> 44:49.022
+What would make me happiest is if people would internalize some of Costello's best traits and his best traits were that he was incredibly tough. I mean, he was a 22 inch neck bulldog, the whole thing. He was just born that way. But what was so beautiful is that his toughness is never what he rolled forward. It was just how sweet and kind he was. And so if people can take that, then there's a win in there someplace.
+
+44:49.218 --> 45:18.750
+So I think there's some ways in which you should probably live on in your podcast too. You should, I mean, it's such a, one of the things I loved about his role in your podcast is that he brought so much joy to you. I mentioned the robots, right? I think that's such a powerful thing to bring that joy into like allowing yourself to experience that joy, to bring that joy to others, to share it with others.
+
+45:19.170 --> 45:48.478
+That's really powerful. And I mean, not to, this is like the Russian thing is, it touched me when Louis CK had that moment that I keep thinking about in this, his show Louis, where like an old man was criticizing Louis for whining about breaking up with his girlfriend. And he was saying like the most, the most beautiful thing about love, the song that's,
+
+45:48.770 --> 46:18.142
+catching now that's not making me feel horrible saying it, but like is the loss, the loss really also is making you realize how much that person, that dog meant to you and like allowing yourself to feel that loss and not run away from that loss is really powerful. And in some ways that's also sweet, just like the love was the loss is also sweet because you know that you felt a lot for that
+
+46:18.562 --> 46:46.462
+for your friend. So I, you know, and I continue bringing that joy. I think it would be amazing to the podcast. I hope to do the same with, with robots or whatever else is the source of joy. Right. And maybe, do you think about one day getting another dog? Yeah. In time, you're hitting on all the key buttons here. I want that to,
+
+46:46.914 --> 47:00.574
+We're thinking about, you know, ways to kind of immortalize Costello in a way that's real, not just, you know, creating some little logo or something silly. You know, Costello, much like David Goggins, is a person
+
+47:01.378 --> 47:31.344
+Goggins also has grown into kind of a verb. You're going to Goggins this or you're going to, and there's an adjective like that's extreme. Like, I think that for me, Costello was all those things. He was a, he was a being, he was his own being. He was a noun, a verb and an adjective. So, and he had this amazing superpower that I wish I could get, which is this ability to get everyone else to do things for you without doing a damn thing. The Costello effect, as I call it. So it was an idea. I hope he lives on. There's a saying that I heard when I was a grad
+
+47:31.344 --> 47:56.990
+graduate student that's just been ringing in my mind throughout this conversation in such a, I think, appropriate way, which is that, Lex, you are in a minority of one. You are truly extraordinary in your ability to encapsulate so many aspects of science, engineering, public communication about so many topics, martial arts,
+
+47:57.474 --> 48:22.046
+and the emotional depth that you bring to it and just the purposefulness. And I think if it's not clear to people, it absolutely should be stated, but I think it's abundantly clear that just the amount of time and thinking that you put into things is, it is the ultimate mark of respect. So I'm just extraordinarily grateful for your friendship and for this conversation.
+
+48:22.210 --> 48:34.238
+proud to be your friend. And I just wish you showed me the same kind of respect by wearing a suit and make your father proud. Maybe next time. Next time, indeed. Thanks so much, my friend. Thank you. Thank you, Andrew.

@@ -1,0 +1,298 @@
+WEBVTT
+
+00:00.226 --> 00:29.374
+Welcome to Huberman Lab Essentials, where we revisit past episodes for the most potent and actionable science-based tools for mental health, physical health, and performance. I'm Andrew Huberman, and I'm a professor of neurobiology and ophthalmology at Stanford School of Medicine. And now, my conversation with Dr. Aliyah Crum. Well, great to have you here. Great to be here. Yeah. Just to start off, you know, you've talked a lot and worked a lot on the science of mindsets.
+
+00:29.858 --> 00:48.254
+Do you define for us what is a mindset and what sort of purpose does it serve? We define mindsets as core beliefs or assumptions that we have about a domain or category of things that orient us to a particular set of expectations,
+
+00:48.418 --> 01:08.126
+explanations and goals. I can distill it down for you. So mindsets are an assumption that you make about a domain. So take stress, for example, the nature of stress. What's your sort of core belief about that? Do you view stress as enhancing, good for you, or do you view it as debilitating and bad for you?
+
+01:08.322 --> 01:37.758
+Those mindsets, those core beliefs, orient our thinking. They change what we expect will happen to us when we're stressed, how we explain the occurrences that happen or unfold when we're stressed, and also change our motivation for what we engage in when we're stressed. Sort of distilling down those core assumptions that really shape and orient our thinking and action. I've heard you say before that mindsets simplify life in some way by constraining the number of things that we have to consider.
+
+01:38.242 --> 01:58.078
+And it sounds to me like we can have mindsets about many things. As you said, many people are familiar with our colleague Carol Dweck's notion of growth mindset, that if we're not proficient at something that we should think about not being proficient yet, that we are on some path to proficiency. But what are some examples of mindsets that we're
+
+01:58.178 --> 02:25.950
+And how early do these get laid down or do we learn them from our parents? Yeah, sure. So I think it's important with Carol Dweck's work, a lot of people kind of get focused on growth motivation and all these things. But her work really originated from thinking about what she called those implicit theories or core beliefs about the nature of intelligence or ability. So do you believe that your baseline levels of intelligence are fixed,
+
+02:26.050 --> 02:44.414
+static set throughout the rest of your life? Or do you believe that they can grow and change? And the reality is, as it always is, complex, and it's a bit of both, and it's all these things. But as humans, we need these simplifying systems to help us understand a complex reality. But they're not
+
+02:44.610 --> 03:08.990
+inconsequential, right? They matter in shaping our motivation. And as she has shown, if you have the mindset that intelligence is malleable, you're motivated to work harder to grow your intelligence. If you have the mindset that it's fixed, why work harder at math if you don't think you're good at it? What our work has aimed to do is to expand the range of mindsets that we
+
+03:09.186 --> 03:29.886
+are studying, focused on, and also understand and expand the range of effects that they have. So I mentioned mindsets about stress. We've also looked at mindsets about food and healthy eating. So do you have the mindset that foods that are good for you, healthy foods, are disgusting and depriving?
+
+03:30.466 --> 03:58.782
+Or do you have the mindset that healthy foods are indulgent and delicious? Generally, people, at least in our culture in the West, have this view that stress is debilitating, healthy foods are disgusting and depriving. And those mindsets, whether or not they're true or false, right or wrong, they have an impact. And they have an impact not just through the motivational mechanisms that Dweck and others have studied, but as our lab has started to reveal, they also shape the
+
+03:59.010 --> 04:23.902
+physiological mechanisms by changing what our bodies prioritize and prepare to do. We've looked at mindsets about exercise. Do you feel like you're getting enough or do you feel like you're getting an insufficient amount to get the health benefits you're seeking? Mindsets about illness. Do you view cancer as an unmitigated catastrophe or
+
+04:24.226 --> 04:37.822
+Or do you view cancer as manageable? We've looked at mindsets about symptoms and side effects. Do you view side effects as a sign that the treatment is harmful? Or do you view side effects as a sign that the treatment is working?
+
+04:37.954 --> 05:07.710
+Again, these are sort of core beliefs or assumptions you have about these domains or categories, but they matter because they're shaping, they're synthesizing and simplifying the way we're thinking, but they're also shaping what we're paying attention to, what we're motivated to do, and potentially even how our bodies respond. I'd love to talk about this notion of how our mindset shaping, how our bodies respond. And maybe as an example of this, if you could share with us this now famous study that you're
+
+05:07.938 --> 05:10.494
+you've done with a milkshake study,
+
+05:10.658 --> 05:40.624
+Certainly, yeah. This was a study that I ran as a graduate student at Yale University. I was working with Kelly Brownell and Peter Salovey. Peter Salovey had done a lot of work on really coining the term emotional intelligence. He's now the president of Yale, right? He's now the president of Yale, yes. So he's done well. He's done well for himself and for the university and society. I had come in doing some previous work on mindsets about exercise and placebo effects in exercise, and it really occurred to me that there was a very simple question that hadn't been proposed.
+
+05:40.624 --> 06:09.086
+yet. And that was, do our beliefs about what we're eating change our body's physiological response to that food, holding constant the objective nutrients of that thing? So that question might sound outrageous at first, but it's really not outrageous if you're coming from a place of having studied in depth placebo effects. Placebo effects are this robust demonstration in which the
+
+06:09.378 --> 06:36.126
+Simply taking a sugar pill, taking nothing, under the impression that it's a real medication that might relieve your asthma, reduce your blood pressure, boost your immune system, can lead to those physiological effects, even though there's no objective nutrients. And we have more evidence on placebo effects than we have for any other drug because of the clinical trial process in which all new drugs and medication are
+
+06:36.290 --> 07:01.694
+our medications are required to outperform a placebo effect. So we have a lot of data on the placebo effect. But anyways, going back to this question, it was like, all right, we've moved from, you know, medications solving our health crises to behavioral medicine solving our health crises, increase people's exercise, get them to eat better. To what degree are these things influenced by our mindsets or beliefs about them?
+
+07:01.794 --> 07:11.454
+So to test this question, we ran a seemingly simple study. This was done at the Yale Center for Clinical and Translational Research.
+
+07:11.746 --> 07:41.694
+And we brought people into our lab under the impression that we were designing different milkshakes with vastly different metabolic concentrations, nutrient concentrations, that were designed to meet different metabolic needs of the patrons of the hospital, right? So you're going to come in, you're going to taste these milkshakes, and we're going to measure your body's physiological response to them. This was a within-subjects design, so it was the same people consuming two different milkshakes,
+
+07:42.018 --> 08:02.462
+two different time points separated by a week. And at one time point, they were told that they were consuming this really high-fat, high-caloric, indulgent milkshake. It was like a 620-calorie, super-high-fat and sugar. At the other time point, they were told that it was a low-fat, low-calorie, sensible sort of diet shake.
+
+08:02.626 --> 08:27.934
+In reality, it was the exact same shake. It was right in the middle. It was like 300 calories, moderate amount of fats and sugars. And we were measuring their body's gut peptide response to this shake. And in particular, we were looking at the hormone ghrelin. Medical experts call it the hunger hormone, rises in ghrelin, signal, you know, seek out food. And then theoretically, in proportion, the amount of calories you consume,
+
+08:28.034 --> 08:54.622
+ghrelin levels drop, signaling to the brain, okay, you don't need to eat so much anymore, you can stop eating, and also revving up the metabolism to burn the nutrients that were just ingested. What we found in this study was that when people thought they were consuming the high-fat, high-calorie, indulgent milkshake, their ghrelin levels dropped at a three-fold rate stronger than when they thought they were consuming the sensible shake.
+
+08:55.010 --> 09:18.718
+So essentially their bodies responded as if they had consumed more food, even though it was the exact same shake at both time points. It was, to my knowledge, one of the first studies to show any effects of just believing that you're eating something different on your physiology. The second piece was really important as well, and especially for me, this was one study that really touched
+
+09:18.850 --> 09:31.742
+transformed the way I think about how I approach eating. And that was the manner in which it affected our physiology was somewhat counterintuitive. So I had gone in thinking,
+
+09:31.970 --> 10:00.030
+The better mindset to be in when you eat is that you're eating healthy, right? Like, you know, just makes sense. Like placebo effects, think you're healthy, you'll be healthy, you know? But that was a far too simplistic way of thinking about it. And in fact, it was the exact opposite. When these participants thought they were eating sensibly, their bodies left them still feeling physiologically hungry, right? Not satiated, which could potentially be corresponding to slower metabolism and so forth.
+
+10:00.706 --> 10:22.558
+So if you're in the interest of maintaining or losing weight, what's the best mindset to be in? It's to be in a mindset that you're eating indulgently, that you're having enough food, that you're getting enough. And at least in that study, we showed that has a more adaptive effect on ghrelin responses. I'd like to take a quick break and acknowledge one of our sponsors, Function.
+
+10:22.690 --> 10:40.670
+Last year, I became a Function member after searching for the most comprehensive approach to lab testing. Function provides over 100 advanced lab tests that give you a key snapshot of your entire bodily health. This snapshot offers you with insights on your heart health, hormone health, immune functioning, nutrient levels, and much more.
+
+10:40.802 --> 10:57.438
+Function not only provides testing of over 100 biomarkers key to your physical and mental health, but it also analyzes these results and provides insights from top doctors who are expert in the relevant areas. For example, in one of my first tests with Function, I learned that I had elevated levels of mercury in my blood.
+
+10:57.538 --> 11:16.734
+Function not only helped me detect that, but offered insights into how best to reduce my mercury levels, which included limiting my tuna consumption. I've been eating a lot of tuna, while also making an effort to eat more leafy greens and supplementing with NAC and acetylcysteine, both of which can support glutathione production and detoxification. And I should say, by taking a second Function test,
+
+11:16.898 --> 11:33.150
+that approach worked. Comprehensive blood testing is vitally important. There's so many things related to your mental and physical health that can only be detected in a blood test. The problem is blood testing has always been very expensive and complicated. In contrast, I've been super impressed by function simplicity and
+
+11:33.250 --> 12:01.694
+at the level of cost. It is very affordable. As a consequence, I decided to join their scientific advisory board and I'm thrilled that they're sponsoring the podcast. If you'd like to try Function, you can go to functionhealth.com slash Huberman. Function currently has a wait list of over 250,000 people, but they're offering early access to Huberman podcast listeners. Again, that's functionhealth.com slash Huberman to get early access to Function. It's really remarkable. It raises a question that, um,
+
+12:02.082 --> 12:30.686
+I just have to ask, you've got people who are strictly plant-based, you've got people who are omnivores, you've got people who are carnivores, you have every variation, you have intermittent fasting, also called time-restricted feeding. And it seems like once a group kind of plugs into a particular mode of eating that they feel works for them, for whatever reason, energy-wise, mentally, maybe they're looking at their blood profiles, maybe they're not. Each camp seems to tout all the health benefits and how great they feel
+
+12:30.914 --> 12:50.846
+Could it be that mindset effects are involved there? It does matter what it is and it matters what you think about that diet and what others around you and in our culture think about that diet because those social contexts inform our mindsets. Our mindsets...
+
+12:50.946 --> 13:14.590
+interact with our physiology in ways that produce outcomes that are really important. So let's not get dualistic and say, you know, it's either all in the mind or not in the mind. Let's also not be unnecessarily combative and say, oh, it should be all plant-based or, you know, keto or whatever. It's all of those things are a combined product of what you're actually doing.
+
+13:14.690 --> 13:41.982
+and what you're thinking about. If you believe in it, if you don't, if you're skeptical, or, you know, in some cases, you think you should be eating a certain way, and then you don't live up to that, it might have an adverse effect because of the stress and the anxiety associated with that. Yeah, there was a paper a year or two ago published in Science Magazine about brain regions involved in psychogenic fever, that if people or
+
+13:42.722 --> 14:01.598
+you can actually do this in animal models to think that they are sick. You get a genuine one to three degree increase in body temperature, one to three degrees Fahrenheit increase in body temperature is pretty, pretty impressive. Yeah. And I guess it plays into, you know, symptomology generally. So I'm a believer in belief effects. Well, it's also, and I just say that, you know,
+
+14:01.858 --> 14:28.542
+the term that we use in the, in our field is nocebo effect for that, which is sort of the placebo's ugly stepsister. You know, it's when negative beliefs cause negative consequences. So you are told you will have, you know, it's, it's very well demonstrated that when people are told about certain side effects, they're far more likely to experience those side effects. Love for you to tell us about, um,
+
+14:28.930 --> 14:56.702
+The hotel workers' study. Yeah, no, I think this is a really good example of this phenomenon, right, that the total effect of anything is a combined product of what you're doing and what you think about what you're doing. And we found a group of people who were getting a lot of exercise but weren't aware of it, a group of hotel housekeepers. So these are women working in hotels who were on their feet all day long,
+
+14:56.866 --> 15:16.766
+It was clear that they were getting above and beyond at least the Surgeon General's requirements at that time, which were to accumulate 30 minutes of moderate physical activity per day. But what was interesting was when we went in and surveyed them and asked them, hey, how much exercise do you think you're getting? A third of them said 10.
+
+15:16.930 --> 15:37.694
+And the average response was like a three on a scale of zero to 10. So it's clear that even though these women were active, they didn't have that mindset, right? They had the mindset that their work was just work, hard, maybe thankless work that led them to feel tired and, you know, in pain at the end of the day.
+
+15:37.922 --> 15:59.166
+but not that it was good for them, that it was good exercise. So what we did was we took these women and we randomized them into two groups, and we told half of them that their work was good exercise. In this case, it was true factual information. We oriented them to the Surgeon General's guidelines. We oriented them to the benefits that they should be receiving.
+
+15:59.362 --> 16:19.486
+And then we had measured them previously on their physiological metrics like weight and body fat and blood pressure. And we came back four weeks later and we tested them again. And what we found was that these women, even though they hadn't changed anything in their behavior, they had benefits to their health. So they lost weight.
+
+16:19.618 --> 16:44.350
+They decrease their systolic blood pressure by about 10 points on average. What this reveals is that we have to be more thoughtful in how we go about motivating people to exercise or teaching people about the benefits. Our current approach is just to basically tell people writ large, you know, here's what you need to get. The intention with that is to motivate them.
+
+16:44.450 --> 17:12.926
+because public health officials think, well, if I just tell people you need to get more exercise because it's good for you, they'll do it. We know now that that doesn't work, that these guidelines are not motivational. They don't change our behavior. And what our work adds to that is that not only is it not motivational, it also creates potentially a mindset that makes people worse off than they were without knowing about the guidelines. I'd love for us to talk about stress.
+
+17:13.122 --> 17:41.662
+because your lab has worked extensively on this. Could you tell us at some point about the study that you've done about informing people about the different effects of stress? But also, if there's an opportunity, some takeaways about how we could each conceptualize stress in ways that would make it serve us better. Great. Yeah. So I had, you know, I'd come off the heels of doing some research in exercise and diet. The obvious next step
+
+17:41.858 --> 18:03.838
+thing to think about was stress, right? The public health message was very clear, right? That stress was bad, right? Unmitigated and harmful on our health, our productivity, our relationships, our fertility, our cognition, you name it, right? The messages that were out there
+
+18:03.938 --> 18:33.566
+by and large, oversimplified messages focused on the damaging consequences of stress. But as you know, if you actually dive deeper into the literature on stress and the origins of stress, what you find is that the literature, like most literatures, is not so clear cut. And in fact, there's a large amount of evidence to support the fact that the experience of stress, meaning encountering adversity or challenge in one's goal-related efforts,
+
+18:33.762 --> 18:34.878
+Does not...
+
+18:35.234 --> 19:05.200
+have to be debilitating. And in many cases, the body's response was designed to enhance our ability to manage at those moments, right? So some research showing that stress narrows our focus, increases our attention, speeds up the rate at which we're able to process information. There was some research out there showing this phenomenon of physiological toughening, the process by which the release of catabolic hormones in the stress response recruit or activate anabolic hormone
+
+19:05.200 --> 19:23.358
+which help, as you know, build our muscles, build our neurons to help us grow and learn. And there was a whole body of emerging research on post-traumatic growth or this phenomenon in which even the experience of the most traumatic stressors, the most chronic and enduring stressors,
+
+19:23.906 --> 19:47.742
+could lead not to destruction, but in fact to the exact opposite, to an enhanced sense of connection with our values, connection to others, sense of joy and passion for living. My work since then has been not to try to argue that stress is enhancing and not debilitating, but try to point out that the true nature of stress is
+
+19:47.842 --> 20:14.654
+is a paradox. The true nature of stress is manifold and complex and lots of things can happen. But to question what's the role of our mindset about stress in shaping our response to stress? So some work had already been done looking at your perception of the stressor, right? So do you view a stressor like a challenging exam or a health diagnosis as a challenge or a threat?
+
+20:14.754 --> 20:40.926
+And that had shown pretty convincingly that when you view stressors more as a challenge, less as a threat, that your brain and body responds more adaptively. What our question was, was to take the sort of psychological construal one step higher in abstraction. So not just the stressor, but the nature of stress, right? Do you, you know, at that core level, do you view stress as something that's
+
+20:41.954 --> 21:01.726
+is going to kill us and therefore should be avoided? Or do you view stress as natural and something that's going to enhance us? And so we set out to design a series of studies to test the extent to which these mindsets about stress mattered. And we found in a number of correlational studies that that
+
+21:01.826 --> 21:27.070
+A more enhancing stress mindset was linked to better health outcomes, better well-being, and higher performance. So then we set out to see if we could change people's mindsets. And in our first test of this, we decided to do so by creating these multimedia films that showcased research, anecdotes, facts about stress, all true,
+
+21:27.170 --> 21:33.406
+but oriented towards one mindset or the other, right? So you can imagine one set of films showed
+
+21:33.698 --> 22:02.750
+Basically the messages that were out there in the public health context. The other showed, hey, you know, stress has been linked to these things, but in fact the body stress response was designed to do this. Did you know it could do that? And we had empowering images like LeBron James making the free throw in the final minute versus missing it. So either people saw a video that basically made it seem like stress will diminish you, crush you, reduce you, or a video very similar, stress will...
+
+22:02.850 --> 22:15.262
+grow you, bring out your best, and maybe even take you to heightened levels of performance that you've never experienced before. Exactly. And our question was, does orienting people to different mindsets
+
+22:15.458 --> 22:37.310
+change how they respond to stress. So this study was done in the wake of the 2008 financial crisis. We worked with UBS, a company, a financial service company that was undergoing pretty massive amounts of layoffs. So these employees were stressed about being laid off. They were taking on more pressure. It was just a tough time.
+
+22:37.410 --> 23:07.006
+And we randomized them into three conditions. And this was all pre-work before getting a training on stress. But the three different conditions, some watched no videos, some watched the stress will crush you videos, and some watched the stress could enhance you videos. And what we found was that just, you know, it was a total of nine minutes of videos over the course of the week led to changes in their mindsets about stress, which led to changes in their...
+
+23:07.138 --> 23:22.078
+physiological symptoms associated with stress. So people who watched the enhancing films had fewer back aches, muscle tension, insomnia, racing heart, and so forth. And they also reported performing better at work.
+
+23:22.274 --> 23:48.158
+compared to those who watch the debilitating videos. Now, interestingly, we didn't make anyone worse with the debilitating videos, which was good. We had told the IRB we didn't expect that because that message was already out there. That's what they were already seeing. That wasn't new to them. It was more this enhancing perspective that turned out to be inspiring. People get this wrong sometimes. They think that I'm saying...
+
+23:48.898 --> 24:13.886
+that a stress-as-enhancing mindset means you should like stress. That's not what we're saying, right? Having a stress-as-enhancing mindset doesn't mean the stressor is a good thing, right? It doesn't mean that getting a cancer diagnosis is a good thing or being in abject poverty is a good thing. These are not good things. But the experience of the stress associated with that, the challenge, the adversity, that experience is
+
+24:14.402 --> 24:43.294
+can lead to enhancing outcomes with respect to not just our cognition, but our health, our performance, and our well-being. How does that work, right? Well, it works through a number of different pathways. One is that it changes fundamentally what we're motivated to do. So if you, you know, just imagine we're stressed about something and you think that stress is bad, then what's your motivation, right? Your motivation is...
+
+24:43.394 --> 25:12.254
+Well, first you get worried about the stress, right? And second is your reaction is typically to do one of two things. It's either to freak out and do everything you can to make sure that this doesn't affect you negatively or to check out and say, oh, it's not a big deal. I'm not going to deal with it. You're basically in denial. So people who have a stress is debilitating mindset, and we've shown this in our research, tend to go to one or the other of those extremes. They freak out or they check out. Why? Because if stress is bad, you need to either...
+
+25:12.418 --> 25:37.822
+get rid of it and deal with it or it needs to not exist, right? If you have a stress-as-enhancing mindset, the motivation changes, right? Then the motivation is, how do I utilize the stress to realize the enhancing outcomes? What can we do here, right, to learn from this experience to make us stronger, fitter, you know, have better science and treatments for the future, right?
+
+25:38.050 --> 26:05.982
+deepen my relationships with others, improve my priorities and so forth. So the motivation changes. The affect around it changes. It doesn't make it easy to deal with. But what we've shown in our research is that people who have a stress-as-enhancing mindset have more positive affect, not necessarily less negative affect. And it potentially changes physiology. We have a few studies that show that people who are...
+
+26:06.338 --> 26:20.414
+you know, inspired to adopt more enhancing mindsets, have more moderate cortisol response, and they have higher levels of DHEA levels in response to stress. I'd like to take a quick break and acknowledge our sponsor,
+
+26:20.514 --> 26:44.222
+AG1. AG1 is a vitamin mineral probiotic drink that also includes prebiotics and adaptogens. As many of you know, I've been taking AG1 for more than 13 years now. I discovered it way back in 2012, long before I ever had a podcast, and I've been drinking it every day since. For the past 13 years, AG1 has been the same original flavor. They've updated the formulation, but the flavor has always remained the same.
+
+26:44.386 --> 27:14.352
+And now for the first time, AG1 is available in three new flavors, berry, citrus, and tropical. All the flavors include the highest quality ingredients in exactly the right doses to together provide support for your gut microbiome, support for your immune health, and support for better energy and more. So now you can find the flavor of AG1 that you like the most. While I've always loved the AG1 original flavor, especially when I mix it with water and a little bit of lemon or lime juice, that's how I've been doing it for basically 13 years, now I really enjoy the new berry flavor in particular. It tastes great, and I don't
+
+27:14.352 --> 27:39.582
+I don't have to add any lemon or lime juice. I just mix it up with water. If you'd like to try AG1 and these new flavors, you can go to drinkag1.com slash Huberman to claim a special offer. Right now, AG1 is giving away an AG1 welcome kit that includes five free travel packs and a free bottle of vitamin D3K2. Again, go to drinkag1.com slash Huberman to claim the special welcome kit of five free travel packs and a free bottle of vitamin D3K2.
+
+27:40.354 --> 28:01.182
+Today's episode is also brought to us by Carbon. Carbon is a diet coaching app built by nutrition expert, Dr. Lane Norton. I've used Carbon for more than three years now, and I have to say, it's among the most powerful tools for nutrition coaching and effective weight management that I've ever encountered, especially if your goal is like mine, which is to maintain or build muscle while also losing fat.
+
+28:01.314 --> 28:18.782
+Now I'm turning 50 years old this September, and even though I consider myself in pretty good shape, and I've been training for a long time and trying to eat right, one of my goals is to hit 50 in the absolute best shape of my life. To do that, I'm dialing in my nutrition using carbon with the goals of increasing my muscle mass, increasing my strength, while also
+
+28:18.882 --> 28:44.318
+decreasing my body fat. I've been raving about the Carbon app to friends and to family and to members of my Huberman Lab team over the last few years. And everyone who's joined me in using it has found it to be tremendously useful. In fact, some of those people are going to join me in my approaching 50 fitness goals and body composition goals. My birthday is September 26th. And so I'd like to invite you to join if you would like to improve your body composition and fitness to also use the Carbon app.
+
+28:44.514 --> 29:03.678
+Now, there are a lot of apps out there that are focused on fitness and nutrition, but what makes Carbon different is that it doesn't just hand you a one size fits all plan. It actually learns your metabolism over time and it adapts your program based on your results. So if you're looking to take a smarter, more personalized approach to your nutrition, I can't recommend the Carbon app enough.
+
+29:03.810 --> 29:29.726
+To try Carbon, you can go to joincarbon.com slash Huberman. While Carbon does not typically offer trials or promotions, they've agreed to give a free seven-day trial to all Huberman podcast listeners. Again, that's joincarbon.com slash Huberman to get a seven-day free trial. We had a guest on this podcast. He actually is a PhD scientist who runs the UFC Performance Training Institute. His name is Duncan French.
+
+29:29.922 --> 29:57.502
+And his graduate work at UConn stores was very interesting. It was in exercise science and physiology. What he showed was that if you could spike the adrenaline response, I think they did this through first time skydive or something like that, that testosterone went up. Now this spits in the face of everything that we're told about stress and testosterone levels, right? So it turns out that at least in the short term, that a very stressful event happened
+
+29:58.082 --> 30:27.934
+can raise anabolic hormones. And I think that people forget at a mechanistic level that adrenaline is epinephrine and epinephrine is derived, biochemically derived from the molecule dopamine. If you look at the pathway and even just Google it and go images, you'll see that adrenaline is made from dopamine and dopamine and these anabolic hormones have a very close, they're sort of close cousins. They work together in the pituitary and hypothalamus. So it makes sense that one could leverage stress toward
+
+30:28.066 --> 30:49.182
+growth. But what's again, remarkable to me is that all of these brain structures that control dopamine, epinephrine, testosterone, and estrogen, they're all thought to be in the subconscious, meaning below our, our ability to flip a switch and turn them on or off. And yet mindset seemed to impact them. So I, I've all that to say that there's a,
+
+30:50.178 --> 31:08.318
+clear mechanistic basis by which this could all work? The way I think about mindset is that it's, mindsets are kind of a portal between conscious and subconscious processes. They operate as a default setting of the mind, right? So if
+
+31:08.610 --> 31:36.606
+You know, if sort of programmed in there, you have stress equals bad. That's been programmed in through our upbringing, through public health messages and through media and other things. And it kind of sits there as an assumption in the brain. And the brain is then figuring out how should it respond to this situation. And if the assumption, the default, the programming is stress is bad, that's going to
+
+31:36.898 --> 32:05.438
+through our subconscious trigger all the things that's like, okay, well, I need to like, you know, rev up the things that protect me versus rev up the things that help me grow. Just talking about this, right, for your listeners, they're now invited to bring their stress mindsets up to the consciousness and say, what is my stress mindset? How am I thinking about stress? Can I reprogram that? Can I start to think about it as more enhancing? Yeah.
+
+32:05.570 --> 32:33.182
+that takes a little bit of a conscious work potentially, but then once you do that, it can, that can kind of operate in the background, influencing how your body responds. And you don't have to say, okay, I'm stressed. I better tell my, you know, anabolic hormones. That doesn't work that way. But these mindsets can help with the translational process. How should we, the listeners think about stress? Is there a,
+
+32:33.442 --> 33:02.878
+a short list of ways that we can leverage stress to our advantage. Yeah, and that's an important, important nuance in your language, which is people have, by and large, come from a place of how do you manage stress? How do you cope with it? Which implies, how do you fight against it? And yeah, the real challenge is how do we leverage it? How do we utilize it? How do we work with it? And I have a lot of thoughts on this. The first and most important thing is to
+
+33:03.202 --> 33:32.126
+Clarify our definition of stress. The negative stress mindset is so insidious that now people define stress with its negative consequences. So the first step is to decouple that and to realize that stress is a neutral, yet to be determined effect of experiencing or anticipating adversity in your goal-related efforts.
+
+33:32.226 --> 33:54.174
+So let me unpack that a little more. You can be in the midst of it or you could just be worried about something happening. That's one aspect. Second is adversity or challenge. So something that's working against you. But the third piece is critical and that is in your goal related efforts. What that means is that we only stress about things we care about.
+
+33:54.274 --> 34:04.030
+And we don't stress about things we don't care about. So then the question becomes, OK, if that's true, how can I better utilize
+
+34:04.162 --> 34:33.662
+or leverage, or respond to the inevitable stresses that we're going to experience. We've developed a three-step approach to adopting a stresses-enhancing mindset. And briefly, the first step is to just acknowledge that you're stressed. The second step is to welcome it, because inherently in that stress is something you care about. And then the third step is to utilize the stress response to achieve the thing you care about,
+
+34:34.306 --> 35:02.046
+not spend your time, money, effort, energy, trying to get rid of the stress. Does that make sense? Makes sense. And I love it as somebody whose laboratory studies the physiological effects of stress, the effects that impress me the most are, for instance, the narrowing of visual attention that then drives a capacity to parse time more finely, which then drives the capacity to process information faster. It's almost like a superpower. Right. And
+
+35:02.338 --> 35:30.302
+What I like so much about that framework is that the stress response is very generic. Unlike the relaxation response, we don't actually have to train up the stress response. So we all kind of get this as a freebie. And then it sounds like it's a question of what we end up doing with that. Right. Treat yourself like a scientist. Look at your life. Look at your mindsets. See what's serving you. See what isn't. Find more useful, adaptive, and empowering mindsets and live by those.
+
+35:30.594 --> 35:59.422
+What are the mindsets that you try and adopt on a regular basis? The guiding light for me has been an undercurrent of understanding that our mindsets matter. I think I got that very clearly and deeply as a child, both through my experiences as an athlete. You know, I know many of your listeners are athletes. Any athlete knows that you can be the same physical being from one day to the next, one moment to the next, and perform things.
+
+35:59.522 --> 36:29.438
+completely differently, just depending on what you're thinking. I was a gymnast growing up. And if you can't visualize, if you can't see something in your mind, you have no chance when you get up there on the balance beam, right? And I also, my father was a martial artist, a teacher of meditation. So this kind of mind-body work was baked into me from an early age. And I think what I've done recently is to try to understand it scientifically, and more importantly, to figure out how can
+
+36:29.570 --> 36:58.750
+how can we do better with this? Right. How can we, you know, we're all talking about AI taking over the world and technology, this and all the personalized medicine that, and it's like, we have done so little, relatively so little with the human resource, our human brains that the, you know, the, the potential for which is so great. And we've done almost nothing, you know, take the placebo effect, uh,
+
+36:58.882 --> 37:20.318
+We know a lot about what it is. We've done almost nothing to leverage that in medicine consciously and deliberately. So my, what keeps me going, what gets me through the hard times is just that burning question of what is going on here and what more can I do with the power of my mind? Well, I and
+
+37:20.738 --> 37:36.702
+Millions of other people are so grateful that you do this work. It's so important and it's truly unique. Where can people find you? Ask questions, find your papers, learn more. Yeah, all our papers and materials and interventions are housed on our website.
+
+37:37.058 --> 38:06.910
+mbl.stanford.edu. We also have a link there that takes you to Stanford SPARC, which stands for Social Psychological Answers to Real World Questions. We have a lot of toolkits on that website, including a toolkit for this rethink stress approach of acknowledging, welcoming, and utilizing your stress. We will provide links to all of those for our listeners and viewers. Thank you so much for taking time out of your exceedingly busy schedule to
+
+38:07.266 --> 38:31.070
+Talk to us about these ideas. I learned so much. I'm going to definitely think about what is the effect of my mindset about blank in every category of life and really just on behalf of everybody and myself. Thank you so much. Yeah, thank you. And I guess I just want to end by saying I think this work is really the tip of the iceberg of what can and should be done. And so I really invite your audience.
+
+38:31.330 --> 38:51.038
+you, your listeners and all, you know, anybody who's inspired by this work, if they want to share stories or want to partner on a collaboration to please reach out. Great. Well, and the comment section on YouTube is a great place to do that as well. You will hear from them. Great. Thank you so much, Allie. Thank you.

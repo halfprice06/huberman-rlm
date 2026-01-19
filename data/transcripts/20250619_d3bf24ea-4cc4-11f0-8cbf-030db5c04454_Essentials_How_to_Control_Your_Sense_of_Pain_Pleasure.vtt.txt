@@ -1,0 +1,256 @@
+WEBVTT
+
+00:00.226 --> 00:29.374
+Welcome to Huberman Lab Essentials, where we revisit past episodes for the most potent and actionable science-based tools for mental health, physical health, and performance. I'm Andrew Huberman, and I'm a professor of neurobiology and ophthalmology at Stanford School of Medicine. Today, we continue our discussion of the senses, and the senses we are going to discuss are pain and pleasure. Pain and pleasure reflect two opposite ends of a continuum,
+
+00:29.538 --> 00:55.870
+a continuum that involves detection of things in our skin and the perception, the understanding of what those events are. Our skin is our largest sensory organ and our largest organ indeed. It is much larger than any of the other organs in our body. And it's an odd organ if you think about it. It has so many functions. It acts as a barrier between our organs and the outside world.
+
+00:56.258 --> 01:26.110
+It harbors neurons, nerve cells that allow us to detect things like light touch or temperature or pressure of various kinds. And it's an organ that we hang ornaments on. People put earrings in their ears. People decorate their skin with tattoos and inks and other things. And it's an organ that allows us to experience either great pain or great pleasure. So it's a multifaceted organ
+
+01:26.210 --> 01:51.230
+And it's one that our brain needs to make sense of in a multifaceted way. I think we all intuitively understand what pleasure and pain are. Pleasure generally is a sensation in the body and in the mind that leads us to pursue more of whatever is bringing about that sensation. And pain is also a sensation in the body and in the mind that in general,
+
+01:51.682 --> 02:14.494
+leads us to want to withdraw or move away from some activity or interaction. Scientists would call this appetitive behaviors, meaning behaviors that lead us to create an appetite for more of those behaviors and aversive behaviors, behaviors that make us want to move away from something. The organ that we call the skin, as I mentioned earlier, is the largest organ in our body.
+
+02:14.626 --> 02:43.486
+And throughout that organ, we have neurons, little nerve cells. Now, to be really technical about it, and the way I'd like you to understand it is that the so-called cell body, meaning the location of a cell in which the DNA and other goodies, the kind of central factory of the cell, that actually sits right outside your spinal cord. So all up and down your spinal cord on either side are these little blobs of neurons, little collections of neurons. They're called DRGs.
+
+02:44.066 --> 03:09.022
+dorsal root ganglia. A ganglion is just a collection or a clump of cells. And those DRGs are really interesting because they send one branch that we call an axon, a little wire out to our skin. And they have another wire from that same cell body that goes in the opposite direction, which is up to our brain and creates connections within our brain in the so-called brainstem.
+
+03:09.570 --> 03:35.934
+Okay, these wires are positioned within the skin to respond to mechanical forces. So maybe light touch. Some will only send electrical activity up toward the brain in response to light touch. Others respond to coarse pressure, to hard pressure, but they won't respond to a light feather. Others respond to temperature. So they will respond to the presence of heat.
+
+03:36.034 --> 03:53.726
+or the presence of cold. And still others respond to other types of stimuli like certain chemicals on our skin. So these neurons are amazing. They're collecting information of particular kinds from the skin throughout the entire body and sending that information up toward the brain.
+
+03:53.826 --> 04:21.534
+And what's really incredible, I just want you to ponder this for a second. What's really incredible is that the language that those neurons use is exactly the same. The neuron that responds to light touch sends electrical signals up toward the brain. The neurons that respond to cold or to heat or to habanero pepper, they only respond to the particular thing that evokes the electrical response. I should say that they
+
+04:21.762 --> 04:50.206
+only respond to the particular stimulus, the pepper, the cold, the heat, et cetera, that will evoke an electrical signal. But the electrical signals are a common language that all neurons use. And yet, if something cold is presented to your skin like an ice cube, you know that that sensation, that thing is cold. You don't misperceive it as heat or as a habanero pepper, okay? So that's amazing. What that means is that there must be another element
+
+04:50.306 --> 05:15.006
+in the equation of what creates pleasure or pain. And that element is your brain. Your brain takes these electrical signals and interprets them partially based on experience, but also there are some innate, meaning some hardwired aspects of pain and pleasure sensing that require no experience whatsoever. A child doesn't have to touch a flame, but once, and the very first time they will withdraw their hand from the flame.
+
+05:15.426 --> 05:44.702
+The pain and pleasure system don't need prior experience. What they need is a brain that can interpret these electrical signals and somehow create what we call pleasure and pain out of them. So what parts of the brain? Well, mainly it's the so-called somatosensory cortex, the portion of our neocortex, which is on the outside of our brain, the kind of bumpy part. And in your somatosensory cortex, you have a map of your entire body surface. That map is called a homunculus.
+
+05:44.802 --> 06:14.718
+It's your representation of touch, including pleasure and pain, but it's not randomly organized. It's highly organized in a very particular way, which is that the areas of your skin that have the highest density of these sensory receptors are magnified in your brain. What are the areas that are magnified? Well, the lips, the face, the tips of the fingers, the feet, and the genitals. And that's because the innervation
+
+06:14.818 --> 06:44.734
+the number of wires that go into those regions of your body far exceeds the number of wires for sensation of touch that go to other areas of your body. You can actually experience this in real time right now by doing a simple experiment that we call two point discrimination. Two points discrimination is your ability to know whether or not two points of pressure are far apart near each other or
+
+06:45.186 --> 07:01.566
+you actually could perceive incorrectly as one point of pressure. You might want a second person to do this experiment. That person would take two fine points, so it could be two pencils or pens or the backs of pens. If you were to close your eyes and I were to take these two
+
+07:01.698 --> 07:29.214
+and put their points close together about a centimeter apart and present them to the top of your hand, you, even though your eyes were closed, you would be able to perceive that that was two points of pressure presented simultaneously to the top of your hand. However, if I were to do this to the middle of your back, you would not experience them as two points of pressure. You would experience them as one single point of pressure. In other words, your two point discrimination is better, is higher,
+
+07:29.506 --> 07:58.174
+on areas of your body which have many, many more sensory receptors. Most of us don't really appreciate how important and what a profound influence this change in density of receptors across our body surface has. You've got sensors in the skin and you've got a brain that's going to interpret what's going on with those sensors. And believe it or not, your subjective interpretation of what's happening has a profound influence on your experience of pleasure
+
+07:58.434 --> 08:27.134
+or pain. There are several things that can impact these experiences, but the main categories are expectation. If someone tells you this is going to hurt, I'm going to give you an injection right here, it might hurt for a second. That's very different and your experience of that pain will be very different than if it happened suddenly out of the blue. There's also anxiety, how anxious or how high or low your level of arousal, autonomic arousal. That's going to impact your experience of pleasure or pain.
+
+08:27.458 --> 08:56.478
+how well you slept and where you are in the so-called circadian or 24 hour cycle. Our ability to tolerate pain changes dramatically across the 24 hour cycle. And as you can imagine, it's during the daylight waking hours that we are better able to tolerate. We are more resilient to pain and we are better able to experience pleasure. At night, our threshold for pain is much lower. In other words,
+
+08:56.802 --> 09:25.182
+the amount of mechanical or chemical or thermal, meaning temperature stimuli that can evoke a pain response and how we would rate that response is much lower at night. And in particular in the hours between 2 a.m. and 5 a.m. if you're on a kind of standard circadian schedule. And then the last one is our genes. Pain threshold and how long a pain response lasts is in part dictated by our genes.
+
+09:25.666 --> 09:52.478
+So we have expectation, anxiety, how well we've slept, where we are in the so-called 24-hour circadian time and our genes. So let's talk about expectation and anxiety because those two factors can powerfully modulate our experience of both pleasure and pain in ways that will allow us to dial up pleasure if we like and to dial down pain if indeed that's what we want to do.
+
+09:53.026 --> 09:56.382
+I'd like to take a quick break and acknowledge our sponsor, AG1.
+
+09:56.962 --> 10:26.928
+AG1 is a vitamin mineral probiotic drink that also includes prebiotics and adaptogens. As somebody who's been involved in research science for almost three decades and in health and fitness for equally as long, I'm constantly looking for the best tools to improve my mental health, physical health, and performance. I discovered AG1 back in 2012, long before I ever had a podcast, and I've been taking it every day since. I find it improves all aspects of my health, my energy, my focus, and I simply feel much better when I take it. AG1 uses the highest quality
+
+10:26.928 --> 10:50.750
+ingredients in the right combinations, and they're constantly improving their formulas without increasing the cost. In fact, AG1 just launched their latest formula upgrade. This next-gen formula is based on exciting new research on the effects of probiotics on the gut microbiome, and it now includes several clinically studied probiotic strains shown to support both digestive health and immune system health, as well as to improve bowel regularity and to reduce bloating.
+
+10:50.850 --> 11:20.816
+Whenever I'm asked if I could take just one supplement, what that supplement would be, I always say AG1. If you'd like to try AG1, you can go to drinkag1.com slash Huberman. For a limited time, AG1 is giving away a free one month supply of omega-3 fish oil along with a bottle of vitamin D3 plus K2. As I've highlighted before on this podcast, omega-3 fish oil and vitamin D3 K2 have been shown to help with everything from mood and brain health to heart health to healthy hormone status and much more. Again, that's drinkag1.com.
+
+11:20.816 --> 11:50.558
+to get a free one month supply of omega-3 fish oil, plus a bottle of vitamin D3 plus K2 with your subscription. So let's talk about expectation and anxiety because those two things are somewhat tethered. There are now a number of solid experiments that point to the fact that if we know a painful stimulus is coming, that we can better prepare for it mentally and therefore buffer or reduce the pain response. But essentially,
+
+11:50.690 --> 12:17.022
+Subjects are warned that a painful stimulus is coming. Their subjective experience of that pain is vastly reduced. However, if they are warned just two seconds before that pain arrives, it does not help. It actually makes it worse. And the reason is they can't do anything mentally to prepare for it in that brief two second window. Similarly, if they are warned about
+
+12:17.314 --> 12:46.014
+pain that's coming two minutes before a painful stimulus is coming. That also makes it worse because their expectation ramps up the autonomic arousal. The level of alertness is all funneled toward that negative experience that's coming. So how soon before a painful stimulus should we know about it if the goal is to reduce our level of pain? And the answer is somewhere between 20 seconds
+
+12:46.338 --> 13:15.966
+and 40 seconds is about right. This can come in useful in a variety of contexts, but I think it's important because what it illustrates is that it absolutely cannot be just the pattern of signals that are arriving from the skin. There has to be a subjective interpretation component because we are all different in terms of our pain threshold. First of all, what is pain threshold? Pain threshold has two dimensions. The first dimension is the amount of
+
+13:16.066 --> 13:40.606
+mechanical or chemical or thermal stimulation that it takes for you or me or somebody else to say, I can't take that anymore, I'm done. But there's another element as well, which is how long the pain persists. And to just really point out how varied we all are in terms of our experience of pain, let's look to an experiment. There have been experiments done at Stanford School of Medicine and elsewhere
+
+13:40.738 --> 14:03.102
+which involved having subjects put their hand into a very cold vat of water and measuring the amount of time that they kept their hand in that water. And then they would tell the experimenter how painful that particular stimulus was on a scale of one to 10. That simple experiment revealed that people experience the same thermal, in this case, cold stimulus
+
+14:03.746 --> 14:30.462
+vastly different. Some people would rate it as a 10 out of 10, extreme pain. Other people would rate it as barely painful at all, like a one, other people, a three, other people, a five, et cetera. In fact, there is no objective measure of pain. Similarly, pleasure is something that we all talk about, but we have no way of gauging what other people are experiencing, except what they report through language.
+
+14:30.818 --> 15:00.766
+So rather than focus on just the subjective nature of pain, let's talk about the absolute qualities of pain and the absolute qualities of pleasure so that we can learn how to navigate those two experiences in ways that serve us each better. First of all, I want to talk about heat and cold. We do indeed have sensors in our skin that respond to heat and cold. And one of the best tests of how somebody can handle pain is to ask them to just get into an ice bath.
+
+15:01.026 --> 15:30.718
+Some do it quickly, some do it slowly. Others find the experience of cold to be so aversive that they somehow cannot get themselves in. I think it can be helpful to everyone to know that even though it feels better at a mental level to get into the cold slowly, it is actually much worse from a neurobiological perspective. The neurons that sense cold respond to what are called relative drops in temperature. So it's not about the absolute temperature of the water,
+
+15:30.850 --> 15:58.654
+it's about the relative change in temperature. Therefore, you can bypass these signals going up to the brain with each relative change, one degree change, two degrees change, et cetera, by simply getting in all at once. In fact, it is true that if you get into cold water up to your neck, it's actually much more comfortable than if you're halfway in and halfway out. And that's because of the difference in the signals that are being sent from the cold receptors
+
+15:58.754 --> 16:23.678
+on your upper torso, which is out of the water in your lower torso. Now, I wouldn't want anyone to take this to mean that they should just jump into an unknown body of water. People can have heart attacks from getting into extremely cold water, but it is absolutely true that provided it's safe, getting into a cold water is always going to be easier to do quickly and it's going to be easier to do up to your neck. Now, heat is the opposite. Heat is measured in absolute,
+
+16:23.778 --> 16:47.806
+terms by the neurons. So gradually moving into heat makes sense and finding that threshold, which is safe and comfortable for you, or if it's uncomfortable, at least resides within that realm of safety. One of the most important things to understand about the experience of pain and to really illustrate just how subjective pain really is, is that our experience of pain
+
+16:47.938 --> 17:17.470
+and the degree of damage to our body are not always correlated. A classic example of this was published in the British Journal of Medicine in which a construction worker fell from, I think it was a second story which he was working. And a nail went up and through his boot. And he looked down and he saw the nail going through his boot and he was in absolute excruciating pain. They took him to the hospital.
+
+17:18.114 --> 17:46.462
+And because the nail was so long and because of where it had entered and exited the boot, they had to cut away the boot in order to get to the nail. And when they did that, they revealed that the nail had passed between two of his toes. It had actually failed to impale his body in any way. And yet the view, the perception of that nail entering his boot at one end and exiting the boot at the other was sufficient to create the experience
+
+17:46.594 --> 18:11.230
+of a nail that had gone through his foot. And the moment he realized that that nail had not gone through his foot, the pain completely evaporated. And I want to make sure that I emphasize the so-called psychosomatic phenomenon. I think sometimes we hear psychosomatic and we interpret that as meaning all in one's head. But I think it's important to remember that everything is neural, whether or not it's pain,
+
+18:11.458 --> 18:32.734
+in your body because you have a gaping wound and you're hemorrhaging out of that wound or whether or not it's pain for which you cannot explain it on the basis of any kind of injury, it's all neural. So saying body, brain or psychosomatic, it's kind of irrelevant. And I hope someday we move past that language. So when we hear syndrome,
+
+18:32.866 --> 18:58.846
+And a patient comes into a clinic and says that they suffer, for instance, from something which is very controversial, frankly, like chronic fatigue syndrome. Some physicians believe that it reflects a real underlying medical condition, others don't. However, syndrome means we don't understand. And that doesn't mean something doesn't exist. Fibromyalgia or whole body pain for a long time
+
+18:59.042 --> 19:26.622
+was written off or kind of explained away by physicians and scientists, frankly, my community as one of these syndromes. It couldn't be explained. However, now there is firm understanding of at least one of the bases for this whole body pain. And that's activation of a particular cell type called glia. And there's a receptor on these glia, for those of you that want to know, called the toll four receptor.
+
+19:26.818 --> 19:55.390
+activation of the toll four receptor is related to certain forms of whole body pain and fibromyalgia. Now, what treatments exist for fibromyalgia? There are clinical data using a prescription drug. The drug is called naltrexone. Naltrexone is actually used for the treatment of various opioid addictions and things of that sort. But it turns out that a very low dose has been shown to have some success
+
+19:55.554 --> 20:20.158
+in dealing with and treating certain forms of fibromyalgia. And it has that success because of its ability to bind to and block these toll-4 receptors on glia. There's another approach that one could take and that compound is acetyl-L-carnitine. There is evidence that acetyl-L-carnitine can reduce the symptoms of chronic whole body pain and other certain forms of acute pain.
+
+20:20.258 --> 20:49.982
+at dosages of somewhere between one to three and sometimes four grams per day. Now, acetyl L-carnitine can be taken orally. It's found in 500 milligram capsules, as well as by injection. There are a large number of studies on acetyl L-carnitine. You can look those up on PubMed if you like, or on examine.com. So it appears that L-carnitine is impacting a number of different processes, both to impact pain and perhaps, and I want to underscore perhaps, but there are good studies happening now.
+
+20:50.690 --> 21:19.582
+perhaps accelerate wound healing as well. Now I'd like to turn our attention to a completely non-drug, non-supplement related approach to dealing with pain. And it's one that has existed for thousands of years and that only recently has the Western scientific community started to pay serious attention to. And there is terrific mechanistic science to now explain how and why acupuncture
+
+21:19.874 --> 21:41.182
+can work very well for the treatment of certain forms of pain. Now, first off, I want to tell you what was told to me by our director or chief of the pain division at Stanford School of Medicine, Dr. Sean Mackey, which was that a fraction of people experienced tremendous pain relief from acupuncture and others experienced none at all or very little.
+
+21:41.314 --> 22:05.342
+A number of laboratories have started to explore how acupuncture works. And one of the premier laboratories for this is Chufu Ma's lab at Harvard Medical School. Now, the form of acupuncture that they explored was one that's commonly in use called electro acupuncture. So this isn't just putting little needles into different parts of the body. These needles are able to pass an electrical current.
+
+22:05.538 --> 22:30.878
+not magically, but because they have a little wire going back to a device and you can pass electrical current. So what Chufu Ma's lab found was that if electroacupuncture is provided to the abdomen, to the stomach area, it creates activation of what are called the sympathetic ganglia and the activation of these neurons involves noradrenaline and something called NPY, neuropeptide Y.
+
+22:31.746 --> 22:55.870
+The long and short of it is that stimulating the abdomen with electroacupuncture was either anti-inflammatory or it could cause inflammation. It could actually exacerbate inflammation depending on whether or not it was of low or high intensity. Now that makes it a very precarious technique. And this may speak to some of the reason why some people report relief from acupuncture and others do not.
+
+22:56.546 --> 23:25.278
+However, they went a step further and stimulated other areas of the body using electroacupuncture. And what they found is that stimulation of the legs caused a circuit, a neural circuit to be activated that goes from the legs up to an area of the base of the brain called the DMV and activated the adrenal glands, which sit atop your kidneys and caused the release of what are called catecholamines. And those were strongly anti-inflammatory.
+
+23:25.890 --> 23:47.678
+In other words, electroacupuncture of the legs and feet can, if done correctly, be anti-inflammatory and reduce symptoms of pain and perhaps accelerate wound healing because activations of these catecholominergic pathways can accelerate wound healing as well. I'd like to take a quick break and acknowledge one of our sponsors, Element.
+
+23:47.810 --> 23:56.510
+Element is an electrolyte drink that has everything you need and nothing you don't. That means the electrolytes, sodium, magnesium, and potassium in the correct amounts, but no sugar.
+
+23:56.674 --> 24:26.640
+Proper hydration is critical for optimal brain and body function. Even a slight degree of dehydration can diminish cognitive and physical performance. It's also important that you get adequate electrolytes. The electrolytes, sodium, magnesium, and potassium are vital for functioning of all the cells in your body, especially your neurons or your nerve cells. Drinking element dissolved in water makes it very easy to ensure that you're getting adequate hydration and adequate electrolytes. To make sure that I'm getting proper amounts of hydration and electrolytes, I dissolve one packet of element in about 16
+
+24:26.640 --> 24:56.592
+to 32 ounces of water when I first wake up in the morning, and I drink that basically first thing in the morning. I'll also drink Element dissolved in water during any kind of physical exercise that I'm doing, especially on hot days when I'm sweating a lot and losing water and electrolytes. Element has a bunch of great tasting flavors. I love the raspberry, I love the citrus flavor. Right now, Element has a limited edition lemonade flavor that is absolutely delicious. I hate to say that I love one more than all the others, but this lemonade flavor is right up there with my favorite other one, which is raspberry or watermelon.
+
+24:56.592 --> 25:23.358
+Again, I can't pick just one flavor. I love them all. If you'd like to try Element, you can go to drinkelement.com slash Huberman, spelled drinkelement.com slash Huberman, to claim a free Element sample pack with a purchase of any Element drink mix. Again, that's drinkelement.com slash Huberman to claim a free sample pack. Today's episode is also brought to us by Eight Sleep. Eight Sleep makes smart mattress covers with cooling, heating, and sleep tracking capacity.
+
+25:23.554 --> 25:47.326
+One of the best ways to ensure a great night's sleep is to make sure that the temperature of your sleeping environment is correct. And that's because in order to fall and stay deeply asleep, your body temperature actually has to drop by about one to three degrees. And in order to wake up feeling refreshed and energized, your body temperature actually has to increase by about one to three degrees. Eight Sleep automatically regulates the temperature of your bed throughout the night according to your unique needs.
+
+25:47.426 --> 26:13.630
+8sleep has just launched their latest model, the Pod 5, and the Pod 5 has several new important features. One of these new features is called Autopilot. Autopilot is an AI engine that learns your sleep patterns to adjust the temperature of your sleeping environment across different sleep stages. It also elevates your head if you're snoring, and it makes other shifts to optimize your sleep. The base on the Pod 5 also has an integrated speaker that syncs to the 8sleep app and can play audio to support relaxation and recovery.
+
+26:13.762 --> 26:41.534
+The audio catalog includes several NSDR, non-sleep deep rest scripts that I worked on with Eight Sleep to record. If you'd like to try Eight Sleep, go to eightsleep.com slash Huberman to get up to $350 off the new Pod 5. Eight Sleep ships to many countries worldwide, including Mexico and the UAE. Again, that's eightsleep.com slash Huberman to save up to $350. Now let's talk about a phenomenon that has long intrigued and perplexed people.
+
+26:41.666 --> 27:10.366
+for probably thousands of years, and that's redheads. You may have heard before that redheads have a higher pain threshold than other individuals. And indeed, that is true. There's now a study that looked at this mechanistically. There's a gene called the MC1R gene, and this MC1R gene encodes for a number of different proteins. Some of those proteins, of course, are related to the production of melanin,
+
+27:10.466 --> 27:36.702
+This is why redheads often, not always, but often are very fair skinned, sometimes have freckles, not always, and of course have red hair. This gene, this MC1R gene is associated with a pathway that relates to something that I've talked about on this podcast before during the episode on hunger and feeding. And this is POMC. POMC stands for pro-opio-melanocortin.
+
+27:36.930 --> 28:05.598
+And POMC is cut up, it's cleaved into different hormones, including one that enhances pain perception. This is melanocyte stimulating hormone. And another one that blocks pain, beta endorphin. The endorphins are endogenously made, meaning made within our body, opioids. They actually make us feel numb in response to certain kinds of pain. Now, not completely numb, but they numb or reduce our,
+
+28:05.698 --> 28:34.590
+perception of pain. We all have beta endorphins, we all have POMC, et cetera, but redheads make more of these endogenous endorphins. Now this of course should not be taken to mean that redheads can tolerate more pain and therefore should be subjected to more pain. All it means is that their threshold for pain on average, not all of them, but on average is shifted higher than that of other individuals. And I should mention, because I mentioned the ice bath that of course,
+
+28:35.362 --> 28:53.630
+pain threshold is something that can be built up, but it does seem that certain patterns of thinking can allow us to buffer ourselves against the pain response. And that should not be surprising. Certain forms of thinking are associated with the release of particular neuromodulators, in particular dopamine and dopamine
+
+28:54.850 --> 29:21.822
+It may seem is kind of the thing that underlies everything, but it's not. Dopamine is a molecule that's associated with novelty, expectation, motivation, and reward. We talked about this at the beginning of the episode. And the ways in which dopamine can modulate pain is not mysterious. It's really through the activation of brainstem neurons that communicate with areas of our body that deploy things like immune cells. So for instance, we have neurons in our brainstem
+
+29:22.530 --> 29:48.414
+that can be modulated by the release of dopamine. And those neurons in the brainstem control the release of immune cells from tissues like the spleen or organs like the spleen. And those immune cells can then go combat infection. We've heard before that when we're happy, we're better able to combat infection, deal with pain, deal with all sorts of things. It essentially makes us more resilient because dopamine affects particular circuits and tells
+
+29:48.898 --> 30:18.014
+in a very neurobiological way, in a biochemical way, tells those cells and circuits that conditions are good. And it really does allow for more resilience. So along those lines, let's talk about pleasure. With all the cells and tissues and machinery related to pain, you might think that our entire touch system is designed to allow us to detect pain and to avoid tissue damage. And while a good percentage of it is devoted to that, a good percentage of it is also devoted to this thing that we call pleasure.
+
+30:18.786 --> 30:46.814
+And that should come as no surprise. Pleasure serves an adaptive role, and that adaptive role relates to the fact that every species has a primary goal, which is to make more of itself. Otherwise it would go extinct. That process of making more of itself, sexual reproduction, is closely associated with the sensation and the perception of pleasure. And it's no surprise that not only is the highest density of sensory receptors
+
+30:47.330 --> 31:14.366
+in and on and around the genitalia, but the process of reproduction evokes sensations and molecules and perceptions associated with pleasure. And the currency of pleasure exists in multiple chemical systems, but the primary ones are the dopamine system, which is the anticipation of pleasure and the work required to achieve the ability to experience that pleasure.
+
+31:14.498 --> 31:44.464
+and the serotonin system, which is more closely related to the immediate experience of that pleasure. And from dopamine and serotonin stem out other hormones and molecules, things like oxytocin, which are associated with pair bonding. Oxytocin is more closely associated with the serotonin system biochemically and at the circuit level, meaning the areas of the brain and body that manufacture a lot of serotonin. Usually, not always, but usually contain neurons that also manufacture and make use of the molecule oxytocin
+
+31:44.464 --> 32:13.854
+Those chemicals together create sensations of warmth, of wellbeing, of safety. The dopamine molecule is more closely associated with hormones like testosterone and other molecules involved with pursuit and further effort in order to get more of whatever could potentially cause more release of dopamine. So if levels of serotonin and dopamine are too low
+
+32:14.178 --> 32:37.214
+it becomes almost impossible to experience pleasure. There's a so-called ahedonia. This is also described as depression, although it needn't be long-term depression. So certain drugs like antidepressants, like Welbutrin, Bupriorone, as it's commonly called, or the so-called SSRIs, the serotonin selective reacetyl,
+
+32:37.314 --> 32:53.246
+reuptake inhibitors, excuse me, like Prozac, Zoloft and similar will increase dopamine and serotonin respectively. They're not increasing the peaks in those molecules, what we call the acute release of those molecules. What they're doing is they're raising the overall
+
+32:53.346 --> 33:14.302
+levels of those molecules. They're raising the sort of foundation or the tide, if you will. Think about it as your mood or your pleasure rather is like a boat. And if it's on the shore and it can't get out to sea unless that tide is high enough. That's kind of the way to think about these tonic levels of dopamine and serotonin. Now, most of us fortunately do not have problems with our
+
+33:14.498 --> 33:43.710
+baseline or a tonic levels of dopamine and serotonin release. The brain and body use these common currencies for different experiences. So yes, if your dopamine and serotonin, or I should say, if your dopamine and or serotonin levels are too low, it will be very hard to achieve pleasure, to experience physical pleasure or emotional pleasure of any kind. That's why treatments of the sort that I described a minute ago might be right for you. Obviously we can't determine if they're right for you. It's also why they have side effects.
+
+33:43.810 --> 34:11.263
+If you artificially increase these molecules that are associated with pleasure, oftentimes you get a lack of motivation to go seek things like food. People don't get much interest in food because why should they if their serotonin levels are already up? Again, there's a ton of individual variation. I don't want to say that these antidepressants are always bad. Sometimes they've saved lives. They've saved millions of lives. Sometimes people have side effects that make them not the right choice. So it has to be determined for the individual.
+
+34:11.554 --> 34:37.790
+Just briefly, because it's relevant to the conversation that we've been having, you might want to be wary of any experience, any experience, no matter how it arrives, chemical, physical, emotional, or some combination, you might want to be wary of letting your dopamine go too high, and certainly you want to be wary of it going too low because of the way that these circuits adjust. Basically, every time that the pleasure system is kicked in
+
+34:38.306 --> 35:01.406
+in high gear, an absolutely spectacular event, you cannot be more ecstatic. There is a mirror symmetric activation of the pain system. And this might seem like an evil curse of biology, but it's not. This is actually a way to protect this whole system of reward and motivation that I talked about at the beginning of the episode.
+
+35:02.050 --> 35:30.942
+It might sound great to just ingest substances or engage in behaviors where it's just dopamine, dopamine, dopamine, and just constantly be motivated, but the system will eventually crash. And so what happens is when you have a big increase in dopamine, you also will get a big increase in the circuits that underlie our sense of disappointment and readjusting the balance. And with repeated exposure to high levels of dopamine, not naturally occurring, wonderful events, but really high chemically induced,
+
+35:31.970 --> 36:01.118
+high magnitude chemically induced peaks in dopamine, what happens is those peaks in dopamine start to go down and down and down in response to the same, what ought to be incredible experience. We start to what's called habituate or attenuate. And yet the pain increases in size. And this has a preservative function in keeping us safe, believe it or not. But what I just described is actually the basis
+
+36:01.218 --> 36:27.518
+of most, if not all forms of addiction, something that we will deal with in a future episode in depth. So today we talked about the pathways in the skin and in the brain and elsewhere in the body that control our sense of pleasure and pain. We described a number of different tools ranging from different supplements to electroacupuncture and various other tools that one could use to modulate your sense of pleasure or pain. And of course, in thinking about pleasure,
+
+36:27.810 --> 36:54.494
+we have to think about the dopamine system and the serotonin system and some of the related chemical systems. I realized that today's podcast had a lot of scientific details. I don't expect that everyone would be able to understand all these details all at once. What's more important really is to understand the general principles of how something like pleasure and pain work, how they interact and the various cells and systems within the brain and body that allow them to occur and that modulate or change
+
+36:54.594 --> 37:09.630
+their ability to occur, and of course, your subjective experience of pleasure or pain. So I do hope that this was on whole more pleasureful than painful for you. And last but not least, I thank you for your time and attention, and thank you for your interest in science.

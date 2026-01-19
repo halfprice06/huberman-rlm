@@ -1,0 +1,1111 @@
+WEBVTT
+
+00:00.194 --> 00:12.606
+Habits are solutions to the recurring problems in our environment. Let's say you get done with a long day of work. You come back, you're kind of exhausted. That happens, you know, frequently. It's a recurring problem that you face.
+
+00:12.770 --> 00:42.736
+How do you solve that problem? One person might solve it by going for a run for 30 minutes, another person might solve it by playing video games for 30 minutes, another person might solve it by smoking a cigarette. They all are trying to solve that same core problem. What you find is that, you know, you get to be 20 or 25 or 28 and a lot of the solutions that you have to these recurring problems that you face are solutions that you inherited or that you saw modeled by your parents or your friends or just, you know, whatever you have interfaced with throughout your short life so far. As soon as you realize that your solution
+
+00:42.736 --> 01:04.542
+solutions may not be the best solution, it's now your responsibility to try to figure out a different way to do it. Welcome to the Huberman Lab Podcast, where we discuss science and science-based tools for everyday life. I'm Andrew Huberman, and I'm a professor of neurobiology and ophthalmology at Stanford School of Medicine.
+
+01:04.738 --> 01:22.494
+My guest today is James Clear. James Clear is the author of Atomic Habits and one of the world's foremost experts on how to build rock solid habits that better your physical and mental health, work and relationships. Today we discuss how to build a habit and how to break bad habits as fast and durably as possible.
+
+01:22.626 --> 01:49.534
+You'll notice that today's conversation is a very realistic one and it's largely devoid of cliche acronyms such as make it specific, measurable, achievable, relevant, and time bound. There is some of that discussion and acronyms are useful, but as you'll learn today from James, the real world examples of how to make and break habits are what really stick with you and that you can apply. No one has spent more time on the data related to habit formation and bad habit breaking than James Clear.
+
+01:49.634 --> 02:16.062
+Today you also get to know him as a person and how he implemented what he has learned so effectively, even as the backdrop of his life has shifted to include more, not fewer, work and family responsibilities. And we all have things that we know we can and should do more of and things that we should do less of. And we all know that behavioral change starts with a desire to change. But as James Clear explains, it requires a system, one that works for you and that you design in order for it to really stick.
+
+02:16.258 --> 02:37.694
+Thanks to James's incredible depth of knowledge, generosity, and clarity of communication. Today's conversation about habit formation is filled with useful tools that you can apply to improve your life. So if you have a habit or perhaps many habits that you're hoping to form, or if you have bad habits that you want to break, not just for the new year, but at any point, today's conversation is absolutely for you.
+
+02:37.890 --> 03:06.302
+Before we begin, I'd like to emphasize that this podcast is separate from my teaching and research roles at Stanford. It is however, part of my desire and effort to bring zero cost to consumer information about science and science related tools to the general public. In keeping with that theme, today's episode does include sponsors. And now for my discussion with James Clear. James Clear, welcome. Hey, thank you so much for having me. Your book is everywhere. And now I get to actually meet the person behind it. So I'm curious,
+
+03:07.170 --> 03:35.646
+When people come to you or when they read your book looking for ways to develop habits or presumably also to end bad habits, is there a common theme? For instance, do most people have difficulty dropping bad habits, building new habits? Are there specific types of habits that people want to build? I mean, when you just sort of step back from everything you've heard and read about your book and in interactions with your audience. Sure. Yeah, I think there are some themes like,
+
+03:36.194 --> 04:04.190
+There are definitely habits that are very common and broad that range across scenes like everybody. The most common New Year's resolution, for example, is to do some form of exercise. So there's obviously a huge bucket of health and fitness habits that most people, many people are very interested in. Lots of things like productivity habits at work or creativity habits, writing, music, painting, whatever, things like that. So there are these big categories. I think what's more interesting, though, is to look at what are the themes that help
+
+04:04.354 --> 04:33.214
+habits stick and help habits fail or cause habits to fail. And there are definitely some patterns there which are interesting. For example, I was working out the other day and I was talking to my trainer and he said, yeah, I have this class this morning and there were eight people signed up, but it was a pretty gross day. It was like wet and rainy, it was gray, it was just kind of like cold and gross. And only two people came. And the interesting thing about that to me is how little
+
+04:33.474 --> 04:58.558
+of an edge you need to gain an advantage. Really all we're talking about there is are you cool with being uncomfortable or inconvenienced for like five to 10 minutes while you're getting ready and getting in your car and it's raining and it's kind of gross. Once you get to the gym, the workout's the same as it's always been. It's like the same as it is in the middle of the summer. And so it's really about that little point of friction at the beginning. And that, I think if I could pick a single biggest lesson,
+
+04:58.690 --> 05:25.214
+that has come out from all the readers. It is the magic and the importance of starting. Mastering that five-minute window, or sometimes even like that 30-second window of choosing to start and making it easy to start, that I would say is the single biggest theme of habits. And in fact, a lot of the time you can boil almost all problems that habits face into two categories. It's either making it easier to get started, so overcoming procrastination,
+
+05:25.314 --> 05:52.510
+or it's sticking with it. I did it once or twice, but I'm not consistent. But what does it mean to stick with something? It almost always just means that you get started each time you try to do it. And so you could ultimately revert it all back to mastering the art of getting started. And the easier that you can make it to get started, whether it's scaling a habit down, optimizing the environment, coming up with a better strategy, looping other people in, there's all kinds of things you can do. The more that you can do that, the more likely you are to succeed.
+
+05:52.642 --> 06:22.558
+Looking back on, you know, now Atomic Habits sold 25 million copies, I'd say that's maybe the biggest lesson that I have, is that the people who make it easy to get started and who master the art of getting started tend to stick with it and succeed. And the people who make it hard to get started, dream up a big, ambitious plan on their head, you know, try to do too much at once, they set themselves up to fail. So in terms of getting started, I imagine trying to create, you know, a very thin edge of the wedge
+
+06:22.658 --> 06:49.534
+so to speak, so that the on-ramping to something is very, very easy. And I suppose that could be done by a number of different approaches. You can segment out whatever it is, the habit or task that you wanna do. Like you're gonna write one word or one sentence or one letter. There's that approach. There's also the approach of trying to find the times of day or the environments where the wedge becomes present as opposed to being a big step, right?
+
+06:50.050 --> 07:17.886
+I suppose there's no one size fits all, but what are some of the ways to quote unquote get started? Because I think there's something incredible and somewhat depressing about the human brain where we can know something, we can know it so well that we can just think about it and loop on it and loop on it and watch ourselves fail to do the thing that we're trying to do. It's kind of an incredible flaw of human nature. And basically what you teach is how to overcome that flaw. So a simple question, what are easy ways to get started? In a way,
+
+07:18.306 --> 07:42.750
+All of Atomic Habits is an answer to that question. So like we could, maybe this will be the next two hours is us kind of unpacking this in greater detail. But from a real high level, there are kind of four things that you want to do if you want to get a habit to stick. So I call it the four laws of behavior change, but you want to make your habit obvious. So this is about making it visual or easy to see, easy to notice. It doesn't have to be vision, but that's often the sensory perception that you use the most. Um,
+
+07:42.850 --> 07:59.326
+Make it obvious. The second is to make it attractive. So, the more fun or attractive or appealing a habit is, the more likely you are to perform it. The third thing is you want to make it easy. So, the easier, more convenient, frictionless. This can be about scaling your habits down and simplifying, reducing the number of steps.
+
+07:59.682 --> 08:18.910
+And then the fourth thing is you wanna make it satisfying. The more satisfying or enjoyable how it is, the more you have this like feeling of pleasure, reward, or positive emotion associated with it, the more you're going to want to repeat it in the future. So those are the four steps. Make it obvious, make it attractive, make it easy, make it satisfying. There are many ways to do each of those things.
+
+08:19.074 --> 08:48.254
+And my approach is not to prescribe, but to empower, you know, like I don't really feel like there is one way to build better habits. There are many ways. And my job is to lay all the tools out on the table and say, here, here's a full toolkit. And then you can decide, do I use the screwdriver or do I use the wrench or do I use the hammer? Like what's best for this situation? So to just to build on one of those, for example, let's take make it obvious. A lot of that's about priming your environment.
+
+08:48.354 --> 09:09.022
+to make the action easy. You know, I think one interesting thing you can do, walk into most of the spaces where you spend your time each day, your office, your living room, your kitchen, and look around and ask yourself, what behaviors are obvious here? What behaviors are easy here? What is this space designed to encourage? And you'll often find that it's encouraging
+
+09:09.442 --> 09:37.854
+the thing that maybe you don't want to do, or it's at least not encouraging the good habit that you say is a priority. And so there are all sorts of steps you can take. You know, if you want to make it easier to go for a run, set your running shoes and your running clothes out the night before. I have a couple of readers who actually sleep in their running clothes and then just get up, put their shoes on and get out the door, right? They're trying to make it as obvious and as frictionless as possible. If you want to eat the good food or the healthy food, you know, place the nuts on the counter rather than the chips or something like that, right? It's just like, what is the obvious thing that's present? I had one guy who, um,
+
+09:38.818 --> 09:59.614
+He would go to his music lesson and practice guitar with his instructor each week, and then he would get a bunch of homework to do, these chords and scales and things to practice. And then he would come home and put his guitar in the guitar case and stick it in the closet, and then he'd go back to, you know, practice the next week, and they'd be like, you aren't doing any of this. And so he bought a little stand and put it on the...
+
+09:59.810 --> 10:17.406
+the guitar on the stand in the middle of the living room, and now he passes it 30 times a day. And so he's much more likely to pick it up and play it for five minutes. And so there's just like this gradual progression of how can you make the things in your life that you want more of more obvious to you. And that is just one of many ways to make starting easier.
+
+10:18.594 --> 10:36.158
+Glucose is a key player in how our body functions, not just in the long term, but in every moment of our lives. That's because it is the major fuel for our cells, especially our brain cells. Glucose directly impacts our brain function, mood, and energy levels, and it may even affect our levels of tenacity and willpower.
+
+10:36.322 --> 10:59.422
+This is why I use the continuous glucose monitor from Lingo. I absolutely love it and I'm thrilled to have them as a sponsor of the podcast. Lingo helps me track my glucose in real time to see how the foods I eat and the actions I take impact my glucose. When glucose in your body spikes or crashes, your cognitive and physical performance do too. In fact, large glucose peaks and valleys lead to brain fog, fatigue, irritability, and hunger.
+
+10:59.522 --> 11:25.118
+What you eat, of course, plays a major role in your glucose. Some foods cause sharp spikes and big crashes, and others do not, but not everyone is the same in terms of how they respond to particular foods. Seeing your glucose in real time helps you build eating and other habits that support metabolic health, mental clarity, and sustained energy. Lingo has helped me to better understand what foods to eat, when to eat, and how things like a brief walk after a meal can help keep my glucose stable and much more.
+
+11:25.282 --> 11:49.790
+If you'd like to try Lingo, Lingo is offering Huberman podcast listeners in the US 10% off a four week Lingo plan. Terms and conditions apply. Visit hellolingo.com slash Huberman for more information. The Lingo glucose system is for users 18 and older, not on insulin. It is not intended for the diagnosis of diseases, including diabetes. Individual responses may vary. Today's episode is also brought to us
+
+11:49.890 --> 12:09.118
+by Wealthfront. With constant market shifts and chaotic news, it's easy to feel uncertain about where to keep your money. However, saving and investing does not have to be complicated. There's a solution that can help you take control of your finances while still managing risk, and that's Wealthfront. I've trusted Wealthfront with my finances for nearly a decade.
+
+12:09.250 --> 12:38.846
+With the Wealthfront cash account, I can earn 3.25% annual percentage yield, or APY, on my cash from program banks. And I know that my money is growing until I'm ready to spend it or invest it. One of the features I love about Wealthfront is that I have access to instant no-fee withdrawals to eligible accounts 24-7. That means I can move my money where I need it without waiting. And when I'm ready to transition from saving to investing, Wealthfront lets me seamlessly transfer my funds into one of their expert-built portfolios.
+
+12:39.074 --> 12:58.046
+For a limited time, Wealthfront is offering new clients an additional 0.65% boost over the base rate for three months, meaning you can get 3.9% variable APY on up to $150,000 in deposits. More than 1 million people already trust Wealthfront to save more, earn more, and build long-term wealth with confidence.
+
+12:58.146 --> 13:25.438
+If you'd like to try Wealthfront, go to wealthfront.com slash Huberman to receive the boosted APY offer and start earning 3.9% variable APY today. That's wealthfront.com slash Huberman to get started. This is a paid testimonial of Wealthfront. Client experiences will vary. Wealthfront brokerage is not a bank. The base APY is as of December 19th, 2025 and is subject to change. For more information, please see the episode description.
+
+13:26.210 --> 13:56.190
+Yeah, environment to me is so critical and so overlooked. You know, I heard online at one point from a great writer, I won't mention who they are, that, you know, it's really important to have a very comfortable chair to write in because writing for long hours is hard on your body and this kind of thing. And then Steven Pressfield, author of The War of Art, sat in the exact chair you're sitting in right now. And he said, oh, no, you want kind of an uncomfortable chair. So it's like kind of painful. Now he's a former Marine and wrote a book called The War of Art After All. But he's a
+
+13:56.770 --> 14:18.910
+I sort of veer towards Steven's approach. Like if a room is too comfortable, if a couch is too comfortable, it favors lounging and it favors thinking about things that maybe are fun to think about, but not really getting the work done. Not that you need to sit on a rock or something like that, but some of my best writing and work was done on planes where I got stuck in the middle seat
+
+14:19.042 --> 14:33.950
+and was kind of pissed off about it. And I could use that energy of being kind of pissed off. I'm like, I'm gonna get this done, right? I'm not gonna lose-lose by not getting work done. Whereas I think it had, I'd been in first class and like stretched out and everything perfect.
+
+14:34.050 --> 14:56.382
+And sometimes that perfection lends itself to just kind of leaning into the creature comforts of that. Well, first of all, it's a good mental shift by you, right? Like take a suboptimal situation. How do I channel this into something I can use? That's a great skill for life. People ask me something like this a lot. You know, what is your writing routine? What are your writing habits? What does it look like? And the truth of them being honest about it is...
+
+14:56.546 --> 15:15.934
+I've had tons of different writing routines. I wrote parts of Atomic Habits on my parents' couch when I was visiting them for the holidays. I wrote parts of it in the passenger seat of a car while we were on a road trip. I wrote a lot of it at my desk, you know, but there's no one place where it happened. And I think that it also reveals an important truth about habits, which is that there's this
+
+15:16.610 --> 15:45.022
+kind of implicit assumption that we don't really say, but a lot of people think when they think, what would it look like to be successful with this habit? They think, well, I would just do it for the rest of my life, is basically what they kind of assume. And if it changes or they stop doing it, then they kind of feel like that's a failure in some way. I don't think it's like that at all. Habits can have a season, you know, and you have different seasons in your life. And I think one really interesting question to ask is, what season am I in right now?
+
+15:45.122 --> 16:10.558
+And you will find that as your seasons change, your habits often need to change as well. So, for example, for the first three years that I wrote, I wrote JamesClear.com and I published a new article every Monday and Thursday. And they were like 2,000 word pieces, took me like about 20 hours each on average. So, you know, that's a 40-hour work week. I'm putting in two pieces a week for three years. And that was how I built my audience and got the book deal that eventually became Atomic Habits.
+
+16:10.690 --> 16:39.390
+Then I signed the book deal. Well, I don't have capacity now to write those articles. So I had to change my strategy. Most of my writing was going into writing the book. I did that for like three years. The book came out. And then now the last five years, I've been writing a newsletter once a week that takes me about two hours instead of 20. So it's a much different form. But, you know, three million people read that newsletter every week. They get a lot of value out of it. And I guess my point is, if you look at my writing habit and you say, well, you wrote two articles a week for three years. What happened in the fourth year?
+
+16:39.618 --> 16:48.446
+If I would have felt like, oh, well, I don't do that anymore, so it's a failure, that seems kind of silly to me. You know, like I've been writing, it's just been changing shape based on the season that I've been in.
+
+16:48.674 --> 17:16.158
+And I found that with lots of other habits too. You know, my fitness habits have changed a lot over the last 20 years. I had periods where I was going heavy like powerlifting or Olympic lifting style and I would train four or five days a week. I had periods and pockets where I was only lifting twice a week. Now it's four days. It just, you know, it shifts depending on the season that you're in. And so I think people need to give themselves more permission for their habits to adjust rather than to feel like, well, if I don't stick to this, then I'm not sticking to my habit. I feel like that
+
+17:16.258 --> 17:41.534
+flexibility is a big component in long-term success. There's this story that mental toughness is something that's like, I'm going to make it happen no matter what the circumstances, right? Like I'm going to grind and make sure that this is, you know, I'm going to persevere. And there's a place for that type of thinking. But I think really, most of the time, mental toughness looks more like adaptability. Consistency is adaptability. Right?
+
+17:41.666 --> 18:10.846
+Don't have enough time, do the short version. Don't have enough energy, do the easy version. Find a way to show up and not put up a zero for that day because doing something is almost always infinitely better than doing nothing. And so eventually what you get to here is realizing that in a lot of ways the bad days are more important than the good days. You know, it's actually the bad workouts, the ones where I don't really feel like doing much or I don't have much time, but I get in there and I just do like a couple sets of squats and then I'm done in 20 minutes. That day counts for more than
+
+18:11.074 --> 18:34.078
+because I showed up and I didn't put up a zero, than the days when I got a ton of time and do a full workout. And so people get real excited and amped up about their habits. They, you know, they want to come up with this like perfect version. What could I do? You know, if I achieve peak performance, what would that look like? What could I do on my best day? But instead, I think it's often better to ask like, what could I stick to even on the bad days? And that becomes your baseline.
+
+18:34.242 --> 19:02.046
+That's where you start from. And then on the good days, great, you got capacity, go ahead and ramp it up. But what can you stick to even on the bad days, I think is a good place to start. Yeah, I more and more think that one of the dangers of quote unquote optimization, which in my view is also a poorly understood term. I think optimization is optimization for the moment in the day or the hour, not some perfect ideal. But one of the downsides to the availability of
+
+19:02.242 --> 19:31.070
+like over the counter stimulants and energy drinks and tutorials of how to focus, many of which I talk about online and elsewhere, is that most people who are in some sort of pursuit, writing or school or otherwise, experience the perfect flow, quote unquote, or groove of being really in the zone. And then they're always chasing that. And anything that's below that feels like it wasn't worthwhile. I really liked the way that you framed that, you know, getting something in on the days when you're,
+
+19:31.714 --> 19:57.086
+less than optimal or far less than optimal is actually where you change yourself in a way that makes those optimal days more available. That's what I'm hearing, that playing hurt teaches you how to play well under great conditions or play even better under great conditions. Consistency enlarges ability. And so by being more consistent, you enlarge your capacity to handle more. You enlarge your ability and broaden your skill set. You build your base of strength to handle
+
+19:57.250 --> 20:26.590
+the harder thing later. To be consistent means you show up on the days when it's not perfect. In many ways, I feel like that's the only place that you gain an edge. You know, the easy days, everybody works out on the easy days. Everybody does it when they feel good. Everybody does it when they have time and energy and capacity. It's who is doing it when it's not optimal. That's the only place that you gain separation. And so figuring out ways to show up even when the circumstances aren't ideal, even if it is less than you ultimately hope to do,
+
+20:26.722 --> 20:53.662
+ends up being a real win. What you just said, I think, is so, so critical. That people hear that, you know, there's a perfect state that they're pursuing, or that it takes 50 days to develop a habit, or 29 days, and we could explore that whole thing as its own discussion. But I think it's so important for people to understand that the consistency piece raises the ceiling. I've actually never heard it stated that clearly.
+
+20:54.178 --> 21:23.838
+And it's great that you presented it that way because that's something that anyone can do, right? Anyone can write one sentence per day and that's not the suggestion, but the consistency piece really does seem to elevate the ceiling on performance and what's possible. But I think people, I think we've been exposed too much to these concepts of flow, in my opinion. I don't want to knock on Steven Kotler and the beautiful work that he's done in Csikszentmihalyi who originated the term. I think Kotler and Csikszentmihalyi, I think it's a wonderful literature.
+
+21:23.938 --> 21:47.806
+And it certainly has its place. But I think people in their pursuit of flow look at the grind as failure and they don't really know what the grind is. Is it a hard day where you're like doing sets to failure in the gym? Is it when you're, you have quote unquote writer's block? You've simplified it down to it's just simply showing up over and over again that raises the possibility for flow.
+
+21:47.906 --> 22:14.782
+raises the possibility for optimal performance. And probably raises the basement on what failure or poor performance is as well, which means you're getting better. I have this reader, his name's Mitch. I mentioned him in Atomic Habits. And he, when he first started working out, he had this strange little rule for himself where he wasn't allowed to stay at the gym for longer than five minutes. So he got in the car, drove to the gym, got out, did like half an exercise, and then he'd get in the car, drive back, and go home.
+
+22:14.978 --> 22:32.382
+And it sounds silly, you know, you're like, clearly this is not going to get the guy the results that he wants. But if you take a step back, what you realize is he was mastering the art of showing up, right? He was becoming the type of person that went to the gym four days a week, even if it was only for five minutes. And it's like the inversion.
+
+22:32.546 --> 23:00.606
+of what most people do, which is we sit down, we try to perfect it. You know, what's the perfect diet plan? What's the ideal workout strategy? What's the best sales strategy? You know, like we want to have everything lined up first and then we take the first step. But I'm reminded of that. There's that quote from Ed Lattimore where he says the heaviest weight at the gym is the front door. And you know, there are a lot of things in life. They're like that. You know, the hardest step is the first movement. And so by mastering the art of showing up, well, now he's in the gym. Now he's in the arena.
+
+23:00.770 --> 23:26.174
+There's all kinds of improvements that you can make. And so he got six weeks in and he was like, well, I'm coming here all the time. I might as well start working out a little bit longer. And I feel like that is such a better place to be than to trying to get it perfect from the start and then feeling like, well, if I can't run four days a week, why am I bothering? You know, if I can't work out for 45 minutes, then it doesn't matter. But the truth is it matters every time you show up. We use the phrase building habits, but in a lot of ways, what we're actually describing is just the process of learning.
+
+23:26.562 --> 23:50.782
+Your brain is just learning a new behavior. And you will get better at anything that you practice. Anything. Now, I'm not saying that if you practice basketball, you can go play in the NBA in six months, right? Like, or maybe ever. But you individually will be a better basketball player six months from now than you are today if you practice it each day. And every skill that you have was once unknown to you.
+
+23:51.042 --> 24:18.718
+You know, when you were born, you did not know how to cut a tomato or, you know, play a musical instrument or even brush your teeth. But you know all those things now and many others. And so the way that you learn things is by practicing them. And the way that you learn habits is also by practicing them, even if it's small. I think it's so important to view habits through the lens of learning and therefore neuroplasticity, right? Which I think is a broad term that can be many. I mean, having a stroke will induce...
+
+24:18.850 --> 24:27.454
+but not the kind one wants. So I guess the precise definition would be, I call it self-directed adaptive plasticity. It's not a real term, but it,
+
+24:27.778 --> 24:57.054
+it works for what we're talking about. So I'll just say plasticity for short, but... Sorry, I'll just cut you off, but that is, I feel like the self-directed piece is an important part there. You know, your brain's learning habits all the time, right? You will learn habits whether you are in control or not, whether you care or not. I think that's a good reason to want to know what they are and how they work. The real question is not whether you will gain new habits, it's whether you can design them, right, or be in control of them, whether it can be self-directed. Yeah, I mean, maybe it's worth exploring this a little bit because...
+
+24:57.314 --> 25:24.254
+So for neuroscientists who learn about plasticity, you learn about developmental plasticity, which existed in all of us when we were kids, and it's just how passive experience shapes us. And it's very robust up until, they always say, till age 25. But about that is when the window closes for multi-language learning without accents, becomes much, much more difficult after 15, 20, 25 than it does, say, at 40, 45, or 60. Some people can do it, but it takes much more effort. So that's passive learning.
+
+25:24.898 --> 25:51.582
+But the self-directed piece is interesting because there are sort of two forms of that. One form is where it's explorative, like you're trying to, I don't know, figure out how to paint or figure out how to, but you don't really know what the painting is gonna be. The other is what is called instructional plasticity. And I guess the strict term would be self-directed adaptive instructional plasticity. This is why it gets to be kind of a mouthful. Sounds sticky. Yeah, but the instructional piece means there's a correct answer.
+
+25:52.258 --> 26:20.158
+There's a correct answer. And neuroscientists are familiar with the fact that there's these certain forms of learning where there's a correct answer that the nervous system needs to learn, like how to shoot a free throw from a particular location on a court, for instance. How to state a word with a proper enunciation in a different language, for instance. And so there's a right and there's a wrong. And the example of this guy, Mitch, who went to the gym and then left after five minutes,
+
+26:20.706 --> 26:49.726
+I feel like there's a merge there where he, through some unconscious genius, realized that the right answer was getting in the door and had to teach himself that piece as opposed to the entire workout. So that's just chunking, right? But it requires that there's a prerequisite to getting in the gym and that's just going there in the first place. And if we're trying to learn how to do an entire workout, it's too much, or if we're trying to learn how to perform really well, we're really trying to learn
+
+26:50.146 --> 27:02.334
+50 or 1,000 things. So this business of chunking, it's so simple on the face of it, but I feel like instructional plasticity says we need to learn the right answers and then stack those. And so I don't think he was,
+
+27:02.498 --> 27:32.464
+crazy, I think he was really on to something and really in tune with what the neuroscience says. People often think they're keeping it simple or making it simple, but they don't realize how many steps are involved. Like, let's take just getting to the gym. Forget about the workout, but just getting there. Which gym will you go to? What time are you going to go? Are you going before work or after work? Are you stopping by on your way or is it on your commute? Do you need to drive separately? Are you going to bring a water bottle or do they have water fountains at the gym? That alone sounds like a silly thing, but I heard from a reader one time who said, I always forget my water bottle and they don't have
+
+27:32.464 --> 28:01.662
+water fountains there, so I don't feel like going. That's enough friction to prevent somebody from doing the workout, right? Like there's so many little steps like that. And what are you going to wear? Do you have the, are the clothes clean? Are they in the laundry right now? Like there's so many things that could prevent it from happening. So just mastering getting started forces you to cross all of those thresholds early on and figure out how do I get in here consistently week in and week out? And then once you got that part licked, then, okay, great. We can move on to what the actual workout should be. These days,
+
+28:02.146 --> 28:28.894
+I and many others hear about and talk about this idea that the effort becomes the reward. I mean, that's sort of the holy grail of all this, right? And I think that can happen. I mean, it has sort of masochistic tones to it. Years ago, I was a dating woman, we're still good friends. And I remember one time she just said to me, she said, Flo, don't fight. And I was like, what are you talking about? And she said, everything that you do is you're sort of like,
+
+28:29.218 --> 28:54.974
+pushing yourself into doing it, even though you really enjoy these activities. We're talking about work-related activities. And I was like, oh, so you just like flow into everything that you do? And she's like, yeah. She was from Eastern Canada. And I was like, is everyone up there like that? And she's like, no, actually, you know, my dad or someone in her family is like a fisherman, had to get up early in the morning, go out in the cold. So she was a hardy person, a very hardy person, a hard worker, just recently finished a graduate degree, in fact.
+
+28:55.586 --> 29:22.910
+And I was like, this flow don't fight thing is interesting because I feel like across my day, I do wake up and I'm like, all right, have to do this, need to, and these are opportunities that I love. And I've thought to myself, do we only have so much time on the gas pedal? Maybe she's right. Maybe we need to flow through certain parts of our days where we're just kind of on in automatic so that we can fight harder against the things that are really barriers for us.
+
+29:23.330 --> 29:51.902
+since I woke up this morning, I'm like, I got to ask James this question. Do you think there's a way that we can kind of toggle flow and fight? That's an interesting question. So I have two thoughts. First thought is, for a long time, I wrestled with this question of, do I have to be dissatisfied to be driven? Is that part of it? Is part of it that I have this vision for where I want to be or what I want to accomplish, and then I look at my current state and I realize there's a gap between where I am and where I want to be. And that dissatisfaction with that gap
+
+29:52.098 --> 30:14.270
+is what drives you forward. It's the drive to close the gap that gets you to show up and work hard or take the test or do the thing, you know? And I think certainly there are many times in my life when that has been the driving force. But the healthiest response I think that I've come up with, or the counterpoint, is imagine that like an acorn falls from a tree.
+
+30:14.466 --> 30:42.974
+And, you know, it manages to take root and starts to grow. And, you know, at first it's just this little acorn, and then it's a sapling, and then it, you know, grows into this, eventually this large mature oak. And at no point in that process did, was it like berating itself for only being an acorn or for only being a sapling, right? For not being enough yet, for not being big enough, for not having achieved that outcome. Nobody looks at it and thinks, oh, what a failure. You aren't a full oak tree yet. And yet, despite that
+
+30:43.106 --> 31:06.558
+there isn't this dissatisfaction going on. It continues to grow. And I think the answer there is it grows simply because that is what an oak tree does. It grows because that is what it is encoded to do. And so I feel like the healthiest version of me, like just flowing with it, you know, or just stepping into it is what do I feel like I'm encoded to do?
+
+31:06.658 --> 31:34.014
+You know, like, it's almost like I was made for this. You know, this is my strength. This is what I, like, it lights me up. It makes me feel alive. And then I can be quite driven and not feel dissatisfied in the moment. So I think that was, like, kind of the first thing that came to mind. The second piece is I have had this experience where the effort has been the reward, where the work is the win or, you know, however people want to phrase it. Doing the thing is the satisfaction. But...
+
+31:34.850 --> 31:55.806
+rarely do I have that experience right away. It has come with time. So like working out is a very good example for me. I've been training for, you know, 15 or 20 years now. And yeah, like I want all the same things everybody else does, right? I want to be healthy. You want to look good. You know, you have all these like outcomes that you want from working out. But the last couple of years,
+
+31:55.906 --> 32:24.862
+I have started to train more and more just because of how I feel when I work out. I like how it makes me feel. And now I don't have to wait. I don't have to wait two years to see how I look in the mirror. Like, I feel good when I'm doing this set. And so it becomes more about the experience and liking how I feel when I'm doing it. In my language, in the Atomic Habits language, it's what I call identity-based habits. Every time that I show up and work out, I am casting a vote for being the type of person
+
+32:24.994 --> 32:48.574
+who works out, for being an athlete, for being the type of person who doesn't miss workouts. And every time I cast a vote for being that type of person, I feel good about myself. I feel like I'm showing up and being the kind of person I want to be. I feel like I'm reinforcing my desired identity. And I think this is one of the, it certainly is one of the concepts from Atomic Habits that has resonated with most with people, which is rather than starting your habits and asking yourself,
+
+32:48.706 --> 33:18.046
+what do I wish to achieve? What do I wish to, you know, accomplish? You start by asking, who do I wish to become? And how are my habits reinforcing that desired identity? Am I casting votes for being that type of person? Every action you take is like a vote for the type of person you wish to become. So if you sit down and you study for 20 minutes on Tuesday night, you are casting a vote for being studious. If you shoot a basketball for an hour outside, you cast a vote for being a basketball player. And individually,
+
+33:18.274 --> 33:41.278
+Those are small things, and they don't really mean a whole lot, you know, in any given moment. But collectively, if you do it for three months or six months or a year, you cross this invisible threshold at some point where you say, yeah, being a basketball player must be a big part of who I am. And you start to take pride in being that kind of person. And if you take pride in it, if it becomes part of your story, then you'll fight to maintain the habit. And now all of a sudden,
+
+33:41.474 --> 34:09.919
+the situation is flipped. Now you're trying to do it rather than trying not to do it. You know, rather than trying to motivate yourself to stick to it, you're just saying, this is part of who I am. You know, like I get up and I go for a run because I'm a runner, not because I have a half marathon in three months. I'm doing it because I like being this kind of person. So I think the question of what are my actions reinforcing, how are my habits feeding my desired identity is an interesting thing to play with and I think an important question for all of us to ask ourselves.
+
+34:10.978 --> 34:34.111
+Yeah, I confess that friction for me is a great motivator. I was in essentially a scientific competition in my postdoc years, also when I started my lab, and I was like, this is great. I have something constantly to push against, and I enjoyed the work. What kind of friction do you mean? Like having a- Oh, a big lab that we were competing with.
+
+34:34.434 --> 35:03.134
+And it was a new area, a bunch of tools had arrived on the scene. We were developing tools, they were developing tools, and it was very, very competitive. And I was like, this is so great. Felt like a little arms race. Yeah, and it was, and they got their piece and we got our piece and it all worked out. But I think competition can bring that out. And I think it was really healthy and it raised the anxiety level, certainly. Because in science, you can actually get scooped. You can work very, very hard for a lot of years and someone can beat you to the punch.
+
+35:03.266 --> 35:16.478
+you have to tell the student or postdoc, like we are resetting. And when I was the postdoc, it was scary. So you try and find your corner where there's a bit more assurance that you're gonna be okay no matter what, but it's not always the case. Especially if you pick the problems that are like,
+
+35:17.026 --> 35:43.678
+very timely, like the tools just became available to answer questions that people have wanted to answer for a long time. And it's just a cluster. And so I used to think, gosh, is this unhealthy? It's just like really unhealthy. I'm waking up at four in the morning and going to lab and like beating them. I'm like, no, are you kidding me? Like it was part of building my career, but I wouldn't want to do that forever. And so this, the flow piece sounds really, really nice. And at the same time, I don't know, I agree completely with what you said that
+
+35:44.258 --> 36:12.958
+in the friction, you get these sort of breakthroughs of like, oh, this went well for five minutes. I really enjoy this. And you start to hold on to those pockets. You said you really enjoy the workout, the set. I feel a lot of resonance with that. I actually like exercising, but you're one of the few people I've ever met that doesn't say, oh, I like how I feel afterwards. I like how I feel afterwards, but I also like how it feels in the moment. It sounds like you do as well. Yeah, I like the act of it. I like the practice of it. Yeah, I mean, that's a gift that you had to work for.
+
+36:13.122 --> 36:34.686
+I think so. I, you know, well, to the point that you just made, it's hard for you to imagine always being that flow or always feeling that way about it. And also the competition can be very healthy. I agree. I think it's both. Uh, and I almost, I resist anybody who would say that they're always in one or the other. I think everybody's in both from time to time. And, um,
+
+36:34.818 --> 37:03.006
+Your point about the competition between the labs, that's instructive for building habits too. Sometimes it really helps if things have stakes. I find that it's actually quite hard for me to care if there are no stakes. I want there to be something that matters. Ultimately, that's why I decided to start sharing my ideas online. I was working at an orthopedic practice, just doing like an internship over the summer. This was many years ago. And I started writing about habits. And eventually, and nobody asked me to, I was doing it because I was interested in it.
+
+37:03.138 --> 37:32.062
+And I got this Word doc that was like 60 pages long. It was just like James' thoughts on habits. And writing in the Word doc is kind of boring. There are no stakes. So I was like, well, eventually I need to put some of this up and just see, is it any good or not? Do people like it or not? And eventually that led to JamesClaire.com and then eventually Atomic Habits. But the fact that there were stakes forced me to up my game. My undergraduate degree is in biomechanics and then I got a business degree as well. So I don't have a degree in psychology.
+
+37:32.290 --> 38:00.318
+you know, or neuroscience, which is kind of what I think you would expect somebody who writes about habits to have. And so I was kind of lamenting that early on. And I said that to a friend, he said, well, the way you become an expert is by writing about it every week. And so I just really internalized that. And so I wrote two articles a week for the next three years. And it turns out if you write 150 articles about habits, you learn a lot along the way. And because it was public, I could get criticized every time. And I think that made the work much better.
+
+38:00.418 --> 38:21.982
+And ultimately, you know, I was able to triangulate my way to, you know, putting together some decent ideas about the topic. And building habits and suppressing bad habits is synonymous with your name and vice versa. I think there are several cases I can think of. You, Derek, from More Plates, More Dates, who does online fitness and health content, neither of whom have formal training in that
+
+38:22.114 --> 38:48.350
+the information they share who are both superb, like truly superb. And I know Derek a bit. And I think he also went out of his way to make sure that he was reading things with an extra attention to the detail, making sure that the communication about it was correct and acknowledging that he didn't have formal training in that area, formal academic training, forgive me. Because all this stuff, exercise and health, as well as habits that you can practice them too. I think the big question is just competence versus credentials.
+
+38:48.546 --> 39:16.574
+You know, if the argument is, well, you don't have a degree in this, well, that doesn't really tell me anything. But if the argument is, this sentence is wrong, okay, well, now we have something to talk about, you know? But if the sentences are right and I just don't have the degree, you know, too bad, it doesn't matter, right? It's about, are the ideas right? That's that Midwest sensibility, practicality that I think really resonates with people. Because the problem with kind of ivory tower academic stuff that, you know, is associated with high levels of credibility is oftentimes people feel like it's,
+
+39:16.738 --> 39:45.758
+that people are out of touch with the real world. And obviously the merge of the two is, is great, but I think the scientists then come to you and now you can read a paper. And, and so I think that it can be both. It doesn't need to be a competition either. I think the point is just, are the ideas right? Right. And if the ideas are right thing, great. And if the ideas are wrong, then I have some learning to do. So, and do they work in the real world? And clearly people have benefited from these. Yeah. I think this attachment to making the effort, the reward is something that can happen. I think that it's a, a,
+
+39:45.954 --> 40:08.254
+top-down training, I'd like your thoughts on this. We can tell ourselves, this pain is good. This is me getting better. I think there are two kind of parallel examples in the world of exercise where it's very concrete. And I think it maps to the cognitive space. But I think one of the incredible things about resistance training is this notion of the pump.
+
+40:08.450 --> 40:31.966
+I mean, not because I enjoy it, but because it gives you a little visual and like sensory window into what will happen if you do things correctly, like recover and proper nutrition, et cetera. Like you literally get a visual and a sensory window into the future. Have some kind of evidence that in the moment you're doing it right. Yeah. And in general, what you end up with sort of parallels that progress during the
+
+40:32.066 --> 40:58.238
+during the workout. Whereas with running, like if I run up a steep hill with a weight vest on, my lungs are burning, I want to cough up a lung, like I feel like I want to vomit. And we can tell ourselves like, this is good, this is me getting better, it will be easier the next time. But you don't feel faster in the moment. You're not like, oh, this is what it feels like to really be faster than I am on this current day. And so I think both are important. So I look at those as kind of templates for the positive feedback I can give myself. Like if I have a good,
+
+40:58.338 --> 41:18.558
+stretch of writing or podcast prep where I'm like really finding papers. I'm like, this is so cool. This is great. I'll say, okay, this is really good. Like we're in the groove. That's sort of like the pump in the gym thing. Like it's heading someplace. But then when things are really like running up against a brick wall and I was like, this is so painful. I've had to teach myself to say, okay, this is good.
+
+41:18.658 --> 41:39.358
+This is me getting better. This is how the brain learns. The brain learns by experiencing friction. It doesn't learn by experiencing performance. I mean, we don't learn from performance. We only learn from failure, right? The brain won't change unless it has to change. So I'd love your thoughts on this as it relates to the space I think most people think of habits and learning, like how to learn a new language or
+
+41:39.458 --> 42:06.366
+a musical instrument, or just changing one's daily routine so that one is healthier or kinder. A lot of people just struggle with kind of being jerks, and I think they're trying to be kind, and it's hard. It's hard to develop the habit of being kind if that's not their nature. So how do these things map for you? A lot of the time people will complain about writing habits, for example. Writing is so hard, writing is so difficult. It feels so arduous in the moment. And sometimes I try to remind myself,
+
+42:06.498 --> 42:34.622
+Yeah, it does feel difficult and that's kind of why it works. Imagine going into the gym and complaining that like the weights are heavy. You're like, well, that's like, yes, the weights are heavy. That's why you're getting stronger. And the writing is hard and that's how you're getting smarter. Or at least let's say that's how you're clarifying your thoughts. Just as the weights feeling heavy is evidence that you are getting stronger, the writing feeling hard is evidence that you were thinking, that you were forcing yourself to think and clarify. So there is some friction, some tension that is necessary for growth.
+
+42:34.914 --> 43:01.598
+I think what you're referencing, telling yourself a better story in the moment, is very helpful. You know, like this is, yeah, it is painful, it is hard, and this is part of what it means to grow. I also think it's helpful to do some things either beforehand or afterward that can help feed that process to get you to show up. So, for example, beforehand, pre-visualization can be really helpful. I practice this with my kids, just trying to help them imagine what a good day would look like. You know, like my one son, he started preschool recently,
+
+43:01.698 --> 43:31.664
+And the first day of drop off, he didn't have a good day. He kind of, you know, cried, fussed a little bit, didn't really want to stay. Second day, same sort of thing. So the third day I said, all right, it's, you know, it's preschool day today. And he was like, ah, and I was like, hold on, let's, let's just, you know, we're getting breakfast in the morning. I said, you know, you like preschool, right? Like you, you really like your teachers. He was like, yeah. I said, what about you guys did snack time yesterday? That was fun, right? He's like, yeah. I said, you got to play with glue sticks and the crayons. Like that was a cool activity. And what do you do after school gets done? He was like, oh, we go
+
+43:31.664 --> 43:59.038
+out on the playground and we play for, you know, 30 minutes or whatever. And that was it. I just stopped there. But the point is that I'm trying to get him to imagine what a good day would look like if it unfolds, right? Emphasize the positive parts of the experience that are about to happen. What are the things that you're about to do that you enjoy or that are good for you? And go into the day with that story in your mind. And I think that increases the odds that you're going to show up. And, you know, maybe we just got lucky. Who knows? But he had a good drop off that day. Sounds like a great day.
+
+43:59.266 --> 44:23.806
+Yeah. Yeah. It sounds, sounds awesome. I want to do it too. Yeah. I played baseball for a while. I played baseball through college. And when I was younger, like 10, 12, 14, um, my dad and I would do this thing where at the end of each season, we go and sit down on the back deck and we would kind of like replay the good parts of the season. We'd talk about our best games, the best wins, talk about, you know, the best plays that I had had or things that went well or whatever. Or just trying to like emphasize the wins, you know?
+
+44:23.906 --> 44:50.942
+And so I finished each season, even if it wasn't like the best season for me, I was never the best player on any team that I was on. But I finished it feeling good. And that gives you a little bit of momentum going into the next season. And so I think the core question, whether you're visualizing it ahead of time or rehearsing it afterward, is what are you emphasizing? There's this interesting exercise I heard of one time. You take a piece of paper or two documents, and the only rule of this game is that you can't write down anything that's false.
+
+44:51.042 --> 45:20.958
+So yeah, it just has to be true if you write it down. The first page, you're going to write down the story of your last year, but it's the negative version. All the bad things that happened, the stuff that didn't go your way, whatever. The second page, you're going to write down the story of your last year, but it's the positive version. All the wins you've had, the things that worked out well, you know, your best days. And you look at those two pieces of paper, there are no lies on either one. And I think the question is, which one are you emphasizing each day? You know, what story do you carry with you when you go into the next experience?
+
+45:21.122 --> 45:50.430
+And as long as you are not ignoring reality, you know, as long as you're not ignoring the truth of the situation and what you need to manage or what you need to face, I think you always want to tell yourself the more empowering one. You know, you always want to carry that version with you that makes you feel inspired or empowered or positive. And that, I think, will increase the odds that you show up. I don't know that it'll necessarily make you a kinder person, but certainly it puts you in a better position for things like that to happen. So I think there is some mental rehearsal
+
+45:50.530 --> 46:19.102
+let's say, that you can do to put yourself in a better position to not only just have a good day, but also be more likely to perform at a high level. By now, I'm sure that many of you have heard me say that I've been taking AG1 for more than a decade. And indeed, that's true. The reason I started taking AG1 way back in 2012, and the reason why I still continue to take it every single day, is because AG1 is, to my knowledge, the highest quality and most comprehensive of the foundational nutritional supplements on the market.
+
+46:19.266 --> 46:46.398
+What that means is that it contains not just vitamins and minerals, but also probiotics, prebiotics, and adaptogens to cover any gaps that you might have in your diet, while also providing support for a demanding life. Given the probiotics and prebiotics in AG1, it also helps support a healthy gut microbiome. The gut microbiome consists of trillions of little microorganisms that line your digestive tract and impact things such as your immune status, your metabolic health, your hormone health, and much more.
+
+46:46.594 --> 46:54.654
+Taking AG1 consistently helps my digestion, keeps my immune system strong, and it ensures that my mood and mental focus are always at their best.
+
+46:54.754 --> 47:24.720
+AG1 is now available in three new flavors, berry, citrus, and tropical. And while I've always loved the AG1 original flavor, especially with a bit of lemon juice added, I'm really enjoying the new berry flavor in particular. It tastes great, but then again, I do love all the flavors. If you'd like to try AG1 and try these new flavors, you can go to drinkag1.com slash Huberman to claim a special offer. Right now, AG1 is giving away six free sample packs of AGZ, which is AG1's new sleep formula, which by the way is fantastic.
+
+47:24.720 --> 47:46.078
+the only sleep supplement I take. It eliminates the need for all these pills and my sleep has never been better. The special offer gives you six free samples of that AGZ, as well as three AG1 travel packs and a bottle of vitamin D3 K2 with your first subscription. Just go to drinkag1.com slash Huberman to get started. Today's episode is also brought to us
+
+47:46.210 --> 48:16.176
+by Juve. Juve makes medical grade red light therapy devices. Now, if there's one thing that I have consistently emphasized on this podcast, it is the incredible impact that light can have on our biology. Now, in addition to sunlight, red light and near infrared light sources have been shown to have positive effects on improving numerous aspects of cellular and organ health, including faster muscle recovery, improved skin health and wound healing, improvements in acne, reduced pain and inflammation, even mitochondrial function, and improving vision itself.
+
+48:16.176 --> 48:36.990
+What sets Juve lights apart and why they're my preferred red light therapy device is that they use clinically proven wavelengths, meaning specific wavelengths of red light and near infrared light in combination to trigger the optimal cellar adaptations. Personally, I use the Juve whole body panel about three to four times a week, and I use the Juve handheld light both at home and when I travel.
+
+48:37.090 --> 49:02.814
+If you'd like to try Juve, you can go to Juve spelled J-O-O-V-V.com slash Huberman. Juve is offering an exclusive discount to all Huberman Lab listeners with up to $400 off Juve products. Again, that's Juve spelled J-O-O-V-V.com slash Huberman to get up to $400 off. I think that it's very difficult to do what one wants to do without imagining it first. I think people get scared that
+
+49:02.946 --> 49:30.846
+the outcome won't be what they hope for. Like that fear of failure pieces, I think is very real. The post activity reflection, just wanna hover on that for a second. About a year ago, we did an episode on how best to study and learn. And this maps of course to neuroplasticity and the literature is very straightforward, but there's this interesting shift in the literature in the last couple of years, which clearly shows that anything that we reflect on later, we learn faster.
+
+49:31.266 --> 49:55.358
+and we retain longer. And it's because most all of learning is anti-forgetting. And that sounds so obvious. It's like a giant, duh, whenever I say that, people are like, duh, it's just a play on words. But no, I mean, there's all this sensory information coming in, massive amounts, and we forget most of it. It's either irrelevant or it just goes through for whatever reason and doesn't stick. When students, for instance, would read a passage once,
+
+49:55.458 --> 50:19.198
+or twice or three times or four times, and they did all the derivations of do they take notes, do they highlight, do they talk about with friends, et cetera. There are two things that really make things stick. And one is self-testing, just reflecting later, like, oh, did I, what happened? I don't remember that. No, I got that wrong. That's incredible. Self-evaluation in low stakes is incredibly powerful for retaining information. And the other one was just reflecting.
+
+50:19.394 --> 50:46.942
+on like what happened, what went right, what went wrong, which is really what you're describing about these exercises and your kid's day, right? It reminds me a little bit of like the spaced repetition literature. In a way, the reflection is like another instance of spaced repetition. You come back to it later and it resurfaces the material and that increases the odds that you retain it. Yeah, having taught many undergraduate and graduate courses, medical students, I can tell you, well, graduate students and medical students are,
+
+50:48.226 --> 51:12.606
+universally motivated because the stakes are very high, classes are smaller, there's kind of more of a community around those. They've also passed a filter just to get in, right? There's a selection bias just to be there. Undergraduates, it varies by place and course and et cetera, and major, et cetera. But whether or not it's their major or not, I'm not saying different majors are more or less motivated. But what's interesting is that most students are exposed to information
+
+51:12.866 --> 51:35.070
+They might study for the exam, ideally they do. And then the next time that they are evaluated on that material in any kind of concrete way is on the exam. And the students that actually test themselves or that ask for some, the best students always ask for like a pre-quiz quiz, inevitably best performing students. And I think this is just being willing to,
+
+51:35.266 --> 51:43.870
+feel the pain of being wrong when they're very low stakes. It still sucks. None of us like to be wrong. It's like, ah, you know, and you decide to put it online.
+
+51:43.970 --> 52:08.830
+Like, is any of this wrong? We've done that. We've now been having had a few painful experiences where I just said the wrong thing in passing or made a joke that was turned into a not joke. I'm a slow learner. I need a lot of feedback. I mean, there were jokes I made that then like were cut and exerted. Those kinds of experiences are painful enough that you check everything with a fine tooth comb going forward. You know, that's the way it is. But I think most people,
+
+52:08.930 --> 52:35.710
+will do anything to avoid that kind of scrutiny. And I think your willingness to lean into that scrutiny and just have the general public kind of test you. Like where are these ideas working, where are they not working is so powerful because the places where they don't work, you'll never forget. The places where they work, you'll never forget. I just heard from a friend who said that she had kind of this like perfectionist streak and she can look back now on her life and see that
+
+52:35.842 --> 53:01.214
+If there was a moment when she saw somebody doing something and she thought, oh, I couldn't be as good at them, as good at that as they are, or I won't be the best at that, then she would talk herself out of trying at all. Because, you know, and it's like anti-growth mindset. Right. Yeah. Well, and I thought about that because I don't feel that way, even though I feel like I did, especially early on, have some like, I don't know if we call it perfectionist tendencies, but just like this very high desire to do it right, you know, or to get it right.
+
+53:01.314 --> 53:28.926
+But I don't feel like I did that, talk myself out of it. And I thought, why was that? What was different there? And the story that was in my head most of the time was, I can learn this. So it wasn't even about a comparison, right? It wasn't like, oh, I could do it better or worse. That wasn't the thing. It was, oh, I think I can figure that out. And it'll be interesting to figure it out. I think if you can approach all of your habits, and maybe a lot of life, with this lens of curiosity, where it's not really about failing or succeeding. It's about reaching.
+
+53:29.122 --> 53:52.862
+You know, it's about trying something new and then seeing what you can learn from it. That puts you in a good position too, because it's a little bit less about, you know, competition has its place. And I consider myself to be a fairly competitive person, but it's nice when you don't make everything about that, you know, about being the best from the start, because you can talk yourself out of a lot. Oh, I agree. And I mean, I have continually placed myself in venues, you know,
+
+53:52.994 --> 54:20.446
+academic and physical, where there's no way I was gonna be the best in that environment. Just no chance. It was just the fuel of needing to compete in order to, not with my colleagues, but with people outside my institution, where it's a great motivator for doing that extra mile kind of thing. I mean, I guess Jocko talks about this, like, you know, waking before the enemy, where the stakes there, right, before he became a writer, the stakes were high risk, high consequence. Like, you don't get up earlier.
+
+54:20.802 --> 54:40.158
+more of your people might die. It was pretty high stakes, high consequence, right? And so I think that additional friction can really bring out people's best. I also think at some point it can become painful to the point where people around us obviously can suffer. Jaco, by the way, maintains, because I know his family,
+
+54:40.258 --> 55:08.030
+beautiful family in addition to doing all that. He legitimately gets up at 4.30 in the morning. I've done sauna with him. I was the guy down on the floor gasping for air. It was kind of a joke, a story for another time. But he calls it the factory reset, and he wanted to put me through the factory reset protocol, and it was brutal. It's just brutal. And I think that he lives in a land where the friction is the reward, but also that...
+
+55:08.386 --> 55:37.854
+the rewards come from relaxation too, which is what I wanted to bring up because after the sauna that night, the rest of us packed it in for the day and he went to see a show. I was like, oh, he also relaxes. I'm curious about how the habit of striving can be also mirrored by the habit of real, true relaxation. Not thinking about the thing you need to do or trying to build, but allowing that maybe plasticity to take place, not just in sleep, but are you an active relaxer? Like you say, now is time to just completely chill.
+
+55:38.594 --> 55:57.502
+Yeah, I think I'm pretty good at shutting off when I decide to shut off. There was a, I think it was on Tim Ferriss' podcast at one point, and he had Josh Waitzkin on there, and Josh said something about how he was doing, he was in a martial arts competition, and he was actually asleep on the bench on the side,
+
+55:57.602 --> 56:19.870
+and they came over and woke him up and said, hey, we got the time wrong for your event. Like, you're actually up in like two minutes. And so you like woke up out of the sleep and they did this little like pre-competition ritual and just like flipped the switch and was, you know, ready to go. And he talked about this importance of being able to turn it on and turn it off. And...
+
+56:20.514 --> 56:35.294
+Ever since I've heard that example from him, I've been thinking more about this idea of turning it on and turning it off. You know, you sprint and then you rest. What does that look like in daily life? And I actually think, first of all, I think it's kind of fractal.
+
+56:35.586 --> 57:02.878
+I think that you can say you could have like a 10-year sprint where you're like really career focused. That's the season of your life right now. And then maybe the next season is more family focused or more relaxation focused or whatever. It also, of course, could be day or week or, you know, even hour. So it can scale up and scale down. But I also think it maybe is a better version of what it means to be balanced. You know, people talk a lot about work-life balance or what balance might look like.
+
+57:03.202 --> 57:33.022
+I think balance might actually be turning it on and turning it off really well. It's not doing everything at like 50%. You know, it's not just like staying at some steady state. It means that when you're sprinting, you're actually sprinting. And when you're resting, you're actually resting. And the ability to oscillate between those two states in lots of ways, I think is very helpful. There's obviously the physical ways in which you could do it, whether it's working out or, you know, actually relaxing and resting. I think there are mental ways to do it too.
+
+57:33.346 --> 58:02.462
+I tried to practice this a couple months ago. We were hosting a party. And, you know, anytime you're hosting a man, there can be like this urgency that comes, right? The people are coming. The guests are coming. Everybody's anxiety levels ratchet up. Like, you know, is everything ready? And the phrase that I was playing with was, can I be outside and above this? You know, so can I mentally, can I step outside and above the situation and almost like look down on it? And if you are outside and above the situation, really what you want is to feel larger and
+
+58:02.626 --> 58:28.190
+than the situation that you are dealing with. If you are smaller than the situation mentally, then it is driving you, right? Your anxieties are responding to this larger thing that you feel like you can't control. But if you can step outside and above it, now I can look down on what is facing me right now, and I can make a wiser decision or a calmer decision or whatever. And so I'm trying to find ways to kind of turn the anxiety on and off, right? Like turn the stress on and off.
+
+58:28.322 --> 58:58.142
+So I think there are a number of things that you can do there, but I'm trying to get better at practicing it myself. Yeah, I think the word reset is not in our action palette enough these days. I think because it's so easy to bring information and work to wherever we happen to be, and even if it's not work, just communications. I mean, I've made a point in recent years to put social media on one phone, maybe even keep it in a lockbox, but I'll try and take hikes
+
+58:58.562 --> 59:23.134
+where I'm just spending time with the person I'm with and the phone is back in the car. And I realized there's a danger to that. Like there could be a fire, it is LA after all. It could be, you know, mountain lions, this kind of thing, but it's totally worth it. Totally worth the untethering in my opinion. Very low percentage risk too, you know. Yeah, I mean, there are people around and I mean, it's not clear the phone would save you from a mountain lion anyway.
+
+59:23.298 --> 59:51.966
+So you're better off, actually probably reduce your reaction time. Record your final moments. Yeah, exactly. Yeah, that's interesting. I also think that there's an element to, if you're the type of person who has a very strong work ethic and you have worked your way out of problems throughout life, that for me, for a long time, that was my solution to something. If it wasn't working, well, then I'll just work a little bit harder and I'll work my way out of it. And when that has worked for you for a while, you end up using it as a crutch.
+
+59:52.354 --> 01:00:19.134
+And so hard work becomes this thing that you just kind of like slide back into. But what are the odds, mathematically speaking, what are the odds that the thing that you're doing today or this week is the highest and best use of your time? It's almost impossible that you are actually working on the thing that is the best use of your time. I think Sam Altman has some quote where he said something like, you should have a very high bar for working on anything other than thinking about what to work on.
+
+01:00:19.266 --> 01:00:43.614
+Because choosing the right thing to focus on is going to get you 100 or 1,000x the results. Maybe you can work 10% harder. But if you want 100x the output, you need to direct the attention and energy to something else. And I think that creating space to rest, to reflect and review, allows that opportunity to arise. A lot of the executives I talk to or companies that I speak at or work with,
+
+01:00:43.970 --> 01:01:05.246
+Everybody's just kind of tapped out. They're working quite hard, and so they keep their head down and try to knock out the things that are on their plate. But what they need to do is step back and relax and think for a moment to reflect and say, are we working on the right things? I think that's some of the most important time that I have carved out in my week. I have like roughly 30 minutes every Friday where I just do a weekly review.
+
+01:01:05.346 --> 01:01:32.670
+And there is nothing scheduled. It's just me thinking about the business. And that, a lot of the best stuff comes out of that. I think it'd probably be better if it was three hours instead of 30 minutes. But, you know, you need to find at least some time to sit down and think, am I directing my precious energy and attention in the right way? And I think that rest and reflection and relaxation play directly into that. If you're just working, if you're just sprinting all the time, you don't have the space to see the larger picture. Yeah, I...
+
+01:01:33.026 --> 01:02:02.910
+I'm really intrigued by this concept of wordlessness, like getting your body and brain into states of while awake, wordlessness. So not a lot of information coming in about work or really anything. Maybe it's the liminal state between awake and sleep. Some of these NSDR, yoga nidra type practices, but it's more like hiking or running or swimming where your brain goes through a period of chatter and you're thinking about the other thing, but then at some point,
+
+01:02:03.106 --> 01:02:23.518
+everything becomes discontinuous in a way and it, or listening to music. Hiking is the one that does it for me. What you're describing right now is like how I get after like maybe an hour into a hike or something. Do you get good ideas either coming back from it or on the hike or, or, I think the most interesting thing is I feel good. I feel so much better. You know, you hear these,
+
+01:02:23.618 --> 01:02:47.518
+Phrases like forest bathing or things like that. I feel so much better after that than I do after like the same amount of time looking at my screen or something like that. It's like a completely different state. I think that it almost feels like it taps into something deeply biological where you're like, oh, we are in fact animals, you know, like we were intended to live out in the forest. And so, yeah, that state that you're describing to me feels how I feel when I hike.
+
+01:02:47.714 --> 01:03:06.558
+Yeah, it definitely taps into something. And I think it's multivariable. I think it's, you know, the full spectrum light from sunlight. Turns out anytime you're near greenery, you know, the leaves stay relatively cool even on hot days. And so they'll reflect surprisingly, because it's not the way you would expect it based on the physics of the color of green leaves.
+
+01:03:06.722 --> 01:03:35.966
+there's a lot of infrared light essentially being reflected back on you. And that infrared light is not the type that damages your skin. It is the type that feeds your mitochondria. It actually penetrates your body's surface. It literally charges the mitochondria. So there's some really interesting things about- That's fascinating. Being in nature, greenery, forest bathing, the grounding folks would get all excited about that. Most people are wearing shoes where they're not actually grounding to the ground. So that's a little bit trickier, but standing in a stream just feels good with bare feet, obviously. I think it's a real true,
+
+01:03:36.130 --> 01:04:05.598
+kind of primordial reset, just trekking. The word reset resonates with me too. That's how it feels. It feels like I go on a hike every Wednesday and it feels like I get to reset. By yourself or with someone? Yeah, usually by myself. Sometimes I'll take a friend, but usually it's- You listening to something, phone? Nothing, yeah. Great. No, it's just, yeah, it's just me in the woods. Nice. Yeah. That's awesome. Like gradually becoming more of a mountain man each year. That's great. I mean, I think there is this return to things that are more, you know, in,
+
+01:04:05.762 --> 01:04:29.086
+in real life, as they say. I think that the ability to reset is such a huge part of being a great anything. Because if you can't, yeah, just fight, fight, fight, fight, fight. It eventually gives way. Which makes me want to bring something up that you raised earlier, and I should have asked then. This notion of identity. I think one of the reasons that it's so hard for people to
+
+01:04:29.442 --> 01:04:51.390
+relax and reset or to shift their life to a different mode of focus. Like for instance, you said you had this online blog and then you said to focus on the book and then now you're doing a number of other things. It's kind of interesting to explore how we catalog wins or how we carry our wins as well as our losses. Because I think a lot of people, they'll publish a book
+
+01:04:51.874 --> 01:05:21.790
+If they're lucky, it has half the success of Atomic Habits. But then they feel like they either have to do it again or they have to do something to sort of maintain the buoyancy of that experience out there in the world, as opposed to just being able to shelve it in their mind. Like, that was awesome. Listen, Atomic Habits is a super impressive book and it's done incredibly well for all the right reasons. And one could say like, okay, did that, like next thing. And some people can do that. You mentioned Waitzkin. Josh is a friend and he just has this incredible ability to be like,
+
+01:05:21.922 --> 01:05:50.462
+I'm done playing chess. I'm doing the next thing. I'm done doing that. Like he really can cut ties with his previous self. I think most people find that difficult. We feel like we need to succeed where we succeeded before or else it no longer is real. How often do you play with the idea of habits and identity and kind of what you're on the precipice of now? It's an interesting question. I saw this with a number of the things that I researched when I was writing the book, stories that came up, and then I've also felt it personally. Some examples.
+
+01:05:50.850 --> 01:06:17.374
+I heard from one guy when I was writing the book who was in the military, then he leaves and he's like, my identity for the last 20 years is I was a soldier. Now I'm not, so what, like, who am I, basically? And then another common one that here is from athletes. You know, I felt this way, I didn't even play professionally, but, you know, I played all the way through college, you get to the end of your senior year, I've been doing this for 17 years now. And then all of a sudden, the next day, you're not an athlete anymore, so what, like, who am I? You know, this is like a huge part of my identity.
+
+01:06:17.602 --> 01:06:44.926
+And so you can also imagine, you know, founders when they sell their company or CEOs after having a long run. You know, it's just like you have something that was a huge part of your life and now you're not. I heard from a mother the other day who said, I'm suddenly an empty nester. You know, 25 years have been taking care of these kids. Now all of them have moved out. Like, you know, what am I doing? What is my purpose? So I think it's very common for people to have something like that, an identity that they feel like they've lost. And for me...
+
+01:06:45.122 --> 01:07:12.574
+the thing that helped the most was trying to find through lines from that previous identity that can still serve me in the new season. So you take the soldier example. Yeah, they're not a soldier anymore, but they can still be a good teammate. They can be the type of person who falls through on their mission. They can be somebody who's reliable and can be counted on. You know, and then you start to look at the parts of your past where you were that kind of person and then look at your current situation where can you express those traits again.
+
+01:07:12.738 --> 01:07:42.704
+in my little case as an entrepreneur, I always emphasize being an entrepreneur and a creator more than I did being an author. I kind of have to admit that I'm an author now because I have the book, but I really, what I see myself as is an entrepreneur. And so the shift from blog to book to co-founding companies, to me that feels connected because I have that story as the through line. So I don't know that it's really about abandoning your past in any way or saying that, oh, that didn't happen or it happened in a different way. It's just about finding the
+
+01:07:42.704 --> 01:08:06.878
+parts of the experience that you can hold onto and feel proud of and carry into your next chapter. Not everything goes on forever. Basically nothing does. And that's fine. You know, it's okay. It doesn't need to last forever. You can still feel very proud of what it was, but let's try to find some pieces of it that we can take with us to the next thing. Along the lines of identity, it sounds like you are very content with
+
+01:08:07.234 --> 01:08:30.047
+understanding where you're at, where you were before, and where you're headed next. I think where people get tripped up is that they want to be understood by the outside world, or they have a hard time cutting ties with how the outside world understands them. Like if the entire world, like if I asked, who's James Clear? And he says like, the author, you know, it can be harder for people to cut ties with that. I've seen this in a lot of,
+
+01:08:30.242 --> 01:08:51.775
+a lot of professions and friends who are very, very successful. The entrepreneur example, founder example is a very important one. I think I've seen a few times on X and other social platforms of founders that sell their companies for half a billion dollars, billion dollars. And I'm from Silicon Valley. So you end up knowing some of these people over time and inevitably,
+
+01:08:52.066 --> 01:09:19.934
+they don't feel good a few days later. It's like a postpartum depression of sorts. And it's because for them, it was the hunt and now what? And if they don't prepare for that, actually it can be catastrophic. People say, oh, poor billionaires, you know, but I think it's more of a model for what we all experience. So I think these titles that we tell ourselves we have and that we're living into are powerful, but double-edged. And where we glean the most feedback
+
+01:09:20.066 --> 01:09:47.070
+about our identity from people, I think is also dangerous because it can hold us in place in a major way. So two things. First is you see the founder example shows it very explicitly because there's this exit for a large amount of money, but it can be true for anything. You see why you should optimize for playing the game and not necessarily winning the game, right? The win is do you get to continue to keep playing?
+
+01:09:47.202 --> 01:10:05.438
+And so in a lot of ways, we glamorize these outcomes. But in fact, it's like, how do you want to spend your days? You know, when I choose a new project to focus on, one of the first questions I ask is, how do I want to spend my days? And then you draw a box around what you want that to look like. And inside that box,
+
+01:10:05.538 --> 01:10:35.454
+how can you make the biggest impact, make the most money, reach the most people, you know, whatever, but not outside of it. But what happens a lot of the time is people start by asking the second question, which is how can I make the biggest impact or make the most money or reach the most people? And then they talk themselves into a daily life that is outside of what that box would contain. And you find that this is not actually how I want to spend my days. Or you optimize for the outcome, like the founder selling for $500 million and not for the daily lifestyle.
+
+01:10:35.650 --> 01:11:00.958
+And really, like, that's what matters the most is do you like how you spend your days? Do you have power over your days? Do you have, you know, do you feel alive during your days? And so it's a different, it requires you to ask a different question than what most people are asking most of the time or what society in general is asking us most of the time. I'm just very impressed, to be completely candid, I'm very impressed by how self-identified you are with who,
+
+01:11:01.058 --> 01:11:23.230
+with your role at a given stage of your work life. And now I know you have a family, et cetera. And Josh Waitzkin as well. How he grew up a chess player, this chess prodigy, the movie about him. There were all the bricks stacked for him to stay in that role, maybe not forever, but to hold onto that identity. And he just cut ties. He never played another game of chess.
+
+01:11:23.778 --> 01:11:52.894
+And he'll talk about chess and he'll talk about it with great affection and also with a little bit of pain about some of the painful points of it. But he was able to just cut the cord and be the next version of himself and the next version. And not just at the time where he started a family, because that's the most transformative step, right? For everybody, because you have all these new roles that are suddenly in. But in terms of professional, in terms of artistic roles, creator roles, entrepreneur roles, I think most people have a very hard time
+
+01:11:53.026 --> 01:12:15.838
+breaking the mold that they've stepped into. Jim Carrey's another example, where he just basically left Hollywood. He was like, I solved it. Like I got the highest paid actor in the world, I think at one point. And then it was just like most successful by other accounts too. And it was just like, I'm done. And we were like, what? And it still boggles the mind. He was like, but it's so beautiful, right? He's like, I'm out.
+
+01:12:16.034 --> 01:12:37.406
+And as long as they're doing it for themselves, it's great. Yes. Yeah. And there's no playbook, right? Obviously. Like everybody has to choose for themselves. How long do you want to stay in this role or emphasize this identity or, you know, move on to something else? But I do think that what you're saying is revealing a deep and important truth, which is that identity is a double-edged sword. And earlier in this conversation, we were talking about how
+
+01:12:37.954 --> 01:12:59.006
+Building habits and repeating habits cast votes for your desired identity. It provides evidence of being that kind of person. And that's a very helpful thing because it gets habits to stick and habits to build and you start to take pride in being that type of person. You fight to maintain the habits. But in the long run, you can also see that the tighter that you cling to any given identity, the harder it becomes to grow beyond it.
+
+01:12:59.170 --> 01:13:29.136
+And so you see all kinds of examples like this, right? You have like a surgeon who's done an operation a certain way for 15 years and has a long list of patients who have gotten good outcomes. And then a new technology comes in and they resist it or kind of slow to take it up because they want to do it their way. And then all of a sudden, five years later, they're behind the curve. Or, you know, you have a teacher who has always done her lesson plans a certain way for 20 years. And then YouTube comes along and like she needs to utilize it, but she doesn't want to. And then all of a sudden, five years later, they're behind the curve. And it's true for many other things too. It could just
+
+01:13:29.136 --> 01:13:58.622
+be somebody who stays on a given path for too long. But the more that you grip to that identity, the harder it becomes to grow. And so the way that I view it is the identity is very helpful early on. You know, you're getting a habit established. It helps you become that type of person that you want to be. It's like a painting that is always being retouched. You know, the image is never staying totally the same. There are parts of your identity that are more fixed than others. You know, I'm tall. I'm a father. Like that stuff's not going to change. But there are also big parts of your identity that
+
+01:13:58.914 --> 01:14:28.830
+are always gonna fade and ebb and flow and change with time. And maybe you never play a chess game again, you know, like maybe that part of your identity is in the past. But whatever it is, it's always being touched and edited. And so I think that willingness to reinvent yourself, to edit as time goes on, life is dynamic, it's not static. And so you need a willingness to continue to reinvent and edit as you go. I'd like to take a quick break and acknowledge our sponsor, Eight Sleep.
+
+01:14:28.930 --> 01:14:57.822
+Eight Sleep makes smart mattress covers with cooling, heating, and sleep tracking capacity. One of the best ways to ensure you get a great night's sleep is to make sure that the temperature of your sleeping environment is correct. And that's because in order to fall asleep and stay deeply asleep, your body temperature actually has to drop by about one to three degrees. And in order to wake up feeling refreshed and energized, your body temperature actually has to increase by about one to three degrees. Eight Sleep automatically regulates the temperature of your bed throughout the night according to your unique needs.
+
+01:14:57.922 --> 01:15:26.110
+I've been sleeping on an eight sleep mattress cover for nearly five years now, and it has completely transformed and improved the quality of my sleep. The latest eight sleep model is the Pod 5. This is what I'm now sleeping on and I absolutely love it. It has so many incredible features. For instance, the Pod 5 has a feature called Autopilot, which is an AI engine that learns your sleep patterns and then adjusts the temperature of your sleeping environment across different sleep stages. It'll even elevate your head if you're snoring and it makes other shifts to optimize your sleep.
+
+01:15:26.338 --> 01:15:53.022
+If you'd like to try 8sleep, go to 8sleep.com slash Huberman to get up to $350 off the new Pod 5. 8sleep ships to many countries worldwide, including Mexico and the UAE. Again, that's 8sleep.com slash Huberman to save up to $350. I love it. I think it's something that at every stage of life is very relevant to how people decide to show up. I think I'm recalling that when I started 8sleep,
+
+01:15:53.218 --> 01:16:21.950
+studying neuroscience, there was no field of neuroscience, but they had a textbook that was, I think it was like biological psychology or something like that, or physiology, can't remember the book, but they had pictures of some of the luminaries in the field. There were so few people you could actually put that in the kind of jacket of the book. Five of them, here they are. Yeah, and they had their pictures and I'll never forget, there were little quotes below and one guy, I don't even know who it was, because I have a pretty good handle on neuroscience history, but I don't remember who it was, but he said, his quote was, I enjoy doing research more than eating, and I thought,
+
+01:16:22.338 --> 01:16:47.582
+Sounds like a really cool profession. I already liked biology, but I was like, how cool would that be? I mean, everyone loves to eat. Most everyone loves to eat. I'm like, how cool is that? He loves it more than eating. And I was like, wow. And I think eventually I experienced that, how much fun doing experiments is. But at the same time, I think that, yeah, the danger is people get into a mode where they're
+
+01:16:48.322 --> 01:17:12.894
+where they can't shift. There's another piece too, which has to do with recognition, either large scale, like the kind of recognition you've achieved or smaller scale, like in a community or in a family. There's this great moment in the movie, Basquiat about Jean-Michel Basquiat, the painter, where he's having a conversation with his friend about fame and how it can contaminate the creative process. And the essence of it is basically
+
+01:17:13.826 --> 01:17:35.070
+And we'll put a link to it. It's really good. Benicio Del Toro is doing most of the talking. So even just listening to him talk is fun. But the content is great too. And the essence of it is that if you become known for something that's not the most important thing to you or work that you did is recognized, but not for the reasons that you did it,
+
+01:17:35.202 --> 01:18:00.222
+that there's this kind of mismatch. And the big mistake is seeking to be understood in the way that you want to be understood and for every level of what you do to be understood. And I think this is when criticism starts to hurt is when it starts to feel like misunderstanding of how genuine you are about your work or they're just getting it all wrong. Like they're looking at the right things, but they're getting it wrong because they don't understand your motivation. And I think one of the most powerful things
+
+01:18:00.322 --> 01:18:16.414
+is to develop habits that are really around your understanding of who you are and why you're there. And yes, you want to achieve these milestones and the feedback, but when the feedback comes to be very cognizant of like, that doesn't change why you did it.
+
+01:18:16.834 --> 01:18:46.750
+Like they can't actually change, like you have to take control of your own thoughts is really what we're, and your own goal process. Otherwise it can really destroy people. It destroys Jean-Michel. I mean, he was a heroin addict and he died, I think of AIDS or a heroin overdose or both, I don't recall. But, you know, it clearly destroys artists when they achieve success, but they're not understood. And I think it can destroy entrepreneurs too. It's been an interesting learning experience with Atomic Habits.
+
+01:18:47.106 --> 01:19:16.670
+Really, there is no one version of Atomic Habits. There are 25 million versions. And it's what those 25 million people who have read it have thought. And I don't have control over any of them. It's very uncomfortable, right? It's interesting. You have to come to terms with it. I've come to accept it. I've come to accept it. And even to the point now where it's the highest rated habits book of all time, which is really grateful for that. Obviously, one of the bestselling books of all time. It's always sitting up there on the bestseller non-fiction list. This was crazy. I just found out about this. But...
+
+01:19:16.866 --> 01:19:29.374
+I think it's one of the top 100 selling books ever. Amazing. It's been out for seven years. But anyway, all of that is great. My point is that I can just trust that it's good now.
+
+01:19:29.506 --> 01:19:57.662
+You know, is it ideal? No. Is it a perfect book? No, there's no perfect book. Would I do some things differently if I could write it again today? Yeah, probably. You know, what would I edit? Whatever. But I can trust that it's good. And that's good enough for me. The fact that 25, there are 25 million interpretations of it or that some people won't like it or is, it's fine. It's fine. I've heard from a couple of people who have had projects. Some of them I've talked to, some of them I haven't. But like, I heard someone told me that Adele, when she wrote Someone Like You, she was like,
+
+01:19:57.794 --> 01:20:23.326
+best song that I'll ever make is behind me now. You know, that's like kind of depressing in some way. And I don't feel that way about Atomic Habits. I'm like, it can just be a project that I worked really hard on and did my best and it went well and that's fine. That's all it has to be. And I can move on and do the next thing and try to do my best with that. And, you know, you can just, it doesn't have to become your whole identity, which I guess ties back to the point that you're trying to make, which is that
+
+01:20:23.778 --> 01:20:40.350
+In order to have a healthy identity and in order to let it grow through these different seasons of life, you can't get too fixated on what other people think about it. I find that whenever I'm worried about what someone else thinks, I'm usually not actually worried about a particular person.
+
+01:20:40.546 --> 01:21:04.126
+I have some story about like what they're saying about me. But if you pin me down and you say, well, do you care what Sarah thinks? I'm like, well, no, I'm not actually worried about what she thinks. You know, I'm, what I'm worried about is this collective imaginary they in my head. And so you're like, oh, it's actually fictional. And realizing that and releasing yourself from that fear a little bit, I think helps you maybe move on to the next thing that you need to do.
+
+01:21:04.482 --> 01:21:17.246
+It's clear you have a healthy relationship to this whole thing, not just success of the book, which is definitely earned, but just the identity piece, which again, I think can happen at the scale of two people.
+
+01:21:17.794 --> 01:21:43.550
+that you know we do something for someone else we want to be we want to better serve them or the relationship and then but we also people generally want to um not just be seen for the effort but they want to be understood for why they did it maybe just because they're a nice person and they want to be see and this whole notion of like trying to hold on to the underst or to grasp the understanding of motivation it does not work it doesn't work at the level of the only time it works is when there's just one of you and you know
+
+01:21:44.098 --> 01:22:05.790
+what's true for yourself. I think that's the thing to hold on to. And I think it's very important, this notion of feedback from other people. I think the story that people start to create for themselves if they get critique, not just in the public space, but from anyone, is that I do think that people tend to map it to some story in their head about their family.
+
+01:22:05.954 --> 01:22:24.286
+you know, a alcoholic parent or no one's really succeeded. I mean, this is why it's hard, I do think for people to break through in new environments. You know, they're the first person in their family to go to university or something like that, or to play a competitive sport at a certain level. And so when the failure comes back,
+
+01:22:24.386 --> 01:22:50.078
+an instance of failure, I think they map it to like what this means about me as a person. I'm faded, my family line, my history is faded. Like all this fading to be stuff is very dangerous, but I can tell you based on growing up where I grew up and being surrounded by the people I'm surrounded by that the people who have never had a story of failure or trauma or difficulty, they're the most terrified. And they are actually the most vulnerable.
+
+01:22:50.434 --> 01:23:18.430
+Most of the people I've known that have self-harmed in sometimes very serious, irreversible ways, or just completely crashed their lives, and they were just glowing examples of what's possible in creativity and performance, academics, sport, all this, are people that had never failed until they failed. And I think it gets to this very point. This is something that I think, it doesn't have to be sports. Sports just happens to be how I learned it. There are many ways to do it. I think really what it probably comes down to is
+
+01:23:18.562 --> 01:23:45.406
+performing publicly or performing with a risk of failure. But for me, it's one of the, I think the best lessons that I pulled out of playing sports is what it feels like to fail publicly and getting over that. Nobody wants to strike out to end the game, but if you do, you feel terrible for a little bit and then you realize you move on. When I got to college, you go into the gym and you're training with the rest of the team and like you're a freshman and you're weaker than the other guys and that doesn't feel good, but you miss a set and then
+
+01:23:45.538 --> 01:24:12.702
+You move on and you go do the next exercise. And all those are little moments of failure that you have to learn how to get over and get through. And each time that you do, you are training this muscle of learning what it's like to rebound. In a lot of ways, the secret to winning is learning how to lose. You know, it's learning how to bounce back from a loss and figuring out how to show up again the next time despite that. And so sports was the best way for me to learn that. By the time I got to my senior season, I said...
+
+01:24:13.122 --> 01:24:42.174
+I don't care. I would rather be out there. You know, I don't want us to lose, but if we're going to lose, put it on my shoulders. I can handle it. I'll take the loss. You know, I don't want us to lose, but I would rather be out there. And I think that served me really well in my entrepreneurial career too, because I'll reach, I'll try. And ultimately what matters is not that you keep winning, but that you keep reaching. And eventually if you reach enough, something's going to work out for you, but you have, you can't be scared of failure in order for that to work. You know, you have to be able to know how to lose. You have to be able to know how to come back from a loss.
+
+01:24:43.074 --> 01:25:04.574
+Yeah, that's powerful. And the fact that you were willing to do it publicly is very powerful because nowadays I think it's almost always public. You know, I'm a big fan of Twyla Thart, the choreographer. She's great. Yeah, she's terrific. And she talks about how the important thing as a dancer or a choreographer is to fail a lot in private so that you don't fail
+
+01:25:05.026 --> 01:25:23.358
+in public. Nowadays, that's much more difficult. Like any mistake that's on a stage or a court is going to be on a phone and a video and it's gonna hit the internet. And the more recognizable somebody is, the more famous they are, the harder it is for them to control their perfect reputation. So we've seen kind of an inversion of what we,
+
+01:25:23.714 --> 01:25:53.438
+of how at least I was raised, where everyone in the textbooks and whether or not it was Martin Luther King or whether or not it was a sports star, whoever, like they only showed you the best parts of these people's lives. Now it's all unearthed, it's all out there. And so I think just the act of being online for like a middle school kid is a very scary thing, right? Or in high school, like if something doesn't go well, they're like dancing, like school dances. I have a niece who's like, I asked her about the school dance. She's like, oh yeah, there's no phones there, right?
+
+01:25:53.698 --> 01:26:12.574
+You know, like no phones so that they can just enjoy themselves. Right? Because reputations and rumors and gossip and drama, it exists at every level. You know, a professor at Stanford is a true luminary in the field of biology. He once said to me, he said, it's all just like high school.
+
+01:26:12.738 --> 01:26:41.918
+And I was like, God, really? And he's like, yeah. He's like, you can change, people change. He's like, but the way people interact and what they talk about and what's most salient and is rarely what's most important or interesting, you know, and the drama and all that. He's like, it goes on forever. All the whispering, the this, the that. He's like, it never ends. It's like, it's baked into everything. He didn't say nursery school and elementary school, fortunately, but everything from high school forward, he says, this is exactly the same. He said in,
+
+01:26:42.210 --> 01:27:06.398
+I guess they don't call them old age home, retirement homes. There's like drama, you know? So I think it's important to recognize. I think there's space for both statements to be true. So Twyla Tharp's statement, you make a lot of mistakes in practice so that you perform excellently in public. That's definitely true, right? When I was playing baseball or getting ready for a big test,
+
+01:27:06.498 --> 01:27:34.974
+you know, my dad would sometimes say to me, you know, if you're nervous before the performance or something, you're like worried how the game's going to go or worried about this test you're going to take, he would say, trust your preparation. And I think there's kind of two messages there. Like the first is, you know, relax, you're going to be able to perform whatever. But obviously the second hidden message is you better prepare, right? Like you need those reps in private in order to perform in public. And that I think is a durable truth that is consistent throughout life. You know, like the person who prepares, you know,
+
+01:27:35.874 --> 01:28:01.054
+is in a better position to win. But then it's also true that things are more public now than they've ever been before. I would say this is maybe one of the biggest downsides of your profile rising as you get more well-known through your work is that it just creates less space where you can experiment and explore as much. It's a little bit harder for me to just like kind of run a lightweight experiment now. It's like if I make any announcement, it's like people are watching.
+
+01:28:01.154 --> 01:28:29.246
+which is great. That's like a huge luxury to have, you know, it's best possible outcome, but it just changes how you need to, I think what it means is you need to be a little more thoughtful about designing a place where you can experiment. And that's like your niece and them not having phones at the dance recital. They're trying to design a space where people can practice a little bit more easily without it, everything being judged as much. So I do think you still need what Twyla Tharp's recommending. You need a lot of reps, but then maybe now,
+
+01:28:29.378 --> 01:28:55.902
+you need to be a little bit more careful about how you structure the spaces to make those reps possible. Yeah, you mentioned this song by Adele and her feeling or her conclusion that that was the peak. I think we have to be careful about concluding what's the peak. I think we also have to be careful about just continuing to pursue one peak after the next. Because as you said earlier, there's certain things that are their legacy, like they really last. There's one thing I really love about
+
+01:28:56.066 --> 01:29:22.878
+books, music, poetry, art of all kinds, there are other examples of course, is that they last forever. They're durable. It's a durable medium. Yeah. What doesn't last, just by a counter example, is anything that's in the media. The turnover cycle just doesn't last. I sometimes think about what's really legacy content on the internet, and I think a couple of things come to mind. It's just a partial list.
+
+01:29:23.042 --> 01:29:46.622
+2015 commencement speech that Steve Jobs gave at Stanford, I think stands as legacy content, is a great value to many people. There are so many TED Talks, and many of them are excellent. Very few get signaled the noise that you could predict will make them on there 15 years from now. But if we were to look at scientific publishing, the same thing is true.
+
+01:29:46.754 --> 01:30:15.326
+There are very few papers that stand the test of time, not because they were wrong, but they get replaced by a field of review. Academic reviews basically come to replace the papers that they describe over time. So I think seeking legacy is dangerous. And it brings us back to this question of how to construct the day. Because at the far extreme, it's kind of a life, a career, a legacy.
+
+01:30:15.458 --> 01:30:25.214
+I'd like to talk a little bit about the day, the unit of the day. You've talked about never failing twice in a row. Is that day today or is that...
+
+01:30:25.378 --> 01:30:52.638
+morning, afternoon, two failures, you're done. Yeah. I did hear one time, I think Gretchen Ruba was the one who said you should split a day into four quarters. You got morning, afternoon, evening, and then nighttime or, you know, divide. That's what I do. Definitely. And then it's like, if you lose the first quarter, well, that's all right. You can still come back and win the next quarter. It kind of gives you a permission for the day to not be a wash. You know, I do think that's a mistake people make. Sometimes they get off on a bad start and they're like, oh, the whole day is ruined. You know, let's reset and try to, you know,
+
+01:30:52.834 --> 01:31:15.774
+I think in a lot of ways living a good life is figuring out a way to have a good day even when things don't go your way. If you have that ability to bounce back and make something of the day even when it's not optimal, that's good. You position yourself to have a good life because things are not always going to go your way. Never miss twice is an idea that – it's an encouragement. It's an attitude.
+
+01:31:16.002 --> 01:31:44.030
+right? That you show up and, you know, you've been following a new diet for eight days and then on the ninth day you binge eat a pizza and you're like, well, you know, I wish I hadn't happened, but never miss twice. Let's get back on track tomorrow. Or in my case, you know, I wrote a new article every Monday and Thursday. That was the habit that kind of launched my writing career. If I missed on Monday, I wish I hadn't happened, but let's make sure I get one out on Thursday. And what you, the real insight here, what you really learn when you look at top performers across many domains is that
+
+01:31:44.290 --> 01:32:14.014
+They make mistakes like everybody else. You know, everybody's human. But they tend to get back on track quickly. And if the reclaiming of a habit is fast, the breaking of it doesn't matter that much. You know, you get to the end of the year and it's just a little blip on the radar. But it's missing a habit and letting slipping up once turn into not doing it for three months. That's the real problem. And so you're trying to course correct quickly. That's what Never Miss Twice is really about. You could break it down within a day if it's a habit that you're doing multiple times a day.
+
+01:32:14.178 --> 01:32:40.670
+But I think the real thing is trying to build this ability to rebound quickly. And to me, that's also the danger of quote unquote, optimization as most people perceive it. They figure if they miss the optimal window to work or the optimal window to work out, then it's over. And I think there's advantages to understanding when one is at their mental or physical peak and trying to schedule things that way, but also having flexibility.
+
+01:32:40.802 --> 01:33:08.286
+I feel like you would be the perfect person to answer some of this. But this is how I first started thinking about intermittent fasting was it's like, well, if you – everybody was so wrapped up in when exactly you were eating. And I was like, if you got the same amount of calories in a 24-hour period and you just spaced it out differently, one person's eating every hour, one person's eating every six hours, one person only eats it all in an eight-hour window, whatever. Is it going to make that big of a difference? Like what percentage difference are we –
+
+01:33:08.418 --> 01:33:20.318
+attributing to purely meal timing, right? So I don't know what the answer is. Maybe you do. But I feel like it's probably fairly nominal. If your body's getting the same amount of calories from the same foods in a 24-hour span,
+
+01:33:20.642 --> 01:33:48.670
+it probably isn't making that dramatic of a difference. You're right. The one exception is if you start to eat on a nocturnal, more nocturnal schedule, it's worse. And I'll battle people till the end of time on this one. I'm not saying everyone has to be up with the sun and down with the sun at the end of the day and only eat when the sun is up and not after the sun is down. But you want to protect an hour or so before sleep, ideally two or three hours where you're both not gnawingly hungry, nor are you,
+
+01:33:48.898 --> 01:34:14.366
+a lot of calories before sleep because it will impede your sleep. And people who work the night shift, and by the way, a lot of people are now shift workers. They qualify as shift workers just by virtue of being on their computers at night or phones or whatever. There is a ton of data just showing how bad it is for your health, GI health, cancer risk, longevity, et cetera, to be a shift worker. We need shift workers of certain kinds, right? Thank you, shift workers. But eating the majority of your calories
+
+01:34:15.362 --> 01:34:40.030
+too close to bedtime late in the day, not good. Eating the majority of your calories at lunch and dinner, fine. I have a friend who's a, he's actually the neurosurgeon at Neuralink at Elon's company. And he has a policy whereby he skips one sort of traditional meal per day. So he'll have breakfast and dinner, or have lunch and dinner, or have breakfast and lunch, and he varies it. And he insists that it keeps him flexible around this. And he's certainly healthy.
+
+01:34:40.130 --> 01:35:09.022
+N of one here. But I kind of like that, right? You're not always eating between 11 and seven, which is generally what I try to do, but sometimes it's a little bit later. But I totally agree that calories in, calories out, and the laws of thermodynamics hold. So you just don't want to eat in the middle of the night. That answer, I think, is actually somewhat instructive for this overall discussion about timing and what the day looks like for habits in general, which is, yeah, if we're being perfectly designed and robotic about it,
+
+01:35:09.218 --> 01:35:24.350
+And yes, we can probably figure out optimal windows for all kinds of things. And it's great if your day can go that way. You may not always have enough control over your day to make that happen, but on the days when you can, that's great. But also, what we realize is that there is a broad range in the middle
+
+01:35:24.546 --> 01:35:54.512
+you have flexibility and it counts for a lot to get the thing in, you know, whether it's eating the meal or doing the workout or doing the writing session or whatever. It counts for a lot to do it, even if it's not at the perfect time. And then at the other extreme end, maybe like not more nocturnal eating, there's some window where it doesn't make sense. Did you miss your workout today? Okay, do you really need to be working out at 2 a.m. or should you just go to bed at that point and get some sleep? And, you know, like you'll have to decide what that is for you, but there are probably extremes for lots of these habits where you're doing a little more harm than good by force
+
+01:35:54.512 --> 01:36:19.550
+But there's a big range in the middle where it's like, listen, let's just not throw up a zero and get this happening. It's going to make a bigger difference to do it than to not. And I feel like that amount of flexibility is really good to have for sticking with your habits and adjusting them throughout your daily routine. Yeah, I agree. There's a wonderful picture of the writer Oliver Sacks, neurologist writer Oliver Sacks. It was prolific. So many books. Also incredibly strong.
+
+01:36:19.778 --> 01:36:27.742
+Also incredibly- Yeah, I think he squatted like 525 or something. I think it was, he won the California, I think squat,
+
+01:36:28.066 --> 01:36:58.032
+at one point, 600 pounds. 600 pounds. Yeah. Yeah. He was, he was big. He was, he was strong. And there's a great photo of him writing outside a train station on, you know, pen and paper with his briefcase on the ground, people walking by. And that was always touted as him being very inspired. He had, that he would write anywhere, anytime that ideas would come to. Turns out that's not what it was at all. I got to know some people close to him. Turns out that was an instance where he was going between meetings and he had so much to do that he was just cramming some writing in. So, you know,
+
+01:36:58.032 --> 01:37:24.670
+So we look at that picture and we go, and for years I looked at that picture, I actually had a printout of it, you know, pinned above my desk. And I thought that's an inspired person right there. He's so excited. And it turns out, no, he was just very, very busy. It turns out it was an over-scheduled person. Exactly, getting it in wherever he could, whenever he could. So I think we have to be careful how we interpret people's schedules. I also think the regularity does lead to a kind of the nerdy,
+
+01:37:24.834 --> 01:37:54.814
+is entrainment. Just like we will wake up a minute before our alarm clock goes off, which is, by the way, an entrained, it's kind of an operant conditioning of the cortisol response, which is why we wake up in the morning. Cortisol spikes, we wake up, right? And it's down to the minute often. It's incredible. People are like, why do I wake up? It's because cortisol rose to a certain threshold a minute before your normal alarm clock time. Or even if you told yourself the night before, gotta get up at 7.30, goes off, you know, 7.29, like you're clocking it in sleep.
+
+01:37:54.914 --> 01:38:05.662
+believe it or not. I do think that if we get used to battling that, I always envision like having to claw my way through barbed wire to get to the really important work and push everything aside, that if we start to do that
+
+01:38:05.986 --> 01:38:33.150
+regularly between the hours of 9 a.m. and 11 a.m., that we're better prepared for that battle at that time versus in the afternoon. We can still do it in the afternoon, but I do think it's an entrained cortisol response, which is what allows us to lean into challenge, cortisol not always being a bad thing. Yeah, okay, so let's talk a little bit about timing and habits and sequencing, because I do think that it's an important lever that you can pull on for building habits. So, first is, as a general rule,
+
+01:38:33.442 --> 01:38:58.142
+I think the earlier in the day you do something, the better odds are that it's going to happen. The more of the day that goes on, the more real estate there is for something to interrupt you, for somebody else's agenda to get put on top of yours, for somebody to need something or an emergency happens. It's just you decrease the likelihood that the habit is going to occur. So generally speaking, I think stacking a group of habits earlier in the day is probably good. Having said that, there is definitely –
+
+01:38:58.722 --> 01:39:04.030
+There are 24 hours in everybody's day, but each hour is under different levels of control.
+
+01:39:04.162 --> 01:39:31.774
+you. So I think the question is not like, do you have enough time? And the question is which of your hours are within your control or which of your hours can you shape better than others? Some hours are a lot more in your control than others. Like if you, if you have somebody who doesn't have kids, then meditating at 7am might be a great time to do it. But if you have like toddlers running around and trying to get pants on your kid, then, you know, that's not a good time to try to do that habit. And so you need to figure out which of your hours are under your control.
+
+01:39:31.874 --> 01:40:00.382
+And then there's also circadian rhythm stuff and trying to time things up, especially physical things like working out or whatever. Like, sure. So we can try to do some optimization there if you have the control over that hour. But the other thing I think that is important to ask is which of my habits are upstream from other good things happening? So for me, I know that probably if I was going to pick the big pillars of what really makes a good day for me, do I get a workout in? Do I read?
+
+01:40:00.482 --> 01:40:30.462
+It really doesn't even have to be long. It could just be five minutes. But do I do any reading? And then do I write one sentence? Those are kind of my measures. Now, of course, for me, the hardest part is choosing what to write. Once I actually pick what I'm writing about, then it's easy for me to get going further. So I know that there's a lot more that comes after that one sentence. But those are kind of the big professional ones that I'm like, if I do those three, I usually have a pretty good day. The reading and the writing are easier for me after I work out. So the workout is kind of the linchpin one.
+
+01:40:30.562 --> 01:40:55.230
+Why do you think that is? Is it that you dispel a certain amount of nervous energy? I think some of it is just the post-workout high. I kind of have that clarity, you know, an hour or two after I work out. So, I think that helps. I think some of it is also, I like to work out, not early in the morning, but in the morning. And I don't know, it just like gets me going for the day. It like changes my whole, it changes my state. I feel more
+
+01:40:55.362 --> 01:41:22.174
+energized after that. What time do you wake up and what time do you tend to work out? Not that people should map exactly to this, but I'm just curious. Good caveat. Usually I'm waking up around 7, and usually I'm working out around 10 to 11, somewhere around there. For me, and certainly there are some data to support this, but also other timings, that three hours after waking or 11 hours after waking seem to be ideal times to work out. Interesting. So I'm kind of around that zone. Yeah.
+
+01:41:22.370 --> 01:41:50.622
+That's interesting. I mean, I think that- I did not know that, but- Mentally and physically, probably due to changes in body temperature and circulation of, you know, that morning cortisol rise that wakes people up. We hear so much about cortisol being a stress hormone, we forget that morning cortisol needs to be very, very, very high in order to have low cortisol at night. If you don't, you have this kind of flat cortisol curve, as they call it, sets you up for insomnia, anxiety, a bunch of things that are really bad. Cortisol has gotten a bad route. And when you exercise,
+
+01:41:50.818 --> 01:42:18.174
+you probably quadruple your cortisol levels, at least during the workout and afterwards, depending on the workout. So if you're stacking all your cortisol earlier, it's like a wave front for the rest of the day. And I'm guessing that's probably what you're tapping into. That's interesting. Yeah. So that makes sense. That adds up to me as an explanation. And then the other thing is the writing is way easier if I do the reading first. So here's just kind of two little philosophical thoughts about it. First is...
+
+01:42:19.522 --> 01:42:32.830
+Almost every thought that you have is downstream from what you consume. And so when you choose who to follow on social media or which podcast to listen to or which book to read or what YouTube channel to watch, you are choosing
+
+01:42:32.962 --> 01:42:59.710
+your future thoughts in a sense. You know, whatever fills up your feed is going to spark the next thought that you have next week or a month from now. So you should choose very carefully what those things are. I don't think we usually put that kind of weight on it. But if you want better, more productive, more creative thoughts, then you need better, more productive, more creative inputs. And so I had this thing happen where this is, I've been writing online for 14 years now.
+
+01:42:59.842 --> 01:43:27.134
+And first couple years, I had this pretty rapid growth and I got to 100,000 email subscribers. And for some reason, once I got to 100,000, I got in my head about it. What I should have done was just say, things are going well, keep doing what you're doing. But instead, I was like, now a lot of people are paying attention, so it has to be really good. So I thought, let me spend even more time writing and make it better. But in fact, the writing got worse. And my theory now is that I was writing more, but I was reading less.
+
+01:43:27.554 --> 01:43:57.520
+And so I had fewer inputs, fewer sources of inspiration, fewer sparks for new, interesting, good thoughts. And so the writing declined. And now I look at it more like driving a car. You know, you have to take the car to the gas station and fill it up with gas. That's like reading. But the point of having a car is not to just sit at the gas station all day and just stay there and keep filling up. You also want to drive and go on an adventure and go see some things, which is what writing is like. But if you never stop, then you end up stranded on the side of the road. And so they kind of, they work well.
+
+01:43:57.520 --> 01:44:21.854
+together. So if I get the workout in and then I read, if I'm reading something that's good, that is like, and I would define good as relevant to what I'm trying to write about. If I read something that's relevant to what I'm working on, I almost can't stop myself from writing. I'll only get like two or three pages in and I have to stop. I got to, you know, just riff on a bunch of stuff that is sparking or bubbling up. So if I do things in that sequence, it's usually a pretty good day.
+
+01:44:22.274 --> 01:44:48.318
+That's awesome. So that's like a kid who's watching baseball and it's an awesome game and then just like runs outside and just has to play with his friends. He's like, let's get a game together. As opposed to a lot of people who just want to just be passive consumers the whole time. I was surprised to hear that you don't just get dropped into the reading and just stay with it, stay with it. It's really a springboard, or as you said, it kind of preloads your brain for doing your best writing. Joni Mitchell, I think, used to paint.
+
+01:44:48.418 --> 01:45:16.286
+as a preamble to writing and singing. And I have a good friend who's both a musician and a producer, and he'll get up early in the morning or sometimes in the middle of the night and he'll just draw, go back to sleep, wake up, and then he produces music all day. He's been doing this for, gosh, 50 years. 50 years. Yeah, nearly 50 years. And yeah, that's right. And I was like, turning 50 myself is kind of staggering. So my friend, he's older than I am, but it's incredible.
+
+01:45:16.514 --> 01:45:36.702
+It's like you guys are describing this process of loading up your mind and then pivoting to the thing that really matters most, which I think is super impressive because most people get stuck in the thing that feels easiest and that someone else provides. Most people are consumers, not creators, but I think most people want to be creators, but they don't know how to do it.
+
+01:45:37.122 --> 01:45:57.822
+This reminds me a little bit of, like, David Epstein, some of his work on range and, you know, like, exploring broadly and how that, having a range of either sports activities or intellectual pursuits can make you better. A lot of times they say experts are T-shaped, right? They have, they broad, they read broadly, but then they have a narrow vertical where they specialize.
+
+01:45:58.178 --> 01:46:26.174
+And the big takeaway that people have from this a lot is that it's the top of the T that really matters. I need to read more widely. I need to look around the world and expose myself to lots of things. But I actually think the stem of the T is incredibly important. It is the precursor to the top of it mattering at all. And what I mean is that the fact that you have an area where you are focused on, the fact that you have an area where you are specializing, gives the broad range of things that you're exposing something to latch on to.
+
+01:46:26.626 --> 01:46:50.014
+And so by having your area of expertise or just by, it doesn't even have to be area of expertise. It could just be a mission or a project, an objective. So for me, the objective is the next thing that I'm writing. And then as I explore broadly and listen to podcasts and read books and look at things, that's always sitting in the back of my mind. And so it's always there ready. It's like an antenna waiting for a signal. And then as I read widely,
+
+01:46:50.114 --> 01:46:59.806
+Well, that thing, that project that I have, it's forcing me to pick up on different stuff. And I'd start pulling that and I start connecting it. I feel like creativity is...
+
+01:46:59.906 --> 01:47:25.982
+Very rarely is it actually an original thought. Mostly what it is is the synthesis of two things that had not been previously connected. And so by having your project or your area of expertise, you have something you're focused on, and then you read widely and you look for interesting things that can connect to it. And so I just, that's what I'm doing the whole time. I'm reading and then I'm like, oh, this would apply to that. And I just can't help myself to start to write about the connection or write about the overlap between those things.
+
+01:47:26.370 --> 01:47:50.878
+This is, I think, one of the reasons why, and I don't think everyone needs to pursue degrees, but one of the reasons why something like graduate school for those that are interested in really pouring themselves into a topic or a career in a certain area is so valuable because, you know, let's say biology, you do experiments, but then you walk with other people to a seminar. You watch the seminar, you walk back, you talk about what was dreadful, what was funny, what was amazing, maybe
+
+01:47:51.074 --> 01:48:15.838
+you talk about other things as well, but you're sort of immersed in it. And so your whole world, it's a very pure time. And again, it's not for everybody, but it's a very pure time where you're just completely immersed in a set of topics and conversations. I think online algorithms have gotten so good now at detecting the range of things that we're interested in and feeding those to us. I think there's an opportunity there where if the algorithms could be, you know,
+
+01:48:16.162 --> 01:48:44.734
+if we could self select a filter so that it could enrich us, right? I mean, when I go on YouTube, I want to see certain types of content. Other stuff, I think appeals to whatever it believes about my, you know, kind of less, let's call them, just things that they're not bad, but they're not good. They're not serving any purpose in my life. I don't want to see that stuff. And so I think it, but I do listen to a lot of lectures. I think the personal development,
+
+01:48:45.154 --> 01:49:07.006
+stuff online is incredibly interesting and meshed with scientific literature. Obviously that's what appeals to me. So it seems like the solution is to be a selective forager and books are probably the most direct way to do that. Like you choose what books are on your shelf as opposed to your feed, which you don't really self-select. I think there's more control over it nowadays, but do you read physical books?
+
+01:49:07.138 --> 01:49:35.038
+Do you listen to audio books? I prefer physical. I like audio. What I almost never do is eBooks. I don't have some personal vendetta against them. I just rarely read them. I prefer physical. If I'm going to, if I'm going to read a book for the first time, usually it's the physical book that I'm reading. Two areas where I really find audio helpful. One is if I just don't have that much time, you know, if I'm going to be on the road a lot or traveling a lot or whatever, obviously that's much easier. And so it's nice to have the audio as an option. But second, I,
+
+01:49:35.138 --> 01:50:04.862
+I find if an author or a topic is particularly dense, the audio works really well for me. And part of the problem is I get bogged down with the physical version, and so it's just a slog to read through it. But if I listen to it in audio, I can often keep pace, and I'm understanding the overall argument that's being made, but I'm not slowing myself down sentence by sentence. And so I can get through something that's a little bit more dense in audio much better.
+
+01:50:04.962 --> 01:50:33.214
+And yeah, and usually when I read a physical book, I just, I go through, and then if any passage strikes me, I put a little parenthesis at the start of it, a parenthesis at the end, and then a star in the margin so that I can easily find them. And then by the time I get done with the book, there's usually, you know, 30, 40, 50 pages with little stars in it. Sometimes, if it's really relevant, I will go back through those stars and take a photo of that passage, highlight the text on my phone, and then copy and paste it into the doc that I'm working on so I can like have the quote or the passage there or whatever.
+
+01:50:33.538 --> 01:51:01.310
+That's usually it. That's usually what I'm doing. We talked a lot about physical space, interacting with other inputs, and I think this business of, like, it was the great Joe Strummer from The Clash who said, no input, no output, which I think is great. I think what you've added to that very important quote is the source and the type of input matters. The way that I would summarize it is if you want to learn, wonder. If you want to achieve, focus.
+
+01:51:01.890 --> 01:51:30.558
+And so, it is the wandering widely that will surface all sorts of new learnings and insights. But you don't just want to be surfacing random things. You also want to be able to channel that into something productive that you are creating. A piece of music, a scientific research study, a book, whatever. You know, whatever the thing is you're working on. A new business. And so, having a narrow vertical where you are focusing, a project where you are dedicated to, gives that wandering somewhere to live. Something to contribute to.
+
+01:51:31.650 --> 01:51:40.510
+I'd like to take a quick break and acknowledge one of our sponsors, Function. Last year, I became a Function member after searching for the most comprehensive approach to lab testing.
+
+01:51:40.802 --> 01:52:10.768
+Function provides over 100 advanced lab tests that give you a key snapshot of your entire bodily health. This snapshot offers you with insights on your heart health, hormone health, immune functioning, nutrient levels, and much more. They've also recently added tests for toxins, such as BPA exposure from harmful plastics, and tests for PFASs, or forever chemicals. Function not only provides testing of over 100 biomarkers key to your physical and mental health, but it also analyzes these results and provides insights from top doctors who are
+
+01:52:10.768 --> 01:52:38.718
+expert in the relevant areas. For example, in one of my first tests with Function, I learned that I had elevated levels of mercury in my blood. Function not only helped me detect that, but offered insights into how best to reduce my mercury levels, which included limiting my tuna consumption. I'd been eating a lot of tuna, while also making an effort to eat more leafy greens and supplementing with NAC and acetylcysteine, both of which can support glutathione production and detoxification. And I should say, by taking a second Function test, that approach worked.
+
+01:52:38.850 --> 01:52:54.046
+Comprehensive blood testing is vitally important. There's so many things related to your mental and physical health that can only be detected in a blood test. The problem is blood testing has always been very expensive and complicated. In contrast, I've been super impressed by function simplicity and
+
+01:52:54.178 --> 01:53:23.742
+at the level of cost. It is very affordable. As a consequence, I decided to join their scientific advisory board and I'm thrilled that they're sponsoring the podcast. If you'd like to try Function, you can go to functionhealth.com slash Huberman. Function currently has a wait list of over 250,000 people, but they're offering early access to Huberman podcast listeners. Again, that's functionhealth.com slash Huberman to get early access to Function. Can we talk a little bit about the environment of the laptop or the computer screen or tablet?
+
+01:53:23.970 --> 01:53:50.590
+that has become a very cluttered space or there's a lot of opportunity for an entire universe to exist in that small space, right? Earlier we were talking about visual apertures and in the old days you could just throw on a hat or a hoodie and you just kind of like block everything out, put a desk lamp over something, make the room dark and like you're focused because there was no screen and no feed or if there was a screen, there was no feed and you could go on the internet, but you were typing or you were,
+
+01:53:50.754 --> 01:54:06.910
+you're working on problem sets, so you're doing whatever it is you need to do, or reading. How do you organize your desktop and your relationship to the internet so that you can maintain maximum productivity? I'll answer your question. Let me unpack something first.
+
+01:54:07.106 --> 01:54:23.934
+We've made it this far, we've never actually defined what a habit is. Like, if you were going to define it, there are a couple different ways you could define it. So, like, one way, you know, if you talk to an academic or researcher or something, they'll probably say it's this automatic non-conscious behavior you perform, you know, without really thinking about it. Tying your shoes or brushing your teeth or something like that.
+
+01:54:24.066 --> 01:54:53.822
+But I think another very interesting way to potentially define a habit is that it's a behavior that is tied to a particular context. So your habit of watching Netflix might be tied to the context of your couch at 7 p.m. And whenever you're in your living room at 7 p.m., you're just kind of being gradually pulled toward doing that. And there are some studies that have shown that – or have found that it tends to be easier to build a new behavior when you're in a clean context.
+
+01:54:54.050 --> 01:55:09.822
+when you're in a context where you're not battling the previous cues for your other habits. So, for example, if you said, I want to get in the habit of journaling each night. Well, if you sit down on your couch at 7 p.m., your brain is kind of suddenly thinking it's time to pick up the remote and turn the TV on, not time to journal.
+
+01:55:10.050 --> 01:55:40.016
+Now, you may not always have a dedicated room where this is going to be the journaling room, but there are a number of steps you could take. For example, you could just like set a chair up in the corner and that chair becomes the journaling chair. And so now you walk in, you sit in that chair, and the only thing that happens when you sit in that chair is you journal for five minutes. And so now you're creating, you're starting to create a context that is associated with that habit. And the fact that there is not anything currently associated with it makes it a little bit easier for that habit to form. You're not fighting the other cues in your environment quite
+
+01:55:40.016 --> 01:56:09.662
+quite as much. Okay, so let's take that definition, that truth about habits, and apply it to our smartphones or our laptop screens. Part of the power and the problem with the modern smartphone is that you are blending the context for all kinds of habits. Is the screen the place where you go to answer an email? Or is it the place where you go to browse social media? Or is it the place where you go to watch YouTube or play a video game or check the latest sports scores? It's the place where you do all of that.
+
+01:56:09.794 --> 01:56:39.422
+And so it's kind of similar to sitting down on the couch and trying to journal when your brain wants you to turn on the TV. You pull the smartphone up and you're like, I'm going to try to be productive. And it's like, well, there's also 17 other things that you're trying to do at the same time. And so that puts yourself in a tough position, I guess is the point that I'm getting to. Here are some of the things that I do. I don't think that I have this figured out by any means, but these are some of the steps that I play with. The first is I don't do this all the time, but I will say maybe
+
+01:56:39.682 --> 01:57:06.110
+70% of the time, 80% of the time, I leave my phone in another room until lunch. And usually that's just like 9 to noon-ish, or 9 to maybe if I say I work out at 11, 9 to 11-ish. But it gives me a couple hours in the morning when I'm not responding to everybody else's agenda or I'm not getting interrupted by, you know, the phone. I'm just going to work on what's most important to me. What I've always find interesting about that is...
+
+01:57:06.754 --> 01:57:34.814
+If I have my phone on me, I'm like everybody else. I'll pick it up and check it every three minutes just because it's there. But if it's in a different room, I have a home office, and so it's just down the hall. It's only like 30 seconds away, but I never go get it. And I'm like, well, did I want it or not? You know, in the one sense, I wanted it so bad that I would check it every three minutes when it was next to me. But in the other sense, I never wanted it badly enough that I would work for 30 seconds to go get it. A lot of your habits are like that.
+
+01:57:34.978 --> 01:57:57.598
+If you introduce a little bit of friction, they will kind of curtail themselves to the desired degree. So anyway, that's the first one is try to separate myself from it. The second thing is on the screen itself, there are things that you can do. So when I wanted to listen to more audio books, for example, that was when the pandemic hit, that was one thing I told myself was like, all right, I'm going to be at home more. Let me try to get more reading in.
+
+01:57:57.794 --> 01:58:16.350
+So I downloaded Audible for audiobooks and I moved it to the home screen of my phone. I took all the other apps and I moved them to the second screen. Now, does that mean that I'm never going to check Instagram again or never going to, you know, no, but it does mean that whenever I open up my phone, the visual cue that I see is reminding me of what I want to try to do.
+
+01:58:16.546 --> 01:58:41.150
+And then I have at various points done much more strict things. So right now, for example, for the last year and a half or so, I've deleted social media entirely off of my phone. And I can use it on the desktop. That's my little rule. But I don't have the password or the login. My assistant does. And so anytime that I want to log in, I have to ask her for it. And that's just enough friction that
+
+01:58:41.250 --> 01:58:59.934
+I don't do it just to browse. I'm only doing it if I really need to do it. So after I did that for a little while, I thought, well, this went well. Let me try to take email off my phone, which sounded really extreme to me. But it turned out to not be that hard. My little rule was if I really need it, I'll just download it.
+
+01:59:00.066 --> 01:59:27.998
+and I can use it. So I haven't had email on my phone for like six months now. I've downloaded it twice. Once was to get tickets to get into a show that we were going to, and then the other time I was at the airport and I had to send an email. But I download it, I do the thing, and then I delete it again. And again, it's the same as keeping the phone down the hall, which is it's just a little bit of friction if you have to download the app every time you want to use it. There will be times when you'll use it, and that's fine. But if you're just...
+
+01:59:28.162 --> 01:59:53.534
+wasting time for a minute or your thumb is just looking for something to click because you don't have anything to do, you're not going to take the time to download it because you're like, well, I didn't even want to look that bad anyway. I'm not going to wait for a minute for it to download. So those are a few of the things that I've been playing with. Doesn't sound like you use any programs like Freedom or any of those to lock you out of the internet. I know Fred, the founder of Freedom. I have used it. Freedom and what's the other one called? Self-control.
+
+01:59:53.634 --> 02:00:23.326
+I've used both of those at various times, but I haven't used them for years now. I got into this thing for a little while when I was actually working on writing Atomic Habits. I tried to lock everything down, not just social media. It was like ESPN.com. I don't want to allow myself to use the internet basically. But then I realized, well, I still need to be able to research stuff and get to things. So it got – my list of blocked websites got kind of unwieldy. And it was fine, but –
+
+02:00:23.522 --> 02:00:49.918
+I don't know. It was fine. I don't have anything bad to say about it, but it's not a strategy that I've used long-term. I've used freedom a little bit. I don't really struggle with getting on the internet if I have tasks to do on my computer. I do think the phone thing, people talk about the dopamine hits, et cetera, from the phone. I actually don't think it's as dopamine-driven as we would like to believe. I think that's a convenient heuristic. The behavior itself looks a lot more like a reflex.
+
+02:00:50.114 --> 02:01:05.950
+of one person picks up their phone at dinner and then suddenly everyone does it. I don't think people are as conscious of what they're doing. It could also be called a habit, right? And the cues are so many and so low level, but powerful that I think people are just,
+
+02:01:06.562 --> 02:01:30.174
+living in the reflex or the habit of picking up their phone and looking at it and scrolling it. I don't think there's much reward there in most cases. And it's harder to research in the lab. I mean, this has been done, but it, and listen, I think the discussion around too many dopamine rewards is a healthy discussion in general. But I think there's something kind of off about how we think about,
+
+02:01:30.370 --> 02:01:57.406
+we're thinking about more in terms of rewards. Like how many times have you picked up your phone, seen something and been like, oh, that's awesome. And then reflected on it later that day. Like you might send it to somebody in the moment, but like, if you asked me, what did I see on social media yesterday that was super interesting? I'd say probably had something to do with a bulldog. I like bulldogs, but I can't really tell you. I'd have to really explore. If you asked me like, what was really like something really cool that happened yesterday? Oh, I ran into an old friend down near the beach.
+
+02:01:57.602 --> 02:02:25.502
+Like it's so salient, like it just pops right in. So I don't know. What are your thoughts about social media as a reward mechanism or a slot machine? I think about it more as kind of like they tapped into kind of like an itch pathway that we just naturally scratch without even thinking about it. What I think is really interesting is let's use this example of checking your phone and talk about the four laws of behavior change that we talked about before. What you often see, you can, this was, um,
+
+02:02:25.922 --> 02:02:48.638
+I don't know if this is a deep insight to anybody else, but it felt like a deep insight to me when I was working on the book, which is what if I looked at our bad habits and tried to figure out why are they so sticky and then apply that to the good habits that I want to build? Inverting that was really helpful for me. So if you look at, you know, a lot of people feel like they check their phone too much. Well, what are the four laws of behavior change look like?
+
+02:02:48.738 --> 02:03:05.438
+Make it obvious. Our phones are always on us. They're always around. They're very easy to access. They're highly visible. Make it attractive. There are lots of fun things, silly memes and video games or whatever. There's all kinds of interesting stuff happening on your phone. How many people are following me, whatever. There's lots of things to check there.
+
+02:03:05.954 --> 02:03:35.902
+make it easy. So many of the apps are just striving to make it as frictionless as possible. You know, Instagram will auto swipe albums for you so that you don't even have to swipe through the images. Like, they'll do it for you. And so there's just this continual quest toward convenience and ease. So many of the big apps on your phone are just taking a modern desire and then making it easy and more convenient. People have always needed to eat. DoorDash is like, just tap your thumb, we'll bring it to your door. Love DoorDash. Yeah. So,
+
+02:03:36.258 --> 02:03:42.558
+then make it satisfying is some of that dopamine hit or reward that you get, whatever level that may be. But the point is,
+
+02:03:42.818 --> 02:04:11.582
+Yeah, it does all four of those things really well. And so the behavior is very sticky. You know, people sit there and they're like, how long will it take to build a habit? And I'm like, well, how long did it take you to get in the habit of checking your phone? You know, you probably don't even know. It was probably like two or three days or, you know, you never even had to think about it. It was just because all those levers were pulled. It was very easy for the behavior to form. And so I think looking at what makes your bad habits sticky helps reveal some of the things that maybe you want to apply to your good habits to make those more likely as well.
+
+02:04:12.642 --> 02:04:41.022
+what are some of the tools that people can use to break bad habits that are not related to the phone? Just because we've already covered those. But there are a lot of people who have trouble craving sweets, late night eating, tough one. That's a tough one. When I'm craving like some sour candy type flavor, that's a tough one. I usually can manage to just wait it out, but that's my vice.
+
+02:04:41.122 --> 02:04:59.390
+you know, they've got their stuff. What do you suggest? So we just went over four things that make habits stick. You make it obvious, attractive, easy, satisfying. To break habits or to decrease the odds that a behavior is going to occur, you just invert those four. So rather than making it obvious, make it invisible.
+
+02:04:59.618 --> 02:05:29.374
+Don't keep junk food in the house. Put, you know, unsubscribe from the emails, whatever. Reduce exposure to the thing that triggers it. Rather than making it attractive, make it unattractive. This is the most difficult one for bad habits. It's not, I would say it's the last place you should probably focus. Because once you learn that the sweet tastes good or that a donut is tasty, it's hard to rewire your brain to think something different. You would need to, well, I'll give you an example of it in a minute. But, so rather than make it attractive, make it unattractive. Rather than making it easy, make it difficult.
+
+02:05:29.666 --> 02:05:57.502
+Increase friction, add steps between you and the behavior. You know, I've heard from people who take the suites and they put them on the highest shelf in the garage, so then they have to walk all the way out there and climb up to get them. You still know they're there, you can still get it, but you're just trying to find ways to increase friction. You know, say you want to smoke. If you have a pack of cigarettes on the table in front of you, that's really low friction, like you need a lot of willpower to resist that. If the closest pack is three miles down the road at the grocery store, you still might get in the car and drive there, but it's a lot more friction.
+
+02:05:57.602 --> 02:06:09.694
+And then, rather than making it satisfying, make it unsatisfying. Usually, that's about having some kind of immediate consequence to the reward. You can manufacture this in some ways. Maybe you start, like, an agreement, like a...
+
+02:06:09.986 --> 02:06:39.806
+was just texting with my friend Brian the other day and he wanted to get in shape. He like really felt like he wanted to lose these last 10 pounds and so he hired a trainer and then he wrote up a contract between he, his trainer, and his wife and if he did not hit his weight check-ins for the next three months then there was some reward for his wife. She got, I don't know, she got like $1,000 to go shopping or something like that. I don't remember what it was. But something, and then if he did hit it, then he got like $1,000 to go to the football game or whatever. And the point is just that
+
+02:06:39.906 --> 02:07:09.630
+there's now some kind of immediate cost to the action that previously did not have it. So it's just an inversion of the four laws. And again, for both of these, building good habits and breaking bad ones, you don't need all four of these things at the same time, but the more that you have these levers working for you, the more likely it is that you're going to get the outcome that you want. To go back to the point that I had earlier about making things unattractive is difficult. The only way that I have really seen it is if somebody kind of gradually changes their identity.
+
+02:07:09.762 --> 02:07:39.678
+Sometimes it can be rapid, like let's say you read a, you know, let's say that every morning you go down and you make some toast and jam for breakfast. And then you read a book that convinces you that carbs are the devil and grains are terrible, and you're like, oh, I don't want that at all now, I'm not gonna eat toast for breakfast anymore. So now you've had this, you've flipped this switch in your mind, you see the loaf of bread, and instead of thinking breakfast, you think, oh, that's something I don't want. That's one example of how it could be made unattractive.
+
+02:07:39.778 --> 02:08:09.726
+Sometimes you see that happening. I'm not advocating against grains, by the way. But it's rare, right? The other way is it tends to be more gradual. You know, like you show up and you keep reinforcing a certain identity and then two or three or four years later, you're like, you know what, this has become an important part of my life. That thing that I used to do, I probably don't need that anymore and you can kind of, you know, let it go. It doesn't carry the same weight that it used to carry before in your mind. But that's slow.
+
+02:08:09.986 --> 02:08:37.054
+So I don't recommend focusing on it because it's either hard or it's slow. Whereas the other changes like reducing exposure to the cue or increasing the amount of friction or distance between you and the habit, those are much quicker. Social constraints can play a big role, I think. Years ago, I read something that many people, I don't know if this is true, but this article claimed that many people who are obese, like the clinical definition of obese,
+
+02:08:37.506 --> 02:09:01.438
+self-reported that they didn't want to exercise because it made them feel selfish. I thought that was interesting. Now I'm sure some people hear that and they go, oh, they're making excuses. But it was interesting. Let's assume that they were telling the truth, as I think they were. This idea that most of us think of exercise as taking great care of yourself, you're gonna be around for people longer and yourself and you can, all these great things.
+
+02:09:01.826 --> 02:09:28.158
+I think there's a category of people out there that think, no, working out is selfish. It's like self-indulgent. It's not kind. It's not altruistic. Your time should be spent doing other things. Taking too much time for myself and not focused on others enough. Yeah, and there's a whole depth of psychology there, I'm sure. But I think what I had to assume is that it's a product of environment and upbringing where people come to believe that. So if you're, for instance, somebody who doesn't want to drink alcohol anymore and you
+
+02:09:28.322 --> 02:09:45.438
+went to the university that I went to where everyone drank, like everyone drank, you're fighting a pretty tough uphill battle. My experience was that the only way to win that battle the first time and every time is to make the battle the point.
+
+02:09:45.794 --> 02:10:14.910
+where you basically are like, you zig, I zag. You have to take this kind of antagonistic stance, right? I'm not gonna be like you. And that's a frustrating thing because it can separate you from people in social gatherings. I was gonna say, that's kind of a hard place to live. It's very effective. I did drink a bit in college, but drinking was never really a big thing for me anyway. So it's easy to do or easy to not do, just by virtue of where I was and me. But as an example, I think, yeah, when you take this, you know, everyone else sleeps in, I get up at 4 a.m. You know, they don't,
+
+02:10:15.170 --> 02:10:39.358
+You know, why? Well, because I'm not like them. I think it works, but it's a separator. And so I think this question of like, how can we build good habits, break bad habits, but stay in the context that we're in, it runs countercurrent to some of the things we were talking about earlier, like surround yourself with good books and information, surround yourself with people that are doing the kinds of things you want to do. And a lot of people are living in these landscapes where,
+
+02:10:39.746 --> 02:11:05.566
+Like the people around them are going the wrong direction or at least not supportive of the right direction. I think the hard part about what you just described is it's fight, not flow. Yeah. It's like it's what you were saying earlier. And it's possible to fight your environment for a while, but it's hard to live that way for the long run. Sometimes I almost view environment as like a form of gravity. And I mean like both the physical environment and the social one. Physical environment...
+
+02:11:05.762 --> 02:11:29.310
+is always nudging you to do certain things in certain spaces. Right now, I am sitting here because this is where the chair is. Now, I could sit anywhere else in this room, but I would be sitting on the floor. And so the environment is kind of ushering me to sit in this spot, right? I'm always sort of being nudged. It's like a form of gravity pulling me here for this behavior. I could try to figure out a way to get out of this room that doesn't use the door,
+
+02:11:29.442 --> 02:11:58.750
+I would really have to, you know, I got to break through the wall or I got to climb through the ceiling or something that is very high friction. So I'm always being nudged towards using the door to get out of the space. All of your spaces, that's those examples sound like quite obvious, but all of the spaces that you're in are like that all day long. There's always something that is easy and natural and consistent to do with the environment. And you're always sort of being ushered in that direction. So do your physical spaces contribute to the habits that you're trying to build? When they do, it's easier to build those behaviors. When they don't,
+
+02:11:58.914 --> 02:12:26.142
+fighting an uphill battle. The social environment is perhaps an even stronger form of that. If there was any one thing that I could add to atomic habits that wasn't in there, it would be more on the social environment. I have a chapter on the influence of friends and family, so it's not like I didn't know that it was part of it. But the impact of social environment on our behaviors is so strong and so dramatic. It's almost, it's like that classic line of like a fish in water. They're like, what is water?
+
+02:12:26.754 --> 02:12:53.918
+We almost don't even see it anymore because it's just everywhere. It's so pervasive. But we are all part of multiple groups. Some of those groups are really large, like what it means to be American or what it means to be French. Some of those groups are smaller, like what it means to be a member of the local CrossFit gym or a neighbor on your street or a volunteer at the elementary school. But all of the groups that you belong to, large and small, have a set of shared expectations.
+
+02:12:54.050 --> 02:13:22.942
+a set of typical habits that people do in that group. And when your habits are aligned, when they go with the grain of the expectations of that group, they're easy to stick to because you get praised for, you get rewarded for, you get welcomed for it. And when your habits go against the grain of the expectations of the group, you get ostracized, you get criticized, you get judged. And nobody likes that. It doesn't feel good. And so, humans always,
+
+02:13:23.330 --> 02:13:50.046
+at some deep biological level, are incredibly social creatures. We all want to bond and connect, even if it's just your little friend or family unit. Like, we all want to be part of something and be connected to people. And so, when people have to choose between, I have the habits that I want, but I'm ostracized, I'm criticized, I'm, you know, cast out. Or, I have habits that I don't really love, but I fit in, I belong, I'm accepted, I'm praised.
+
+02:13:50.498 --> 02:14:18.302
+A lot of the time, the desire to belong will overpower the desire to improve. And so I feel like for the long run, the only answer is you have to get those two things aligned. Sometimes, sure, maybe you need to, you know, the harsh ways are like fire your friends or, you know, never see somebody again or whatever. Fire your friends. Right, yeah. Have you ever heard that? No. People are like, yeah, you need to get new friends or whatever. I don't think you need to be that extreme about it. But what I do think you need is a space that is conducive to the habit you're trying to build.
+
+02:14:18.434 --> 02:14:47.582
+So if you live with people who have no interest in yoga, but you want to get into it, fine. You don't need to do it at home or in your apartment. You can go to a yoga studio for an hour, and that's a space that's conducive to the habit where you're surrounded by people who are doing it. And I think this is the real punchline, the real takeaway is you want to join groups where your desired behavior is the normal behavior. Because if your desired behavior is normal, now you can rise together, right? You can soak up the behaviors of that group. So,
+
+02:14:48.034 --> 02:15:14.078
+Sometimes those spaces are ready made like a Yoda. There's tons of yoga studios, not hard to find one. But other times you need to be the one to create the space. So like early in my career, I don't really have anybody in my family who was an entrepreneur. I don't have anybody who's an author. So I'm like, all right, I want to start this thing, but I don't really know who to look to. So I started reaching out to a bunch of different authors and stuff, cold email people. I think I cold emailed about 300 people in the first six months, like maybe 30 of them.
+
+02:15:15.042 --> 02:15:42.558
+touch and we're like, yeah, I'll chat with you for 30 minutes or whatever. So I knew a few people. And then I went to a conference and there were like maybe 10 of those people there. So I got to meet some people in person. So it's like, okay, six months in, I know a couple of people now. And then I started hosting these retreats where I would get six or eight authors together. And I would just say, let's split the cost of an Airbnb, get together for two or three days. And we'll talk about how to write books and launch books and build an audience and grow an email list and all the stuff that, you know, nonfiction authors are focused on.
+
+02:15:42.946 --> 02:16:06.782
+And it was almost always like one of the best weekends of my year. And I was worried that I was going to invite people and then look like a dork and people would be like, no, I don't want to come, you know, and whatever. But everybody always said yes. And it's because everybody wants the same thing. You know, they're all waiting for somebody to get like-minded people together where we can share ideas and be around people who are wrestling with the same problems. So that was not a space that was ready-made.
+
+02:16:06.914 --> 02:16:36.031
+it really helped a lot of my writing and business habits, if we want to call them that. You know, it helped my growth in that area. And it's just about joining groups or creating groups where your desired behavior is normal. I love the notion of creating groups if they're not available to you. I can say, having had to go against the grain of my environment many times, that if the habit or the thing that you're doing alone is a positive one, like exercise or something like that, chances are people are going to
+
+02:16:36.258 --> 02:17:05.822
+seeking you out at some point in the future, asking how you achieved that thing, almost always. But it's hard to go at things alone. Or even to just be part of a new community, like where you don't really know people that well, or just know them online and things like that. But I also encourage people to build what might not be there because, yeah, provided it's a good habit, I think people will, as they say, you know, like others will join you. What's coming to mind is when I was,
+
+02:17:06.114 --> 02:17:34.142
+my scientific career, I'd go to these meetings basically. People would sit all day, eat all day and drink all night basically, and then sleep. And it was super unhealthy. And I realized I was like, I always feel like garbage at these things. So I was like, you know what? I'm just gonna skip a couple of sessions. Those talks aren't that good. I know those people, they don't give good talks. Or maybe they do, I'm willing to miss it so I can go get a workout in. And only once did I ever run into a colleague in the gym. And I was like, well, it's kind of like this thing, like, oh, you do this too? It's like, and...
+
+02:17:34.562 --> 02:18:03.742
+I won't say who this is, but he's a super successful scientist. He's a member of the National Academy and all this stuff. And he's like, oh yeah, if I just sit all day, there's no way I can pay attention. It just goes in one ear and out the other. And some of the talks just aren't really that good. And I was like, whoa, like that was the validation I needed. I would have been doing it anyway, but I felt like maybe there was something wrong with me. Nowadays, I think things have changed. I think that scientists are encouraged to take good care of their bodies too. But it ran counter to the kind of stereotype. Like you're at a meeting, you're supposed to be at the meeting. Of course, you're not supposed to spend the whole time like,
+
+02:18:04.066 --> 02:18:29.407
+exercising and hanging out. But I know it's like, people don't miss happy hour. I wasn't really into hanging out at the bar. Always, I would catch colds and stuff. People always shouting next day, everyone's like, I feel like garbage. You know, it's like, like there's so many things that happen in the professional context that limit performance. And nowadays I think people are much healthier. So I do think that communities change and, but it requires some people breaking out from those communities. So I'm a big,
+
+02:18:29.698 --> 02:18:50.142
+of what you're saying. Sorry to run long with my example, but it hits home because I think that how we grow up, we carry that stuff forward, which raises a question. You're a Midwest guy. And I have to imagine that some of the practicality and just good ideas
+
+02:18:50.306 --> 02:19:19.871
+that you talk about, it does kind of fit with my stereotypes about like the Midwest. That's cool, great, I'll take it. There's a lot of decency to people in the Midwest. Like maybe it's a, there's this combination of like Scandinavian influence, like, you know, some of those areas were ag areas before. I mean, you've got cities, of course, in the Midwest too. But to what extent did you grow up in a family where people cared about habits and self-care or are you the breakout? I'm born and raised in Ohio. I love Ohio, I was the Ohio boy my whole life, went to school there. I have been,
+
+02:19:19.969 --> 02:19:47.678
+Now I've traveled a lot and been over 40 countries and travel around the world and all this stuff. But I still love it there and I still live there. I was just saying this to my wife the other day. In some ways, I feel like everything that I teach through Atomic Habits and the writing that I do is just me teaching what my parents taught me, but to the public. And I have come to appreciate it more and more as I've gotten older. I think I just had really good parents.
+
+02:19:47.809 --> 02:20:17.662
+I think I just got very lucky. And so, yeah, that was a huge win. My dad played professional baseball. He played in the minor leagues for the St. Louis Cardinals and then had a long career in the insurance industry. My mom was a nurse for her first career, and then my sister got leukemia when she was three, and so she took time off to be with her while she was recovering. And then she had, like, ten years later, a second act as an assistant in a preschool classroom for kids that were high needs, like autism and things like that.
+
+02:20:17.890 --> 02:20:46.078
+And yeah, I don't know. They both have habits that they're quite good at, even now. They both like to swim. And so they get up and they go swim at 5 or 6 a.m. They're like farmers. They get up super early. They get up early and they go swim. And they're very diligent and reliable about it. I think I have picked up things from each of them. My mom is the type of person that she really sticks with things. So like...
+
+02:20:46.178 --> 02:21:11.934
+very hard for her to start a book and then quit it she would like never want to quit a book i'm like you need to quit more books but she would you know she wants to see it through um my dad is very driven and competitive but also like very outgoing and warm and um yeah easy to talk to um so yeah i don't know i soaked up lots of things from both of them i the other uh person that really did shape some of my early habits is my grandpa um and he i
+
+02:21:12.130 --> 02:21:38.206
+I think less about him in terms of being diligent with habits. I think more about it in terms of mindset. His big thing was always PMA, positive mental attitude, is what he said. And so much of what I try to teach my kids now or the outlook that I try to have is around that. You know, it's going into each day and trying to emphasize the good things that are going to happen and trying to focus on and emphasize the, you know, the good things that could happen or that I'm trying to do.
+
+02:21:38.306 --> 02:22:06.238
+There will always be hardships that come up, but I'm trying not to hold on to those too much. You know, I'm kind of wary of anybody whose primary mode of operation is to be like a martyr. I feel like that's a draining type of person to be around. There's always things that are not going to go well, but that doesn't mean those have to be the ones that we live by each day. So I think that part of my mindset came from him. But the three of them definitely played a big role in my approach.
+
+02:22:06.754 --> 02:22:36.414
+Were your kids starting to adopt habits based on the things you've taught them? I mean, clearly you're teaching them things. You described some of those earlier. Do you notice those things starting to emerge reflexively? My kids are all still very young, but it's interesting how fast it happens. A couple lessons that I've had so far. The first is you are always teaching them. You are teaching before you even think you're teaching. Even before any months before they'll say their first word, you're teaching them how to talk.
+
+02:22:36.610 --> 02:23:04.734
+And so reading, like to my oldest, reading to her from the very start, we read more with her than the next two just based on time. She had incredible vocabulary very early on. And I think it's because we read to her so much. It was just hours a day. So that's interesting. You're always learning. And I think that applies to adults. It applies to everybody. Another way to phrase it would be every moment has a stimulus. And that stimulus is always shaping you.
+
+02:23:04.866 --> 02:23:34.142
+So mentally, it's shaping you in terms of what you're receiving or the inputs that you're taking in. Physically, there's also a stimulus. I got dinner with this guy one time. He was like a movement specialist. And he spent the whole dinner sitting cross-legged in the chair in like perfect upright posture. And my takeaway after that dinner, I was talking to him about it because it's such a strange way to have dinner with somebody, is he was basically like, everything is a stimulus. And so I'm right now, you are not in the gym, but you are training your body.
+
+02:23:34.338 --> 02:24:03.646
+to sit and how to, you know, what your posture looks like and how to respond to that stimulus. So he tries to live his whole day like that. I mean, it's almost like one ongoing workout session. I don't know that I could actually live that way, but I do think that it's a very interesting idea and it makes sense. You know, all the things that your body's experiencing impact you, both physically and mentally. So that's one takeaway. And then the second takeaway for my kids and how habits are kind of, I'm learning in my personal life too, is
+
+02:24:04.098 --> 02:24:30.974
+is so much of it is about putting them in good positions. And that is something that we all can learn from. It's, if the conditions are right, then the habits form easily. And I think that in a lot of ways, one of the more important questions to ask is, am I creating the conditions for success? So I'll give you an example that I applied to my personal life. I've had a good exercise habit, a good workout and training program for the last 20 years or so.
+
+02:24:32.130 --> 02:24:59.934
+All the way through having our first kid, I did a really good job. I actually was in very good shape when our second was born. And then I had a year that was just tough. It was just, we had, you know, little babies and it got harder. And then we decided to have a third and I could just see that like, this was, my time is getting compressed. Atomic Habits is like runaway freight train. I'm trying to keep a hold of that. There's a lot of demands on time. And so I hired a trainer to start right around when our third was born. And
+
+02:25:00.322 --> 02:25:24.638
+The interesting thing about that is that I don't miss workouts anymore. I don't necessarily – the workouts are good. It's not anything about quality or anything like that. But I don't miss. And it's just because he's showing up. Everybody in the house respects it. It's like, oh, this has to happen at this time. Somebody else is coming in. And so what I'm getting at is –
+
+02:25:25.506 --> 02:25:39.934
+on the surface it looks like, oh, you're having a problem with working out, let's try to diagnose, like, how can we fix the workout problem. That really wasn't the problem. The problem wasn't me doing the workout, the problem was I needed to create the conditions for a workout to happen. And so,
+
+02:25:40.162 --> 02:26:06.718
+needed to create the conditions for success. And by doing that, suddenly everything else fell into place. And I think if you took that idea seriously and tried to apply it to whatever was important in your life, okay, you want to write a book? How are you creating the optimal conditions for writing to happen? You want to meditate more? How are you creating the conditions for a meditation session to be seamless and easy? And the more that you can do that stuff, the much more likely the habits are to occur. That's awesome. Thank you for giving us a picture of
+
+02:26:06.850 --> 02:26:33.790
+of what your family landscape looks like. The reason I ask is I think many people will look to their parents and their upbringing and will say, gosh, they had some pretty bad habits and probably some good ones too, hopefully. And if they don't have any recollection, it's an opportunity to build out that story starting now. I think about this a lot. And I'm realizing as you tell me this that much of what I think about when I think about my parents
+
+02:26:34.082 --> 02:27:02.110
+from my childhood is the habits they had. My dad took a walk after dinner with my mom. My dad liked to, he would walk and think, and he's a scientist, so, and he was a theorist, so he could get work done just walking and thinking. We tease those. That's nice. Yeah, it must be nice, as they say, right? It's hard thinking from what I understand. That's why I became an experimentalist. I like to work with my hands. But the things that my mom did, that my sister did, like that's a lot of,
+
+02:27:02.402 --> 02:27:27.998
+tapestry of my memories. And I think that habits perhaps are playing a much bigger role in our lives than just these things that we're trying to like build or overcome or break. I think that they're a lot of the bedrock of what we call life, right? They form an enormous part of our lives. It's not just the habits themselves and the role of those play, which are critical, but it's also habits are the entry point or like the entrance ramp to
+
+02:27:28.098 --> 02:27:55.070
+so much of the conscious time or the other things that we do. You know, out of habit, you might pull your phone out and then the next 30 minutes are you doing things on your phone. That was all sparked by that initial reflex of pulling the phone out. And so, in that way, habits are not only impacting our lives for the actual actions that they are, but also the actions that unfold as a natural consequence of doing those things. So, they have a huge effect. The point that you made about
+
+02:27:55.202 --> 02:28:24.574
+and inheriting maybe some of those and how those shape our lives. You know, what are the odds that the first way that you learn to do something was the best way? It's very unlikely, you know? One way, we've talked about multiple ways to define a habit, but another way to potentially define it is that habits, I think this comes from Jason Rea, who's a behavioral scientist, said that habits are solutions to the recurring problems in our environment. So, what are the odds
+
+02:28:24.738 --> 02:28:53.566
+Let's say you get done with a long day of work. You come back, you're kind of exhausted. Well, that happens, you know, frequently. And so it's a recurring problem that you face. How do you solve that problem? One person might solve it by going for a run for 30 minutes. Another person might solve it by playing video games for 30 minutes. Another person might solve it by smoking a cigarette. And you can see there's a spectrum of whether these are healthy and productive or less healthy and less productive. But they all are trying to solve that same core problem.
+
+02:28:53.794 --> 02:29:22.206
+And what you find is that, you know, you get to be 20 or 25 or 28, and a lot of the solutions that you have to these recurring problems that you face are solutions that you inherited or that you saw modeled by your parents or your friends or just, you know, whatever you have interfaced with throughout your short life so far. And the realization that we need to eventually have is that it is as soon as you realize that your solutions may not be the best solution, it's now your responsibility to try to figure out
+
+02:29:22.338 --> 02:29:49.630
+different way to do it. And that, I think, is the moment when you start to take ownership over your habits and see, okay, it's fine. I don't need to like berate myself for doing things this way. I just, I learned what I was exposed to, but there is probably a better way to do it. So now let me start to wrestle with that and try to figure out what are some different solutions that would solve that same problem that I keep facing. And maybe there's a healthier or more productive or a more beneficial way to do it. Awesome. James Clear,
+
+02:29:49.762 --> 02:30:16.350
+Thank you so much for coming here and teaching us more about habit formation, habit breaking, and also for being willing to explore some of the neuroscience-y spaces that I rolled out onto the table. I really appreciate it. I'm a huge fan of the book and of the work you're doing. Maybe just mention for us what you're most excited about now. Because everyone, if they haven't already read Atomic Habits, they absolutely should and incorporate the tools. But what are you onto now? Sure.
+
+02:30:16.514 --> 02:30:42.238
+I'm excited about a lot of things. Thank you again for the opportunity. It's fun to chat. So, you know, if you're looking for more on all this, what else can I do to make habits easy or obvious and so on? Atomic Habits is, you know, the full guide there. I also have an Atomic Habits workbook that we're coming out with. So it just helps you operationalize some of the things. How do I – okay, I understand the ideas in the book. How do I apply it to my actual life? So, you know, you can fill out the exercises there. And then there's – we have an Atomic Habits daily calendar. It's –
+
+02:30:42.338 --> 02:31:11.614
+sounds like a silly thing, you know, but it's a, it's a page a day and I have, I've been using it on my own. It's not, it's not out yet. It'll be out soon. There's something very human about needing to be reminded. And so it's nice to have a, just a simple daily reminder. They're like little mindset mantras, little reminders about how to build habits and just one each day. And there's something nice about having it there. So I actually, weirdly, I'm actually excited about this daily calendar. I am too. I, I think a one pager is really useful. A one pager per day. I usually,
+
+02:31:11.810 --> 02:31:22.782
+an 8 1⁄2 by 11 divided. I mean, I have my system that's not important right now, but the one-page-per-day thing is awesome. Is it a bound kind of workbook? So it's a, no, it's a little calendar that's spiral bound.
+
+02:31:22.914 --> 02:31:50.334
+And you just, you know, you can flip one day to the next. I had this idea. I had this years ago. I thought, what if I could hire like a peak performance coach? And all they did was they just called me each morning at like 8 a.m. and just gave me one like mindset thing, but just like five minutes, you know, and just like prime me for the day. And then I go into the day and I'm like in the right frame of mind. And so this calendar is my attempt to kind of do that where it's like, all you need is just read this one page and then like go into your day. And so anyway, the Atomic Habits daily calendar.
+
+02:31:50.530 --> 02:32:19.742
+When can we expect that? It'll be out in a couple months. Oh, great. Yeah. Okay. Well, read Atomic Habits if you haven't already, folks, and definitely check out the workbook. I'm going to get the calendar in the workbook. Those are two separate things? Yeah, they're two separate things. I'm definitely going to do that. I'm not just saying that. And no, this wasn't all preloaded beforehand. I'm actually just, I want to learn. I mean, I think I have decent habits, but it can always be better. Thank you so much for coming here and sharing all this knowledge. You gave us so many tools. And...
+
+02:32:19.874 --> 02:32:45.470
+a real framework to work with those tools. And I'm going to be thinking a lot about context and environment and especially about that thoughts are downstream of inputs and really thinking hard about the inputs and controlling the inputs better because there's some great quality inputs out there and there's some less quality inputs. You are absolutely a high quality input. So thanks for being the high quality input for everyone and come back again. You got it. Thank you.
+
+02:32:45.890 --> 02:32:55.774
+Thank you for joining me for today's discussion with James Clear. To learn more about his work and to find a link to his spectacular book, Atomic Habits, please see the link in the show note captions.
+
+02:32:55.874 --> 02:33:25.840
+If you're learning from and or enjoying this podcast, please subscribe to our YouTube channel. That's a terrific zero cost way to support us. In addition, please follow the podcast by clicking the follow button on both Spotify and Apple. And on both Spotify and Apple, you can leave us up to a five-star review and you can now leave us comments at both Spotify and Apple. Please also check out the sponsors mentioned at the beginning and throughout today's episode. That's the best way to support this podcast. If you have questions for me or comments about the podcast or guests or topics that you'd like me to consider for the Huberman Lab
+
+02:33:25.840 --> 02:33:50.078
+please put those in the comments section on YouTube. I do read all the comments. For those of you that haven't heard, I have a new book coming out. It's my very first book. It's entitled Protocols, an Operating Manual for the Human Body. This is a book that I've been working on for more than five years, and that's based on more than 30 years of research and experience. And it covers protocols for everything from sleep to exercise, to stress control,
+
+02:33:50.210 --> 02:34:10.206
+protocols related to focus and motivation. And of course, I provide the scientific substantiation for the protocols that are included. The book is now available by presale at protocolsbook.com. There you can find links to various vendors. You can pick the one that you like best. Again, the book is called Protocols, an Operating Manual for the Human Body.
+
+02:34:10.562 --> 02:34:40.528
+And if you're not already following me on social media, I am Huberman Lab on all social media platforms. So that's Instagram, X, Threads, Facebook, and LinkedIn. And on all those platforms, I discuss science and science-related tools, some of which overlaps with the content of the Huberman Lab podcast, but much of which is distinct from the information on the Huberman Lab podcast. Again, it's Huberman Lab on all social media platforms. And if you haven't already subscribed to our Neural Network newsletter, the Neural Network newsletter is a zero-cost monthly newsletter that includes podcast summaries as well
+
+02:34:40.528 --> 02:35:06.206
+as what we call protocols in the form of one to three page PDFs that cover everything from how to optimize your sleep, how to optimize dopamine, deliberate cold exposure. We have a foundational fitness protocol that covers cardiovascular training and resistance training. All of that is available completely zero cost. You simply go to Hubermanlab.com, go to the menu tab in the top right corner, scroll down to newsletter and enter your email. And I should emphasize that we do not share your email with anybody.
+
+02:35:06.498 --> 02:35:14.526
+Thank you once again for joining me for today's discussion with James Clear. And last, but certainly not least, thank you for your interest in science.

@@ -1,0 +1,856 @@
+WEBVTT
+
+00:00.354 --> 00:15.134
+Welcome to the Huberman Lab podcast, where we discuss science and science-based tools for everyday life. I'm Andrew Huberman, and I'm a professor of neurobiology and ophthalmology at Stanford School of Medicine.
+
+00:15.586 --> 00:36.286
+My guest today is Dr. Richard Schwartz. Dr. Richard Schwartz is the founder of Internal Family Systems Therapy, which is a unique form of therapy that's less centered on your relationship to other people, but instead focuses mainly on identifying the parts of yourself and your personality that tend to emerge in different situations and that tend to create anxiety, resent, or depression.
+
+00:36.450 --> 01:00.894
+Another key feature of internal family systems therapy is that it's not just focused on fixing challenges within us, it also teaches you how to grow your confidence, openness, and compassion. Now, today's episode is different than any other episode of the podcast that we've done before, and that's for two reasons. First, Dr. Schwartz takes me through a brief session of IFS therapy so you can see exactly what it looks like in practice, and then he takes you, the listener,
+
+01:01.026 --> 01:29.054
+through it as well. So as you'll soon observe and experience, internal family systems therapy allows you to work through challenging sticking points, basically the parts or feelings within you that you don't like to have, and then it shows you how to convert those feelings into more functional aspects of yourself. So as you'll soon see, internal family systems therapy is both super interesting and it's an incredibly empowering practice. It's also a form of therapy that's now been studied and for which there's a lot of peer reviewed science to support its efficacy.
+
+01:29.154 --> 01:51.902
+By the end of today's episode, Dr. Dick Schwartz will have shown you that a lot of the negative reactions that we tend to have with different people and things tend to originate from a few basic patterns that once we understand, we can really transmute into more positive responses. It's a really interesting practice. It's one that you can apply today during the episode and that you can return to in order to apply going forward in your life.
+
+01:52.066 --> 02:20.478
+Before we begin, I'd like to emphasize that this podcast is separate from my teaching and research roles at Stanford. It is, however, part of my desire and effort to bring zero-cost-to-consumer information about science and science-related tools to the general public. In keeping with that theme, this episode does include sponsors. And now for my discussion with Dr. Richard Schwartz. Dr. Dick Schwartz, welcome. Thank you, Andrew. It's delightful to be with you. Yeah, I've heard so much about you and your work.
+
+02:21.090 --> 02:50.110
+and internal family systems models. I've had the opportunity to do a little bit of that work. To be honest, I don't know whether or not the person I did that work with was formally trained in it. So I'd like to start off by just asking you, what is internal family systems and what are the different components? And as we do that, I'm sure people are going to be thinking about these various components for their own life and the people in their lives. Great. Yeah.
+
+02:50.914 --> 03:19.774
+Well, originally I developed it as a form of psychotherapy, which is probably the way it's used most now, but it's also become a kind of life practice and just a paradigm for understanding the human mind as an alternative to the culture's paradigm. So that's saying a lot, and it's been quite a journey. I know Freudian psychoanalysis works.
+
+03:21.314 --> 03:50.302
+any number of different branches of psychology that have a clinical slant to them. There's cognitive behavioral therapy. What are the core components of internal family systems? Yeah, so one basic assumption is that the mind isn't unitary, that actually we're all multiple personalities, not in the diagnostic sense. But we all have these, what I call, parts. Other systems call subpersonalities, subpersonalities.
+
+03:50.402 --> 04:17.054
+ego states, things like that. And that it's the natural state of the mind to be that way, that we're born with them because they're all very valuable and have qualities and resources to help us survive and thrive. But trauma and what's called attachment injuries and the slings and arrows we suffer
+
+04:18.017 --> 04:47.038
+force these little naturally valuable parts into roles that can be destructive. Often they don't like it all, but because they're frozen often in time during the trauma and they live as if it's still happening, they're in these protective roles that can be quite extreme and interfere in your life. And, yeah, so I just stumbled onto the phenomena of 40 years
+
+04:47.138 --> 05:16.958
+Now I think it's 41 years ago. And it's been, you know, amazing ride. So at the time, were you already practicing as a clinical psychologist? I actually have a PhD in marital and family therapy. So I was part of the movement in family therapy away from intrapsychic work. There was a polarization. And we thought we could reorganize families and heal all these symptoms just by doing that. We didn't have to muck around in the inner world. And I went to prove that.
+
+05:17.058 --> 05:46.014
+and this was about 1983, by getting a group of bulimic kids together and their families and tried to reorganize the families just the way the book said to and failed. The kids didn't realize they'd been cured, and they kept binging and purging. So out of frustration, I began asking why, and they started talking this language of parts. And they would say some version of, when something bad happens in my life,
+
+05:46.434 --> 06:12.542
+it triggers this critic who's calling me all kinds of names inside, and that goes right to the heart of a part that feels empty and alone and worthless. And that's so distressing to feel that the binge part comes in and takes me out, takes me away from all that pain. But the critic comes in and attacks me for the binge, and then the criticism goes right to the heart of that worthless part.
+
+06:13.314 --> 06:40.830
+So to me, as a family therapist, this sounded like what I'd been studying in external families, these circular sequences of interaction. And so I just got curious and just started to explore. Are these different parts that exist within each and all of us, are they represented by a clear and distinct voice from the other? Or do people typically experience them as just the self, like my inner critic, uh,
+
+06:41.410 --> 07:11.358
+you'll give us the other names and titles. Or is this happening typically below people's conscious awareness? Some of both. So most people are aware they're a critic. But other times you're not aware of these parts we call exiles that you've locked away because you didn't want to feel their feelings. They're stuck in these bad trauma scenes. And to survive in your life, you had to push them away.
+
+07:12.066 --> 07:32.382
+And so with those parts, a lot of people aren't really consciously aware of them until these protector parts give space and open the door to the exiles. I'd like to take a quick break and acknowledge our sponsor, BetterHelp. BetterHelp offers professional therapy with a licensed therapist carried out entirely online.
+
+07:32.546 --> 08:02.512
+Now, I personally have been doing therapy weekly for well over 30 years. In fact, I consider doing regular therapy just as important as getting regular exercise, which of course I also do every week. There are essentially three things that great therapy provides. First of all, it provides a good rapport with somebody that you can trust and talk to about pretty much any issue with. Second of all, it can provide support in the form of emotional support and directed guidance. And third, expert therapy can provide useful insights, insights that allow you to better not just your emotional life and your relationship life, but of course,
+
+08:02.512 --> 08:30.750
+Of course, also the relationship to yourself and your professional life and to all sorts of goals. BetterHelp makes it very easy to find an expert therapist with whom you resonate with and that can provide you those three benefits that come from effective therapy. Also, because BetterHelp allows for therapy to be done entirely online, it's super time efficient and easy to fit into a busy schedule. If you'd like to try BetterHelp, you can go to betterhelp.com slash Huberman to get 10% off your first month. Again, that's betterhelp.com slash Huberman.
+
+08:30.978 --> 08:35.870
+Today's episode is also brought to us by David. David makes a protein bar unlike any other.
+
+08:35.970 --> 09:03.390
+It has 28 grams of protein, only 150 calories and zero grams of sugar. That's right, 28 grams of protein and 75% of its calories come from protein. This is 50% higher than the next closest protein bar. David protein bars also taste amazing. Even the texture is amazing. My favorite bar is the chocolate chip cookie dough, but then again, I also like the new chocolate peanut butter flavor and the chocolate brownie flavored. Basically, I like all the flavors a lot. They're all incredibly delicious.
+
+09:03.490 --> 09:33.456
+The toughest challenge is knowing which ones to eat on which days and how many times per day. I limit myself to two per day, but I absolutely love them. With David, I'm able to get 28 grams of protein in the calories of a snack, which makes it easy to hit my protein goals of one gram of protein per pound of body weight per day, and it allows me to do so without ingesting too many calories. I'll eat a David protein bar most afternoons as a snack, and I always keep one with me when I'm out of the house or traveling. They're incredibly delicious, and given that they have 28 grams of protein, they're
+
+09:33.456 --> 10:03.326
+really satisfying for having just 150 calories. If you'd like to try David, you can go to davidprotein.com slash Huberman. Again, that's davidprotein.com slash Huberman. I definitely want to go into what the various protector roles or titles are, labels, excuse me, and the exiles. Before we do that, since you brought up the topic of trauma, this is a topic that I think many, many people are interested in. I'm just curious, how do you define a trauma?
+
+10:03.714 --> 10:32.510
+and why do you think it is that traumas tend to lock us into a state that was representative of an earlier time? Why is it that it's so linked to this thing of time perception? Yeah, the why question I can't totally answer, but it definitely is. And for me, traumas aren't necessarily traumatizing. So something bad happens to you, and if you can't,
+
+10:32.802 --> 11:01.438
+can access what you and Martha Beck were calling the self, capital S, and you go to the part of you that got hurt by what happened instead of pushing it away and locking it up, and you embrace it and you bring it closer to you, which means going to your suffering, which is counter to what most of us try to do. But if you were to do that and you could help it unload the feelings it got from the trauma...
+
+11:02.178 --> 11:31.710
+then you're not traumatized. What's traumatizing is something bad happens. These more vulnerable parts of us, the most sensitive parts of us, get hurt or feel worthless because of what happened or get terrified. And then we lock them away because we don't want to feel that feeling anymore. And everybody around us tells us to just let it go, just move on, don't look back. And so we wind up exiling people
+
+11:32.386 --> 12:00.222
+our most sensitive parts simply because they got hurt. And then when you have a lot of exiles, you feel more delicate, the world seems more dangerous because anything could trigger that. And when they get triggered, they'll blow up, they'll take over. So it's like these flames of raw emotion come popping out. So other parts are forced into these manager roles or these protective roles.
+
+12:01.186 --> 12:30.750
+And some of them are trying to manage your life so that you don't get triggered anymore, so that, for example, nobody gets close enough to you to trigger any of that, or so you look really good, so you don't get rejected, or perform at a really high level to counter the worthlessness. Many of those become the critics because in their effort to try to get you to look good, they're yelling at you to try and behave and do what they want so you look better.
+
+12:30.914 --> 12:58.334
+And then there are other what we call manager protectors that are, for some people, particularly women, these massive caretaking parts that don't let them take care of themselves and take care of everybody else. So I could go on and on. There's a lot of common manager roles. And I want to make clear as I'm talking about this that these are not the essence of the parts, and that's a big mistake that most of the field has made is to assume –
+
+12:58.498 --> 13:26.142
+The critic is just an internalized, critical, parental voice instead of listening to it and hearing that it's desperately trying to protect you. So none of these are what they seem. That's the role they've been forced into. And the analogy, again, is to an external family, like kids in dysfunctional families are forced into these extreme roles that aren't who they are. It's the role they got forced into by the dynamics of the family.
+
+13:26.914 --> 13:56.478
+So the same is true with this internal family. So most of us have a lot of what we call managers. They got us here. They help us in our careers. And other systems would call them the defenses or the ego. And, you know, in spirituality, they get vilified too. But their whole MO is keep everything under control, please everybody,
+
+13:57.378 --> 14:26.878
+and you'll survive. The world has a way of breaking through those defenses, triggering an exile. When that happens, it's a big emergency because, again, these flames of raw emotion are going to overwhelm you and make you have trouble functioning or even getting out of bed. So there are other parts that immediately go into action to deal with that emergency. And in contrast to these managers, they're impulsive, reactive, damn the torpedoes,
+
+14:27.362 --> 14:56.990
+I don't care about the collateral damage to your body, to your relationships. I just got to get you higher than those flames or douse them with some substance or distract you till they burn themselves out. So we call those firefighters. And again, these are just the roles. When released from these roles, they'll transform into being something very valuable. So the firefighter, the inner firefighter role is one of the exiles that surfaces.
+
+14:57.090 --> 15:26.910
+Under conditions of a lot of emotion. Maybe we could, this is a beautiful description and I'm completely on board this idea that we have multiple aspects of self or selves inside. Jung said that too, I think, right? Jung had all this a long time ago. Yeah, and what I like about this protectors slash managers versus, again, not versus because they're combated, but as a distinct category, the exiles is, it just feels very true to me.
+
+15:27.042 --> 15:56.798
+and I like the directness of the language. So maybe we could just create a mental grid for people. Let's say I came to you as a patient and I said, listen, I'll just be direct. I'll be honest. Why not do it? Let's do it. Secretly, I brought you here to get therapy. No. But okay, so I'm somebody who for a very long time has been able to organize his life. I tend to have...
+
+15:57.826 --> 16:24.414
+smooth interactions with my coworkers, great friendships. I now have a very good relationship with my immediate family. Very good, in fact. I'm still working on a few things with a few people, but I'm living in a mode of great joy and appreciation these days. However, I'm not gonna give the details of this for sake of privacy, but the other day I was in a discussion with a family member
+
+16:24.514 --> 16:52.286
+they had a grievance with me that I felt we had already addressed and it became a very high friction conversation very quickly to the point where we tabled as an idea that maybe we just take some like serious space, like, which was not reflective of how deeply I love this person or they love me. It was just a feeling of both of us just being in this like high tension place, like, and fortunately,
+
+16:52.386 --> 17:20.575
+the conversation ended well with a path forward that involved more contact, not less, that both of us feel really good about. But in that moment where I'm feeling overwhelmed and they're feeling overwhelmed, what's going on there? We're both adults. So overwhelmed with anger at each other? Frustration. Frustration, yeah. Frustration. Like that previous conversations, I felt I hadn't,
+
+17:24.770 --> 17:48.222
+I was saying things, they were saying things, but I feel like there was so much underlying tension based on a history of poor communication nested on top of the kind of an intensity of emotion that we both tend to carry. And somehow we just couldn't parse things from that state. Yeah. Yeah.
+
+17:48.354 --> 18:15.550
+And so I sat in my chair and I just told myself, okay, I'm going to not say anything for five minutes because I know myself. Right. It's not that I thought I would say something really barbed wire, but I just thought this is not going to work. Like I'm slamming my head against a wall. They're not hearing me. I'm clearly not hearing them. And the thing that helped me through that was just because it was what was taught to me. I just decided to surrender. Mm-hmm.
+
+18:16.130 --> 18:41.726
+And the word surrender used to mean to me letting go of truth. Yeah. And I feel really scary because when you say surrender, it's almost like saying one context is surrender means you're right no matter, and you're right. I was just going to say that's right. But I've come to realize that surrender to me is just a surrender in the moment. Yeah. So that I can get better optics. Yeah. Internal and external optics. So to me, the, the,
+
+18:42.114 --> 19:10.334
+the thing of embracing surrender in those types of moments, very uncomfortable. Uh, but I now I've learned it's, it's a great, um, a great way to get perspective. Um, but even as I describe it, the whole situation was so heavy. I came out of that call, even though it ended well and was like, Oh, yeah. Like, Oh, that was, that was like, I'd never run a marathon, but I'd rather run a marathon than do,
+
+19:10.434 --> 19:38.910
+two of those a week. Totally agree. Yeah. I had one of those with my wife a few days ago. Okay. All right. Well. And yeah, very similar. Just caught that part and said, okay, let's just let it go for now and we'll talk later. So I could give you my take on what happened, but if you wanted to, we could just go in and do a little exploring. Sure. Yeah? Yeah. Sure. Okay. Should we start with the frustrated, angry part? Sure.
+
+19:40.354 --> 20:09.438
+All right, you ready? I believe so, yeah. Okay. So remember that feeling and then focus on it and find it in your body or around your body. Okay. Where do you find it? Somewhere between the middle of my midsection and like right behind my forehead, like there's pressure. It's great. It's great you have such clarity about it. So...
+
+20:09.698 --> 20:38.334
+As you focus there, how do you feel toward this part of you? Oh, no, it's very unpleasant. So you don't like it? No, I don't like it. Yeah, which makes sense because it does, you know, sometimes escalate things with your friend and doesn't leave you feeling good. So I understand why you don't like it. But we're going to ask the parts that don't like it
+
+20:38.466 --> 20:59.006
+to give us the space to just get curious about it and see if that's possible. Okay. Okay. So how do you feel to it now? A little bit of relaxation in the, in the, the head part of it. Yeah. It's, it's,
+
+20:59.170 --> 21:27.966
+It's funny how when you asked me to localize it, it's so clear. It's like this thing inside me. It's like about the size of like a teddy bear that's just like, oh, but it's not a good thing. It's like pushed up there. But then when you said to get curious about it, it feels like it kind of drops down a little bit and kind of moves in a little, maybe softens a little bit. So you do feel curious toward it? Yeah. All right. So go ahead and ask it what it wants you to know about itself. Silently. Up to you. Either way.
+
+21:28.194 --> 21:57.694
+Whichever is more comfortable. Well, since this is a podcast and none of this is comfortable anyway for me to do in public, if I'm quite honest. Yeah, just ask inside. Sure. No, I'll do it out loud. Okay. Okay, so what do you want me to know about you? Yeah. And just wait for the answer. Don't think. I know you've got a big cognitive part, so we're going to ask that one to relax. And just whatever comes in terms of the answer, just wait for it. Mm-hmm.
+
+21:59.010 --> 22:28.766
+Well, my answer is based on the feeling that occurred immediately after asking it, which was the answer was I can dissipate. And then I kind of felt it dissipate. Okay. So it feels like an energy that when condensed sucks. But when I look at it, softened a little bit and then asked the question you asked, and then it feels like it just kind of went into the rest of my body, but not poisoning the rest of my body, just kind of –
+
+22:29.218 --> 22:58.686
+mixing in with, you know, of course we're speaking in mystical terms here. Right. So it relaxed. It may not have dissipated in the way we think about that. It might have just relaxed more. But just keep asking it, what's it afraid would happen if in that context it didn't try to take over in the way that it did? Just ask that question. If it didn't try to take over? Yeah. What's it afraid would happen if it hadn't tried to take over? Oh.
+
+22:59.042 --> 23:27.198
+Just wait for the answer. Yeah, that's a good question. Okay, so what would happen if you didn't take over my system that way, condense from my stomach to my head when I'm feeling that way? Yeah. Don't think. Yeah. The answers are coming really quick. That I wouldn't be able to discern the truth. Okay. So the truth is really important to this part of you. Yeah. Yeah.
+
+23:28.002 --> 23:57.694
+Yeah, because it tends to surface when I'm hearing something that I believe to be fundamentally untrue, typically about my thoughts or feelings, right? I've come, maybe with age, I've come to the conclusion that two people can look at the same interaction or same thing and have two very different versions of it. I'm okay with that. The part that I'm very, very sensitive to, people in my life know this, is when someone else tells me how I feel.
+
+23:57.794 --> 24:25.662
+what my motives are or how I feel. That to me is like, that's kind of a hard, fast way to engage this thing. Okay. So just stay with this thing. Just stay with it. Okay. And let it know you get that, that having people misinterpret your motives is really, really hard for it. And ask it more about that. Just, again, don't think, but ask yourself.
+
+24:26.402 --> 24:55.966
+Why that's so hard? Why does that bother it so much? And what's it afraid would happen if it let that go? Yeah, so why are you afraid to... Why do you have to step in when that happens? My answer is not going to be very satisfying for the listeners or for me. But it's saying because if you can't hold on to your truth...
+
+24:57.090 --> 25:26.494
+then nothing will make sense. So there's something about making sense or nothing making sense that it's really scared of. Is that right? Yeah. I mean, I decided to become a biologist and to try and understand the meat inside our heads and body that is the nervous system because I felt and I still feel that it can reveal some fundamental facts or truths.
+
+25:26.850 --> 25:55.518
+you know, understanding reality as it were is really important to me because I feel like humans, including myself, of course, are so prone to misinterpretation. So like the truth as a thing out there, I'm willing to let go of completely. Like completely. The truth as it exists for knowing for certain
+
+25:56.098 --> 26:24.574
+what my motivations were or what did or didn't happen. But typically it's about motivation. What did or didn't happen, you usually can parse with somebody. That's something I feel I need to protect at all costs. Yeah. So speaking of protect, and so this is a protect your part, right? Ask it if it's protecting other parts of you that are vulnerable and get hurt when someone misattunes to what your motive is.
+
+26:25.378 --> 26:55.038
+Just ask that question, don't think. That's an easy, that's a fast one. Not easy, but it's a fast one. Yeah, the part of me that feels injured by that is the fact that I believe that I, at least at the beginning and throughout most of a relationship, and even if a relationship ends for whatever reason, that I know it's my nature to,
+
+26:55.170 --> 27:24.702
+to try and imagine as much goodness in the intent of the other person as possible. So if I were to let go of this response, keep going, in my mind, I'm going like this, like, it's like a titanium teddy bear shaped thing, but it doesn't, it's not even feel like, it's like a titanium block there. I would potentially move into a mode of judgment
+
+27:24.834 --> 27:52.862
+of them. It's interesting because there are many people from my past and maybe even a few from my present that people close to me who are pretty well qualified tell me like I should dislike them or cut them out of my life. And I don't, there are a few, maybe one or two instances of people I've cut out of my life, but it's my inclination always to just try and see what can happen
+
+27:52.994 --> 28:22.494
+what can exist. Yeah. So that, and that part feels important to me. I don't know why it's important now that I've come to think about it. Like... Well, we can ask. Yeah. So what I'm hearing is this guy, this titanium guy, is keeping at bay another part that can be very judgmental of the other person. Yeah, I don't like feeling that. Yeah. It feels energetically wasteful. Yeah. And it feels, more than that, it feels incredibly sad. Yeah. It's sort of like, I think to...
+
+28:23.074 --> 28:52.574
+to accept that part of myself is to kind of give up on some fantasy, which is probably an unrealistic fantasy, which is why I'm calling it a fantasy, I realize. Yeah. Yeah. Like this, because I look at, and I always have since I was a kid, I look at people as we are among the animals. We're the curators of the earth because we're good at technology development, but aside from that, and just like you wouldn't, I can't imagine that a raccoon-
+
+28:53.474 --> 29:15.614
+you know, looks at another raccoon and it's like, that's a bad raccoon. It's just a rabid raccoon. Right. You know, and they just, I sort of yearn for the same sensitivity to our own species. I get that. Yeah. Like, I don't hate anybody. Well, there might be parts of you that do, but...
+
+29:15.714 --> 29:45.214
+I hate behaviors. Okay. I hate things that people have said or done, not certainly mostly to other people, not to me. But yeah, being like really being angry at someone in a pervasive way, not just in the moment is something that's very difficult for me. But what I'm hearing, what we heard from this part, it's afraid if it doesn't do this, a part that judges the other, probably in a
+
+29:45.538 --> 30:13.438
+you know, not so nice way would be released. Does that sound right? Yeah. So there is that part in there. It's just that you've been able to kind of exile it. Yes. Okay. Yeah. I'm comfortable with the idea that you take the appropriate amount of distance, could be zero or could be near infinite, but that I should take the appropriate amount of distance from things and people so that I can be in the most...
+
+30:13.602 --> 30:41.758
+loving stance toward them or that. I'm not trying to sound technical here with all the parallel constructions, but I've thought this through a lot. Like there's some people that I, that there's no limit to the extent to which I want to interact with them. We have other things to do when I spend all our time together. And then there are other people that I love them, but I know that I have to keep a certain amount of distance in order to continue to love them. This is the same thing. Mm-hmm.
+
+30:42.658 --> 31:09.662
+So in that moment, it's almost like, but it's coming up without my conscious thing. It's not like saying, listen, that's the kind of person I can talk to like once a month or something. And I'll just add, in professional settings, not now, but in the distant past, when I was in a very hierarchical structure, I'm still in academia, I still teach, but not running research anymore formally. Like I had a couple,
+
+31:09.762 --> 31:39.038
+senior colleagues that I really loved and respected, but that they would say or do things that I thought were frankly unethical to other people. And to me, I felt them as kind of abrasive. So I might, like the physical manifestation of this is, I would make it a point to like walk past their office door quickly so that they didn't say, hey, because I don't want to interact. But I don't, I'm not familiar with cutting people out of my life. I'm just not familiar with
+
+31:39.138 --> 32:07.454
+I sort of don't believe in it as a value. Let's pause for a second. I'll give you a little overview where we are. So we started with this guy who came up with your friend and is trying to protect that relationship because if you continue to be misunderstood in terms of your motives, it would have an impact. Does that sound right? Yeah. The only thing I'll – is a family member. Okay. Yeah. Not that matters, but close family member. Got it. Yeah.
+
+32:08.866 --> 32:38.494
+And in exploring this part, asking what it's afraid would happen if it didn't do that. So there's this other part that might come out that would be very judgmental of that family member and really might have a bad influence on your relationship with that person. Does that sound right? That's correct. Okay. So we have these two – well, we have you who's noticing all this, which we should talk more about.
+
+32:39.426 --> 33:07.774
+And then we have these two parts that are sort of polarized, but one, the judgmental one, you really don't like. And so you really go to lengths to keep at bay. And you kind of admire this guy, but you also know that he can get in the way at times too. Does all that sound right? Yeah, that's right. Because I'm describing a recent situation where
+
+33:08.034 --> 33:37.566
+the presence of this like titanium teddy bear. Sorry, I don't know why that's amusing to me to say that. The shape of a teddy bear, I'm not seeing a teddy bear in there, but roughly that size and shape. It creates a protection, but a pressure internally that's super uncomfortable. It's actually taken me a couple of days to dissipate this. And I do think somewhat counter to the way I'm describing it,
+
+33:38.082 --> 34:05.278
+it doesn't prevent me from saying something. It actually, if it's too much, it's almost like that's when words start coming out and they're not kind. So it's not a real protector in the sense like it's preventing me from a course of action I don't want to take. It's more like, it feels like it's kind of extruding all this stuff. And obviously I'm responsible for my words and actions. I know that, but it does feel like it,
+
+34:06.210 --> 34:34.879
+It kind of takes over. It takes over. Yeah. That's the way to put it. So let's go through that again. So first of all, I'm so grateful that you're willing to be this vulnerable and expose these parts. So this guy, actually, they're both probably what we call firefighters and very reactive. There's maybe some other very vulnerable part that could
+
+34:34.978 --> 35:02.718
+involved here we haven't heard about. But if I were to be continued, if we continue to work together, I would work to get permission to go to the judgmental guy too. And what you would find is he's a protector too. He's not just a bunch of negative thoughts about people. And as I was hearing earlier, you spent a lot of time in your life
+
+35:03.618 --> 35:30.206
+trying to be fair to people and to not judge them and to see them. What they do is just their behaviors and not who they are, which is great. But in the process of doing that sometimes, we wind up having to push away the parts that want to judge and want to hate and so on. And what I find is if we can go there and get to know them,
+
+35:31.490 --> 35:57.502
+They're just protectors too, and they're young, and when they are able to unload the hate they might carry, the judgment, they'll transform. So this is a model of transformation in that sense, and there are no bad parts. You go to everybody in there, regardless of how you think how bad they are.
+
+35:58.754 --> 36:27.742
+and you get curious about them, and you learn how they're trying to protect. And then we help them out of their protective roles and help them trust there's a you, who you talked about with Martha, who can run things. They don't have to do it because most of them are young. And get them to trust this you to handle your family member rather than they have to take over or try to take over in the way they did.
+
+36:28.002 --> 36:56.254
+Does this make any sense? Yeah, it makes total sense. You know, what you said at the beginning, permission to go to the judgmental part. I was just, in my mind, when I hear that, flits to, you know, two possibilities. One's a novel possibility. One's a familiar possibility. The familiar possibility is if I were to really feel the disappointment that I'm feeling,
+
+36:56.418 --> 37:26.270
+when this pattern in the other person shows up again, because at least it seems to, I'm very familiar with the pattern. Then it would fundamentally change the way that I feel about them. That's right. Like I'm trying to hold on to the goodness. The relationship, that's right. But of course, I want to be very clear, not just for anyone listening, but for myself too, that clearly the protecting,
+
+37:26.530 --> 37:55.966
+role of this titanium teddy bear, it's created something where what the times when things have broken through from my side, they're not kind. Right. And or they're spoken in a way that just is not constructive. Right. Right. So, yeah. And then the second possibility is that I hadn't considered this possibility, but the second possibility is that
+
+37:56.514 --> 38:24.894
+Were I to let myself feel that disappointment, that maybe the relationship could persist. Like I've been looking at those things as mutually exclusive. And as I say all this, I also realize that, well, the honest disclaimer is like, I don't want to give the impression that I don't judge people. I'm human and I certainly do.
+
+38:24.994 --> 38:54.270
+I'm just saying that when there's a relationship that I wish to maintain, I'll go to great lengths to push aside knowledge of my own experience and or just judgment. I've made this, I've engaged in this pattern in ways that ended up being extremely destructive to me by completely like putting the blinders onto things that were right in front of me. And that's what I'm talking about. Consciously. That's what I'm talking about. Because I adored the person so much in other dimensions. Yeah.
+
+38:54.466 --> 39:18.014
+Like that, you know, and, you know, it's not a, for lack of a better word, a holistic way to approach things. But I also will say that in contrast to those types of relationships, the relationships where the titanium tetanus is not required feel to me, so like by comparison, but also in the absolute scale feel to me, like the best relationship
+
+39:18.178 --> 39:45.854
+Possible relationships one could have. They're like pinch me type of relationships, like my friendship, some of my relationships to family, like my coworkers and there are others too. I've certainly had romantic relationships like that. Relationships, my relationship to my dog, as trivial as people might think that seems. The contrast of that, like where there's no need for this protector part, it's like the best thing because it feels completely different.
+
+39:46.274 --> 40:15.358
+safe and uninhibited. Yeah. I never have to worry that I'm going to be taken over from the inside. Yeah. Nor do I ever worry that I'm going to like really screw up. Yeah. And I hope that if I do screw up, they'll tell me, but like it's, uh, it's the complete absence of fear. So let me check in and just see how this has been to discuss and, and focus and so on. What's it been like to do this process? Um,
+
+40:16.962 --> 40:46.238
+It's a lot in the sense that I don't like feeling that titanium thing. Teddy bear. Teddy bear. It's been very informative. So it's balanced by that. And maybe that's why I went into a little riff about the pleasant relationships and how outsized positive they are for me. They're like a salve and an elixir for me that...
+
+40:46.594 --> 41:14.814
+Maybe I gave myself a little like wash over with that because it's pretty uncomfortable. Yeah. But it's been, it's really informative. And it also tells me that the internal family systems work that I did with someone else was an attempt at this, but so very different, which makes sense because this is your art and science. Yeah. So, so I'm grateful. Yeah. So it feels good. What I was saying earlier is if we were to pursue it, we could get to the point where the teddy bear guy is,
+
+41:15.522 --> 41:44.702
+could unload the feelings he carries that makes it so uncomfortable, and he would transform. How would we go about doing that? You would focus on him again. We would explore more of what he's protecting. Either we would go to the guy he's trying to keep at bay that would ruin a relationship, or often these parts are protecting something much more vulnerable from your past. Some young part that's stuck somewhere in the past,
+
+41:45.218 --> 42:13.918
+that has a big issue about being misunderstood in terms of motives or something? Yeah, it's... Not that I need clarity on this right now, but it's more that it protects the possibility of a relationship at all. Yeah, I get that. Like, I think the fear is, like, if I were to look through my lens of truth at what's happened or is happening in the moment, if I were a, quote-unquote, better-boundaried person, it'd be done yesterday. Yeah. But...
+
+42:14.434 --> 42:43.710
+So it's sort of like a desire to live out a fantasy. Got it. I mean, if I'm honest. So that would be the part that we would go to that it protects, that has this fantasy of what a relationship should be or could be, who might be stuck somewhere in the past. And we would witness, you know, you talked with Martha about compassionate witness. We would witness where he's stuck and what was happening back then. Mm-hmm.
+
+42:44.450 --> 43:12.670
+And then I would have you go in and get him out of that time period. Then we would have him unload the desire for that fantasy that keeps you getting hurt. And then I would have you have the teddy bear see it doesn't have to protect him anymore. And then we would help the teddy bear unload the feelings he carries. And then he could relax. And they would all start to trust you, which...
+
+43:12.866 --> 43:39.934
+We should talk about it a little bit now. Who is you who's separate from these others? For the record, I never owned a teddy bear as a kid. I had a stuffed frog. I had a teddy bear. Well, I'm not embarrassed to say I had a stuffed frog that I loved, afraid of the frog. So I don't know where the teddy bear thing came up, but the shape is so very clear. But let me just elaborate on what I was just saying because when you –
+
+43:40.802 --> 44:08.862
+separated from him, and you found him here, and I asked you how you felt toward him, and you had an attitude about him at first, remember? We got that to relax and got curious about him. Then you started to access more of what I call yourself with a capital S. So it comes through curiosity. Well, often starts with curiosity. And just to backtrack a little bit, so when I would have...
+
+44:09.666 --> 44:39.102
+these clients in the early days starting to work with these parts, like the critic and so on. And once I got hip to the fact they weren't what they seemed, that they deserved to be listened to rather than fought with, so I would help the parts that hated them step out, and clients could do that pretty readily. And then I would say, now how do you feel toward this critic? And spontaneously people would say, I'm just curious about why he calls me names all day.
+
+44:40.034 --> 45:06.942
+or even would say, I feel sorry for it that it has to do this. I'm going to help it. And when they were in that state, and I would ask, what part of you is that? That's great. Let's keep that around. They'd say, that's not a part like these others. That's me. That's my essence, or that's my self. So I came to call that the self with a capital S. Forty years later, thousands of people doing this all over the world.
+
+45:07.906 --> 45:36.414
+turns out that that self is in everybody just beneath the surface of these parts so that when they open space, you can access it quickly and has all these great qualities, what I call the eight C's. So curious, but also calm, confident, compassionate, courageous, clear, creative, and connected. And that person is
+
+45:36.770 --> 46:05.374
+knows how to heal these parts. So once I get somebody in a lot of what we call self, I'll just say, okay, what do you want to say to this part? And how does it react? And now what do you want to do with the part? I can kind of get out of the way. And one of the hallmarks of IFS, as opposed to a lot of other therapies, is that it's not so much about me becoming that, you know, good attachment figure to these hurting parts of you, these inner children.
+
+46:06.178 --> 46:35.294
+You become that. You become the good attachment figure yourself or the good inner parent or the good internal leader for these parts. And they come to trust you as a leader. And then you get into it with your family member and you just remind the partner, I can handle this. Just let me stay. And now when that happens with my wife, sometimes, not on a good day, I can stay in the C-word qualities and
+
+46:35.682 --> 46:44.702
+and have a totally different conversation with her than if that protector took over. I'd like to take a quick break and thank our sponsor, AG1.
+
+46:44.834 --> 47:14.800
+AG1 is an all-in-one vitamin mineral probiotic drink with adaptogens. I've been taking AG1 daily since 2012, so I'm delighted that they're sponsoring this podcast. The reason I started taking AG1 and the reason I still take AG1 is because it is the highest quality and most complete foundational nutritional supplement. What that means is that AG1 ensures that you're getting all the necessary vitamins, minerals, and other micronutrients to form a strong foundation for your daily health. AG1 also has probiotics and prebiotics that support a healthy
+
+47:14.800 --> 47:15.742
+gut microbiome.
+
+47:15.906 --> 47:45.872
+Your gut microbiome consists of trillions of microorganisms that line your digestive tract and impact things such as your immune system status, your metabolic health, your hormone health, and much more. So I've consistently found that when I take AG1 daily, my digestion is improved, my immune system is more robust, and my mood and mental focus are at their best. In fact, if I could take just one supplement, that supplement would be AG1. If you'd like to try AG1, you can go to drinkag1.com slash Huberman to claim a special offer. They'll give you five
+
+47:45.872 --> 47:56.094
+free travel packs plus a year's supply of vitamin D3K2 with your order of AG1. Again, go to drinkag1.com slash Huberman to claim this special offer.
+
+47:56.450 --> 48:24.478
+Today's episode is also brought to us by Wealthfront. I've been using Wealthfront for my savings and my investing for nearly a decade, and I absolutely love it. At the start of every year, I set new goals. And one of my goals for 2025 is to focus on saving money. Since I have Wealthfront, I'll keep that savings in my Wealthfront cash account, where I'm able to earn 4% annual percentage yield on my deposits. And you can as well. With Wealthfront, you can earn 4% APY on your cash from partner banks until you're ready to either spend that money or invest it.
+
+48:24.578 --> 48:35.262
+With Wealthfront, you also get free instant withdrawals to eligible accounts every day, even on weekends and holidays. The 4% APY is not a promotional rate, and there's no limit to what you can deposit and earn.
+
+48:35.362 --> 49:05.328
+And you can even get protection for up to $8 million through FDIC insurance provided through Wealthfront's partner banks. Wealthfront gives you free instant withdrawals where it takes just minutes to transfer your money to eligible external accounts. It also takes just minutes to transfer your cash from the cash account to any of Wealthfront's automated investment accounts when you're ready to invest. There are already a million people using Wealthfront to save more, earn more, and build long-term wealth. Earn 4% APY on your cash today. If you'd like to try Wealthfront, go to
+
+49:05.328 --> 49:34.302
+wealthfront.com slash Huberman to receive a free $50 bonus with a $500 deposit into your first cash account. That's wealthfront.com slash Huberman to get started now. This has been a paid testimonial of Wealthfront. Wealthfront brokerage isn't a bank. The APY is subject to change. For more information, see the episode description. I'm struck by a couple of things that I think people will be, if I may, wise to think about. One is
+
+49:34.594 --> 50:01.566
+Yeah, in the classic psychodynamic or CBT model of therapy, it's clear that the client or patient, sometimes it's called, right? Patient-Therapist relationship is one where it takes on certain components that exist in the outside world with other people. And it's always slightly bothered me slash concerned me that
+
+50:03.458 --> 50:33.054
+that's the structure. And as you said, in IFS, internal family systems, you become your own kind of therapist, if you will, for lack of a better way to put it. I like that because there's so much discussion nowadays about, you know, parenting yourself and this kind of thing and learning to mother yourself and father yourself. And I actually think there's great value in that. I mean, I learned by living alone, you know, how to cook for myself and clean for myself. These are
+
+50:33.186 --> 50:55.518
+I'm mapping to stereotypes here, but also to protect myself and to, you know, organize myself and be very, very disciplined. And actually running a laboratory was a great teaching there because you're basically a single academic parent to all these people. So you have to, you quickly realize where you lack maternal instincts and where you may lack or over-
+
+50:55.650 --> 51:24.542
+overemphasize or have hypertrophied paternal instincts. So that was a good forum to see my weaknesses and hopefully some strengths too. So I like this idea that one can play those roles for oneself. How is IFS typically done if somebody doesn't have access to a therapist who's expert in it, or is that really the only proper gateway into it? No, so- Because I'm sitting here with the master.
+
+51:24.770 --> 51:45.566
+the founder. And I'm very grateful, by the way, for the work we just did. So thank you. It feels good. It's a privilege. Thank you. Yeah, likewise. But most people won't have direct one-on-one access to you. So it's very experiential. Mm-hmm.
+
+51:47.842 --> 52:17.374
+I imagine in books and courses, people can learn how to do this. And by the way, this was not preconceived as a pitch for books and courses, but I'm wondering, can somebody do this on their own the very first time? That's what I want to know. Yeah, yeah. So for a long time, I resisted trying to take this directly to the public because I learned the hard way that some systems, particularly people with huge amounts of trauma, are quite delicate. And if you start going to these...
+
+52:17.570 --> 52:45.950
+You know, the part we talked about that's vulnerable inside, that has this view of relationships, this kind of idealized view of relationships, of yours, would be what I call an exile, that if we were to go to it, and we won't today because it requires a lot of vulnerability, but if we were to, a lot of extreme protectors might come out,
+
+52:46.274 --> 53:10.238
+And then people start to get scared. So it took a long time to figure out how we might bring it to the public in a safer way. And so we just put out a workbook for people. And it doesn't involve necessarily going to those places. But there's a huge amount you can do just by working the way we started to.
+
+53:10.690 --> 53:39.806
+with these protectors and getting to know them and know that they're not you. They're just a part trying their best. And know it's not anything negative. That judgmental part you've got such an attitude about or fear of, if you were just to begin getting curious about it and getting to know it a bit, you'd find out that it's a very valuable part that has a lot of discernment, like you said, and wants desperately to keep you from getting in these relationships where you get hurt.
+
+53:40.322 --> 54:10.238
+And it's so judgmental because you don't listen to it. Do you follow what I'm saying? I do. I do. In fact, something pops to mind. Maybe I could just ask you about it. My mind's right on what you're saying, but something occurred to me as you said it, which is if I were to, for instance, really feel the feeling of like, hey, that's really screwed up or like actually feel the disappointment or judgment...
+
+54:10.402 --> 54:39.550
+that this titanium teddy bear is trying to protect against, I realize it leads to a lot of role confusion and identity confusion. That's right. And I'll just be very blunt. It's probably not the best thing to do on a podcast, but I'm going to do it anyway, which is, you know, this is how I feel about modern politics. I see things on the left that make sense to me and things that are, to me, just absolutely ludicrous, inappropriate. Me too. Offensive.
+
+54:39.778 --> 55:04.798
+And like just badly wrong. I see things on the right that make a ton of sense to me and also things that are inappropriate, offensive, and wrong. And as a consequence, I'm trying to see the best, the goodness in both sides and just kind of create this kind of Swiss cheese model of the world. I'm talking about politics because it's just simpler to do and people at least know what the groups we're talking about. But then it
+
+55:05.026 --> 55:34.942
+it leaves me in a place of no affiliation. And I'm then between one of two stances, one of just kind of standing there being like, yeah, well, there's no real position in the middle that is an official position in the middle, but it also makes me just want to put up the middle finger to both and say, I'm a double hater. But of course I'm an adult and a citizen who cares about people in the country. And so I feel like to be an adult, I can't opt out, but there's like, I feel like,
+
+55:35.042 --> 56:03.870
+I feel like there's no option for me. And this maps pretty well to, I think, the identity and role confusion that I feel when I place my, again, understanding the truth is a complicated thing, but my judgment on things and people is like, well, then what is my role as a son? What is my role as a partner? What is my role if this thing is true? And so it's a way I'm realizing of,
+
+56:04.034 --> 56:33.054
+of protecting the simplicity of a role. That's right. And I did grow up in a home where like the roles were like, you know, your son, you do certain things like, you know, you do, you know, and so, but I also have a rebellious side to me. So the role confusion is something that I imagine a lot of people are familiar with. Yeah. And when one, and I also believe that when you just really say, well,
+
+56:33.570 --> 57:03.198
+They did something bad, therefore all bad, therefore I'm part of the opposite team. Right. That to me is an unlived life. Yeah. It's like, it's like, it's a, but I see a lot of people do it. And actually sometimes I'm envious of people that have that ability because they seem so, they seem so unconflicted. Right. So it's a tough thing to be a thinking, feeling person at the level of nuance. Yeah. It kind of sucks sometimes. Yeah. I'd rather do that than, than be a double hater or,
+
+57:03.362 --> 57:32.062
+just cleanly opt in. Yeah. Does that make sense? Totally makes sense. Okay. And what I'm hearing is that when you're looking at a person or a political party or issue in the world, you'll hear from these conflicted parts. They each have perspective, just like our country now. Here's from these conflicted parts. But you don't have a lot of access to what I'm calling self in those contexts. Mm-hmm.
+
+57:32.994 --> 58:02.910
+Because C, one of the C words is clarity. So, again, as I was listening to you and Martha, you were talking about how there are times where you just have this sense in your body of what's right or what's true. That's what I'm calling self. Self has that clarity. And self sees injustice and self, some of those C words are courage, confidence, and clarity. So there's a
+
+58:03.522 --> 58:30.526
+impulse also to act to correct imbalance, to correct injustice too. So self isn't a kind of passive witness as it is in a lot of spiritual traditions in IFS. It's an active inner leader. It's an active external leader. And too often our actions are driven by these protective parts. And that's true in our politics now too. So one of my
+
+58:30.786 --> 58:59.198
+is to try to bring more self-leadership to the world, to all these conflicts. But to do that, people have to unburden. They have to release these extreme beliefs and emotions they got from their traumas in the past. We have a concept we call legacy burdens. So many people have inherited these extreme beliefs and emotions that came down through their ancestors.
+
+58:59.810 --> 59:26.654
+and drive their parts, drive their extremes. And many conflicts in the world are driven by these legacy burdens. And we've gotten good at helping people unload these things. Yeah, we've seen this in the Middle East recently. Totally. And we're doing a lot of work in the Middle East. So we have training programs there. And one of my visions is to have large-scale organizations
+
+59:27.074 --> 59:54.782
+legacy unburdenings where large groups of people come together and we help them unload the Holocaust legacy burdens on the one side and the 1941 legacy burdens on the Palestinian side and have more self-accessible to each side. And when we do couples therapy or we do other kinds of negotiated conflict, if people's parts start getting into it, we'll just say time out.
+
+59:55.778 --> 01:00:25.758
+You sort of did this on your own with your family member. Just say, time out. I want both of you to go inside. Find the parts that have been doing the speaking. Don't come back until you can speak for them but not from them. And come back in these C-word qualities, in that state of self. If we can hold people in that, it's really easy to get out of the conflict. If their protectors are going at it all the time, conflicts never change.
+
+01:00:27.330 --> 01:00:55.678
+Do you think that people who have the reflex or the ability to kind of somaticize a bit, like I obviously, I don't think of myself as somebody who's like psychosomatic, I don't have stomach aches and headaches and stuff unless I caught a virus, you know, but I can feel where certain things are in my body pretty quickly and always have. Do you think that,
+
+01:00:57.090 --> 01:01:26.590
+IFS lends itself better to people who, you know, feel things somatically versus people that are like really cognitive and in their head. Cause I have that component too. I can actually feel the switch. Yeah. Like I do it through, I'll go into like a narrative and then I start to see the structure like up here. Yeah. And, um, yeah. That happened several times when we were working together. Like I would have you stay with something and then the narrator part would kick in. Yeah. And, um,
+
+01:01:26.882 --> 01:01:55.614
+And then I would try to refocus you. But, you know, I lived in Boston for 10 years. So I worked with lots of cognitive people who didn't know their bodies, who had, you know, just were in that rat race to try and get tenure and so on. Been there. Yes, me too. Tenure is nice, but one should tend to their emotional selves while they're pursuing it. But just to answer your question, they can do it.
+
+01:01:55.970 --> 01:02:22.846
+but we first have to start with that thinking part and get it on board and get it to step out and to stay out long enough that they can feel their bodies. So, yeah, you know, it lends itself to anybody, but with people like that, it takes a while for that thinking part to trust that it's safe to let them into their bodies. So if we were to just step back for a moment and
+
+01:02:23.330 --> 01:02:50.014
+do sort of a top contour summary of the process. Someone brings forward a memory, a recent or distant memory of something that made them feel not good. And you try and localize some sensation in the body, get a sense of its location. Let me pause there. I'll tell you why. Yeah. Because if they find it in their body, they're...
+
+01:02:50.210 --> 01:03:19.358
+and they direct the question there and they wait for the answer to come from there, they're less likely to be in their head. So it sort of short circuits that thinking part. So many people come to therapy and that thinking part thinks it's supposed to do the therapy. It's, you know, CBT or whatever. Even a lot of the more, not experiential, but a lot of the more psychodynamic therapies, the thinking part is really trying to explain why they feel stuff. Right.
+
+01:03:19.874 --> 01:03:49.022
+So this is getting them out of that and getting them to actually listen inside into what they think is their body, but it's really these parts that live down there that they haven't had access to because the thinking part is running through so much. Got it. And then one places some attention from the stance of curiosity to like what's there, what's it trying to say. Exactly. And then you start to reveal the underlying layers of what's it,
+
+01:03:49.474 --> 01:04:19.166
+Exactly. What are those things that are protective trying to say? Yeah, it's not even you're trying to reveal. It's just that you're asking these questions and the answers start coming. I see. Oh, I love this because I'm a big believer in seeding the unconscious mind and then letting things surface either in sleep or in meditative states. Has internal family systems been combined with some of the therapies that are now getting tested regularly?
+
+01:04:19.362 --> 01:04:49.182
+still in clinical trial stage around psychedelics? Yeah. In fact, two days ago, we just completed an IFS and ketamine retreat. Oh, wow. And we're doing it more and more. Like I said, I'm trying to bring this more out of the psychotherapy world. So we invited 32 leaders to come of various kinds and had three days where they do ketamine and then do IFS.
+
+01:04:49.666 --> 01:05:19.422
+The nice thing about psychedelics is it puts those manager parts to sleep somehow a lot of the time. Yeah. I've been open about the fact, and I always have to provide the disclaimer. I don't just say this to protect me. I say this to protect listeners that I do think young people should avoid psychedelics. The brain is already in a psychedelic state. I do too. The amount of plasticity, and this is really tremendous. And this is coming from somebody who regrets it, but...
+
+01:05:19.682 --> 01:05:42.174
+I did psychedelics recreationally as a kid. Me too. And I regret it. I returned to them later in a clinical setting and derived a lot of benefit, I think, from them, namely high-dose psilocybin and MDMA. But both of those are still very much illegal. You can get into a lot of trouble for taking them and or...
+
+01:05:42.338 --> 01:06:10.782
+certainly for selling them. So that's the cautionary note there. And the clinical trials are really impressive, in my opinion. Spectacularly impressive, especially for MDMA and for the treatment of PTSD. But the FDA this last year did not approve MDMA as a treatment for PTSD. I think going forward in the new administration, it's likely that it will get approved, but who knows? Who knows? So anyway, that's a bunch of...
+
+01:06:11.106 --> 01:06:40.670
+pseudo-legally is jargon, but it's sincere. If I were an 18 or 19-year-old person or 30-year-old person listening to a conversation about psychedelics and how they can be helpful, I would want to also know that there are instances where people take them and they don't have the appropriate guidance in and through it and out of it, and it leads to serious problems. So this is a real thing that we're talking about. That's why these academy and clinics where they just handle the drugs and...
+
+01:06:40.802 --> 01:07:08.190
+to medicine and just leave them on their own. It's scary to me. I'm proud to say that IFS has been adopted as one of the primary models for psychedelics now. Great. Because it's a really nice fit. And as I was saying earlier, what I see happening often, not always, is these manager parts go offline, and that releases a lot of self. So you start to...
+
+01:07:08.930 --> 01:07:36.638
+to just feel those C-word qualities emerging. And that's a big invitation to all these exiled parts to come and get attention. And so as people come out of the ketamine experience, I can work with them for 15 minutes and do something that would take maybe five sessions because they can get access to parts that they couldn't get or it would take a long time to convince their protectors to let us go to.
+
+01:07:37.058 --> 01:08:03.550
+And we can unburden those exiles and then bring back their protectors. And so I love it. And ketamine is the legal one, so that's why we do it. And the other nice thing, and I don't know as a scientist how much you would go with this, but ketamine, again, because it opens the door with these protectors, you can also—
+
+01:08:03.970 --> 01:08:30.558
+what I call the big self. You taste this, what they call non-dual state that can be quite blissful. And some people go, God. And then as you come back, you have this sense of, I'm much more than this little body and this little ego, that there is something much bigger. And that's why they're using it with End of Life and why it happens.
+
+01:08:31.138 --> 01:08:56.574
+it and psilocybin has such a big impact on depression and because it sort of lifts you out of this little box your protectors have you in to know that there's something much more so interesting i've never tried ketamine um a few years ago i i um and i've talked about this publicly as well i i um started um developing a pretty deep relationship to
+
+01:08:56.801 --> 01:09:25.663
+the spirituality and God and mostly through the path of giving up control. I mean, there's just sort of breaking news, folks. You can't control everything, you know, and you can control certain things, but most things, no. And the way you describe ketamine is very interesting because as a dissociative anesthetic, it works in such a fundamentally different way than say MDMA, which is,
+
+01:09:25.953 --> 01:09:54.494
+an empathogen, which makes people feel so much more. I mean, I sort of half joke that the, aside from the safety legality stuff, the concern I have about MDMA is that if one is not in the eye mask, if you don't have somebody guiding you through it and taking some notes, you know, if you listen to a piece of jazz or classical music or your favorite rock and roll album or, you know,
+
+01:09:54.626 --> 01:10:23.806
+you're there with your dog or cat or plants. I mean, you can spend the entire four hours bonding with the plant. You're not going to run off and get married to a plant. You're not going to try and fornicate with a plant, but open hopes. But it's a very precious, but very labile situation. Totally agree. Because it's such a strong empathogen that whatever you direct your attention to, internal or external, you're
+
+01:10:24.386 --> 01:10:53.214
+is going to hypertrophy. So you just have to be really careful. Totally agree. And given that the neurotoxicity issues seem worked out and that if it's actually MDMA and isn't other things, by the way, the big study that showed neurotoxicity of MDMA in non-human primates, it turned out they were injecting methamphetamine. What? Yeah, that paper was retracted. It was published in Science. We'll provide a link to the paper and the retraction. The retraction was not as publicized. Wow.
+
+01:10:53.314 --> 01:11:19.134
+Methylene dioxy, methamphetamine, MDMA has not been shown to be neurotoxic provided that's what people are taking and not taking some combination of other things. Yeah, it's a real tragedy the way that retractions don't get nearly the kind of popular press coverage that initial studies do, regardless of whether or not the initial study was positive or negative. In any case...
+
+01:11:19.298 --> 01:11:39.038
+I do believe there are other routes to calming down the forebrain in the context of doing this kind of work that I'd just like your thoughts on. Sure. When I first wake up in the morning, I'm in kind of a liminal state. But the thing that I don't want to think about comes to my brain. I can't avoid it. It's just like that.
+
+01:11:39.170 --> 01:12:06.782
+the protectors are not available. They're still asleep. So that seems valuable. I've tried recently to keep my eyes closed. Sometimes I'll get up and use the bathroom, but keep my eyes closed, stay in that still state and explore the contours of that thing. Provided it's done safely and not anywhere near water, cyclic hyperventilation breath work done for a few minutes or cycles, you know, you know.
+
+01:12:08.386 --> 01:12:36.670
+we think can change the brain activities of the forebrain kind of comes off a line a bit. All these things just put managers to sleep. Put managers to sleep. Like when you go to sleep, your managers go to sleep, and then you have these weird dreams, and that's because your exiles have access to your mind now. And they're trying to give you signals about what they want. The other thing I'll say about psychedelics and the breathing, too, is that
+
+01:12:36.770 --> 01:13:05.278
+As your managers go to sleep and your exiles start coming in, it can seem really terrifying because these parts are stuck in horrible places often with a lot of terror. And so what's called bad trips is them trying to get attention. So they'll come in and they'll totally take over and you look like you're having a panic attack. But what we've learned, and this happened a few times last week,
+
+01:13:06.274 --> 01:13:36.062
+is instead of thinking of it as a panic attack or a bad trip, to welcome it. Here's a part that needs a lot of attention. It's taken over entirely. But if I were to say, okay, Andrew, I see you're really scared, but how do you feel toward this really scared part that's here now? And I could get you to say, I feel sorry for it. Then I would have you start to get to know it and work with it and comfort it.
+
+01:13:36.546 --> 01:14:02.686
+rather than have a panic attack. You would access calm and those C words. And then it becomes a hugely useful healing of something that's in you that's stuck in a terrified place. I'd like to take a quick break and acknowledge one of our sponsors, Function. Last year, I became a Function member after searching for the most comprehensive approach to lab testing.
+
+01:14:02.978 --> 01:14:32.944
+Function provides over 100 advanced lab tests that give you a key snapshot of your entire bodily health. This snapshot offers you with insights on your heart health, hormone health, immune functioning, nutrient levels, and much more. They've also recently added tests for toxins, such as BPA exposure from harmful plastics, and tests for PFASs, or forever chemicals. Function not only provides testing of over 100 biomarkers key to your physical and mental health, but it also analyzes these results and provides insights from top doctors who are
+
+01:14:32.944 --> 01:15:00.894
+expert in the relevant areas. For example, in one of my first tests with Function, I learned that I had elevated levels of mercury in my blood. Function not only helped me detect that, but offered insights into how best to reduce my mercury levels, which included limiting my tuna consumption. I'd been eating a lot of tuna while also making an effort to eat more leafy greens and supplementing with NAC and acetylcysteine, both of which can support glutathione production and detoxification. And I should say, by taking a second Function test, that approach worked.
+
+01:15:01.026 --> 01:15:16.222
+Comprehensive blood testing is vitally important. There's so many things related to your mental and physical health that can only be detected in a blood test. The problem is blood testing has always been very expensive and complicated. In contrast, I've been super impressed by function simplicity and efficiency.
+
+01:15:16.386 --> 01:15:43.550
+at the level of cost. It is very affordable. As a consequence, I decided to join their scientific advisory board and I'm thrilled that they're sponsoring the podcast. If you'd like to try Function, you can go to functionhealth.com slash Huberman. Function currently has a wait list of over 250,000 people, but they're offering early access to Huberman podcast listeners. Again, that's functionhealth.com slash Huberman to get early access to Function. What is so striking to me is that
+
+01:15:44.034 --> 01:16:13.854
+And Martha taught me this practice of, you know, when we think about the things that create shame for ourselves, if we're able to go up and really look at those and own them, not from the perspective of I'm proud of them, but own them as in us and not of us, you know, that it's incredibly freeing. And indeed it is so freeing, right? It's like the, if there were like a secret to life,
+
+01:16:13.986 --> 01:16:43.070
+it would at least include that. Yeah. Because... Let me rip off of that for a second. Yeah, please. Because just as an example, like I do... I've done workshops where I have people work with their racism. You're speaking of something very shameful. And a lot of people say, I'm not a racist. I don't have any racism. But if I really convince them to...
+
+01:16:43.458 --> 01:17:12.190
+look inside and check, they'll find there's a little part in there that does spout racist things when they meet somebody of a different skin color, has these white supremacy beliefs, and they're really ashamed of it. So if I were to have you focus on that racist voice in there, you would have to get a lot of the parts that are ashamed of it to step out, and then I would have you get curious about it rather than ashamed of it and ask it about where it picked up this
+
+01:17:12.834 --> 01:17:42.334
+beliefs. And it could tell you. And then I would ask, do you like having to carry this racist stuff? Usually they'll say no. If it's ready, it's unloaded. We can just unload it. So one of the key things to know is these parts are not the burdens they carry. They're all good. The little guy who's got the racist rant is a part that got stuck with his beliefs.
+
+01:17:42.882 --> 01:18:12.606
+But when he releases those beliefs, he transforms into being a good... And the mistake our culture makes, the mistake that most psychotherapies make, is to assume that he is that racist rant and to try to exile him. But it's a different way of understanding even very seemingly evil people that they're dominated by these protectors and they're so afraid of their exiles and...
+
+01:18:12.866 --> 01:18:42.846
+They relate inside in the same way they relate outside. So if they hate parts of themselves, they'll hate people who resemble those parts of them. They'll try to dominate those people. Do you follow what I'm saying? Yeah, and I'd like to really go into this a bit because we hear all the time that when we're upset about something, it's something in ourselves that we're really upset about. And for me, that isn't always true, but that's sometimes true. Yeah. Yeah.
+
+01:18:43.106 --> 01:19:11.614
+So if I'm upset about the intolerance of good ideas from people in opposite groups of each other's good ideas, this logic would say that I'm really just disapproving of that aspect of myself that is like black and white judgmental. Which we already established. Got me. Then again, you're the therapist. So...
+
+01:19:12.482 --> 01:19:41.598
+Right. So is this always true? Not always. Okay. But a lot of the time. So if you can come to have compassion for that judgmental part of you and not be embattled with it and actually see it as desperately trying to help you be more discerning and help it unburdened and get out of this role that it's in, because in the role that it's in, it can be destructive. We're not trying to minimize that or say, you know, when I say all parts are...
+
+01:19:41.794 --> 01:20:11.646
+There are no bad parts. There are no bad parts, but they can get into very destructive roles, and they can carry these burdens from the past that can drive them to be harmful. But part of my work is to help all that change. And so if you were to start a new relationship with that judgmental part of you, then you would see past the judgmental parts of other people, and you could see the
+
+01:20:11.906 --> 01:20:41.214
+exiles that drive those protectors and you would have compassion for them. It wouldn't mean you wouldn't stop them or stand up to them, but you would do it with compassion rather than from these hateful protectors. I think it's important that people hear that. Namely, that if we get in touch with these parts of ourselves that are protectors, that
+
+01:20:41.634 --> 01:21:11.422
+it makes us less vulnerable, not more vulnerable. Totally. Both to, quote-unquote, attack, but that also, I guess put simply, that in understanding of ourselves and compassion for ourselves, one develops understanding and compassion for others, but that doesn't mean that you're opening yourself up for harm. That's right. And the opposite is actually true. The opposite is actually true because these protectors will generate often what they fear. So...
+
+01:21:12.226 --> 01:21:39.614
+By being so protective, they'll create protectors in the other that will attack. Whereas if they could stay in self, self can be very protective with those C-word qualities. Very forceful, sometimes fierce. This idea of, I'm definitely following, that we will sometimes create in others what we fear is
+
+01:21:40.386 --> 01:22:08.350
+because it allows us to engage in this unhealthy dynamic. It seems so counterintuitive, right? Maybe we take a kind of classic set of examples that I think are pretty common. A person who's codependent with somebody who's a substance abuse addict, or somebody who's very timid and always wants to pacify, and somebody who's very dominant. When I zoom out from the second case, it actually kind of makes me chuckle how,
+
+01:22:08.738 --> 01:22:33.662
+crazy that that is, because if you think about it, a person who is very dominant doesn't need somebody very timid in order to feel dominant, right? They could probably feel whatever power it is they need to feel with somebody who is less timid and maybe the relationship would be healthier, but that's not how people tend to other select. It's kind of interesting. So it raises a
+
+01:22:34.178 --> 01:23:03.614
+perhaps a bigger question, why do people select people that are fundamentally bad for them? Okay. So I did a book called You're the One You've Been Waiting For. And in it, I talked about this whole issue. And so for a lot of people, you get hurt by your parent. And there are parts that want to protect you from your parent. But there are other parts who are
+
+01:23:03.714 --> 01:23:33.054
+who took on the worthlessness from being rejected by your parent and are desperate for redemption. Do you follow this? And so as you leave and you're looking for a partner, that part from a subconscious place can influence your decision to find somebody who resembles that parent in their effort to be redeemed again. Yeah. Is this anything like the sort of repetition compulsion? Yeah.
+
+01:23:33.186 --> 01:23:59.870
+Yeah, exactly. That we tend to repeat a pattern over and over again as an attempt to resolve, not just a manifestation of dysfunction. That's a version of what I'm talking about. And so you find somebody who does resemble that person, that parent, and unfortunately they do resemble that parent. And so they'll hurt you in the same way. And then your protectors go into one of four modes. They'll say,
+
+01:24:01.250 --> 01:24:29.726
+got to change that person back into who they're supposed to be, so they'll try to change the person's behavior. Or they'll say, I've got to change myself, so they'll be who they're supposed to be. Or they'll say, oh, this wasn't the Redeemer after all, and they'll go looking for the real Redeemer that's still out there. And it's always inside. And yeah, that's what I try to do, is to help them see that that Redeemer is inside of them itself.
+
+01:24:30.338 --> 01:24:58.558
+And if we can go to that exile who's got this thing for this parent-like person and help it connect to self and help it unburden, that whole repetition compulsion disappears because now they can take care of themselves. They trust self to do it. They don't need that from some other person like that. And so when we're working with couples and
+
+01:24:59.330 --> 01:25:28.190
+You always find some version of that in couples. If we can get each of them to become their own good attachment figure, good caretaker inside, that frees up the partner. Because when this exile is leading a relationship, your partner feels a lot of sort of demands or feels a lot like your partner has to take care of that young part of you and can't, can't fully do it. So there's always this...
+
+01:25:28.834 --> 01:25:58.366
+this sense of a burden, you know what I'm saying? Yeah. Yeah. It's so interesting how romantic relationships are where these patterns get repeated. And at the same time, numerous examples in my life of healthy relationships. Is that usually the case because people have done the work before or because they had a minimum of trauma in their upbringing? Both, yeah. Yeah. What percentage of kids, adults,
+
+01:25:58.466 --> 01:26:28.382
+as well, do you think had a minimum of trauma are just because of the way they're wired and the way the stuff is organized within them that they naturally attach to a good partner and are pretty healthy? Is it like 25%, 30%? I really can't say because my sample is very skewed. I'm working with psychotherapy patients who always have a lot of trauma. So I really can't say. I mean, I...
+
+01:26:29.250 --> 01:26:52.830
+very biased. Well, half of marriages in this country and in divorce, and presumably of the ones that don't, I'm guessing somewhere between a half and a quarter of those, people are really unhappy. Sounds so pessimistic, but if you just look at the numbers,
+
+01:26:53.186 --> 01:27:20.958
+and I'm an optimist. I already acknowledge that I don't like to think about bad stuff. And I, you know, so yeah, I'm guessing that a lot of people repeat these patterns, but it seemed as if maybe 20, 30 years ago, because these ideas weren't discussed really. So many fewer people were in any kind of analysis or personal exploration work that,
+
+01:27:22.274 --> 01:27:51.742
+as a society, we defaulted to just sort of role execution. You're a father and a husband, so you do certain things and you don't do certain things. You're a wife and a mother, so you do certain things and you don't do certain, and so on. And I think nowadays there's a lot of discussion about, you know, is there a resurgence of organized religion because we've drifted so far from these kind of core structures? I mean, love your thoughts on that.
+
+01:27:52.450 --> 01:28:21.854
+And also what you think doing this kind of internal work on oneself without requiring any input or participation from another, what the value of that is. It sounds like there's tremendous value to just doing this work for oneself, maybe with someone trained in IFS. Yeah. I mean, like I was saying, there's a lot you can do with working with your protectors and helping them get to know self. Like we didn't do it, but had I –
+
+01:28:21.986 --> 01:28:48.350
+Had you asked that titanium teddy bear how old it thought you were and just really waited for the answer, most people will get a single digit. It still thinks you're very young and it still thinks it has to protect you the way it did when you were very young. And just even updating it creates a huge amount of relief with these protectors.
+
+01:28:49.026 --> 01:29:18.462
+So there's a lot that can be done just by working with protectors, introducing them to self, helping them see they don't have to keep doing this all the time. Some protectors, it's very hard for them to totally drop their weapons until what they protect has been healed. So that's where the therapist comes in. So, you know, there are coaches doing this work, for example, and they'll work with some executive and
+
+01:29:18.914 --> 01:29:44.030
+They'll do great and then they'll get to an exile and then they'll have the person see an IFS therapist for a couple sessions to heal the exile and then come back because, you know, coaches aren't trained as therapists. Right. So, yeah, there's still need for therapists, but, yeah, but you can do a lot on your own.
+
+01:29:45.218 --> 01:30:11.966
+I'm struck by how experiential it is as opposed to just conceptual. I mean, obviously the concepts are important, but I think internal family systems was described for me previously, kind of mapped out for me on paper. I got a sense of it actually with some objects placed out and these, and it was helpful, but it, I think just having done a little bit of it today, the only by
+
+01:30:12.610 --> 01:30:41.182
+actually feeling the sensations in the body associated with it. Does it actually really make sense to me? I mean, it made sense cognitively, but that's so very different. It's very removed. Yeah, it's like me telling people, you know, get out and get sunlight in your eyes in the morning or set your circadian rhythm. Like you can know that, you can know the underlying mechanisms, the neurons, the pathways, the hormones, et cetera. But at some level, until you experience what that's like for two or three days in a row, you might as well be reading about, I don't know,
+
+01:30:41.346 --> 01:31:07.966
+titanium teddy bears. Exactly, and that's why I'm so grateful to you that you were willing to try it. Because it's true, as I describe it to people, they don't really get it until they actually feel it, experience it. And it is very different from many other therapies, which are much more cognitively based because we're trying to bypass that and actually get to this raw stuff in here.
+
+01:31:08.450 --> 01:31:38.142
+in order to be deliberately repetitive. I wonder if it would be useful to the listeners to, would it be possible to just pose the questions to them as an exercise that they could do in real time? Totally, yeah. Thank you so much. I think that would be tremendously valuable. So I'm gonna have to erase myself here. For once, I'm gonna be quiet for a little while, folks. And you are the lucky patient that gets to talk to,
+
+01:31:38.306 --> 01:32:07.934
+Dr. Schwartz here, and he's going to pose a series of questions, and we'll allow some moments of break or silence for you to be able to tap into the answers to these in real time. That way you don't have to create a parallel construction of what we did earlier. Yeah, and let me lead by saying, please don't do this if you have fear about doing it. But if you're interested...
+
+01:32:08.258 --> 01:32:38.206
+and some inner exploration, then I'll lead you through some of the steps. So as you've been listening to our conversation, I'm speaking to listeners, you may be thinking about some of your own parts, particularly your own protectors. And if you can't think of any, most people have a kind of critic inside or part that makes them work too hard or a part that takes care of too many people.
+
+01:32:40.258 --> 01:33:09.022
+So I'm going to invite you to pick a protective part to try to get to know for a few minutes. And just notice that inner voice or that emotion, that thought pattern, that sensation. Just focus on it exclusively for a second. And as you do that, notice...
+
+01:33:09.314 --> 01:33:32.318
+where it seems to be located in your body or around your body. Just take a second with that. Some people don't find a location. Some people, they still sense it, but it's not clear where it seems to be located. But if you do find it in or around your body, just focus on it there.
+
+01:33:42.946 --> 01:34:08.926
+As you focus on it, notice how you feel toward it. And by that I mean, do you dislike it and want to get rid of it? Are you afraid of it? Do you resent how it dominates? Do you depend on it?
+
+01:34:11.330 --> 01:34:40.382
+You have a relationship with this part of you. And if you feel anything except a kind of openness or curiosity or willingness to get to know it, then that's coming from other parts that have been trying to deal with that. And we're just going to ask those other parts of you
+
+01:34:41.474 --> 01:35:10.718
+Relax back for just a few minutes so you can get to know it. We're not going to have it take over more. We're just going to get to know it better. So see if they're willing to let you open your mind to it. And if they're not, then we're not going to pursue this. And you can just get to know their fear about letting you get to know this target part.
+
+01:35:16.258 --> 01:35:43.550
+If you do get to that point of just being curious about it without an agenda, then ask it what it wants you to know about itself. Just that kind of nice open-ended question. And don't think of the answer. Just wait and see what comes from that place in your body. And don't judge what comes. Just whatever comes will go with it.
+
+01:35:46.562 --> 01:36:13.662
+What does it want you to know about itself? And what's it afraid would happen if it didn't do this inside of you? And if you got an answer to that question about the fear, then it was telling you something about how it's been trying to protect you.
+
+01:36:16.930 --> 01:36:46.014
+If that's true, then extend some appreciation to it for at least trying to keep you safe, even if it backfires or it doesn't work. Let it know you appreciate that it's trying to protect you and see how it reacts to your appreciation. And then ask...
+
+01:36:46.370 --> 01:37:13.918
+If you could go to what it protects and heal or change that so it didn't need to protect you so much, what might it like to do instead inside of you if it was released from this role? And I'll repeat that. If you could go to what it protects and heal or change that so it was liberated from this protected role,
+
+01:37:15.298 --> 01:37:44.254
+What might it like to do instead inside of you? And then ask it this kind of odd question, how old does this part think you are? Not how old is it, but how old does it think you are? And again, don't think, just wait and see what comes.
+
+01:38:00.194 --> 01:38:29.918
+If you got your age wrong, then go ahead and update it and see how it reacts. And the last question for this part is, what does it need from you
+
+01:38:30.114 --> 01:38:59.646
+going forward. What does it need from you? And again, just wait for the answer. And when the time feels right, thank your parts for whatever they let you do in this.
+
+01:39:00.738 --> 01:39:27.038
+and begin to shift your focus back outside and maybe take some deep breaths as you do that. Thank you for that. That was awesome. I also was able to get some, I think, good work done. Is that true? Yeah. Yeah. Totally different location, totally different set of dynamics. Yeah.
+
+01:39:31.586 --> 01:40:01.502
+though what you just took us through is very experiential, what, if any, value do you think there is to writing down key takeaways? Yeah. So it's great to do the work session or this exercise, but ideally it's the beginning of a new relationship with this part. And that takes work on your own. So what I advise people is as you get that
+
+01:40:01.602 --> 01:40:30.494
+rolling in that good direction, it'll reverse if you don't stay with it for a while. So every day, like you were saying, you wake up rather than what am I going to do today or what problems do I have in my life, how's that part of me doing that I've been starting to work with? What does it need for me today? What does it want me to know? Is it still feeling better? Do I still have compassion for it? So...
+
+01:40:31.618 --> 01:40:53.982
+appreciation for it so this like i said earlier this kind of becomes a life practice so i do that every morning every morning not a well you're very familiar with these parts and and to clarify for people um when dr schwartz is saying parts he's saying these these parts these um
+
+01:40:54.114 --> 01:41:23.294
+personalities within us, not necessarily the body part where it manifests, but maybe that provides a physical anchor to look to. Exactly right. So yeah, I'll check in, not with all my parts, because I've met many, many, but the ones I've been working with just to see how they're doing. And as I go through the day, I'll notice, am I in those C-word qualities? Is my heart open? Is my mind open?
+
+01:41:24.034 --> 01:41:53.502
+Do I have a big agenda? Any departures from that is a protector, usually. And I'll just have a little internal board meeting and say, I get you feel like in preparing to come and be on this podcast, I had to work with the parts that were nervous. And my father was a big scientist, a big endocrinology researcher. Oh, cool. Great field. Great field.
+
+01:41:53.762 --> 01:42:19.550
+brother is a big shot endocrinology researcher. So I have some issues, put it that way. I hope I didn't reinforce the negative ones. Well, that was my part's worries coming in. And so I worked on it and said, okay, just, but just, I get it. I get you're scared. I could feel them in my hands when I was taking a drink earlier. Interesting. But I just kept
+
+01:42:20.290 --> 01:42:47.870
+okay, I get that. I get you're scared, but just trust me. Just step back. Just relax. And then I feel this shift, a literal shift. And then I feel those C words flooding. And then we have a much different kind of conversation. So it's a life practice in that sense. Thanks for sharing that. I didn't detect any anxiety whatsoever, neither pre-recording nor...
+
+01:42:48.002 --> 01:43:16.734
+during this discussion. If you don't mind, could you describe or maybe even just list off some of the other labels of parts that people might encounter if they do this kind of work? So you describe them as protectors that manage and then the exiles, which are the parts of us that the protectors and managers are protecting, correct? Okay. Those are two different things, right? Yes. So
+
+01:43:16.930 --> 01:43:40.350
+The big distinction is between parts that by dint of simply being hurt or terrified or made to feel shamed and worthless, and usually those are our most sensitive parts. They're the young inner children. They get stuck with those burdens of worthlessness, terror, and emotional pain.
+
+01:43:41.762 --> 01:44:08.350
+And then we don't want anything to do with them because they can overwhelm us. And so we lock them away and everybody tells us to do that. So those are the exiles. And when you have a lot of exiles, you have to, these other parts are forced to become protectors. So there are two classes of protectors. One are the managers we've been talking about and the other are the firefighters. So.
+
+01:44:09.442 --> 01:44:39.358
+We mentioned a number of manager common roles, but there's just lots and lots of them. Firefighter common roles include addictions, dissociating, the kind of judgmental, rageful parts. I could go on, but anything. Yeah, yeah.
+
+01:44:39.778 --> 01:45:08.926
+is reactive, impulsive, and is designed to protect those vulnerable parts, but in an impulsive way, as opposed to the managers who are all about control and pleasing. These firefighters are all about, if I don't get you away from these feelings right now, you're going to die. A lot of them believe that. And some of them
+
+01:45:09.570 --> 01:45:34.974
+It's true. So there's often a kind of hierarchy of firefighter activities. If the first one doesn't work, you go to the next one. If that doesn't work, the top of the hierarchy for most people is suicide. If things get painful enough, there's this exit strategy. It's actually very comforting to lots of people.
+
+01:45:37.154 --> 01:46:05.918
+here we come along and get really scared of these suicidal parts. So this is, again, it's one of the hallmarks of the difference with IFS. If you were to say you've got a suicidal part, say, let's go get to know it. I would have you find it and, you know, all those steps. What are you afraid would happen if you didn't kill Andrew? What do you think the answer to that is most of the time? That it would just feel like too much to bear. Yeah. Like it just couldn't...
+
+01:46:06.050 --> 01:46:34.718
+Exactly. Which, of course, is a crazy statement because it's not like my brain would explode. These parts believe it. Yeah. They're not grounded in logic. So my – well, my response to that part is if we could unload the pain that you're so afraid would overwhelm, would you have to kill him? No. And would you let us do that? Well, fortunately, I don't feel suicidal. Right.
+
+01:46:35.298 --> 01:47:04.190
+the answer would be yes. Okay. So, because we can prove to you that we can unload that pain. And if we could do that, what would you like to do instead of being the suicidal part? I mean, I have to imagine that if somebody, forgive me for going into my head about this, but if I have to imagine, because it's just hard for me to imagine being suicidal. No, that's okay. Yeah. But if I have to imagine that if somebody is feeling suicidal in order to protect
+
+01:47:04.642 --> 01:47:28.062
+themselves against the like enormity of the feelings they would otherwise feel. And then they are offered the opportunity to work through, to be released from those feelings. I think the scary part would be like the first, it's like wading into really cold water. You know, I always feel that way about negative feelings. Once you get past your, your kind of waste or so,
+
+01:47:28.226 --> 01:47:53.502
+You get your shoulders under. That's a good analogy. It's a heck of a lot easier. It's a really nice analogy. Because you realize there's an upper limit to this stuff and you passed it a little while ago. Yeah. Yeah. So that suicidal part often transforms into part that wants to help you live, actually. They're often in the role that's opposite of who they really are.
+
+01:47:54.818 --> 01:48:23.102
+So as you can hear, this is a totally different approach to suicide, for example. And we do the same with addictive firefighters. Find that part that makes you so high. How do you feel to it? I hate it. I want to, you know, I want to be in recovery. I want to lock it up. Let's get all that to step out and just get curious about it. Ask it what it's afraid would happen if it didn't get you high all the time. Same answer.
+
+01:48:24.866 --> 01:48:49.566
+If we could heal all that pain or that shame, would you have to get a mile all the time? No, but I don't think you can do that. Would you give us a chance to prove we can? Totally different approach to all these problems. Something comes to mind. For a number of years, not now, fortunately, I mean, I still work a lot, but I work like, you know, I don't want to...
+
+01:48:50.178 --> 01:49:18.942
+I'll share the numbers, but it's not a goal that no one should try and exceed this. I mean, there were times in graduate school where I, no joke, worked 80, 85 hours a week, slept under my desk. Like I lived in my office as a junior professor. My students can attest to that, brush my teeth and wear, not every night, but I, you know, if I had deadlines, it was just all in with mind, body, heart, everything. It's, it's not healthy. Right. Right. And at some point I had to take a look at it because it's not conducive to a lot of things. It brings a lot. You can,
+
+01:49:19.426 --> 01:49:47.742
+a lot done. I won't lie. You can get a lot done. You can get a lot of degrees. You can get a lot of knowledge and you can accomplish a lot. But I decided to take a look at it, you know, like, like what would happen if I, I don't know, published five awesome papers in a year instead of 10 or something like crazy. You know, I just started looking at it and, and it just, it seems crazy now, but I remember the genuine fear of, of backing off. And I started to realize that
+
+01:49:48.290 --> 01:50:16.062
+I loved what I did, but that some of the work came from a desire to compete out other feelings. It's a form of dissociation. And then what happened was I was able to adjust my hours, really pick the projects that held the most meaning for me, and then really savor them and enjoy them. And that's how I approached the podcast and other things I'm doing. So it was a tremendously useful exploration, but it was...
+
+01:50:16.514 --> 01:50:40.126
+Terrifying. I didn't have to go to 12-step for work addiction or anything. I mean, it wasn't at that level. But you're giving an example of exactly what we do. We go to that workaholic part. What are you afraid would happen if you didn't do this to them? Yeah. So what I came to, it's interesting, was the – it was literally a fear of annihilation, of disappearing. And then I thought, well, then you –
+
+01:50:40.258 --> 01:51:09.598
+or still a little bit further, disappearing to who. It's not like there was an absence of positive feedback. So it wasn't actually to avoid disappearing from the outside world. Because I'll tell you, when you're working 80, 85 hours a week, you're already gone. You know, you just don't realize it. It was actually some way of avoiding this thing that I've now come to really love. I learned it from my bulldog. I used to have this
+
+01:51:09.762 --> 01:51:39.710
+assumption that slow is low like to slow down is depressive I mean now I love slowing down and I did learn that from my bulldog and a few people came into my life and their dogs as well and I learned like um to really savor slow and not just so that I can bounce back into work that too admittedly but but also um to just um and it came through I just would like your thoughts on this I realized right as I would
+
+01:51:41.026 --> 01:52:10.270
+go into or come out of a meditation or what I call non-sleep deep rest, this kind of yoga nidra like deep relaxation thing that listeners of this podcast will be familiar with hearing about, that there's this really terrifying moment where I realize someday, assuming I'm awake when it happens or it's not an accident or I don't get involved in an accident, I'm gonna take my last breath. And it's absolutely terrifying, that concept. And I realized that,
+
+01:52:10.370 --> 01:52:28.830
+the fear of disappearing is actually a fear of death. And what I was really afraid of was death. And I was using work. So, you know, it was a long way from like working, you know, 60 hours or 40 hours a week instead of 30, whatever. But people choose as opposed to 85. But what I realized that what I was running from was the fear of my own mortality. That's right.
+
+01:52:28.994 --> 01:52:58.558
+I didn't have to use any substances to realize this. I just had to keep peeling back the layers of like, what are you really afraid of? And now I've come to the conclusion that most addiction, having talked to a lot of addicts with process addictions and substance addictions, et cetera, that deep down everyone, addict or no, is terrified of death. It's just that some people are in touch with that terror and have like worked through it. Yeah. But so- Well, you remember what I was saying earlier when we talked to these addict parts-
+
+01:52:58.722 --> 01:53:28.094
+What are you afraid would happen if he didn't make him high? He would die. So that's a really common answer. And basically what you just described is you were doing IFS without knowing it. Asking those questions, what are you really afraid of? What are you really afraid of? So you get to the key answer. And then I don't know how you helped that part that feared death, but somehow you helped it relax more. Yeah, I think if I...
+
+01:53:28.418 --> 01:53:58.078
+better or worse, if I see or experience something that scares me a lot, I have to explore the contours of it. That's been a dangerous part of my life and it's been a helpful... To go to Florida. Oh, yeah. And it's been a helpful part of my life too. The ability to suppress one's reflex to avoid fear is such a complicated thing because on the one hand, it's necessary to navigate life. On the other hand,
+
+01:53:58.626 --> 01:54:27.550
+people always say, what would you tell your younger self if you could tell your younger self anything? And I would have said, psst, hey, dude, listen, you know, if something makes you anxious, get out of there. Because my reflex has always been that if something gives me anxiety, it's like, okay, here's a test of myself. I see. I need to overcome it. Okay, so that's another part of protecting. So in any case, some people are the opposite, you know. Yeah, I've tended to touch the hot stove three times. Yeah, yeah.
+
+01:54:27.650 --> 01:54:56.574
+and it should have been one trial learning and it touched the, it hurt, excuse me, the first time. So, but that's just me. I mean, everyone's got these things, but what I'm discovering certainly through what you're telling us today, but also that the exploration of these things is that so much of life is structured, especially nowadays with the phone, love the phone, love social media, but so much of life is structured to fill all the space between activities.
+
+01:54:56.834 --> 01:55:26.174
+And I do want your thoughts on what you see in terms of things that are active impediments to doing good work of the sorts of work that you're describing today, self-work. I would never ask, I guess, to be disparaging of the world just for its own sake. But I think people are now starting to develop an awareness of how certain technologies and lifestyle habits that are unique to the last year
+
+01:55:26.370 --> 01:55:55.774
+or 10 years are really exacerbating our problems as they relate to ourselves, not just interpersonal dynamics. Very much, yeah. And you seem to be thinking about the big picture a lot, so I'm curious what your thoughts are. Yeah. So, you know, all these little machines we have and all the ways we have of never spending any time by ourselves or alone or thinking just feed these protective parts, these distractors, and...
+
+01:55:56.578 --> 01:56:26.270
+leave in the dust more and more these exiled parts. So a lot of people's fear of not having something to do is because when they don't, or if they're not working in your case, then these exiled parts start to come forward. They're not being distracted from. In my case, I mentioned my father. I'm the oldest of six boys. I was supposed to be
+
+01:56:26.626 --> 01:56:55.678
+physician like him and a researcher and I was spared that fate because I had undiagnosed ADD and wasn't a good student and three of my brothers were physician research types but I was the oldest so he was really hard on me in terms of lazy and worthless and so on so I came out of my family with a lot of worthlessness and
+
+01:56:56.578 --> 01:57:26.110
+And actually the model wouldn't exist if I didn't have that because I had this part that had to prove him wrong and drive me, not to the extent you're talking about, or sleeping in the office or anything, but it would drive me to find this model and then take it in the face of a lot of attack to where it is now. And if I wasn't working on it, if I wasn't getting the accolades,
+
+01:57:27.042 --> 01:57:53.182
+that worthlessness would crop up. And then I'd have other firefighters to try and deal with that. And, you know, I had not only the workaholic part, but I had a part that could close my heart and make me not care what people think. And because I was attacked by traditional psychiatry and so on. For developing internal family systems? Yeah, yeah.
+
+01:57:54.498 --> 01:58:22.302
+I was humiliated at Grand Rounds a couple of times. I was in a department of psychiatry. What is with the field of psychiatry? That's a good question. So point being that I was dominated as I developed this by these protectors. And it got me through all that, but it didn't serve me as a leader of a community. And I was lucky to have some students who would confront my parts and would just say,
+
+01:58:22.882 --> 01:58:51.038
+can't keep going on like this if you're going to be any use to us. And I listened and I went and worked with that worthlessness. And now I don't have it. I don't have to work. I don't, you know, it's just, I feel free because I'm not so afraid of that bubbling up if I'm not distracted. And, and now we have more distractions than ever, as we're saying. Right. The pain point can potentially become the source of
+
+01:58:51.170 --> 01:59:18.622
+tremendous growth and value to the world based on what you've developed. Keep in mind, I learned about your work, not just through Martha Beck, although Martha as well, but several incredibly talented psychologists, scholars in the field of research psychology, and actually a psychiatrist as well. Yeah, there are some good psychiatrists. Maybe I'll just share the...
+
+01:59:18.914 --> 01:59:47.838
+So a psychiatrist that I think the world of said to me, I won't reveal who it is, but they said, do you know why there's so many lousy psychiatrists? This isn't a joke, actually, even though it sounds like a setup for a joke. I said, no, why? And they said, well, because, you know, if you're a cardiothoracic surgeon and like 30% of your patients die, you're considered a pretty terrible cardiothoracic surgeon. If you're a psychiatrist,
+
+01:59:48.322 --> 02:00:17.886
+unless your patients kill themselves on a frequent basis, you can have a pretty quote unquote successful career. That's interesting. And no one ever questions whether or not you're good at your job or not. Because the field A has a dearth of tools. B, the kind of assumption is that a lot of things don't get better and on and on. And they listed off all these reasons why the field of psychiatry is so replete with what they described as
+
+02:00:18.146 --> 02:00:46.302
+So I do believe there are some excellent psychiatrists out there, research and clinical and both. I don't know if that does anything. It sounds like you worked through your relationship to psychiatrists on your own. You don't need my statements. I agree with you entirely. Yeah. And I'm, you know, I tried to stay in psychiatry and just kept hitting the brick wall. And so I went grassroots for 30 years and, you know,
+
+02:00:46.402 --> 02:01:12.638
+Now it's starting to come around into psychiatry, so it feels good that way. It's interesting how timing in a field is so important, and not just an academic field but a clinical field, and the ethos. If anyone is interested in understanding where we are in the arc of medicine and culture, I highly recommend reading Oliver Sacks' book, On the Move.
+
+02:01:12.802 --> 02:01:39.966
+He was obviously a neurologist and writer, but he describes coming up through medicine and being in these various fields. He worked on headache for a while. It's pretty interesting. He wrote a book about migraine. He worked with kids on the autism spectrum and a bunch of different fields. And in every single one of those fields was vehemently attacked by some individual
+
+02:01:40.322 --> 02:02:05.406
+whatever reason, usually a superior, kicked out of universities, moved to another one. Now he did have his own issues. He was, you know, it was time he was a methamphetamine addict and things like that, but he got over that and became the great Oliver Sacks that he was. But, you know, he describes these fields as having a culture at the time of really trying to suppress new ideas and holding people down. And then toward the end of his career, several of the universities that
+
+02:02:05.634 --> 02:02:31.422
+essentially had fired him earlier, hospitals and universities, were trying to recruit him back with multiple appointments because now he was this famous guy who had written a movie or worked on the movie Awakenings and like, you know, and of course it revealed the hypocrisy of these big institutions. And so it made me chuckle and also realize that for those of us who are doing public health education at any level and certainly on these more,
+
+02:02:32.066 --> 02:03:00.190
+non-traditional things, approaches, that the time is right for sharing them. And the good news is nobody lives forever. So, you know, the old guard dies or retires, you know? That's true. And I'm not going to hold my breath waiting for that department of psychiatry to invite me back. I won't ask which one it was. We can have an offline discussion about that. They just might. A couple of more questions.
+
+02:03:02.274 --> 02:03:30.238
+First of all, going back to this thing about the larger context of culture, I love the optimism that's threaded through your view that we could get, God willing, Democrats and Republicans to come to some sort of common ground around the most important issues that we potentially could eradicate destructive racism.
+
+02:03:30.338 --> 02:03:58.718
+racism of all kinds. But given the way you described it, certainly its implementation in the world is the first thing that needs to be dealt with, right? Certainly if people can see those parts of themselves and work with them, that we stand a chance to do that. And given that trauma is near ubiquitous, right, that people could start to address their own traumas so that they can
+
+02:03:58.978 --> 02:04:26.398
+Induce fewer in other people. I guess that's basically the ultimate goal of humanity. Totally. And I, like so many people lately, not just, by the way, not just in the last year or so, but like for the last 10 years, have just been developing the sense like, goodness, like it just seems like the number of problems has just seems to be expanding exponentially. How do we get our...
+
+02:04:26.498 --> 02:04:55.806
+heads around this and you know there's so much blame game going on of well it's because of this and it's because of that and like that's not a solution that's at all so I love your um sense of optimism that it's possible and then my question is how do how do we how do we get that going yeah to be to be direct yeah well that's what I've been working on the last several years and what I can say is for example I've
+
+02:04:56.482 --> 02:05:25.534
+spent 20 years. Like, you know, I worked with bulimia, like I said, and I thought, okay, this really works with that population. You got people who were bulimic to essentially not be bulimic any longer. Yeah. Wow. And then I thought, okay, well, let's see if no bad parts is really true. And so I went to the toughest populations I could find. And so for 20 years, I worked with DID and I worked with
+
+02:05:25.922 --> 02:05:52.894
+D-I-D, sorry. Dissociative identity disorder, like multiple personality disorder. And I worked with what's called borderline personality clients. Yeah, very common, right? Yeah. Before when you talked about bulimia, bulimia is notoriously difficult to treat, let alone cure. It's because people fight with the symptoms. They try to get rid of the symptoms instead of listening to the part that's making them binge about what that's about.
+
+02:05:53.602 --> 02:06:22.366
+moving from the one-on-one therapy model to a model where people can do this work on their own as well as in groups. But if I'm correct in thinking this, it seems like getting the work done with oneself is the first like real step. Yeah. There's no replacement for that. Yeah. Yeah. And, you know, there's in the activist world, there's always been a kind of you're wasting your time, but
+
+02:06:24.706 --> 02:06:49.950
+There's been a polarization between being in the activist mindset of really trying to change things in the outside world versus sitting around and just focusing inside and not being an activist. But I'm working with a lot of the people you would recognize in terms of activists and activists.
+
+02:06:50.082 --> 02:07:19.966
+they came to me, they were doing their activism from this sort of righteous, judgmental part. And if we can get that one to step back and have them do their activism from self, they have a totally different impact. People are willing to listen to them, whereas when they're in that righteous place, nobody wants to listen to the shaming that does. It needs to be both. People need to do their work, access self, and
+
+02:07:20.386 --> 02:07:48.958
+and then start to try to change the outside world, or not one before the other, but at least simultaneously. Fantastic. No, really fantastic. I don't think we've ever done a podcast like this where the audience had a chance to do self-work in real time. Oh, I really appreciate you giving me the opportunity. Yeah, I don't know that I've ever heard a discussion...
+
+02:07:50.914 --> 02:08:20.062
+to be honest, which is just a testament to you and your bravery. It's very clear that your decision not to go into endocrinology was one that we all are grateful for. It wasn't a decision. Well, my endocrinologist friends will have to just accept that, you know, we've got a lot of good endocrinologists. We needed you, Dr. Dick Schwartz, to...
+
+02:08:20.258 --> 02:08:47.390
+in this business of discovering and creating a truly novel approach to therapy and self-work that goes all the way up to the potential to change culture, change the world. That's the goal. Yeah, those aren't just words. Those are real, aspirational, possible skills
+
+02:08:48.194 --> 02:09:17.694
+that could be accomplished if people do this work. And in coming here today and sharing with us the structure of internal family systems and a demonstration of how it can work and offering people the opportunity to do it themselves in real time and giving us your perspective about the things that are around it as well as in it with incredible clarity and just a real...
+
+02:09:18.050 --> 02:09:47.102
+beautiful sense of care for people that comes through. But also I like the concreteness of it so very much. It's very concrete. Right? It's not abstract. And I really appreciate that. And I'm certain that everyone else does as well. So I want to thank you for coming here today, for sharing this. We will provide links to places where people can learn more through books and courses and other resources that you've created.
+
+02:09:48.034 --> 02:10:17.086
+And also just for the work that you've done and for being you. It's been a real pleasure. And I'm so very glad we did it. Me too. Oh, my God. You know, my little nervous parts were giving me a lot of trouble. But once we got going, I just felt connected and I felt your appreciation and interest. And so we could have this kind of self-to-self exchange, which I love. I just love spending time and that energy. Yeah, wonderful.
+
+02:10:17.186 --> 02:10:38.910
+Likewise. And, you know, you're a great interviewer too. Thank you. Well, this whole thing is a labor of love and a free fall through just curiosity. Yeah. Yeah, it's clear. Yeah. I hope to continue the conversation. Would love to. Wonderful. Thanks so much. Thank you so much.
+
+02:10:39.394 --> 02:11:02.270
+Thank you for joining me for today's discussion with Dr. Richard Schwartz. To learn more about his work and to find links to his many excellent books, please see the show note captions. If you're learning from and or enjoying this podcast, please subscribe to our YouTube channel. That's a terrific zero cost way to support us. In addition, please click follow for the podcast on both Spotify and Apple. And on both Spotify and Apple, you can leave us up to a five-star review.
+
+02:11:02.370 --> 02:11:18.814
+If you have questions for me or comments about the podcast or guests or topics you'd like me to consider for the Huberman Lab podcast, please put those in the comment section on YouTube. I do read all the comments. Please also check out the sponsors mentioned at the beginning and throughout today's episode. That's the best way to support this podcast.
+
+02:11:19.010 --> 02:11:38.110
+For those of you that haven't heard, I have a new book coming out. It's my very first book. It's entitled Protocols, an Operating Manual for the Human Body. This is a book that I've been working on for more than five years, and that's based on more than 30 years of research and experience. And it covers protocols for everything from sleep to exercise to stress control,
+
+02:11:38.306 --> 02:11:58.270
+protocols related to focus and motivation. And of course, I provide the scientific substantiation for the protocols that are included. The book is now available by presale at protocolsbook.com. There you can find links to various vendors. You can pick the one that you like best. Again, the book is called Protocols, an Operating Manual for the Human Body.
+
+02:11:58.594 --> 02:12:21.726
+If you're not already following me on social media, I am Huberman Lab on all social media platforms. So that's Instagram X, formerly known as Twitter, Facebook, LinkedIn, and Threads. And on all those platforms, I discuss science and science-related tools, some of which overlaps with the content of the Huberman Lab podcast, but much of which is distinct from the content on the Huberman Lab podcast. Again, that's Huberman Lab on all social media platforms.
+
+02:12:21.890 --> 02:12:43.422
+And if you haven't already subscribed to our Neural Network newsletter, the Neural Network newsletter is a zero cost monthly newsletter that includes podcast summaries, as well as what we call protocols in the form of one to three page PDFs that cover everything from how to optimize your sleep, how to optimize dopamine, deliberate cold exposure. We have a foundational fitness protocol that covers cardiovascular training and resistance training.
+
+02:12:43.522 --> 02:13:04.030
+All of that is available completely zero cost. You simply go to Hubermanlab.com, go to the menu tab in the top right corner, scroll down to newsletter and enter your email. And I should emphasize that we do not share your email with anybody. Thank you once again for joining me for today's discussion with Dr. Richard Schwartz. And last, but certainly not least, thank you for your interest in science.

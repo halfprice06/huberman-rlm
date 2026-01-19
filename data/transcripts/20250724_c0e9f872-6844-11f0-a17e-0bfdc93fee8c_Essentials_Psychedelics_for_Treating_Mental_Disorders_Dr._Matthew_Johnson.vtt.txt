@@ -1,0 +1,262 @@
+WEBVTT
+
+00:00.226 --> 00:27.070
+Welcome to Huberman Lab Essentials, where we revisit past episodes for the most potent and actionable science-based tools for mental health, physical health, and performance. I'm Andrew Huberman, and I'm a professor of neurobiology and ophthalmology at Stanford School of Medicine. And now, my conversation with Dr. Matthew Johnson. Well, Matthew, I've been looking forward to this for a long time. I'm a huge fan of your scientific work and research.
+
+00:27.298 --> 00:53.566
+I'm eager to learn from you. Likewise, big fan and happy to do this with you. All right, well, thank you. My first question is a very basic one, which is what qualifies a substance as a psychedelic? Nomenclature is a real challenge in this area of psychedelics. So starting with the word psychedelic, it just, if you're a pharmacologist, it's not very satisfying because that term really,
+
+00:54.242 --> 01:22.942
+different pharmacological classes. In other words, if you're really concerned about receptor effects and the basic effects of a compound, it spans several classes of compounds. But overall, so it's really more of a cultural term or it does have a relationship to drug effects, but it's at a very high level. So all of the so-called psychedelics across these distinct forms
+
+01:23.202 --> 01:52.254
+classes that I can talk more about, the way I put it is they all had the ability to profoundly alter one's sense of reality. And that can mean many things. Part of that is profoundly altering the sense of self acutely. So when someone's on the psychedelic. So the different classes that can be the specific pharmacological classes that can be called a psychedelic are
+
+01:52.482 --> 02:20.222
+One, what are called the classic psychedelics. So in the literature, you'll see that term. And hallucinogen and psychedelic are all have traditionally been used synonymously. I think there was a little of a tendency to stay away from psychedelics of the baggage, but there's been a return to that in the last several years. But the classic psychedelics or classic hallucinogens are things like LSD, psilocybin, which is in so-called magic,
+
+02:20.354 --> 02:49.950
+It's in over 200 species that we know of so far
+
+02:50.050 --> 03:15.838
+And then there's the phenethylamine-based compounds. These are the basic two basically building blocks that you're starting from, either a tryptamine structure or a phenethylamine structure. But that's just the chemistry. All of the, what's more important, or at least to someone like me, are the receptor effects. And then ultimately that's going to have a relationship to the behavioral and subjective effects. So all of these classic psychedelics
+
+03:16.130 --> 03:45.726
+serve as agonist or partial agonist at the serotonin 2A receptor, so subtype of serotonin receptor. Then you have these other classes of compounds that you could call psychedelic. Another big one would be the NMDA antagonist. So this would include ketamine, PCP, and dextromethorphan, something I've done some research with, which folks might recognize from like robo-tripping, guzzling, like, you know, call syrup. A large...
+
+03:45.858 --> 04:11.486
+overlap in the types of subjective effects that you get from those compounds compared to the 2A agonist classic psychedelics. But then you have another big one, MDMA, which really stands in a class by itself. So it's been called an intactogen. And what does that mean? It means like touching within. It sort of eludes the idea that it can really put someone in touch with their emotions.
+
+04:11.618 --> 04:41.086
+It's also been called an empathogen, meaning can afford empathy. So I get the impression that the psychedelic space is an enormous cloud of partially overlapping compounds. Right. Meaning some are impacting the serotonin system more than the dopamine system. Others are impacting the dopamine system more than the serotonin system. Given that the definition of a psychedelic is that it profoundly alters sense of self, at least that's included as
+
+04:41.346 --> 05:10.590
+a partial definition. I think of these as psychedelics as profoundly altering models. You know, we're all, you know, we're prediction machines and that's large, so much of that is top down and psychedelics have a good way of, you know, loosely speaking, dissolving those models. And one of the reality- Can you give us an example of one of, like a model? Like I know that when,
+
+05:10.882 --> 05:36.478
+I throw a ball in the air, it falls down, not up. This might sound extreme, but there are these cases. It was overblown in sort of the propaganda of the late 60s, early 70s. But there are credible cases of people, I think it's very atypical, of sounds like they really thought they could fly and, you know, jump out of a window. Now, far more people every year –
+
+05:36.706 --> 06:06.366
+I mean, who knows? They fall and die from height because they're drunk. So this is extremely rare. But there are some pretty convincing cases. There was one research volunteer in our studies that she looked like she was, in one of our studies, she was trying to dive through a painting on the wall. She was fine, but she, reviewing the video, it looked like
+
+06:06.658 --> 06:23.870
+she really thought that she was gonna go through that painting and who knows? Enter the other dimension. Yeah, so they're violating these predictions.
+
+06:23.970 --> 06:51.358
+It has 28 grams of protein, only 150 calories and zero grams of sugar. That's right, 28 grams of protein and 75% of its calories come from protein. This is 50% higher than the next closest protein bar. David protein bars also taste amazing. Even the texture is amazing. My favorite bar is the chocolate chip cookie dough, but then again, I also like the new chocolate peanut butter flavor and the chocolate brownie flavored. Basically, I like all the flavors a lot. They're all incredibly delicious.
+
+06:51.490 --> 07:21.456
+The toughest challenge is knowing which ones to eat on which days and how many times per day. I limit myself to two per day, but I absolutely love them. With David, I'm able to get 28 grams of protein in the calories of a snack, which makes it easy to hit my protein goals of one gram of protein per pound of body weight per day, and it allows me to do so without ingesting too many calories. I'll eat a David protein bar most afternoons as a snack, and I always keep one with me when I'm out of the house or traveling. They're incredibly delicious, and given that they have 28 grams of protein, they're
+
+07:21.456 --> 07:48.350
+really satisfying for having just 150 calories. If you'd like to try David, you can go to davidprotein.com slash Huberman. Again, that's davidprotein.com slash Huberman. Given the enormous cloud of different substances and given the range of previous experiences that people show up to a psychedelic experience with, I feel like the ability to extract some universal themes is useful, especially for people who haven't done them before.
+
+07:48.578 --> 08:15.678
+right? Who might not have an understanding of what their effects are like. Can we just briefly touch on the serotonin system? So compounds like LSD, lysergic acid, diethylamide, and psilocybin, my understanding is that they primarily target the serotonin system. How do they do that at a kind of general level? And
+
+08:15.970 --> 08:43.742
+why would increasing the activity of a particular serotonin receptor or batch of serotonin receptors lead to these profoundly different experiences that we're calling model challenges, challenging preexisting models and predictions? I mean, at the end of the day, it's a chemical and these receptors are scattered around the brain with billions of other receptors. What do we think is going on in a general sense?
+
+08:43.970 --> 09:13.470
+Yeah, yeah. And this is really the area of active exploration and we don't have great answers. We know a good amount about the receptor level pharmacology. Some things about post-receptor signaling pathways. In other words, just fitting into the receptor. Clearly, you know, serotonin itself is not psychedelic, you know, or else we'd be tripping all of us all the time. Because when I eat a bagel, I get serotonin release, right? Uh-huh. I mean, there's... Or turkey. I mean, there's tryptophan, right? My understanding of serotonin is
+
+09:13.666 --> 09:36.798
+is that in very broad strokes, that it generally leads to a state of being fairly, it pushes the mind and body towards a state of contentment within the immediate experience. Whereas the dopamine system really places us into an external view of what's out there in the world and what's possible. Yeah. Is that fair to say? Need to do something. I mean, that's consistent with my
+
+09:37.026 --> 09:59.998
+understanding. And I'll certainly not in terms of, I don't primarily identify as a neuroscientist. Definitely tell the viewers that we're far more in your domain here than mine, but in terms of how psychedelics and other drugs interface at the neuroscience level. Well, feel free to explain it at the experiential level. I mean, it doesn't have, let's say I were to
+
+10:00.130 --> 10:22.750
+come to one of your clinical trials? Because these are clinical trials, right? And in your, at your lab at Hopkins. Yeah. And would I need to be depressed or could I just be somebody who wanted to explore psychedelics? We've had studies for all of these and a number of other disorders. So healthy, normal studies, the code for not a problem to fix, but we're all here. That's what's amazing about psychedelics though, because you,
+
+10:22.946 --> 10:31.326
+if you administer them under this model and you develop a relationship and give a high dose of psychedelic, you can be a healthy normal without a diagnosable issue, but man,
+
+10:31.714 --> 10:57.534
+we're all human and the issues seem to come to the surface. So, but we've done work with smoking cessation. So people trying to quit tobacco and haven't been successful. So a variety of reasons. So maybe I'll just ask some very simple questions that would kind of step us through the process. So let's say I were to sign up for one of these trials and I qualified for one of these trials. I'd show up. You said I would do several hours in advance of getting to know the team that would, that would be present during this,
+
+10:57.698 --> 11:20.734
+Psychedelic journey. First, there's screening. So it's kind of like a couple of days of both psychiatric, like structured psychiatric interviews about your whole your past and symptoms across the DSM, the psychiatric Bible to see if you might have various disorders that that could disqualify you, like the main ones being the psychotic disorders, schizophrenia, and also including
+
+11:20.866 --> 11:49.950
+bipolar, so the manic side of bipolar. So after that, and also cardiovascular screening, heart disease, after that screening, then the preparation where you get, you're both, you develop a therapeutic rapport with the people who are going to be in the room with you, your guides. But you're also then didactically sort of explained about what the psychedelic could be like. And that's kind of a laundry list because they're more known by their variability. You could have the most
+
+11:50.210 --> 12:18.046
+beautiful experience of your life or the most terrifying experience of your life. So it's this kind of laundry list of like the things that could happen. So there's no surprises. I think it's so important for people to hear because you really can't predict how somebody is going to react internally. Let's say that somebody passes all the prerequisites. Um, and the, and it's the day comes the day that they're going to have, uh, this experience. Are they, uh, eating mushrooms like, uh,
+
+12:18.210 --> 12:45.438
+you hear about or are they taking it in capsule form and how do they get it into their body? So they receive pure psilocybin. Most of our studies are looking at where we want a psychedelic effect are in the 20 to 30 milligram range. The session day itself is not full of, for most of our studies, is not full of tasks. We really want to look at the therapeutic response. Obviously, if it's a therapeutic study, we want it to be a meaningful experience and
+
+12:45.538 --> 13:12.542
+Research has found, not surprisingly, that you get a less meaningful experience when you're in an fMRI or when you're doing a lot of cognitive tasks. So our typical therapeutic model, which, again, isn't just limited necessarily to the therapeutic studies where we're trying to treat a specific disorder, is to have that preparation so the person feels very comfortable with their guides. Ultimately, what I tell people is like,
+
+13:13.122 --> 13:39.326
+Any emotional response, it's all welcome. I mean, you could be crying like a baby hysterically. Like that's what you should be doing if that's what you feel like. I mean, you're doing therapy for people. It's not just about the experience. Right. And the experience itself is very much shaped by that container, by the environment and the degree to which one allows it to happen. Like one should let go of control.
+
+13:39.650 --> 14:07.870
+The letting go of control is an interesting feature, actually, because one of the common themes of good psychoanalysis or psychotherapy of any kind is that there's a trust built between the patient and the analyst. And that relationship becomes a
+
+14:08.130 --> 14:37.950
+to psychedelics is that normally the social pressure, but also just our internal pressure from our own brain is pay attention to many things at once, not just one. Is that- Especially these days. Yeah, multitask. Right. Multitask. And the more that we focus on one thing, the more bizarre that thing actually can appear to us, right? Right. I mean, even if it's the tip of your finger and you're not taking any psychedelics, you spend a long enough looking at the tip of your finger, you will notice some very weird things. Yeah.
+
+14:38.082 --> 15:05.758
+I think of that as the classic psychedelic effect or one classic effect and one I've used many times of this example of why people shouldn't necessarily, you know, these aren't, these, one should be judicious in putting themselves in these circumstances. Someone could be, you know, having a very strong psilocybin experience and they're trying to navigate their way in Manhattan, crossing the street, and they might, you know,
+
+15:06.018 --> 15:30.238
+be staring into the hand and realize like that's their hand is the most amazing miracle. Like the entire universe has essentially conspired to come to this one point to make this absolutely breathtaking. It's almost like, I think of the simplest form of, of, of what we know the simplest form of learning is habituation. Simply keep applying stimuli and there's less response. Like this is what organisms do. This is what we have to do. And it's like, there's this dis,
+
+15:30.338 --> 15:56.318
+habituation component that like, habituation. Yes. Like we wouldn't be able to get through life if we wouldn't be able to cross that street, if we were like, hold, like this is a miracle. It sounds like on psychedelics, the, one of the primary goals therapeutically is to really drill into one of these perceptual bubbles and expand that bubble. And the safety it seems is the safety. It's sort of like a permission to, to do that without worrying that,
+
+15:56.738 --> 16:25.566
+something's going to happen. Right. Because, you know, I've had people there on the couch. Yeah. I remember one lady said, this is probably 13, 14 years ago, said, Matt, tell me again, I can't die. Like, I feel like my heart is going to rip through my chest. I mean, she was feeling her. And I should say, typically cardiovascular response is modest. The pulse and blood pressure go up. And if it goes over a certain level, we have a protocol. And we've had to do this only a few times, but
+
+16:25.730 --> 16:51.486
+The physician comes in, gives him a little nitroglycerin under the tongue and knocks the blood pressure down a little bit, doesn't affect the experience. So we have it all in place, even though they'd probably be fine out of an abundance of caution. But yeah, but someone can feel that, my God, I'm going to die. Like I have never felt my heart beat like this before. So there's an expansion of a particular fairly narrow range
+
+16:52.226 --> 17:21.214
+It could be sound, could be an emotion, could be sadness, could be a historical event or a fear of the future. And you've mentioned before that there's something to be learned in that experience. Yeah. There's something about going into that experience in an undeterred way that allows somebody to bring something back into more standard reality. Yeah. Given the huge...
+
+17:21.314 --> 17:50.014
+variety of experiences that people have on psychedelics, given the huge variety of humans that are out there, but what are now very clear therapeutic effects in the realm of depression, what do you think is the value of going into this fairly restricted perceptual bubble, what we are calling letting go or giving up control? Because if the experiences are many, but the value of what one exports from that experience is kind of
+
+17:50.114 --> 18:19.966
+similar across individuals. That raises all sorts of interesting questions. And this is not a philosophy discussion. We're talking about biology and psychology here. So what are your thoughts on that? This is in the terrain we're figuring out, you know? So there's no, the educated speculation is the best I can provide. But I think the best, the most, I think the common denominator are persisting changes in self-representation.
+
+18:20.354 --> 18:47.742
+Okay. Tell me more about self-representation. That's the way one holds the sense of self, the fundamental relationship of a person in the world. I mentioned earlier that these experiences seem to alter the models we hold of reality. And I think that the self is the biggest model, that I am a thing that's separate from other things. And that's, I am defined by certain, I have a certain personality and I,
+
+18:47.874 --> 19:11.966
+I'm a smoker that's having a hard time quitting, or I'm a depressed person that, you know, views myself as a failure and all of these things, those are models too. And- So this is this expansion of the perceptual bubble, a narrow, a narrow percept that then grows within the confines of that narrow percept. So sense of self is a very interesting phenomenon. And if we could dissect it a little bit,
+
+19:12.130 --> 19:37.822
+there's the somatic sense of self. So the ability to literally feel the self in this process we call interoception. And then there's the, the, the title of the self, the I am blank. Yeah. And I noticed you said that several times. It's intriguing to me how one defines themselves internally, not just to other people, but how one psychologically and by default in, uh,
+
+19:38.082 --> 20:04.126
+defines themselves, I think is very powerful, like, and depressed people, as well as happy people seem to define themselves in terms of these categories of emotional states. So I think it's, it's so interesting that letting go and going into this perceptual bubble, which is facilitated by, obviously, a really wonderful team of therapists, but also the serotonergic agent allows us to potentially reshape
+
+20:04.514 --> 20:31.774
+the perception of self. That's a tremendous feat of neuroplasticity. Right. I think there's something about this change in sense of self. There is, it seems to be something on the identity level, both with, I think of the work we did with cancer patients who had substantial depression and anxiety because of their cancer, and also our work with people trying to quit cigarette smoking. I mean, there's this real, there seems to be when it really works, this change in how people
+
+20:32.130 --> 20:53.310
+view themselves like smoking, like really stepping out of this model. Like I'm a smoker. It's tough to quit smoking cigarettes. I can't do it. I failed a bunch of times. I remember one participant during the session, but he held onto this afterwards said, my God, it's like, I can really just decide.
+
+20:53.986 --> 21:22.846
+like flicking off a bike, I can decide not to smoke. And it's, I call these duh experiences with psychedelics because people often, like in the cancer study, you say, I'm causing most of my own suffering. Like I can follow my appointments, I can do everything, but I can still plan for the vacation. I'm not getting outside in the sunshine. I'm not playing with my grandkids. I'm choosing to do that. And it's like, they told themselves that before. And the smoker has told themselves a million times, I can, so it sounds, when it comes out of their mouths,
+
+21:23.298 --> 21:48.350
+I mean, folks will say this is part of the ineffability of a psychedelic experience. Folks say, I know this sounds like bullshit and this sounds like, but my God, I could just decide. Like they're feeling this gravity of agency that seems to be at times fundamentally like supercharged from a psychedelic experience. This idea, like I'm just going to make a decision. Like normally, like you tell a depressed person, like don't
+
+21:48.482 --> 22:14.078
+don't think of yourself that way. You're not a failure. Look at all that. It's just, yeah, it's like, and you can actually, in one of these states have an experience where you realize like, my God, just like using MDMA to treat PTSD. And we're going to be starting work with psilocybin to treat PTSD. Someone could really reprocess their trauma in a way that like has lasting effects. And clearly there's probably something, you know, reconsolidation of those memories. They are, they are,
+
+22:14.978 --> 22:40.862
+They are altered, you know, very consistent with our understanding of the way memory works. So the whole idea of people can actually, in a few hours, have such a profound experience that they decide to make these changes in who they are, and it sticks. I'd like to take a quick break and acknowledge our sponsor, AG1. AG1 is a vitamin-mineral probiotic drink that also includes prebiotics and adaptogens.
+
+22:41.026 --> 23:10.992
+As somebody who's been involved in research science for almost three decades and in health and fitness for equally as long, I'm constantly looking for the best tools to improve my mental health, physical health, and performance. I discovered AG1 back in 2012, long before I ever had a podcast, and I've been taking it every day since. I find it improves all aspects of my health, my energy, my focus, and I simply feel much better when I take it. AG1 uses the highest quality ingredients in the right combinations, and they're constantly improving their formulas without increasing the cost.
+
+23:10.992 --> 23:29.406
+In fact, AG1 just launched their latest formula upgrade. This next-gen formula is based on exciting new research on the effects of probiotics on the gut microbiome, and it now includes several clinically studied probiotic strains shown to support both digestive health and immune system health, as well as to improve bowel regularity and to reduce bloating.
+
+23:29.538 --> 23:59.504
+Whenever I'm asked if I could take just one supplement, what that supplement would be, I always say AG1. If you'd like to try AG1, you can go to drinkag1.com slash Huberman. For a limited time, AG1 is giving away a free one month supply of omega-3 fish oil along with a bottle of vitamin D3 plus K2. As I've highlighted before on this podcast, omega-3 fish oil and vitamin D3 K2 have been shown to help with everything from mood and brain health to heart health to healthy hormone status and much more. Again, that's drinkag1.com.
+
+23:59.504 --> 24:23.998
+Today's episode is also brought to us by BetterHelp. BetterHelp offers professional therapy with a licensed therapist carried out entirely online. I've been doing weekly therapy for well over 30 years. Initially, I didn't have a choice. It was a condition of being allowed to stay in school.
+
+24:24.162 --> 24:50.750
+But pretty soon I realized that therapy is an extremely important component to overall health. In fact, I consider doing regular therapy just as important as getting regular exercise, including cardiovascular exercise and resistance training, which of course I also do every week. There are essentially three things that great therapy provides. First of all, it provides a good rapport with somebody that you can trust and talk to about all issues that you're concerned about. Second of all, it can provide support in the form of emotional support or
+
+24:50.850 --> 25:20.816
+directed guidance. And third, expert therapy can provide useful insights. With BetterHelp, they make it very easy to find an expert therapist with whom you resonate with and can provide those benefits that come through effective therapy. Also, because BetterHelp allows therapy to be done entirely online, it's very time efficient. It's easy to fit into a busy schedule. There's no commuting to a therapist's office or sitting in a waiting room or anything like that. You simply go online and hold your appointment. If you would like to try BetterHelp, go to betterhelp.com slash Huberman to get
+
+25:20.816 --> 25:46.686
+10% off your first month. Again, that's betterhelp.com slash Huberman. I'm fascinated by this idea that a somatic and a perceptual experience, but a real experience of the sort that you're describing is what allows us to reshape our neural circuitry and to feel differently about ourselves. And I know there's been really tremendous success in many individuals of
+
+25:46.786 --> 26:15.550
+alleviating depression, of treating trauma with these different compounds. If we could, I'd like to just ask about some of the more dopaminergic compounds, in particular MDMA. And my understanding is that MDMA leads to very robust increases in both dopamine and serotonin simultaneously. So why would it be that having this increased dopamine and increased serotonin would provide
+
+26:15.682 --> 26:43.902
+an experience that is beneficial. And how do you, to the extent that you can describe it, how do you think that experience differs from the sorts of experiences that people have on psilocybin or more serotonergic agents? Speculating, but it may be that MDMA for a broader number of people is better for trauma because the chances of having an extremely challenging experience, what I call the bad trip,
+
+26:44.610 --> 27:12.382
+like really freaking out is much lower with MDMA. People can have bad trips, but they're of a different nature. It's not sort of like freaking out because all of reality is sort of shattering and it's less of this, it can take so many forms with the classic psychedelics, but like typically you'll hear something like, I didn't know it was going to be like this, no matter how hard you tried to prepare them that like this,
+
+27:12.706 --> 27:40.286
+is like, get me off this ride. You're talking about LSD or psilocybin? LSD, psilocybin, Iowaz. Yeah, yeah. And just this sense of like, I'm going insane. This is so far beyond anything I've ever experienced. And it's scaring the shit out of me. I don't have to hold on anything, even that I exist as an entity. And that can be really, I think, frankly, experientially, that's kind of the gateway to both things.
+
+27:40.610 --> 28:03.550
+the transcendental mystical experiences, the sense of unity with all things, which we know our data suggests is related to long-term positive outcomes. Wait, I want to make sure I understand. So you're saying the bad trip can be related to the transcendental experience? Right. I think those are both speculating, but you have to pass through this sort of like
+
+28:04.578 --> 28:29.662
+you know, reality shattering, including your sense of self. And one can handle that in one of two ways. You can either completely surrender to it or you can try to hang on. And if you try to hang on, it's going to be more like a bad trip. So again, I wish there was more and hopefully there will be more experimentation. There's a lot going on here in the black box in terms of the operant behavior of how you are, you know, within yourself and
+
+28:30.082 --> 28:58.590
+choosing to handle, like letting go, you know, and eventually we'll be able to see this in real time with brain imaging. Ah, there they are surrendering to the psychedelic experience. Here they are trying to hold on, but we're not there yet. But I think it's a good, through clinical observation, seems pretty clear that something like that is going on. There has been an attempt at creating this movement toward openness about psychedelics and their positive effects. This has happened before.
+
+28:58.690 --> 29:27.998
+The difference is that now there are people like you inside the walls of the university or publishing peer reviewed studies and things of that sort. The question is to me, you know, what are the, what are the valuable exports, right? And where does the extreme lie? I mean, clearly there's a, there's a problem with tinkering with reality through pharmacology and there's a benefit it sounds like to tinkering with reality through pharmacology. And for the,
+
+29:28.098 --> 29:57.150
+average person, right? Or for kids that are hearing this, kids that are in their teens, right? I want to talk about what are the dangers of psychedelics? This is something you don't hear a lot about these days. And it's not because I'm anti-psychedelic at all, but what are the dangers? Yeah. So these can be profoundly destabilizing experiences and ones that, you know, ideally are had in a safe container.
+
+29:57.602 --> 30:27.422
+you know, sort of where someone, you know, what are the relevant dangers and what can we do to mitigate those? So there's two biggies. One, and I've already mentioned, it's people with very severe psychiatric illness, not depression, not anxiety. I'm talking about psychotic disorders like schizophrenia or mania as part of bipolar disorder. The far more likely danger is the bad trip.
+
+30:27.778 --> 30:50.782
+Anyone can have this. The most psychologically healthy person in the world, probably. You jack the dose high enough, and especially in a less than an ideal environment, you can have a bad trip. You even get it in an ideal environment like ours at a high dose of around 30 milligrams of psilocybin. After the best preparation we can provide, about a third of people will say,
+
+30:51.042 --> 31:14.398
+Essentially, at some point, they have a bad trip. At some point within the entire journey. Right. Now, they could have one of the most beautiful experiences of their life sometimes, like a couple minutes later. But at some point, they had a sense of strong anxiety, fear, losing their mind, feeling trapped, something like that. I definitely want to ask you about microdose versus microdose.
+
+31:14.690 --> 31:42.846
+standard or macro dosing psilocybin. I'm micro cynical, if you will, about this term micro dose. Is there any clinical evidence or peer reviewed published evidence that it works, quote unquote, to make people feel better about anything? So, yeah, the claims are in there are a number of them. There's two general ones. One is sort of acting in place of the ADHD treating drugs. So the psychomotor stimulants. So like a better version of Adderall.
+
+31:42.978 --> 32:03.166
+The other claims are essentially a better version of the traditional antidepressants, a better version of Prozac. None of the peer-reviewed studies that have much credibility, none of them have shown a benefit. The handful of studies that have done that have shown...
+
+32:03.746 --> 32:30.462
+they've ranged from finding no effect whatsoever to just a little bit of impairment, like impairing someone's ability to do time estimation and production tasks. So you want an accurate sense of time, at least if you're navigating in the real world. It's different if you're on the couch on a heroic dose for therapeutic reasons where you're safe, but if you're crossing the street, if you're getting, you know, in your work life, which is the way people are claiming to use that, it helps them
+
+32:30.690 --> 32:58.718
+be a better CEO, like you want an accurate sense of time. So if anything, the data suggests that it makes it a little bit less accurate. And there's evidence that someone feels a little bit impaired and they feel a little bit high. So in terms of, you know, you call that abuse liability in research. So far, no studies have shown, you know, any increase in creativity, enhancement of any form of cognition,
+
+32:58.946 --> 33:26.206
+or a sustained improvement in mood. Now, no studies have actually looked at the system of microdosing that the aficionados are claiming. Folks like Paul Stamets and others, they'll have particular formulas. They're like, you need to take it one day and then take so many days off and take it every four days. They really say you need to be on it for a while. Like a few weeks in, you may start to notice through this pattern
+
+33:26.338 --> 33:45.950
+of using it. And you're feeling the benefits on those off days, like the three or two days in between your active doses. So those are the claims. Again, we don't know that there's any truth to that working, but studies have not been done to model that. So that's a big caveat. My bet is
+
+33:46.242 --> 34:10.942
+and this is totally based on anecdotes, that I think there is probably a reality to the antidepressant effects. I find that more intriguing because of the suffering with depression. Even if it's – it wouldn't be as interesting as I think what we're doing with high-dose psilocybin or psychedelics to treat depression. It would be – if this is developed and there's a reality, it would be more like a better – perhaps a better –
+
+34:11.138 --> 34:39.678
+SSRI, a better Prozac. That being said, we need more tools than fewer tools in the toolbox. And it shouldn't be that surprise. Like even before, going back to the tricyclics and the MAO inhibitors, going back to the 50s, like augmenting extracellular serotonin in one way or another, for many people, leads to a reduction in depressive symptoms. It wouldn't be that crazy for chronically stimulating a subtype of serotonin receptor
+
+34:40.098 --> 35:09.470
+that you have an antidepressant effect. So I think if I had put my bets on it, that if there's anything real, it is in that category. Although I'm very open to like, maybe there is something to the creativity, to the improved cognition, which covers many domains in and of itself. But my greatest hopes are on the antidepressant effects. That said, in the big picture, I think all of the most interesting thing about psychedelics are the heroic doses.
+
+35:09.698 --> 35:37.150
+I mean, the idea that you can give something one, two, three times and you see improvements in depression months later and in addiction, you know, over a year later and with these, you know, people dealing with potentially terminal illness. I mean, it's, I mean, I'm interested in big effects. I want to make sure that I ask you about the other really important mission that you're involved in with respect to psychedelics, which is not about depression per se, but is about neurological.
+
+35:37.282 --> 36:05.246
+a neurologic injury or head injury. You know, we always think sports, but there are many people who make a living in a way that is over time is detrimental to their brain. What do you think is the potential for these compounds, particularly psilocybin, but other compounds as well for the treatment and possible even reversal of neurological injuries? There are anecdotes of people saying that
+
+36:06.402 --> 36:35.230
+that psychedelics have helped heal their brain. They've been in one of these situations, like in sports, a sport where there's repetitive head impact and they're claiming that using psychedelics has actually improved their cognitive function, for example, improved their memory. If you take these anecdotes and you combine it way across orders of analysis to the rodent research from several labs like David Olson, Brian Roth, these folks that have shown
+
+36:35.458 --> 36:57.342
+different forms of neuroplasticity unfolding, those effects may be at play in the psychiatric treatments that we're dealing with. We don't know that. It seems like a decent guess, and we're going to be figuring out whether that's the case. But another potential that that sets up is that maybe that's what's going on with neuroplasticity.
+
+36:57.602 --> 37:22.078
+with these claims of improvements from neurological issues, that there's actually, you know, a repair of the brain from injuries underlying, you know, things that, you know, situations where there's repetitive head impact. Perhaps there's a potential for helping folks recover from stroke problems.
+
+37:22.178 --> 37:50.270
+and disorders like that. It is more exploratory. But what I'm hoping to do is some work with retired athletes who have been exposed by the nature of their sport, for example, NNA athletes in the UFC who have been exposed to repetitive head impacts like a lot of sports, a lot of sports exposed people to, and who are retired from the sport and are suffering from, say, depression, which can
+
+37:50.530 --> 38:20.190
+in part result from those types of, of, of that history of head impact. See if we can fix the depression, but then also as a cherry on top and a more exploratory aim, see if we can have evidence of, of improvement in cognitive function and associate like using MRI, see if it affects gray matter over time, these types of things to see if there are actually some evidence of this improved, like this more direct repair process.
+
+38:20.450 --> 38:50.046
+of the brain. But again, it is very sort of like, we've got some rodent data, we've got some human anecdotes. We will acknowledge it's early days and we look forward to seeing the data. I appreciate how cautious you are and tentative you are. You're not drawing any conclusions. Thank you so much for your time, for your knowledge. And I think you put it best earlier for holding the candle in a very dark time. And then now there's light.

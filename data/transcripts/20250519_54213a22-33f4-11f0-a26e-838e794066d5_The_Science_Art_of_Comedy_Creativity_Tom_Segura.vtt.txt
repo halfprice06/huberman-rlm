@@ -1,0 +1,937 @@
+WEBVTT
+
+00:00.354 --> 00:27.326
+Welcome to the Huberman Lab Podcast, where we discuss science and science-based tools for everyday life. I'm Andrew Huberman, and I'm a professor of neurobiology and ophthalmology at Stanford School of Medicine. My guest today is Tom Segura. Tom Segura is a renowned comedian, writer, and director. During today's episode, we explore the neuroscience and psychology behind comedy, and we explore the creative process more generally.
+
+00:27.554 --> 00:50.110
+Tom shares his approach to capturing and developing ideas into narratives that are once funny and thought-provoking. We discuss the interplay between daily life observations and larger cultural dynamics when developing comedy routines. We spend a fair bit of time discussing the neurobiological basis of humor and what data and brain lesion patients have taught us about why we find certain ideas novel, funny, or exciting.
+
+00:50.210 --> 01:14.526
+We also talk about how this relates to the activation reward circuits in the brain and the seemingly automatic way that things are either funny or not funny to people, suggesting that humor is like taste or smell. You really can't negotiate what works for you or what doesn't. We also discuss emotional contagion and how skilled performers like Tom become masters at reading, shifting, and dancing with the collective energy of crowds, whether in small comedy clubs or large arena shows.
+
+01:14.690 --> 01:43.518
+So if you're creative or you're curious about human psychology, or if you simply love to laugh, you'll come away from today's episode having learned a ton of useful information about the creative process and human nature. Before we begin, I'd like to emphasize that this podcast is separate from my teaching and research roles at Stanford. It is however, part of my desire and effort to bring zero cost to consumer information about science and science related tools to the general public. In keeping with that theme, this episode does include sponsors. And now for my discussion,
+
+01:43.714 --> 02:10.398
+with Tom Segura. Tom Segura, welcome. Thanks for having me, Cuz. We'll let people know who don't already know. Yes, we are related. Yes, we are related. People have asked me so many times the details, and I, you know, I was trying to like, because I learned about it obviously later, that it was like, my mom's great-grandmother and your father's great-grandmother were
+
+02:10.882 --> 02:39.902
+First, because they're both Basque, so northern Spain cousins. And then, you know, generations later, they moved to South America, yours to Argentina, mine to Peru, and that's how we're cousins. Yeah, like it's distant cousins. And my dad was on the podcast a little while ago. How did that go? Because I remember we talked about him coming on. It was great. I mean, he's a theoretical physicist by training, so we got to talk about physics, but we also got to talk about life, and I learned a lot from him. Did you? I learned a lot about him that I never know before. In that podcast? Yeah.
+
+02:40.162 --> 03:08.926
+Really? Yeah. I'll send it to you if you're ever suffering from insomnia. I would love to listen to it. He's a theoretical, I didn't even know that. Yeah, theorist, chaos theory. And now he's into quantum internet. Jesus Christ. Where does he reside now? Northern California. Still working. Wow. Yeah, 81, still working. Look at our different sides of the, your dad is a theoretical physicist and my mom plays bridge. Yeah, but you can make a half-quart shot
+
+03:09.570 --> 03:34.334
+I saw the clip of you in Lethal Shooter. We'll put a link to it. Okay. I mean, you're an excellent basketball player. I'm not. High level. Very high level. Did you play ball growing up at all? No, foot sports. Are you skateboarded? Foot sports. Soccer, skateboarding. I'm pretty coordinated with my feet. Well, the kid of an Argentine, you got to give it a shot. Yeah. Every kid where I grew up played soccer. Really? Oh, yeah.
+
+03:34.498 --> 04:03.998
+Oh, yeah, obsessed. Were you good at soccer? I was all right. Played goalie. I like playing goalie or fullback. I like to wait back there and just stick people. That was fun. Maybe you should have gotten into lacrosse or something. No, I like running. I ran cross country my senior year. You ran cross country. I did. Yeah. I was a little lighter than I am now. I'm like 210 now. It's probably 160, 170. Okay. Yeah. Like two-mile races were okay. I just did a 5K. Oh, yeah? Two days ago, yeah. How'd that go? I hated that I knew I had to do it.
+
+04:04.098 --> 04:33.950
+And so I just made myself, I was like, you know, you got to do it. It's going to suck. You trained for it. Well, the training for me is like just get in a bunch of three-mile runs, right? So, I mean, I would do them purposely at like a slow pace, like try to stay as close to zone two cardio as possible just to get like used to the mileage. And then we get there because it was our 5K. Like it was, I put it on with Bert and Spartan Race and like it was a huge. Did a 5K? Yeah.
+
+04:34.338 --> 04:57.662
+shirt off, the whole thing? Of course. What are you, crazy? Weight vest, weight belly. I mean, sorry for real. Bro. Dude, yeah, he was... We give him a hard time because we're still trying to get Bert to quit drinking or reduce his drinking. I think he's reduced his drinking a little bit. No? Okay. So, yeah, we did one last year in Pasadena. We did the Rose Bowl. And so this time we did Raymond James in Tampa. It was called... It's the Two Bears 5K. We had...
+
+04:58.050 --> 05:20.734
+More than three times people signed up this year for Tampa. So we had close to 8,000 people there. Wow. And Jelly Roll came out, Jason Kelsey, Tristan Wirth, a bunch of John Feliciano, all these football players. Fun. And it was a very fun day, a very fun event. But here's the thing. At the Rose Bowl, the path was...
+
+05:21.122 --> 05:48.766
+like basically through the parking lot and then on these side roads in Pasadena. And, you know, they loop it out, and then you cross back basically across this parking lot, and you hit the 3.1. At Raymond James, I didn't know. They were like, oh, there's some inclines. I'm like, yeah, all right. Did we get there? It's all in the stadium. And the only way you're running 3.1 miles in a stadium is we're running through the corridors and then up the ramp.
+
+05:49.250 --> 06:06.302
+Well, the ramp is nine stories up. I mean, you're literally. One long incline. Bro, so like you're doing like a quarter mile up and then it would flatten out. Then you go down, you're like, oh, this is nice. And then you go up again. So, but I was just, I think when you're also running with people,
+
+06:06.786 --> 06:35.870
+you kind of get tunnel vision. And you see somebody, you're like, that person's ahead of me. Like, this pig is in front of me right now. Are you competitive by nature? Yeah, I think so. And so I definitely was like, I have to beat Burt. I have to beat John, my friend Feliciano. I was like, I have to beat these guys. They're both like fucking 300 pounds. I'm definitely beating them. And so that was just in my head every time I would see, think of them, I was like, you just have to keep going.
+
+06:35.970 --> 06:53.374
+And then Burt got beat by a guy in a wheelchair, so that was also kind of sweet because I beat both of them. Jerry. What's up? Shout out to Jerry. I think he had a little advantage because those wheels on the way down definitely pick up some speed, but on the way up, it's pretty badass, you know? Yeah.
+
+06:53.474 --> 07:22.142
+But yeah, so like getting in those miles, like was, was the, just like the training for it. And it was, it was a whole thing. And I don't like running. Like it's not, you know, there's some things you like, if you were like, let's go work out, let's go lift. I'd be like, cool. I enjoy that. I don't enjoy running, but I guess that's the best. You like running? I love working out with weights. I've been doing that since I was 16, but I love running. You love running? Running three times a week, a long run, a medium run and a short run. What's a long run? An hour, hour and a half. Long and slow. Every Sunday. Every Sunday.
+
+07:22.274 --> 07:47.710
+And then in the middle of the week, a 30 minute run faster. And then one day a week, I do that kind of max heart rate VO2 thing. Warm up, sprint, walk, sprint, walk, sprint, walk. Sometimes on the airdyne bike, but usually running. I love running. In fact, I mostly lift so that my body doesn't hurt when I run. I like being strong in the gym. Wait, have you always been into this? Yeah, since I was about 16, I started running.
+
+07:48.130 --> 08:14.078
+I just found I could just go and go. Probably have a lot of slow twitch muscle. And I'm reasonably strong, but I mean, if I train just for endurance, like if I start doing two long runs per week, I just feel like I can just go forever. Really? Yeah. It's probably just a genetic bias. What do you cover in that 60 to 90 minute run? Depends on how in condition I am. But, you know, you were talking about hills when I lived in the Bay Area. I used to do this run behind the Berkeley campus, the Strawberry Canyon Trail. And that's all...
+
+08:14.210 --> 08:44.158
+Inclined basically winding up, winding up until you take the long cruise down. I would do that with a weight vest. If I go from there out to Austin and on a Sunday, and then I can cover a lot of distance in a 60-minute run. But if I just train on the flat, then you get kind of used to just kind of going long and slow. Yeah. So I don't know the exact distance, but it was not unusual when I was in graduate school to head out on a Sunday morning, just hydrated caffeine and do 10, 12 miles. Wow. But now it's probably more like 6'8". Okay. 6'8". But also with a weighted vest? Sometimes with a...
+
+08:44.322 --> 09:14.206
+I use a vest. They're not a sponsor, which it's fun to always mention things that aren't a sponsor too because I love this weight vest. It's called an Amorpho and it fits pretty snug. It's not like one of these ones that looks like you're a suicide bomber or a cop or something. Yeah. It sits really close to the body. It zips up and it's got these like heavy ball bearings in it. So it's only about 10 to 12 pounds. Yeah. So it's not like a super heavy weight vest. Right. But it's enough that when you take that weight vest off on a separate run, you feel like a God. I will say that like, as much as I say, I hate, right. I, I,
+
+09:14.306 --> 09:43.422
+The fact that I made myself keep doing, I was doing like daily runs almost five days a week just of like getting used to the mileage. You know, obviously it becomes easier. And then you kind of go like, okay, I can do this. But yeah, I think I get a lot of like mental anxiety about the running. I'd like to take a quick break and acknowledge our sponsor, Maui Nui Venison. Maui Nui Venison is the most nutrient dense and delicious red meat available.
+
+09:43.554 --> 10:02.046
+It's also ethically sourced. Maui Nui hunts and harvest wild access deer on the island of Maui. This solves the problem of managing an invasive species while also creating an extraordinary source of protein. As I've discussed on this podcast before, most people should aim for getting one gram of quality protein per pound of body weight each day.
+
+10:02.210 --> 10:26.718
+This allows for optimal muscle protein synthesis while also helping to reduce appetite and support proper metabolic health. Given Maui Nui's exceptional protein to calorie ratio, this protein target is achievable without having to eat too many calories. Their venison delivers 21 grams of protein with only 107 grams per serving, which is an ideal ratio for those of us concerned with maintaining or increasing muscle mass while supporting metabolic health.
+
+10:26.882 --> 10:56.848
+They have venison steaks, ground venison, and venison bone broth. I personally love all of them. In fact, I probably eat a Maui Nui venison burger pretty much every day. And if I don't do that, I eat one of their steaks. And sometimes I also consume their bone broth. And if you're on the go, they have Maui Nui venison sticks, which have 10 grams of protein per stick with just 55 calories. I eat at least one of those a day to meet my protein requirements. Right now, Maui Nui is offering Huberman Podcast listeners a limited collection of my favorite cuts and products. It's perfect for anyone looking to improve
+
+10:56.848 --> 11:09.374
+their diet with delicious, high-quality protein. Supplies are limited, so go to mauinuivenison.com slash Huberman to get access to this high-quality meat today. Again, that's mauinuivenison.com slash Huberman.
+
+11:09.794 --> 11:39.760
+Today's episode is also brought to us by Helix Sleep. Helix Sleep makes mattresses and pillows that are customized to your unique sleep needs. Now, I've spoken many times before on this podcast about the fact that getting a great night's sleep is the foundation of mental health, physical health, and performance. When we aren't doing that on a consistent basis, everything suffers. And when we are sleeping well and enough, our mental health, our physical health, and our performance in all endeavors improves markedly. Now, the mattress you sleep on makes a huge difference in terms of the quality of sleep
+
+11:39.760 --> 12:09.712
+that you get each night. How soft that mattress is, how firm it is, how breathable it is, all play into how well you'll sleep, how much deep sleep you get, how much rapid eye movement sleep, and it needs to be tailored to your unique sleep needs. So if you go to the Helix website, you can take a brief two-minute quiz and it will ask you questions such as, do you sleep on your back, your side, or your stomach? Do you tend to run hot or cold during the night? Things of that sort. Maybe you know the answers to those questions. Maybe you don't. Either way, Helix will match you to the ideal mattress for you. For me, that turned out to be the Dusk mattress
+
+12:09.712 --> 12:36.542
+D-U-S-K. I started sleeping on a dusk mattress about three and a half years ago, and it's been far and away the best sleep that I've ever had. So if you'd like to try Helix, you can go to helixsleep.com slash Huberman, take that two-minute sleep quiz, and Helix will match you to a mattress that is customized for your unique sleep needs. Right now, Helix is giving a special offer to Huberman podcast listeners of up to 27% off site-wide, plus free bedsheets with any Lux or Elite mattress order.
+
+12:37.186 --> 13:03.646
+What about the running itself? I was going to ask you whether or not it changes your mental frame so that you, I don't know, do you get ideas while you run? Do you get ideas after you run more readily or are you just cursing the thing the whole time? I feel like it's a goal to let my mind drift because sometimes the negative side of it is like you're doing a run and your mind is like, this sucks, right? And you're thinking about how much time is left and that doesn't produce anything and it's not
+
+13:04.322 --> 13:33.598
+an enjoyable thing, but like if the mind goes, if you can let your mind drift, it's less about ideas. I feel like in those moments, you're kind of just, you're off thinking about more like life, not like creative thoughts, more like, you know, people and relationships and different, and like, that's kind of a nice place to be because then all of a sudden you're like, oh, you know, a couple miles just went by. Yeah, there's something to be said for these states of wordlessness where you're not constructing things in complete sentences,
+
+13:33.698 --> 14:02.014
+There's no sensory input like through a phone or through even, I do listen to podcasts or books when I run sometimes in the long run. But there's this idea that a lot of learning and creativity is about purging all the noise. And I find that those long runs, they just kind of, I come out of them just feeling like a bunch of clutter just got cleared. Yeah. More than I had some like insight during the run itself. Yeah. Incidentally, 90% of the effect of exercise on improving brain function is
+
+14:02.178 --> 14:32.126
+when it comes to long, slow distance work is that it raises your level of alertness and arousal so you can do really great work afterwards. High intensity stuff has a bunch of other effects, brain-derived nootrophic factor, et cetera. But when you see like exercise improves brain function, exercise makes you smarter, most of that is by way of the way how exercise increases your level of alertness and kind of puts you in that nice state like, oh, now I can sit down and focus. Yeah. My busiest days, like sometimes I have, you know, a very busy day. If I
+
+14:33.058 --> 15:01.854
+start that day with a hard workout, I end up having no problem tackling that day. Isn't that wild? It is wild. Because like, sometimes like I'll have a day where, you know, I have to arrive at my studio, let's say at 10 AM for something. And so, and it's just like, it's going to be recordings, meetings, pitch meeting, you know, and then leave here, go to this thing. Like it's going to be the entire day. And if I get myself to the gym,
+
+15:01.954 --> 15:30.974
+and I get in like a good hour lift, I come in and like I'll notice everyone's like, you look like you're in a good mood. And I'm like, yeah, feel great. And I'm ready. And then I'm ready for the day. But if I don't do that, it's a different experience. Yeah, this is one of the real hidden secrets of exercise that I'm trying to make less hidden and less of a secret that Jocko clearly understands with his 4.30 a.m. wake-ups and workouts that you're describing now is that
+
+15:31.650 --> 15:58.622
+I won't go into too much detail here, because I want to ask you questions, but there's this phenomenon where when you move the large musculature of the body, so a resistance training workout, a run, probably any workout where you're doing some big movements or you're working hard in that workout, it triggers the release of adrenaline at levels that wake up your body, make it more willing to move. So people who don't have energy to exercise, exercise gives your body energy by way of adrenaline,
+
+15:58.754 --> 16:24.350
+And then that adrenaline acts on this nerve called the vagus nerve, which communicates to the areas of your brain that release dopamine and something called norepinephrine. It basically wakes your brain up also. So that morning workout that you're describing wakes up your brain and body for something like six hours by changing the neurochemical state of your body and your brain. And so it's not a surprise that when you work out before a long day, that long day goes better. Yeah. Whereas if you hit the work of the day
+
+16:24.674 --> 16:50.974
+you know, kind of fresh, you're generating the adrenaline drink from all that stuff. This is when people feel a bit more anxious. They feel a bit more irritable. They feel a bit more tired. So this whole concept of exercise gives you energy. That's how it gives you energy. It's not caloric energy. You still need to fuel, et cetera. But you're talking about neurochemical energy. It fundamentally changes the way you show up to everything else. The way that I always feel like is, you know, a lot of times when you wake up, you have
+
+16:51.106 --> 17:19.070
+what I would describe as like a fog sometimes, you know, like, it's not just me. Oh yeah. So like that fog, sometimes, you know, you can, you carry it. Like it just, it's, it's in the day and you're just kind of like, Oh, there's this, but I always feel like that, that exercise just completely wipes it out. You know, where you're like, Oh, like I'm actually alert now. And I don't feel that post wake up, just fog that sits there. That's my favorite thing that to, to knock out. I love that. I, I,
+
+17:19.170 --> 17:48.894
+I've got this crazy thing that I do now. You can try this. I bought a 70-pound kettlebell. It's about a third of my body weight. And I have it set in the hallway. So when I get up, because I wake up really groggy, really foggy, I grab that thing and I suitcase carry it to the end and back twice. And then I switch hands and I suitcase carry it back to the end and back twice. Just trying to, like, teach my body that it can do work right away. And I'm careful how I do it. But I find that now I wake up and I've got, like, I think my body's anticipating that.
+
+17:49.410 --> 18:13.630
+carry. And so I'm more alert from go. And I was like, ah, this is, there's something, because your nervous system learns to anticipate things, right? Yeah, yeah. Because that phenomenon is setting your alarm clock for 7 a.m. You wake up at 6.59. Yes. What happened? Like, your brain is clocking things in your sleep. Dude, that has happened to me so many times. And I always feel like that's such a bizarre, like, also for, like, I'm not a big napper. Sometimes I'll be like, I'm going to lay down, like, I have a hour window and
+
+18:13.826 --> 18:43.422
+before I have to go do something in a hotel, like I'm on the road. And I'll be like, well, just in case I fall asleep, I'll set the alarm. And I'll lay there, eyes closed, and I'll look as it's one minute before. Your brain's clocking it. A study a couple of years ago, where when people are in rapid eye movement sleep, you're basically paralyzed. The brain is very, very active. That's the phenomenon of rapid eye movement sleep. It's a very bizarre brain state. Brain is super active, body paralyzed. But people can blink and they can show some little, like,
+
+18:43.618 --> 18:57.310
+facial responses. If you ask them to do simple math problems during rapid eye movement sleep, you say, hey, what's two plus two? They'll, you know, blink with your, you know, wink with your right eye if it's four rings,
+
+18:57.410 --> 19:26.142
+wink with your other eye if it's five, you know, this kind of people can do math correctly in their sleep. They can answer not sophisticated questions, but the brain is tracking what's happening all around you. This is why taking the phone and putting it outside the room while you sleep, people sleep better. People say, oh, it's because the EMFs, nobody really knows for sure, but it's because your brain is anticipating picking up the phone even while you're sleeping. Wow. So there's, I'm hitting with a lot of data here, but it's well known now that if you give students a test,
+
+19:27.106 --> 19:32.350
+and their phone is in their bag in the room, they perform less well than if their phone is in their bag in another room.
+
+19:32.482 --> 20:02.448
+Seriously. For adults too. Your brain is tracking sort of potential movements, potential thoughts, potential actions. Like the way brain circuits work is to create sort of dominoes of circuit sequences. So when you're up, for instance, you've gone on stage so many times to do comedy. Yeah. As you walk out, your brain is queuing up a whole library of things related to that without you realizing it. Yeah. Yeah. Right. It's all context dependent behavior. And when you get home, it's a different set of context dependent behavior. So your brain is, is, is sort of like a magic library. I was thinking of
+
+20:02.448 --> 20:29.246
+like as you get to a particular idea or thought or emotional state, the books change right in front of you to kind of match the set of things that you expect. So if your phone is in the room, your brain is operating that way, even if you're asleep. That's insane. Yeah. What's your writing process? Let's talk about comedy. That's, I've been, I've got about a gazillion questions. I'm going to try and make them really succinct. What is your typical process of capturing, you call them bits? Yeah.
+
+20:29.442 --> 20:48.702
+Yeah. For standup, it's a bit. Yeah. What's your typical process of capturing ideas? Like, do you voice memo into the phone? Do you write things down? I've done pretty much every version of it. Voice notes while high. Sometimes you listen to them later and you're like, holy shit. Are you a cannabis user? I mean, sometimes. I'm not like a heavy user. Mm-hmm.
+
+20:48.802 --> 21:18.768
+But a lot of times at night, if you take something and you go to sleep, you're trying to go to sleep, your brain's like, nah, I got ideas. Is that right? Oh, yeah. I haven't done cannabis since a long time ago. Oh, yeah, yeah, yeah. And then sometimes you listen because you're convinced you're like, this is one of the most brilliant ideas. Have you ever had great ideas that stick? Yeah, I've had good ones that stick. Sometimes the wording's a little off. But yeah, I've had ones that I actually do enjoy afterwards. And then sometimes you're like, this is, you can hear yourself smiling. Like, you know, because you
+
+21:18.768 --> 21:47.902
+You can tell someone's emotion by their voice. So I can hear that I'm like, dude, then like, oh, because you're recording. I'm recording in my phone. So let me get the process. So you're heading up to sleep and you take a like an edible. Yeah. This is comedy school 101. Hey, listen, you're the pro. And you go to voice moments, you're there, eyes closed and you start riffing on something. Yeah. It's like you're, it feels like it's separate from you. Right. Because like the, you know, the right kind of, I guess,
+
+21:48.002 --> 22:15.934
+dosage of THC, it does make your mind run. And sometimes you have less self-awareness. It's just like, the nice way to think about it is that your brain always puts things on a shelf for you to get through your day. Like things that make you uncomfortable even, right? Like there's things that you go like, I don't want to think about that. And then THC, I think in the right dosage just goes...
+
+22:16.066 --> 22:40.798
+here it is. Like it puts it in front of you. Sounds terrible. It can be terrible. Sounds awful. That can be like often what like too much is where you can get into like paranoia. But I think if you have a dosage that is not too strong, so it's not like uncomfortable, it just lets the mind run. It's like stream of consciousness happens. And so when that's happening, I feel like you go, oh, this is a
+
+22:41.122 --> 23:09.342
+This is like it feels like a new thought or a new perspective on something. And you go, this is – it makes you laugh. You say, oh, this is an idea. I should take this on stage. Because I think for me a lot of the thing is here's the kernel of the idea. And then it's not so much I'm going to write out long form how to do it. It's like that's the idea. Take it on stage. So you don't actually write things out full form? No, I don't write them out full form. And then I just go on stage with the kernel of the idea that I kind of have –
+
+23:09.442 --> 23:37.694
+a blueprint of like, well, here's what I'm sorta gonna try to attack and then see what happens as I speak it. Cause the other way that I, like my favorite way to write comedy for standup is through, is conversations. In other words, we're talking and I say something and I either go like, oh, I should say that on stage or I just find that I'm naturally riffing on it and like making you laugh. And then I go,
+
+23:37.890 --> 24:07.614
+I should try that on stage. Because everything is like, it's either it's funny here, is it funny there? That's kind of like how your mind operates, right? Like, this is funny in this context. Is it funny in the performing context? But when you're trying new material, you're not doing that for a Netflix special. You're doing that, it's the term working out. Like you go to the comedy club on a Tuesday night and you're working out, you're trying new material, seeing how it lands. You've never, is what you're saying that you've never actually, um,
+
+24:07.906 --> 24:34.494
+built out the bit, you're building it out in real time. In real time, yeah, yeah, yeah. Whoa. Is that typical of? I think there's like, there's different, you know, camps of it, right? Like also there's different, so many different, standup is so popular that there's all these different styles. And like, you know, there's like set up punch guys, like what you would call almost like pure joke writers, Sam Murill, Dave Attell,
+
+24:34.850 --> 24:57.374
+Mark Norman. Those guys, I feel like, dude, they do a lot of, like, here is a... It's the economy of words. It's, like, clear premise, set up. And then, boom, punchline. So it would be, like, I'm thinking about Norman, right? I won't try and do one of his jokes, but I like Norman's comedy. Skateboarder, too. Same non-biological first family. So he...
+
+24:58.146 --> 25:25.214
+I've heard him do things like, so my wife and I were on vacation recently, this kind of thing. Like a setup where it's very clear. I mean, he clearly knows where he's going with this. He's on vacation and we're picking out rooms and then at some point there's a punchline pivot. Right. Okay. So there's like some of those are, especially when you feel like they're quite short, if it's like over quickly, that's going to a lot of times be something that you knew about.
+
+25:25.922 --> 25:55.646
+I'm going to say it exactly like this. It's like the most traditional form of a joke. Here's the setup. Here's the punchline. And like, I've written jokes like that in standup, but I do a lot more, you know, long form, I think, like storytelling stuff. And so, you know, to write that all out, I feel like you almost, you almost get in your own way because you're just like, because then what happens is what you write and what you say, that it's never quite the same. So you, you kind of go through what,
+
+25:55.778 --> 26:25.022
+you think is funny about what happened and then you take that on stage and then you take that on stage and maybe in a room with like 80 or 100 people and then you know that's the nice thing about stand-up is you learn right away if that shit is funny or not like people are laughing hard and you're like and that's what's such a rush because you go this was an idea this thing happened you try it it works it's like it's a really euphoric feeling and then if it doesn't you know that's when like kind of the um
+
+26:25.858 --> 26:50.142
+I guess like the real work of it comes in because then you're trying to figure out you're like, especially if you're like married to the idea, if you're like, this is funny, but it didn't work. So then you start thinking about, did I, is there not enough information for it to work? Is that the problem? Is there too much? Because we always say like trim the fat. Like if you, if you have too much stuff in there that is not getting laughs, it's like maybe just omit some of this information.
+
+26:50.338 --> 27:16.382
+Right. So that becomes like, OK, I'll go back. And instead of saying this is like useless information, it's not adding to what's funny or whatever. It's not adding to the story I'm telling. You start dropping that. And so you start experimenting. And then sometimes you just get into like, OK, is the actual line that I'm saying the problem? Is it that that's not a good enough joke line? And then you start experimenting with that. And then sometimes you...
+
+27:16.770 --> 27:41.662
+figure it out, which is again, like such an amazing feeling where you go, this used to not work and now it works. And then sometimes you just got to go, fuck man, it's just that you just have to abandon it. Yeah. If something works or you feel like it's a beginning, it's the start of a thread that could work. Do you end up writing it down for later? Like, like you're queuing yourself, like, uh, you know, the, the walk with my son bit or something like that, or it's just, or it's all in your head.
+
+27:41.858 --> 28:10.398
+Well, you kind of have it all in your head. And then I was going to show you like I have this. That's I'll look at this like before I go on stage. Right. Which is like Tom showing. We can get a photo of this if he lets us. It's a bunch of Sharpie written single words. Yeah. Gitmo, jail, teacher, duck, Huberman. Just kidding. Augusta, kill my wife. Yeah. It's like so those like Hitler, Tunisia, Hitler.
+
+28:10.562 --> 28:36.862
+Make shit. This is amazing. Yeah, that's a set list for an hour. If you think about the range of things in this relatively short list as a partial representation of what goes on in Tom Segura's brain, you get a little... Well, what's interesting is another way I think comedians would look at it is you kind of start to go, these are 15-minute chunks. Because when you do an hour, a lot of...
+
+28:37.314 --> 29:06.046
+comics think of it as four 15 minute chunks right so you go like okay this is kind of like setting the table chunk this is like a kid's family chunk this is you know um commentary on uh social issues or like things that i'm doing or in or consuming and then your last chunk is like i always feel like you want to get into like your some of your uh more um
+
+29:06.882 --> 29:30.078
+I don't know, wilder takes, like after the audience has gotten to know you and like trust you, they're like, okay, is that way you can kind of like push it more the further into the set you are? Yeah. So you just kind of break it down. Yeah, very different, but I've done some lives and I have a, you know, four things I'm going to cover and then, but I don't know how I'm going to cover them. Jordan Peterson, when he goes out for his lives, I've been to them. He, he,
+
+29:30.498 --> 29:56.766
+literally explores a topic in real time, walking back and forth across the stage for the first time. I know this because people verify that every night he does something different, even the same city. Yeah. He's exploring it completely in real time. And then other people's lives that I've been to, it's clear it's pretty scripted. They know exactly what they're going to say and when they have a sequence, they have slides. And so I think it can be done any different number of ways. How long do you go during your waking hours without
+
+29:57.186 --> 30:25.662
+making or thinking of a joke? You know, that's a good question. I really feel like when you ask me that question, do you know the first person that I think of is actually Rick Rubin? And this is why. I remember reading that book he put out, Creative Act, and he was like, there's something about, I'm paraphrasing here, but about like having your antenna up. Like, in other words, you still put out, some part of you puts out
+
+30:26.370 --> 30:55.038
+the signal, so to speak, that you're not like going, I need to find something funny, but you're putting your brain in the mode of that, right? And you can also choose not to. And I think there's times where you go like, oh, I haven't thought of any, like, I haven't looked at anything with like a humorous perspective today or for whatever, how many hours. And it's almost like that can shift either by you consciously making an effort to do it
+
+30:55.362 --> 31:20.670
+or by the company you keep. Because like, obviously, if you're hanging out with comedians, people, it's like, just by being around them, your brain just shifts to like, joke mode. You know what I mean? Like, you're just, you're thinking in those terms. Or if you're working on something, like you're writing a script or something, your brain is like, actively, even when you're not trying to, it's like thinking of that story and thinking of jokes for the story. So
+
+31:21.250 --> 31:51.166
+The answer is like, you know, depending on the day, it can be like all day you're just like joking, joking, joking. And like you're just, in my case, like, you know, saying mostly like awful things because that's what makes me laugh, I think. You know what I mean? Like whether it's with friends or family, just like trying to make yourself laugh, really. And then there's days where it's like, you know, you're in like a completely serious mindset where you're like nothing humorous is occurring to me at all.
+
+31:52.130 --> 32:20.734
+You happen to be married to a comedian. Yeah. Which probably helps your home life in the sense that, you know, has she ever been offended by one of your jokes? You know, early on, I remember, like, we would have conversations where I would say, I more, it was more like the fact that I would, I remember I'd pitch, like, a joke idea, and she would be like, that's fucking awful. And then I would, I told her, I go, you know, whenever you think something is awful, you know,
+
+32:21.058 --> 32:50.494
+I know it's going to be good on stage. And she was like, that's horrible to say. I was like, no, it's true. Like, if you have disdain for what I said, then I'm pretty confident that it's going to work. And it was kind of like that. But no, for the most part, no. And she says wildly inappropriate and crazy funny things. Like, often way over my line. You know what I mean? Not where I'm offended, where I'm like, Jesus Christ. Like, yeah, she says crazy shit.
+
+32:50.946 --> 33:19.710
+Really crazy. Has she ever offended you to the point where you're like, you can't tell that joke in public? Our family will suffer. No, I've never had, we've never had that conversation. Sometimes we have what makes this joke digestible conversations. We're like, we talk about a bit and we're like, and then this is, the punchline is like in this world. And it's like, okay, you got to find a way to say that
+
+33:20.322 --> 33:46.302
+that is going to be digestible to the, to like, so you actually look for like your own advantage. What I mean is like, you know, as a woman, I go like, you can shit on women harder because you're a woman. So like, you should find your way into that bit from the perspective that like, you're actually, you know what I mean? Like you're actually shit. Like I was like, if you're a woman, you can, it's like a black comic can talk about black, black,
+
+33:46.690 --> 34:15.198
+Like, that's, you're talking about your own. So, like, we'll talk about things like that. Like, you can take this angle. And then the joke becomes digestible. So we'll talk about, like, reframing material. And then to me, she's like, yeah, you're just a white guy. You can, apparently you guys can say anything. Oh, yeah, really. On the other hand, comedians and what's allowed in comedy at a given time has a powerful influence on
+
+34:15.489 --> 34:44.766
+Yeah. What you can say, what you can't say. Has any comedian ever been canceled for what they said as part of a bit? I mean, we've got these examples of these, I consider them kind of sad instances where people kind of break down on stage, have an interaction with someone in the audience and it really hurts their career and it's super offensive, but that's clearly not part of the bit. Right. Has a comedian ever been canceled for like, here was the bit and they're done? I don't.
+
+34:45.282 --> 35:03.902
+I can't tell you that it comes to, like, the top of my head thinking about that. I know there's been, like – I remember there's a Canadian comic that in Canada has some, like, bizarre, to my experience, free speech rules. Oh, okay. I was going to say comics. I was like – I always think of Canadians as so –
+
+35:04.290 --> 35:31.198
+kind and well-behaved. And they have some amazing comedians. They also have some crazy serial killer stories up there, I discovered. Really? Yeah. I mean, this idea that Canada is just all, like, nicer Americans is not true. No, no. They're wonderful Canadians, but they're not all nice. No, for sure they're not all nice. No, there's some real fucking pricks up there. Yeah, I've met a few. But there's amazing, I mean, you know, obviously you think of, like, Norm MacDonald and...
+
+35:31.394 --> 35:55.870
+like Myers, Ian Bagg, like all these, there's really, really funny Canadian comics. But I remember that there was, not too long ago, I'm sure we could find it, there's a Canadian comic that like, he went after some woman in the crowd, like, you know, shut her down, said something offensive, whatever, and he got arrested.
+
+35:56.098 --> 36:24.606
+You know, and like, yeah. Arrested. Yeah, yeah. Arrested and had to pay like substantial fines. This is like Lenny Bruce days. Yeah, it's really crazy. And this was not, I don't mean like 25 years ago. I mean like sometime in the last five years. Whoa. Yeah. So I know there are rules. So that's like the first thing that I think of when you say that. I also just don't feel like when people talk about, you know, like cancel culture with comedians or like Elon's stupid business.
+
+36:24.738 --> 36:52.094
+fucking make comedy legal again, goofy shit that he said. It's like, what are you talking about? Like, there is no... You can say whatever you want to say. The thing you're pointing... The thing you're really trying to talk about is the fact that, like, people react and you know about it, right? Like, 30 years ago, there were people that hated, I'm sure, Robin Williams and, you know, Carlin. Like, they hated them. The difference is they would just...
+
+36:52.258 --> 37:21.182
+tell their friend, and if they really wanted to make a point, they'd get a pen and a paper and buy a fucking stamp and mail them a letter. Like now you have social media platforms and people can make videos and like go crazy and you just hear the noise. But that's not like humanity has changed. You just hear people telling you that they don't like what you did or that they don't think you're funny or whatever. It's not like they didn't, that didn't exist before, but that's also because humanity
+
+37:21.890 --> 37:44.478
+thanks in large part to Rogan, but to others as well. Most comedians seem to control the venues in which they release their information, podcasts. Yeah. You know, I guess you could be thrown out of a club and not be able to present your material there, but there's probably another one that you could open up and that's happened too. Yeah. But podcasts, people will now release podcasts
+
+37:44.578 --> 38:12.990
+their own specials where, you know, it's paid a view. There's Netflix. There's a bunch of different venues where it doesn't seem like comedy is as centralized anymore, controlled by the major media houses. That is true. It's in complete control of the comedians themselves. Like, you are, you can put up clips of you doing stand-up. You can make skits. You can do short films. You can do whatever, and you can release it and find an audience, like they say, you know? Like, have an audience come to you. But
+
+38:13.218 --> 38:39.102
+I just don't buy this whole thing that like, you know, you can't joke about that. You can joke about whatever you want, man. But not at work. I mean, if someone makes a joke or repeats a joke, let's say an academic setting, for instance, or the office place. No, your guy's world is the worst when it comes to that. The academic world is... Actually, it's interesting. In the last five to eight years, the academic world has actually, from this...
+
+38:39.490 --> 38:54.910
+around this topic has become safer because the rules are very clear. They're what I call thick black lines, right? It's when things are murky that people got themselves in trouble. Sure. Right. So if you look 10 years back, it was really complicated. Now everyone kind of,
+
+38:55.170 --> 39:23.358
+knows what the standard is. Might be uncomfortable for some, not for others, but they know what the standard is. It's very easy to adhere to a standard if you know where the fences are. Sure. Where it seems to be still murky is in the workplace. Like in the boardroom, you'll hear about, you know, like tech companies or in finance or at startups, right? Because startups, when they're small, typically don't have an HR department. The HR department is kind of the standards that you create around the, you know, the office, which could be a garage, right? So that's typically when
+
+39:23.682 --> 39:46.974
+When things aren't well defined is when there are problems. So, yes, it's rigid in certain areas like academia, law offices, et cetera. But everyone knows what the rules are. Yeah. I'm not saying it's good or bad. I'm just saying you know what they are. But I feel like we're talking about in comedy as a profession. Like, you know, you can joke about whatever you want, dude.
+
+39:47.106 --> 40:17.054
+What you can't dictate is how people will react to it. And if you're trying to say, like, because some comedians do this, where they go, this was the joke. And what I'm mad about and what I'm going to be vocal about and complain about is that not everybody liked it. You're like, yeah, that's not, I mean, that's essentially what they're doing. They throw a tantrum over the fact that some people are upset at the joke. You're like, yeah, that's how it goes. Like, either it goes really well or it doesn't. And you can't go, oh, see,
+
+40:17.442 --> 40:47.134
+I can't joke about stuff because look how they reacted. You're like, that's how this works. Like, what you can also do is completely ignore that. And if you want, double down on your joke. Keep going. Do a crazier version of your joke. But just be prepared that not everyone's going to go, that was the greatest thing ever. And that's what some comics do is they go, I can't believe not everybody is applauding me on this thing. They'll liken it to cancel culture, which is insane. Right.
+
+40:47.810 --> 41:13.022
+Yeah, you have to be a professional, and part of being a professional is how it lands, as important as... You just have no say in that. I'm always fascinated by comics who will smirk or laugh a little bit at their own joke. And assuming that certain jokes and bits work exceptionally well, and you carry them forward from, you know, trying it out to, you know...
+
+41:13.122 --> 41:40.926
+Netflix specials or big venues, huge venues. You do huge venues. You and Bird do huge venues. Do you ever get tired of the material and worry that your response is not going to, that your amusement won't be there and therefore they won't respond to it? This is two questions woven, I'm realizing. Do you think your own amusement with a joke has an impact on how it lands? That's question one. And woven in with that is how do you then work with the idea that every time you tell a joke, it might not be as funny as the previous time?
+
+41:41.250 --> 42:06.654
+No, those are great questions. Yeah, I feel like if I'm smirking or laughing at a joke of mine, it's probably organic. I don't try to, like, manufacture one. You still want to enjoy the process of performing it. And when you lose that enjoyment of performing it, I do think...
+
+42:07.298 --> 42:33.406
+the audience knows on like an unspoken level. There's something about it that doesn't come across the same way. And yeah, you, you sense it. And I think typically what happens, what's happened to me over time is if you're on tour and you're kind of like, your brain is like walking up to this bit, like you, you know, it's next. And you start to like internally go like, ah, this fucking bit. Like what happens naturally is you start to drop it.
+
+42:33.506 --> 42:59.518
+And you're essentially listening to yourself. It's one of those – it's like the same way you go, I should – I don't like this person, right? You go like, I don't think I want to be friends with this person. And you kind of like don't return a text or you go, I'm not going to hang out with you. Slow exit. It's a slow exit. And what happens is you drop it. And the great thing about dropping it is your brain goes, hey, you have room for something now. And that room for something –
+
+42:59.650 --> 43:28.030
+also prompts your brain to start thinking of new things. That's how you kind of come up with new material. But you have to... This is the danger, by the way, of these comedians. Sometimes there's these comics who are, like, really funny, really talented people, and they'll do... They'll have a 20-minute set, right? You'll be working in clubs, and you see them do a 20-minute set, and then they murder, right? They fucking kill so hard. And then, like, five years later, you see them...
+
+43:28.226 --> 43:56.510
+And they're doing that 20-minute set. And what happens is, it's like a very natural thing that you just have to deal with, is they have this great fear of not killing that hard anymore. So they don't stop doing that 20 minutes. And by not stopping, they just stop evolving. And they stop creating. And they're just like, they're the 20-minute set guy. You go like, yeah, they have that great 20 minutes. And then it starts to get dated. And then, you know what I mean? It's like mbop.
+
+43:57.378 --> 44:26.398
+It's exactly... Only a fraction of the audience will know what I'm talking about. There was a song that was like the song for a summer. You could replace Mbop with any... Like a song for a summer way back when. Yeah, it's a summer hit. It was everywhere. And then the band just disappears because the one hit wonder phenomenon. You have to like... Because you'll see the very best comics will do this. And like it's kind of something you have to wrap your head around. But then you... Once you do this long enough, you go like, oh shit. The most elite comics...
+
+44:26.658 --> 44:50.750
+are completely willing to bomb at these workout shows. Not like at their hour huge show, but like at workout shows, super elite comics will go up there and be like, I'm just going to do it. Because they know that you have to be willing to eat shit to come up with something really good. And sometimes you'll watch them like bomb and...
+
+44:51.170 --> 45:20.862
+your own insecurities flare up. You're like, oh my God, this is horrible. Like, I can't believe like all these people are going to be like, you suck, you know? And these guys don't care. They don't care because they know that's, they know you have to train to get stronger. It's so beautiful. Yeah. You know, when Josh Waitzkin was on this podcast and he also did a conversation with Rogan, which is different. And if somebody is interested in this stuff, they should check out both because they're complimentary conversations. But Josh was this child prodigy chess champion and then went on to do a bunch of other things.
+
+45:20.994 --> 45:49.950
+at extremely high level, he talks about the need and his lack of fear, which is very admirable for cutting ties with your previous self. Just being willing to say, you know what? Like that was a NBA championship. He works with the Boston Celtics. So this is very relevant right now. Or, but that was last year. We're a new team now. We're not the defending champions. Yeah. Or musician had a platinum album or this was a particularly successful podcast run and just cut ties with it and be willing to just go completely now and future. You mentioned Rick. One of the things that,
+
+45:50.050 --> 46:12.222
+I've benefited so much from being friends with Rick, in addition to the fact that I just adore the guy. Yeah. Is that he has so many stories about things from the past, if you ask him, but he never brings that stuff up. You know, he'll, he'll indulge you if you say, tell me a story about Joe Strummer or something. He'll tell me. Yeah. But he really lives now and forward. Yeah. And I think it's the weight skin that says, you know, you want,
+
+46:12.322 --> 46:42.238
+You don't want to be on the train of life. You want to be strapped to the front end, you know, experiencing space and time as it's unfolding, which is a very philosophical way to put this. But that challenge of cutting ties with your previous self to continue to evolve your craft is so hard, but it's exactly what you're describing. I mean, like I had this rule, I had this rule early on that I think it was, I was just lucky that I told myself this, which is that I recorded an album, I think in 2010. And, you know, I was,
+
+46:42.498 --> 47:09.758
+you kind of want to get like a special and a deal, but I didn't have one. So I recorded an album and I put out the album. And at that time, you know, people are buying these comedy albums and you start starting to stream stuff. And you also physical copies are still a thing. Cause this is like 2010. And so this was my work. Like I, from when I started stand up to this album, this was like,
+
+47:10.242 --> 47:37.566
+the best I could do, right? This was all my best stand-up. And I put it out, and like, yeah, I mean, I had some marginal success with it. Like, I was selling a lot of copies or whatever. I told myself that even though I was not a ticket-selling comedian, that everybody who was at a show had heard that album. Like, that they all knew it, which was completely not true. But by doing that to myself, it made me go, well, I need a new hour, right? So...
+
+47:37.922 --> 48:07.838
+I was lucky that I thought that way because I could have stayed doing a lot of that album because those were like really, like really worked out bits that would just crush. But I was just like, I knew that like I wouldn't move on and evolve if I just kept doing them. And that was a thing that I did. And then the next thing I did was another album and I did that again. I was just like, I gotta like drop this stuff and move on. And that's, I think what helped me and a bunch of other comics
+
+48:07.938 --> 48:36.606
+who like now we're in the practice of like shooting specials and then you just drop all of it and you go back to square one. But like that helps you to continue being creative in standup. You have to just drop stuff. I love it. I think this pertains to so many, basically all creative forms. As many of you know, I've been taking AG1 daily for more than 13 years. However, I've now found an even better vitamin mineral probiotic drink. That new and better drink is...
+
+48:37.058 --> 49:07.024
+the new and improved AG1, which just launched this month. This next-gen formula from AG1 is a more advanced, clinically-backed version of the product that I've been taking daily for years. It includes new bioavailable nutrients and enhanced probiotics. The next-gen formula is based on exciting new research on the effects of probiotics on the gut microbiome, and it now includes several specific clinically-studied probiotic strains that have been shown to support both digestive health and immune system health, as well as to improve bowel regularity and to
+
+49:07.024 --> 49:07.966
+reduce bloating.
+
+49:08.098 --> 49:38.064
+As someone who's been involved in research science for more than three decades and in health and fitness for equally as long, I'm constantly looking for the best tools to improve my mental health, physical health, and performance. I discovered and started taking AG1 way back in 2012, long before I ever had a podcast, and I've been taking it every day since. I find that it greatly improves all aspects of my health. I just feel so much better when I take it. With each passing year, and by the way, I'm turning 50 this September, I continue to feel better and better, and I attribute a lot of
+
+49:38.064 --> 49:39.294
+that to AG1.
+
+49:39.426 --> 50:09.392
+AG1 uses the highest quality ingredients in the right combinations, and they're constantly improving their formulas without increasing the cost. So I'm honored to have them as a sponsor of this podcast. If you'd like to try AG1, you can go to drinkag1.com slash Huberman to claim a special offer. Right now, AG1 is giving away an AG1 welcome kit with five free travel packs and a free bottle of vitamin D3 K2. Again, go to drinkag1.com slash Huberman to claim the special welcome kit with five free travel packs and a free bottle of vitamin D3 K2.
+
+50:09.392 --> 50:16.126
+of vitamin D3 K2. Today's episode is also brought to us by David. David makes a protein bar unlike any other.
+
+50:16.226 --> 50:43.614
+It has 28 grams of protein, only 150 calories and zero grams of sugar. That's right, 28 grams of protein and 75% of its calories come from protein. This is 50% higher than the next closest protein bar. David protein bars also taste amazing. Even the texture is amazing. My favorite bar is the chocolate chip cookie dough, but then again, I also like the new chocolate peanut butter flavor and the chocolate brownie flavored. Basically, I like all the flavors a lot. They're all incredibly delicious.
+
+50:43.778 --> 51:09.598
+The toughest challenge is knowing which ones to eat on which days and how many times per day. I limit myself to two per day, but I absolutely love them. With David, I'm able to get 28 grams of protein in the calories of a snack, which makes it easy to hit my protein goals of one gram of protein per pound of body weight per day, and it allows me to do so without ingesting too many calories. I'll eat a David protein bar most afternoons as a snack, and I always keep one with me when I'm out of the house or traveling.
+
+51:09.698 --> 51:37.822
+They're incredibly delicious. And given that they have 28 grams of protein, they're really satisfying for having just 150 calories. If you'd like to try David, you can go to davidprotein.com slash Huberman. Again, that's davidprotein.com slash Huberman. On the topic of the finding the material humorous or being excited about the material being crucial to how it lands with the audience. I'm going to make this very brief. When I was an undergraduate, I was interested in
+
+51:37.954 --> 52:07.678
+what makes something funny, the psychology and neuroscience of humor. And there wasn't a whole lot of neuroscience on it at that time. But the basic takeaway from the literature, as I recall, was that the listener thinks that a narrative is going one way, and then there's this surprise element, something you didn't anticipate coming. I think that characterizes a lot of bits and a lot of jokes. 100%. Whoa, it's the pop. However, I've also seen you do bits and other people do bits where you're headed down a trail and I'm thinking, oh no,
+
+52:07.874 --> 52:37.278
+he's not going there, is he? And you go there, and that's hysterical also. Yeah. So is there a name for this, or how does it work? No, I think, I mean, you're right. The most basic necessity for, I think, comedy at a very baseline level to explain it or, you know, define it is the element of surprise, right? The surprise is like, so it's that thing, if you go, I know where this is going, you're not going to react the same way. If it gets you, it's oh my God. But that second...
+
+52:37.730 --> 52:55.966
+description of like, is that person going somewhere? I think that satisfies something in human beings, which is somebody saying the thing that we all want to say. And you can't say it. You can't say it. You can't say it in polite society. You can't say it at a
+
+52:56.130 --> 53:25.598
+at a nice dinner function. You can't say it at work. And you're just like, God, this is what I think. And you know, other people think it. And then the guy's up there and he's going like, hey, you want to hear some shit? Like somebody says it and everyone goes, this is, it becomes a release. It's a release of like, oh, he's saying the thing that we all wish we could say. And you're saying it, you know, it's a very particular thing because it actually is, it works because you're in that building too.
+
+53:25.698 --> 53:50.782
+It works because you all have the unspoken agreement that this is a place to do this in, right? It's still different. Like, if I just walk up to you on the street and start saying that shit, you're like, Jesus Christ, dude. Like, you're a psycho. Lock him up. Yeah. But, like, in this context. So both things satisfy something, I think, in the humor realm, right? The element of surprise will always be something, like the unexpected. Yeah.
+
+53:50.882 --> 54:15.870
+But there's also this, like, condition I think we live with where we go, we all think this, but we can't say it. And that's a very satisfying thing when somebody says it. Well, I had the great benefit of getting a sneak peek at bad thoughts. Oh, yeah. Thanks. And it's amazing. People should definitely check it out. And I don't want to give anything away, but the second one in the sequence that I watched...
+
+54:16.578 --> 54:46.206
+I thought, there's no way he's doing this. And it just kept coming at me. I was like, there's no way. Went to sleep last night. And this doesn't happen to me in a long time. I woke up laughing. Oh, yeah. Which is a wonderful experience. Yeah, that is really nice. There are only a few states of mind and body that you wake up in and you're like, well, that was amazing. And I woke up laughing. Oh, that's awesome. So it's seeded into my unconscious. So now I'm worried I'm going to say some of the things that you said. I hope you do. But one thing that occurred to me in watching Bad Thoughts is that
+
+54:46.786 --> 55:01.406
+you're not just a phenomenal comedian, but you're also a really good actor. Oh, thank you. And a number of comedians seem able to act, which is surprising to me for reasons that don't make any sense to me. I know. But, you know, if you look at –
+
+55:01.858 --> 55:31.678
+athletes often are terrible actors. Yes. I mean, some of the best acting that athletes have done is when they're playing kind of a buffoon or they're supposed to not be able to act well. I think of some of like the Naked Gun movies and things like that. Shout out to OJ, right? To OJ, right? I mean, he's not a good actor. Yeah. And it worked because he wasn't a good actor. Yeah. But you're a very good actor. Thank you. Like, did you train for it? I loved making people laugh. And the first thing I did like in performing was, you know, I did like a play as a kid. I did an improv thing.
+
+55:31.938 --> 55:56.414
+troupe at 14 which is pretty young to be in an improv troupe i did that for like a summer and my whole thing was i wanted to make movies like i had a plan when i was in college i would i worked i had the communications track so we would do tv radio production and when we had video projects i would always do like comedy things and everybody would be like what are you doing why are you making this like you're supposed to be making like a
+
+55:56.610 --> 56:25.150
+a video about the soccer program, you know? And I'm like, I was like, this is a, like, this is a capsule you put in your ass and it freezes your shit. Like, I would make, like, diarrhea commercials and they were like, don't do that. But this was the stuff that would make, I was like, making me laugh. And I wanted to make movies and I just was like, you know, that was what I wanted to do. And then I moved out here and I had learned, I knew that at the time some of these big comedy movie people, um,
+
+56:25.538 --> 56:51.838
+were a product of SNL and that those people were usually products of Second City or the Groundlings. And since I moved to LA, the Groundlings were big in LA. It's the improv school and a performance plug they put on shows. I was like, that's what I'll do. I'll just go to the Groundlings. And I took some classes there and I got through a few levels, but I had
+
+56:52.866 --> 57:21.950
+I got into standup shortly thereafter that. Some of my improv friends were like, you should try standup. And I got so hooked by standup. And I also saw a path because I was also like, well, you have to make a living, right? And the actor's life to me is so unsettling with like, you're on a show. And then they're like, I don't have a gig anymore. Like to me, the fact that standup, even though it's very, very, very low pay, especially like as you're getting into it, the fact that you can just like keep doing it
+
+57:22.210 --> 57:47.646
+like to me, like made sense. It like soothed me. And I, I feel like, you know, I kind of stopped training as far as I did another acting class in LA at that time, like early on, but I, um, I always just wanted to keep doing it, you know? And so every once in a while I would make like a short film, like I made a few short films with friends or like, you know, comedy, comedy shorts. Um, um,
+
+57:47.874 --> 58:08.062
+And I auditioned for some things. You know, I did small parts here and there, but I never really got to do all the types of things I wanted to do. So this show became like this incredible opportunity where I was like, where are we going to tell this type of story, this type of story? Because it's essentially a collection of short stories is what the show is, right? And some of them are...
+
+58:08.770 --> 58:36.222
+Self-contained, some of them are two-part, three-part, but it allowed me as an actor to play all these different roles, which was like so fun. It felt like I was doing like 20, like the 20 years I didn't really act that much. I got to like throw in all these different characters in the show. Well, you're a very fine actor. Thank you. As they say, it was, I was like, oh, he's acting. This isn't just, you know, standup. Yeah. You know, standup is its own thing. In previous episodes,
+
+58:36.610 --> 59:01.694
+Netflix specials, but I've also seen you do these in, uh, these bits in smaller clubs, like at the belly up in Aspen. That's right. Smaller place. That's right. Where we just coincidentally wore the exact same clothing. So we're same flannel, same jeans, same Adidas. That was really weird. That's DNA. We did not coordinate. That's DNA. That's DNA. And the, the, um, cosmic correspondence of the butterfly effect. That's yes. I was like, my dad was trying to explain to me at one point. Um, yeah.
+
+59:02.754 --> 59:26.494
+you do voices very well, in particular, the voices of your kids. And you're able, I always think that when somebody impersonates somebody else, it's about grabbing the key elements and like not the whole piece. They don't like turn around and like come back as, you know, like, right. Like some people can just grab a few key elements of somebody in this case, someone we've never met. It was your sons. And they,
+
+59:26.978 --> 59:53.790
+we feel like we know them and we're getting the, like, what clearly are key features of their personality coming through. Do you practice those or you just observe and it just is kind of embedded in you? I think it's observed and embedded. And I think in that case in particular, because with your kids, there's this thing that happens where you talk about your kids a lot, not on stage. In other words, you know, I'm talking to my sisters or I'm talking to a friend about the kids. So you're, you're kind of like, you get this extra, you know,
+
+59:54.274 --> 01:00:19.582
+practice about them because they are so much something that people always are like, how are your kids? Right. And so you're just like, oh, I got home. This little shit came in. He was like, hey, fucking pick me up. You know, like so you start like doing impressions. Which one is that? That's the little guy. Oh, yeah. He sounds like a piece of work. He is a piece of work, dude. He is something else. He's like, it's so funny. We call it sometimes we call him little Joe Pesci because he's just like, what the fuck?
+
+01:00:19.682 --> 01:00:46.526
+Fuck. We're like, yo, man. Like, I don't say that in front of him. He's six. Oh, my goodness. He's six. And he's like, he's fucking with me all day, Dad. Did he get that from you or from your wife? I feel like it's more her. I feel like she's got those Hungarian roots where they, like, when I was a kid in our house, there was not a lot of cursing, dude. Oh, no, I'd get whacked if I. Oh, yeah. No, I hit. You know, I think if I talk back, it only happened twice in my life.
+
+01:00:46.722 --> 01:01:10.686
+I spoke back. I won't say to which parent. And I got hit. Okay. Nowadays, people are like, oh, he was beaten up. I'm fine. Okay? I don't swear at people. Yeah. Very often. It's an extreme circumstance. Yeah. Okay. But he swears all the time, apparently. Dude. I mean, to the point where we're... I mean, like, I know people... Whenever you talk about this, people are like, you're a bad dad. I'm like, shut the fuck up. Like, you've never been around...
+
+01:01:10.786 --> 01:01:20.254
+Like, these boys are, I have two little wild dudes. They're, by the way, I always share stories of, like, extremes. Like, they're sweet, adorable, loving people.
+
+01:01:20.354 --> 01:01:49.118
+Wonderful kids, right? But they're just two little dudes who like I come home and they're like torture time. They call it torture time where like I lay down and then they just get to like fuck me up. And then they'll think they're stronger than me. And I'm like, bro, like, let me, do you want to feel this? And I just put them in like some crazy, you know, rap where they go, okay, okay, okay, okay, okay. I'm like, yeah. How's the older one? He's nine. He's nine. Dude, I get home every day. He's like, check this out.
+
+01:01:49.250 --> 01:02:05.086
+He takes off his shirt and he's like, he flexes. He's like, I'm going to be so jacked by high school. I'm like, yeah, yes, probably. And he's lean. Like he's got like, he's got the body for it. He's going to like, we go to the park and he's just sitting there doing pull-ups and he'll bring weights.
+
+01:02:05.410 --> 01:02:29.918
+They bring weights to the park. And you see, like, other kids. Dude, that's the age to start. There's an Instagram account of this guy. I'll dig it up for the captions. His daughter is probably 11. And she's doing pull-ups with a 45-pound plate and ankle weights strapped to her waist. Really? And she's doing pull-ups to the chest. And she's not, you know, built yet. She's clearly before puberty. And she's just, but just, just.
+
+01:02:30.082 --> 01:02:53.246
+I'm like, oh my goodness. You just imagine like the tendon strength, the joint strength. Going to be, yeah, a little gymnast perhaps. He's so into it talking about six packs. I think I could have a six pack soon. I'm like, yeah, sure. Keep going, man. He goes, why don't you have one? I'm like, just fucking, he's already busting your balls. You told me a story once over dinner about your son learning piano.
+
+01:02:53.634 --> 01:03:23.070
+I don't know if you remember that. I think it was the younger one. And it was something like, you know, like, how's piano going? And you're like, and you're saying, he goes, it fucking sucks. You know, like, that's it. It sounds like that's his response. He's just, he's ready to pop back all the time. Always. No, he's completely ready. He, the funniest thing that he did recently was, we've, they both go to jujitsu. Okay. And the older one's really thriving. Like, he's, he has a skill for it, you know, he's, and he's doing it well.
+
+01:03:23.266 --> 01:03:52.222
+moving up and the younger guy i mean you know he's like a puppy like just a little it started when he was five like they're just it's just different right you're pretty young and so we're we're at class and he goes i'm not doing this anymore and i'm like what do you mean he goes i'm too busy man and i go what he goes he goes my schedule i go your schedule i go okay tell tell the instructor so that guy comes over you know and he goes
+
+01:03:52.738 --> 01:04:20.510
+hey, how'd you enjoy class today, Julian? And he was like, good, but I'm done. And he goes, what do you mean you're done? And he goes, I'm too busy, man. He's like, what are you too busy with? He goes, I have kindergarten, I have Spanish, I have drums, I don't have time for this. And I go, I'm sitting there like, this is insane. And that guy goes, but you know what? You gotta be strong in this world, don't you? And he goes, yeah. He goes, yeah, there's no option for being strong. So,
+
+01:04:21.122 --> 01:04:48.926
+because you can't have the option to not be strong, right? And Julian's like, that's right. He's like, great. So I'll see you Thursday. And he goes, I told you I'm way too busy. And then he just was like, I'm not doing this anymore. I'm like, okay, dude. He's done. He's done. I mean, I also like. He can really advocate for himself. He definitely advocates for himself. I just, I've never been the, you know, the type where like, you have to do these. Like, I feel like the fun thing about,
+
+01:04:49.186 --> 01:05:15.902
+kid boy or girl with sports is expose them to a lot of sports and I don't want to like you know go you have to do these like whatever sport you like you can do that one clearly like this wasn't the one that drew him in enough and I'm totally fine with it it's like cool you want to try tennis you want to try soccer you want like I'll let him try all the sports I want them to be in activities but I'm not gonna be like you have to do all these sports you know meanwhile they're
+
+01:05:16.610 --> 01:05:45.918
+becoming comics in their mind. Oh, they're, yeah. Both parents are comics. They're funny dudes. They are very funny. Yeah. And they love to laugh. And it's fun because you see kids, when a kid says something that's genuinely funny and you start laughing, you see like that look in their eye. They're like, oh, that was, that's cool. Then you just try to like do it again. And if they do it too much, you're like, yeah, it's not funny anymore. You can't do it that much. Yeah, that is a perfect cue for me to ask what I was going to ask earlier when we were talking about when you
+
+01:05:46.050 --> 01:06:14.334
+are amused by something you really delight in telling this bit. It impacts the audience and how it lands. There's a very famous patient in neuroscience, probably the most famous patient, his name is HM. We don't know his real name. He's dead now, but he had a lesion to his hippocampus, this brain area involved in memory. And he was studied extensively for decades. And most of what we know about human memory is from this guy. All the other stuff we know from mouse studies, a little bit from monkey studies. Wow. So-
+
+01:06:14.530 --> 01:06:37.246
+There's a very well-known study where you go in and he has no retrograde memory. He can't remember anything that you told him before. Like within a matter of seconds, he forgets it completely. And they've tested this every which way, okay? Holy shit. His brain is now in a jar, it's been scanned, et cetera. But so the study goes something like this. You go in and you tell HM a joke and he laughs. And-
+
+01:06:37.378 --> 01:07:00.414
+He thinks it's very funny. Then you leave, you come back and he doesn't remember who you are. This has been tested again and again. He's not fibbing. Okay. And there are a number of ways that you can, you can measure this, especially if you make it, um, sadly, like some survival based things like, yeah, you tell him the joke again and he laughs again, but a little less. And the next time a little less and a little less. And eventually he's like, you had a,
+
+01:07:00.514 --> 01:07:25.342
+not really funny. Yeah. Same joke. He does not remember the joke, but there seems to be some unconscious memory of the joke, which I always found fascinating. So it's like, it's almost like that the narrative around something we get saturated to it. We're all familiar with a friend at a dinner party that tells a joke and everybody laughs and then they make the cardinal mistake, which is to tell the joke again at the same dinner. Hmm.
+
+01:07:25.442 --> 01:07:51.102
+And it just burns it. It burns it there and it burns it the previous time. So what do you, I mean, I'm not asking you to be a neurologist or a neuroscientist, but what do you think is going on here? Not necessarily in HM, the patient, but there's something about telling that funny punchline twice that you just, I feel like men, like guys seem to do this more. It's like, you got it. You nailed it. Yes. Do not tell the joke again. Well, every guy thinks he can fight, fuck, fuck,
+
+01:07:51.202 --> 01:08:21.182
+is funny and can drive. Those are the four things that every guy thinks he's awesome at. And you're lucky if you're marginal at one. Every guy thinks, you know what I mean? Every dude is like, I can do it. I can drive. I'm hilarious. I can fight chicks. Like every guy has this thing. And then the more self-aware ones go like, I'm not good at these. I'm good at this one. So I'll train. You know what I mean? Like that's... Cross-train. Cross-train, man. You got to do them all. But the funny thing is when you were talking about HM, what I thought you were going to, the point you were making is that...
+
+01:08:21.377 --> 01:08:50.878
+you go back in and it's not HM that is not laughing anymore at the funny thing. It's that the person telling is that you lose something. Cause there is this thing in standup that is like a phenomenon. Like I don't have the answer to, but any comedian you talk to will, will, will tell you that this is true where you go and you say this thing, right? It might be like your opening thing or it could be a couple minutes in and you, you let you, you say the joke, you tell the thing and it kills and you're like,
+
+01:08:51.490 --> 01:09:21.342
+fuck yeah, this is awesome. You know, like your brain just goes like, lock it in. And then the next night you go and you say it and it gets laughs, but it's like, it's a little less. And then this progresses, like you keep doing shows and it's like two months later and you're like, the thing's like not, it doesn't really work. And you go listen to like, I think I'm saying it the same way. It's like, there's this, like sometimes there's this thing where it's like, there's like a magical quality
+
+01:09:21.442 --> 01:09:46.846
+of like if it just streamed out of you once, in this setting, in this room, at this moment, there's something about the way that you said it and the timing with which you said it that it evoked all this laughter and that for some reason, this thing no longer connects and just it doesn't register. And you try to do the analysis of why that is the case. And you...
+
+01:09:47.042 --> 01:10:15.934
+You essentially just end up doing this. You're just like, I don't know why, but it just stopped being funny. To all new audiences, it killed over here. It doesn't work here. It's so interesting. I'm obsessed with mainly two things, time perception and state changes in the human brain. We know so much about REM sleep and slow wave sleep. We know very little about waking states, like alert and focused, or like we have these terms, but like there's so much more going on there. And so the question is this, we're at,
+
+01:10:16.354 --> 01:10:42.942
+a club or a stadium and you're going to go on, but I go on first, which means my bit sucks. It just sucks because I'm not a comedian. Someone else goes on, let's say Brian Holtzman, I find very funny. Yeah, yeah. He's good, right? I mean, when he's on, he's really on and very funny. Holtzman goes on and does really well. Yeah. Who do you want to follow? Holtzman. Because the crowd is in a state of being ready to...
+
+01:10:43.362 --> 01:11:08.830
+receive the jokes exactly yeah yeah I feel like when you're when you're newer the probably the typical answer for most comedians would be like I want to follow the guy that didn't do well right because then like I can save the day but the longer you do it you realize that's not actually like you actually want the guy in front of you to do well even really well because
+
+01:11:08.930 --> 01:11:36.158
+It does generate this thing of like, this is what this is. We're at a place of doing this. It's jokes. It's fun. And, you know, we kind of borrow the term ride their wave. Like that guy just created a wave. And if you can jump on it, sometimes you have to reset. You have to like, you know, you're kind of letting the audience know this is a different thing, especially if they like absolutely murder. Like if they destroy, you're like, whoa, like you just kind of go,
+
+01:11:36.290 --> 01:12:04.894
+yeah, I'm a new person. And the thing is, you don't want to go like, I'm scared that that happened. You just go, this is my thing now. But you have them in the state of, this is, we're here to laugh. Whereas the guy who just like ate shit, they are all like, what the fuck is this? And then, you know, they basically dug a hole. So then you go up there being, you're now the person that has to like set the table and be like,
+
+01:12:05.058 --> 01:12:29.022
+So I know that last thing felt like a fucking eulogy. So now I will try to get you out of feeling the way you feel and make you understand that it's joke time. You'll often start slower by following the person that did poorly, right? You think it's, oh, you're funny. It's now going to go well. You have to like cook it back up. So following the good comic is always the better choice.
+
+01:12:29.250 --> 01:12:56.702
+I'm thinking of giving toasts at weddings. Yeah. Like if somebody gives a really great toast, giving the next toast, you know, saying, oh, that's a hard act to follow. No, actually it's an easy act to follow. Yeah. Because everyone's just kind of basking in whatever just happens. Sounds similar. That's right. If these state changes, whether or not we're talking about running or you're talking about cannabis or you're talking about whatever it is, I mean, I find that so much of the creative process or the constructive process, science or comedy or whatever, is about
+
+01:12:56.802 --> 01:13:22.558
+accessing these states and we learn how to do it through what kind of becomes an unconscious process, but you know how to get there again and again. And so much of becoming a professional is about going through the peaks and valleys of, you know, bombing and coming back. Totally. You know, so I'm curious before you go out on stage now, given the size of the crowds, is just the kind of memory of what's about to happen sufficient to put you in state? Yeah.
+
+01:13:23.490 --> 01:13:51.550
+So the thing is, the longer you do it and the more shows you do, you've kind of performed in every state. Sometimes you have to remind, I like to remind myself that I'm at my funniest and I'm the best version of myself on stage when I have a silly mindset going. Meaning like just, just like goofing off, like being a kid almost. So if I'm backstage and I have you in there and I'm just saying, you know, I'm like,
+
+01:13:52.034 --> 01:14:15.902
+Not like roasting you, but like, you know, being silly. I can tell you. We're related. Yeah. Just like being silly. I feel like that mindset is like the best version of me to go on stage. And you can forget it, by the way. I forget it all the time, right? Because I've performed tired, upset, sad, anxious. Like I've performed in every possible state. But I do like to...
+
+01:14:16.098 --> 01:14:44.222
+to tell myself, like, oh, yeah, don't forget, kind of like, get yourself into this silly state. I also like some, like, I'm kind of an introvert, right? Like, there's some true extrovert comics, like Buddy Burt's like a true extrovert. And like, his green room before a show will have like 80 people in it. And I'm like, what? Like, I like my green room to have either just me or like two or three people and like chill energy. But still like, it's still loose, right? It's not like a serious thing.
+
+01:14:44.322 --> 01:15:14.238
+They're like loose fun. And that gets me into the mindset of like, this is going to be fun. I look over my set list. You know, like I'll check in on, you know, you listen to like what the crowd's like and you're like, ooh, they sound hot. Like that kind of gets you excited. But I just try to embrace that mindset of like, let's have fun. Let's have fun. That puts me in a good place as a performer on stage. Do you watch a lot of comedy, like the greats? I don't watch a lot of comedy.
+
+01:15:14.402 --> 01:15:29.438
+I don't see comedy anymore, I would say. As a kid, I think the reason you kind of follow this path is because you're just such a huge fan of it. So growing up, I watched a lot of the Evening at the Improv,
+
+01:15:29.602 --> 01:15:58.110
+Def Jam, specials, like a lot of, you know, it was also like specials were truly special, right? Because there was like six specials maybe a year. Eddie Murphy. Yeah, Eddie and Chris Rock and Carlin and like all those guys would like put out a special, I mean, once every few years and there was only a few places. You know, HBO was just like the place and then Comedy Central became the other place. HBO was premium, like really elite, like television.
+
+01:15:58.338 --> 01:16:25.694
+huge, huge talent. And then Comedy Central was kind of everybody else. And then now the landscape's changed where, you know, we get, I don't know, man, I feel like there's 300 specials a year, right? Like, cause you can release them on, they're on Netflix, they're on Max, they're on Hulu, they're on Amazon, they're on YouTube. Like there's just, you're bombarded with, it's great in one regard for standup because it speaks to how popular standup is and it's so accessible and it's cool that so many people can put out their stuff. Um,
+
+01:16:25.890 --> 01:16:54.174
+But it's just like overwhelming. So I'll only check out like, I feel like in the last couple of years, I've maybe seen like two specials, you know, a lot of times I'll start a special, turn it off after like 10 minutes to kind of want to see like what someone's doing. But I find, I find it personally hard to finish a special, but I also find it hard to watch stand up in the room, like at a club or something. Like I get, I leave, like, I don't mean like I leave the venue. I just leave the room.
+
+01:16:54.594 --> 01:17:24.126
+Like, it's just harder for me to, I feel anxious. I think it's really about me internalizing what I feel like the feeling is on stage. Especially if it's not, like, if it's really, really good stand-up, then I sit there and I go like, oh my God, and I enjoy it. But if there's like any bit of it that like feels like maybe that's not working or that guy's anxious or whatever, it reminds me of my own feelings on stage that are like that. And I don't want to be in that
+
+01:17:24.386 --> 01:17:41.630
+space. So I like, I get, I leave the room and I'll just go sit somewhere else. I mean, so much of what we're talking about today, I just realized is emotional contagion. It really introduces this question. This is very reductionist thinking, but how much of the success of a bit or a joke is the emotion that the person telling it
+
+01:17:41.730 --> 01:18:10.910
+is carrying and how much of it is the actual words and content. It's probably that plus the rhythm and the timing. There's a lot of things. It's a combination of those things, yeah. But emotional contagion is real. You're talking about it as a comedian watching comedy. It kind of permeates you. Is that what it's called? Emotional contagion? Yeah, emotional contagion. Really? Some people are more emotionally permeable than others. Yeah. You know, we could put this on a spectrum. We could even put it on the, so what used to be called the autistic spectrum, like people who
+
+01:18:11.490 --> 01:18:23.518
+really contained in their emotions, like things don't get them, but people are at the far end of that spectrum. They have a sensory sensitivity, you know, kids that are really like severely autistic, you know,
+
+01:18:24.002 --> 01:18:49.470
+The amount of noise in a typical room is overwhelming. It's overwhelming, right. They actually have discovered that that's actually outside the brain. Their sensory endings are tuned differently to the world. They're experiencing the world very, very differently. You have these certain people get scared when they watch a movie and they jump when the monster jumps out. Other people are like less of a startle response. I get startled.
+
+01:18:49.730 --> 01:19:16.446
+I get startled. Yeah. I think that it's natural to get startled. I think that some people just have very kind of flat affect and some people can kind of rot. It's like a seesaw. And for some people, the hinge is tight. It doesn't necessarily mean they're calm. Some people are just like pissed off all the time and the hinge is tight. Some people, they're happy all the time and the hinge is tight. Most people, that hinge can move. And so this thing of emotional contagion is largely, this is what's so interesting. It's largely fed through the way things sound.
+
+01:19:16.674 --> 01:19:45.854
+somewhat through faces, but largely through the way that things sound. And then there seems to be, and not a lot's known about this yet, kind of a sixth sense where actually an energy in the room can start to literally cascade from one person to the next. And this has been studied in animals. Yeah. With the fear response, you can literally take an animal, scare it, take it out of that tube, put another animal in there and it will show a fear response based on something molecular in the air. Really? Absolutely. And, and they're fair. I mean, they're,
+
+01:19:46.210 --> 01:20:13.342
+Hormones work within us, pheromones between two members of a species. They're clearly pheromone-like effects. We haven't identified what those pheromones are. Same thing can happen in crowds. You can get a kind of a hysteria. We do feel like, you know, the best kind of experience as a comedian performing is where you feel like the audience is one, right? Like they are one. It's not 10,000 separate people. It's like...
+
+01:20:13.666 --> 01:20:41.470
+This is all together. And that's kind of like when that's going as well as it can go, that is like an incredible rush. And the feeling is that like they do kind of mold. It's like they started as 10,000 people and then they just kind of become this one thing. And you're kind of rocking this one entity out there together. Same way that like the opposite when it's like really bad. It doesn't feel like...
+
+01:20:41.730 --> 01:21:10.974
+You know, you can feel like, oh, they are together in not liking this. This is one crowd going like, no. You know what I mean? Like that feeling is the opposite of like bombing beyond like emptiness that you feel. But you feel it like they are together. They're unified in how they feel about this. This is why some people, including me, fear going to theater. My sister loves theater. We go to New York in the fall for our birthdays and
+
+01:21:11.202 --> 01:21:40.030
+She loves theater. We go to theater. And if theater is great, it's like amazing. If theater is bad, like it leaves me feeling bad for the people. Like the tone in the room is like, ooh, it's heavy. Heavy. It's not like just like turn off the special. It's like it sucks. It takes you to a lower place. Well, live is always – it's just such a difference. You know what I think about? I don't know if there's any science to this, but I always sometimes think about the fact that I feel like comedy specifically –
+
+01:21:40.162 --> 01:22:09.726
+as an art form, might be the most involuntarily subjective, meaning that, like, you know, if you look at, like, a photo or a piece of art, you might go, like, I don't like that. And then I might educate you in some way about it. And you kind of look at it differently. And then maybe over time you go, you know, I actually love this painting. Right? Or, like, music is definitely one where you have, like, kind of
+
+01:22:09.826 --> 01:22:31.102
+an involuntary response, but I have not cared for music and then actually started to like it more. But I feel like comedy, it's like, it's not, you're not really thinking when you, like when you laugh hard at something, you're not like, oh, I thought about it for a while and I'm going to start laughing now. Right? Like you just, you laugh. Right.
+
+01:22:31.234 --> 01:23:00.158
+And if you don't laugh, you're just like, yeah, I don't find that funny. You don't usually come back and go, you know, now that you've talked to me about it, I'm going to start laughing. Like it really is this experience where you just, it happens without, so your kind of brain is telling you this is what's funny, right? Like it's happening like separate from you and there's no faking it. Like you're either laughing or you're not. If you laugh really hard, it's like this, it's this great experience, but you can't,
+
+01:23:00.898 --> 01:23:29.342
+Convince someone to laugh that hard. A very important point that never occurred to me. I love art history in part because I like art. I've always liked art. Yeah. But by taking an art history class, I like literally fallen in love with certain artists and their paintings. And I look at certain paintings completely differently now, as you point out, on the basis of what I know about what the art represents, the history of the artist, like,
+
+01:23:29.794 --> 01:23:51.870
+joke isn't funny to me or a bit isn't funny. I don't care what the process was for that bit. I'm like, it's just not funny. It's just not. Yeah. It seems like it's one of the purest kind of, um, uh, yum, yuck or meh kind of things, which is another point of neuroscience. The nervous system has degrees of this, but it basically bins things very quickly into like yum. Like this is awesome or hilarious or whatever. Um,
+
+01:23:52.162 --> 01:24:21.278
+yuck, like, ugh, no, and kind of meh. Yeah. There's not a lot of variation. Within each one of those bins, there's a lot of variation. Yeah. Love, love, love, hate, hate, hate. But then, you know, but your brain makes a decision really quickly. Very quickly. About yum, yuck, or meh. Right. Right. And, like, especially with different arts, right? Like, I mean, literally, you look at the photo and your brain kind of tells you, right? Like, I just don't feel, like, most of the time, you're not going to go back to that and have...
+
+01:24:21.538 --> 01:24:50.718
+a much different response, right? I mean, with comedy, you're not going to have to do a response. I also did Spanish art history when I was studying in Madrid. And they would take us to the Prado Museum and give us our lectures in front of the pieces of art. And you just, yeah, your brain starts to not just appreciate, you start to fall in love with the paintings. And you go like, oh, I view this differently. That type of experience...
+
+01:24:50.818 --> 01:25:02.046
+doesn't really, can't happen with comedy. I'm not gonna be like, start laughing, dude. Listen to how this, you know what I mean? Like, it's just, it is what it is. Your brain, it's so quick.
+
+01:25:02.210 --> 01:25:27.582
+whether or not it makes you laugh. And if something's not funny, if you tell me he toiled on this for 40 years, I'd be like, well, then it especially sucks. It's really shit. Whereas if you show me a sculpture I might not appreciate, then you sort of explain what went into that. Yeah. You can develop at least an appreciation for it. Well, that's interesting. You know, versions of this happen all the time, especially now because everything's shareable. We're like, your friend goes, check this out. And you watch the thing and you're like, okay. Okay.
+
+01:25:27.778 --> 01:25:56.606
+They're like, isn't that the funniest thing you've ever seen? You're like, no. They're like, you didn't like that? No. And that's kind of like how it ends. They're like, yeah, but, you know, he's saying like that he's late because he, I'm like, yeah, it's not, I don't, I'm not laughing, dude. I don't know what to tell you. And then they go, okay. But they had a different experience with it that you can't, you can't like articulate and intellectualize the experience to someone where they go, oh yeah, now I think it's funny. Well, I think this gets back to HM and this idea that there's a subconscious experience
+
+01:25:57.026 --> 01:26:16.638
+You know, just an unaware process that dictates whether or not something's funny or not. It tickles our brain below the level of like precise understanding. And I'm so fascinated by this because as you point out, there just aren't other things like this. You could say this about people like, oh, liked this person right away, didn't like them. Yes. But in general, the more that –
+
+01:26:16.738 --> 01:26:45.566
+we learn about people. This is why all the efforts to try and, you know, erase racism, for instance, the more you learn about a culture, the more you tend to like the people of that culture. Totally, yeah. Even if you were arch enemies for, you know, decades or hundreds of years before. This is just the way the human brain works. Though with comedy, it's like a, it feels like it's like chemistry. It does. You know, and of course, you could say, well, you like or don't like the comic, but I have to imagine that you, that you like it or not, probably represent the, like,
+
+01:26:45.858 --> 01:27:15.646
+bad boyfriend or the abusive dad to somebody or the, uh, or the friend that they loved in college. Let's make it positive too. Or that the guy they like to be around. I mean, you, you don't know that people's relationship to you. You never know. And so the humor may land or not land depending on like all sorts of unconscious stuff going on. So much. And you realize too, that like you could have a joke about a teacher. You know what I mean? Like, you're just like, it's part of your bit. You're not thinking of that. And like you saying that,
+
+01:27:16.290 --> 01:27:42.846
+has a ripple effect that you don't realize to different people in the audience for dozens of different reasons. You could have just said the word teacher and the person's like, you know, I am a teacher. And then that's pleasing to them. They feel seen. The other person hated their teacher. You know what I mean? They start thinking about like all these little things where you go like, I just said one word about this and you don't realize that it triggers other thoughts in people's minds, you know?
+
+01:27:44.322 --> 01:27:53.182
+I'd like to take a quick break and acknowledge one of our sponsors, Function. Last year, I became a Function member after searching for the most comprehensive approach to lab testing.
+
+01:27:53.474 --> 01:28:23.440
+Function provides over 100 advanced lab tests that give you a key snapshot of your entire bodily health. This snapshot offers you with insights on your heart health, hormone health, immune functioning, nutrient levels, and much more. They've also recently added tests for toxins, such as BPA exposure from harmful plastics, and tests for PFASs, or forever chemicals. Function not only provides testing of over 100 biomarkers key to your physical and mental health, but it also analyzes these results and provides insights from top doctors who are
+
+01:28:23.440 --> 01:28:51.390
+expert in the relevant areas. For example, in one of my first tests with Function, I learned that I had elevated levels of mercury in my blood. Function not only helped me detect that, but offered insights into how best to reduce my mercury levels, which included limiting my tuna consumption. I'd been eating a lot of tuna while also making an effort to eat more leafy greens and supplementing with NAC and acetylcysteine, both of which can support glutathione production and detoxification. And I should say, by taking a second Function test, that approach worked.
+
+01:28:51.522 --> 01:29:06.718
+Comprehensive blood testing is vitally important. There's so many things related to your mental and physical health that can only be detected in a blood test. The problem is blood testing has always been very expensive and complicated. In contrast, I've been super impressed by function simplicity and efficiency.
+
+01:29:06.882 --> 01:29:35.806
+the level of cost. It is very affordable. As a consequence, I decided to join their scientific advisory board and I'm thrilled that they're sponsoring the podcast. If you'd like to try Function, you can go to functionhealth.com slash Huberman. Function currently has a wait list of over 250,000 people, but they're offering early access to Huberman podcast listeners. Again, that's functionhealth.com slash Huberman to get early access to Function. Let's talk about crowd work. Yeah. Fascinated by it.
+
+01:29:36.002 --> 01:30:05.502
+Very, very distinct aspect of the comedy experience. You know, I mean, at a big rock concert, I mean, the singer might like put out a fist to someone in the audience or even let somebody sing for a moment, but maybe let someone up on stage. But crowd work is like, you're really giving up a lot of control. Yeah. Right. If you ask a question, I mean, you have to be able to work off whatever comes back. Do you do crowd work? I mean, I feel like crowd work is just part of the arsenal of skills you have. Mm-hmm.
+
+01:30:05.666 --> 01:30:34.782
+over time as a comedian. You have to be able to improvise. You have to be able to handle crowd work. You have to be able to write material. You have to be able to do all those things. I don't go up and do like crowd work shows. Some people, they're like, this is a crowd work show. But I've been doing stand-up like, you know, 23 years. And especially when you're in the club system, when you're an unknown and you're just doing weekends and people are drunk, like crowd work just becomes part of
+
+01:30:35.170 --> 01:31:02.302
+of how you do it. Like, you don't have an option to not, you could just not develop the skillset and then just die up there. But like, you know what I mean? It's like, it's a necessity. So at this point, like, I feel like I wanna go on stage with like, I want to do X, Y, Z. I wanna execute these things. I wanna get these jokes out. I wanna say these things. But you're never ever to the point where you go, and therefore I am removed
+
+01:31:02.402 --> 01:31:30.462
+having to do any type of crowd because crowd work is usually it's a response to something happening. You're being heckled. Somebody's saying something. You know, there's this thing that like if you're in a huge venue, you don't want to actually go like, hey, what's going on with you, buddy? Right? Because there's somebody up in the 300 section who's like, I don't know what's going on. But the other side of it is you cannot ignore a
+
+01:31:31.362 --> 01:32:00.094
+the obvious, meaning if a fight breaks out, if, like, somebody throws something, if somebody is, like, screaming and you just go, like, I'm just not going to... I'm going to act like that's not happening. I'm going to keep doing stand-up, like, what I wanted to do. Then people go, like, this is weird, right? Because this person's ignoring the obvious. Right. You're no longer connected to them in the same way. Exactly. They know that, like, there's a disconnect now. Like, you're ignoring that? Like, so...
+
+01:32:00.194 --> 01:32:25.406
+That's how like you stay in kind of having, you have to maintain the skill set. Some people make it more of an emphasis of their show. And there's like really, really good people at doing that. I feel like it's also like part, it's more of like the DNA of New York comics too. Like that you'll see, I've always thought that like the level of proficiency there is really high in that scene.
+
+01:32:26.082 --> 01:32:50.782
+more of a back and forth, you know. Because of small venues. I go to the Comedy Cellar when I'm out there. I don't know if that's still one of the main places. Oh, absolutely. If there's a better one, let me know. But my sister's always like, are we going to go to the Cellar again? Yeah, Cellar's fantastic. And we have our favorite nights there actually were nights where it was pretty bad and we can laugh about that. Yeah. But there have been a few nights there where it just killed. Yeah. And actually there was one night, and I asked my sister, this happened, where
+
+01:32:51.714 --> 01:33:20.734
+Chappelle just, like, leaves Radio City Hall, shows up with his entourage, and just, like, hops up on stage. Yeah. And just, that only happens in New York City. Yeah. I don't think that really happens in Los Angeles terribly often. He's done that quite a few times. He just, like, rolls in? Yeah, he's done that in L.A. a number of times. He's done it in San Francisco a bunch. Like, I'm saying, like, it's pretty well known. You know, he'll come into the stores. That's his thing? Yeah, like, he loves the stage, and sometimes he'll be up there, like, legitimately, like, three or four hours. Yeah, he stayed. We ended up going home because...
+
+01:33:20.866 --> 01:33:48.734
+eventually just called in a night and we were leaving and his team was like, you're really going to leave? We'd had enough, but it was just kind of unbelievable to me that this stage of his career that he was just going to wander in and start doing comedy. But I think it speaks to the intimacy of those small clubs. It does, yeah. I mean, it's still one of the few venues where, like, you can see greats. Like, I got to see you at the Belly Up in Aspen. That's a small-ish venue. That was fun, yeah. Or you can...
+
+01:33:48.834 --> 01:34:18.398
+go to a stadium. What's the largest stadium crowd you've done? It's more than, you know. The biggest crowd I did was like a little over 17,000 at a climate pledge arena in Seattle. Yeah. So huge difference of scale there. Yeah. Not many public facing things occupy those levels of scale. I have a question about kind of cultural standards. Yeah. And what's really funny. So if you look back to comedians where at a time where like cursing on stage wasn't allowed, like
+
+01:34:18.626 --> 01:34:47.198
+of pre-Lenny Bruce. Yeah. Right? Is any of that comedy funny? Meaning, you know, now there's been this kind of expansion of kind of what you can say, even just cursing. And so like, if we look at earlier, we were talking about working out, you know, like bodies looked very, like muscular bodies looked very different in films in the 40s. Like you'd say, well, that guy, that person isn't very big by today's standard, but you'd say they're very fit, right? Or she was very beautiful. Yeah.
+
+01:34:47.362 --> 01:35:16.318
+and very sexy in the 70s, but very different look than like 90s and 2000s. So standards change for what's considered ideal. Yes. The male one, by the way, is hilarious for the leading man of like the 40s and 50s. Oh, yeah. They were very slender. Now they're like superheroes. They'd be like slender and also like not even very well defined. And they'd be like, this is the stud of the movie, like a guy who's not wearing a shirt. And you're like, this guy is not.
+
+01:35:16.450 --> 01:35:45.886
+Right. No, this is like the stud of the movie. Right. That's just a different time. Just a different time, different standard. And then, of course, you know, standards of women's bodies have changed sometimes more volumptuous. Sometimes, like, in the 90s, it was the kind of wavy look. And these things mirror what's going on in society to some degree. But if you listen to comedy pre-Lenny Bruce, pre-swearing, is any of it really funny to you? Well, to me, I feel like...
+
+01:35:46.594 --> 01:36:12.862
+I would probably listen to most of that with like that mind of... Because what happens with comedy too is, to be fair to those people, is you end up hearing so many versions of what they did. Things that are just derivative of other styles and types of jokes and types of performances that by the time...
+
+01:36:12.994 --> 01:36:42.206
+Like if I heard this guy in 1945 doing these jokes and he's killing in this room, you know, I would go, I'd probably hear the joke and be like, oh yeah, like I know this joke. Like I know 10 versions of that joke because I've heard them. So hearing it just doesn't make me laugh. Even though it's the original? Even though it's the original, yeah. Because I feel like that even happens with like well-known characters
+
+01:36:42.786 --> 01:37:10.942
+Like, I was born in 79, and so, like, my, like, exposure, like, I missed, I wasn't, like, really conscious and aware of, like, the prior era, right? And, like, he's like a god in stand-up. He's considered the best comedian ever. I mean. By most, it seems. By a lot of people. He's on the Mount Rushmore of comedy. He's definitely on the Mount Rushmore. But I felt like,
+
+01:37:11.266 --> 01:37:40.926
+the time that I heard Pryor, I had heard so many people that were influenced by Pryor that hearing the original version wasn't like I'm doubled over laughing. I'm hearing every other version. They're clearly inspired and taking from him. So now I hear the original and I go, oh, I get that that's the version of that. They can happen with comedy films, too. It's like you watch Animal House, but
+
+01:37:41.154 --> 01:38:10.398
+you hadn't seen it before and you see it now and you've watched a lot of comedies, you might just go like, oh, I get how this is the blueprint because I've seen so many people take from this that now when you see the original, you'll be like, oh, you're like, yeah, but you don't realize that's the first time it was done. Like these jokes were done here originally. Everybody took from them, you know? So I don't think that I would probably end up laughing very hard at the pre-Lenny Bruce comic just for the reason I said, though, just because it's been...
+
+01:38:10.626 --> 01:38:38.622
+I've heard so many versions of it. So it seems with comedy, unlike with music or poetry or books, there isn't that much carry forward. So for instance, I mean, I was very, very young if, and in some cases not born when the Rolling Stones were doing their great work or the Beatles or Elvis, right? But that music is awesome. Yeah, yeah. That's different. So the fact that many people have taken bits and pieces from those, like you can't create a
+
+01:38:39.586 --> 01:39:08.094
+amazing Clash song the way that Clash did it. Like, they did it best. Right. And it will always, like, Death or Glory will be, like, I don't care how many songs were derivatives of that, that song still kills. That's the song, yeah. And so comedy seems different. I think it's different in that regard. I definitely think it's different. I think that, you know, it's one of those things where, like, it's always shifting. Also, like, what's funny has, it really is directly related to
+
+01:39:08.226 --> 01:39:36.798
+what's happening in the real time, like in the time you're living in, you can see, whether it's from stand-up or movies, jokes that aren't fun, that were like very funny in 1982, in 1995, in 2007, that you go, it just kind of shifted, right? It's like it's not funny anymore. Like, and I don't just mean because it's not like politically correct. I just mean like there's this...
+
+01:39:37.186 --> 01:40:00.318
+unspoken thing that happens, right? Where like you're laughing at something and then you kind of go like, hey, we collectively are, don't find this is just not funny anymore. So actually a lot of those things might even strike you as not only like not great, you might just be like, that is, that's not funny at all. Yeah. I once went to this thing in San Francisco around New Year's and they, they literally wheeled out. Is it like
+
+01:40:00.546 --> 01:40:25.150
+Penny Youngman or Benny Youngman or something. He was doing these knock-knock jokes. And it was probably in his late nineties, he was forgetting the punchlines, but occasionally he'd nail one. It was not funny. It was almost embarrassing, you know, but you were like, wow, this guy's still like thinks it's funny. He was still going. So there was some amusement, but you looked at the older people in the crowd and they were like, oh my God, it's bringing me back. And you're like, oh my goodness. But you know, no one else was laughing.
+
+01:40:25.282 --> 01:40:55.070
+But as you're describing, some people might look at some comedy. I'm not going to name names because I'm not versed enough in comedy. But from the 70s or 80s and be like, yeah, that's just kind of like raw. But like it doesn't really do anything for me anymore. I'll tell you like this is a very simple like example. But like I can recall that like 20 years ago if a guy was in a club and there was two guys sitting there in the front row together or whatever, a lot of times would be like, what are you guys, a couple? And that that would sometimes –
+
+01:40:55.650 --> 01:41:24.158
+Trump laughs. People would laugh. They would be like, oh, they're a couple. And like today, if somebody was like, what are you guys a couple? They'd be like, yeah. And everyone would be like, okay. Right? Like it would be like, it was considered like, oh, it's funny you're implying that they're a romantic couple. And like, I feel like just the way society evolves, today people would be like, and? Oh, yeah. I mean, growing up when you're, I mean, I'm a little bit older than you are. Yeah. I remember like the first gay characters showing up in
+
+01:41:24.354 --> 01:41:52.606
+film and reality TV, it was like a huge deal. Yeah. Right? And then, so things have really changed. So what is, yeah, things have really changed. Like, no one's ever been funnier than Eddie Murphy, ever. I think he's, like, him and his prime of being funny, like, there's just nothing. He's a total prodigy, once-in-a-lifetime type of talent, right? Like, so funny. If you put, like, Delirious on for a 21-year-old today...
+
+01:41:52.802 --> 01:42:20.094
+they would be like, what the fuck is happening? Like, it's... There's things in it that are just... They're just too dated now. You know what I mean? Like, it's just concepts that are... He's still funny as shit, but, like, those bits will not land like they would in 83. They just wouldn't. Let's talk about the darkness of comedy. I once had the experience of going to the comedy cellar with some friends, and this guy got up there, I don't remember his name, and it was super dark. I mean, it was like...
+
+01:42:20.898 --> 01:42:44.254
+clowns with vans doing terrible i mean it was just like so dark and the only thing that was hysterical about it was the fact that he seemed freaked out by it too uh-huh like what he was saying was like horrible he was saying horrible horrible things yeah about that had gone through his mind yeah but the fact that he thought it was horrible was what was funny sure and we're like whoa like we walked out of there just from like we
+
+01:42:44.514 --> 01:43:14.334
+like we'd been transported someplace really unhealthy. Yeah. And I was like, man, I feel like I need a shower after that. That was intense and scary and like. This is my favorite thing, by the way. Whoa. And then we had the experience of running into him and his girlfriend later that night. Uh-huh. And we were like, oh my God. And he just took off. He just like could not handle the reflection about what had just happened. Really? Oh yeah, no, he just, I'm sure he enjoyed the attention, right? He's a performer. So, but two things occurred to me around that.
+
+01:43:14.658 --> 01:43:40.254
+example one is um a guy who's really dark on stage seemed like a very loving guy at least out in public with his girlfriend almost always the case yeah and the other one is that where he took us and where he went was so down in the dungeon like i still kind of get a weird feeling in my body thinking about it yeah but his shock at his own words yeah
+
+01:43:40.386 --> 01:44:10.046
+was absolutely hysterical and brilliant. And it was like, hey, let's go down into the darkness of human nature. I'm going to show you how dark it really is, and then I'm going to leave. And you're just, like, left spinning. And it still sits in my body. We're talking about that visceral experience. It still sits in my body. I don't know what to make of it. It's incredible, A, that, first of all, that he can access it is great. It is, as, if you're talking about just, like, as the art form, like, the best thing...
+
+01:44:10.210 --> 01:44:37.118
+do as an artist, any type of artist, is I think acknowledge and produce with the dark thoughts. In other words, don't act like they're not there because they're in everyone and then put it into your art. In other words, it's if you go like, I want to fucking rob a bank. Like it's better if you're an artist to channel that into art, whether you write a story about it, you paint a painting, you write a song, you talk about
+
+01:44:37.570 --> 01:45:01.790
+you know, as a comedian, you're like your fantasy of doing it than to actually do it. So it's actually, you're channeling it in the healthier option. And I also feel like 20 some years of doing this, dude, the best people as people that I've ever met are the darkest comedians on stage. And the absolute most terrifying people are the super clean guys.
+
+01:45:01.986 --> 01:45:28.318
+Like really? Yeah, dude, because they don't acknowledge the darkness. The darkness exists in all of us. The Dalai Lama has dark thoughts. Like it's just. Jung said this. I mean, it's just the way it is. It's humans. It's human beings. Like we all now, some of us have not as, you know, present and overwhelming dark sides and thoughts, but there is darkness in everybody. Yeah.
+
+01:45:29.122 --> 01:45:57.758
+The thing is, I feel like what some of the clean comics do is the lack of acknowledging it means that that darkness has to come out in some other way. It just does. So how does it come out? Well, it might come out in their personal life. Not good. Yeah. I mean, there's very famous cases of don't curse. And then, you know, you're doing some pretty dark things. Like, that's a real thing, man, that like, hey, I'm going to talk about...
+
+01:45:57.954 --> 01:46:20.350
+And where do you put your socks? I can't find my other sock. Like, that's your fucking bit? Talking about socks? Okay. What are you actually really up to? Because the thing is, some of those guys, look, I'm not saying they're not funny. There's very, very funny clean comics. Some of those guys are right on the line of like, man, if you would just acknowledge some of this stuff, it would be even better.
+
+01:46:20.706 --> 01:46:49.022
+Like, you're just... And then you don't know how that darkness is going to show itself because it's probably going to show itself in a way that's not so pleasant. Yeah, I completely agree with you. I have a friend who's a very, very well-known musician. I won't say what genre. And what I love about his music is it encompasses every range of emotion. Yeah. Every range. And I've seen him play to huge crowds and just get so pissed.
+
+01:46:49.890 --> 01:47:15.486
+And I've seen him do love songs, hate songs, revenge songs, like just everything. Yeah. But in person, he's like the kindest dude ever. I mean, that's... And he's so grounded. He and his partner are like the sweetest people. And she's got it too. She's an artist too. And some of her art, you're like, oh my God. And then you meet her and you're like...
+
+01:47:15.618 --> 01:47:44.766
+So kind, so trustworthy. Yeah. So exactly what you're describing. They're in touch with it. They know how to channel it. Yeah. I think it's about doing that. And I think it's also a natural human instinct to not want to acknowledge or play with the dark thoughts that you have, right? Like you don't want to sometimes because you go, that's an ugly side. And I don't want to use that for my art or...
+
+01:47:44.866 --> 01:48:11.774
+even acknowledge that it's there. But I think it's definitely the better way to go is to actually work with it. A lot of comics die of drug overdoses. It's like not these days as much. It seems like there's not like the healthy comics. You're one of them. And I don't know what the numbers are compared to music, like rock musicians or something. But if I compare to like science or I compare to like law, okay, one could say
+
+01:48:12.098 --> 01:48:33.022
+You know, in law offices, there used to be a lot of drug use, especially in big cities and this kind of stimulants. But let's just focus on comedy for the moment. Do you think that comedy pulls from a group that has a larger percentage of people that are just struggling with inner turmoil and they rely on substances to kind of manage or...
+
+01:48:33.122 --> 01:48:58.558
+the substance is part of the creative process for people writers too i mean it used to be that many writers were drinkers if you ever want to like a like a voyage through alcoholism read about the habits of writers yeah not all of them but many of them drank a lot a lot a lot a lot yeah amphetamine sometimes but it was like drinking it was like part and parcel with the writer's life um sadly that's not the case now but um yeah what are your thoughts about um i mean substances and comedy
+
+01:48:58.658 --> 01:49:27.774
+comics? I think it's a combination of things. I feel like, you know, a lot of comedians, like that world pulls from certainly people with traumatic backgrounds. There's a lot of mental health issues with comedians. There's a lot of clinically depressed comedians. There's comedians that come into it with like severe anxiety, for instance, severe depression, different mental health things. So usually even outside of comedy, if you're talking about
+
+01:49:28.194 --> 01:49:55.870
+with this type of mindset, you know, these issues, you know, substances kind of come with that, people trying to regulate and deal with those issues. To also, you know, throw some more gas on that, you're talking about an environment that is a nightlife environment where these things are kind of readily available, and it can, you know,
+
+01:49:56.098 --> 01:50:23.646
+It can be fun. It can make you feel like you're helping your art form by partaking in these things. And then it's really just like with most things, you just kind of, you see that some people go, oh, right now it's getting in the way. And they kind of acknowledge that I'm better off without this. And then some people are just too far gone in it, right? Where they just, they're addicts. We have a lot of addicts in the world.
+
+01:50:24.002 --> 01:50:51.774
+It's just one of those factors. Like, you just, you see it a lot. People that are complete hardcore addicts. So that coupled with mental health things and the fact that we're up late and we're with people that are also into nightlife, I think all that together, you get a lot of substance abuse. A lot. Why is cynicism so unfunny? Is it? I mean, I feel like cynicism...
+
+01:50:53.570 --> 01:51:14.910
+Presented in the right way, like a cynical person can be funny. I think what problem with cynicism is that it's really not ultimately there's nothing hopeful in it. Cynicism takes away any feeling that like things could get better.
+
+01:51:15.138 --> 01:51:43.710
+Yeah, like in the world of improv, the yes and. Yeah, yeah, that's true. I feel like cynicism like shuts it down. Well, that's true. In the case of improv, I'm just saying like some people have this cynical kind of take on things that are still like funny people. Yeah, if you negate a thought in improv, the whole thing is over. It just dies. You know, if you're like, it's hot. And like, I'm cold. You're like, okay. Like, we're not really going to do this then, huh? Like, you kind of have to like add to it. But that's interesting. Yeah, I mean...
+
+01:51:44.130 --> 01:52:10.334
+If you're a cynical, like a truly a cynical person, because I guess the thing you find in comedy is there's a lot of like faux emotion, right? Like the faux angry, you know what I mean? Like you put on this thing to sell your bit, you sell an emotion with it too. So somebody can like manipulate that cynicism with humor. But I think if you're genuinely a cynical person,
+
+01:52:11.202 --> 01:52:36.190
+What you are really is usually someone that, like, actually people don't want to be around, right? Like, the very genuinely cynical person, another way to describe them is just negative. And a total buzzkill. Yeah. So you just kind of go, like, I don't want to be around that. I think, ultimately, the best mode to be in for comedy is, like, you kind of actually want to be, like...
+
+01:52:36.770 --> 01:53:06.558
+inclusive you want you know i mean you're kind of like right you're saying things that people want to not along with and if you're just like shit's not gonna work out it never does no one's like this is fucking fun man like this is really funny so that that probably has some factor in it i mean yeah you you learn early on at least i felt like it that there's these really cynical comics but the thing is i'm not talking about like the faux thing in a performance like
+
+01:53:06.850 --> 01:53:36.542
+they're just like that. And you can feel the energy vortex that they are. And you kind of go like, I gotta not be around this guy. Because early on especially, you rely so much on hope. The fact that you signed up to do this thing that on paper, it seems insane. Like, were you gonna tell jokes for a living? Were you out of your mind? That's what people would say to me. They're like, were you crazy? I would say it worked out. I mean,
+
+01:53:36.706 --> 01:54:04.222
+I got very lucky in that it worked out. And you worked very hard. You worked extremely hard. I did work hard. I did work very hard at it. But that is a thing where you go like, oh, this is an insane path kind of to go down. Like, I can't have the guy who's next to me, who's also a comedian, being like, this shit, you know, they're never going to pick us. They're never going to, this shit never works out. You're like, I can't have that mantra in my head all the time.
+
+01:54:04.482 --> 01:54:28.830
+you have to like part ways with those people because they are like a virus, you know, they're a virus. Like, so yeah, you're, you're right in observing like it's not funny. I think it's more like that. It's just, it's not productive to be around truly cynical people. Along the lines of what we're calling emotional contagion. I realized I'm not aware of any, um,
+
+01:54:29.026 --> 01:54:57.630
+like duet comics. I know it sounds kind of silly, but in every other genre, like with music, right? People play alone, they play with a band, they play like together, like you offset voices. I mean, but maybe in comedy, stage comedy, that is, the audience is the other member of the, I'm calling it a duet, which sounds so silly, but you get the idea. Yeah. That they're the one that you're resonating with and that you're playing off of and they're riding with you. Because,
+
+01:54:58.306 --> 01:55:26.686
+I've had the experience of going to the comedy store. I was there last year. Tim Dillon did a bit. Well, he went out for like 20, he came out for 20 minutes and just murdered. And some of that's in his recent special. Just murdered. It was just, and he like crescendoed the whole crowd. And then just like in typical Tim Dillon, I just like walked out. You're like, whoa. And then you feel like you were part of something, even though you were a passive recipient of what was going on or participant.
+
+01:55:26.818 --> 01:55:55.902
+So maybe that's where it is. Have there ever been two people that get up there and kind of like riff? Together? Yeah. Oh, yeah. And do it well? Yeah. There's a couple of twins that do that. Okay. Yeah. That's a good observation that it is like the audience is the other, you know, participant, right? It's you and the, but then like the Lucas brothers and the Sklar brothers are, they're both, they're twin brothers and they go up there and because I'm, you've probably done something about the twin phenomena, like how these guys operate
+
+01:55:56.226 --> 01:56:08.414
+of these sets of twins together is it is like an experience where you're like whoa the way they don't go like always like set up
+
+01:56:08.578 --> 01:56:32.638
+Like, the setup sentence can come half out of one brother and it's seamless. Like, it's like when you hang out with twins and they really answer in unison, even though they're not looking at each other and they're saying, like, the same thing. Like, that's how these guys work on stage. And it is, you know, it gets you where you, like, you have questions afterwards. Like, how did you set that up? Because it's...
+
+01:56:32.738 --> 01:56:56.254
+It's so seamless. And they're literally like going back, back, back, back and forth, back and forth, back and forth. And it feels like you had to go, hey, when I say and make sure you, but it's another level beyond that. Like they really flow. Even their talk over each other feels like it's perfectly done. Like this, you're hearing the end of this guy's sentence, the next guy's sentence.
+
+01:56:56.866 --> 01:57:26.494
+steps on top of it, but you hear him clearly and back and forth. I have to check it out. Those guys are like, it is like a phenomenon to watch them, to watch them work. It's, it actually is really, really cool. I'm coming to the conclusion that by being a audience member in comedy, you, one is experiencing a kind of an empathy with what the, the comic is experiencing. And that's kind of where we're getting here. Like, I didn't plan this out, but, um, you know, you have to feel it.
+
+01:57:26.850 --> 01:57:52.318
+got to be real for the comic. The audience can sense that. The delight, the silliness that you're bringing to it, like so much of that is in the audience's nervous system as they're getting it. And it's clear to me that like comedy is the one way. I mean, you could say this about music, but like you said, so different because so much of it seems spontaneous. It does. And I also feel like
+
+01:57:52.770 --> 01:58:16.318
+My buddy Kirk Fox, he's a great comedian. He always says this thing when he's on stage. He's like, I plan on being open, inviting, hoping to leave the room a better place. But this thing about being open, inviting, vulnerable is a very real thing. You learn it as you do it. You start off...
+
+01:58:16.642 --> 01:58:39.134
+much operating in fear as a stand-up right you're terrified you're terrified that it's you're not going to do well the longer you do it you get more comfortable being up there you realize that if you're vulnerable if you're willing to be vulnerable which takes like effort and some you know some like courage uh the audience senses this on an unspoken level
+
+01:58:39.522 --> 01:59:05.694
+And we'll go with you more places and we'll definitely laugh more and we'll be like basically be on your side. Right. If you don't learn to do that, it's a different type of performance. You're basically like going up there with like, I'm the boss. You know, like if you're going up there, like I'm telling you what's up. They still might laugh at things, but they don't leave going like I care for this guy. Right. I empathize with him. And if you can.
+
+01:59:06.114 --> 01:59:32.478
+learn to be vulnerable on stage, your performances will get exponentially better. And honestly, you'll get way crazier laughs. So interesting. The reason I love comedy so much is that A, it lets me forget about the outside world. Yeah. Well, hearing about the outside world. And I think stage comedy is especially powerful. And before we sat down and had this conversation, we were talking about how like some people think
+
+01:59:32.642 --> 02:00:02.238
+They're like, oh, my friend is super funny, way funnier than any of the comics. But like a professional athlete or a non-professional athlete in this case, can they do it on stage? Can they do the dance? That's the thing. That is the main question. Because sometimes, like I told you, people will be like, you know, my friend Greg is hilarious. He's like one of the five. He's funnier than any of those guys on stage. And you're like, I believe you.
+
+02:00:02.434 --> 02:00:30.462
+And you might hang out with him and be like, this dude is hilarious. Like, he's really funny. The difference is that can he do, can he be that funny when it's just him with a microphone in front of people and take who he is in real life and be that on stage? That's ultimately the goal for every comedian. Like, they say that, like, the longer you do stand-up, your goal is to be
+
+02:00:30.914 --> 02:01:00.894
+who you are offstage, onstage, right? Like, it's, cause you, it's impossible when you start, when you start, you are funny with your friends and then you get on stage and you know, you kind of freeze and you're, you're trying to like convey, this is who I am. Cause you're, what you're doing is you're going, this is how I see things. That's what your, that's what your performance is. Like, this is funny to me. I'm going to tell you how I see it. And that's why it's funny. Some guys that are, are women, I'm saying like just people that are very, very funny offstage, just, they can't,
+
+02:01:01.282 --> 02:01:26.910
+that to an audience. They're just, they're funny to be around in life, but they're not performers. I mean, there's an element to it that is like, can you get up in front of strangers and make them laugh? They don't know you. You have to convey who you are in a moment and make them laugh. That's a different thing. It's not unlike a guy that kills it at the YMCA,
+
+02:01:27.170 --> 02:01:54.782
+you play ball and it's like, okay, well, like, let's put you in an NBA arena, right? Like, can you actually play with these guys? It's a, it's a totally different thing. Look, some can't, everybody who ends up being a good, a good standup was super funny to somebody offstage years ago, right? They just worked at it and they were able to translate it. Some people just can't translate it. Do you think it helps to really like people as, as a general group, um,
+
+02:01:54.946 --> 02:02:20.798
+You know, like you're trying to entertain people. You're trying to be entertained by your own entertainment. Like, do you think you need to like humans? That's an interesting question. I thought I could answer that quicker, and I started to think about it. Because I started to think about the fact that, like, so many comedians I know, like so many go, like, God, I hate people so much. I mean, to put – I'll frame it a little differently then. My theory –
+
+02:02:21.026 --> 02:02:47.454
+to one of the main reasons why Rogan is the top podcast in the world. There are several reasons, I believe, his work ethic, et cetera, but is because he has lots of different kinds of friends and he can sit down with intellectuals. He can sit down with comics. He can sit down with criminals. He likes the understanding and communication with different kinds of people. And when you know a little bit about him, like his life is...
+
+02:02:47.586 --> 02:03:17.406
+with these people outside of the studio. So he's very comfortable in the presence of like anyone. You put anyone in front of him. Yeah. And he can be genuinely interested in learning from them. Right. And sharing with them in dialogue. He's genuinely a curious guy too. You can't fabricate that. You can't manufacture that. I agree. Whereas some podcasters, they're not that interested in what other people have to say. So they're not the best interviewers unless it's someone like directly within their genre of interest. That's a good observation. So as a comic, I guess it depends on the range of topics that you explore in your comedy.
+
+02:03:17.730 --> 02:03:42.206
+I don't think you can hate humanity and be a good comedian, right? I think, like, for sure, you have to genuinely love making people laugh. If you're going to be, like, successful at it, you have to have an obsession with doing that, like a literal obsession. Because you go through these periods on your journey of stand-up of being like, hey, I don't have rent money.
+
+02:03:42.306 --> 02:04:09.022
+I can't, you know, I can't pay for anything. And you have the option, you want to go get a job? And you're like, no, I'm going to keep doing it. Like, you're obsessed. You're obsessed with it so much that you're giving up things that people would otherwise in your position be doing in life because you just are so in love with writing and performing jokes. Like, you know, you have an obsession. I do think you have to, on some level, though, like I'm thinking about it, love jokes.
+
+02:04:09.570 --> 02:04:37.886
+Because if you love making people laugh, you enjoy people. You know, you could still be... Because so many comics are so bothered by so many things that people do. You know, that's like a very normal... Like, I'm very much like, I fucking can't stand these people. You know what I mean? Like, always just like, look at this dipshit. He's bringing fucking eggs on the plane. Like, you know, like, you're just like... Tuna. Yeah. He's like, you asshole. You're like Tupperware on the plane. Eat that shit at the gate. So, like, you know, we're always like... You know what I mean? You're always just like...
+
+02:04:38.274 --> 02:05:05.982
+Complaining. Complaining is part of being a stand-up. You're funny. If you never complain about anything, you're probably not funny. You know what I mean? You're like humanity too much. Yeah, I feel like if... Here's the thing. If you go, I'm good with whatever, you're not a funny person. You're funny if you have a... You either love or hate something. That can be funny. You can love this, and it can be funny. You can hate it, and that'd be funny. If you're like, I mean, I'm fine. Yeah.
+
+02:05:06.082 --> 02:05:31.422
+That's not funny. The me response doesn't do too much. It doesn't do anything in standup. Yeah. So, but like, I think somebody that complains about people can be very funny. You just, you can't be like all people everywhere. I can't stand. Like that, that would be too extreme. There are all sorts of theories about how people's kind of childhood issues or just their fundamental struggle
+
+02:05:31.810 --> 02:06:01.534
+feeds their art in incredible ways. I think I saw an interview with Jim Carrey, who admittedly, I don't know much about his comedy. I was so busy in school when he was kind of through his reign of physical comedy movies. I've never seen Dumb and Dumber. I've never seen The Matrix. I've never seen Goonies. Sorry, I just haven't. I love Stand By Me. I love other movies, but I need to see those movies. I just, I'm busy. I got a lot I want to do. Last night at dinner, I just admitted that I had never, I've never seen Braveheart and I've never seen Gladiator. Those are amazing. Yeah. And guess what?
+
+02:06:01.986 --> 02:06:27.774
+going to see him really no all right i'm just not not gonna see him well clearly um just knowing a little bit about your children and the fact that they're related to you um i'm not gonna try and push you to do anything because clearly you guys are stubborn yeah um so the question i have after seeing this jim carrey thing he said you know his the reason he did comedy is he wanted uh to make people laugh to forget about their their struggles he had a
+
+02:06:27.970 --> 02:06:57.086
+a chronically ill mother and used to like throw himself down the stairs as a kid. Like, I believe him. So physical comedy became his thing. How much do you think that really successful comedians tap into sort of a fundamental quest to resolve something? You know, you're trying to, whatever it is, fill in the blank. I don't want to fill in blanks for you. Yeah, yeah. No, I think it's, I mean, I can speak for myself. I think in my own case,
+
+02:06:57.282 --> 02:07:26.526
+was the new kid a lot, right? I went to one school for first grade, one for second and third, a different one for fourth, a different one for fifth and sixth, a different one for seventh and eighth, a different one for ninth, and I switched again in ninth grade. So I was a new kid all those times. And I felt like whenever I arrived and you kind of like over time go like, you start to develop this muscle for like, how am I going to get someone to like me?
+
+02:07:27.074 --> 02:07:56.478
+it was like, try to make them laugh, right? Like that became a thing, was trying to make them laugh. I think for me personally, there was also this, just my own insecurities. I think I felt like if I got enough people to laugh, and if I became successful at making people laugh, and like people acknowledged it, that I would no longer feel these insecurities, and it doesn't happen. They stick with you. And thank goodness, because it sounds like it's the,
+
+02:07:56.578 --> 02:08:26.046
+It's the fuel for your art. I think it probably is. I mean, I just remember thinking like, you know, if I were to be like, had a special and I got paid well, then I wouldn't have any self-doubts anymore. Or like, you know what I mean? Like you think that, like, then I'll be, I'll feel fulfilled. And then you get the thing and you're like, yeah, no, it's, it's the same. It didn't go. I mean, you, you start to address it in other ways. Cause you just realize that the accomplishment or whatever,
+
+02:08:26.498 --> 02:08:51.838
+isn't the answer to that thing, but it is a thing that makes you, you think that it will make you feel complete, right? And it's not the case. And I think, I do think that like being a new kid a lot is something that I'll probably never shake that kind of memory of just, it's, you know, when you're a kid,
+
+02:08:52.322 --> 02:09:18.878
+social acceptance is so dominating it's different as you get older i think you know you're not you're not like so concerned with like being socially accepted everywhere and you have a family and you're just like this is my my group but as a kid it's like it's kind of everything you know and being new every time like every new school year is like that's kind of it's kind of traumatizing yeah so it's the friction that creates the spark i think so
+
+02:09:19.362 --> 02:09:47.294
+And so you don't want to do too much therapy and resolve it. I mean, seriously speaking. I mean, I've done so much. Yeah, same. It doesn't ever go away. It helps. You know, it helps in that, like, you have certain awareness of things now. Certain dots get connected. I love, I think therapy is phenomenal. I would not have traded any of the therapy that I had. I'm a huge advocate for it. I think it's great. Yeah, it doesn't, you don't go, like, same thing. Like, now I'm done. Everything's fine. Like, it doesn't.
+
+02:09:47.458 --> 02:10:15.774
+work like that. It's like taking Jordan's competitive nature away. You wouldn't want that. No. That was the friction that created the phenomenon that is Jordan. A lot of comedians, I spoke of myself, but I think a lot of us fall under the banner of, to put it simply, please like me. You know what I mean? You just go, please like me. I want you to like me. Because that's what you are when you're a new kid, and that's what you are when you walk into a room, and you know,
+
+02:10:16.194 --> 02:10:42.718
+just go like, I just want people to like me. And a lot of comics might not admit it like that, but it's definitely the case. You're just, you want to be liked. Sounds pathetic, I think, but it's true. No, I don't think it sounds pathetic. It sounds incredibly open and honest. And I think it's going to be very helpful for people who seek to be comedians and just for people generally trying to think about how their challenge, that inner friction can create
+
+02:10:42.850 --> 02:11:10.142
+amazing things. And you've been asked to do it over and over again. So maybe... You almost got me to cry. We talked about it. You almost got me to cry. I can keep going. No, no, no. Change the topic. What's happening now? What's next? Well, I know people use this expression, but it really, truly was a dream come true to make the series. Like, for real. You know, I made no...
+
+02:11:11.266 --> 02:11:38.590
+secret about it that, like, the reason I moved to L.A. was not to be a stand-up comedian. It was to, like, make movies and stuff. Like, that's what I wanted to do. So, like, getting the opportunity to make the show, it felt like I got paid to make, like, 15 mini-movies for the series. And, I mean, I've never had a more fulfilling kind of creative experience, like, from writing to producing it to, you
+
+02:11:38.690 --> 02:12:08.094
+being in the edits and seeing this thing come together. So for me, it's like, it's such a thrill to have that experience and to be able to put that out as like something that I made with a bunch of great people. The difference stand-up is like you're alone and like on a show or a movie, you're with like a hundred other people. And it was an awesome experience and I get to do some more of it. So I get to do like a movie this summer and another show I got...
+
+02:12:08.354 --> 02:12:28.542
+to develop. So, I mean, I'm like over the moon that I get to do these things. It really, it's like I get to do them 20 years after I thought I would do them, but it's, I'm super grateful to have the experience. So yeah, I'm most excited that I get to keep pursuing that because I feel like it's been in my head this whole time and now I actually get to act on it.
+
+02:12:28.866 --> 02:12:47.550
+Listen, I'm so grateful that you came here to share with us about your process. I mean, we talked about the art and science of comedy and humor. I hope it was good, man. I loved it. It was excellent because you share so openly and you pull back the curtain on your process and comedy in general. And I love –
+
+02:12:47.810 --> 02:13:17.086
+what a deep thinker you are. And at the same time, how much you just pour yourself into your craft and enjoy it. Thanks. And, um, your reflections are really appreciated and I'm a fan. Um, I'm also proud to have you as a cousin. I, um, uh, and look, I, I look to you as somebody who really understands how to also balance work and family and merge the, the insanity of life into a craft. And, and people really, I can just say, I speak for many, many people, um,
+
+02:13:17.314 --> 02:13:42.686
+confidently on this uh people can really feel your benevolence even when you're pointing out like we did like the darkness and the and the ridiculousness of of the the human experience so uh you make our lives better and um so grateful you came out well that's that's very kind of you i'm also like i should say i'm uh you know i'm i don't know if enough people tell you but i'm also very honestly proud of you for like what you've done and thank you you know being a a
+
+02:13:43.042 --> 02:14:09.790
+A teacher is one thing, but being able to teach so many people and share. I always feel like the most generous person is the person who doesn't hoard information. It's a natural human instinct where people have information about something and they just go, I'll keep this to myself. And so the fact that you share, you teach so much, I pick up things from you all the time, and so many people do. And then it's become this thing where now people are like, what are you fucking listening to Huberman? And you're like, actually, yeah.
+
+02:14:09.890 --> 02:14:38.494
+Like my wife's like, what did Humorman tell you to fucking take a shit right now? I'm like, yes, no. But I mean, it is great that you don't hoard information. You share it. And I think it helps a lot of people. Thank you. It's a labor of love. And for people that know me as you do, that's the same on camera and off camera. So you're a great role model to me. I'd love to have you back to continue the conversation. I would love to. We'll do a five hour one next time. Yeah. And I'm going to finish the rest of...
+
+02:14:38.594 --> 02:14:54.814
+bad thoughts. Please do. It's amazing. Yep. Thanks so much. All right, Tom. Thanks so much. Thank you for joining me for today's discussion with Tom Segura. To find links to Tom's work, please see the show note captions. I should point out that bad thoughts is not suitable for children.
+
+02:14:55.234 --> 02:15:25.200
+If you're learning from and or enjoying this podcast, please subscribe to our YouTube channel. That's a terrific zero cost way to support us. In addition, please follow the podcast by clicking the follow button on both Spotify and Apple. And on both Spotify and Apple, you can leave us up to a five-star review and you can now leave us comments at both Spotify and Apple. Please also check out the sponsors mentioned at the beginning and throughout today's episode. That's the best way to support this podcast. If you have questions for me or comments about the podcast or guests or topics that you'd like me to consider for the Huberman
+
+02:15:25.200 --> 02:15:49.438
+podcast please put those in the comments section on youtube i do read all the comments for those of you that haven't heard i have a new book coming out it's my very first book it's entitled protocols an operating manual for the human body this is a book that i've been working on for more than five years and that's based on more than 30 years of research and experience and it covers protocols for everything from sleep to exercise to stress control
+
+02:15:49.570 --> 02:16:09.566
+protocols related to focus and motivation. And of course, I provide the scientific substantiation for the protocols that are included. The book is now available by presale at protocolsbook.com. There you can find links to various vendors. You can pick the one that you like best. Again, the book is called Protocols, an Operating Manual for the Human Body.
+
+02:16:09.922 --> 02:16:39.889
+if you're not already following me on social media, I am Huberman Lab on all social media platforms. So that's Instagram, X, Threads, Facebook, and LinkedIn. And on all those platforms, I discuss science and science-related tools, some of which overlaps with the content of the Huberman Lab podcast, but much of which is distinct from the information on the Huberman Lab podcast. Again, it's Huberman Lab on all social media platforms. And if you haven't already subscribed to our Neural Network newsletter, the Neural Network newsletter is a zero-cost monthly newsletter that includes podcast summaries as well
+
+02:16:39.888 --> 02:17:05.567
+as what we call protocols in the form of one to three page PDFs that cover everything from how to optimize your sleep, how to optimize dopamine, deliberate cold exposure. We have a foundational fitness protocol that covers cardiovascular training and resistance training. All of that is available completely zero cost. You simply go to Hubermanlab.com, go to the menu tab in the top right corner, scroll down to newsletter and enter your email. And I should emphasize that we do not share your email with anybody.
+
+02:17:05.794 --> 02:17:14.078
+Thank you once again for joining me for today's discussion with Tom Segura. And last but certainly not least, thank you for your interest in science.

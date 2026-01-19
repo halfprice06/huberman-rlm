@@ -1,0 +1,880 @@
+WEBVTT
+
+00:00.226 --> 00:26.238
+I'm Andrew Huberman, and I'm a professor of neurobiology and ophthalmology at Stanford School of Medicine. Today, I'm excited to share the launch of a new podcast that I've helped create and produce. This new podcast is hosted by David Senra. For those of you not familiar with David Senra, he is the expert in all things greatness. He studies greatness, and he understands it, mostly in the domain of business, but also creatives, athletes, and other world-class performers.
+
+00:26.434 --> 00:52.542
+In this new show, David sits down with the best of the best business founders and extreme winners to understand their drive, their process of creation, how they overcome failures, their lessons in leadership, and other tools for achieving success. This first episode of the podcast is with Daniel Eck, the founder of Spotify. It's an absolutely spectacular conversation that I'm certain you'll enjoy. If you'd like to listen to future episodes of this new podcast, please be sure to subscribe to it.
+
+00:52.642 --> 01:21.694
+It's simply called David Senra, and links to it are in the show notes for this episode. Again, the podcast is called David Senra. Episode two of David Senra will be with the founder of Dell Technologies, Michael Dell. So again, make sure to subscribe wherever you're listening now. And now, episode one of David Senra with the founder of Spotify, Daniel Ek. So I want to consider this conversation like a continuation of the conversation we had last year in New York.
+
+01:21.826 --> 01:50.430
+It was by far the most impactful conversation I had the entire year. It is in large part the reason we're sitting down and actually recording this conversation. And what I loved was I thought about how the advice you gave and the stories you told really fundamentally changed my approach to my work and then also like my philosophy of how I'm living my life. And because you – it's very rare. Like this year I'm going to hit over 400 biographies read for the podcast, right? Yeah.
+
+01:50.626 --> 02:19.422
+And somebody asked me recently, he's like, do you ever uncover new ideas? It's like, no, I feel like I'm telling the same story, the same personality type over and over and over again. And you'll get a new idea or a novel idea every once in a while, but certainly not all the time. But you shared something at the dinner that was a truly novel idea. And then a few months later, I read this interview and I was like, oh, I'm not the only one that Daniel's advice changed the career. So I'm going to read something. There was an interview given by the CEO of Uber, who's a friend of yours, Dara. Yeah.
+
+02:19.554 --> 02:48.350
+And I'm going to read this excerpt, which was absolutely perfect. And he was talking about contemplating, should I take this job or not? Like, this is a huge opportunity, but also, like, kind of scary. And this is tied to your idea that you should optimize for impact over happiness. I haven't heard anybody else articulate that. And so Dara says, I was reading about all the issues happening with Uber in the news, the various challenges that were coming up there. So when I first got the call to be the CEO, I said, heck no, I'm not crazy. I'm not up for this.
+
+02:48.450 --> 03:17.214
+But I had one particular conversation that really shifted me, which was with Daniel Eck, who's a good friend. And I still remember, I was talking to him about my career at Expedia and how happy I was. And he looks at me, and he did this to me too. And he looks at me and he goes, since when is life about happiness? It's about impact. You can have an impact on Uber, which is a really important company in the world that's shaping the future of cities. And I thought to myself, my God, this is so obvious. I've got to take a shot.
+
+03:17.410 --> 03:46.366
+I knew it was going to be uncomfortable. Can you just explain how you think about optimizing for impact or happiness and why? Well, first off, it's incredibly kind of Dara to say that. You know, I think about this. I think happiness is a trailing indicator of impact. And I think you can be, you know, you can feel happiness in small bursts, in small moments, and you can have a lot of variance in your life.
+
+03:46.594 --> 04:12.862
+So you can choose to have that part, which is the ups, the downs of life, etc. So I'm not saying you can have happiness, but I think truly sustained happiness comes from impact. And impact is something that's deeply personal to you. Only you can define what impact means for you. So I think it means different things for different people. But I do think it's a trailing indicator. So the way I would put it in this case is...
+
+04:13.218 --> 04:41.502
+You know, what was obvious for me with someone like Adara was he was content. He wasn't happy. And, you know, he had gone through a phase knowing him for a while where he had a lot of ups and downs with Expedia and all that stuff. And he kind of mostly figured it out. And so he was content. And I think that in his case, you know, where he was at his life, you know,
+
+04:42.402 --> 05:07.774
+it was such an obvious thing that he didn't even realize that he'd just grown content. And so for me, you know, Uber is a very special company and to be even be asked to be the CEO of that and the impact I knew he could have on that company just felt to me like an obvious thing. And so I,
+
+05:07.970 --> 05:36.158
+I sort of advised him to, hey, you should go for this. And that's a far greater thing. And that's going to be far, will lead to much more happiness, not just for you, but also for other people. Did somebody do that for you? Did somebody tell you to optimize for impact over happiness? Or is this just the way you work? I think I self-motivate myself that way. Okay. To do the hard things. You know, like many other people, I'm quite lazy by nature.
+
+05:36.546 --> 06:05.918
+I try to take the simple road out often enough. But what I've learned that has given me the greatest joys is overcoming the biggest adversities. And overcoming the biggest adversities usually has been solving a problem of some kind for someone or something that no one else had been able to figure out. And for me, that's my definition of impact. And
+
+06:06.050 --> 06:32.894
+It's not right there at the moment that I feel that. Actually, in many cases, I feel it much longer, but it's when I go back and I reflect on accomplishments or moments of impact, then I feel true happiness. And so I've just grown to kind of like self-motivate myself constantly. And I think this, by the way,
+
+06:33.090 --> 06:54.846
+kind of comes from like a much deeper thing, right? Like I came from like pretty much what was the project in Sweden and I was not the normal kid. You know, I was kind of probably a middle of the pack kind of kid, but I certainly stood out. I didn't belong to any social group. There was no social cohesion, et cetera. So you felt like an outsider even at that age?
+
+06:54.978 --> 07:23.390
+Oh, yeah. You still today? Yeah. Every moment of my life, even among other fellow entrepreneurs, I sometimes feel like an outsider because like right now, for instance, you and I were in Silicon Valley. I'm not American. So there's an element of myself where I don't belong to the club. And I've always felt that way. And because I've always felt that way, I've had to, I can't take lessons from other people 100% because, you know,
+
+07:23.554 --> 07:51.614
+some of my story, some of my conditions, some of the ways, the structures, even how to structure a company. You have to structure differently if you're a European company versus an American company. So you have to go back to sort of first principles and kind of find the sort of principled answer to anything and what works for you. And so I've had to kind of self-motivate myself for most of my life. And only, I would say, in the last maybe five years, I've come to realize that
+
+07:51.778 --> 08:11.582
+You know, in a way, I may be a better coach than I am a player. And so I've kind of understood more and more that actually that sort of drive, that intensity is actually something that can be taught. It's not entirely innate. And it's about almost letting people know that that's okay.
+
+08:11.682 --> 08:21.854
+And so much of that comes from those types of conversations is about almost reflecting back. It's not about sort of me projecting onto other people what I think they should do.
+
+08:21.954 --> 08:51.550
+But in listening to Dara, it was just so obvious to me when he kind of explained, because the conversation started with us talking about Uber, and I said, I recommended you to the job. And he said, oh, really? Yeah, I just didn't take the call even. And I was like, well, why not? And he was like, well, I'm really happy about this thing. And I was listening, and I actually just let him keep talking. And the more he spoke, the more obvious it became he was content.
+
+08:51.682 --> 09:13.374
+He was running on the downshifted down to the easy gear. Life was good. It was really easy. But there was an element of him and you could hear it in his voice where he's sort of like, okay, well, you know, you've always been running on a higher gear. Do you want to, you know, gear up even more to an extreme level?
+
+09:13.538 --> 09:37.694
+Why aren't you going to go for greatness? Why aren't you going to test yourself? Because if you succeed, this could be huge. And you really don't get many of these chances in your life. And so much of the conversation was really around that. But with another person, I might have given a totally different piece of advice. So I don't think it's a universal truth. But I do think the universal truth is that happiness trails impact.
+
+09:37.794 --> 10:07.262
+But impact is something that's highly unique. It could be something innate in you. It could be having impact on other people. It could be, you know, having impact by being a great father around your kids. I don't pretend to know that I think that there's one game to play or one universal truth to life. I certainly believe from entrepreneurial types that probably more to myself, more like myself, that, you know, this is sort of a, one of those sort of key
+
+10:07.362 --> 10:32.574
+things is really consider impact. One of the things I admire most about Daniel Ek is his relentless dedication to improving his craft and to improving his product. It's a mission that he's still on nearly two decades later. It'd be impossible to argue that Spotify isn't one of the most well-crafted products ever created. And Daniel and his team's dedication to constantly improving their product reminds me a lot of my friend Kareem, who's the co-founder and CTO of Ramp.
+
+10:32.994 --> 11:01.406
+Kareem is one of the greatest technical minds working in finance. I spent a lot of time talking to Kareem and every single conversation centers around his obsession with crafting a high quality product and using the latest technology to constantly create better experiences for his customers. Kareem and Daniel both believe that nothing is ever good enough and that everything can always be improved. Kareem is running one of the most talented technical teams in finance and they use rapid, relentless iteration to make their product better every day.
+
+11:01.602 --> 11:28.446
+So far this year, Ramp has shipped over 300 new features. Ramp is completely committed to using AI to make a better experience for their customers and automate as much of your business's finances as possible. In fact, Kareem just wrote this. AI is all I think about these days. It is our duty to be first movers and push limits so we can make the greatest possible product experience for our customers. Ramp uses a combination of craftsmanship and rapid iteration of
+
+11:28.546 --> 11:58.238
+to invent new products for their customers. Many of the fastest growing and most innovative companies in the world are running their business on Ramp. Make sure you go to ramp.com to learn how they can help your business save time and money. Let AI chase your receipts and close your books so you can use your time and energy building great things for your customers. Because at the end of the day, that is what this is all about, building a product or service that makes someone else's life better. That is what I'm trying to do. That is what Daniel Eck has dedicated his life to doing. And that is what Ramp has done too.
+
+11:58.370 --> 12:27.390
+Get started today by going to ramp.com. You mentioned you thought some people don't go for impact because they're content. When was the last time? Like, you're definitely not content now, right? So I've gotten to know you once. We've talked for hours and hours and hours, and this is why I wanted you to be the first person I had this conversation with. And I was curious if you could say that. I was like, no, no, I know you have this inner burning desire and fire inside of you, which is, to me, your outside is like you're very calm. You're very articulate.
+
+12:27.554 --> 12:56.254
+and you're very polite, but you have that like, the same thing I read in these books all the time. It's just like this person had a burning desire to achieve mission success is the way I think about it. Were you content after you sold your first company? You were like 22, 23. Well, content is the right word. I wasn't happy. So I was content for a moment of time. I was 22. I never had much success with women because I was a computer geek. And back then, computers was not the coolest thing in the world.
+
+12:56.386 --> 13:19.454
+And, you know, so I was like, okay, well, now I've got all this money and, you know, this was my worldview. I can go out in nightclubs and I'm going to be the cool guy. And I had fun for a while, I'll tell you that. But it also was incredibly hollowing because, you know, I realized that these girls weren't with me because of me.
+
+13:19.586 --> 13:48.958
+And they were with me because, you know, I had status and I was able to use money to buy status and be a cool guy for a small moment of time. And so that taught me a lot. Right. And actually, you know, I kind of walked away for over a year not doing anything at all and just sort of deeply reflecting on life, what I wanted to do, because for me, you know, I had a magic number.
+
+13:49.762 --> 14:07.102
+which was 10 million. If I got that number, I would retire. That was the goal. And I was thinking to myself- How old were you when you came up with that number? Probably 15. Okay. You know, someone gave me like this book, Rich Dad, Poor Dad, I think. I read it. I think everybody gets it the same age. Yeah.
+
+14:07.394 --> 14:32.062
+I read it. It was like really seminal for me. So I kind of made that number. I figured to myself I worked really hard. I could get there when I was 40. I was 22 when I got there. And so that wasn't really part of the plan, right? And so I kind of like, okay, well, what's next? What am I going to do? Because I didn't have to work for money. Were you depressed? Yeah.
+
+14:32.418 --> 15:01.438
+When you don't have your company anymore, you sold it, you have the number you thought it was going to take you to, you know, till four decades to reach. You reach it now. You're going to the clubs. You're realizing these people aren't my friends. They don't care about me at all. There's no impact I'm making on the world. I'm just consuming. I'm not producing anything. This is something I talk about all the time. Like, I think sometimes we have a sick culture where, like, people, especially on social media, they glorify, like, consumption. It's like, I don't care. I don't care what you consume. I care what you produce. You should be proud not that you have money to buy an expensive thing. What did you make?
+
+15:01.602 --> 15:31.358
+Because the way I think about this all the time, which is always fascinating, how many times this comes up in the biographies. And for hundreds of years, people constantly think like, oh, we've reached the end. There's no more opportunity. And every single time, humans keep saying, it's like, we can't, this is going to be the last company. This is going to be the last technological shift. This is going to be the last invention. And the best description of a business I've ever heard came from Richard Branson. And he said, all a business is an idea that makes somebody else's life better. And if you look at it like that, it's like then you have infinite possibilities and opportunities all the time. Because there's infinite small and large ways.
+
+15:31.682 --> 15:55.134
+You were doing that when you were like 14.
+
+15:55.266 --> 16:15.742
+Right. Yeah. But it started like even earlier than that. I just didn't know it was called a company. I had no idea what finances were or VC or any of these things. But I was just building things. And I knew I loved computers and I knew I wanted to do that. And I knew I would make a living doing that somehow. This is another thing that like drives me insane because I hear like.
+
+16:16.002 --> 16:45.918
+other people's advice to entrepreneurs, which I hate. I think it's terrible. We shouldn't have an entrepreneurial ecosystem, especially because most of the media that entrepreneurs are consuming are actually from investors and you have wildly different incentive structure and everything else. And it just conflicts with a lot of stuff that's in the biographies. And I'll just go with those guys or anybody else, right? And they're always just like, yeah, my belief is something that I repeat on this maxim, that belief comes before ability. It's in these stories every single time you have somebody, like I just reread the biography, the autobiography of the founder of Sony. Okay.
+
+16:46.082 --> 16:59.998
+Akio at the time was, we're going to start this company in 1946. Yeah. In Tokyo. Yeah. That's occupied by the Americans. That is completely, has been firebombed. Yeah. Right? He's passing, he's going to work, and he's passing...
+
+17:00.162 --> 17:27.326
+just burnt out rubble, millions of homes of Japanese. More than half the population has left the city. They start what turns out to be Sony, which is one of the most successful and influential companies of all time, in a burned out department store. One of my favorite anecdotes in the book is they need to have umbrellas on their desks because when it rains, it comes through the roof. And yet in his book, he says, I don't have a problem saying, even then, I knew I had umbrellas.
+
+17:27.586 --> 17:57.278
+potential and I could be great and I could do great things. He had the belief before the ability. You said, I don't even know it was called entrepreneurship and I'm starting to build things. And this is the question I have for you. When did you know you were good? I don't know that I'm good. I know I'm different. But I have this sort of insane belief that I can get good if I try hard enough. Mm-hmm.
+
+17:57.602 --> 18:25.790
+And I still feel that way, by the way, like because the comparative sets has changed, right? Like, you know, it was from everyone in my school, maybe in the early days to everyone in Stockholm, somewhat later to everyone in Europe at some point. And now it's like the most brilliant entrepreneurs of our time that I'm constantly comparing myself to. And obviously, I don't believe that I'm as good as them, but I believe I am
+
+18:25.986 --> 18:52.670
+slightly different than them in some ways. And I believe that if I work really, really hard on something, I can make something really great. And that's the sort of bar that I keep for myself. And for me, it really stems also from sort of this notion back to what you were talking about, about sort of the realization that
+
+18:52.866 --> 19:16.862
+through computers, right? Steve Jobs has the saying, it's the bicycle of our mind, which was really how I felt about computers, like growing up. It's just this magic tool that allows me to solve so many other things and create things. That's how I feel about podcasts. Yeah. And so, you know, I knew I wanted to do that. And I also knew that...
+
+19:17.666 --> 19:42.078
+You know, my co-founder Martin, he has this thing he keeps saying, the value of a company is the sum of all problems solved. And so what I keep doing is essentially I've got this toolbox called a computer, and I've got all these problems around the world. Which problems am I passionate about solving? And which problems can I spend the next decade of my life fix it?
+
+19:42.946 --> 20:12.478
+Because if I'm not interested enough in it to spend a decade fixing it, it's probably not worth pursuing. This is something I'm super passionate about because if you really think about it, they don't write biographies about people that start, scale, sell a company, and do it for five years. I'm not interested in that. I'm not interested in your startup. I'm interested in your last company. I'm interested in something you're going to do for the rest of your life. And this is what I draw inspiration off of. It's just going back to what you said earlier about impact and contentment and how you're willing to
+
+20:12.674 --> 20:41.598
+go into an area where it's like, you know, it's difficult. I love what Jeff Bezos said on this. He's just like, he was, he tells the people, he used to tell people in Amazon at the very beginning, he's like, we're trying to build something that we can be proud of, something that we can tell our grandkids about. Anything that you're going to be proud to tell your grandkids about is not going to be easy. Right. So we're going into this with, you know, he gave himself like a 30% chance of success. I think it began with Spotify. You know, you're guys like, hey, we're going to, I might have to get a job after this, but I have to do this. Yeah.
+
+20:41.794 --> 21:01.822
+Like it is inside of me. Yeah. There's a bunch of people that say the reason they joined Spotify in the early days is because Daniel would teach us and tell us that he's building for the long term. Yeah. So there had to be acquisition offers early on. Sure. And did you ever consider them like? Well, I consider them, but not for money. I consider them because I already had acquisition.
+
+21:01.922 --> 21:31.806
+the money that I thought I needed in my life, right? And that was an incredibly powerful position to be in. It was freeing me of a lot of constraints. And for me, it was more, you know, as we got approached, it was always about can this thing further our mission? And if I truly believed that there would have been a company that could further our mission and cared about what we cared about as much as we did, I probably would have sold. But I never found that. And because I didn't find that,
+
+21:32.098 --> 22:02.046
+We just kept going. And it wasn't obvious to me that this would be like something I would do for 20 years. I'll tell you that. But what I did know is that, you know, I came from doing lots of projects beforehand. And so sort of, you know, we talked about the one company I did sell, but that was like my fourth or fifth one. So I'd been doing a bunch of other things and I was doing many things in parallel. Which you still do today.
+
+22:02.402 --> 22:31.198
+Well, I started doing again, which is a very different thing. And I still think the jury's out, by the way, on whether that's a good idea or a bad idea. Explain. Well, you know, again, I do believe that focusing all your time and effort on this one thing and obsess about it and almost to the point where you're not even aware of the rest of the world that goes on is what creates greatness. Yeah.
+
+22:31.298 --> 22:58.526
+And I know you can relate to this, but that's how Spotify came to be. I literally couldn't care about anything else for at the very least the first 15 years. Only now am I foolish enough to believe that actually, you know what, I might be able to do multiple things at the same time again, which was sort of my spirit in my 20s. Is that connected to what you were saying earlier that you might be a better, you think you might be a better coach than player? Yeah.
+
+22:58.722 --> 23:27.294
+I certainly think so. And because my leadership style is so different than many of these sort of entrepreneurs that most of us sort of look up to and hail, whether it's the Steve Jobses or Elon Musks, et cetera. I just don't feel like there's a vague resemblance with them, but it's just not me. It's like I'm a very different archetype of entrepreneur.
+
+23:27.394 --> 23:50.654
+We were texting back and forth about this, so we should just talk about this now so we don't forget. We were talking about, like, maybe we should talk about, like, the archetypes, different archetypes of entrepreneurs because, like, there could be, you know, there could be somebody like a young, there's undoubtedly a young Daniel Eck out there, right? We just know that that's going to happen. There's this great thing. I'm slightly obsessed with Michael Jordan. He's the lock screen on my phone. He's my
+
+23:50.818 --> 24:19.678
+contact cards so when people like they start texting me it's like Michael Jordan with his eyes like this like I'm kind of setting the tone and he said this great thing because you know at the end of his career is the rise of Kobe Bryant and everybody's towards the end of his career they were like obsessed like oh Tracy McGrady is going to be the next Michael Jordan and this guy is going to be the next Michael Jordan and this guy is going to be the next Michael Jordan and he's like first he's like you don't have to worry about finding the next Michael Jordan he goes first of all you didn't find me I just happened to come along and that will happen again you don't have to find the next person they will
+
+24:19.906 --> 24:49.054
+come along. And I always say they will reveal themselves. So I do think this is fascinating and no one else talks about this. Again, the weird thing about talking to you, and I don't mean that in a pejorative, it's like you just say stuff that no one else says. And then I'm like, why don't more people understand, like know about Daniel's very unique ideas? Like no one's concerned about the archetypes. I was like, oh, we just have to be like Steve Jobs. You just have to be like Elon. And your point is like, no, there's like multiple different archetypes. Obviously, like I've studied this maybe more than anybody else in the world. It's very clear that there are.
+
+24:49.954 --> 25:17.854
+And yet they're all kind of like narrowly focused on this is the one path. And me and you went over this back and forth before. It's just like, it's so ridiculous to say like, this is the way founders should run their company because you said it back in 2021 in that series and Spotify, we've had conversations like this. This is something I always say. It's like, it's tied to the personality of the founder. The advice is fucking useless unless it's tied to who you are as a person. Spotify is a reflection of you. Now, I do want to talk also about
+
+25:17.954 --> 25:47.006
+this other great idea that you gave me and then I heard Jeff Bezos echo recently about the fact that there's similarities between like the way your child develops and the way the company develops. Those are very fascinating. But where are you like, explain why you would even want to broach the subject of like talking more about the different founder archetypes. Well, I think, you know, again, as a young entrepreneur myself, I went through the book like so many of us by becoming enamored by
+
+25:47.106 --> 26:05.694
+An entrepreneur looking up to them in many cases because they have traits that I didn't have. And so we read all these stories, whether it's biographies or articles about how they manage their company and how they live their lives and the routines that they have.
+
+26:06.050 --> 26:30.174
+And certainly in my case, like, you know, I certainly tried to mimic Steve Jobs. I certainly tried to mimic Bezos and Gates and all of the great ones, you know, the very charismatic ones like Howard Schultz of Starbucks. And, you know, I've learned from all of them. And in a way, I've tried to imitate them, right, because I thought that they were so great at what they do.
+
+26:30.274 --> 26:50.750
+But every single time I've walked away being disillusioned because I realized, obviously, that it didn't work for me. And so this sort of idea of this archetype is like, I bet you that there's plenty of entrepreneurs out there that read about
+
+26:50.946 --> 27:20.702
+Currently, whether it's Mark Zuckerberg or Jensen or any of these things, and they're like, that's not me. So I guess I'm not as good as them. And I can't do what they're doing. So clearly, I don't have it in me. I think you were spot on when you said it's like the hardest single thing really for a founder and entrepreneur in a much different way, I think, than a normal person. But I think every normal person goes through this is finding yourself. That's literally what I just wrote down.
+
+27:21.090 --> 27:43.326
+So I don't want, again, this is more of a conversation than interview because I'm a terrible interviewer and I love to talk. Yeah, sure. I do a monologue show for God's sake. But I had this theory too because it's obvious in the books. Like there's this like myth. It's like of like the genius young entrepreneur. Yeah. And if you go and read all the biographies, they weren't like laying about doing nothing when they were younger. Yeah. But I, it's very clear if you look at all of them.
+
+27:43.746 --> 28:11.422
+Steve Jobs, Enzo Ferrari, Akio Morita, Sam Walton, Estee Lauder, Coco Chanel, Edwin Land. They do their best work when they're much older. And so I thought a lot about them. Like, dang, this is like a reoccurring theme over and over again. Some cases are in their 40s, 50 years old, and they're at the top of their game. And then, you know, I was wondering, like, what is this? Okay, well, obviously, like, it is some skill set, so you can, like, practice more. You have more experience, so then you can make better decisions.
+
+28:12.098 --> 28:41.886
+You have a better network. You have resources. You have all that. But one thing that I believe that I cannot prove, but I believe with every bone in my body, it's like because you know they knew themselves much more. Like think about the way you know yourself in your early 40s than you did when you were 23. It's like we thought when we were 23, you don't know anything. Even the most brilliant 23-year-old does not know themselves. That comes through time and experience. And it's like, no, no. This is something I learned from Michael Dell's autobiography, which was excellent. I used to say it's like they build a company that's authentic to them. Yeah.
+
+28:41.986 --> 29:07.198
+100%. He also, the way he says they build a company that's natural to them. Right. And you can't build a company that's natural to you if you don't know who you are. 100%. And so I have this belief that's like, and I think your accomplishments are freaking crazy. And I know you like to downplay them. And it's just because you're very polite and everything else. I was watching this funny interview with you. And they mentioned something like, you're the most successful person to ever come out of Scandinavia. And your face is...
+
+29:07.330 --> 29:36.094
+Your words were very polite, but your face, oh, it's like somebody poked you. You're like, oh, I don't want to be described that way. But your response is like, I know that face. I know exactly what you said. But this idea that you are the sum of your accumulated experiences, right? That is one form of education. But the form of education is like, I know I went to your house. I rummaged through your library, maybe kind of rudely. But I loved how you were obsessed with history and philosophy too. And I was like, oh, this is a person that's, he's,
+
+29:36.226 --> 30:03.102
+curious about the external world, but he also wants to know like who he is, what's important to him and then building a business and like an apparatus around that. So I just wanted to get that out because you, you, you mentioned something like, I don't think I should probably talk about more frequently, but something I definitely believe is like, you're going to get better at entrepreneurship when you get better at knowing who you are and what you actually want to do. A hundred percent. Um, and, and, uh, as you, as you say, it's like, um, you know, I, I think
+
+30:03.522 --> 30:30.654
+The game I'm playing now is just being the best version of myself. And the best version of myself is one that will have even more impact than the one that had before because it will be even more true to who I am. So what is your archetype? I mean, do you even know? No, I don't know, which is why I was asking you because I figured who's the person in the world that probably has a better idea of like all the different archetypes.
+
+30:30.818 --> 30:57.886
+Because I can still learn how to, like, you know, do the game better, if that makes sense. I would say there's a very interesting idea that I've noticed. You know, obviously, like, there's this maxim I say over and over again that all of history's greatest entrepreneurs study history's greatest entrepreneurs. And if you make a podcast on that, you get to meet the living versions of that now. And what I'm struck by, and I'm like this myself, I have all kinds of blind spots, which you, like, picked away from.
+
+30:58.146 --> 31:26.014
+the first time we had dinner and you're just like, you're doing this wrong. And you were very polite, but just like, you're lying to yourself. You're not like, you know, you're, you're obsessed with this and you're like fighting with a hand behind, time out of the back. But I'm so amazed. It's exactly what you said. It's like, it's almost like they need a mirror. So there's another great idea that I've seen a few times. One of the truly novel ideas, this idea of hiring a paid critic. So Sony is making, you know, audio equipment. It's like in the fifties. This is like,
+
+31:26.146 --> 31:54.622
+And they're very primitive devices. And what they realized was they hired a young vocal arts student. And I don't know how to pronounce his name. It's Naria Oga or something like that. And the reason they did that is because he was a fan of early Sony products. Yeah. But he also had very fine, refined taste and everything else. And so he would just light them up about – he's like, I'm a big fan of Sony, but your products aren't good enough. You have all these deficiencies. And Akil, being the genius that he was, he goes, we hired him as a paid critic. His job was to attack –
+
+31:54.882 --> 32:21.374
+The deficiencies in our product because we don't even see them. Yeah. And the paid critic, his point was that, hey, if you're a ballet dancer, you have a mirror, right? Your mirror tells you what you're doing right, what you can fix, like what you need to do. He's like, I'm your oral mirror. Yep. And then fast forward to when the book is published in like 1986, that paid critic is now the president of Sony. Mm-hmm.
+
+32:21.506 --> 32:50.750
+And I feel exactly, I'm this way. It's like, we need a mirror. Yeah. And I think what I'm curious about with you is like, I remember I just had dinner with Mike Ovitz and, you know, I think his autobiography is one of the best entrepreneur autobiography ever written because he tells you about the bad shit. The fact that he didn't like who he was. He was depressed. He was doing this, making bad decisions based on the opinions of other people, which entrepreneurs cannot do. And I was struck by like,
+
+32:50.914 --> 33:20.606
+The fact that he didn't know himself at 25, I think he was 27 when he started CA. Sure as hell knows himself as like almost an 80 year old man. But I asked him about, he's had some people I know have been friends with him for 25 years. And I was just like, what do you think has enabled you to maintain that relationship? And he said, he tells me the truth. And he's like, you get into my position where he's famous, he's wealthy,
+
+33:21.154 --> 33:47.358
+most of the people that he interacts with are on his staff. Yeah. And he's like, you, it's very dangerous. And he said, he's like, there's not many people in my life that tell me the truth. Yeah. Who tells you the truth? Many people, which is the good news for me. Um, you know, it starts with my family, my mom, um, you know, my mom is the most normal person you would be. She, uh, she's proud of my accomplishments, uh,
+
+33:47.522 --> 34:07.998
+But in sort of the standoffish way, she couldn't care anything about the impact of it. It is more like that I've overcome obstacles for myself that she knows matters to me. So oftentimes, yeah. And so oftentimes, like when I may bring an issue home,
+
+34:08.161 --> 34:35.071
+because she doesn't really know what's going on in the business world and she doesn't really care. She kind of like gives me this mirror back where most of life actually doesn't revolve around technology or the business world, et cetera. It's like, this is the life. So that's a great one. I have a very dear friend, Jack, who very similarly placed that part in my life. He's the most realist person there is. My wife is another one.
+
+34:35.266 --> 35:04.926
+Gustav that you met is another person. He will tell me the truth even when I don't want to hear it. And yeah, I've been incredibly fortunate that like many of the people I just talked about are people that have been around me for 20 years. My mom, obviously my entire life, but many of these people have been around for a very, very long time. And I think that's, you know, I really believe trust is one of the most important
+
+35:05.090 --> 35:30.942
+under talked about things, you know, because it's not easy to scale and it's incredibly hard. It's the number one thing why most organizations break down and why you need processes and all the other bureaucracies ultimately because there's no trust. If you had 100% trusts, you wouldn't need any of this stuff and you would move much faster. It's crazy. Munger again, like I could literally get emails.
+
+35:31.298 --> 35:57.150
+Every week, they're like, why do you mention Charlie Munger on every episode? I'm like, because he's the wisest person I've ever come across. What do you want me to do? Like, I'm sorry he has so many good ideas. But he said something again, and he's another person where he, like, points things out that once he says it, it's obvious, but no one else says it. And he goes, trust is one of the greatest economic forces in the world. And he talked about that. Like, your job, when I actually got to have dinner with him, he's like, your job is to build a seamless web of deserved trust with great people.
+
+35:57.282 --> 36:25.790
+100%. And he's like, that's not any, he was telling stories. He's like, everybody knows that, you know, I met Buffett when he was 28 and I was 35. They don't understand there's all these other guys around us. And we built friendships and did deals forever. Most of them had passed away by the time I met him. But that idea, it's like, trust is one of the greatest economic forces in the world. It truly is. And if you think about it, why is that so rare? It's because it doesn't scale, right? So trust is this notion that you'll keep doing
+
+36:25.890 --> 36:49.246
+actions that will ladder up over time. It really compounds. But you're going to add maybe 1% of trust for each positive interaction you're going to do. But it takes one interaction that's bad to ruin all of it. The moment where you even start doubting whether you can trust someone or not, you have no trust. So the point being is it's like
+
+36:49.346 --> 37:17.470
+Absolute trust, if you really think about it, there's this sort of final gradient. Most people define it as this binary thing, but it really isn't. It's really kind of like, you know, what most people will say is either I trust someone or don't. But even, let's say you do trust someone, there's degrees of trusting someone. How many people do you trust with your life? How many people do you trust with your bank account? Just handing it over. Are you a trusting person, though? To a certain degree. Yeah.
+
+37:17.634 --> 37:35.326
+I think that's one that like from what people that know me. So I have actually had breakfast with a good friend of mine and, you know, he's slightly older, but he tells me truth and he is very nice, but he'll point out the problems that like are going to stop me from going to where I want to go. And one of his problems,
+
+37:35.490 --> 38:05.310
+points because I would answer like if I asked that question myself it's like I don't trust anybody yeah I think I'm getting a little better with that but I am concerned that like I'm gonna be one of my own worst enemies because of this like I can't let go yeah but look I mean you you talked about yourself you it started in your childhood like in my case I grew up without a father for sure but I have the most loving mother she gave me everything and to have that start in my life I've always felt that whatever I do
+
+38:05.666 --> 38:32.958
+whatever the failure is, she will always love me. And to have that in your back pocket, I think it means you automatically come from a different vantage point than what I believe you had in your childhood, right? And then my approach to life is just like, okay, well, you know, by, again, I'm not saying I have absolute trust in every person, but I choose to believe that,
+
+38:33.090 --> 38:57.886
+trusting people makes for a much more fun, rich, and rewarding life than one that doesn't. And I believe that... I think you're definitely right about that. Yeah. And I believe that life is more fun doing the journey with other people around that than doing it in single-player mode. And that doesn't mean that I'm not also a person that likes...
+
+38:58.018 --> 39:27.550
+my own spare time, my own comfort, my own solitude. I have that part and that's the duality in my personality. But I really do believe, and it will go back to philosophy, but the more I give away, the more I get back. And so I just keep focused on doing that. And for me, the ultimate impact at this point, why I said, I'd like to be the best coach there ever was.
+
+39:27.746 --> 39:49.598
+the best entrepreneur coach, maybe that's my archetype, but then a player, because I've come to see that these people that I've done Spotify with for the past 15 years, as an example, seeing their success, seeing their impact, seeing their growth is the thing that gives me the most amount of pride.
+
+39:50.018 --> 40:17.822
+at this point, it really isn't anything else. Like, you know, financially, I couldn't care. Not that important. It's great to have a lot of money to have as a currency to then have more impact. There's more ships on the table to do new, more cool, interesting stuff. But the real thing for me will be the friendships that I built, you know, the trust that other people placed in me to
+
+40:17.986 --> 40:38.110
+allow me to help them on this journey, help me on my journey, and us doing it together. And I've just seen it so many times. I've been burned by it for sure. Sometimes when people have broken that trust that I put in them, but I will honestly say that's been like one or two percent
+
+40:38.210 --> 41:00.766
+negative experience relative to all the positive things that come out of it. The sad part of this, I can't think of anybody that's like betrayed me in like two decades. Yeah. So it's like, I'm just making up this problem, this imaginary problem that maybe used to exist, but certainly doesn't exist now. And this is where I think it's really like helpful to, again, I don't need a bunch, you know, I don't, I don't believe there's a great, um,
+
+41:01.378 --> 41:27.710
+quote from the founder of red bull who i became slightly obsessed with um and i'm really proud of the episode i made on it because like we had to literally translate there was no biographies in english and that we had translated a biography from german um and his point was just like i don't need 50 friends like i believe in much like fewer and better and deeper yeah um and as long as you make those like choices correctly you know again like i can't think of a single person that i feel is in my life that doesn't want the best for me yeah
+
+41:28.098 --> 41:58.014
+And yet I still have this like, oh, like I'll just do it all myself. Yeah. Very related to this. Another thing that like you said that really surprised me is like when people ask me, they're like, obviously know who Daniel is. I use Spotify. I know everything going on. But like, why do you talk about him so much? And I like mentioned you on the podcast and like, I was like, oh, because I've learned a lot from you. You're very, very careful what you want in life. Like, and I get to meet pretty crazy people and like,
+
+41:59.234 --> 42:27.614
+most of the times, like, it's, they're great. But then you see, like, there's, like, a lot of negativity to them. One, there's a shocking amount that have very few, if no, friends. Yeah. Which is scary to me. And then they kind of, like, interact with you as if, like, you're, like, a asset. And once I suck that asset, like, get everything out of the asset, then, like, you will be disposed. And I feel the same people that do that have, like,
+
+42:27.746 --> 42:56.958
+almost no intellectual humility, right? Where I always say it's like, every single person I read about is smarter and more productive than I am. The way I look at this, the world in general, is very much in the same way like Thomas Edison has this great quote. He's like, we don't know one one thousandth percent of anything. And that's the way I feel. It's because every day I learn something new. I'm like, I'm going to be, I was so stupid back then. You have extreme levels of intellectual humility. I don't even know if many people know this, but you would go and shadow
+
+42:57.410 --> 43:27.070
+And spend time. I don't know if you have a term for this. You just like call up somebody that's running a company and say, what, I'm going to come and sit on every single one of your meetings? Yeah, pretty much. Like that's how it goes. And look, it comes back to this. I mean, I don't believe that I know much. Let me just set the table for this real quick. The way you put it to me, like I'll go get them their coffee. Yep. I don't care. Yep. I'm there to learn from them. Yep. If I need to go get their coffee, I'll go get their coffee. Yep.
+
+43:27.394 --> 43:55.966
+Do you understand? That's insane. Like, I think that's the right, like, mindset. Yeah. But I don't think anybody would believe somebody running, you know, a hundred billion dollar company and has done the things that you've done. Like, yeah, no, I'm fine. Like, I'll shout out this guy and, like, I'll do whatever I need to do. Yeah. Well, I mean, look, I just realized it sort of started from this thing, right, where you and I have both read all the books. And actually, many of the entrepreneurs have read books.
+
+43:56.162 --> 44:25.374
+not as many books as you have around all the greatest entrepreneurs, but they've read the big ones. Certainly of their time, the basis is the Steve Jobs, the Elon Musk's biographies and all that kind of stuff. But there's a certain thing around reading it and internalizing it and seeing the culture upfront. And what I realized was building Spotify, obviously it's the biggest company I've ever built. So I'm learning on the job.
+
+44:26.210 --> 44:54.622
+And I don't know what I don't know because I've never really worked at a company, right? And it's in a way what I realized as we hired people from these other companies is that there were all these things that they were doing that they kept telling us about and I didn't really understand like how it worked. So I'll mention like one, for instance, I do really well in these like one-on-one situations. I might even do well in like three or four person groups and maybe six.
+
+44:54.850 --> 45:23.646
+But 10-person group, like I don't have the personality where I command the room. It just doesn't work. And then you have someone like a Mark Zuckerberg who literally has this thing called large group where he has 20 to 25 people that he runs every week. And for me, it sounded absolutely awful. Like how did he get anything done in that meeting? And so lo and behold, I asked him, hey, can I come and learn from you? And he was incredibly confident.
+
+45:23.778 --> 45:41.278
+gracious, and we've obviously been friends for a long time. And he said, sure. And so I spent the better part of what I believe the first time was like a week literally in pretty much all of his meetings from start to finish. And
+
+45:41.634 --> 46:07.326
+The big question, obviously, for me is like, okay, well, what does he get out of it? And can I make myself useful while doing it? So hence, I took meeting notes. If I could get him coffee, I would. It was literally these types of things. But at the end of it, the most interesting thing was obviously trying to distill down what surprised me about the culture.
+
+46:07.490 --> 46:37.374
+It wasn't really around like Meta and what was then Facebook is a world-class company. It wasn't like, you know, I miraculously thought I could do a lot of things different or better, but there were things that surprised me around how he managed the company. And seeing that and hearing that from another founder, hopefully one that he respects too, may sort of lead to insights and breakthroughs. And during that week, it's not just that I've
+
+46:37.602 --> 47:02.878
+follow people around, I actually meet with their entire executive team and interview them too. So sit down and try to learn from them to really, truly internalize the culture and try to understand it. And so all of a sudden you do realize, for instance, how you can make a large group team meeting work. And there were lots of other things which I shamelessly copied from, for instance, that experience. And
+
+47:03.042 --> 47:29.374
+It just turned out for me to be an amazing way to learn by seeing the culture up front that enables the certain practices to work. It almost comes back to kind of this two things we talked about already, which is this mirror of reflecting it back. And then the sort of second notion, I think, which is it's got to be true to you. So, you know,
+
+47:29.602 --> 47:59.422
+There are many things where you can copy a specific way. For instance, Elon does things. But if it's not truly innate to you and your personality, I promise you it will not have the same impact as when Elon does things. I think you're dead right about this. The way I would think about your archetype is I think you nailed it with Coach. And then you'll hear people inside Spotify say you have a very collaborative management style.
+
+47:59.810 --> 48:25.854
+where I don't think anybody is going to describe Steve Jobs as collaborative. Now, he was able to collaborate, but at the end, like, he was, it was kind of like, I'm making all the decisions. There's actually an interesting story. I'm curious how you think about this. Like, how do you balance, like, the decisions you make, specifically on, like, product, right, with, like, your own personal taste and intuition versus, like, being metrics yourself?
+
+48:25.986 --> 48:55.678
+driven. There's this hilarious story. It's in two different books. One's in this book called Creative Selection, which is excellent. It's read three times. It's about this guy from this guy named Ken Kosienda, who was a programmer. He demoed to Steve many, many times when they were building their best products, right? And then there's another story in Johnny Ives' biography. And they were comparing and contrasting the way Google would make products versus how Apple did when Steve Jobs was in charge. And the guy's like, hey, at Google,
+
+48:55.810 --> 49:24.158
+we have to decide between blue and light blue. And we run 200 tests of all the different shades in between that. And Johnny's like, we would never, ever do that. Do you remember, you were old enough to remember this, they create the iMac, but the big fat bubble one, probably late 90s. And it was the first time there was gonna be all these crazy colors and everything else. And Johnny tells the story, he's like, you know how we chose the colors? He's like, me and Steve went to the design, the Apple Design Center,
+
+49:24.354 --> 49:45.822
+And we talked about it. And 30 minutes later, the colors you saw, we shipped. That was it. Where are you on that spectrum? Yeah, I think the most important thing that you described is it's a spectrum. It's not 100% one way or the other way. Because, again, sort of like I remember –
+
+49:45.986 --> 50:14.238
+Early on, you know, people talking about that sort of dichotomy of how Google does things and how Apple does things. And many founders then tended to gravitate when Apple was at sort of peak Steve Jobs to, no, I run the product review. It's only my opinion that matters and it's my taste. And I've got this articulation, all these things. And lo and behold, like some terrible decisions ended up coming out of this, et cetera. And I think where people sort of,
+
+50:14.338 --> 50:36.574
+break down on almost all issues is they take it literally. I don't believe for a second that Apple was 100% in the camp where Steve Jobs just had universally the answer to everything. He didn't listen to anyone else's opinions. He didn't try things out, sometimes maybe trying it out by testing his ideas on multiple people inside and outside, you know, etc.
+
+50:36.898 --> 51:04.094
+But of course he did that, right? And I know one of the ways he did it, which was brilliant and that don't get talked about. He actually called up journalists sometimes and tested ideas on them. And like, we might do this kind of thing. And then here the journalist react to it. And it's like, okay, that was a bad idea. And then go back. They describe this as like sonar, how dolphins, like they like throw things out and it might be a crazy idea. And then it reflects back to them and they use it as like a form of education. But the hilarious one is they...
+
+51:04.194 --> 51:30.622
+couldn't figure out what they were going to call what turns into the iMac. He was obsessed with the Q Marine and Sony. He goes, I have the name for this computer. It's going to be the Mac man because of the Walkman. And people were like, no, please don't do that. There can't be that. And you're like, this is terrible. And they kept meeting after meeting. He's like, Steve, this name sucks. And they give him a bunch of lists. And then the first time you hear his iMac, he's like, don't like it at all. And then they're like, well, we really like it. So like, we'll put it in the next group. And then like, we'll maybe put like the third one down. And then he goes,
+
+51:30.850 --> 51:59.006
+Now I don't hate it. And then one day he's walking in the hall. He's like, I came up with the name, but it's iMac. Yeah, and of course, yeah. That's the way, that's the way, right? And so I feel like that's truly the case. I think the realization is you tend to over gravitate to one or the other. And certainly in Spotify's case, we did the same. Like we were early on, very much so. I mean, the first user interface was pretty much designed by myself and this guy called Rasmus.
+
+51:59.170 --> 52:27.678
+So much of that you could describe was my taste. But sooner or later, what ends up happening is you get into a space where you don't even know anymore because your current feedback loop of where the world is and the customer you're designing for starts becoming a little bit different. And then you need to get to a point where you start incorporating some feedback mechanism. So like for me, taste is sort of judgment plus curiosity. And
+
+52:27.810 --> 52:55.422
+the more you can sort of like extend the curiosity branch that improves your judgment, which then builds your taste. And so it's really a question for me about just sort of allowing for as much feedback as humanly possible so that you can, you know, get yourself or a small team to some level of taste.
+
+52:56.546 --> 53:25.598
+The best leaders in business are able to spot patterns, but you can't spot patterns if you can't see your data. And most businesses are only using 20% of their data because 80% of your customer intelligence is invisible, hidden in emails, transcripts, and conversations. Unless you have HubSpot. HubSpot is where all of your data comes together so you can see the patterns that matter. Because when you know more, you grow more. And that is a pattern that never fails. Visit HubSpot.com today. That is HubSpot.com.
+
+53:27.042 --> 53:56.926
+Are there any product updates that get pushed live that you didn't like? Oh, plenty. Plenty. And this may be a little bit unique, but, you know, coming back to it, so, you know, I ended up having, you know, so the typical thing is that the founder needs to be the product person, right? By the way, it's 100% true. I totally believe that. I think it's the most important thing in the zero to one stage.
+
+53:57.858 --> 54:24.062
+But what a lot of people don't talk about is the fact that there isn't one stage of this journey. It's like you're oscillating between zero to one, one to a hundred. And then, you know, the last stage was more like optimization stage. And you have to like constantly do that. And you're going to need different skills at different places. And this is why, by the way, I believe it's so important for entrepreneurs to realize when to apply what tools in this journey. So, yeah.
+
+54:24.258 --> 54:49.438
+What happened with Spotify is sort of against all the common wisdom and wealth, which is I don't really run product anymore. Because what happened was I got this guy called Gustav that you now met, and he runs product. And he's actually way better than me at doing it. And so speaking about sort of being truthful, what ended up happening many years ago was I was running these product meetings regularly.
+
+54:50.402 --> 55:18.046
+he was sort of running it, but I wanted to run it. So I kind of interjected myself over him, but I didn't have the time to like really spend all this time. So he was sort of like running it for me, but I still insisted on having product reviews. And sort of talking again about the importance of having people who give you candid feedback. He took me aside after one of these product sessions and he's like,
+
+55:18.306 --> 55:47.262
+you know you're not really that good in doing these things, and you're not really that helpful. So most of the time, me and the team, we're kind of like looking, and we're trying to basically appease you in the meeting, but you're not really adding as much value as you think. And not surprisingly, my first instinct was to be really pissed off. I sort of went home. I was like, man, I'm going to have to fire this guy. It's like horrible. Like, how could he say this? But I also realized that that was an emotional response.
+
+55:48.226 --> 56:16.414
+So again, I wasn't fully convinced that this was true, but I sort of went back and said, okay, well, you know what? I'm gonna give you three months where I don't do the product reviews. And then we evaluate how this worked. And lo and behold, he actually did a great job. And so the team was much happier. He was making more of the decisions without me. I wasn't meddling in, there wasn't two different people deciding what worked, but it was really him.
+
+56:16.674 --> 56:43.102
+Ever since that moment, you know, I don't really run product anymore in nutrition. I'm involved in the product and he solicits feedback from me all the time, but I don't run the product meetings. And I say that because what happened for me was a real setback, not just in sort of that moment, but it also sort of like, oh, wait a minute. So what am I really, you know, what's my value add then in this company?
+
+56:43.522 --> 57:05.982
+And it took me a while and I realized that all of a sudden, hmm, actually, you know what? That won't be it, but maybe I can add value in this place. And I sort of oscillated to this different place in the company, which was much closer to understanding the creator and spending more time with the content people, et cetera. And so my product feedback ended up being,
+
+57:06.210 --> 57:24.286
+And this is the dynamic that's quite unique to Spotify in that we have these two stakeholders. We have consumers on the one end and we have creators. And so I just made it my effort to understand and know the creator way better than anyone else in the company. And so my product feedback was...
+
+57:24.482 --> 57:48.990
+to them comes from that lens. And that became value add because again, that's a very different thing. That's an outward facing thing. You actually have to sit down and meet with creators. It is so much more about innately understanding their needs and talking to them and understanding not just how they use the product, but their business. What problems are they facing? That's not just sort of how they leverage the product, but actually holistically around them.
+
+57:49.122 --> 58:18.654
+And so that was just one of those things. And then subsequently what ended up happening is I got this guy called Alex, and he's now doing that part better than me too. And so I was like, okay, well, now I need to find a different way to add value. And now it turns out that my value add is the sort of in-between between the two, where business or creators meets consumers and where there's maybe a third stakeholder we have to consider in all of this.
+
+58:18.818 --> 58:47.966
+And so my whole sort of experience in all of this has really been around kind of figuring out who I am and what I'm innately good at. And this has been a learning journey for 20 years. What you're just describing right now, this unfolded over how many years? I would say the first 10 years was the zero to one journey. And the last 10 has been that journey where we're not...
+
+58:48.354 --> 59:17.374
+zero to one anymore as a company holistically. But there are elements of the company where we're zero to one where I'm absolutely 100% involved. I think this is a good opportunity to talk about another one of your very unique ideas that I also, there was this excellent, I just did this episode on Jeff Bezos because he doesn't give that many interviews. And so I would take a transcript of his interviews and treat it like a book and just go through it. And he said something like from day one, he knew, like he wanted to build a company that could
+
+59:17.538 --> 59:46.622
+outlast him. Yeah. Right. He still loves it. He'll love it forever. And it was very reminiscent of like what we're trying to do as parents where it's like you're shaping your kid but you're only successful if they can survive without you. Yeah. And when I heard him say that it was a few months after you had beautifully like articulated this idea. It's just like well I think there's a lot of you're going to say better than I did but essentially like there is a very rather clear analogy between
+
+59:46.786 --> 01:00:03.102
+The way your child, when they're first born, is essentially like a product of you. They're going to mimic their parents, their environment that they're in. But as they grow older and older, I just went through this and I have a 13-year-old. You know, when she was much smaller, she's much like me and her mom, right? Yeah.
+
+01:00:03.266 --> 01:00:31.998
+And then now she's like, she's got traits that I don't even have. Yeah, 100%. And her own decisions and like doing things maybe I would do or I would not do. And you're like, it's kind of the same for the company. And you had this idea where like, I think at the time Spotify was 19 years old or it's 19 or 20 years old. And it's just like, well, you know, year one or two, it is me. It's like the same way you have a two-year-old. Anybody knows this. But now there's characteristics that emerge from within the company that are separate from the founder. That's like a fascinating insight.
+
+01:00:32.418 --> 01:01:01.822
+Yeah, I mean, look, there's clearly kind of like three distinct stages of parenthood, right? And the first one is you're literally the person that keeps them alive, right? And you're 100% there and you pretty much make every decision for them because they can't make it themselves. And then gradually the next stage is you're there, you're quite involved, you probably step in when they're doing something which would be terrible and would create
+
+01:01:01.954 --> 01:01:24.126
+bad long-term consequences. And then like the last stage, you're not even, you can't even do that. So the job is much more subtly to just be there when they need you. And I'm somewhat simplifying it, but I think that with everything, don't take it literally, but sort of
+
+01:01:24.578 --> 01:01:51.038
+The core of the gist of the idea is certainly a larger company becomes more and more and an older company becomes more and more of that. And so much of what I do today is literally that. I try to be there for people when they need me in various fields, which happens, but it's not as often as every day all the time. And what I deeply think
+
+01:01:51.458 --> 01:02:20.062
+care about today and I do spend a lot of my time on is this notion around this first seed of a new idea and protecting that idea. And I think it's probably the most under reported talked about way is how do you do that? Like how do you consistently find lighting in a bottle?
+
+01:02:20.194 --> 01:02:47.710
+And it's also theoretical at the point of any strategy book talking about how you do it or even when you go behind. The other day I was with the guy Hamilton Hamler who wrote Seven Powers book, which is an amazing book on strategy, by the way. But one of the most interesting ideas –
+
+01:02:48.066 --> 01:03:11.102
+that I learned after sort of, again, overfitting the concepts in the book and sort of teaching people about it is you can only tell that you have power when it's there. It doesn't tell you how to get there. This is the criticism of like founders and the podcast and the books are like, but he's not telling me what to do. It was like, this is not a podcast for people that want to be told what to do.
+
+01:03:11.202 --> 01:03:39.710
+It's here's how this guy or this woman thought about their company. This is what they experienced. You pull out these ideas. I love how you kept saying don't take it literally. I've told you this before. I drive people crazy because I tend to turn everything into an abstraction. So when I hear you, I've sent this message to you where you're like, you kind of remind me of James J. Hill, which might be the only person that's ever texted you this. And James J. Hill was the most successful railroad baron of all time. And I just thought the way you just said the way he built, he essentially –
+
+01:03:40.002 --> 01:03:53.726
+He was laying railroad tracks, right? And the goal of the company was obviously we're going to have goods and people on the tracks. Right. But this alone is how do I make what I'm doing more valuable? And he's the only railroad founder ever.
+
+01:03:54.402 --> 01:04:24.368
+in American history to not go bankrupt. They all went bankrupt. It's crazy. What he realizes is like, he has to spend just as much, if not more time developing and nurturing the communities that are springing up around it. And if he builds these communities around it, that makes his railroad more valuable. But I love this criticism because it's like, oh, you just, you got to find a different show or you got to find a different thing. Because like, entrepreneurs don't want to be told what to do. I've never met an entrepreneur. It's like, give me a list. It's a profession for people that don't take
+
+01:04:24.368 --> 01:04:44.510
+Don't take direction very well. Exactly. It's hilarious about this. I want to – I think this is tied to something also that is very fascinating with you is you have a high – and most people, again, like the – I think the more control you have over your life, the more success you have, people make the mistake of like eliminating any people telling the truth, any inconvenience. They come like really brittle. Mm-hmm.
+
+01:04:44.770 --> 01:05:14.302
+You have an insane high tolerance for crazy people. Okay. Somebody told me, somebody works closely with you, that you judge people on their best idea, not their worst. And I just finished rereading Jim Simons, founder of Renaissance Technologies, really creator of a magic money machine is really what I think about the guy. And they said something very similar. They're like, it doesn't matter. He's like, if there's a single good idea in your pile of horse manure, like he'll find it. Like he will go through. Yeah.
+
+01:05:14.594 --> 01:05:40.542
+All he cares about is the very best ideas. Yeah. He's willing to go through 99 shitty ideas to get the very best because he understands how powerful those are. Can you explain, like, how you develop this tolerance? Because most people, like, especially this company's age, too. Yeah. You know, you're built. Usually you have a lot of variance in the beginning. Yeah. And then they get more successful and they kind of – corporations make the mistake of, like, no, we need, like – we need all the edges. We need the high and the low. Yep. Yep.
+
+01:05:40.738 --> 01:06:10.366
+out of there. You embrace that. The way you put it to me when we were talking about this is like high temperature people in training AI. Yeah, yeah, yeah, yeah. I actually think LLMs and the latest advancement in AI kind of have created an excellent framing on this and to talk about this sort of high temperature notion. So in LLMs, you can basically tune up the temperature. And if you tune up the temperature,
+
+01:06:10.530 --> 01:06:39.006
+you know, it basically start hallucinating. So, you know, the bad thing with the hallucination, of course, is you have no idea what's true or not. But there is spurs of vocational brilliance that comes out of there and the truly new ideas that come out of there. So the criticism of the current generation of LLMs is they're not very creative. And that's ultimately because we've kind of turned down the temperature on them and we've safety trained them to the point where we keep them within the guardrails.
+
+01:06:39.458 --> 01:07:06.846
+So there is a way when you train these things to be highly creative, but batch it crazy. And that's just turning up the temperature. And I believe that, you know, one of the, and this is by the way, something that I intend to focus a lot more on in the next decade. You know, I'm very reflective at the moment because I am in my 19th year. And I think it's interesting. You sort of talked about big,
+
+01:07:06.978 --> 01:07:36.126
+companies because I used to think before I sort of ran a big company myself, I just think, used to think they're bad, period. And what I've sort of revised my view and, and now I think they're really good at doing what they're already doing and doing it better. So back to that point, like a large scale corporation, what they do is they just get better and better and better at doing what they already do. And the way to do that is obviously minimize mistakes. So, um,
+
+01:07:36.354 --> 01:08:04.958
+You know, that also means minimize billions, minimize waste, minimize all these other things. So naturally, what you end up having is more and more capitalism, public markets, all of these things drives you towards one thing. Optimize what you're doing to the point where it's the most efficient thing that it can possibly be. But that is not how conducive to how you get the best ideas. And what I'm greatly...
+
+01:08:05.122 --> 01:08:34.463
+satisfied and happy with, and I've been fortunate enough as I don't anymore run Spotify as much day-to-day as I used to. I'm still very involved, but I'm not involved in all the team meetings and doing all the things that I used to do. So I was like 90% internally focused on just getting the machine to run. It's that I've been more and more able to not just have the free time to think, but I've been more able to meet more people.
+
+01:08:35.234 --> 01:09:01.855
+And part of the beauty of that is that it brought me back to music again. And it brought me back to the creative process of music again. And it is something remarkable in a studio where you have a bunch of people just throwing ideas at each other. And musicians actually in many ways know more about the entrepreneurial process than most people give them credit. I think it's the same thing.
+
+01:09:02.594 --> 01:09:26.846
+filmmakers, like athletes. 100% the same thing. Yeah. 100%. And so this point then is that what I truly believe the very best musicians do and the most creative people do is they are not afraid of throwing out ideas, even terrible ones. And it's in...
+
+01:09:27.073 --> 01:09:55.646
+even the most terrible one, there may be a nugget. You and I, we talked about this over breakfast where, you know, there was a person who sort of gave some bad advice to you. But sometimes even, you know, the insight behind the advice, sort of the question behind the question can lead to some really interesting things. And so what I've come to do, realize is most people want conformity.
+
+01:09:56.066 --> 01:10:25.662
+And they value sort of a reliable consistency of, you know, giving X amount of impact per seconds or minute or, you know, X truthfulness, you know, over X percent. They have some sort of heuristics for what is valuable person from a business context or whatever sort of context you're judging it on. But certainly in a business concept, this conformity. You want to sort of put people in about this person is good and they're always good.
+
+01:10:25.826 --> 01:10:53.854
+But, you know, what I'm more interested in these days is I'm interested in this idea I've never heard about before. And I find it with, you know, some people, you know, that even in an hours long conversation with the best people in the world where I've learned the most, it may be 55 minutes of that conversation that, you know,
+
+01:10:53.954 --> 01:11:23.006
+honestly was completely worthless, not that interesting for me. But then there's a spur of the moment, two, three minutes of brilliance, which I never heard before, which will deeply and profoundly impact my life. Those are my people. That's what I'm interested in. And I've come to learn that most people don't like to be around those people, but I love it. And I think it's, you know,
+
+01:11:23.138 --> 01:11:49.502
+It's such a rewarding and interesting thing. And I'm looking forward to spending more time with those people in the coming decade. And it's sort of one of those things that I've sort of want to do more of and learn more from. I think this is related. One of your oldest friends texted me the other day, and it was a screenshot of this episode I did with Chung Joo Young, who's the founder of Hyundai.
+
+01:11:49.986 --> 01:12:19.582
+And it's probably the most, I think it is the most inspiring autobiography I read because the guy writes the book when he's like 90 and he grows up the son of a poor farmer. You know, they had to eat tree bark to survive. He dies the richest person in South Korea, builds this huge conglomerate. I thought I was going to read a book about a guy making cars. I didn't realize that was like nothing. Like he was building, did all the construction, built some of the biggest ships in the world. Like he was just, his nickname was the bulldozer. And the reason he sent me the screenshot and it was a specific part of the podcast, he's like, this is just like Daniel. And one thing that Chung would,
+
+01:12:19.682 --> 01:12:44.670
+about is as the the more you progress in your career the bigger the company gets the more like rigid it gets yeah they go from like default optimistic default risk-taking to the any new idea no no no no no yeah like no we're not doing that that's too risky like i can't build a car like works a tiny little you know island and he goes daniel that gives me the same exact advice where he will say something i will say no and he goes
+
+01:12:44.930 --> 01:13:12.510
+But did you even try? And then he goes, it's related to his ability, if you actually analyze, his willingness to go into all these different industries where he doesn't know anything about the industry. Yeah. Yeah. And I think that sort of comes back to the George Bernard Shaw quote, right? The unreasonable man. Let me read the full quote because it's an excellent quote, too.
+
+01:13:12.642 --> 01:13:38.750
+The reasonable man adapts himself to the world. The unreasonable one persists in trying to adapt the world to himself. Therefore, all progress depends on the unreasonable man. I have it painted on my wall at home. Yeah. And I'm just reminded of that. Because I think the reality is it is really, really tough to not conform, to not be part of a group. And it's so easy. Yeah.
+
+01:13:38.946 --> 01:14:08.126
+And there's so many temptations in life that draws us back to that conformity, right? Money is another one. When you make a lot of money, you tend to make life more comfortable. So you tend to spend more time golfing. You spend some time doing all these other things. But the reality is you become distracted and you're not going to be on your A game anymore. And so the hard thing then is to keep going and keep improving and keep doing these things. But
+
+01:14:08.258 --> 01:14:37.502
+you're going to have to sacrifice a lot in doing so. You're going to sacrifice people's birthdays, social commitments. You're not going to show up, you know, for a lot of things. You told me a funny story one time about how committed you are to your work and your friends know this about you, that sometimes you'll be in the middle of a dinner and then like an idea comes to mind or something you need to pursue and they just know, oh, he's gone and he's not coming back tonight. Yeah, yeah. That is an unreasonable...
+
+01:14:37.698 --> 01:15:00.126
+People are like, oh, I can't do that. It's social etiquette. Sometimes I find myself to do this because we're both introverts. We've talked about this before, but I kept getting invited to group dinners. And I just felt like, oh, this is a prestigious group dinner. This person's really successful. People would love this opportunity. And so at the beginning when I first started doing this, I started going. I'm like, this sucks. I remember one time it was in a private room.
+
+01:15:00.290 --> 01:15:24.958
+And they shut the doors. And within like five minutes, I knew I was like, I got to get out of here. I was like, don't worry. I'm going to pretend to go to the bathroom and just never go back. And I was like, so I stand up and go, oh, where's the restroom? Like, it's right in the room. Like, oh, no. And what I did, which I wouldn't do today, is I sat down and I wasted an hour and a half of my time. Instead of just being the unreasonable man. Like, I'm not going to say, like, what would Daniel act do? He would get our avoid the dinner in the first place.
+
+01:15:25.090 --> 01:15:52.414
+Yeah. Yeah. I would say, you know, I'm not proud of sneaking out sometimes on that, but, but look, I mean, at, at, at the end of the day, I think that that's less about sort of being protecting my time and more sort of about protecting unique and novel ideas and how rare they are. And, and, and, and by the way, we'll, we'll hopefully get into that, but I, I,
+
+01:15:52.802 --> 01:16:18.974
+I think less about sort of a lot of entrepreneurs seem to be obsessed about time. I'm really not. I'm more obsessed about energy management. Wait, wait. Yeah, let's get to it now. What do you mean? Well, I mean, you know, you constantly hear this thing about all this, you know, you're supposed to wake up at 4 a.m. in the morning and you're supposed to do all these things, et cetera. It's like, first and foremost, there's no rule. Like, I know...
+
+01:16:19.106 --> 01:16:47.774
+A lot of successful people, as I'm sure you do too, it's like some of them wake up at noon, some of them wake up at 4 a.m. You can do a lot of different things. The obsession with morning rituals is stupid. Yeah, but the other thing is about sort of you're supposed to pack every, like you're supposed to have meetings every 15 minutes and like a 15 minute increments is better than a 30 minute increments, so on and so forth. Look, it might work for you. And for some people it might be like the absolute best thing.
+
+01:16:48.354 --> 01:17:14.910
+I've become more obsessed about sort of managing my energy. Because like, if you have time, but you have no energy, you're not gonna accomplish anything anyway. So how do you manage your energy then? Well, it's about finding out what gives you energy, right? To begin with, and what drains energy. And it's about finding out which time during the day, you're most productive. And it's again, innately about understanding yourself.
+
+01:17:15.010 --> 01:17:43.806
+And what the whole world tries to do is get you to conform to their schedule. Oh, we have an 8 a.m. morning meeting because that's when you get into the office or you're supposed to do this and that and all these other things, again, in a big corporations. And it's about conformity to like the average or to an okay standard instead of going for excellence. And what truly, truly is unique. And I think the truly, truly unique thing is you've got to just figure out what works for you and you've got to do more of that.
+
+01:17:43.906 --> 01:17:58.910
+And that's more about energy management, I believe. And it's so much more about like, even before this thing, I think both of you and I, we went and worked out, right? You know, that gives me energy. It's what's gonna sustain the rest of my day.
+
+01:17:59.074 --> 01:18:29.054
+do workouts at all because I thought I don't have time. There's no productivity. I used to go for the worst productivity thing I did was I was at one point doing these 15 minute naps. I don't know if you've heard about this exercise. No. It's a really bad idea, by the way. So don't try this. But I sort of learned that you can like day-sister and sleep together by doing like these 50- Oh, it's like polyphasic. Yeah. Okay. So the basic gist is you're supposed to be able to last like
+
+01:18:29.058 --> 01:18:56.638
+on four hours of sleep. And I was like, oh, this is great. So I did that. And actually the interesting side part is it worked for about three weeks. And then I missed one of these 15 minute increments. And holy shit, I was like completely suicidal for like weeks afterwards. It was like not a great thing at all. But the point being is, you know, it's about sort of finding that energy management for yourself. I think certainly there's
+
+01:18:57.186 --> 01:19:20.702
+There's a common wisdom around sort of what an average good sleep should look like, et cetera. But the reality is there are some people that will work on six hours of sleep and they'll do just fine and may even be more productive that way. I wish I was like that. Like if I can have a superpower, I always say like I like to fly. The first thing is I want to fly like Superman. If I can't do that, I just want sustained high energy levels 24-7.
+
+01:19:20.802 --> 01:19:47.742
+Because I need a ton of sleep, and I felt bad about this because the same exact reason you're describing. It's like people are like, no, you got to get up at 4.30 or you got to sleep less or sleep faster. I don't know what Tristniger would say. You got to sleep faster. And then I'm reading James Dyson's first autobiography. And the guy made one of the most successful companies of all time. He's still doing it at 76 years old. And he goes, I need a hell of a lot of sleep, 10 hours a night, or my entire next day is ruined. I'm like, wait a minute. This guy built –
+
+01:19:48.066 --> 01:20:17.598
+He's a single shareholder of a multi, multi, multi-billion dollar company. He builds some of the best products in the world. And he's sleeping 10 hours a day. You just said there are no rules. No, it really isn't. And so, I mean, look, you just got to find that thing, right? But when you realize that, so if you start with that as the basic thing, like all the things you and I have been talking about for this time now, you know, the reality is it's like it's about knowing yourself, which is really hard. And you get to know more. And it's about building a system that works for you.
+
+01:20:17.794 --> 01:20:39.870
+I know hanging out with crazy people gives you energy, right? Yeah. You know, there's actually something. So I text a mutual friend of ours, Patrick O'Shaughnessy. And I was like, I'm talking to Daniel. And Patrick, I think, asks the best questions in the world. And so obviously I need to use phone a friend. That one lifeline. Yeah, exactly. And he's a good mirror too.
+
+01:20:40.354 --> 01:21:10.046
+because it's almost like a therapy session. He'll be very quiet, doesn't like attention to himself, and yet he'll hit you with a question, like, I didn't even think about that. And he has this great way to describe you, because my guess is that, not even guess, I'm pretty, I think you're obsessed of learning and understanding the world around you, and that drives a huge part of what you're doing, and this exploration, and you can build companies around the stuff you're interested in, that's kind of like this compounding learning machine. But he goes, out of everyone I know,
+
+01:21:10.146 --> 01:21:33.694
+Daniel has the ability to apply what he learns the fastest at the highest level. And this was actually related to a conversation that we had at your house, which is fascinating. Because again, I know you don't like public adulation. I'm still going to do it because I think it's fascinating where it's like everybody focuses on Spotify, which is a marvelous achievement that very few people on the planet are capable, have been able to experience. And yet they like,
+
+01:21:34.082 --> 01:22:03.966
+Also, because it's not really talked about, it's like all this other success that you're having outside of this too because you have this like – you're very curious about things. And now you have a network and knowledge and resources that you can actually impact and try to make the world a better place. And you're not going after easy shit by any means, which I also admire about you. It goes back to the impact over happiness thing. And so we're talking about this. And I'm like, were you – because usually true interest is revealed early. So if we go and look at your life story, just like people are like, oh, what hobbies do you have? I'm like, I like to read. Yeah.
+
+01:22:04.130 --> 01:22:32.286
+like what else i'm like yeah i like to read that's it it's like i was like that when i was five i didn't i wasn't like five years old what's a good hobby for my future self-development it's like no i just like reading i like books better than people in general um and so you see that in your early life like you're starting companies and you know it's a company it's just like trying to do something so i was like oh you must be like like you must have been interested in like investing forever and you're like no i never even thought about it until 2018 you said the funniest thing you know how did you learn about it goes
+
+01:22:32.546 --> 01:22:56.574
+I started listening to Patrick's podcast. And then I'd hear an idea. I'm like, that's a good idea. I would try that. Oh, I don't like that idea. And then I'd start reading books. And then you just literally taught yourself. You weren't interested at all. And now you're essentially world-class at it in a very short amount of time. And this is just the face again. You just did the same face. But explain how you think about...
+
+01:22:56.770 --> 01:23:26.174
+this where it's like I always say learning is not memorizing information learning is changing your behavior and I think if I thought of anybody else I know that personifies that it's like you it's like I'm not just like listening to this podcast for shits and giggles yeah I'm not reading this book yeah even if you find it enjoyable yeah like I'm looking to like apply this yeah well I think it's back to that like sort of these two concepts we talked about my whole journey is one of self mastery and finding out what
+
+01:23:26.434 --> 01:23:56.254
+how I can become the best version of myself. And meanwhile, what gives me energy is solving problems. You know, and as you say, I think this is revealed early. Like I loved, I didn't know it was companies, but I loved like sorting out problems for other people. I've been doing my entire life, whether it's a relationship advice, whether it's all these other things. And this is why I think these conversations are important to have because like you are the personality type that I've read about.
+
+01:23:56.674 --> 01:24:25.726
+It's just like now instead of reading about you when you're 80 or dead, you're like in the middle of it. So it's very fascinating to me because I'm like trying to balance like my understanding of this through reading with like an actual person where it's just like most of the people, they're not like I'm starting a company for company's sake. Just say what you said. I like solving problems. Yeah. That's it. That's all. So if you look at like the video games, I actually think what kind of video games you like is a pretty good revealer of your things too. Like I wasn't –
+
+01:24:26.370 --> 01:24:50.238
+playing any kind of first-person shooter games or any of that, some of it, but not much. Most of what I was playing was strategy games, you know, civilization, business strategy game. I played every tycoon game of how to run businesses better. Of course you did. So those were sort of my favorite games, you know, growing up. I love SimCity.
+
+01:24:50.466 --> 01:25:19.838
+SimCity was amazing. This is what I would say about entrepreneurs. It's the best job in the world. I don't understand the people that give it up. I hate even saying this because rule number two in the center of family is what I teach my kids is mind your own business. I think you're very similar. I don't have any suggestions on how you should live your life. If we're friends, we can talk and go back and forth. I just mind my own business. But sometimes I don't have any other way. I meet so many entrepreneurs.
+
+01:25:20.098 --> 01:25:47.134
+And they're like, I sold my company. I'm like, sorry to hear that. They're like, what? I'm like, why would you get out of the game? And then they sell their company and then you go be a VC. I'm like, oh my God. This is the best game in the world. It's never ending. It's not like sports where like you can get better with time. You can solve problems. You can build your own world. If you think about what we were doing in the computer with SimCity, it's like, oh, like I'll put a highway there. That's like, I'm, I'm, there were world builders. Yeah.
+
+01:25:47.330 --> 01:26:16.990
+You get to control like who's around you, what are the rules in the world that happens. What's the outcome of the people in the world? And hopefully you're doing it for like benevolent and good reasons where I do think like one of my favorite quotes or maxims from the history of entrepreneurship comes from Henry Ford where he's like, money comes naturally as a result of service. And the crazy thing about Henry Ford is by 1919, he owned 100% because he bought out his investors of one of the most valuable companies in the world and he didn't do it to start a company. He had one idea. I've read-
+
+01:26:17.250 --> 01:26:45.182
+books on this guy and people knew him forever. He's like, one idea, it's kind of weird that we're putting together cars. They're really expensive. He was obsessed with machinery and essentially outsourcing human labor to machines. Started on the farm, right? And he's just like, I want to build a car for the everyman. You said something very, in the early days of Spotify, he's like, I have this goal of this celestial jukebox or whatever the case is. And you said at the very, I don't know how I'm going to do it. He said the same thing, but I learned how to do it. He's like, oh, well,
+
+01:26:45.698 --> 01:27:14.270
+how can I make a car cheaper? Sure as hell can't put it by hand. So we've got to learn how to mass produce something we don't know how to do yet. And that took him, you know, a decade and a half of failure or whatever. And then what happens is he didn't start the company to make money, but he made millions of people's lives better. He changed the geography of, you know, the world for God's sake. And as a result, money came naturally as a result of service. That's 100% how I think about it. And I think this is the beauty of capitalism, right? Because ultimately at the end, there has to be someone willing to pay for what you're doing.
+
+01:27:14.370 --> 01:27:36.638
+And the reason for them to pay is obviously solving a problem for them. And the better you're solving that problem or the bigger the problem is that you're solving for people, the more valuable it becomes. What did you say earlier, too? You're like, I forgot how you phrased it, but in my mind when I interpret what you said, it's this idea of not being a go-getter but being a go-giver. You're saying something like the more problems you solve. Yep.
+
+01:27:36.802 --> 01:28:03.678
+the more comes back to you? Was that the... Well, so these are two different ideas, but sort of closely related. So it was actually my co-founder who sort of said, the value of a company is the sum of all problems solved. And if you really think about it, it is exactly what it is. So like I tell this to the team because when we face very difficult problems, it is great. Because again, if we solve these problems, we will create a lot of value.
+
+01:28:04.258 --> 01:28:29.566
+I keep saying you think like Bezos. So there's a great line, same thing, where he says, I'm reading his shareholder letters for the fourth time. And it's like, these are so good and so clear and concise. I should read them every year. And I was like, I feel like I just read them. And I looked it up. I haven't read them since the end of 2022. But there's all these stories in Bezos' early career where people on Amazon would come to him with a huge problem. They thought maybe they'd get fired. And he got excited. Yeah. Yeah.
+
+01:28:29.890 --> 01:28:59.038
+Because he's like, oh, great. Like, we had a problem we didn't even know. If we solve this, our company gets even more valuable. Yeah, exactly. There's this guy named Henry Kaiser who was as famous in his day as maybe like an Elon is today. And he built 100 companies. One of them still exists, Kaiser Permanente. He built the Hoover Dam. He built the Liberty ships in World War II. And he has this great maxim that, like, people would come to him and they'd be all depressed and he'd be excited. And they're like, what the hell's going on here, Henry? And he goes, problems are just opportunities and work clothes. Right. That's a great way to think about it. Yeah.
+
+01:28:59.234 --> 01:29:27.742
+if I can solve this problem for other people, I make other people's lives better, I make the company more valuable and like, and then you also have to feel good about what you're creating into the world. 100%, but I think it comes from solving problems. And so, yeah, I mean, like I get excited today, you sort of asked about the other stuff that I get focused on. I don't focus so much about the solution, I focus on the problem. I try to find really interesting problems that,
+
+01:29:27.938 --> 01:29:39.262
+and figuring out even if there's like a five or 10% chance of solving that problem. And I know that would be huge for humanity or society if we figure it out, then it's,
+
+01:29:39.394 --> 01:29:59.998
+amazing. Like that gets me fired up. And the intricacies of solving that problem, because it's oftentimes very, very complex, because it's not like other people don't know this problem exists. There's probably even a lot of people that would agree that if we could figure it out, that would be really valuable. But, you know,
+
+01:30:00.514 --> 01:30:29.566
+find this all the time. And you said it yourself. It's like sometimes they're really small, these problems. Sometimes they're gigantic and sort of earth-shatteringly different. It's everything around life extension to just walking into a store and you see things you don't like in the store. Well, those are problems. If you could do those things better, you could probably build a business. And so the biggest thing, however, is that
+
+01:30:29.698 --> 01:30:59.070
+people have this misconception about what innovation is and they somehow think that they gotta try to figure out something entirely new. But the history of the world is we build on other people's ideas. So an innovation is actually taking two or more things that were already well known and putting it together in a new way. It's really what it is. And so for me, the most interesting thing, it's like laying a puzzle or anything else. It's like I get to sit around and because of the meeting so many billion people,
+
+01:30:59.266 --> 01:31:24.414
+I get to listen to problems all around me all the time. And I try to distill and figure out, okay, well, this person said this thing, but what if you actually articulate the problem like this instead? Okay, well, what does that mean? What does that unlock? And that for me is just, it's so much fun. And I couldn't imagine, you know, not spending every single day doing this. And
+
+01:31:25.186 --> 01:31:51.166
+We started this journey by telling my story that I didn't have to work. And that's why I started Spotify, because I love music and I wanted to figure out a way where consumers got what they wanted and creators were able to get paid by doing what they love to do. And that's really the genesis of the story. But even today, I'm thinking about this and I said, even if you remove all the money, even from the beginning, even in the middle and even now,
+
+01:31:51.586 --> 01:32:21.214
+there's no way I wouldn't do this and spend much of my awakened time thinking about this stuff. Just sort of like, for me, this is impact and this is what leads to happiness in my life story. I read something Jeff Bezos said that changed my perspective on the importance of high quality sleep. He said that he makes sure he gets eight hours of sleep a night. And as a result, his mood, his energy, and his decision-making is improved. His point was that you get paid
+
+01:32:21.378 --> 01:32:50.718
+make high quality decisions and you can't do that if you're sleeping terribly. And the product that has made the biggest impact on my quality of sleep for years is Eight Sleep. I'm lucky enough to be friends with the founder of Eight Sleep, Mateo, and we live in the same city. A few months after I started using Eight Sleep, I randomly ran into Mateo at a restaurant and I was with some friends. So I go over and say, hi. When I got back to my table, my friend asked me, who was I talking to? And I said, that's Mateo, the founder of Eight Sleep. And my friend replied, he looks like he gets good sleep.
+
+01:32:50.850 --> 01:33:20.670
+Mateo is living and breathing his product. I had never had the ability to change the temperature of my bed before I had an 8sleep. I had no idea how much that would improve the quality of my sleep. I keep my 8sleep ice cold. It's cold before I get into bed. So I fall asleep faster and wake up less during the night. That feature alone is worth 10 times the price. There are very few no-brainer investments in life, and I believe 8sleep is one of them. That is why elite founders like Mark Zuckerberg and Elon Musk have all said publicly that they use 8sleep.
+
+01:33:20.866 --> 01:33:46.590
+I would recommend getting the pod five, which is the newest generation of their signature product. It is a smart mattress cover that you place on top of your existing mattress. And it is next level sleep tech. It automatically regulates your body temperature throughout the night independently for each side of the bed. The result is you get up to a full hour of additional quality sleep per night. Make the no brainer investment in your sleep by going to eight sleep.com forward slash Senra.
+
+01:33:46.754 --> 01:34:14.462
+You said something in the early days of Spotify that was very fascinating. You wanted to build, like, an enduring and impactful company that did something that no one else did, right? It's remarkable also, like, when I'm listening to a series that was, uh...
+
+01:34:14.914 --> 01:34:41.086
+in 2021 how much you guys are talking about ai and how early you were and you understood the impact which is like you kind of saw clearly like where we're going uh but you said something that i didn't actually understand because the way i think about technology is like technology is just a better way to do something right and you're like at spotify though like at the very beginning it's like yeah i think you've nailed it you're like the decisions that were made have to do with the dna of the founder because we're the only ones there yeah
+
+01:34:41.218 --> 01:35:08.574
+You said, I like technology for technology's sake. Yeah. What does that mean? I like the process of science. I like the process of discovery. I like the process of understanding how things work. You know, I've been wired this way all my life. I've been pulling apart computers. I've been trying to understand why a semiconductor works the way it works, all these things. And I'm intrigued by it.
+
+01:35:08.674 --> 01:35:29.310
+about that. Just this thing about understanding everything, understanding life, understand where we come from, understanding all these different things. But I'm equally interested in solving problems. And when you're curious about both of those two angles, you can end up finding these sort of
+
+01:35:29.442 --> 01:35:59.006
+connection points where those two things meet, where it's obvious that there is something over there that no one's really kind of applied in this way before. And maybe there's not one idea, but two ideas over there. It's quite interesting. And I think you have to love technology in order to go to the depth of understanding what's possible. And because it's oftentimes like the greatest ideas is truly innately understanding something and truly understanding
+
+01:35:59.106 --> 01:36:27.614
+innately breaking constraints around that something by understanding the rules and knowing when you can. Yeah, to break them. Yeah, and so like what are the greatest entrepreneurs really? Well, the greatest founders are the people that kind of have this one idea of like what the, they can almost internalize the consumer, right? Like what is someone willing? What do they need even if they can't articulate it themselves? And then have this entire field
+
+01:36:27.842 --> 01:36:56.126
+of amazing, brilliant engineers and scientists and mathematicians and all these groups of people that are doing various things. And then sort of figure out the intersection. And then you actually have to make it viable too, which is you have to have some sort of business model. Because if you don't have that, eventually this thing won't be sustainable. So, you know, it's sort of the trifecta of those three things. And that makes it even more interesting.
+
+01:36:56.994 --> 01:37:23.550
+Because now we're talking about a really complex equation, trying to get these things together with multiple unknowns. And you're trying to configure these things by locking down constraints on one side, and then you're trying another side. And the amazing thing about early stage entrepreneurship is, we talked about this Google example of trying 200 different colors. You can't do that early on. That is the amazing thing. Every decision you make is life or death.
+
+01:37:24.450 --> 01:37:53.534
+And that makes sort of the stakes even higher because you may literally try one thing and then you run out of money. And so you got to make sure that is the right thing. And it's just such a fascinating process. But it comes back. It's a process of creativity. It's a process of trying things out. And I'm more and more enamored and more and more in love with this idea that creativity itself is
+
+01:37:54.370 --> 01:38:24.318
+is this really, really powerful thing, maybe the thing that makes us unique as humans relative to everything else that exists in this world, and kind of going deeper and deeper into creativity itself. And it doesn't conform, and it doesn't scale, and it doesn't behave in any of these other things. And then you have this other side, which is all about scale, which is all about conforming, and sort of navigating that sort of
+
+01:38:25.122 --> 01:38:47.326
+Dynamism between these two things and polarities between these two things is, you know, very few people that I think can do and is really, really well classed at doing it. I think most of you can't even describe why you're doing what you're doing at the time. And what I mean by that is like you hinted on this earlier. It's like it's so easy to kill new ideas.
+
+01:38:47.586 --> 01:39:17.502
+The arrow on the side of, no, we can't do this. It's amazing to me how many times this comes up in all these biographies where it's just like, this is a skill you have to learn. And a lot of it is like being comfortable with the messiness of the creative product process. But it's also entrepreneurs by definition, impatient, patient. Like they have this, what looks like a paradox where like they want shit done now. I love, Jeff Bezos says about this, step by step ferociously. I'm willing to,
+
+01:39:17.730 --> 01:39:46.686
+plan, you know, to take two decades or three decades to solve the problem that I'm trying to go after. Maybe in some cases, stuff that he's working on might even outlive his lifetime. But that doesn't mean I'm like dilly-dallying on a day-to-day basis. I heard you say something one time. You're like, I promise you, I don't think I'm the smartest. I don't think I'm the most talented. If I have one superpower, it's like I just have super, like I have super patience. Yeah. I think Neko is like an example of this. I met your co-founder on it. And I got to see this too. Yeah.
+
+01:39:46.946 --> 01:40:09.694
+And I was like, oh, like, this is cool. Like, who made the machines? It's just like, we did. And then I didn't know it was like, I don't know if stealth is the right word, but from the idea to the first time the customer happened, it was like six years or something or four years. No, it's, the company's eight years old and we barely began. Yeah. And it's like, okay, that's an insane love. That's an understanding of like, we're,
+
+01:40:09.826 --> 01:40:28.094
+tackling one, something that's... I like what you just said, like innovation and creativity is actually a combination of things that occurred before that were combining. And when you mentioned that, I thought of like, you know, James Dyson is one of my entrepreneur heroes. And what I love about one of the hidden things that people don't know is he wrote a book
+
+01:40:28.226 --> 01:40:52.958
+the history of great inventions yeah it's such a like it's not it's kind of a bland read right god bless his heart but like it's just him going through like little wikipedia pages or like my his version like wikipedia pages about like what this inventor did how he did it and what the result was and then you see him take these ideas from like 1700 or whatever and i was like oh i'll just take like that little piece out here and i'll combine it with this piece and then what's
+
+01:40:53.154 --> 01:41:22.174
+what's the new technology today that enables me to solve this problem that didn't exist a few years ago? So you have this patience, right? You have this desire to solve problems. It's almost like it sounded like to me, and maybe you could disagree with me, like you're sounding like you see a giant puzzle that you're trying to figure out. Now you have, like you have more resources, you can be patient. Like you couldn't have done Necco when you were 23, right? But you have this great quote that I know is important to you. And it says, quality is never an accident. It is always a result of intelligent intelligence.
+
+01:41:22.498 --> 01:41:48.574
+effort yeah we haven't talked about quality at all you know like Spotify is the height like if you compare your competitors like it's just in a class by itself yeah so it's obviously very important to you yeah like we can't we have to talk about quality so like do you want to like just pick up where that quote leaves off well there's so many strands of quality right um um it is both um sort of
+
+01:41:48.674 --> 01:42:11.678
+distinction of taste, whether taste is subjective or objective. You can go so many ways with this question. But the way I think about quality is I think so much of your early life, certainly in my case, was the formulation of just trying to go for more. And
+
+01:42:13.058 --> 01:42:42.974
+The further I've gotten, I've realized, and it's about everything, right? You mass more stuff. You mass, you try to do more things at the same time. You try to do all of these things at the same time. And the further you go, you realize that it really is about sort of ultimately this very simplistic trike thing, less is more. And the older I get, I feel it more and more.
+
+01:42:43.490 --> 01:43:12.318
+You know, we talked about it with friends. I think most people start out thinking having more friends is better, but I think more people are happier with fewer but better friends than many friends. And so I think quality is ultimately this sort of notion around focusing, distilling, getting to the essence.
+
+01:43:12.866 --> 01:43:42.334
+We can even talk about like quality in communication is often trimming things down and saying less things, right? Why is it, for instance, that when we're talking about very hard things, most people's instant reaction is just to try to add more complexity to the issue instead of just simplifying it. They're just trying to be courageous and just trying to say the thing right out loud. The older I get, the more my instinct is towards turning towards that.
+
+01:43:42.434 --> 01:44:11.326
+And I'm reminded even if we go back to investing, because like part of why I sort of liked investing has nothing to do with money. It started with honestly this fact that all of a sudden I had more money than I knew what to do with. And I sort of didn't want to just hand it off to a bank and without understanding anything about it. But what sort of got me deeper curious about it is I realized that investing is actually more about investing
+
+01:44:12.322 --> 01:44:36.158
+learning about your temperament than it is about the specific action that you're doing your temperament actually it's it's more about being in line with your temperaments than than not or which game you're picking needs to be suited to you and your circumstances and how you want to play this than anything else and so again we come back to philosophy um and so uh one of the concepts um
+
+01:44:36.386 --> 01:45:04.318
+is obviously around that Munger talks about, coming back to Munger reference again, is diversification, right? And he calls it somewhat simplified diversification because the common wisdom, of course, is in theory, diversification is the best thing you can do. But the truly greatest people financially, if that's the only yardstick you use, typically do completely the opposite of that, which is they have...
+
+01:45:04.482 --> 01:45:33.566
+Oftentimes, there's only one asset. Maybe they'll have two or three, but they certainly don't have more than that. And they just go for that. There's a realization you have, right? Because I read something, you read a line, and you're like, okay, let me filter that through how I would say it. So I do this all the time where I'll take notes on all the books that I read, and then I'll reread them. I'll just jot the down. I was like, what's occurring there? Can I put it into one sentence? And one thing I stumbled upon about this was that sometimes Nick Sleep has this great quote.
+
+01:45:33.666 --> 01:46:03.582
+he's like, the best investors are not investors at all. They're entrepreneurs never sold. And me and you have talked about this, the fact that there's a lot of people that have like sold way too early and they're like lauded. And it's like, if you just didn't do that, everything else you did, like if you just didn't sell. So Nick Sleep talks about this as like, and in other books, it's like, if Sam Walton didn't give away the stock in Walmart to his kids before it appreciated, you know, you have one of the largest fortunes by a single person ever for their ownership, the concentration of ownership in Walmart.
+
+01:46:03.714 --> 01:46:31.134
+And Sam talks about this. He's like, I didn't really do investing in anything but Walmart, right? And it's like he wasn't waking up saying, I need to diversify more portfolio. I need to worry about capital allocation. He's just like, I believe in what I'm doing. I'm going to keep doing it. I'm going to throw all my money in there. And he's just like, I'm doing it because I love to do it. And spending time doing anything else would be an absolute distraction. And Nick Sleep talks about this because he's a capital allocator. He's not building a product, but he's making capital allocation decisions. Like, do I need to sell this stock, put it into another one? I'm weighing my opportunity costs. Yeah.
+
+01:46:31.234 --> 01:47:00.222
+And he was haunted almost by this idea, if you look at financial history, it's like he talked about a financial firm one day where they're like, okay, we owned IBM in the 1950s. And I didn't know until I read Michael Dell's autobiography, right? Because IBM was, it's like, they're the most powerful and wealthiest company in the world when me and you were born, okay? And Michael Dell's like, you have to understand, like 1987 for me to like yell out to my dad, he's like, what do you want to do for a living? He's like, I want to compete with IBM. I'm a 19-year-old in my life.
+
+01:47:00.322 --> 01:47:25.502
+room with a thousand dollars like what kind of grandiose ambition do you have i went and started like why is this so crazy and i started it's like it was the most valuable company in the world by market cap at the time it was the first company to go over a hundred billion dollars in market cap right and this little 19 year old kid's like no i think i can like have a go have a go at them but nick sleep talks about he came into this firm he's reading their their how they talk about their investments and like we made a massive mistake we owned ibm
+
+01:47:25.634 --> 01:47:55.198
+the 1950s and we sold. And they're having this conversation in the 1970s. And the leadership of the financial firm is like, how do we avoid not doing this? That one, they said, if we just held that, it would have, the gain would have been more than all the assets we have in our management. Like, we can't do this. That same year, they sold Walmart. They have Walmart in the 1970s. So they made the same mistake. And Buffett, obviously, greatest investor of all time. He met Walt Disney. He went and talked to Walt Disney in like the 60s.
+
+01:47:55.458 --> 01:48:20.478
+And then I think he bought the stock at like 62 cents or something. Right. And he had like a 2X or 4X game. He's like, oh, I sold Disney. Yeah. So that's why I was like, oh, the best financial decisions are not financial decisions at all. You're doing it for another reason, which is exactly what you said. It's like all Sam had to do was just keep doing Walmart. It's exactly what he did. I remember I obviously live in Miami on a friend's boat in the marina there.
+
+01:48:20.578 --> 01:48:46.622
+And there's like the boat like bigger than anything else around there. It's like, and you can Google like who owns it. It is like, it was Sam Walton's brother's daughter. Right. Right. Yeah. Yeah. It's crazy. But, but, but I think you're onto something important, which is this notion around just innately focusing and, and solving problems day by day builds quality. Right. And, and, and so,
+
+01:48:47.426 --> 01:49:13.310
+quality for me is less, quality for me is focus, quality for me is improving day by day. All of these things build quality and quality is rare. Quality in people is rare, quality in ideas is rare. And we tend to make these things binary. And we talked about it with people, like I'd rather have that person that has
+
+01:49:13.570 --> 01:49:33.886
+one good idea in an entire hour and the rest is crap. Then someone who has, you know, 10 decent ideas, but nothing is amazing. So that sort of differential equation between the 1% versus the rest is so important and it's so important to understand. And I think it's, we again,
+
+01:49:34.018 --> 01:49:59.262
+We take it literally, we know about it because we can explain it in hindsight, but we don't know when it's happening. So what is that qualitative process? What defines quality as it's happening before you can see it objectively from the outside? Those things are interesting. And I'm more and more drawn towards that. It is, for me at least, very much looking at the people in it.
+
+01:49:59.362 --> 01:50:25.310
+And looking at how they build judgment over time, the sort of feedback loop they create, the curiosity that they have about this and the obsession they have about trying to achieve the impossible. And for me, the impossible is something that's perfect. It's never going to exist. The whole universe is this thing where the only thing we've learned, we keep debating all these things about the universe, but the only thing we know is it's not static. It moves.
+
+01:50:25.730 --> 01:50:47.998
+cannot by definition be like this one thing. It's just constantly expanding or contrasting or it's moving. So perfection just doesn't exist. But the aspiration towards perfection is a remarkable thing. I mean, I love Japan for this reason, right? Like you find these amazing individuals that literally spend their entire life
+
+01:50:48.130 --> 01:51:16.094
+I was in Japan maybe 10 days ago or something, and I was in one of these temples with a tea master who literally all he's done for the past 34 years is perfecting how to make tea. That's it. Nothing else. And yes, the tea is amazing. But it's not just that. It's just seeing that obsession about quality, seeing that obsession about
+
+01:51:17.058 --> 01:51:43.294
+being not even one percent but like 0.1 or 0.1 in something and i think feel like you you sort of asked about ai and all these things and and we can talk about art too but like for me like that is going to be even rarer like average is going to be possible to do even better than average is going to be possible to do with ai but but that's sort of
+
+01:51:44.130 --> 01:52:09.758
+about this guy doing this for 30 years just becoming the very very best about what they do or even what I find incredibly inspiring by you is just the relentlessness every single day towards the long term it's like as you say it's the paradox about the long term mindedness but the obsession on the daily basis and against
+
+01:52:09.858 --> 01:52:26.238
+conventional odds against all these other things. Because I would imagine, I don't know, but I would imagine like when you started Founders, probably not many people knew who you were, right? Nobody, right? And so the competition for your time
+
+01:52:26.946 --> 01:52:43.454
+there was none. So you could probably sit for six hours or eight hours, et cetera. But today it's much harder because there's many other things. There's people like myself and other people. And you're like, oh, wait a minute. Maybe this is a good idea to meet this person. Or there's...
+
+01:52:43.554 --> 01:53:13.534
+you know, a business opportunity that shows up. And maybe people are asking, look, maybe you should invest and maybe you're tempted about it even. But this is the thing that happens all the time. And this is how greatness gets evaporated is you lose focus. That's a great line. Greatness gets evaporated. A lot of the stuff, like when I talk on the podcast or everything I say on social media is like reminders to myself because I just reread past highlights because like we forget that we forget. And so I need a reminder. And I just came across one. It's just like,
+
+01:53:13.634 --> 01:53:41.566
+I had them presented to me in a random order. So it's like, I never know what I'm going to read that day. And it said, it was Buffett. It's like the difference between successful people and really successful people is really successful people say no to everything. And this is exactly the constant thing where like, I do have a question for you. One, going back to that, it's like, I can't even explain why I did what I did because like I had close to no traction for five and a half years. And now I look back, I was like, there's no way I would do that today. Yeah.
+
+01:53:42.146 --> 01:54:07.038
+But somehow that person who I now greatly appreciate and love that he – it feels like a different person. Yeah. That I cannot believe – that is like what I'm most proud of is not like trying to make something that's great, which I think is a selfish thing for us. It's like, yes, when you release it to the world, you release Spotify, you do all these things. It's an act of service to other people, but you're also doing it because like you have to. It has to come out. Yeah. But I just cannot believe that –
+
+01:54:07.746 --> 01:54:37.054
+I did that and I'm just like, that's the thing I'm most proud of than anything else. Just like, I had to do this. I was willing to like drive Uber if I had to, 10 bar, do literally whatever. I was like, just give me enough time, I'll figure it out now. I didn't think it was gonna take half a decade to figure it out. You have a ton of stories with Spotify with that. There is no line I feel between like your work and your life, like they're one and the same. The issue that I'm having now and in general is that I feel a lot of pressure
+
+01:54:37.186 --> 01:55:06.654
+like i'm trying to change not just my life but like literally the trajectory of like my entire family and i feel very guilty when i don't work to the point where like you know i just got back from a crazy trip that people would love to go on and like i just felt guilty for not for like taking time out and off not working yeah and i feel like this is like almost like a compulsion like i don't have control over it yeah do you have anything like that sure um i do feel the same thing of course um but
+
+01:55:06.818 --> 01:55:36.670
+I'm back to sort of time versus energy management. And I don't know about you, but I feel like the greatest ideas I've had comes from the most weird and wonderful places where I expected nothing out of it. So quite often when I do take some time off, I come back with like two or three, some entirely new insights that just wouldn't have come if I just kept grinding that thing by just changing the scenery.
+
+01:55:36.770 --> 01:56:02.526
+being in a different frame of mind, pausing, giving, you know, it's in the creative process, you know. The greatest artists talk about some of the greatest songs literally take five minutes to write. Yeah. Which is amazing, right? But some songs are the ones you, like, work on it, you put it in a drawer, and six months later, totally unbeknownst to you, it clicks. You're not even working on that thing. It's just sort of like, oh.
+
+01:56:02.690 --> 01:56:29.854
+That's it. And they go back and they do the song and it's like the greatest song ever. There's not one path to greatness. There's many. And I feel like that's why I'm so obsessively focused on energy. So you mean energy is like you just let that guide you? Yeah. It's like, hey, if I need a break right now, if I need to go for a walk or if I need to go spend time with my wife and kids or like –
+
+01:56:29.954 --> 01:56:56.446
+Is that what you mean? Yeah, 100%. And I try to feel that. I feel like so much of our life just rips us apart from this thing and tries to get us on a schedule per se. And it's not like I don't have a schedule. Of course, I do have one. But I feel so much of it should be more guided by trying to understand ourselves more effectively.
+
+01:56:56.610 --> 01:57:24.830
+intimately, right? So I don't know if you've heard of this, but going back to sleep, there's been this kind of thing around more recently, which I was surprised. One of my 10-year-old daughter told me about this, this around, that actually, you know, she sort of said, like, we have this idea of eight hours, and she actually mentioned instead that the real notion is that it,
+
+01:57:25.154 --> 01:57:55.038
+we kind of did it almost like fasting. Like Ramadan is, you know, it's based on the sun. Sometimes it could be six hours or something, it could be 12 hours. So it used to be the sleep was actually in two periods. So you didn't sleep one consecutive thing. You sort of had a three, four hours sleep and then, you know, you woke up and then you had another three, four hours sleep again. And so much of that was based on light. And, you know, maybe it was driven by other things that were happening in our life too.
+
+01:57:55.170 --> 01:58:24.766
+And for Nordic people, what it actually meant, going back as late as the 18th century, before we started having electric lights and candles and all these things, is we actually slept a lot less on the summers and we slept a lot more in the winters, guided by lights. So we keep thinking it's the static thing, but it's actually, again, driven by the environment around us. And so much of this sort of innate knowledge about listening to ourselves is
+
+01:58:24.930 --> 01:58:46.270
+understanding our innate personality, understanding hunger. Like I can tell you as someone, I've gained in periods of my life like 40 pounds in my worst negotiations, et cetera. And one of the problems I have now is that I literally don't know when I'm hungry.
+
+01:58:46.402 --> 01:59:10.782
+because I ruined that sort of natural feeling in my body of understanding when I'm hungry and when I'm not hungry. So, huge part of losing weight for me over the past few years was just really kind of innately starting to listening to my body again and like starting to figure out what satiation means. Because for me, for instance, I don't feel it until 20 minutes after.
+
+01:59:10.882 --> 01:59:37.886
+So like if I didn't like sort of eye what I should eat, I would just keep eating way more than I should. And so much of me has just been portion sizing of like understanding, okay, well, that's probably going to be enough. And it doesn't feel like enough at that moment because I ruined my body, but 20 minutes later, I understand it. And so I'm just trying to sort of, again, convey this sort of thing about understanding who you are, choosing the game you're playing and realizing that
+
+01:59:37.986 --> 02:00:07.774
+that life is not one game, but it's a thousand games. And there's this brilliant quote by this guy called Kwame Apia that is another one of those things. I just circled it. Perfect timing. No, we're in perfect alignment. Go ahead. Well, I'm probably going to ruin the exact one, so maybe you can read it. Okay, I'll read it. It's, in life, the challenge is not so much to figure out how best to play the game. The challenge is to figure out what game you're playing. Yeah. And for me, realizing that,
+
+02:00:07.874 --> 02:00:36.830
+it's just been eye-opening, right? It's another one that's on my wall because I feel like quite often when I'm talking to people and they're talking and trying to get life advice, they're not playing their game. They're playing someone else's game. They're certainly not playing the game they want to be playing, but they somehow think that life is just one game where actually so much is about choosing the right game for you.
+
+02:00:37.538 --> 02:01:03.678
+And so, yeah, I keep coming back to that. Like energy management is the same thing. You've got to like create the environment around you that you want to do. You've got to choose your game. And when you do that and you start understanding that, you start becoming superhuman in your ability to get things done. Do you have more or less negative self-talk today than you did 20 years ago?
+
+02:01:07.458 --> 02:01:34.462
+I'm more comfortable with who I am than I was 20 years ago. I was still very much, my whole life, I've been a searcher. I've been, you know, when I was really young in my teens, I went to every possible religious meetup you could be. I went to everything. I went to Hare Krishna centers. I went to, you know, people.
+
+02:01:35.970 --> 02:02:03.454
+Jewish centers, mosques, I went, everything. And I try to learn as much as possible because I truly believe not enough people are like, I've always been surprised why more people aren't interested in where we come from and what the purpose is of life. For me, those are sort of some of the greatest questions that I, like many others, don't have any idea, obviously, what will happen, but I think they're really important. So I've always been a searcher.
+
+02:02:03.586 --> 02:02:22.654
+And I think that actually sort of like led me to sort of also be a searcher about myself too and trying to find sort of who I am. But the older I've gotten, the more and more things have started clicking about myself and the more unapologetic I am about. And so your inner monologue gets...
+
+02:02:23.394 --> 02:02:48.830
+less harsh? Yeah. Because like, you know, not only do you stand out quite a lot as an entrepreneur and my interests were widely different than my social circuit growing up and all these things. But the second thing is I'm an introvert. So, you know, that doesn't help. So most people like being around a lot of people and they get energy from it. I didn't. So that obviously naturally gets you to question yourself. And
+
+02:02:49.666 --> 02:03:10.046
+know against um many others as an entrepreneur i'm not the most eloquent person i'm not the smartest you're pretty damn eloquent well i i had to work on it that's still like the hard thing i've really really i'm listen i've listened to all your episode or all your interviews and i did this before we were friends and i every time something comes out i was like oh i gotta watch that you're
+
+02:03:10.178 --> 02:03:28.062
+You're not giving yourself enough credit. Like, you are a very clear communicator. Thank you. Yeah. But it's really a work product. Like, I wish there was more recorded stuff on myself when I was, like, 20 and 21. Not me. I was not great. I was quite...
+
+02:03:28.194 --> 02:03:55.998
+And so I've just learned that it's a superpower and something I have to work on is getting my message across to other people to believe what I'm believing and see what I'm seeing in order to get them to want to come and join whatever thing we're trying to will into this world. I have two more questions that I'm personally curious about. One is going to be a very weird question, but the first one is, do you feel...
+
+02:03:56.226 --> 02:04:25.118
+Okay, so like most of the people watching this or listening to this, like so few people are going to be born in the projects in a tiny little, we didn't even, we'll have to do like this every year if you're fine with it. Because like the idea that you even like come from this tiny little island, which I was like, you know, like got to visit. And then you like competing with the biggest companies in the world and you win. It's just doesn't like we didn't even get there. But like you grow up.
+
+02:04:25.442 --> 02:04:52.990
+You have a great mom, you know, you're single family, not a lot of money, but, and then now what I'm curious about is like your lived experience is so, there's so few people alive that can actually empathize with that as, because they also had it. So I'm very curious. Do you feel different? Um, and what I mean by that is like, as you've grown from, you know, kid in the projects, yeah.
+
+02:04:53.282 --> 02:05:21.470
+even if you had early success, to now being one of the most successful entrepreneurs on the planet, which I know, don't do the face. But it's an undeniable fact. Do you feel different? I think yes and no. So I feel different in the same way a 40-year-old would feel different than a 10-year-old would do. I feel different in I'm a product of all the experiences of my life. And obviously, I've been incredibly fortunate to
+
+02:05:21.602 --> 02:05:48.478
+I was counting the other day, I've been to like 130 countries or something in my life. I've seen so many cultures, so many people, I have friends all over the world. All of that has shaped me into who I am. I don't feel different because innately many of the things, the drive, the long-termness, the obsession, the...
+
+02:05:49.474 --> 02:06:18.430
+this sort of willingness on the paradox of winning on the one hand, but then also trying to truly find a win-win and work with people to try to find a win-win, which is really important to me, has always been there. And it's always been these things. And like you said, you kind of look back at yourself a few years back when you started off and say, wow, how did I do this? And you're amazed at that.
+
+02:06:18.530 --> 02:06:45.854
+I can feel the same way about young Daniel. I can feel myself about the young Daniel that worked every weekend, you know, nonstop, 24-7, sacrificed so many things, so many summers, so many other things. You know, I had a blast doing so, but I didn't have a normal upbringing just because I was so obsessed about learning, so obsessed about making it.
+
+02:06:46.082 --> 02:07:14.718
+And it put me in the position of where I am today. And I actually feel like I owe that guy to keep pushing myself, right? Because there's so many things. There's so many demands of my time, so many things that tells me to sort of downshift gear into an easier gear because life would be a lot more comfortable that way. This is not a comfortable thing. No, it goes back to impact to happiness. This is what...
+
+02:07:14.818 --> 02:07:42.526
+So I think I text this to you, but one of the roles you play, and I'm very grateful that you allowed us to record this conversation because essentially what I text you is you seem to have no self-imposed ceiling on what you can learn or achieve, and that spending time with you then transfers that belief to other people. And so every single time, I take notes of what I learned from the conversation we have after the fact, and I interpret it as obviously not verbatim. I'm saying like,
+
+02:07:42.690 --> 02:08:09.758
+what did I just learn from Daniel? What does apply to me? He's like, oh, you have all these, you think you don't, I thought like I was ambitious and I, like, I didn't even realize till you kind of pulled the scales off my eyes. Like you have this like limiting belief that you have no limits. There is no limits in life. And so like, you're a hell of inspiring. One other question for you. I'm obsessed with Game of Thrones to an unhealthy degree. I've rewatched the series all the time. I've read all the books. I read the encyclopedia. I'll read the family histories because I do think like,
+
+02:08:10.210 --> 02:08:35.006
+you can learn a lot from human nature and fiction and, and my job and my obsession requires me to 99% of my reading is nonfiction and I don't, I want to read more fiction. Yeah. And I came across something recently because I'm going through Jeff Bezos shareholders again. And then I read like, what was my interpretation of this in the past? And then I came across something that was fascinating. There's a, there's a story in the prequels of game of Thrones where, uh, two brothers, uh,
+
+02:08:35.330 --> 02:09:04.574
+Or fighting in this war, one of the brothers was pulled into the war that did not want to be there. And he made the sacrifice because it was for the good of his family. He wound up dying in the war that he didn't want to fight in the first place. And his brother that survived, got his remains, buried him, and then put him in a grave with only one word on his tombstone. And that one word was loyal. So hopefully, a hundred years from now, when you do have a tombstone,
+
+02:09:04.770 --> 02:09:32.766
+If there was only going to be one word on that tombstone, what would you want it to be? I don't think too much anymore. I used to think a lot about how other people saw me or see me. I don't do that anymore. So I would choose...
+
+02:09:33.314 --> 02:09:51.518
+more of a self-reflective one. And I wish only one thing on my tombstone, future one, it feels absurd talking about it, but would be that he lived. That's a great one.
+
+02:09:51.938 --> 02:10:21.598
+It's a great way to end it. Daniel, I'm thankful for your time, thankful for your friendship. You're one of the people I most admire, and I really appreciate you doing this. Well, thank you so much, and it's such a huge honor to be your first guest in this series. Of course. Thank you so much. We wouldn't have it any other way. I hope you enjoyed this episode. Please remember to subscribe wherever you're listening and leave a review, and make sure you listen to my other podcast founders. For almost a decade, I've obsessively read over 400 biographies of history's greatest entrepreneurs, searching for ideas that you can use in your work. Most of the guests you hear on this show
+
+02:10:21.730 --> 02:10:23.742
+first found me through founders.

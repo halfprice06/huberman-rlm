@@ -1,0 +1,976 @@
+WEBVTT
+
+00:00.354 --> 00:24.638
+Welcome to the Huberman Lab Podcast, where we discuss science and science-based tools for everyday life. I'm Andrew Huberman, and I'm a professor of neurobiology and ophthalmology at Stanford School of Medicine. My guest today is Dr. Sergio Pasca. Dr. Sergio Pasca is a professor of psychiatry and behavioral sciences and the director of the Stanford Brain Organogenesis Program.
+
+00:24.962 --> 00:53.310
+During today's episode, we discuss autism, schizophrenia, and human brain development generally, both brain development during pregnancy, as well as during childhood and leading all the way up to our third decade of life. During today's discussion, you will get the most up-to-date information about autism and its treatments. You'll learn why the prevalence of autism is rising, the role that genes play in autism, and the novel treatments that Dr. Pasca is developing to treat what is called profound autism, which are the most severe cases of autism.
+
+00:53.474 --> 01:21.726
+Dr. Pasca is one of a small handful of researchers that pioneered the discovery and development of what are called organoids and assembloids, which are essentially human brain circuits derived from stem cells that form in a dish so that one can study them directly. And while that might sound artificial, today he explains why those organoids and assembloids are immensely powerful for understanding exactly what is wrong in psychiatric illnesses like profound autism, schizophrenia, and other psychiatric challenges, and for developing cures.
+
+01:21.826 --> 01:49.374
+So today you're going to learn a lot about human brain development and about stem cells, which is going to be important for anyone interested in how the brain wires up, how to treat various diseases of the brain, but also for anyone who is considering stem cell therapies. As you'll soon learn, Sergio is an extraordinary scientist, but also an extraordinary teacher. By the end of today's episode, you'll have the latest information on stem cells, organoids, autism, and what is being done to cure autism and other psychiatric conditions.
+
+01:49.538 --> 02:19.102
+Before we begin, I'd like to emphasize that this podcast is separate from my teaching and research roles at Stanford. It is however, part of my desire and effort to bring zero cost to consumer information about science and science related tools to the general public. In keeping with that theme, today's episode does include sponsors. And now for my discussion with Dr. Sergio Pasca. Dr. Sergio Pasca. Welcome. Thank you. It's great to be here. We're old friends. Shared a laboratory space years ago. We'll get back to that a little later. In the meantime,
+
+02:19.874 --> 02:47.646
+These days, there's a ton of interest and I think misunderstanding about autism. As soon as the topic of autism comes up, immediately some people will say, why are we trying to cure this thing? I know autistic children and adults that are delightful people that lead functional lives. They might be a little bit different or a lot different than other people, but why are we trying to quote unquote cure autism? And then other people will say, well, there are people with autism who need
+
+02:48.002 --> 03:17.534
+constant care who will never live independently. Tell us about autism, what this spectrum really is, and then we'll talk about what your laboratory is doing to try and literally find cures for the most debilitating forms of autism. Well, autism is a complex condition. It's a spectrum, as you said. In a way, you could say autism and neurodevelopmental disorders. It's behaviorally defined. There's no biomarker.
+
+03:17.730 --> 03:46.046
+So in a way, it's a condition that is defined exclusively by observing behavior, which is actually the case for most psychiatric disorders. But it's essentially diagnosed by the presence and absence of certain behaviors in a certain period of time or up to a certain age. And of course, what triggered, I think, a lot of discussions in recent years is because the number or the prevalence of autism has increased significantly.
+
+03:46.370 --> 04:15.998
+So now it's close to almost 3% of the general population, which of course, it's a big number. 3%? Almost 3%, yes. Wow. So that has increased, even since I was in medical school. When I was in medical school, actually, it was considered a rare disease. The reason why I actually studied autism, because it was a very rare disease and we had very few resources, so we thought studying a rare disease would be easier. But now we also know so much more about this condition. So we do know, for instance, that there is a strong genetic component
+
+04:16.514 --> 04:46.110
+to it, which for a while, obviously, we didn't. In fact, in early days, the psychoanalytic perspective dominated, especially in the 50s and 60s. So it was thought that it was resulting from having very cold parents, in particular, a cold mother. Emotionally cold? Yeah, emotionally cold. It was the so-called refrigerator mother hypothesis of autism.
+
+04:46.594 --> 05:15.134
+And then in the 70s, some of the first biological studies were done, primarily in twins, that show something quite remarkable. That if you have twins that are identical, genetically identical, and one has autism, then the probability that the other one has autism is very, very high. Even with different mothers? Sure, yes. But generally, we think that there is a strong heritable component to autism. So that was like in the late 70s.
+
+05:15.298 --> 05:42.750
+And really just in the last 10, 15 years, we've learned actually that there are genes associated with autism and with certainly with very specific forms of autism. So that's what we would call generally profound autism today. The conditions that are severe, that are causing an impairment, that are very often associated with other conditions such as intellectual disability, so low IQ, epilepsy. So
+
+05:43.010 --> 06:10.782
+Because it is a spectrum, of course, it creates a lot of confusion. And certainly there's no doubt that there are individuals that have autistic traits that are fully functional in the general population. But the reality is also that there are kids that have autism who are very impaired and will require actually lifelong care of sorts. You know, another way of like thinking is about autism is that autism is not one disease. And I think
+
+06:11.042 --> 06:39.934
+you know, no psychiatrist or even biologist who's studying autism would ever consider that this is one single disease. The way I look at it sometimes is, like, think about the fever of the 19th century in medicine, right? So you see this very often in movies, right? They will say, oh, he has a fever, high fever. He's going to die from high fever. Well, that fever could have been a viral infection, a bacterial infection, could have been cancer, metastatic cancer, right? Could have been an autoimmune disease, right?
+
+06:40.706 --> 07:07.294
+The treatments are very different, but in that time, that's all we knew. It was, we were observing that behavior, in which case raising of the temperature, but we didn't know the biology. Today, we will use very different treatments for those conditions. And some of them, of course, we don't even treat, right? We just observe. So I think in autism research, as it is the case for many psychiatric conditions, they are defined behaviorally, but there is a disconnect with the biology.
+
+07:07.842 --> 07:36.862
+Very often, we don't have biological markers by definition. And so that disconnect, I think, creates a lot of confusion. I have a couple of questions. First of all, is the prevalence of autism higher in males? I've been told yes. If it's 3% overall, what's the distribution for males versus females? The ratio varies also based on severity, but generally it's been 1 to 4%.
+
+07:37.570 --> 08:01.470
+So more males than females. And we just recently had our colleague Nir Al Shah on the podcast who basically said the difference between a biological male and female comes down to this SRY gene, not even necessarily on the Y chromosome. If a baby has the SRY gene, you're going to get a fully functional male. Yeah. If not...
+
+08:01.698 --> 08:28.286
+you're essentially dealing with a female. So presumably something about the SRY gene is conferring a vulnerability to autism. I think it's fascinating. Well, there are a lot of discussions, of course, like what causes this difference. And some discussions are just in terms of diagnosis that perhaps some of the girls are not getting diagnosed properly, that we do know that some of them are very good at what we call like masking the symptoms or sort of like learning the skills
+
+08:28.482 --> 08:57.246
+social skills, and so like covering for that diagnosis. But what we do know for sure is that there are differences in how the male and the female brain, especially around birth, can actually take up injury. So think, for instance, about premature birth. You know, one of the best predictors for a premature baby in terms of outcomes, it's actually to be a female. Just in general, females, preemies will do much better for whatever reasons, you know,
+
+08:57.410 --> 09:24.542
+the way the nervous system is built, the resilience. We know that the maturation stage is also different, right? For the male and the female, you know, think about like acquisition of certain milestones that happen much faster in girls. They generally tend to speak a few months earlier, to walk a few months earlier. So just the nervous system is maturing at a different pace and can take injury differently. So it could be that that is certainly important.
+
+09:24.706 --> 09:54.494
+the cause. But at the same time, and as we were talking, since autism is not one single disease, it is very hard to point out to one specific factor that is behind it. I'd like to take a quick break and acknowledge one of our sponsors, David. David makes a protein bar unlike any other. It has 28 grams of protein, only 150 calories, and zero grams of sugar. That's right, 28 grams of protein and 75% of its calories come from protein. This is 50% higher than the next closest protein bar.
+
+09:54.626 --> 10:09.150
+David protein bars also taste amazing. Even the texture is amazing. My favorite bar is the chocolate chip cookie dough. But then again, I also like the new chocolate peanut butter flavor and the chocolate brownie flavored. Basically, I like all the flavors a lot. They're all incredibly delicious.
+
+10:09.314 --> 10:34.654
+The toughest challenge is knowing which ones to eat on which days and how many times per day. I limit myself to two per day, but I absolutely love them. With David, I'm able to get 28 grams of protein in the calories of a snack, which makes it easy to hit my protein goals of one gram of protein per pound of body weight per day, and it allows me to do so without ingesting too many calories. I'll eat a David protein bar most afternoons as a snack, and I always keep one with me when I'm out of the house or traveling.
+
+10:34.754 --> 10:49.758
+They're incredibly delicious, and given that they have 28 grams of protein, they're really satisfying for having just 150 calories. If you'd like to try David, you can go to davidprotein.com slash Huberman. Again, that's davidprotein.com slash Huberman.
+
+10:50.018 --> 11:19.984
+Today's episode is also brought to us by Helix Sleep. Helix Sleep makes mattresses and pillows that are customized to your unique sleep needs. Now I've spoken many times before on this and other podcasts about the fact that getting a great night's sleep is the foundation of mental health, physical health, and performance. Now the mattress you sleep on makes a huge difference in the quality of sleep that you get each night. How soft it is or how firm it is all play into your comfort and need to be tailored to your unique sleep needs. If you go to the Helix website, you can take a brief two minute quiz and it will ask you questions such as,
+
+11:19.984 --> 11:47.806
+Do you sleep on your back, your side, or your stomach? Do you tend to run hot or cold during the night? Things of that sort. Maybe you know the answers to those questions. Maybe you don't. Either way, Helix will match you to the ideal mattress for you. For me, that turned out to be the Dusk mattress. I started sleeping on a Dusk mattress about three and a half years ago, and it's been far and away the best sleep that I've ever had. If you'd like to try Helix Sleep, you can go to helixsleep.com slash Huberman, take that two-minute sleep quiz, and Helix will match you to a mattress that's customized to you.
+
+11:47.938 --> 12:16.158
+Right now, Helix is giving up to 27% off all mattress orders. Again, that's helixsleep.com slash Huberman to get up to 27% off. You mentioned that autism is diagnosed by behavioral measures or the lack of behavioral symptomology, what we call positive and negative symptoms, which can be confusing language because people think positive means good. Positive is the presence, negative is the absence. I haven't looked at this literature in a while, but the last time I did, it seemed that
+
+12:16.354 --> 12:43.422
+babies or young children failing to focus their own gaze on the eyes of other people is one of the major diagnostic criteria. It seems they look at the face more holistically or they'll zoom in just on the nose, but they're not really making as much eye contact. Is that still a diagnostic criteria? It's not part of the diagnostic criteria. Interesting. But it is one of the features that has been observed.
+
+12:43.842 --> 13:10.270
+Of course, it also has to do with just in general, like joint attention is one of the earlier. So, you know, if you just tell a child like, oh, look here. Right. So if they kind of like have that attention, if they engage in that attention, it's one of the features that is associated with autism. It's not certainly diagnostic. It's not pathognomonic, so to speak. So it's not specific to the disease in any way. Mm-hmm.
+
+13:10.370 --> 13:37.950
+But there's certainly many deficits and some of them can actually be compensated later. Interesting. There were some other things I've heard over the years, for instance, that when children with autism have a fever, that their symptoms improve. Is that still the case? Yeah. So those are mostly anecdotic reports of patients who would have a very high fever. And then, for instance, they were nonverbal. So many patients...
+
+13:38.146 --> 14:03.422
+with autism or individuals with autism will be nonverbal. They have very few words or they're not able to communicate. And so there are a few reports of parents saying that when they spike the very high fever, they'll start talking in sentences like very briefly or like engage. And in fact, I mean, that is known. Kids in general, when they have a high fever,
+
+14:03.522 --> 14:30.334
+They tend to be more talkative. It activates somehow the nervous system. There've been a lot of hypotheses about this. Some of them having to do with how the neurodienergic system is activating during fever. Others saying that there are some of the cytokines, the immune molecules that are present during fever that are somehow getting into the brain, activating the nervous system. And others as simple as, oh, ion channels, right? Ion channels will open
+
+14:30.786 --> 14:58.046
+more when the temperature rises. So something about the circuits functioning differently during that. But it's mostly anecdotic at this point. And it's certainly, again, probably not present in all individuals with autism, also because autism is, again, not one single disease. So we would not expect it to be present in all. A few years ago, there was a lot of excitement about the idea that autism might somehow be related, perhaps even caused by deficits in the microbiome.
+
+14:58.210 --> 15:27.870
+There were some mouse experiments of doing fecal transplants from what we call wild type or healthy mice into mice that had some symptoms that resemble autism. And there were improvements observed to the point where I think there were some human clinical trials using fecal transplants. Whatever became of that? I think, again, almost everything has been associated or thought to be causal. But generally, demonstrating this is very, very difficult. So...
+
+15:28.258 --> 15:58.238
+You know, we cannot deny that perhaps improving the microbiome will improve the, you know, the quality of life of some of these individuals. But whether it's really causal, there's no clear evidence for it. Think about it. Just to give you another example. Think about sleep. Many patients will report, especially the ones that are profoundly impaired, will have severe sleep disturbances. I mean, 70, 80% of them, you know, they can have nights where they sleep very little, right? Then do that for like a week.
+
+15:58.914 --> 16:20.286
+So just imagine even just improving the quality of sleep for those patients can do miracle. I mean, all of us, right? If we don't sleep for three, four days, our social skills, you know, we become socially impaired. So I think, of course, correcting a lot of this issue. So for instance, many patients are picky eaters. You know, they don't like certain textures. So they will never eat, for instance, veggies.
+
+16:20.962 --> 16:46.110
+So that creates, in the early days, for instance, we thought that there are dietary disturbances that really are at the core. Of course, it remains to be seen whether just simply correcting those is going to be just improving or certainly reversing some of these forms. But again, most of the evidence points out towards a very strong genetic component behind it. And in fact, we now have hundreds of genes
+
+16:46.594 --> 17:12.383
+that we know when they are mutated, they are strongly associated with specific forms of autism. I'm curious what sorts of proteins those genes are upstream of. And I ask because David Ginty at Harvard, he did these really beautiful experiments where he induced mutations just in the periphery, so outside the brain of these mouse models for autism and saw a lot of the same symptomology.
+
+17:12.482 --> 17:38.494
+raising the question of whether or not autism originates in the brain or whether or not the deficits in the brain are the byproduct of changes in the body. Yes, microbiome, but perhaps their skin, their hearing, et cetera, are more sensitive. And maybe that's why they, you know, you could imagine if you were ultra sensitive to an environment that your brain would eventually wire differently according to kind of overwhelmed by what was happening in the sensory landscape.
+
+17:38.786 --> 18:08.222
+Yeah, absolutely. And those are really elegant experiments that he's done. Many of the genes, you know, they fit in different categories. Like you would have genes that would produce proteins that sit at synapses, which was sort of like to be expected. Some of them are, you know, ion channels. They're proteins that would let ions inside or outside of a neuron. There are many of these conditions, so-called channelopathies. And there are the ones that are like synaptic related, so synaptopathy. There are a lot of chromatin genes.
+
+18:08.578 --> 18:38.174
+So like proteins that pack the DNA in cells, those are chromatinopates. So they're really, again, many, many categories of genes. And then what is also interesting is that many of these genes are also expressed in the periphery. So I think the experiments that you were mentioning are really elegant because it showed that indeed that can perturb the development of the nervous system, even if they're affecting just the periphery. Of course, now in patients, they are present also in the central nervous system. So it's always difficult to distinguish, but just missing...
+
+18:38.306 --> 19:04.958
+some of these critical periods or perturbing some of these critical periods of development can have certainly devastating effects later on. So if a parent comes into the clinic nowadays with a child that's diagnosed with profound autism, what is the treatment? Let's set aside the potential for epilepsy, which hopefully they would treat as well, or other things that might be secondary. But what is the typical treatment? Are they doing
+
+19:05.282 --> 19:28.734
+And let's assume infinite resources, which of course nobody has. Most people don't have. But if one had infinite resources, what would be done? Would it be behavioral training? Would it be something to control the activation state of the brain? I mean, as far as I know, there's no single treatment for autism. No, there's no single treatment for autism. Again, in the context of this not being one single disease.
+
+19:29.122 --> 19:50.878
+What we can say today is that if a family walks into the clinic with the diagnosis of autism or perhaps they receive it into the clinic, there's still like a 20% probability that they leave the clinic with the genetic diagnosis, meaning that it will be pointed out to them that this gene is mutated in your child. And it may be sometimes a...
+
+19:50.978 --> 20:16.446
+mutation that was present in one of the parents and got transmitted, or maybe was present in both, and somehow the child got two copies that were modified now, or many of the genes were actually mutated de novo, meaning that the mutation was not present in either parents, but something went wrong during development, perhaps early in the sperm cell, in the egg cell, or perhaps in early stages of development, and a new mutation was acquired.
+
+20:16.642 --> 20:46.302
+But that is also, we acquire a lot of mutations, all of us. We have a lot of new mutations, right? About like 80 new mutations, 30 of them are protein truncating. So certainly the challenge very often is to, even when you see a gene that is mutated, to know whether that gene is truly causing the disease. So very often the way we know is that we find many patients that have a similar presentation clinically. Let's say maybe they'll have syndactyly. So they're webbing of the finger and
+
+20:46.786 --> 21:14.558
+and they have autism and let's say epilepsy, and they all have a mutation in one single channel, let's say in a calcium channel. So that would be Timothy syndrome, a genetic form of autism, where the mutation is very clear. Actually, there's one single letter in the genome that is changed and causes a relatively similar presentation in all of these patients. So about 20% of the patients will get a genetic diagnosis. Now, sadly, that doesn't do that much today
+
+21:15.010 --> 21:40.606
+because we don't really have specific therapies for those forms. I think the hope is that perhaps we will have individual treatments, whether they're going to be genetic or otherwise. So being part of that community is generally useful. And then the rest of the patients will essentially fit into this larger category of idiopathic, meaning that we don't really know the precise cause. I want to talk about Timothy syndrome, and I also want to talk about
+
+21:40.994 --> 22:05.662
+genetic approaches for fixing genes, so-called gene therapy. Before we do that, would you be willing to just speculate on why you think there's this fairly dramatic increase in the incidence of autism? People will always say, well, maybe it's better detection, better diagnosis. So I'd like your thoughts on that. And if there are increases that can't be explained with that, I'm
+
+22:06.082 --> 22:32.862
+I just would like your thoughts. I realize we're not talking formal biostatistics here. I just, in your experience, you're an MD, you think about autism a lot. You're working on potential cures for autism and other neurologic conditions. How do you think about this increased prevalence issue? Yeah. Well, there's certainly the increase is still puzzling, right? So I think on one hand, there's no doubt that the changes in diagnostic criteria
+
+22:32.994 --> 22:57.502
+which has happened over time. I mean, we had to just refine what autism really is. That changed, you know, to some extent the prevalence. We've also seen, you know, a diagnostic migration, so to speak. So some children, for instance, you know, 30 years ago would have been diagnosed with intellectual disability. And today they fit the criteria for autism. You know, about a third of individuals with autism are
+
+22:57.730 --> 23:19.518
+also have intellectual disability. So there is also a great overlap between the conditions. So there's been a move sometimes between the diagnosis over time. Of course, there are all kinds of discussions about availability of services and to what extent that is also contributing. But we don't truly understand the
+
+23:19.810 --> 23:47.070
+all the reasons behind like this increase, there's no doubt. We can explain, we know that it's highly heritable based on genetic studies. So we know the heritability is very high, one of the highest for psychiatric disorders that we know of. But of course we can, we don't have the genes for every single form. So it is likely that some of them are very rare, right? So essentially just think of it as like, you know, they're individually rare form, but collectively common.
+
+23:47.394 --> 23:57.790
+So it will take a while until we sort of like map all of them. And then of course there are environmental factors that we do know historically can contribute to this. So there are various exposures to
+
+23:58.018 --> 24:23.390
+environmental factors like in early days, thalidomide for instance was one of them that we know increases the risk for autism. So of course those are contributing. But thalidomide was a drug given to pregnant mothers to try and prevent miscarriage, right? Exactly. It's no longer prescribed. It's no longer prescribed. It's caused major birth defects. Defects, exactly. Yeah. So there's certainly, you know, it's quite complex.
+
+24:23.522 --> 24:52.350
+because first of all, the definition of the condition is quite difficult, right? And I think that is in general like the challenge with psychiatric disorders, right? And perhaps one of the reasons we've made such slow progress in understanding these conditions, because of course the power of modern medicine is in molecular biology. You know, we kind of deploy this remarkable force of an understanding. And in order to do that, you need two things. You need first of all to
+
+24:52.610 --> 25:22.302
+have a very clear definition of what that disease is generally biologically, right? Think about like myocardial infarction, you know, very clearly defined in terms of like what it actually means. You immediately have biomarkers, right? The patient walks in, you take blood, you can immediately tell, yes, in 20 minutes, you can tell that they have a myocardial infarction based on a biomarker. And then the other one, which is certainly very important, which to a large extent is sort of like, you know, is the source of all the work that we've done, is the unbearable inaccessibility of the human brain.
+
+25:22.626 --> 25:52.382
+so to speak. And to a large extent, the human brain is inaccessible for most of its development. And so if you look actually across branches of medicine, you can see that there is a very strong correlation between how accessible an organ is and how many cures or therapies we actually have. Think even just in cancer, right? Think about in cancers, you know, which used to be, of course, an incurable disease, right? A century ago. Think about like leukemias in children, right?
+
+25:52.706 --> 26:22.046
+they were like 90% lethal in the 50s and the 60s. Today, they are maybe 10% lethal. And that is because blood from this patient, right, it's very easy to collect. We've been bringing it to the lab, studying it, what goes wrong, and then deploying molecular biology to develop therapeutics. With the brain, sadly, you know, there's no way of doing it. And so largely to, you know, what we've been trying to do is to like find...
+
+26:22.402 --> 26:45.534
+a way of shortcutting that process. But I do believe that the major challenges that we're facing in understanding brain disorders, whether they're neurological or psychiatric, are on one hand, you know, the inaccessibility of the organ of interest, the brain. And on the other hand, our challenges are very often defining some of these conditions with biological markers because they're much more complex.
+
+26:45.730 --> 27:11.166
+The degree to which correlation has been leveraged to try and understand neurologic disease is kind of staggering. I'll just share a couple and I would love your reflections. I remember when I was an undergraduate and in graduate school, there was this prominent theory that a mother who contracted influenza, the flu, toward the end of her second trimester had a much higher probability of having a schizophrenic child. And there was so much said of that
+
+27:11.458 --> 27:39.742
+And then now we barely hear anything about it at all. Although I think schizophrenia is more prominent toward the polls where you have harsher winters as opposed to around the equator. But someone needs to check me on that because those statistics might have melted away with more careful analysis. I don't know. The other thing is that you'll nowadays hear a growing interest in populations for which a given disease is very rare. So one of the things that's circulating out there now that's related to the vaccine debate
+
+27:39.842 --> 28:09.118
+And by the way, I'm just going to myself go on record. I don't think there's any solid evidence that vaccines cause autism. And there's not epidemiologically. There's no evidence. There's not. I mean, there's this open question as to whether or not vaccines of all kinds can increase inflammation. And there might be things downstream of inflammation. But for the record there right now, there are no published papers that have not been retracted that that support the vaccine autism link. I think those papers are being reinvestigated under the new administration. But let's leave that aside for now. People will say.
+
+28:09.218 --> 28:28.542
+Well, you have groups like Amish populations where the incidence of autism is significantly lower. Turns out it does exist. I looked at these data, but it's significantly lower. And then people say, well, it's the absence of food dyes. It's the absence of vaccines, perhaps, et cetera.
+
+28:28.706 --> 28:58.398
+as a genetic disease, we could say, well, there's also, there's a tendency for people in the Amish community to reproduce with other people in the Amish community. So it's a more restricted genetic pool. And so that could explain it as well. And I raised this not to create any additional arguments that are enough out there between people, but just because I think the correlative nature of all this is what kind of raises the opportunity for anything that's observed, like a fever, they get better. But as you said,
+
+28:58.978 --> 29:16.958
+Healthy kids without profound autism also talk more when they have a fever. And so there's been so much made of autism in the various conditions that could create it. And I think it's been very confusing for the general public. Even as a trained scientist, it's been very confusing for me. I feel like every six months or so, every year, we have a new –
+
+29:17.154 --> 29:46.878
+a pet hypothesis. But nothing's really, except for these genetic data, nothing really is rock solid. Right. And then of course, the other issue is also that these conditions are disorders of the human brain. So if you think about it, even talking about schizophrenia, hallucinations or phenomena that are very difficult to study. And of course, we don't know this. We know that schizophrenia is present in almost every population that we know of, even isolated population at 1%.
+
+29:47.394 --> 30:16.222
+And again, it's a little bit easier because it's done in adults. I think in children, it's much more difficult. And in fact, many of the genes that were early on identified for autism were identified in this population, in the Amish population, for instance. There is a very classic example of a gene that is associated with severe epilepsy and autism that was identified there for the first time. It's present in other places as well. So yeah, I think, of course, the complexity of the problem is that you also want to
+
+30:16.386 --> 30:43.230
+make sure that you don't just associate something, you also want to reverse it in a way, right? So you would want to do the other experiment where you change it and then it goes away, but you can never do that in the human brain. We can just turn things on and off to see whether they're truly causal. And then of course, human brain development also takes an incredibly long period of time, right? If anything, it seems that the human nervous system has done everything possible to slow down that process, right? I mean, we myelinate all the way to the third decade,
+
+30:43.842 --> 31:13.438
+like neurons are born and migrating through the nervous system into early postnatal years. Wait, you're telling me that our neurons continue to get myelinated, which, of course, for those that don't know, is the building of the encheathment that allows electrical signals to be passed down neurons more efficiently until we're 30 years old? Yes, there's evidence that myelination, especially in the frontal areas of the brain, are continuing up to the third decade. Our, unfortunately, now deceased,
+
+31:13.666 --> 31:41.694
+former colleague, Ben Barris, he used to shout at people in lab meetings. When they'd say something he didn't like, he'd say, what do you know? You're not even myelinated yet. So he was right. He was absolutely right. Okay, so if you're in a disagreement with somebody younger than 30 and you happen to be older than 30, you can leverage the argument, what do you know? You're not even myelinated yet, completely myelinated yet. All kidding aside, before we get into the incredible experiments that you're doing and the direction that you're taking to tackle these really hard diseases,
+
+31:41.794 --> 32:04.734
+I have to ask two questions. First, is the incidence of autism also increasing outside of the United States or is this something unique to the United States and Northern Europe? I don't know why we always pair those two. I should just be fair to the United States and Australia or whatever. Or is there something going on in the United States in particular that autism is increasing faster here? No.
+
+32:04.930 --> 32:28.702
+Yeah, no, this, you know, the prevalence for autism, you know, has been actually reported to be higher in other countries even before this. Some of the early reports many years ago showed that in Korea, for instance, you know, the prevalence was very high. Now that the studies are done, also like in Scandinavian countries, it shows that it's probably around the same, you know, kind of like rate, one in Canada.
+
+32:29.218 --> 32:48.542
+30 to one in 40. So somewhere between. Okay. So it can't be whatever is attached to whatever United States specific conditions. I mean, because you hear these arguments. Oh, you know, it's the glyphosates in the crops in the United States. And while I don't favor that argument,
+
+32:48.706 --> 33:16.478
+I do think we need to be cautious about what's in the food supply. But those same people often will leverage the argument that, well, in Europe, they're not using these things. Well, if the incidence of autism is the same and rising, that sort of does away with at least the clean logic of that. And perhaps another argument, which is very important to bring, is that we find the same mutations. I mean, the same mutations, if we're talking, let's say, a mutation in a specific calcium channel, you'll find it in a patient in Denmark.
+
+33:17.026 --> 33:44.318
+right? As well as like one in Africa or in, let's say, Australia. So I think some of the genetic mutations are sort of like the same. Yeah. Could we briefly talk about gene therapy and CRISPR? Just briefly, because I think in the context of a discussion about these neurologic diseases for which currently there aren't perfect cures or even cures in many cases, gene therapy does hold some promise. In the
+
+33:44.418 --> 34:13.566
+simple terms that I and everyone else can understand. Could you just explain what CRISPR allows physicians potentially to do? In other words, can genes be fixed in adulthood? Do they have to be fixed in the embryo? Just give your thoughts generally about CRISPR and gene therapy, because I think most people have heard of it, but I think most people don't have an intuitive sense for how it works. So gene therapy is a rather actually broad term, and it covers...
+
+34:13.697 --> 34:37.374
+many ways in which you can correct generally a gene or a genetic defect that we think it's causal. So on one extreme, for instance, you can envision a gene is broken, has a mutation. So what you want to do is you want to put it back. So those were some of the early efforts where you would put it in a virus and deliver it to the patient. An adult.
+
+34:37.601 --> 34:58.110
+in an adult or in a child, depending on like the condition, with the idea is that the gene is not there or like there's not enough of it, so I'm just gonna deliver more. That's one extreme. Is it injected into the blood or do you have to go into the specific cell type that's lacking the gene? Many of the studies were done for blood disorders, of course, because it was easier, so you would inject them.
+
+34:58.210 --> 35:27.006
+of course, the other possibility is sometimes you don't want to put the gene. You want to put the protein already made. And that is the case for many conditions where an enzyme, so a protein that does some interesting chemical reactions that are essential to a cell, is missing. So sometimes you just make that enzyme and then you deliver that. It's not always working, but in some cases it actually works really well. Now, the other thing that you can do is you can try to correct that defect directly.
+
+35:27.170 --> 35:55.710
+That means you need to operate at the DNA level. So somehow you need to get into every single cell that is affected and correct that. And that's where CRISPR comes into play, where presumably you could at one point deliver the guides, so the tiny pieces of nucleic acid that tell you where to go on the DNA. And then an enzyme that will do the cutting and then the putting back or various other things
+
+35:55.906 --> 36:21.502
+versions of this that you would correct of course there are challenges with that yeah where do you put it i mean so like for sickle cell anemia i know they've essentially reversed sickle cell amine anemia using crispr technology that's in the blood right it's in the blood it's of the blood right but if for instance we know about a genetic defect of let's say a mutate we'll talk more about this soon but a mutated calcium channel that disrupts heart function and brain function and you come in with crispr you know what the what
+
+36:21.634 --> 36:50.238
+what gene is mutated, you have the healthy gene that potentially you can put back, where do you put it? Do you inject it? I mean, injecting into the heart is possible. Into the blood supply, obviously easier. Getting it directed to the bone marrow, but to the brain is hard. Yeah, well, presumably you could inject into the brain as well, right? There are ways in which you can inject through either surgery or through an injection in the spinal canal, like intrathecally. So that's certainly one way in which you can do it. It is very challenging though.
+
+36:50.786 --> 37:18.846
+Because of course, the brain has a lot of cell types. And, you know, you very often, the way you deliver this, like through a virus or through other modalities, you know, there's only so much of that virus that you can actually put inside the nervous system. And the efficiency is not yet like very high. So another way is to go like one level down. So that gene will produce an RNA that will produce a protein. So perhaps we don't have to correct the DNA everywhere, but perhaps we can correct
+
+37:19.010 --> 37:43.102
+something that happens downstream. And that's sort of like being the strategy that we've been using primarily, just mostly because at this point, and probably in the future, it will be possible, who knows, like in 10 years or maybe even earlier, we'll be able to deliver very effectively some of the genetic therapies using CRISPR. Because certainly in non-human primate models, things like colorblindness,
+
+37:43.202 --> 38:02.270
+have been rescued by introducing a gene through a, when we talk about viruses, people often will think, oh goodness, why would I want to get injected with a virus? But we should just mention there are things like adenoviruses, which cold viruses are adenoviruses that can be engineered so that they don't make you sick, but they can carry a cargo, like a gene you want to put
+
+38:02.434 --> 38:31.774
+into a nervous system or body that lacks that gene. So when we say using viruses to deliver genes, it's of the benevolent type or at least benevolent motivation. We think that those adenoviruses can live in our body for a long time without causing additional trouble. And they're very often modified to make sure that they don't cause disease. Of course, another limitation of that is that if the gene is really large, it simply won't fit in a virus. So for instance, that would be the case if you think about a calcium channel. Calcium channel is a gigantic gene.
+
+38:32.002 --> 38:48.126
+It will be very difficult to fit inside a virus. And then, of course, the other thing is like with this virus is very often, especially with the adenoviruses or AAVs, is that you will have one shot, meaning that you have to inject once and hopefully it would work because next time.
+
+38:48.674 --> 39:13.374
+you may have an immune reaction, right? You'll produce antibodies, and so you won't be able to deliver again. So again, there are all kinds of challenges that people are working really hard to solve. And I have no doubt that in the next decade, we'll see therapies or perhaps even cures for some of these conditions. Of course, and I think you were bringing this up, one of the challenges is when we do this. Because especially for patients,
+
+39:13.762 --> 39:42.654
+disorders of the brain, neurodevelopmental disorders, so autism and other neurodevelopmental disorders. The question is always how early it is too late. How much damage has it done, has it been done and how much can I actually correct? And that's one of the things that we're only now starting to really explore as we're thinking about some of the first clinical trials in this space. This might shock you a bit, but folks in the quote unquote biohacking community, not me,
+
+39:43.202 --> 40:04.030
+are getting, I know some that have gotten folostatin gene therapy as a body enhancement thing. They're leaving the country, because you can't do it in the United States, and literally getting injection of a folostatin gene therapy to, I guess, have more muscle to improve that. I wouldn't do it.
+
+40:04.322 --> 40:34.174
+Personally, also I like working out, so I don't need a folistatin gene therapy. But it's interesting to note that people are doing this, and I'm raising this as a segue into a discussion about stem cells because people around the world are getting injected with stem cells. In the United States, it's still not allowed by FDA for most things. But I think gene therapy has started. It's certainly begun. But it's not the sort of thing that your physician offers up.
+
+40:34.722 --> 41:03.806
+It's still very experimental for most things. And then for gene therapies, again, in the context of what you're mentioning is some of this, again, they're irreversible. So once you put the gene in, you know, and it goes into a cell, let's say through a lentivirus that will integrate, you can't take it out anymore, right? That would be very difficult. It would get inactivated over time. But so that's why we have to be extra careful with some of these therapies and, you know, make sure that we don't do more harm, right? Which I guess it's always what we try. Absolutely. Absolutely.
+
+41:05.282 --> 41:31.710
+I'd like to take a quick break and acknowledge our sponsor, AG1. AG1 is a vitamin mineral probiotic drink that also includes prebiotics and adaptogens. As many of you know, I've been taking AG1 for more than 13 years now. I discovered it way back in 2012, long before I ever had a podcast, and I've been drinking it every day since. For the past 13 years, AG1 has been the same original flavor. They've updated the formulation, but the flavor has always remained the same.
+
+41:31.906 --> 42:01.872
+And now for the first time, AG1 is available in three new flavors, berry, citrus, and tropical. All the flavors include the highest quality ingredients in exactly the right doses to together provide support for your gut microbiome, support for your immune health, and support for better energy and more. So now you can find the flavor of AG1 that you like the most. While I've always loved the AG1 original flavor, especially when I mix it with water and a little bit of lemon or lime juice, that's how I've been doing it for basically 13 years, now I really enjoy the new berry flavor in particular. It tastes great,
+
+42:01.872 --> 42:30.334
+I don't have to add any lemon or lime juice. I just mix it up with water. If you'd like to try AG1 and these new flavors, you can go to drinkag1.com slash Huberman to claim a special offer. Right now, AG1 is giving away an AG1 welcome kit that includes five free travel packs and a free bottle of vitamin D3K2. Again, go to drinkag1.com slash Huberman to claim the special welcome kit of five free travel packs and a free bottle of vitamin D3K2. Today's episode is also brought to us by BetterHelp.
+
+42:30.466 --> 42:35.486
+BetterHelp offers professional therapy with a licensed therapist carried out entirely online.
+
+42:35.586 --> 43:02.302
+I personally have been doing therapy for well over 35 years. I find it to be an extremely important component to overall health. In fact, I consider doing regular therapy just as important as getting regular exercise, including cardiovascular exercise and resistance training, which of course I also do every week. There are essentially three things that make up great therapy. First of all, it provides the opportunity to have a really good rapport with somebody that you can really trust and talk to about essentially any issue that you want.
+
+43:02.466 --> 43:32.158
+Second of all, it can provide support in the form of emotional support or directed guidance, or of course, both. And third, expert therapy should provide you useful insights, insights that can help you improve in your work life, your relationships, and in your relationship with yourself. With BetterHelp, they make it very easy for you to find an expert therapist who you resonate with and that can provide those three benefits that come from expert therapy. Interestingly, in a recent survey, 72% of BetterHelp members reported a reduction in negative symptoms as a result of their BetterHelp therapy sessions.
+
+43:32.258 --> 44:01.950
+If you'd like to try BetterHelp, you can go to betterhelp.com slash Huberman to get 10% off your first month. Again, that's betterhelp.com slash Huberman. Let's talk about stem cells, organoids and assembloids, and you'll explain what those are. But let's wade into this through the way it happened chronologically. Most people have heard of stem cells, cells that could become other things. When I was a postdoc,
+
+44:03.426 --> 44:32.798
+any laboratory that worked on human stem cells worked on human embryonic stem cells, literally cells that were collected from aborted fetuses. This was given for medical study. There was an incredible discovery, which you'll tell us about, which basically made that technology obsolete and also allowed scientists to bypass a lot of the ethical considerations, serious ethical considerations, regardless of where you sit on that debate. I mean, you're using the technology
+
+44:32.962 --> 45:02.238
+tissue from a human embryo to study things. You could say some people will support that, some people won't, but then a new technology comes along and basically makes that technology obsolete, allowing you and others to do the work on stem cells and assembloids and so forth without having to take cells from human embryos, which is spectacular. So could you please tell us about that discovery of the stem cell technology that really changed the entire game and did away with this ethical issue?
+
+45:02.466 --> 45:29.022
+serious ethical battle. Let's call it what it was. Let's start first with stem cells and what they are, because I think it's also important to define them. So stem cells are cells that have two properties. First of all, they in principle can become other cells. And if they are of the most potent type, they will be totally potent, so they can make everything. If they're pluripotent, they can make almost everything. And then of course, there are
+
+45:29.378 --> 45:53.246
+you know, lower levels of potency for the cells. So we all carry stem cells in us, right? Not in the brain or fewer in the brain for sure, but, you know, in the liver and in other organs, like in the gut, as we renew the gut, you know, every few weeks, that is done primarily through the stem cells. But those are restricted. They can make everything. They can make mostly that specialized cell type for which they have been so like primed.
+
+45:53.378 --> 46:20.094
+Now, the earliest, earliest of stem cells, like those pluripotent, they're very important. Those are present at early stages of development of the embryo. And of course, that happens post-conception. So the challenge has been that you have to remove them from a fertilized egg. And if conception, if life starts at conception, then of course you're interfering. So I think a lot of the ethical debates have started because of that. But in early days,
+
+46:20.354 --> 46:49.502
+Even if you were to do that, you wouldn't be able to keep those cells. It turns out that the cells are very difficult to maintain. And this brings us actually to the second property of the cells, which is that in principle, they can be maintained forever. If you provide the right conditions, they will divide and stay the same forever. Those are the two properties. So, you know, you can keep them forever. You can freeze them down, put them in a, you know, liquid nitrogen, bring them out anytime, and they'll start exactly where they left.
+
+46:49.634 --> 47:16.222
+And then with the right guidance, they can become other cell types. So only around 1998 was that when we could actually maintain some of the cells in a dish. So somebody figured out a soup of chemicals that you can add and these cells will survive because up to that point, it was not possible. So that triggered, of course, the promise of this field that now would be able to
+
+47:16.514 --> 47:45.534
+take those cells and derive various organs, right? Perhaps transplant them, replace organs. Of course, that ended up being much more complicated. And of course, there were all these ethical debates related to the source of those cells and what does it actually mean to use this embryonic stem cells. And yet we've learned a lot about those cells in early days. What are the properties of those cells? And then almost 20 years ago, Shinya Yamanaka was a scientist in Japan at the UCSF.
+
+47:46.146 --> 48:13.534
+came up with an absolutely brilliant idea. You know, we were always thought that the development, the development of the human or of any, it's a one-way street. Once you go down development, you never come back. So once you start making, you know, a stem cell that is more restricted, and then at the end you make, let's say, a liver cell, you can never go back and become that pluripotent stem cell again. And that generally starts to be
+
+48:13.634 --> 48:43.166
+useful to protect us from like cancer or like any others where we don't have, you know, parts of our hands like differentiating into something else. And he thought that maybe you could do that, not in a natural way, in an artificial way. And that, of course, would be very useful. So what he did is he went and he looked at the genes that are expressed in pluripotent stem cells at very, very high levels. So very, very high levels. And almost as gene therapy, because we were talking about gene therapy, he took like the top
+
+48:43.426 --> 49:12.094
+couple of dozens of these genes and then started adding them inside skin cells. So he took skin cells initially from mice and then from human and then started adding them one by one, two by two, three by three, four by four, five by five, six by six to see whether any of those cells, once they have this combination of genes that are expressing pluripotent stem cells, would somehow get confused and think that they're actually a pluripotent stem cell and then go back in time and actually become a pluripotent stem cells.
+
+49:12.482 --> 49:42.238
+And he showed indeed that a combination of four is enough. Of course, you can have six. And that ended up being what we today call the Yamanaka factor. In a way, it was almost like alchemy, right? Where you sort of like, you know, transform something into something else, right? You make out of this metal, you make gold. It was pretty much like that. It was kind of like the essence of alchemy. And it turns out that that discovery was so profound because suddenly you could take a skin cell from anybody and
+
+49:43.042 --> 50:12.222
+and put those genetic factors in, turn those cells into pluripotent stem cells that we'd later on learn they're almost identical to those embryonic stem cells. And now have those cells from any of us and use them for various purposes, perhaps for, let's say, making blood cells in the future, or perhaps to model something outside of the body. And I was finishing my clinical training around that time. And I remember even seeing that paper. And of course, in my...
+
+50:12.386 --> 50:34.878
+naivete at that time, I thought, wow, this is it. This is going to be, you know, the entry point for studying human neuroscience. I was doing experiments at that time, studying actually the cortex and recording from animals, electrical activity of those neurons. And always like thought, it's like, I saw this disconnect between what I was seeing in the clinic, which were these patients with severe profound autism,
+
+50:35.298 --> 51:04.382
+and then recordings from the brain and thinking, we're never gonna be able to do that. How are we gonna understand this complex disorder of the brain if we cannot even listen to the activity of those cells live? And then suddenly, like seeing that discovery, again, naive at that time, thought, well, that could be perhaps the way in which we could make neurons from any patient. And so very soon after I came to Stanford, which I guess is where we met, with sort of like this
+
+51:04.578 --> 51:34.462
+idea in mind that we will be able to make neurons from this patient and rebuild maybe some of the cells or some of the circuits of the brain outside of the body without doing any harm because we're not doing a biopsy of the brain or anything invasive, just essentially creating a replica of some of those cells outside of the body and then finally study them at will in a dish and do all kinds of experiments where you remove things and add things and perhaps at one day even develop therapeutics. And here we are 16 years later in
+
+51:34.818 --> 52:02.878
+since that process really started, took a long time. But now for the first time, we've gotten such a good understanding of some of these conditions, and one of them in particular, that actually a therapeutic is inside, and we're preparing for the first clinical trial, that is really arising exclusively through studies done with this human stem cell models, without actually using any animal models, just essentially creating, recreating cells and circuits outside of the brain of those patients.
+
+52:03.906 --> 52:30.142
+It's amazing because it allows you to study human cells, which has immense benefit. They're essentially limitless in number because all you need is one fibroblast, one skin cell or some cell that you can provide these Yamanaka factors to and essentially grow other cells. And we'll talk about what those cells that you create are capable of
+
+52:30.466 --> 52:56.190
+becoming, not just cells, but circuits in a few moments. But I know it's going to be in the back of people's minds, and it's certainly in the back of my mind, this idea that when one has a baby that you should keep the umbilical cord because the umbilical cord contains stem cells. Usually I think the umbilical cord is discarded. Maybe some people keep it. I don't know. What is the current thinking on
+
+52:56.354 --> 53:25.886
+stem cells that reside in the umbilical cord. People pay a lot of money to freeze those, and most people don't have a minus 80 freezer around, so they pay to do that. What is the potential for umbilical stem cells in the future? Is it something that parents, I don't want to say should invest in, but if they have the disposable income, that they would be wise to do that? So those cells that are collected from the umbilical cord are stem cells, but they're already quite restricted.
+
+53:26.082 --> 53:52.478
+what they can make so their applications are also restricted mostly to blood disorders so i think it's it's important to keep in mind that they're not so like a universal uh you know solution to anything that would ever involve pluripotent stem cells in the future or stem cell therapies in the future so again i think it's important to know that while they have certain applications and there have been quite clear cases where
+
+53:52.610 --> 54:18.206
+The availability of those cells are useful in a blood disorder in that child later on. They're certainly not, you know, they have these universal uses as maybe sometimes they're being advertised. When we hear about people typically leaving the U.S. to get, quote-unquote, stem cell injections, where are those stem cells coming from? Are they coming from those patients? And I should mention that there was a clinic down in Florida that
+
+54:18.306 --> 54:46.334
+that was offering stem cell injections into the eye for people with macular degeneration. And that clinic was shut down and all stem cell injections in the United States, to my knowledge, all were shut down because those patients, not only did it fail to rescue their vision, it actually made them go blind very quickly. So the FDA shut down commercial stem cell injections. I think there's still places where they do a kind of a workaround.
+
+54:46.466 --> 55:08.190
+And it's worth mentioning that PRP, platelet-rich plasma, is FDA approved. It does not contain many, if any, stem cells, despite what you might read. But what are your thoughts on, like, when people go down to Colombia? It seems like they go down to Colombia. Yeah. Or elsewhere to get, or Mexico to get stem cell injections, assuming the conditions are clean. Yeah.
+
+55:08.354 --> 55:27.550
+And I say that because I know of at least one patient who was paralyzed from an injection of stem cells into their spinal disc, paralyzed, almost died. Fortunately, is doing better now. And it was because it went septic that it got infected. Well, that's one of the problems. Very often we don't even know what is being injected.
+
+55:28.034 --> 55:57.534
+I think that is like a very important aspect. We don't know what is... Sometimes are the cells from the patient that are being collected. Sometimes some of this umbilical cells, sometimes we don't even know what cells are being injected. Like it could be cells from somebody else. Yeah, they're incredibly risky procedures. Of course, they've never really been observed. There have been very few of any clinical trials trying to really address it in a very systematic way. And very often that's also the case, you know, that's also because they're not really justified. So in the context of autism, this is very often...
+
+55:57.954 --> 56:26.654
+like done, you know, and it's done not just in South America. Sometimes there are places in Europe where you can get an injection of some stem cells for autism. Wait, parents are taking their kids to these clinics and getting them injected with stem cells that come from some other patient? Some cells that are collected from the patient. You know, it depends a little bit on where it's done and how it's actually done. But again, even from a biological point of view, you know, what are those stem cells presumably doing, let's say, in autism? You know, we don't
+
+56:26.850 --> 56:55.166
+that there is a cell type that is missing in the brain. So it's not like those cells can go. And I think, as I was mentioning before, most of the cells are already restricted in their potential. They can no longer make any cell type. So, you know, the idea that you take these pluripotent stem cells and you just inject them, let's say, in the knee, and it will, like, miraculously grow, you know, cartilage, it's very often not really the case because those cells are not even capable of making cartilage. So I think there's, you know, very often...
+
+56:55.266 --> 57:23.838
+a lack of understanding of what these therapies really are. And then of course, there is sadly a lack of understanding of what is actually being injected. So for autism, this is unfortunately happening much more often than you would think. So I very often get like parents or families that are asking me desperately, with like exhausted old resource, we don't know what else to do. We've tried behavioral therapy, we've tried this therapy, nothing works.
+
+57:23.970 --> 57:51.710
+And everybody's recommended that we should just go now to South America and do this injection. Should we do it or not? And of course, my answer is always like no, because again, there's no reason that that would work. Some parents come back and of course they report an improvement. And which is generally temporary to the extent that we know, of course, it's never really been studied in a very systematic way. Partly, of course, there's a very strong placebo effect.
+
+57:52.258 --> 58:22.174
+which you can, you know, especially in parents, like by proxy, when you have a child who's like very sick, those placebo effects are very, very strong. These parents really want those kids to improve. So they will see things that are improving. Plus, those are still developing kids. So week by week, they may acquire new milestones. And then the other thing, which of course could be part of this, is that there is an inflammatory effect very often. And so that's almost like the fever in a way, right? Like would increase...
+
+58:22.338 --> 58:49.342
+Perhaps some of the cytokines will create a fever. Perhaps that is associated. We don't really know, but certainly there are dangers associated with procedures like this that lack the rationale, first of all. And then, of course, then they lack any regulatory framework. Yeah, I mean, I think the concern is very real for stem cell injections into all tissues, but when it comes to eyes,
+
+58:49.602 --> 59:12.990
+or brain, and of course, eyes are brain. That's where I just, you know, take a big, deep breath and hold it and like wide eye, like, oh my goodness, no, because we don't get new neurons. You lose neurons, they're gone. I mean, we get a few in the olfactory bulb, in the dentate gyrus of the hippocampus, a few, but you know, once they're gone, that's it. And injecting something into the brain
+
+59:13.154 --> 59:37.022
+that the probability of tumor growth is incredibly high. Absolutely. And especially when it is in the brain where there's not enough space. So we know that anything that grows in the cranial cavity will actually push down vital centers. So there are certainly risks associated with that. So let's talk about the other approach, which is the one that you've been embarking on.
+
+59:37.154 --> 01:00:06.814
+I'll never forget when we were postdocs. Folks, we were postdocs in the same room. It was D222. Yes. We had a lot of pride in that room. We had benches on opposite sides of the room, and we sort of took over that room as an empty room. You probably couldn't do this anymore, but it was like, there's an empty room. Let's bring some microscopes in there. We just started doing experiments there, and I'll never forget when you started building organoids. You started building nervous systems in a dish, and how excited you were.
+
+01:00:06.914 --> 01:00:35.998
+And it's been remarkable to see your arc from that. And it's not lost on me that you were working extremely hard then and continue to become really one of the luminaries of this field. Tell us what organoids are. Tell us why they're useful and what they're telling us already about how the brain develops and their therapeutic potential. So let's start from the beginning. So
+
+01:00:36.514 --> 01:01:04.062
+Around like 15, 16 years ago, we were able for the first time to get some of the cells that are now known as induced pluripotent stem cells. These are the Yamanaka. Yes, or IPS cells. So induced because they've been induced to become pluripotent in an artificial way. But again, they stay like that. So you can share them with anybody else like afterwards. So we got some of those first cells in those early days. And now the question was, how do we make neurons?
+
+01:01:04.642 --> 01:01:30.526
+What you do is you really kind of like leverage everything that is known in developmental biology. So we already know that there are certain molecules that are very important for making neurons. So all you do is you put those cells in a dish, in a plastic dish, in a Petri dish. And then you start almost like when you cook, you start adding various molecules on top and you see what happens. And we knew that it's actually quite easy to make neurons.
+
+01:01:30.690 --> 01:01:59.902
+That was already known. There have been a lot of experiments done the decade before that showed that even if you just remove some of the factors that maintain those cells pluripotent, those pluripotent stem cells will start out to differentiate and they like to become neural cells. By default. Almost by default. So it's actually not that difficult to make neurons. So in those early days, you know, you would take those cells, play them nicely, those pluripotent stem cells in a dish, and then remove some of these factors. And then within a few days, you will see that they will change shape
+
+01:02:00.706 --> 01:02:30.238
+And within a few weeks, some of them will really look like neurons. And when you look at them, you can even look at proteins that only neurons will have. You can actually get an electrode inside a cell and listen to the electrical activity. So it was very exciting, as maybe you remember in those days. I mean, you know, this burst in curiosity is always sort of like, you know, the ATP of the life in the lab, so to speak. It is. Right? I mean, it's just like I want to wake up and want to go see...
+
+01:02:30.466 --> 01:02:59.454
+what happened to those cells? And it was clear in those days that, you know, we would be able to make those cells, but would we actually see any abnormalities in those cells? I think it was like the question, you know, how would you know if you derive cells from a patient with autism, how would you know that you found anything abnormal? I think that was like a question. You know, we didn't even know what would be abnormal in the brain. And so that's when we decided actually to focus on something that would be
+
+01:02:59.810 --> 01:03:26.782
+relatively predictable. And that was this mutation in a calcium channel, which was discovered just a few years before in very few patients that had essentially one single letter in their entire genome changed in a gene that makes a protein known as a calcium channel, sits in excitable cells, meaning cardiac cells and brain cells. And every time a cell receives electrical input, this protein opens up
+
+01:03:27.298 --> 01:03:56.190
+and lets calcium go inside the cell. And that's very important because it couples electrical activity of the network with chemical activity inside the cells. And what we knew about that mutation at that point, that's pretty much all we knew in those early days, is that it probably allows the channel to stay open slightly longer, just a little bit longer. So more calcium would go inside the cells. Of course, there would be no way to know because you can't get a neuron or a cardiac cell from those patients to actually test it.
+
+01:03:56.482 --> 01:04:25.502
+So what we did is essentially we made, we recruited some of these patients. We flew them to Stanford. Then we got a tiny skin biopsy, made these IPS cells. This takes months. This takes already like four or five months. And then we took those cells in a dish, started to deriving neurons. And after about five, six, seven weeks, then we put them under a microscope and we started looking at the calcium. You can measure calcium inside cells through a microscope and just literally look at it. And I'll never forget that day.
+
+01:04:25.730 --> 01:04:54.526
+when we did that experiment, was looking down the microscope and we essentially stimulated the neurons and you could just see how control cells will go, calcium goes inside the cells and then it goes out. And then in patients that had Timothy syndrome, in Timothy syndrome derived neurons, you could see how the calcium will go and then it will stay longer, it takes longer to go out. So it's like the first defect that we saw in patient derived neurons
+
+01:04:55.202 --> 01:05:23.198
+They were actually not coming from a biopsy. They were not coming. So that was incredibly exciting, as you can imagine. But it was still relatively simplistic, just a few neurons at the bottom of a dish. Of course, for me, what was particularly frustrating was that we couldn't go very far in development. So think about the cerebral cortex, the outer layer of the brain that presumably makes us human. It has multiple layers, a large diversity of neurons. You know, it takes 27 weeks to...
+
+01:05:24.098 --> 01:05:53.182
+to make all those cells in the cortex, 27 weeks to make all those neurons. And we're not even talking about glial cells, the supporting cells that are coming much later for several years afterwards. But just making those cells takes about 27 weeks. And it turns out, something that we discovered in three experiments done in a dish, is that the timing of the development of those cells, it's actually recapitulated in a dish as well. So if you keep the cells in a dish, they'll actually...
+
+01:05:53.698 --> 01:06:18.910
+essentially develop at the same pace. They're not like much faster. And it's very difficult to keep neurons in a dish for 27 weeks to get all the neurons. Essentially they peel off, you know, every time you start to move them to another plate, then at one point they just die. And so then we thought, how about like never letting them to sit down on a surface? How about just essentially aggregating them as balls of cells and then letting those float?
+
+01:06:19.970 --> 01:06:49.886
+And in those early days, there was this amazing scientist from Japan, Yoshiki Sasai, who started doing really beautiful experiments where he was already moving some of the studies that he was doing of development in 3D cultures. So he showed you can make an optic cup, a part of the eye. And so it was clear it was in the air, this revolution of actually moving cells from 2D flat cultures to 3D self-organizing. And that actually unleashed amazing problems.
+
+01:06:49.986 --> 01:07:16.798
+new properties of the cells. So essentially all we did in those days is I ordered from Germany this plate that were counterintuitively coated so the cells never stick. I mean, every time we keep cells in a dish, you want them to stick. That's the major problem. So they were actually coated so the cells will never stick. And then there were like this balls of cells. They were floating there. And of course, I remember talking in the lab and everybody was like, oh, they're not going to survive. It's going to be a couple of weeks and they're going to...
+
+01:07:17.378 --> 01:07:45.854
+And then a week passed and two weeks passed. And then they kept growing and growing. And of course, the enthusiasm of every day to see, are they still alive? And then we discovered that we can keep them for months. And these three-dimensional cultures are now known as organoids, which is perhaps not the most fortunate name because it suggests that it's organ-like. And of course, they're not an entire organ. So they're not a representation of the entire brain. But that's sort of like the term that we refer to.
+
+01:07:46.082 --> 01:08:15.230
+to anything that is so like three dimensional and organizing in some way. And so we started keeping these cultures. And then at one point actually we discovered that we can pretty much keep them indefinitely. My lab maintained the longest cultures that have ever been reported, like literally going for years, for two, three years in a dish. And at one point in those early days when actually I was running out of funds in the lab and I came one day in lab meeting, I really determined,
+
+01:08:15.394 --> 01:08:45.311
+for us to actually cut costs. So I've told everybody, go into your incubators because we're spending so much money in feeding the cells and everybody throws out 20% of your cultures. And then people started saying, so should I throw the ones that are like 500 days old? And somebody was like, the ones that are 800 days old? And I said, what? You guys are keeping them for such a long time? Yeah, they just keep growing there in the incubator. So then we actually did the first study and then we had a series of three studies done over the years of trying to ask, how far do they go in development? So if you have a clump of human neurons,
+
+01:08:45.634 --> 01:09:13.950
+that you've made from pluripotent stem cells, and you keep feeding them in a dish, how far do they go in development? Do they move much faster? Do they move much slower? Are they stuck at one point in development? And it turns out that they actually keep track of development beautifully to such an extent that, for instance, we discover when they reach nine months of keeping them in a dish, so about the time of birth, they literally switch to a postnatal signature. Really? On their own.
+
+01:09:14.402 --> 01:09:41.950
+In a dish. In a dish. So, you know, there's this classic example in developmental neurobiology. There's this protein that usually changes around the time of birth. It's an NMDA receptor. So maybe some people know about NMDA receptors. Binding glutamate, they're very important. But they change a lot during development. They're made out of different units, and the units change. And it was very well known that during early development, so...
+
+01:09:42.178 --> 01:10:10.558
+prenatal, before birth, you primarily have 2B subunits. And then after birth, they're primarily 2A. So if you look in brain development, you just see how essentially 2B goes up and then it goes down and 2A goes up. And when you look, they meet around birth. So very often people thought that it's birth itself that triggers that switch. That canonical, it's called a canonical switch because we all thought that it was like so classic. And then you take an organoid
+
+01:10:10.978 --> 01:10:40.222
+that you maintain in the dish for 600 days. And of course, we're not inducing birth. We're not changing media. We're not doing anything special. And no hormones from mom. No hormones changes. Like, you know, we keep exactly the same media, which is certainly a very simplistic, you know, kind of like soup of chemicals, but we don't change it. And then you just look at this two subunits and you see how like 2B goes down and 2A goes up and they pretty much meet that nine months of keeping them in a dish. It's amazing. So that tells us that there's some sort of
+
+01:10:40.578 --> 01:11:09.438
+intrinsic clock. Once you start a development, the cells measure really, really well the time of development. That does not mean that all aspects of development are going to now be recapitulated in a dish. But it tells us that there is this incredible ability of cells, especially in the nervous system, because of course those cells will keep for the rest of our lives. We're never going to renew neurons. It's going to be different for liver cells or gut cell. But for neurons, probably in particular, they'll need to keep track of time really, really well. So that was like the first
+
+01:11:09.954 --> 01:11:37.598
+discovery that we've sort of like made, which is still stunning today. We still don't know the mechanism. We're still working really hard on figuring out exactly how the cells are keeping track of time. Because as you can imagine, if we understand what that molecular machinery is, we used to call it a clock. We now call it a timer. We think it's more of a timer than an actual clock. But understanding what the molecular biology of that is will allow us actually to play with that clock. So if you want to make neurons that are
+
+01:11:37.698 --> 01:12:06.590
+you know, 70 years old neuron from a patient with Parkinson. You know, I don't have to wait 70 years in a dish. Could I make it in like a few weeks? Or perhaps could I take an aging neuron and somehow, you know, rejuvenate it by playing with that timer? But just to make it clear, we still don't know that, you know, we have some clues about like what it may be, but I think it's still early days. And I think that was like one of the first things that this cultures allowed us to do, just to,
+
+01:12:07.554 --> 01:12:36.254
+watch development, human brain development, outside of the human body in a dish and actually witness that some fundamental aspects of brain development are actually recapitulated even outside of the uterus and, of course, of the brain. So that was the first. And then, of course, I guess I'm a developmental neurobiologist by training and I've done a lot of circuit work in early days. Of course, an obsession of mine was that especially for conditions...
+
+01:12:36.450 --> 01:12:53.406
+as complex as autism and schizophrenia, we need to recapitulate some of the circuit properties of the brain. So we now know that, you know, probably both for schizophrenia and for autism, it is very unlikely based on the evidence that we have so far that there are cells really missing from the brain.
+
+01:12:53.730 --> 01:13:22.558
+We thought for a while that maybe some cells are missing or maybe other cells are in excess. But now the studies that have been done, especially with single cell profiling of brains of patients that have already died, showed us that the composition of the brain, of the cortex in particular, it's very, very similar. So it's unlikely that the cells are missing or like, but likely the way they're connected with each other is that makes a difference. And of course, in the beginning, we were just making this clump of cells. They're all for the cortex, but they're like not connected to anything else.
+
+01:13:23.490 --> 01:13:53.214
+So then came the idea of assembloids because most of the cells in the brain connect with cells across the nervous system. And in fact, even more interestingly, cells do not reside in the place in which they're born in the nervous system. We have the largest cell diversity of any other organ, almost 2,000 cell types. By the end of the first trimester, there are about 600 cell types in the human brain. You know, think about the liver, right? Maybe a couple of dozens. The brain has to make
+
+01:13:53.506 --> 01:14:23.486
+you know, hundreds of times more. So how do you do that? The only way is to actually make the cell types in different parts of the brain, provide local cues there. And then once the cells have been specified, let them move and find their final position. So the first assembloid that we've actually made were of a very stereotypical, canonical movement of cells in the nervous system, which has to do again with the cortex. So the cortex, again, the outer layer of the brain has both excitatory and inhibitory neurons. So the
+
+01:14:23.586 --> 01:14:48.094
+It turns out that most inhibitory neurons are not born in the cortex, but they're born deep in the brain. So essentially, all we did is we made two brain regions, the ones that has excitatory neurons and the one that has inhibitory neurons. And the plan was to put them together, hoping that at one point, the cells will know what to do. And in fact, that was one of the first projects in my lab, planning that. And I remember...
+
+01:14:48.450 --> 01:15:17.086
+gave to one of the students this very difficult task of figuring out how we're going to fuse these two cultures. And they're about three millimeters in size, so you can see them by eye. And I thought it was going to be very difficult to put them together. So the student worked for months trying to figure out biological glues, kind of like using various electrodes and impaling them and everything else, until somebody else came one day and said, it's very simple. You just put them at the bottom of a tiny eppendorf tube, which is the
+
+01:15:17.378 --> 01:15:46.942
+tiniest like of tubes that you get, you put them there overnight and next day they're completely fused. But they're not just fused because now if you look inside, within a few days, the cells that are supposed to move start to actually point out towards the cortex. They literally smell the chemicals from the cortex and they start to move in this very stereotypical way towards the cortex. And so that was the first assembloid made around 2015. And I still remember it was Ben actually. Ben was so excited.
+
+01:15:47.202 --> 01:16:16.286
+embarrassed, was so excited about seeing the cells. He wanted to look at these movies every day. And then he said, I still have this email from him, where he was very preoccupied that he kept saying, this new preparation is not an organite. It's not a steroid. It's something else. You have to find another name. He loved naming things. He loved naming things. And he understood the importance of naming things, not just for career reasons, although he understood a lot about how to build a career, but because...
+
+01:16:17.058 --> 01:16:40.062
+Naming like Yamanaka factors made sense to name it after Yamanaka. He got a Nobel and is immortalized that way, like stem cells, immortalized. But I think the naming is essential because otherwise things can get lost in the technical details. Yes. So who came up with the name of Cyborg? So he kept insisting that I should find the name.
+
+01:16:40.450 --> 01:17:07.710
+So I made this long list. I still have like in my notebook. Like I had a long list of about 20. And I would like keep sending Ben one. And you know, like Ben was always awake, like 24 hours. Yeah, he didn't sleep much. He never slept. So I remember after sending many emails going back and forth, and he was just like, no, bad name, bad name. I don't like it. And then at one point, I thought, well, OID because it's like, and then assemble because we assemble the circuits. So I thought, assemble it. And I send this and it says OID.
+
+01:17:07.874 --> 01:17:37.406
+Perfect. I love it. So you named assembloids. I named assembloids and Ben sort of like blessed it, like one night at like 3 a.m. And so that was the first assembloid. And the first assembloid was for cells migrating. But then the question was, cells have to find each other and form circuits. And so within a couple of years, we started making assembloids that will have exons. So the long projections of neurons finding other partners. And you know how...
+
+01:17:37.858 --> 01:17:50.782
+I forgot who said this, must have been Rodolfo Linas, or, you know, who said that the brain is sort of, you know, the next evolutionary step towards movement. You know, so like the nervous system
+
+01:17:51.394 --> 01:18:18.942
+there's been this theories that has evolved as a way of like moving around. That was Sherrington. Sherrington said the final common path is movement. He was a physiologist. He was kind of vague in a statement, but I think it was Sherrington. And I don't doubt that Rodolfo said something about it too. I'm not gonna try and take anything away from Rodolfo. Anyone that knows a Rodolfo, he's not somebody you wanna piss off. Well, we should check it. Like who actually said it. Give him credit. I like Rodolfo. But for us, that became like the next objective. Like, can we actually build a circuit
+
+01:18:19.522 --> 01:18:45.918
+that will have a very clear output. So we would know that we've actually built that circuit. So what we did is essentially, we thought about like the simplest circuit for movement, which is like the corticospinal tract. So that means that a neuron in deep layers of the cortex sends a long axons all the way to the spinal cord, finds a motor neuron, makes a connection, then the motor neuron leaves the spinal cord, goes to the muscle. And essentially you only have
+
+01:18:46.082 --> 01:19:14.046
+There's two neurons, right, that are connecting with each other, with the muscle, two connections, one between the two of them and one with the muscle. So the simplest of circuits that you can have. Now let's me move my big toe. Right, exactly. It's pretty long distance if you think about it. It's very simple. And of course, like in other species, it's a little bit more complicated. It turns out that in mice, there's an additional neuron there. So there are some changes that happened over evolution. But for us and in primates, it's as simple as this. So what we did was...
+
+01:19:14.274 --> 01:19:40.606
+We essentially made an organoid that resembles the cortex and has some of those neurons. And then we made an organoid that resembles the spinal cord and has some motor neurons in it. And then we made a ball of human muscle that you can make from a biopsy. You can literally biopsy a muscle. You get the myoblast, you grow them, and you get a nice ball of muscle. And then, of course, the challenge was that, you know, the reality is that we don't know how those cells find each other.
+
+01:19:41.026 --> 01:20:10.750
+Like in development, we know some of the molecular cues that they use, but we're far from having a comprehensive understanding of how they find each other. And I remember we were sitting down in the lab and kind of like thinking, I resisted actually doing this as the first assembloid in the lab for a while because the probability was like against us. Like those cells in the cortical organoid that are less than 5%, the motor neurons are less than 10%. The probability that they find each other perfectly and in enough numbers to trigger muscle contraction was close to zero.
+
+01:20:11.618 --> 01:20:39.870
+And yet you do it, you put the three parts together, you let them assemble, and within a few weeks, you can actually now stimulate the cortex with whatever you want to use, with an electrode, with light, and then the muscle starts to contract. And in fact, the more you do it, the more reliable the process is. And then, of course, we went on to reverse engineering and figure out that indeed the cells have connected in that precise way. So I think what we started actually to realize is
+
+01:20:40.002 --> 01:21:08.734
+was that of course a lot of stem cell biology was you know i think a lot of biology was based on chemical and physical factors that we were leveraging but we've never truly leveraged this kind of like next level of um law or power in biology which is self-organization the ability of a biological system of build it itself if you think about it the human brain builds itself right there's of course there are instructions but there's no blueprint
+
+01:21:09.058 --> 01:21:35.102
+There's no plan that the brain constantly looks to make sure that it actually made all the connections properly. Instructions are sort of revealed at every step for kind of like the next step. And it mostly comes from the cells finding each other. So I think what we also started to learn from this was that all we need to do is make the parts. And if we make the parts right, then the parts will come with the instructions and then the circuits will assemble on their own.
+
+01:21:36.002 --> 01:22:04.702
+And so that has been really kind of like the beginning of it. And of course, it became progressively more difficult to build circuits. And so, of course, if you put two, you may think, oh, let's make three. And if you make three, can you make four? So actually, we just published a few months ago, the first four-part dissembloid that actually now reconstitutes the pathway that processes sensory information in the nervous system. So you think about the cortex, you know, sends out to control movement and has an output.
+
+01:22:04.802 --> 01:22:33.502
+but it receives information from the outside constantly. And that happens through neurons that sit close to the spinal cord, have projections in the skin where they sense tactile vibrations or pain stimuli, send that information to the spinal cord. From the spinal cord, they cross, they go up to the thalamus in the middle of the brain, and from the thalamus, they go to the cortex. So this is a four-part pathway. So it took us years, first of all, to make the parts and then to put them together.
+
+01:22:33.890 --> 01:23:00.926
+And then again, the beautiful thing about it is that while we still don't know all the rules of assembly, you can make this four-par, we call it a sensory assembloid or a somatosensory assembloid. Because it turns out that the sensory neurons that we can make are mostly sensory neurons that sense pain stimuli. And so you can actually put the four parts together. So the sensory, the spinal cord, the thalamus, and the cortex, and you have to put them in that order. If you change the order, the cells will not find each other.
+
+01:23:01.058 --> 01:23:28.990
+So you just have to create the minimal conditions for them, making the right cell types, putting them in the right order, and then they'll find each other. And within a few weeks, so it takes hundreds of days to build a circuit like this, but the beauty of it is that suddenly you look at it and you just see spontaneous activity that arises in the entire pathway, just starts to flicker, all in sync. Can you use this assembloid to study the effects of different pain medications? Yes. So that is certainly one potential.
+
+01:23:29.698 --> 01:23:59.422
+The other thing that you can do in the first application that we've had was for genetic forms of pain conditions. So we very often think that genetic conditions where you have a very clear cause, so like entry points, like Rosetta stones for understanding anything. So there are these interesting mutations in a sodium channel, so another channel. But the sodium channel turns out that if the channel is overactive because of a mutation, you'll have excessive pain. So these patients are highly sensitive. But then if the channel is...
+
+01:23:59.650 --> 01:24:21.566
+essentially unable to function, then these patients have lots of pain. And that's equally bad. Many of these patients actually will die because they can't sense pain at all. Yeah, I think people don't realize that in mutations where people can't sense pain, people fail to make the postural adjustments that allow you to stay alive. Or because they...
+
+01:24:21.666 --> 01:24:38.462
+Unfortunately, they can be resting a little bit too much on their right leg. We normally think, okay, no big deal, but you're constantly making these postural adjustments. If you don't do that, you actually can damage the legs that you're pushing down too hard on. It seems like a trivial amount of weight, right? It's your own body weight. Right.
+
+01:24:38.658 --> 01:25:07.454
+we fail to recognize just how often we're redistributing our position. No, no, no. And it's absolutely true. Like feedback in general is very important, including through like this painful stimuli, through all stimuli in general. And it turns out that if you now make essentially a four-part assembloid that carries the mutation that causes excessive pain, now the sensory neurons are excessively active. So they keep bursting with activity throughout. And then we thought we're going to take it out. And of course, in these patients, they can't fire.
+
+01:25:07.682 --> 01:25:35.646
+It turns out that it's not true that they can fire. For some reason, there are probably other channels that are helping them compensate, but they fail to engage the rest of the pathway in a synchronized way. So that's why we need the four parts. And I think that's why assemblies generally are going to be very useful because there are emergent properties that are arising from the interactions of the cells at distance in the brain and likely many disorders. And of course, they're very far from understanding complex disorders such as autism. But certainly...
+
+01:25:36.418 --> 01:25:54.622
+these interactions, fault interactions at a distance in the circuits are probably going to be, you know, key to understanding the biology of these conditions and hopefully at one point reversing them. I'd like to take a quick break and acknowledge one of our sponsors, Function. Last year, I became a Function member after searching for the most comprehensive approach to lab testing.
+
+01:25:54.914 --> 01:26:24.880
+Function provides over 100 advanced lab tests that give you a key snapshot of your entire bodily health. This snapshot offers you with insights on your heart health, hormone health, immune functioning, nutrient levels, and much more. They've also recently added tests for toxins, such as BPA exposure from harmful plastics, and tests for PFASs, or forever chemicals. Function not only provides testing of over 100 biomarkers key to your physical and mental health, but it also analyzes these results and provides insights from top doctors who are
+
+01:26:24.880 --> 01:26:52.862
+expert in the relevant areas. For example, in one of my first tests with Function, I learned that I had elevated levels of mercury in my blood. Function not only helped me detect that, but offered insights into how best to reduce my mercury levels, which included limiting my tuna consumption. I'd been eating a lot of tuna, while also making an effort to eat more leafy greens and supplementing with NAC and acetylcysteine, both of which can support glutathione production and detoxification. And I should say, by taking a second Function test, that approach worked.
+
+01:26:52.962 --> 01:27:08.190
+Comprehensive blood testing is vitally important. There's so many things related to your mental and physical health that can only be detected in a blood test. The problem is blood testing has always been very expensive and complicated. In contrast, I've been super impressed by function simplicity and
+
+01:27:08.322 --> 01:27:36.414
+at the level of cost. It is very affordable. As a consequence, I decided to join their scientific advisory board and I'm thrilled that they're sponsoring the podcast. If you'd like to try Function, you can go to functionhealth.com slash Huberman. Function currently has a wait list of over 250,000 people, but they're offering early access to Huberman podcast listeners. Again, that's functionhealth.com slash Huberman to get early access to Function. So I want to discuss an ethical consideration.
+
+01:27:36.738 --> 01:28:01.406
+slash concern. But before we do that, I want to take a step back and just have you reflect. I mean, I will never forget the first time I learned neural development, like sperm meets egg and then you get cell duplications and then the embryo figures out what's gonna become muscle, what's going to become nervous system. And it's really a, it's a humbling thing to be able to
+
+01:28:01.666 --> 01:28:31.422
+realize that we understand even a small bit of that. And very little was known until, you know, the sort of early parts of the last century really is where some of the defining tissues and interactions were first discovered. It was a relatively young science. Nowadays, I'm even more humbled by it because one only has to see a child that, you know, nine months ago didn't exist. And you really start, I mean, most people understand how babies are made. And yet,
+
+01:28:32.002 --> 01:28:59.774
+It's staggering. And I think what's so staggering about it, what's so miraculous, it's a miracle, is the self-organizing aspect of it. And now I'm hearing that these self-organization, the cell's own knowledge about what they should do and when is maintained. And I also have to just both highlight again and applaud the fact that
+
+01:28:59.906 --> 01:29:22.558
+Regardless of where one stood on the embryonic stem cell debate, you're describing assembloids that were made from essentially taking a fibroblast, a skin cell, from a patient or from a non-patient, a healthy person that at least doesn't have that mutation, putting them in a dish, reverting them to stemness through the Yamanaka factors, then giving them certain things to drive them towards...
+
+01:29:22.850 --> 01:29:52.254
+neuronal fates and then other fates, putting them together. And none of this involves the use of aborted tissues. No. May I ask you this? If today you could bank your fibroblasts turned into a few neurons, would you do it? Knowing that those cells could eventually be used to create any tissue, like I hope you live a very, very long life, Sergio. But let's say when you're 100, your heart has an issue.
+
+01:29:52.418 --> 01:30:11.390
+Humans can do heart transplants from another human. There are immune rejection issues there. Pig hearts have been transferred into humans. But we could potentially, you could potentially build a heart that is of your cells. No immune rejection. Why wouldn't you bank your cells? I think you can collect them at any time.
+
+01:30:11.618 --> 01:30:41.182
+principle. Okay, so you can get them on your 99th birthday. I think you can still get them. For sure, it could be an argument. So you have time, folks. Right. So it could be an argument made that all the cells are going to be aging, so there are going to be some changes happening in those cells. Yeah, they'll accumulate mutations. Yeah, that could be an argument made about it. On the other hand, what we're also seeing with some of the cell therapies that are just being developed now more broadly is that they don't have to be necessarily personalized. So they don't have to be made from your own cells.
+
+01:30:41.730 --> 01:31:06.942
+because you can use immunosuppression. That's one way in which you can do it. So you can transplant the cells from somebody else. Of course, that poses more challenges if you think about the brain, replacing large parts of the brain, which certainly is far into the future. You want to be very careful whose brain you're taking in. Yeah, certainly. But in general, you can see how in the future we may have off-the-shelf patients
+
+01:31:07.490 --> 01:31:37.022
+cells that have been made from a generic individual that you transplant with immunosuppression or cells that have been genetically modified so that they're not rejected by the immune system. So they're compatible with all of us. Now it's much more likely to become a therapy that is broadly used, I think. So that's why I'm not that worried about like harvesting my own cells like right now. Where do you sit on this idea that at some point in the not too distant future,
+
+01:31:37.122 --> 01:32:05.566
+we will be able to immortalize entire organs within our body, perhaps not ourselves, but our colleague, Michael Snyder, chair of genetics at Stanford, told me that he thinks that at least in my lifetime, I'm a little bit younger than he is, I'm almost 50, I forget how old Mike is, almost 70, but he said at least in my lifetime that immortalization of tissues, human tissues will be possible. He doesn't think that's a,
+
+01:32:06.306 --> 01:32:35.326
+fantasy? Yeah, I think different people mean different things by immortalizing something. We generally think like for in vitro studies or for an additional study, when you immortalize something, it means that the cell is maintained forever, but it generally involves using a cancer-like factor, giving them cancer properties. I mean, the cells that are immortalized, if you think about it, are either the stem cells that we talked about or the cancer cells. So we always have to be careful about what it means to actually immortalize a cell.
+
+01:32:35.970 --> 01:32:57.566
+Rejuvenate cells, that's kind of like an interesting concept. Will we be able to actually rejuvenate ourselves even if they're aged? So a lot of discussions have been happening lately whether you can actually use the Yamanaka factors, not to the extent that you completely reprogram a cell, but that you just use them, you know, just a little bit.
+
+01:32:57.890 --> 01:33:27.518
+So that you rejuvenate the cells, not fully. But as you can imagine, those are complicated experiments, right? They're going to have to be tuned. You need to control very carefully the dial there. Microdosing Yamanaka factors. Right, because you would actually, you risk moving into another state. But, you know, that may be possible at one point. Yeah, I thought that at one point, one of the concerns of using Yamanaka factors and this whole technology therapeutically was that
+
+01:33:27.906 --> 01:33:41.118
+you could set the reversal in age of cells back to stemness, back to stem cells. But then how do you stop them there? And also how do you send them, I mean, ultimately,
+
+01:33:41.218 --> 01:34:02.846
+It's not a stem cell that you want. You want a fully differentiated heart cell or neuron. You want to stop there. Right. I mean, the idea being for anyone trying to reverse their age. I mean, how far back are you willing to go? Right. Right. And it's true when you use the Yamanaka factors or a combination of them, because, you know, we've discovered afterwards that it's not just those factors that can do that. There are combinations of other factors that can do the same.
+
+01:34:03.106 --> 01:34:26.110
+So there are various combinations. There is a lot of redundancy in that pathway. And if you hit the right combinations in a cell at the right time, you can push it back in time. Now, of course, the challenge is that, you know, that reprogramming is full in the sense that everything is going to be erased. If the reprogramming is done properly,
+
+01:34:26.210 --> 01:34:55.518
+All the methylation, so all these metal groups that you put across DNA that accumulate with age are going to be removed. All the signatures are essentially removed, so the cell is truly rejuvenated as in the beginning. And as you mentioned, perhaps you don't want to do that fully. Can you do it in a way that is partial reprogramming, as some people refer to? But certainly, these are still early days for that. Certainly, it's a possibility.
+
+01:34:56.642 --> 01:35:25.246
+I think for most people, if I said, look, scientists are developing engineering eyes that can replace eyes for people that are blind, maybe one eye, maybe both. They'd say, great, you're curing blindness effectively. And people are trying to do this. Neuralink is doing this. E.J. Chichonowski and Dan Palaenka at Stanford are trying to do this. If I said, you know, there are scientists...
+
+01:35:25.410 --> 01:35:54.878
+And companies trying to develop chips so that paralyzed people can walk again. Or that people who have locked-in syndrome can speak again through one modality or another. They'd say, great. But if I said, there are scientists who are building assembloids in a dish so that maybe you don't have, like, two hippocampi. You have three. You have a super memory. I think most people would be like, whoa, slow down.
+
+01:35:55.394 --> 01:36:25.086
+You're playing God. That's not okay. And as a parallel example, CRISPR gene therapy, which we talked about earlier, was employed by a Chinese scientist to, I think it was to mutate the HIV receptor. To modify, yeah, two individuals, two babies. Yeah, so there are at least two babies that we're aware of and probably more around the world, but not terribly many, for whom CRISPR was used to make a genetic modification.
+
+01:36:25.602 --> 01:36:53.534
+Those babies were carried to term, and it wasn't to fix any particular disease. It was to confer them with something additional. Yeah, to prevent, in this case, to prevent presumed transmission of HIV from the mother, which is not necessarily justified in that case. Right. Did the mother have HIV? I think the idea was that, yeah, to avoid maternal transmission to the fetus, you would not have that. But there are other ways in which that can actually be
+
+01:36:53.890 --> 01:37:22.782
+So in this case, it was not perhaps the best choice of a disease to correct. And I think that's why the scientific community has been quite outraged by both gets the rationale and the way the experiment was done, which was not following, certainly. Yeah. Yeah. The scientific community, as you said, was very upset about that, which brings us to the question of ethics. Yes. So I'm sure being really familiar with this technology that you've thought about a number of ethical issues that
+
+01:37:23.074 --> 01:37:35.870
+going to occur to me or perhaps you've heard about things from the general public or from physicians and psychiatrists what are some of the key ethical issues that come to mind when thinking about how assembloids are going to be implemented as eventually treatments
+
+01:37:36.066 --> 01:38:06.032
+Yeah.
+
+01:38:06.032 --> 01:38:34.494
+ethical issues that are related to the cells. We are taking cells from a human. And so you expect that you have received proper consent for the use of those cells, whatever that is. On the other hand, if, for instance, you put them into an animal, then there are ethical issues related to that animal. Are you doing any harm? How do we manage pain in that animal that has been transplanted? And then there are sort of like issues that are at the interface between the two.
+
+01:38:34.786 --> 01:39:02.910
+So for instance, are there any emergent properties that are arising at one point, whether they're like in a dish or maybe perhaps in an animal? How complex can a circuit like this become? Is there any form of learning, of computation? Of course, some people have raised the issue that perhaps there is sentience or awareness, consciousness. Are they feeling pain? So for instance, that has been like one critique for one of the recent work that we've done. Of course, in that case, we know
+
+01:39:03.394 --> 01:39:32.254
+You know, the emotional component of pain is processed in different brain regions. We don't have those in a dish, so we know that they're not really feeling pain. We have the pathway of pain. But it also speaks to the fact that we need to be very careful about how we communicate this type of research. Even just using terms that are trivializing can actually create a lot of confusion. And the classic example in our field has been to call these preparations, these organotory assembloids, to call them mini-brains.
+
+01:39:32.834 --> 01:40:01.342
+Then it may seem like as a trivial joke that it can do anything, any harm. But you hear that for the first time, scientists have made mini brains in a dish. And what do you think? You think, oh, it must be a miniature human brain that they're keeping in a dish, isolated. And of course, that's not true. We have not made the entire nervous system. We can make parts of the nervous system. We can put them in various combinations, but we've never made that entire brain. Actually,
+
+01:40:01.698 --> 01:40:30.494
+I don't know of any scientist who has as a goal to try to build the entire nervous system as an exact replica of the brain. So I think the words matter a lot. And in fact, that has been, you know, one of the things that we've done over the years. A few years ago, I thought it would be really important to get most of the scientists in the field together and start thinking about these terms really carefully. And so we got together, created sort of like an ad hoc consortium
+
+01:40:30.594 --> 01:40:58.718
+And through many, many calls, one-on-one in various groups, we came up with one paper, which was published in Nature a couple of years ago, which really comes as a nomenclature for the field. We as scientists decided this is like the way we classify them. These are the terms that we all agreed should be used and not use, not, for instance, you know, project, let's say, complex terms onto this. We'll never say that an organoid like sees just because there's a retina.
+
+01:40:59.042 --> 01:41:18.494
+We'll never say that a cortical organoid has intelligence because that's a property of an entire nervous system. So we think that this is actually quite important, especially in communicating with the public. And that consortium turned out to be an actually great exercise of getting everybody together and now thinking, what are some of the common
+
+01:41:18.786 --> 01:41:41.406
+practices that we should all use when we report this experiment. So we just had a few months ago another paper that came also as a perspective in science, in nature, where we also laid out the framework for the field. I think this also speaks to the fact that we're entering a new era in science, where I think you would say all these labs are working separately, they're competing with each other, and yet we all got together
+
+01:41:41.922 --> 01:42:01.150
+You know, 25 or so labs discuss some of these issues, reach some consensus, you know, and I think that moves the field forward. And I think in general in science, we will need more and more of this collaborative effort because the science is getting more complex. Biology is getting really, really complex. And there's no one single lab that can solve all of that.
+
+01:42:01.634 --> 01:42:31.326
+I completely agree. I think some years back, collaboration became the norm as opposed to the occasional thing. And I always thought that laboratories should be named after projects, missions, as opposed to individuals. But that's another story. Well, kudos to you for thinking about these issues so carefully and for gathering people around them in order to come up with nomenclature. Going back to this issue of naming, what things are called is so critical. It's so critical. And we see this in the public health sphere.
+
+01:42:31.426 --> 01:42:32.478
+you
+
+01:42:32.578 --> 01:43:02.544
+You know, when people talk about gain-of-function research now, you know, it's rarely mentioned that, you know, gain-of-function studies are critical for understanding things. It's not always the case you're mutating a virus. It's like gain-of-function as a general technology. More specificity of language, I think, is going to be immensely beneficial. So I appreciate you doing that. And these terms change with time. I think it's also important to, like, mention that our understanding evolves. Science progresses, and sometimes there are things that we thought we understood, and then new techniques come and change.
+
+01:43:02.544 --> 01:43:28.254
+that you know i think it was sydney brenner who said that progress in science usually comes from a new technique that will yield new discoveries and that will create new ideas so you know you think you understand something and suddenly you have a new machine that can measure it much better with more precision or let's say you have this technology when you can now recreate some of the circuits and suddenly new ideas come out of it new discoveries and then we rethink
+
+01:43:28.418 --> 01:43:47.294
+And we adjust. And I think that's the beauty of science, that in a way, it's self-correcting as we get a better and better understanding of the world around us. Also essential for people to hear, because I think whenever science or medicine comes out and tries to correct itself, often the general public, not all, but
+
+01:43:47.906 --> 01:44:09.598
+components of the general public will go up in arms as, you know, similar to like a teenager realizing that their parents also did some bad stuff when they were younger and they're like, see, I shouldn't believe anything you say. It turns out science is as a whole, I think is a very well-intentioned endeavor. You get your occasional bad apples, but I think that this notion of self-correction is it's fundamental.
+
+01:44:09.730 --> 01:44:31.678
+Just like engineering has gotten better, the phone you use now doesn't look anything like in terms of technology or speed of the phone you used 10 years ago. Likewise with any technology. That's why it's so important that both when we communicate as scientists to the public, we use terms that are not trivializing. I think very often we're told like, you know, try to simplify so that the public understand. The public understands much more than we think.
+
+01:44:32.098 --> 01:44:58.558
+There are always ways in which you can explain something without trivializing it, without using a new term or some comparison so that they understand that. Because very often analogies can also be dangerous. But I think I always assume, and that has been my mantra, that somebody really has – when you explain even to the general public that they have zero knowledge and yet –
+
+01:44:58.946 --> 01:45:18.526
+infinite intelligence, right? I think as the saying goes in science. So I think there are always ways of explaining science very simply, but also communicating that science changes over time. There are new understandings that are correcting the science. And we've seen this, of course, in medicine. We've sadly seen it in psychiatry, right? Many, many times by
+
+01:45:18.690 --> 01:45:48.126
+labeling, relabeling, doing treatments that perhaps were like not the most, you know, fortunate, right, over time. But I think it's important to tell the public that, you know, we're, you know, always trying to move towards. I think most physicians that I know, most psychiatrists that I know are really motivated by really trying to make their patient better. So let's play a game where if I say, if you take two human conditions,
+
+01:45:48.258 --> 01:46:17.406
+cortical neurons or three or five or 10 or a thousand that were developed from one of my fibroblasts and you put it into a mouse or a non-human primate like a macaque monkey. I think you've still got a mouse harboring a few of my neurons or a macaque monkey harboring a few of my neurons. At what point does that animal no longer become strictly a mouse or strictly a primate?
+
+01:46:17.762 --> 01:46:46.110
+And then the parallel example, of course, is let's say I could get some neurons from fibroblasts that were made from you and those were put into my brain. At what point do I become more Sergio-like than Andrew-like? So how do you think about those questions? And while it might seem too early to consider those, we've learned through history that it's never too early to start thinking about the ethical implications of a technology like this where there's transplantation involved.
+
+01:46:46.370 --> 01:47:14.782
+No, it is absolutely not too early. Actually, it's the right time to think about this as experiments are actually being planned, not when experiments have been done. Good point. And that's what we've been doing. And that's why actually, you know, all experiments that we do undergo ethical approval at Stanford. And I think most major institutions, right, and certainly in the United States, you have to first propose what you're going to do, especially with pluripotent stem cells and especially with animals. And a committee...
+
+01:47:15.074 --> 01:47:43.262
+know, will decide whether that is acceptable or not. Now, of course, there are experiments that perhaps are not necessarily illegal, but, you know, when you try to break a new frontier. But I think what it's important to think about, like this process of transplanting or transplantation, that you take cells and you put them either in another individual or another species, is that what really matters a lot, we've learned now, is the timing, when you actually transplant those cells. So it turns out that the brain is
+
+01:47:44.610 --> 01:48:13.662
+the adult brain is not very permissive to forming new connections. We don't form them. We may form small connections. There's a lot of plasticity at the connections, but we don't have, let's say in our adult brains, we don't have cells that are moving now across the nervous system. We don't have entire pathways that are being rewired. You're never going to have a cortical neuron that just simply regrows and now connects to a spinal cord neurons, which is why injury to the nervous system is so devastating. There's so little recovery because the cells are usually not
+
+01:48:13.794 --> 01:48:30.366
+you know, not essentially rejuvenating. There are no cells that are replenishing them. It's not just that there are no cells to actually replace them. It's also that the cells are just not that eager to connect with other cells as they are early in development. And so years ago, we've discovered that
+
+01:48:30.722 --> 01:49:00.574
+while we can keep some of these cultures in a dish for very long periods of time and connect them in ever more complex assembloids. And now there are literally dozens and hundreds of assembloids that people have made, and not just in the nervous system, actually even outside of the nervous system, because now there are assembloids of cardiac assembloids and endometrial assembloids. So the concepts took over, and I'm glad to talk about it. We're going to have the first conference on assembloids at Cold Spring Harbor this year, which is sort of like to bridge across fields and try to understand complex cell-cell interactions.
+
+01:49:01.026 --> 01:49:30.622
+And even with this most complex assembloids, we realized that the cells are still missing cues that are present in vitro. So a few years ago, we were doing an experiment looking at some of the neurons that we made in a dish. And, you know, these neurons in the cortex are very often called pyramidal because they look like a pyramid. They really have this beautiful triangular shape. And we were looking at the neuron. It looked beautiful, exactly like a pyramidal neuron. And then around that time, we got a piece of tissue that was removed from
+
+01:49:30.850 --> 01:49:52.990
+from a child who underwent surgery for epilepsy. So when you sometimes have to undergo the surgeries, intractable epilepsy is really severe. Maybe you talked about this like previously. You have to remove some tissue. And when you remove some of that tissue, you also have to remove some healthy tissue. And so we got some of that healthy tissue. And of course, we're always like eager to understand how the cells that were made in a dish
+
+01:49:53.378 --> 01:50:22.046
+are similar or dissimilar to the ones in the actual brain. We still need to benchmark before we use that for a therapy or for anything else. And we compare one day some of the cells and we realize to our amazement, I don't know how we'd never notice it or nobody has really made a big deal out of it, but the neurons that we're making in the dish were about 10 times smaller than the ones in the cortex on average. I mean, there are kind of miniature versions of what was happening. And so it was like, of course, immediately it was like,
+
+01:50:22.210 --> 01:50:51.422
+what is happening in vivo? Is there something, as they say, in vivo veritas, very often, right? We know this has been the case for immunology, that many experiments in vitro have not always panned once you actually study them in an actual patient. So that's when we actually started to also use transplantation. Meaning we started thinking, could we actually put some of the cells in an animal and see whether they acquire new properties or they look much more like this? And of course, transplantation has been used for
+
+01:50:51.618 --> 01:51:21.182
+Many of these experiments were done before I was born, especially in Sweden, when scientists will actually take various cells and transplant them into animals. And so what we did, we started doing, is like taking actual organoids, cortical organoids, and then transplanting them into a rat, a early born rat, in the somatosensory cortex, so like the part of the brain that senses, it receives information from whiskers.
+
+01:51:22.146 --> 01:51:51.806
+And we've done that in the first few days after birth. And it turns out that that was key because if you do it later, the cells don't really integrate that well. They integrate, but they don't fully integrate. And if you transplant that organoid into the somatosensory cortex of the rat and then you wait for a few months, that graft starts to grow. The cells become vascularized by the rat. They will even receive microglia. The immune cells of the nervous system of the rat start to populate. And then when you look on an MRI...
+
+01:51:52.194 --> 01:52:20.574
+you now can see that about a third of one hemisphere of the rat is now made up of human cells. So you can see relief from an MRI from the ventricle to the PR. Now, you may think that that's like an inert piece of tissue that sits there, but it turns out that it is quite well connected to the host. And that happens because the brain is still eager to connect at that early stage of development, but later on is not. And so, for instance, you can do experiments where you can actually record the activity of human neurons
+
+01:52:21.058 --> 01:52:49.598
+and at the same time move the whiskers of the rat. So if you move the whiskers of the rat onto the opposite side, obviously because the pathway is crossed, then human neurons now start to respond to that. And then I think probably the most important consequence of that is that they receive now input. They're now in an environment that is much more physiological. So when we now looked at the cells, it turned out that they're like six to eight fold larger than when we were making the dish. They're not yet identical replica,
+
+01:52:49.730 --> 01:53:17.598
+But they're very, very close. And that for us has actually been key and started to actually understand the biology of some of these conditions. So for instance, for Timothy syndrome, there is a very dramatic effect in the size of the neurons. They're almost twice as smaller than a control neuron. In the patient. Well, in the patient. Only when you transplant the cells, we can see that defect. In a dish, you look at them and they're identical.
+
+01:53:17.762 --> 01:53:40.766
+And then you transplant them, and some of them grow really large to control, and the patients fail. And that phenotype can only really be seen properly in vivo. So that has been actually essential also as we've been developing a therapeutic for this condition. And you start thinking, like, how do you test a therapeutic? You know, if there's no animal model of the disease, you test everything in a dish, you do want to have...
+
+01:53:41.314 --> 01:54:07.294
+some safety check, first of all, for making sure that there are no adverse effects, but also you want to make sure that it works in an in vivo environment. And actually it turns out that this model that we've built was essential because now we could take actually the animal and inject the therapeutic into the nervous system of the animal, but look at the effect on human neurons in an in vivo context. And, you know, so I think that's one application for this. But
+
+01:54:07.394 --> 01:54:37.054
+If you do the transplantation at a later stage, like for instance in an adult, that integration will probably not happen. I see. So it's quite dependent on the species. And there's another thing. The farther away the species are, the less likely it is, of course, that the cells will integrate. So think about it. It takes just a couple of weeks for the rat to make the cortex. It takes us 20 weeks to make most of the cortical cells. So the human cells are always behind.
+
+01:54:37.442 --> 01:55:04.734
+The rat is finishing development very quickly. The humans are trying, but they're keeping their pace. So the integration between the two species happens at some level, but is not perfect. And that's actually not our goal. Our goal has never really been to have perfect integration. All we wanted to do is to have a better system where we can capture aspects of disease that we wouldn't be able to see in another way or test therapeutics that we wouldn't be able to test in any other way. And so that's where this actually comes in handy, and it's been very useful.
+
+01:55:06.338 --> 01:55:34.686
+It's so interesting that for most people, again, I'm making a lot of assumptions here, but for most people, the idea of a chip, of a, you know, electrode implanted into the brain of a patient or spinal cord of a patient, isn't that disturbing to them? I mean, no one would choose to do that in the absence of a clinical issue, but well, there are some people who are interested in brain augmentation through the implantation of chips to create super memory or to be able to, um,
+
+01:55:34.946 --> 01:55:59.102
+process more bits of information in whatever capacity. But typically it's discussed in the therapeutic context. But as soon as we hear about, for instance, a pig heart or baboon heart was transplanted into a human, all of a sudden it gets to some really core things about our humanness. And then, of course, I can't help but be reminded of all the anecdotes that you hear where, oh, you know, a patient...
+
+01:55:59.490 --> 01:56:29.246
+had donated their heart to medicine, the heart was transferred, and then the person who received it thought that maybe they had adopted some features of the person's experience. And there's a, you know, you can't really do the control experiment, but there's a lot of interesting questions that border on mystical, but that, you know, given that experience is mapped into the nervous system, it's not inconceivable that you would have memory traces, at least of bodily experiences built into the organ system. Although typically we think of that stuff as in the brain.
+
+01:56:29.442 --> 01:56:55.038
+So as I hear and learn more about these incredible assembloids, I'm very enthusiastic about where this is headed. I also, of course, think that treatment of diseases is like the primary entry point. This is what, as opposed to building superhumans, which is, I think, why that CRISPR experiment mutating the HIV receptor was also disparaged. There was this idea that maybe the HIV receptor
+
+01:56:55.138 --> 01:57:22.302
+in the absence of HIV is performing other roles related to learning and memory. And so there was this kind of, there were kind of hints of eugenic type approaches. And that raises a question for me. You mentioned that there are many genes that are associated with autism. I think most parents or parents-to-be don't take a test for those genes. There are companies like ORCID in the Bay area now that will do deep sequencing of embryos in the IVF.
+
+01:57:22.466 --> 01:57:52.432
+depending on how much you pay, they'll sequence more. This was in the news a few weeks or months ago. And people start thinking, oh, this is like eugenics, right? On the other hand, partner selection, who one chooses to have children with, is its own form of genetic selection. They'll say, oh, you know, he's very kind, she's very kind, she's very smart. You know, people are basing their decisions, hopefully, according to features that they would like to create in the offspring. It's not always the case. So I think sometimes the boundary between, you know, what we're doing
+
+01:57:52.432 --> 01:58:19.166
+we call eugenics and mate selection and creating offspring in the purely old fashioned way, it's blurry, it becomes a continuum. How far off are we from genetic testing of parents as a kind of obligatory thing? Now that we know some of the genes associated with autism, we test parents for, you know,
+
+01:58:19.458 --> 01:58:47.294
+like Tay-Sachs, sickle cell anemia, congenital adrenal hyperplasia, things that are almost deterministic. Yes. Down syndrome, right? Trisomy. And in some countries, they'll implant embryos that are not, as we say, euploid, the proper assortment of chromosomes. But in the US, typically that's discouraged. So how do you think about all this? Like I'm
+
+01:58:47.746 --> 01:59:11.646
+I mean, you're not responsible for deciding for everyone, but you're right at the kind of leading edge of what's possible and you can kind of sniff what's going to be possible. I mean, how much information should a person thinking about having a child have in order to make the best informed decisions? So for some of these conditions, you know, it's more straightforward than for others.
+
+01:59:11.746 --> 01:59:39.646
+As you were saying, some of them are very deterministic. So if you have like 321 chromosomes, you're going to have Down syndrome, and that's going to be associated with a very classic presentation. But for others, it turns out, and I think that's where it's much more complicated than just testing and making a decision, is that what we call in genetics the penetrance of the genetic mutations is variable, meaning that you could have a genetic mutation
+
+01:59:40.546 --> 02:00:07.038
+that in one patient could cause a very severe presentation or phenotype, and another would be very mild. It's not the case for Timothy syndrome, where actually it's quite predictable. Most of the patients that we know, we've never identified a patient who is non-affected, and they're very severely affected. But there are other conditions that are much more common. I think the classic one is a deletion that is happening on chromosome 22.
+
+02:00:07.522 --> 02:00:35.518
+the so-called 22Q11.2 deletion syndrome, known by many, many names, vellocardiofacial syndrome, Dijors syndrome, known by many names because it's so common. It's actually the most common micro deletion in humans, about one in 3,000 births. Now, the condition is associated with cardiac issues, immune conditions, many of which can actually be addressed medically,
+
+02:00:36.066 --> 02:01:04.670
+it also comes with a 30% risk for schizophrenia. 30%? Yeah. So you think the general population is 1%. So this is about 30 times higher. It also comes with a 30% risk of autism. But you could also not have any of this. There are individuals who are carrying the 22q11.2 deletion, which is a large deletion, by the way. There are 60 genes that are gone in the classic deletion. And yet...
+
+02:01:05.090 --> 02:01:32.062
+still carry it around and have minimal defects or fetal types. Do we test for this 22Q? This is tested generally these days, yes, because it's so common. But I think that the challenge is this problem of penetrance. And in some patients, and we don't know what the context is, each of us has a very complex genetic background. So it could be that, you know, the same mutation, two different individuals will have different
+
+02:01:32.514 --> 02:01:59.038
+levels of severity because one of them perhaps compensates much better for whatever reason. There is a lot of sarcastic forces in development. And if a cell, it's much faster at opening the other gene, you know, like the similar gene that is unmutated and in the other case it wasn't. And, or maybe there are other environmental factors that are, you know, interacting. But the other possibility is that the genetic background that we have is very different. And so we're still like in early days of truly understanding what are
+
+02:01:59.202 --> 02:02:28.126
+effects of the genetic backgrounds in modulating the severity of these conditions. But in itself, it's a very interesting question. Why some individuals can have a massive deletion of 60 genes and yet still move around? So I think that's going to be a lot of interesting biology to discover behind this. And then, of course, we know that there are differences between animals and humans. That we already know, that very often a mutation that would be very severe in a human has almost no
+
+02:02:28.994 --> 02:02:58.526
+defect in an animal model, partly because that gene maybe plays a different role or perhaps the genetic background is very different. Speaking of which, what are some of the other diseases that are being modeled and studied with assembloids? So Timothy syndrome has sort of like been the first example, partly because it was some of the first neurons that were derived from iPS cells and from patients with neurodevelopmental disorders in those early days, and also partly because it's the disease that
+
+02:02:59.362 --> 02:03:28.126
+studied so much on all possible angles, first with 2D neurons, then with 3D organoids, then with the symbloids, that at one point, and I like to say that a therapy became self-evident, so to speak. I mean, we were honestly not, I was not thinking that we would develop a therapy for Timothy syndrome, like not in the near future. But at one point, we just accumulated enough biological information that you just look at it and you say, oh, this is exactly what we need to do.
+
+02:03:29.346 --> 02:03:57.758
+And it turns out that, and this we did about like five years ago, that we understood so well how this channel is processed in the cells and what it causes that at one point we realized that all we need to do is generate this tiny piece of nucleic acid that we can get inside the cells. It will go in, switch the way the channel is actually processed and rescue or reverse the phenotypes. And it turns out that every single defect that we've described over the past 15 years in the studies,
+
+02:03:57.954 --> 02:04:27.198
+can be rescued by just adding the tiny piece of nucleic acid. It's almost like a gene therapy in a way, just doesn't involve a virus. And so this is the first disease and we're preparing for a clinical trial. These patients are very rare. So I've been traveling around the world trying to find most patients with Timmel syndrome, even try to understand the complexity of the disease, the severity of the disease. And so we now have a large cohort of the patients ready and we're preparing for the first clinical trial. We already started producing the drug. So it's druggable. We think that it's druggable.
+
+02:04:27.362 --> 02:04:51.390
+But this will be the first therapeutic for psychiatric disease that has been exclusively developed with human stem cell models without anything else. I'd like to joke, but probably you knew very well Luberstrier. He developed the so-called gene chip, the early days of evaluating genes in different cells. He passed away recently. He passed away recently. He also, he would bring coffee by. He would bring coffee by. He had their office.
+
+02:04:51.714 --> 02:05:17.758
+Cross our D222, right? So he would come at nine. Anyone who's ever taken biochemistry, the big red biochemistry book, Stryer. It's Stryer. That's what it is. I mean, he was an amazing communicator. I think above anything, he was just a larger than life figure who like be able to like go with you in a conversation from like a deep molecular mechanism to what does it actually mean? Yeah, very kind person too. So my last conversation with Lubert, which happened, I think a month before
+
+02:05:17.986 --> 02:05:44.542
+He passed away. He came to my office at Stanford. We would meet like every few months. He was just like so interested about like how this is evolving. And I remember he was sitting in my office and then he wanted to know, where are you with Timothy syndrome? The paper was still under revision at Nature. It was coming in the next few months. And then he said like, you know, like the saddest thing is like, I'm not going to see this paper published. Like I want to see this paper published. And I said like, why? And he goes, do you know what you've done?
+
+02:05:45.026 --> 02:06:14.334
+because he would usually use with that intensity. And I thought like, oh my God, maybe he realized we've made the mistake somewhere in the paper or it's gonna point out to some flaw. And then he says, no, you've demystified the psychiatric disease. I said, what do you mean? I said, well, you think about psychiatric disorders. They're so esoteric, so complex, mental processes that are arising, behavioral changes. And yet you went all the way down to like a molecular defect, a point mutation,
+
+02:06:14.530 --> 02:06:40.574
+figure out the rest. And now you're on a verge of potentially, you know, perhaps not reversing, but at least improving some. So he was so excited about this. I think I never kind of like think enough perhaps about it, but he was the last one who's so like reminded about like how important it is actually to focus on this genetic disorders of which we know more. Of course, this is just one form of disease. There are so many more afterwards, but our hope is that just by
+
+02:06:40.770 --> 02:07:08.958
+understanding and learning from this, we're going to be able to apply to other disorders. So another one that we're studying now, they're forms of epilepsy, which are very difficult to study. They're intractable forms of epilepsies. Patients who have some of these genetic mutations, whether they're in an ion channel or in molecules that are important for cells to stick with each other, they can cause 60 seizures a day. So they're really devastating conditions that are actually causing impairment just by having those seizures every single day for 10, 15 years.
+
+02:07:09.570 --> 02:07:39.038
+So those are a really big issue right now. So we've been focusing a lot on trying to build our models for this epileptic seizures, either through in vitro studies or after we transplant. And then we study more complex networks in patients. And then, of course, intellectual disability. So severe intellectual disability, schizophrenia, forms of schizophrenia. So we've been studying now for almost 12, 13 years, 22Q11 deletion syndrome. We think it's like an entry point. It's the...
+
+02:07:39.394 --> 02:08:05.054
+highest genetic risk factor that we know of for schizophrenia. So we think it may give us some windows into how molecular defects arise. So I think you can think of most psychiatric and neurological conditions that you can study now, as long as they have a strong biological genetic component. So I think those that have a social component, those that are triggered by social stress, let's say, right, like
+
+02:08:05.282 --> 02:08:34.814
+in terms of anxiety, depression, those are much more challenging to study because of course we can mimic that social environment. Can I make a request? Please. That someone in your lab tried to tackle dystonia. Yes. I had the experience last year of somebody contacting me. I get contacted a lot for requests to help with horribly sad situations, right? As one does if you're in the neuroscience field.
+
+02:08:34.914 --> 02:09:03.102
+Typically it's people with visual deficits who've gone blind or losing their vision. This time it was a mother of a young kid who had a form of dystonia where he was essentially just going from a, by all accounts, normal appearing and acting kid to having basically no ability to move or do anything. Couldn't go to camp, couldn't go to school. And just, it was just a very, very tragic situation. He had a neurosurgery. I will know soon how he's doing, but
+
+02:09:03.682 --> 02:09:21.598
+that these dystonias are not super uncommon. I mean, fortunately, they're uncommon enough, but you just have to witness one of these stories. And it turns out there is a genetic basis for these. So I'm putting in a vote for dystonia. For the parent and for the child, it's devastating.
+
+02:09:22.018 --> 02:09:51.230
+And we don't hear from these people very often. And there are sociological reasons for that. Certain diseases are underrepresented in the public sphere. Autism we hear a lot about, not just because of the prevalence, but because we have a certain affinity to kids that explains that, a discussion for another time. But these dystonias are very hard to witness in a way that has made them kind of...
+
+02:09:51.362 --> 02:09:52.574
+Yeah.
+
+02:09:52.802 --> 02:10:22.768
+to the public and that, but they're very, very detrimental and it would be amazing. I know you already have a lot on your plate, but I'm putting in a strong vote for dystonia. But we are, we are actually working on dystonias because there are devastating conditions and there are now genetic mutations that cause really severe forms of dyskinesia and dystonia. So really uncontrollable movements in these kids that are really devastating for social functioning and in general for development. And so we do know a little bit about the biology behind it. We do know that
+
+02:10:22.768 --> 02:10:52.126
+that the basal ganglia, this deep structure into the brain, is very important for movement. We very often stimulate that brain region for Parkinson's disease or parts of those circuitry. So we know it's very important. So we've been trying to rebuild it in a dish. So we now can build some of the circuits. We call them loop assembloids. We essentially can put a cortex, and we've made the striatum, and then you put parts of the mesencephalon in the midbrain and the thalamus. And the cells connect in a loop, and now they have activity. So you can now...
+
+02:10:52.226 --> 02:11:17.598
+induce mutations at various levels of the circuit and see where is that mutation most important. So let's say if you were to develop a gene therapy, where would you deliver that gene, right? If you were to choose, if you can deliver it in the entire brain. So these are really, so like early days, but I think it can be applied. And I think in general, you were mentioning this before about autism, right? And this, even the ability of so like communicating,
+
+02:11:18.114 --> 02:11:47.806
+disorders or how much awareness there is. I think when I refer to autism, I generally refer to the severe forms and profound autism. And as we discussed earlier, there's certainly a continuum and there are many individuals that are high functioning, right? They have high skills. They may lack certain social skills, but they have other skills. They're different. They're productive in society.
+
+02:11:48.226 --> 02:12:15.262
+I am not talking about discovering or developing a therapeutic for any of these individuals. We are talking about the profound forms of autism, the ones that actually the parents are still struggling to even communicate about, right? The kids who may never go to school, may never be able to actually live on their own. The same is the case for many of these patients with severe dystonias. So I think it's very important because I think in the case of autism,
+
+02:12:15.362 --> 02:12:45.054
+partly because it's being talked about and again, because it is a spectrum, it's also part of the identity, right? Of a part of the population. And that's absolutely fine. I think perhaps like at one point having different terms. Yeah, that would be useful. It may be useful because we were talking before about terminology, which is so important. So perhaps that would be sort of like useful at one point to define the border between profound forms of autism and forms of autism that are not really a disease.
+
+02:12:45.282 --> 02:13:14.590
+as well-meaning as the psychiatric community is, it's bound by this DSM, whatever number it happens to be on for understandable reasons, but I think better nomenclature would really help. It has societal implications. It has to do with how we treat people generally. Actually, just as a quick reflection years ago, I sat down with Bob Desimone, who, world-class neuroscientist, as you know, but he was the head of the National Institutes of Mental Health at that time. And he said,
+
+02:13:15.106 --> 02:13:43.518
+directly it was over lunch he said do you know why there's so much more money spent trying to understand autism as opposed to schizophrenia at least that was the case at the time and I think it is still now I said no and he said because the strong genetic link in schizophrenia means that oftentimes the parents are struggling as well they're not bringing their children in and with severe nowadays it's not politically correct to call them schizophrenics for people with severe schizophrenia
+
+02:13:43.746 --> 02:14:10.462
+it's scary to be around. It's really scary. Whereas with autism, even in the profound cases, these are children and as a human species, we naturally have this, we wanna care for our young. And it just pulls on us. And he said, so there's been this incredible lobby of the government and therefore pressure on NIH to direct funds towards studying autism far, far less.
+
+02:14:10.722 --> 02:14:33.598
+schizophrenia. That's interesting, you know, in light of the homeless problem in California and elsewhere and the huge amount of mental disease and drug addiction. I think nowadays there's a kind of a broader understanding of brain diseases as diseases that people suffer from as opposed to cold mothering or something like ridiculous theories like that. I definitely want to talk a little bit about you,
+
+02:14:34.050 --> 02:14:59.070
+I'm not getting too personal here, but I've known you for some years. And from the first time I met you, it was clear you were going to work on something important. You were going to figure it out. And your work ethic is like something to behold without inflating numbers. How much time are you spending these days either at the computer working on things related to your science or in the lab?
+
+02:14:59.202 --> 02:15:13.630
+thinking about your science? I mean, of your waking hours, what percentage? Well, I've never seen this at work. So probably all the time. I think about this all the time. I mean, luckily now, of course, I have a lab of incredible scientists and many of them now have their own labs.
+
+02:15:14.242 --> 02:15:40.574
+And we've been teaching so many people around the world now, like more than 350 labs around the world to just implement this technology very systematically through courses that we do at Stanford. So I feel we've amplified so much. So there's always something happening, but I've never seen it honestly at work. I mean, I think it's so fun to think about the human brain. It's certainly fascinating to think about the biology of these conditions. And of course, for me, training as a physician,
+
+02:15:40.674 --> 02:15:57.918
+I think seeing firsthand some of the devastating effects of psychiatric disorders was a very strong motivation to actually go into neuroscience. I'll never forget when your first paper was published as a postdoc. Yes. You brought in...
+
+02:15:58.402 --> 02:16:22.334
+cake for everyone else. I don't know if you remember that. You brought in cake for everyone else. And I was like, this is the first time I've ever observed this. This is awesome. At the time I was eating cake, I don't eat cake anymore. With each successive decade, I get stricter and stricter with my eating. I still enjoy food very much. And so it really speaks to your spirit and your generosity. I feel so blessed that someday I'll be able to say,
+
+02:16:22.498 --> 02:16:50.846
+I can tell you stories from way back when, D222, when we took over that room without permission. I think we just did it. I think we just took it. Which is the way to do it. It's unincorporated. Ben was the one who always said, you know, ask for forgiveness, not permission. Within the proper context of doing science. He was famous for bringing his experiments to talks as a postdoc so he wouldn't lose time on his experiments. And then I think at one point there's a story where someone called it out.
+
+02:16:50.977 --> 02:17:12.734
+him out and said, Hey, you know, like, why are you bringing your experiments to seminars? Everyone else is drinking coffee and doing stuff. And he said, cause I don't know if your seminar is going to be any good and I don't want to waste the time on my experiments. You know, he had such a, an incredible spirit about just ceaseless pursuit of knowledge, uh, which clearly you do as well. Um, Sergio, I am so grateful for you
+
+02:17:12.962 --> 02:17:27.070
+taking time out of your immensely busy schedule to come here and educate us all on this incredible technology that you've developed and that other laboratories are now using. I realize it's a field, but clearly a field that you've been seminal in launching.
+
+02:17:27.298 --> 02:17:55.647
+I think for a lot of people, if they were to just hear about organoids in the news or hear, okay, we took these neurons and we were able to grow them in a dish and they formed some things that resemble circuits and we're putting them into mice, they'd say, this sounds a lot like a parlor trick or something that scientists do to keep themselves busy with our tax dollars. But I just want to thank you because you've beautifully illustrated the linear fashion in which you've gone from human disease to building up technologies, one cell type.
+
+02:17:55.874 --> 02:18:21.150
+a dish two cell types circuits in a dish three synapses modeling using drugs and other approaches genetic therapies to figure out what actually needs to be fixed going back into patients which is super exciting i'm absolutely convinced this is the way science is going to be done on the brain to cure neurologic and psychiatric diseases i'm absolutely convinced because animal models while they have their place
+
+02:18:21.346 --> 02:18:50.398
+they just can't recapitulate everything we're interested in. And we know that, as you mentioned, from other fields. So whatever we have to do to keep you going, you look younger than the last time I saw you, which was a while ago. So you told me before we started, you walk a lot. How many steps a day are you doing? I do more than 12, 15,000 for sure. So you're walking to and from work? Yeah, and I walk all the time. I like to walk, especially when I travel. I visit a lot, Europe and parts of the world, and I love to just walk and...
+
+02:18:50.530 --> 02:19:05.214
+Art is the only other thing that I do. Oh, yeah? Other than science. I love art. You paint? I used to paint. Right now it's mostly thinking about art. And like, you know, I've seen most museums in Europe at this point, like several times. Whose art is exciting you? Now, I'm fascinated by, I love art.
+
+02:19:05.602 --> 02:19:21.407
+But whose art are you intrigued by lately? Well, I mean, my favorites have always been impressionists. But then I go through phases. And so I love all art as an expression. And I think that's sort of like, you know, I walk a lot in museums. I think you could probably...
+
+02:19:21.858 --> 02:19:50.398
+It's like where I've done most of the walking and it's probably done in museums or in California walking at night. And so like discussing science with students or others. And none of this biohacking nonsense. You eat one meal a day. That's how you stay so fit. I generally eat one meal a day. Yeah. How long have you been doing that? Years, I think. Years. I mean, I think in medical school initially as a necessity because I grew up in Romania and I went to medical school there and there wasn't really dedicated time for research.
+
+02:19:50.626 --> 02:20:19.550
+So I had no option but to do my experiments either very early in the morning or very late at night. So there would be very little time to actually like eat, to be honest, at that time. So I felt I was like running all the time doing experiments or clinical work. Well, like I said, your vigor seems to be just increasing with time as it's really wonderful. Clearly, you found the career path for you and it's going to benefit us all. It already has. So please come back and tell us about your progress.
+
+02:20:19.682 --> 02:20:44.382
+Absolutely. In six months, a year, whenever the time is right, we'll have you back. And once again, thanks for doing everything you do. You're in this time of hearing so much negative news and thinking like science is so hobbled and all this stuff. Science needs support, obviously. But what's that saying you see on the internet? Not all superheroes wear capes. You're doing God's work. So thank you. Thank you so much. Thank you.
+
+02:20:44.770 --> 02:20:51.646
+Thank you for joining me for today's discussion with Dr. Sergio Pasca. To learn more about his work, please see the links in the show note captions.
+
+02:20:51.778 --> 02:21:21.744
+If you're learning from and or enjoying this podcast, please subscribe to our YouTube channel. That's a terrific zero cost way to support us. In addition, please follow the podcast by clicking the follow button on both Spotify and Apple. And on both Spotify and Apple, you can leave us up to a five-star review. And you can now leave us comments at both Spotify and Apple. Please also check out the sponsors mentioned at the beginning and throughout today's episode. That's the best way to support this podcast. If you have questions for me or comments about the podcast or guests or topics that you'd like me to consider for the Huberman
+
+02:21:21.744 --> 02:21:45.982
+lab podcast, please put those in the comments section on YouTube. I do read all the comments. For those of you that haven't heard, I have a new book coming out. It's my very first book. It's entitled Protocols, an Operating Manual for the Human Body. This is a book that I've been working on for more than five years, and that's based on more than 30 years of research and experience. And it covers protocols for everything from sleep to exercise to stress control,
+
+02:21:46.146 --> 02:22:06.110
+protocols related to focus and motivation. And of course, I provide the scientific substantiation for the protocols that are included. The book is now available by presale at protocolsbook.com. There you can find links to various vendors. You can pick the one that you like best. Again, the book is called Protocols, an Operating Manual for the Human Body.
+
+02:22:06.466 --> 02:22:36.432
+if you're not already following me on social media, I am Huberman Lab on all social media platforms. So that's Instagram, X, Threads, Facebook, and LinkedIn. And on all those platforms, I discuss science and science-related tools, some of which overlaps with the content of the Huberman Lab podcast, but much of which is distinct from the information on the Huberman Lab podcast. Again, it's Huberman Lab on all social media platforms. And if you haven't already subscribed to our Neural Network newsletter, the Neural Network newsletter is a zero-cost monthly newsletter that includes podcast summaries as well
+
+02:22:36.432 --> 02:23:02.142
+as what we call protocols in the form of one to three page PDFs that cover everything from how to optimize your sleep, how to optimize dopamine, deliberate cold exposure. We have a foundational fitness protocol that covers cardiovascular training and resistance training. All of that is available completely zero cost. You simply go to HubermanLab.com, go to the menu tab in the top right corner, scroll down to newsletter and enter your email. And I should emphasize that we do not share your email with anybody.
+
+02:23:02.402 --> 02:23:19.198
+you once again for joining me for today's discussion with Dr. Sergio Pasca. And last, but certainly not least, thank you for your interest in science.
+
+02:23:19.650 --> 02:23:34.110
+Consulta condiciones en Hyundai.es.

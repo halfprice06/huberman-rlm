@@ -1,0 +1,322 @@
+WEBVTT
+
+00:00.226 --> 00:29.822
+Welcome to Huberman Lab Essentials, where we revisit past episodes for the most potent and actionable science-based tools for mental health, physical health, and performance. I'm Andrew Huberman, and I'm a professor of neurobiology and ophthalmology at Stanford School of Medicine. And now for my conversation with Dr. Jack Feldman. Thanks for joining me today. Pleasure to be here, Andrew. You're my go-to source for all things respiration and how the brain and breathing interact.
+
+00:30.242 --> 00:58.878
+You're the person I call. Why don't we start off by just talking about what's involved in generating breath? So on the mechanical side, which is obvious to everyone, we want to have air flow in, inhale, and we need to have air flow out. And the reason we need to do this is because for body metabolism, we need oxygen. And when oxygen is utilized through the aerobic metabolic process,
+
+00:59.170 --> 01:27.710
+we produce carbon dioxide. And so we have to get rid of the carbon dioxide that we produce, in particular because the carbon dioxide affects the acid base balance of the blood, the pH. And all living cells are very sensitive to what the pH value is. So your body is very interested in regulating that pH. So how do we generate this airflow? We have to expand the lungs. And as the lungs expand, basically it's like a balloon that you would pull apart
+
+01:27.970 --> 01:52.734
+the pressure inside that balloon drops and air will flow into the balloon. That lowers the pressure in the air sacs called alveoli and air will flow in because pressure outside the body is higher than pressure inside the body when you're doing this expansion, when you're inhaling. What produces that? Well, the principal muscle is the diaphragm, which is sitting inside the body just below the lung.
+
+01:53.090 --> 02:22.110
+And when you want to inhale, you basically contract the diaphragm and it pulls it down. And as it pulls it down, it's inserting pressure forces on the lung. The lung wants to expand. At the same time, the rib cage is going to rotate up and out and therefore expanding the cavity, the thoracic cavity. At the end of inspiration, under normal conditions when you're at rest, you just relax. And it's like pulling on a spring.
+
+02:22.210 --> 02:51.070
+You pull down a spring and you let go and it relaxes. Where does that activity originate? The region in the brainstem, that's once again this region sort of above the spinal cord, which was critical for generating this rhythm. It's called the pre-Butzinger complex. This small site, which contains in humans a few thousand neurons, it's located on either side and works in tandem. And every breath...
+
+02:51.202 --> 03:20.830
+begins with neurons in this region beginning to be active. And those neurons then connect ultimately to these motor neurons going to the diaphragm and to the external intercostals, causing them to be active and causing this inspiratory effort. When the neurons in the pre-butzior complex finish their burst of activity, then inspiration stops. And then you begin to exhale because of this
+
+03:20.930 --> 03:49.598
+passive recall of the lung and rib cage. Is there anything known about the activation of the diaphragm and the intercostal muscles between the ribs as it relates to nose versus mouth breathing? I don't think we fully have the answer to that. Clearly, there are differences between nasal and mouth breathing. At rest, the tendency is to do nasal breathing because the
+
+03:49.762 --> 04:19.006
+Air flows that are necessary for normal breathing is easily managed by passing through the nasal cavities. However, when your ventilation needs to increase, like during exercise, you need to move more air. You do that through your mouth because the airways are much larger then, and therefore you can move much more air. But at the level of the intercostals and the diaphragm, their contraction is almost...
+
+04:19.106 --> 04:48.734
+agnostic to whether or not the nose and mouth are open. I'm excited to share that Matina, the yerba mate drink I helped create, is now available at Whole Foods stores nationwide. Longtime listeners of this podcast know that yerba mate is my preferred caffeine source. It provides smooth energy without giving you the jitters, and it has a lot of other potential benefits, including helping to regulate your blood sugar, improving digestion, mild appetite suppression, and much more. Matina is my absolute favorite of all the yerba mate brands out there.
+
+04:48.834 --> 05:18.654
+and I've tried them all. Given my love for Matina, I decided to become a part owner in the business and I helped them create their new line of products which are all entirely zero sugar. These zero sugar cold brew Matina flavors are fantastic. I drink at least three cans of them every single day. You'll often see them on the table during my podcast recordings. I absolutely love the product and I'm proud to now have it sold at Whole Foods. So check out Matina at Whole Foods stores nationwide. It's cold brewed with the absolute best ingredients. It has zero sugar and it tastes amazing.
+
+05:18.818 --> 05:47.646
+And if you don't have a Whole Foods near you, you can also buy it online at drinkmatina.com. Maybe you could march us through the brain centers that you've discovered and others have worked on as well that control breathing, pre-butzinger as well as related structures. So when we discovered the pre-butzinger, we thought that it was the primary source of all rhythmic respiratory movements, both inspiration and expiration.
+
+05:48.066 --> 06:16.510
+And then in a series of experiments, we discovered that there was a second oscillator. And that oscillator is involved in generating what we call active expiration. That is this active. Like if I go, shh. Yeah. Or when you begin to exercise, you have to go, and actually move that air out. This group of cells, which is silent address, suddenly becomes active.
+
+06:16.674 --> 06:45.726
+to drive those muscles. And it appears that it's an independent oscillator in a region around the facial nucleus. When this region was initially identified, we thought it was involved in sensing carbon dioxide. It was what we call a central chemoreceptor. That is, we want to keep carbon dioxide levels, particularly in the brain, at a relatively stable level because the brain is extraordinarily sensitive to changes in pH. If there's a
+
+06:45.858 --> 07:10.910
+big shift in carbon dioxide to be a big shift in brain pH. And that'll throw your brain, if I can use the technical term, out of whack. And so you want to regulate that. And the way to regulate something in the brain is you have a sensor in the brain. And others basically identified that the ventral surface of the brainstem, that is the part of the brainstem that's on this side,
+
+07:11.618 --> 07:37.918
+was critical for that. And then we identified a structure near the trapezoid nucleus. It was not named in any of these neuroanatomical atlases. So we just picked the name out of the hat, and we called it the retrotrapezoid nucleus. If you go back in an evolutionary sense, and a lot of things that are hard to figure out begin to make sense when you look at the evolution of the nervous system, when a
+
+07:38.402 --> 08:06.878
+control of facial muscles going back to more primitive creatures because they had to take things in their mouth for eating. So we call that the face sort of developed. The eyes were there, the mouth was there. These nuclei that contained the motor neurons, a lot of the control systems for them developed in the immediate vicinity. So if you think about the face, there's a lot of sub-nuclei around the
+
+08:07.138 --> 08:34.975
+there that had various roles at various different times in evolution. And at one point in evolution, the facial muscles were probably very important in moving fluid in and out of the mouth and moving air in and out of the mouth. And so part of that, of these many different subnuclei, now seems to be in mammals to be involved in the control of expiratory muscles. But we have to remember
+
+08:35.138 --> 09:04.606
+that mammals are very special when it comes to breathing because we're the only class of vertebrates that have a diaphragm. If you look at amphibians and reptiles, they don't have a diaphragm. And the way they breathe is not by actively inspiring and passively expiring. They breathe by actively expiring and passively inspiring because they don't have a powerful inspiratory muscle.
+
+09:05.026 --> 09:33.118
+Somewhere along the line, the diaphragm developed. The amazing thing about the diaphragm is that it's mechanically extremely efficient. If you look at how oxygen gets from outside the body into the bloodstream, the critical passage is across the membrane in the lung. It's called the alveolar capillary membrane. The alveolus is part of the lung and the blood
+
+09:33.218 --> 09:58.430
+runs through capillaries, which are the smallest tubes in the circulatory system. And at that point, oxygen can go from the air-filled alveolus into the blood. The key element is the surface area. The bigger the surface area, the more oxygen that can pass through. It's entirely a passive process. There's no magic about making oxygen go in.
+
+09:58.754 --> 10:28.638
+How do you get a pack, a large surface area in a small chest? Well, you start out with one tube, which is the trachea. The trachea expands. Now you have two tubes. Then you have four tubes, and it keeps branching. At some point, at the end of those branches, you put a little sphere, which is an alveolus. And that determines what the surface area is going to be. Now, you then have a mechanical problem.
+
+10:28.930 --> 10:56.286
+You have this surface area. You have to be able to pull it apart. So imagine you have a little square of elastic membrane. It doesn't take a lot of force to pull it apart. But now if you increase it by 50 times, you need a lot more force to pull it apart. So amphibians who were breathing not by compressing the lungs and then just passively expanding it, weren't able to generate a lot of force.
+
+10:56.610 --> 11:25.886
+So they have relatively few branches. So if you look at the surface area that they pack in their lungs, relative to their body size, it's not very impressive. Whereas when you get to mammals, the amount of branching that you have is you have four to 500 million alveoli. So you have a membrane inside of you, a third the size of a tennis court, that you actually have to expand every breath. And you do that without
+
+11:26.050 --> 11:53.950
+exerting much of a, you don't feel it. And that's because you have this amazing muscle, the diaphragm, which because of its positioning, just by moving two thirds of an inch down is able to expand that membrane enough to move air into the lungs. At rest, the volume of air in your lungs is about two and a half liters. When you take a breath, you're taking another 500 milliliters or half a liter.
+
+11:54.146 --> 12:23.582
+That's the size maybe of my fist. So you're increasing the volume by 20%. But you're doing that by pulling on this 70 square meter membrane. But that's enough to bring enough fresh air into the lung to mix in with the air that's already there that the oxygen levels in your bloodstream goes from a partial pressure of oxygen, which is 40 millimeters of mercury,
+
+12:24.002 --> 12:52.734
+to 100 millimeters of mercury. So we have this amazing mechanical advantage by having a diaphragm. Do you think that our brains are larger than that of other mammals in part because of the amount of oxygen that we have been able to bring into our system? I would say a key step in the ability to develop a large brain that has a continuous demand for oxygen is the diaphragm.
+
+12:53.026 --> 13:20.734
+Without a diaphragm, you're an amphibian. You know, over the years, whether it be for yoga class or a breathwork thing, or you hear online that we should be breathing with our diaphragm, that rather than lifting our rib cage when we breathe and our chest, that it is healthier in air quotes, or better somehow to have the belly expand when we inhale. I'm not aware of any particular studies that have really examined the direct
+
+13:21.218 --> 13:49.406
+health benefits of diaphragmatic versus non-diaphragmatic breathing. But if you don't mind commenting on anything you're aware of as it relates to diaphragmatic versus non-diaphragmatic breathing, that would be, I think, interesting to a number of people. In the context of things like breath practice, I'm a bit agnostic about the effects of some of the different patterns of breathing. Clearly, some are going to
+
+13:49.506 --> 14:16.670
+work through different mechanisms and we can talk about that. But at certain level, for example, whether it's primarily diaphragm or you move your abdomen or not, I am agnostic about it. I think that the changes that breathing induces in emotion and cognition, I have different ideas about what the influence is. And I don't see that primarily as
+
+14:16.834 --> 14:46.494
+how, which particular muscles you're choosing. But that just could be my own prejudice. Could you tell us about physiological sighs, what's known about them, what your particular interest in them is, and what they're good for? It turns out we sigh about every five minutes. And I would encourage anyone who finds that to be a unbelievable fact is to lie down in a quiet room
+
+14:46.914 --> 15:16.414
+and just breathe normally. Just relax. Just let go. And just pay attention to your breathing. And you'll find that every couple of minutes, you're taking a deep breath. And you can't stop it. It just happens. Now, why? Well, we have to go back to the lung again. The lung has these 500 million alveoli. And they're very tiny. They're 200 microns across. So they're really, really tiny.
+
+15:16.514 --> 15:45.790
+You can think of them as fluid-filled, they're fluid-lined. And the reason they're fluid-lined has to do with the esoterica of the mechanics of that. It makes it a little easier to stretch them with this fluid line, which is called surfactant. Your alveoli have a tendency to collapse. There's 500 million of them. They're not collapsing at a very high rate, but it's a slow rate that's not trivial. And when an alveolus collapses,
+
+15:46.146 --> 16:13.566
+it no longer can receive oxygen or take carbon dioxide out. It's sort of taken out of the equation. Now, if you have 500 million of them and you lose 10, no big deal. But if they keep collapsing, you can lose a significant part of the surface area of your lung. Now, a normal breath is not enough to pop them open. But if you take a deep breath through nose or mouth, okay. It doesn't matter.
+
+16:14.114 --> 16:42.974
+Or just increase that lung volume, because you're just pulling on the lungs. They'll pop open about every five minutes. And so we're doing it every five minutes in order to maintain the health of our lung. In the early days of mechanical ventilation, which was used to treat polio victims who had weakness of their respiratory muscles, they'd be put in these big steel tubes
+
+16:43.362 --> 17:11.199
+And the way they would work is that the pressure outside the body would drop. That would put an expansion pressure on the ribcage. The ribcage would expand, and then the lung would expand. And then the pressure would go back to normal, and the lung and ribcage would go back to normal. But there was a relatively high mortality rate. It was a bit of a mystery. And one solution was to just give bigger breaths.
+
+17:11.874 --> 17:41.342
+They get bigger breaths and the mortality rate dropped. And it wasn't until, I think it was the 50s, where they realized that they didn't have to increase every breath to be big. What they needed to do is every so often they need to have one big breath. So you have a couple of minutes of normal breaths and then one big breath, just mimicking the physiological size. And then the mortality rate dropped significantly. And if you see someone on a ventilator in the hospital,
+
+17:42.082 --> 18:10.462
+If you watch, every couple of minutes that you see the membrane move up and down, every couple of minutes, there'll be a super breath. And that pops it open. So there are these mechanisms for these physiological sighs. So just like with the collapse of the lungs, where you need a big pressure to pop it open, it's the same thing with the alveoli. You need a bigger pressure. And a normal breath is not enough. So you have to take a big inhale.
+
+18:12.290 --> 18:42.014
+And what nature has done is instead of requiring us to remember to do it, it does it automatically. And it does it about every five minutes. We've known for a long time that there are things that we can do to improve our sleep. And that includes things that we can take. Things like magnesium threonate, theanine, chamomile extract, and glycine. Along with lesser known things like saffron and valerian root. These are all clinically supported ingredients that can help you fall asleep, stay asleep, and wake up feeling more refreshed.
+
+18:42.178 --> 18:52.222
+I'm excited to share that our longtime sponsor, AG1, just created a new product called AGZ, a nightly drink designed to help you get better sleep and have you wake up feeling super refreshed.
+
+18:52.386 --> 19:17.182
+Over the past few years, I've worked with the team at AG1 to help create this new AGZ formula. It has the best sleep supporting compounds in exactly the right ratios in one easy to drink mix. This removes all the complexity of trying to forge the vast landscape of supplements focused on sleep and figuring out the right dosages and which ones to take for you. AGZ is to my knowledge, the most comprehensive sleep supplement on the market. I take it 30 to 60 minutes before sleep.
+
+19:17.282 --> 19:31.518
+It's delicious by the way. And it dramatically increases both the quality and the depth of my sleep. I know that both from my subjective experience of my sleep and because I track my sleep. I'm excited for everyone to try this new AGZ formulation and to enjoy the benefits of better sleep.
+
+19:31.714 --> 19:59.966
+AGZ is available in chocolate, chocolate mint, and mixed berry flavors. And as I mentioned before, they're all extremely delicious. My favorite of the three has to be, I think, chocolate mint, but I really like them all. If you'd like to try AGZ, go to drinkagz.com slash Huberman to get a special offer. Again, that's drinkagz.com slash Huberman. We hear often that people will overdose on drugs of various kinds because they stop breathing. So barbiturates,
+
+20:00.066 --> 20:28.606
+alcohol combined with barbiturates is a common cause of death for drug users and contraindications of drugs and these kinds of things. You hear all the time about celebrities dying because they combined alcohol with barbiturates. Is there any evidence that the sighs that occur during sleep or during states of deep, deep relaxation and sedation that sighs recover the brain
+
+20:28.898 --> 20:56.830
+Because you could imagine that if these sighs don't happen as a consequence of some drug impacting these brain centers, that that could be one cause of basically asphyxiation and death. If you look at the progression of a mammal to a death due to, quote, natural causes, their breathing slows down, it will stop, and then they'll gasp. So we have the phrase dying gasp.
+
+20:57.826 --> 21:26.526
+Super large breaths. They're often described as an attempt to auto-resuscitate. That is, you take that super deep breath and that maybe it can kickstart the engine again. We do not know the degree to such things as gasps are really size that are particularly large. And so if you suppress the ability to gasp in an individual who is subject to an overdose, then you
+
+21:27.202 --> 21:55.550
+Whereas they might have been able to re-arouse their breathing, if that's prevented, they don't get re-aroused. So that is certainly a possibility. I'd love to get your thoughts on how breathing interacts with other things in the brain. As we know, when we get stressed, our breathing changes. When we're happy and relaxed, our breathing changes. But also, if we change our breathing, we, in some sense,
+
+21:55.682 --> 22:23.550
+can adjust our internal state. What is the relationship between brain state and breathing? This is a topic which has really intrigued me over the past decade. I would say before that, I was in my silo just interested about how the rhythm of breathing is generated and didn't really pay much attention to this other stuff. For some reason, I got interested in it. I felt maybe I can study this in rodents. So we got this idea.
+
+22:24.450 --> 22:53.470
+that we're going to teach rodents to meditate. And, you know, that's laughable. But we said, but if we can, then we can actually study how this happens. So I was able to get a sort of a starter grant, an R21 from NCCIH. That's the National Complementary Medicine Institute. A wonderful institute I should mention. Our government puts major tax dollars toward...
+
+22:53.922 --> 23:18.846
+studies of things like meditation, breath work, supplements, herbs, acupuncture. This is, I think, not well known. And it's an incredible thing that our government does that. And I think it deserves a nod. I totally agree with you. I think that it's the kind of thing that many of us, including many scientists thinks is too woo-woo and unsubstantiated.
+
+23:18.946 --> 23:48.414
+We're learning more and more. You know, we used to laugh at neuroimmunology. There were all these things that we're learning that we used to dismiss. And I think there's real nuggets to be learned here. So recently, we had a major breakthrough. We found a protocol by which we can get a weight mice to breathe slowly. In other words, whatever their normal breath is, we could slow it down by a factor of 10. And they're fine doing that. We did that 30 minutes a day for four weeks.
+
+23:49.090 --> 24:17.278
+OK, like a breath practice. And we had control animals where we did everything the same except the manipulation we made did not slow down their breathing. We then put them to a standard fear conditioning, which we did with my colleague Michael Fanzelow, who's one of the real gurus of fear. We measured a standard test that put mice in a condition where they're concerned that we see a shock and their response is that they freeze.
+
+24:17.794 --> 24:44.958
+And the measure of how fearful they are is how long they freeze. The control mice had a freezing time, which was just the same as ordinary mice would have. The ones that went through our protocol froze much, much less. The degree to which they showed less freezing was as much as if there was a major manipulation in the amygdala, which is a part of the brain that's important in fear processing.
+
+24:45.090 --> 25:12.958
+I'll just pause you for a moment there because I think that the, you know, you're talking about a rodent study, but I think the benefits of doing rodent studies that you can get deep into mechanism. And for people that might think, well, we've known that meditation has these benefits. Why do you need to get mechanistic science? I think that one thing that's important for people to remember is that, first of all, as many people as one might think are meditating out there or doing breath work,
+
+25:13.186 --> 25:42.270
+a far, far, far greater number of people are not, right? I mean, the majority of people don't take any time to do dedicated breath work nor meditate. So whatever can incentivize people would be wonderful. But the other thing is that it's never really been clear to me just how much meditation is required for a real effect, meaning a practical effect. People say 30 minutes a day, 20 minutes a day, once a week, twice a week, same thing with breath work.
+
+25:42.402 --> 26:07.902
+finding minimum or effective thresholds for changing neural circuitry is what I think is the holy grail of all these practices. And that's only going to be determined by the sorts of mechanistic studies that you describe. One of the issues I think for a lot of people is that there's a placebo effect. That is in humans, they can respond to something even though the mechanism has nothing to do with what the
+
+26:08.066 --> 26:37.150
+the intervention is. And so it's easy to say that the meditative response has a big component, which is the placebo effect. My mice don't believe in the placebo effect. And so if we could show there's a bona fide effect in mice, it is convincing in ways that no matter how many human experiments you did, the control for the placebo effect is extremely difficult in humans. In mice, it's a non-issue. So I think that
+
+26:37.282 --> 27:04.766
+That in of itself would be an enormous message to send. Excellent, and indeed a better point. A 30-minute-a-day meditation in these mice, if I understand correctly, the meditation, we don't know what they're thinking about. It's breath practice. Right, so it's breath practice. Because presumably they're not thinking about their third eye center, lotus position, levitation, whatever it is. They're not instructed as to what to do, and if they were, they probably wouldn't do it anyway.
+
+27:05.026 --> 27:30.974
+30 minutes a day in which breathing is deliberately slowed or is slowed relative to their normal patterns of breathing. Got it. So the fear centers are altered in some way that creates a shorter fear response to a foot shock. What are some other examples that you are aware of from work in your laboratory or work in other laboratories for that matter about interactions between breathing and brain state or emotional state?
+
+27:31.202 --> 28:00.478
+I want people to understand that when we're talking about breathing affecting emotional cognitive state, it's not simply coming from pre-Butzinger. There are several other sites. And let me sort of discuss. I need to sort of go through that. One is olfaction. So when you're breathing, normal breathing, you're inhaling and exhaling. This is creating signals coming from the nasal mucosa that is going back into the olfactory bulb
+
+28:00.578 --> 28:29.918
+that's respiratory modulated. And the olfactory bulb has a profound influence and projections through many parts of the brain. So there's a signal arising from this rhythmic moving of air in and out of the nose that's going into the brain that has contained in it a respiratory modulation. Another potential source is the vagus nerve. The vagus nerve is a major nerve which is containing afferents from
+
+28:30.178 --> 28:58.238
+All of the viscera. Afferents just being signals too. Signals from the viscera. It also has signals coming from the brainstem down, which are called efferents. But it's getting major signals from the lung, from the gut. And this is going up into the brainstem. So it's there. There are very powerful receptors in the lung. They're responding to the expansion and relaxation of the lung.
+
+28:58.370 --> 29:25.982
+And so if you record from the vagus nerve, you'll see that there's a huge respiratory modulation due to the mechanical changes in the lung. Now, why that is of interest is that for some forms of refractory depression, electrol stimulation of the vagus nerve can provide tremendous relief. Why this is the case still remains to be determined, but it's clear that signals
+
+29:26.594 --> 29:56.542
+in the vagus nerve, at least artificial signals in the vagus nerve, can have a positive effect on reducing depression. So it's not elite to think that under normal circumstances that that rhythm coming in from the vagus nerve is playing a role in normal processing. Okay, let me continue. Combine the oxide and oxygen levels. Now, under normal circumstances, your oxygen levels are fine. And unless you go to altitude,
+
+29:56.898 --> 30:24.030
+they don't really change very much. But your CO2 levels can change quite a bit with even a relatively small change in your overall breathing. That's going to change your pH level. I have a colleague, Alicia Marat, who is working with patients who are anxious. And many of them hyperventilate. And as a result of that hyperventilation, their carbon dioxide levels are low.
+
+30:24.322 --> 30:52.958
+She has developed a therapeutic treatment where she trains these people to breathe slower, to restore their CO2 levels back to normal, and she gets relief in their anxiety. So CO2 levels, which are not going to affect brain function on a breath-by-breath level, although it does fluctuate breath-by-breath, but sort of as a continuous background, can change. And if it's changed chronically, we know
+
+30:53.474 --> 31:20.478
+Highly elevated levels of CO2 can produce panic attacks. Your body is so sensitive, the control of breathing, like how much you breathe per minute, is determined in a very sensitive way by the CO2 level. So even a small change in your CO2 will have a significant effect on your ventilation. So this is another thing that not only changes your ventilation, but affects your brain state.
+
+31:21.506 --> 31:42.334
+I'd like to take a quick break and acknowledge our sponsor, Eight Sleep. Eight Sleep makes smart mattress covers with cooling, heating, and sleep tracking capacity. One of the best ways to ensure you get a great night's sleep is to make sure that the temperature of your sleeping environment is correct. And that's because in order to fall asleep and stay deeply asleep, your body temperature actually has to drop by about one to three degrees.
+
+31:42.466 --> 32:01.566
+And in order to wake up feeling refreshed and energized, your body temperature actually has to increase by about one to three degrees. Eight Sleep automatically regulates the temperature of your bed throughout the night according to your unique needs. I've been sleeping on an Eight Sleep mattress cover for nearly five years now, and it has completely transformed and improved the quality of my sleep.
+
+32:01.762 --> 32:22.590
+The latest eight sleep model is the Pod 5. This is what I'm now sleeping on and I absolutely love it. It has so many incredible features. For instance, the Pod 5 has a feature called Autopilot, which is an AI engine that learns your sleep patterns and then adjusts the temperature of your sleeping environment across different sleep stages. It'll even elevate your head if you're snoring and it makes other shifts to optimize your sleep.
+
+32:22.786 --> 32:50.142
+If you'd like to try 8sleep, go to 8sleep.com slash Huberman to get up to $700 off the Pod 5 Ultra. This is 8sleep's biggest sale of the year. It goes from now until December 1st, 2025. 8sleep ships to many countries worldwide, including Mexico and the UAE. Again, that's 8sleep.com slash Huberman to save up to $700 now through December 1st, 2025. Now, another thing that could affect...
+
+32:50.242 --> 33:17.566
+how breathing practice can affect your emotional state is simply the sending command. Because breathing practice involves volitional control of your breathing, and therefore there's a signal that's originating somewhere in your motor cortex. That is not, of course, that's going to go down to pre-Butzinger, but it's also going to send off collaterals to other places. Those collaterals could obviously influence your emotional state.
+
+33:18.882 --> 33:48.446
+So we have quite a few different potential sources. None of them that are exclusive. What are some of the other features of our brain and body, be it blinking or eye movements or ability to encode sounds or any features of the way that we function and move and perceive things that are coordinated with breathing in some interesting way? Almost everything.
+
+33:49.602 --> 34:17.566
+So we have, for example, on the autonomic side, we have respiratory sinus arrhythmia. That is, during expiration, the heart slows down. Your pupils oscillate with the respiratory cycle. Your fear response. Let's take something like depression. You can envision depression as activities sort of going around in a circuit. And because it's continuous,
+
+34:17.730 --> 34:44.638
+In the nervous system, as signals keep repeating, they tend to get stronger. And they can get so strong, you can't break them. And I mean, all of us get depressed at some point. But if it's not continuous, it's not long-lasting, we're able to break it. Well, there are extreme measures to break it. We could do electroconvulsive shock. We shock the whole brain. That's disrupting activity in the whole brain. And when the circuit starts to
+
+34:45.409 --> 35:14.814
+get back together again, it's been disruptive. And we know that the brain, when signals get disrupted a little bit, we can weaken the connections. And weakening the connections, if it's that in the circuit involved in depression, we may get some relief. And electroconvulsive shock does work for relieving many kinds of depression. Focal deep brain stimulation does the same thing, but more localized or transcranial stimulation. You're disrupting a network.
+
+35:15.106 --> 35:40.862
+And while it's getting back together, it may weaken some of the connections. If breathing is playing some role in this circuit, and now instead of doing like a one-second shock, I do 30 minutes of disruption by doing slow breathing or other breathing practice, those circuits begin to break down a little bit.
+
+35:41.794 --> 36:09.726
+and I get some relief. And if I continue to do it before the circuit can then build back up again, I gradually can wear that circuit down. I sort of liken this. I tell people it's like walking around on a dirt path. You build a rut. The rut gets so deep you can't get out of it. And what breathing is doing is sort of filling in the rut bit by bit to the point that you can climb out of that rut. And that is because breathing, the breathing signal,
+
+36:09.986 --> 36:29.822
+is playing some role in the way the circuit works. And then when you disrupt it, the circuit gets a little thrown off kilter. And as you know, when circuits get thrown off, the nervous system tries to adjust in some way or another. And it turns out, at least for breathing,
+
+36:30.786 --> 37:00.574
+for some evolutionary reason or just by happenstance, it seems to improve our emotional function or our cognitive function. And, you know, we're very fortunate that that's the case. What do you do with all this knowledge in terms of a breathing practice? I find I get tremendous benefit by relatively short periods between five and maybe 20 minutes of doing box breathing. It's very simple to do.
+
+37:01.090 --> 37:29.374
+I'm now trying this two-mo because I'm just curious and exploring it because it may be acting for a different way, and I want to see if I respond differently. I have friends and colleagues who are into particular styles like Wim Hof, and I think what he's doing is great and getting people who are interested. I think the notion is that I would like to see more people exploring this,
+
+37:29.826 --> 37:59.710
+And to some degree, as you point out, 30 minutes a day, some of the breath patterns that some of these styles, like Wim Hof, are a little intimidating to newbies. And so I would like to see something very simple that people, what I tell my friends is, look, just try it five or 10 minutes. See if you feel better. Do it for a few days. If you don't like it, stop it. It doesn't cost anything. And invariably, they find that it's helpful. I, well,
+
+37:59.906 --> 38:29.438
+often interrupt my day to take five or 10 minutes. Like if I find that I'm lagging, you know, there's a, I think there's some pretty good data that your performance after lunch declines. And so very often what I'll do after lunch is take five or 10 minutes and just sort of breath practice. And lately, what does that breath practice look like? It's just box breathing for five or 10 minutes. So five seconds, inhale, five second, hold, five second, exhale.
+
+38:29.570 --> 38:55.710
+Yeah, and sometimes I'll do doubles. I'll do 10 seconds just because I get bored. It's just I feel like doing it. And it's very helpful. You're one of the few colleagues I have who openly admits to exploring supplementation. I'm a longtime supplement researcher.
+
+38:55.938 --> 39:23.934
+I think there's power in compounds, both prescription, non-prescription, natural, synthesized. I don't use these haphazardly, but I think there's certainly power in them. And one of the places where you and I converge is in terms of our interest in the nervous system and supplementation is vis-a-vis magnesium. Now I've talked at, you know, endlessly on the podcast and elsewhere about magnesium for sake of sleep.
+
+39:24.034 --> 39:51.102
+and improving transitions to sleep and so forth. But you have a somewhat different interest in magnesium as it relates to cognitive function and durability of cognitive function. Would you mind just sharing with us a little bit about what that interest is, where it stems from? And because it's the Huberman Lab podcast and we often talk about supplementation, what you do with that information? Okay, so I need to disclose that I am,
+
+39:51.298 --> 40:19.102
+a scientific advisor to a company called NeuroCentria, which my graduate student, Kuo-Sung Liu, was CEO. So that said, I can give you some background. Kuo-Sung, although when he was in my lab, worked on breathing, had a deep interest in learning and memory. And when he left my lab, he went to work with a renowned learning and memory guy at Stanford, Dick Chen. And when he...
+
+40:19.874 --> 40:45.662
+finished there, he was hired by Susumu Tanagawa at MIT. Who also knows a thing or two about memory. I'm teasing, Susumu has a Nobel for his work on immunoglobulins, but then is a world-class memory researcher. Yeah. And more. He's many things. And Gwo Sung had, very curious, very bright guy, and he was interested in how
+
+40:45.986 --> 41:15.198
+signals between neurons get strengthened, which is called long-term potentiation, or LTP. And one of the questions that arose was, if I have inputs to a neuron and I get LTP, is the LTP bigger if the signal is bigger or the noise is less? So we can imagine that when we're listening to something, if it's louder, we can hear it better.
+
+41:15.298 --> 41:44.286
+Or if there's less noise, we can hear it better. And he wanted to investigate this. So he did this in tissue culture of hippocampal neurons. And what he found was that if he lowered the background activity in all of the neurons, that the LTP he elicited got stronger. And the way he did that was increasing the level of magnesium in the bathing solution.
+
+41:44.898 --> 42:12.158
+So he played around with the magnesium and he found out that when the magnesium was elevated, there was more LTP. All right, that's an observation in a tissue culture. Right, and I should just mention that more LTP essentially translates to more neuroplasticity, more rewiring of connections in essence. So he tested this in mice and basically offered them a...
+
+42:14.210 --> 42:43.646
+He had control mice, which got a normal diet and one that had one that enriched the magnesium. And the ones that lived enriched with magnesium had higher cognitive function, lived longer, everything you'd want in some magic pill. Those mice did that. Excuse me, rats. The problem was that you couldn't imagine taking this into humans because most magnesium salts...
+
+42:44.098 --> 43:11.102
+don't passively get from the gut into the bloodstream into the brain. They pass via what's called a transporter. Transporter is something in a membrane that grabs a magnesium molecule or atom and pulls it into the other side. So if you imagine you have magnesium in your gut, you have transporters that pull the magnesium into the gut into the bloodstream. Well,
+
+43:12.130 --> 43:40.798
+If you had to take a normal magnesium supplement that you can buy at the pharmacy, it doesn't cross the gut very easily. And if you would take enough of it to get it in your bloodstream, you start getting diarrhea. So it's not a good way to go. Well, it is a good way to go. Couldn't help myself. Well said. So he worked with this brilliant chemist, Fay Mao,
+
+43:41.698 --> 44:11.102
+And Fay looked at a whole range of magnesium compounds, and he found that magnesium threonate was much more effective in crossing the gut-blood barrier. Now, they didn't realize at the time, but threonate is a metabolite of vitamin C. And there's lots of threonate in your body. So magnesium threonate would appear to be safe, and maybe...
+
+44:11.426 --> 44:40.926
+part of the role, or now they believe it's part of the role of the phreonate, is that it supercharges the transporter to get the magnesium in. And remember, you need a transporter at the gut, into the brain, and into cells. They did a study in humans. They hired a company to do a test. It was a hands-off test. It's one of these companies that gets hired by the big pharma to do their test for them. And they got
+
+44:42.594 --> 45:10.654
+patients who were diagnosed as mild cognitive decline. These are people who had cognitive disorder, which was age-inappropriate. And the metric that they use for determining how far off they were is Spearman's G-factor, which is a generalized measure of intelligence that most psychologists accept. And
+
+45:10.786 --> 45:39.326
+The biological age of the subjects was, I think, 51. And the cognitive age was 61, based on the Spearman G's test. I should say, the Spearman G factor starts at a particular level in the population at age 20 and declines about 1% a year. So sorry to say we're not 20-year-olds anymore.
+
+45:39.714 --> 46:08.670
+But when you get a number from that, you can put on the curve and see whether it's about your age or not. These people were about 10 years older according to that metric. And long story short, after three months, this is a placebo-controlled double-blind study. The people who were in the placebo arm improved two years, which is common for human studies because of placebo effect.
+
+46:09.762 --> 46:29.918
+The people who got the compound improved eight years on average. And some improved more than eight years. They didn't do any further diagnosis as to what caused the Molokov decline. But it was pretty, it was extraordinarily impressive. So it moved their cognition closer to their biological age. Biological age.
+
+46:30.562 --> 46:58.270
+Do you recall what the dose is of magnesium-3? It's in the paper, and it's basically what they have in the compound, which is sold commercially. So the compound which is sold commercially is handled by a nutraceutical wholesaler who sells it to the retailers, and they make whatever formulation they want. But it's a dosage which is...
+
+46:58.946 --> 47:28.510
+My understanding is rarely tolerable. I take half a dose. The reason I take half a dose is that I had my blood magnesium measured, and it was low normal for my age. I took half a dose, it became high normal. And I felt comfortable staying in the normal range. But, you know, a lot of people are taking the full dose and...
+
+47:29.122 --> 47:57.726
+At my age, I'm not looking to get smarter. I'm looking to decline more slowly. And it's hard for me to tell you whether or not it's effective or not. When I've recommended it to my friends, academics who are not by nature skeptical, if not cynical, and I insist that they try it, they usually don't report a major change in their cognitive function, although sometimes they do report, well, I feel a little bit
+
+47:57.826 --> 48:24.254
+more alert and my move, my physical movements are better, but many of them report they sleep better. And that makes sense. I think there's good evidence that three and eight can accelerate the transition into sleep and maybe even access to deeper modes of sleep. But that's very interesting because I, until you and I had the discussion about three and eight, I wasn't aware of the,
+
+48:24.610 --> 48:54.558
+cognitive enhancing effects, but the story makes sense from a mechanistic perspective. And it brings you around to a bigger and more important statement, which is that I so appreciate your attention to mechanism. I guess this stems from your early training as a physicist and the desire to get numbers and to really parse things at a fine level. We've covered a lot today. I know there's much more that we could cover. I'm going to insist on a part two at some point, but I really want to
+
+48:54.722 --> 49:21.694
+speak on behalf of a huge number of people and just thank you, not just for your time and energy and attention to detail and accuracy and clarity around this topic today, but also what I should have said at the beginning, which is that, you know, you really are a pioneer in this field of studying respiration and the mechanisms underlying respiration with modern tools for now for many decades. I really want to extend a sincere thanks. It means a lot to me.
+
+49:21.858 --> 49:40.414
+And I know to the audience of this podcast that someone with your depth and rigor in this area is both a scientist and a practitioner and that you would share this with us. So thank you. I appreciate the opportunity and I would be delighted to come back at any time. Wonderful. We will absolutely do it. Thanks again, Jack. Bye now.

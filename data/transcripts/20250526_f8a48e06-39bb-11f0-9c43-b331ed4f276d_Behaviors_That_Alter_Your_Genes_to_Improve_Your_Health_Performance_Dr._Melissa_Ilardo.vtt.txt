@@ -1,0 +1,811 @@
+WEBVTT
+
+00:00.354 --> 00:21.502
+Welcome to the Huberman Lab Podcast, where we discuss science and science-based tools for everyday life. I'm Andrew Huberman, and I'm a professor of neurobiology and ophthalmology at Stanford School of Medicine. My guest today is Dr. Melissa Lardo, professor of biomedical informatics at the University of Utah.
+
+00:21.602 --> 00:31.966
+Dr. Elardo is a world-renowned expert in human genetics and epigenetics. She conducts pioneering studies on how our behavior and the environment can modify our gene expression.
+
+00:32.162 --> 01:01.982
+Today marks the first time on the Huberman Lab podcast that we really explore human genetics, epigenetics, and how behavior shapes gene expression across generations. We talk about the inheritance of physical traits like eye color, and we dive deep into fascinating mechanisms such as the mammalian dive reflex, a physiological reaction to breath holding in cold water that, as Dr. Elardo explains, can dramatically alter the physiology of your spleen to allow significant increases in red blood cell count and oxygen availability to your brain and body.
+
+01:02.082 --> 01:32.048
+And by the way, the mammalian dive reflex can be activated outside of free diving, and you can even do it at home. We also explore how mate preference and selection in humans relates to the immune system. That is, if you were given a choice of many, many different mates, as most people are, the mate you would select is the mate who has the immune system composition that is most different from yours. And you would know that on the basis of their smell and how attractive their smell is to you compared to the smell of other people. We also talk about how different
+
+01:32.048 --> 01:51.454
+in external traits signal important variations in organ function, hormone levels, and even brain physiology. Toward the end of our conversation, we discuss the current state and ethical considerations of gene editing in humans, something that's apt to be an increasingly important topic in the years to come because gene editing in humans is now possible and is happening.
+
+01:51.554 --> 02:16.446
+As you'll soon learn, Dr. Elardo does incredible real-world experiments that reveal the remarkable interplay between genes and behavior. And she's an absolutely phenomenal teacher who makes complex genetic concepts accessible and practical. The conversation is sure to change the way that you think about mate selection, your parents, their parents, and what you can do to optimize your physiology and health through behavioral practices that influence gene expression.
+
+02:16.642 --> 02:45.182
+Before we begin, I'd like to emphasize that this podcast is separate from my teaching and research roles at Stanford. It is, however, part of my desire and effort to bring zero cost to consumer information about science and science-related tools to the general public. In keeping with that theme, this episode does include sponsors. And now for my discussion with Dr. Melissa Elardo. Dr. Melissa Elardo, welcome. Thank you. Nature versus nurture. Super big question that we all wonder about, you know.
+
+02:45.378 --> 03:13.182
+how much of our capabilities and potential and just general themes of life, everything from how we look to what we're capable of doing or not doing in the moment or where we might be able to improve or not improve, we hear some of it's nature, some of it's nurture. So if we take a step back and we just ask a big question about human genetics, how much of our DNA is modifiable by our environment and life?
+
+03:13.314 --> 03:31.518
+What we do, what we choose to do in particular, because that's most of what we're going to emphasize today. I think that's something we're still understanding at this point. I mean, I think every day we're getting more and more information about the ways that we can actually modify gene expression and these things that we thought were totally predetermined in the past.
+
+03:31.746 --> 04:01.374
+And so I think we're still learning with epigenetics and all of these new fields, just how much we can actually change things. There are of course things that are kind of written in our genes, but I think we're learning that there's a lot more that we can change. Most of us at some point in high school learned Mendelian genetics, right? Mendel the monk and his peas in his garden. Most people probably don't remember the details of that, but we also learn about eye color. You know, it,
+
+04:01.730 --> 04:31.454
+It's, you know, commonplace for people to understand that if both your parents have dark eyes, with very rare exception, it's unlikely that you're going to get light eyes as a child, but it's possible. But if you have one light-eyed parent and one dark-eyed parent, then you start to enter the probability game. And then at some point, your parents dictate a lot of your appearance, your phenotype, and yet that there are aspects of our parents that are not seen in us at all,
+
+04:31.874 --> 04:50.430
+and vice versa. And so I think for most people, when we think about genes, we think about heritability, but your work focuses a lot on the aspects of genetic expression that are subject to change based on what people choose to do or are forced to do in order to survive, something that we call selection. So could you tell us about selection
+
+04:50.754 --> 05:20.062
+in terms of how quickly a given behavior, for example, can change our gene expression. I'm not aware of any way to change one's eye color without putting in like a colored contact lens. Now there's some esoteric things showing up online about people using these bizarre treatments to change their eye color. But for the most part, people accept that you're not gonna change your eye color by behaving differently. But what are some examples where we can change our gene expression quickly, relatively quickly by doing something differently?
+
+05:20.386 --> 05:31.070
+Yeah, just going back to eye color, because this is just one of my favorite genetics facts. So everyone with blue eyes descends from the same person. So at one point in human history,
+
+05:31.458 --> 06:00.894
+one person had a change in their eye color. And it's just like amazing to imagine this person who had blue eyes for the first time. And then through many generations, probably because that was a very attractive and interesting feature in that individual, you know, that spread throughout human populations as we know them. So I always just find that to be fun about blue eyes. So there was a blue-eyed F1, as we say. That's right. The first. Let's stay on eye color for a moment because before we get into how genes can be modified by behavior...
+
+06:01.570 --> 06:17.534
+I've been told that the green eye phenotype is one of the more rare eye colors. Is that true? I think that's right. Yeah, I think it's the most rare. Okay. So can we assume that there was an original F1 brown-eyed person that gave rise to the entire lineage of brown eyes?
+
+06:17.666 --> 06:45.662
+subsequently? Yeah, I think in the history of humans as a species, I think that was our original eye color. And so then, yeah, having these other eye colors arise in the population created these events. I think green eyes, if I'm not mistaken, there were multiple people, you know, that comes from different genes from different individuals in the history of humans. But yeah, blue eyes is just this one individual. I realize I'm slightly remiss on the statement about eye color not being subject to behavior. We know that as you get more sunlight exposure...
+
+06:45.826 --> 07:05.342
+in particular ultraviolet light exposure, that eyes will darken regardless of where they start. Interesting. So like a blue-eyed baby will have much bluer eyes at birth than it will at age 15, at age 80, for instance. And we believe that's due to changes in pigmentation because of UV exposure. That's really interesting.
+
+07:06.754 --> 07:20.158
+I'd like to take a quick break and thank our sponsor, Juve. Juve makes medical grade red light therapy devices. Now, if there's one thing that I have consistently emphasized on this podcast, it is the incredible impact that light can have on our biology.
+
+07:20.322 --> 07:50.288
+Now, in addition to sunlight, red light and near infrared light sources have been shown to have positive effects on improving numerous aspects of cellular and organ health, including faster muscle recovery, improved skin health and wound healing, improvements in acne, reduced pain and inflammation, even mitochondrial function and improving vision itself. What sets Juve Lights apart and why they're my preferred red light therapy device is that they use clinically proven wavelengths, meaning specific wavelengths of red light and near infrared light in combination to trigger the opposite
+
+07:50.288 --> 08:18.238
+optimal seller adaptations. Personally, I use the Juve whole body panel about three to four times a week, and I use the Juve handheld light both at home and when I travel. If you'd like to try Juve, you can go to Juve spelled J-O-O-V-V dot com slash Huberman. Juve is offering an exclusive discount to all Huberman Lab listeners with up to $400 off Juve products. Again, that's Juve spelled J-O-O-V-V dot com slash Huberman to get up to $400 off.
+
+08:18.466 --> 08:25.566
+Today's episode is also brought to us by Eight Sleep. Eight Sleep makes smart mattress covers with cooling, heating, and sleep tracking capacity.
+
+08:25.762 --> 08:55.728
+One of the best ways to ensure a great night's sleep is to make sure that the temperature of your sleeping environment is correct. And that's because in order to fall and stay deeply asleep, your body temperature actually has to drop by about one to three degrees. And in order to wake up feeling refreshed and energized, your body temperature actually has to increase by about one to three degrees. Eight Sleep automatically regulates the temperature of your bed throughout the night according to your unique needs. I've been sleeping on an Eight Sleep mattress cover for over four years now, and it has completely transformed and improved the quality
+
+08:55.728 --> 09:15.518
+of my sleep. Eight Sleep has just launched their latest model, the Pod 5, and the Pod 5 has several new important features. One of these new features is called Autopilot. Autopilot is an AI engine that learns your sleep patterns to adjust the temperature of your sleeping environment across different sleep stages. It also elevates your head if you're snoring, and it makes other shifts to optimize your sleep.
+
+09:15.618 --> 09:45.584
+The bass on the Pod 5 also has an integrated speaker that syncs to the Eight Sleep app and can play audio to support relaxation and recovery. The audio catalog includes several NSDR, non-sleep deep rest scripts that I worked on with Eight Sleep to record. If you're not familiar, NSDR involves listening to an audio script that walks you through a deep body relaxation combined with some very simple breathing exercises. And that combination has been shown in peer-reviewed studies to restore your mental and physical vigor. And this is great because while we would all like to get to bed
+
+09:45.584 --> 10:07.774
+on time and get up after a perfect night's sleep. Oftentimes, we get to bed a little late or later. Sometimes we have to get up early and charge into the day because we have our obligations. NSDR can help offset some of the negative effects of slight sleep deprivation. And NSDR gets you better at falling back asleep should you wake up in the middle of the night. It's an extremely powerful tool that anyone can benefit from the first time and every time.
+
+10:07.874 --> 10:37.438
+If you'd like to try 8sleep, go to 8sleep.com slash Huberman to get up to $350 off the new Pod 5. 8sleep ships to many countries worldwide, including Mexico and the UAE. Again, that's 8sleep.com slash Huberman to save up to $350. Thank you for that, because I think that most everyone is interested in eyes and eye color. What are the sort of examples that come to mind when you think of rapid changes in gene expression in any organ?
+
+10:37.602 --> 10:43.102
+It could be at the surface of the body or it could be internally that are governed by some change in behavior.
+
+10:43.586 --> 11:13.552
+Yeah, so I mean, our genes are constantly changing how they're expressing based on, you know, what environmental stimulus is coming in. So we have, you know, these changes that happen on the order of, you know, minutes or hours or things like that. Then there's also changes that we're finding out are happening kind of over generations. So we now know that there can be epigenetic changes. So these are changes, you know, little modifications to the genome that happen by things actually, molecules actually attaching to the genome and changing how genes express that can be passed
+
+11:13.552 --> 11:36.638
+So this is really interesting from the perspective of things like trauma. You know, we know that refugee populations actually have some of these changes that they've inherited from their parents, even if they weren't, you know, victims of the event that caused them to be refugees. Excuse me for interrupting, but are those changes that are passed down, are they adaptive? Are they making subsequent populations more resilient or less resilient?
+
+11:36.866 --> 12:05.918
+Yeah, it's a very good question. You know, in the case of trauma and refugees, I'm not sure. I do know in terms of starvation, that's been something that's been studied as well. So there was a famine that affected Dutch people several hundred years ago, I think. And that was actually also kind of recorded in these epigenetic changes. And so presumably that's a change that is helping that population to better survive that famine. So in that way, it's resilient. But then, you know, you think about...
+
+12:06.018 --> 12:13.534
+in a contemporary situation where food is abundant, maybe that is no longer beneficial, even though at one point it was.
+
+12:14.242 --> 12:41.086
+And so then we have this other kind of order of change, which is, you know, actual changes in the genes themselves that either arise from mutations in, you know, these single base pairs or at many different sites, or things like variation that's already present in the population at a certain amount that then, you know, increases in frequency throughout the population. And this is where a lot of my work has focused. And these are changes that until recently we thought would take
+
+12:41.186 --> 13:10.398
+you know, 5,000 years, 10,000 years at least. And now we're starting to understand that maybe that can happen in as short as 1,000 years, 2,000 years. This might be slightly out of line with what we're talking about right now, but I'm really fascinated by this concept of hybrid vigor. I was taught, I don't know if the data still hold up, that if you give mice a choice of other mice to mate with, to produce offspring with, that they will select...
+
+13:10.946 --> 13:40.446
+a mouse whose major histocompatibility complex, which is a reflection of diversity of immune genes, so to speak, they'll pick the mouse whose immune system is most different from theirs. Presumably, the just-so story, because we're making stuff up about why they do this, right? Nobody really knows. The just-so story is that they do this in order to produce offspring that have a much broader array of immune genes to be able to combat a much broader array of potential pathogens.
+
+13:40.546 --> 13:51.902
+Is that true in mice still? And is it true in humans as well? Do people elect to produce offspring, if given a choice, produce offspring with people that are more different from them as opposed to similar to them?
+
+13:52.322 --> 14:22.288
+They did a very similar study in humans, and humans also are drawn to other humans that have these differences. So it's interesting, especially with the immune system. There was a study where I think they had people smell sweaty T-shirts of members of the opposite sex, if they were heterosexual, to see how attracted they felt to the person just based on the smell of their sweaty T-shirt. And people were more drawn to people who had very different immune systems than their own
+
+14:22.288 --> 14:46.462
+So I think this is something, you know, we see it in mice and it's easy to say, oh, you know, it's their animals. Of course they do that. But we do it as humans too. And it'd be interesting to know to what extent that's influencing our choice of mates and spouses. Super interesting. So they're given a choice of sweaty clothing from the opposite sex, potential partner. I guess they're, I don't know if they were, you know, sent out on dates after the experiment, but...
+
+14:46.722 --> 15:13.726
+And they're smelling, let's say, 10 different t-shirts that are sweaty. And then they rank order them. And the one they like the most, if you go and look at the genome of the person whose sweat was on that clothing. And specifically the immune system that you're talking about. What is it? The histocombatibility? Major histocombatibility complex. Yeah. The more different they were in that, the more attracted they were to that smell. It's kind of amazing, right? That smell, which we just think of as...
+
+15:13.922 --> 15:38.782
+I like this body odor, I don't like this body odor, I love this body odor, is kind of a proxy for gene expression related to the immune system of the offspring that you haven't even had yet with this smelly t-shirt owning person. It's kind of wild. So I think it speaks to smell, and these aren't really pheromone effects, but it speaks to smell as a pretty powerful driver of mate selections.
+
+15:38.946 --> 15:58.718
+Yeah, I mean, I think it could be. It's also interesting, you know, we have, you know, we were talking about hybrid compatibility or hybrid. I called it hybrid vigor based on no particular knowledge of the correct term. It's the term I use because it makes sense to me. Yeah, something like that. You know, we're having with globalization,
+
+15:59.042 --> 16:23.070
+people meeting each other, you know, across cultures, across continents for the first time. So we're getting genetic combinations that have never been possible in the history of humans. And that's creating some interesting both kind of resilience and then also disease because you have, you know, combinations of genetic variants that have never been in the same individual before that are now showing up together. I find this super interesting. Um,
+
+16:23.298 --> 16:50.942
+for a couple of reasons. First of all, I'll turn 50 in September and I remember a time not that long ago where it was very unusual, for instance, to see an interracial couple in a television show when I was growing up. Now that's changed, right? And I think that's reflective of a number of things. I mean, there's cause and effect directionality here that we could get into, but that's a different podcast. But that, yes, people are intermarrying and or producing children with people that
+
+16:51.170 --> 17:19.902
+whose backgrounds, genetic backgrounds, are very different than their own. And if we take the opposite extreme, it makes perfect sense as to why this hybrid vigor thing would exist. And the opposite extreme is a very uncomfortable thing. But if you think about incest, incest has been discouraged in populations for a very long time. Without anyone understanding genetics, like the mechanisms of genetics per se,
+
+17:20.002 --> 17:43.134
+It's been well understood that in small villages that people shouldn't mate with their siblings, shouldn't mate with their cousins, shouldn't mate, and ideally not even with second cousins because of the potential for disease. So I've always been fascinated by the idea that nature punishes reproducing with people that are too close to you. And then, of course, there's the moral and ethical and all that aspect, but Mother Nature actually punishes reproducing.
+
+17:43.490 --> 17:59.262
+individuals that do this through mutation. Yeah, when you have two individuals who are closely related, you know, that dramatically increases the chance that they're both carrying, you know, a variant that has a negative impact on the offspring. So, you know,
+
+17:59.426 --> 18:26.430
+when you have people kind of mixing more outside their families, then it's very likely that even if you're carrying this deleterious variation, it's going to be kind of watered down by outside genetic material. But yeah, as soon as you have people too closely related to each other, you know, those things are ending up together and creating disease. Yeah, so it's definitely nature has a system built in that says don't do that. Yeah, I find it amazing that these things are operating below the level of consciousness
+
+18:26.626 --> 18:56.382
+decision-making to influence preference like this smell or that smell, right? And we've established, you've told us that the smells that reflect the most distant immune system are the most attractive smells, which is really wild. So is it fair to say that humans are continuing to evolve given that people are traveling further, meeting people from further away, having children with people from origin populations that presumably have never mixed before in the course of human evolution?
+
+18:56.834 --> 19:02.398
+Yeah, absolutely. I think sometimes people kind of, you know, think we're done. We've reached this, you know,
+
+19:02.626 --> 19:32.592
+ultimate point of evolution. We've finished evolving. But as long as there are things that are affecting our ability to reproduce, we're going to continue to evolve. And especially once you have this introduction of new genetic variation, I mean, some of the greatest adaptations in the history of humans have come from the introduction of new genetic material. So the Tibetan high altitude adaptation is actually believed to have arisen from the crossing of humans with another early hominid
+
+19:32.592 --> 20:00.030
+group called Denisovans. So we essentially stole the advantageous genes from this other group. And so maybe you'll start to see that happening again, you know, as you have a more globalized population where, you know, different groups of humans are creating these interesting phenotypes through the mixing of their genes that maybe will lead us to be more resilient as our planet is changing around us. How long ago did this gene that affords
+
+20:00.802 --> 20:06.654
+better abilities at altitude or ability to survive at altitude enter the human population?
+
+20:07.330 --> 20:35.646
+You know, I'm going to get myself in trouble because I don't remember exactly how long ago it was. More than 10,000 years ago. More than 10,000 years ago. But it only became advantageous when the ancestral population of Tibetans moved into these extremely high altitudes. So they kind of, you know, was just sitting there waiting for a chance to be really advantageous. And then as soon as they went to these high altitudes, people carrying that genetic variation were at a huge advantage. And so they, you know, passed that along to their children and their children's children and so on.
+
+20:36.578 --> 20:48.894
+So does that mean that at some point the species we know as Homo sapiens was able to reproduce with a species that was not Homo sapiens, and that's how the gene entered?
+
+20:48.994 --> 21:16.030
+the Homo sapien population. That's exactly right. So yeah, it happened. We see that happening with Neanderthals as well, but also this other population of, they call it archaic hominids, Denisovans. So these are a population that were found in areas of Asia, and their genes were introgressed, we say. So essentially, you know, inserted into the human genome. So individuals from that region tend to have a higher ancestry coming from that
+
+21:16.226 --> 21:40.766
+hominid group. But that meant that a homo sapien mated with this other species of primate. Yes. And the offspring had this gene incorporated into it. Right. Exactly. And then that offspring at some point mated with another homo sapiens and so on and so forth. Correct. Yes. Okay. Yeah. I'm not trying to paint more color on it so that people... I'm not trying to be salacious here. I think that sometimes we forget...
+
+21:40.930 --> 22:01.502
+That in the primate lineage, that there were other primates with whom Homo sapiens were capable of reproducing with. That's right, yeah. And there's actually some extraordinary work from Svante Pabo, who works a lot with ancient DNA, where they found an individual who was a first-generation mix. I think it might have been with Neanderthal. I forget now at this point. Yeah.
+
+22:01.666 --> 22:31.134
+So it was a first-generation, half-human, half-whatever archaea comet it was, which shows you, I mean, if they found this, the chances that they would find this one, you know, mixed individual are so slim that it suggests that this was something that was actually happening a lot for them to happen to find it. So in the diagram that everyone has seen of a quadruped animal, like, walking on all fours and then gradually evolving into the upright form that we know as Homo sapiens, which is the...
+
+22:31.234 --> 22:54.526
+primate right before it, which by the way, being slightly hunched forward in a slightly C-shaped position looks a lot more like Homo sapiens nowadays who are on their phones all the time. That's a separate point. That's an editorial point. But was there a kind of final primate step before Homo sapiens, like one, or was it a collection of a bunch of different primate species and then we got Homo sapiens? Yeah.
+
+22:54.818 --> 23:19.870
+Yeah, I mean, it definitely, you know, we have an ancestor. I don't remember exactly the name off the top of my head, but I have an issue with this diagram because it's, you know, it's the classic depiction of evolution, right? But it really suggests kind of like I was saying before, this trajectory and we are the pinnacle of it. You know, we've achieved this thing. And I think it also fits with this, you know, concept of survival of the fittest, which I think is, you know,
+
+23:20.546 --> 23:48.414
+Also a little bit misleading in that, you know, it's not about the most fit, it's about the best fit. So evolution doesn't care how fit you are in the way we think of fitness. It only cares how you fit with your environment. So, you know, the idea that evolution is driving any species, but especially ours, towards some optimum, I think is inherently flawed. I had a colleague at Harvard, he's still there, although I think he closed his lab, who once said,
+
+23:49.634 --> 24:19.198
+It takes a lot of generations of offspring to evolve a given trait, but it takes very few to devolve a trait. That's right. Like you can create immense problems in all sorts of things from, you know, pancreas function to mobility to vision with a deleterious mutation. But it takes a very long time to create an advantage for a given species through the accumulation of new combinations of genes. Is that true?
+
+24:19.458 --> 24:49.424
+Yeah, yeah. I mean, it's most mutations are deleterious. Most mutations cause problems. And so we actually don't even see most mutations because they kill essentially the offspring before, you know, it even becomes a fetus. So most mutations are happening in a way that we're not even seeing them. So to wait for something that comes up that's actually beneficial can take forever because, you know, you have to have exactly the right thing. The genome's huge. So when those changes are happening, for it to
+
+24:49.424 --> 25:00.030
+not only happen in the right place, but to not cause problems takes a really long time. So some of the faster examples that we know of evolution, especially in humans, come from
+
+25:00.194 --> 25:29.758
+When there's variation that's just already there and, you know, it's not particularly advantageous, like I mentioned with Tibetans, until you move into a particular environment or until you start practicing a certain activity like breath-hold diving. And so, you know, we have, we call it standing variation. Just there's all these differences between all of us humans on Earth. And so when you have variation that's beneficial in the right environment, then evolution can happen a lot faster. Got it. Okay. So...
+
+25:30.274 --> 25:58.654
+I'm obsessed with the X-Men. Yes. I love that series. I've probably watched it five different times. I mean, for a biologist who's interested in all animals, but the human animal perhaps most, you know, it's like the perfect form of entertainment for me, right? Different individuals who have mutations that afford them specific gifts or abilities, but it creates some, let's just say, some social tension between those that have and those that don't. And it's about learning these
+
+25:58.818 --> 26:28.286
+to use these mutations for good versus evil, and it gets into all sorts of interesting human psychology. You work on the actual real-life version of what I think of X-Men and, as you'll tell us today, women as well, which is, as you just told us, there's variation in all of our genomes, and occasionally, by virtue of the needs of a particular group or individual, those mutations afford them an incredible ability to do incredible things.
+
+26:28.386 --> 26:51.710
+So if you would, could you tell us about these underwater free divers that you've studied? This is a collection of studies, I realize, but maybe the first study, because I find this to be one of the more incredible examples of behavior shaping what we think of are fixed properties of the human body. And please just tell us about it. It's such a wonderful story.
+
+26:51.906 --> 27:10.430
+Yeah, absolutely. And I also love the X-Men, although if you ever want to ruin a perfectly good sci-fi movie, watch it with an evolutionary biologist. Noted. Yeah. So there are these incredible people, well, really all around the world, but I started my work in Indonesia called The Bajo.
+
+27:10.626 --> 27:37.982
+they are a group of what's called sea nomads. So sea nomads are, they're these people who spend their whole lives essentially at sea, traditionally. They live on houseboats and everything they need, they get from the sea. And they do this through fishing, of course, and other things like that, but also through an incredible amount of breath hold diving. So they're extremely good at this. They can hold their breath for many minutes at a time. They dive to incredible depths. A lot of them wear these
+
+27:38.178 --> 28:01.342
+jewelry made of black coral. Black coral only starts growing at about 100 feet deep. So that tells you how deep they're diving. So those are trophies. They're actually meant to protect them from evil spirits and things like that. How long are their breath holds on record? I've heard you talk about this before. It's a little debatable, but the number I heard from you in a lecture, I went, whoa. Yeah.
+
+28:01.698 --> 28:20.638
+So I was told, and I always emphasize that, I was told I did not see this, I did not record it. I was told 13 minutes. And this was by the father of a diver who I worked with in Indonesia. That's got to be in the neighborhood of world record stuff. It is, yeah. I'm trying to remember what the current world record is. But it's also, I mean, you have to think about...
+
+28:20.802 --> 28:45.470
+if you see them diving, like it's incredibly active. So a lot of the breath hold records that we think of are people floating in a pool. They're not moving. They're not expending any, you know, energy. They're not using up that oxygen as quickly. And these sea nomads are, when they're underwater, they look like hunters on land. They go deep enough that they're not floating anymore. And so they're walking on the surface of, you know, the
+
+28:45.570 --> 28:51.358
+the bottom of the ocean with their spear guns and they look like hunters. It's incredible to see. Amazing.
+
+28:51.778 --> 29:21.744
+So even if it's not 13 minutes, let's say it's half that, it's still super impressive. It's very impressive, yeah. So do they grow up doing this? They do, yeah. And they, in fact, they spend so much time traditionally on these houseboats and so little time on land that a lot of the children actually learn to swim before they learn how to walk. So one of the divers, when I was out there, one of my colleagues noticed that one of the diver's feet was very soft. And we realized that it's because he's never really walking. He's just always in the water. So his feet don't develop the same
+
+29:21.744 --> 29:30.814
+same kind of calluses that ours do because he's not using them like we do. Amazing. So how did you find this population and what sorts of questions did you start to ask?
+
+29:31.234 --> 30:00.766
+Yeah, so I was actually diving as part of a coral genomics project in Thailand, escaping Danish winter, because that's where I was doing my PhD. And I heard about a population called the Moken. So that's another group of these sea nomads. And heard about their incredible underwater diving. Started looking into it and saw a study that I think you've seen that showed that children, Moken children, could actually see underwater better than European children. And started thinking about...
+
+30:00.898 --> 30:28.510
+You know, I mean, free diving is really dangerous. And so I was thinking that this could actually be something that's driving selection in this population, that's causing this population to evolve. In other words, just to put this in everyday terms for people, if you don't get good at this, you die. Yeah, exactly. If you die young enough, you don't reproduce. Exactly. If you get good enough at this, you can live long enough to reproduce and your children will presumably inherit whatever mutation...
+
+30:28.866 --> 30:56.670
+or genetic variants afford this ability. Exactly. Yeah. Yeah. And, you know, I mean, we see with competitive breath hold divers, you know, I've never actually been to one of these competitions, but I've read about them. People pass out underwater all the time. And they're, you know, pulled to the surface and revived. But if you're a sea nomad diving in the middle of the ocean with no one nearby, nobody's going to pull you out of that water. And so you've just removed yourself from the gene pool completely. Whereas someone who maybe has a
+
+30:56.802 --> 31:16.414
+variation or has genetic variation that's making them safer at diving might survive that. And in this case, the safety at diving comes from being able to stay under longer. We can talk about that. But as long as we're on this point and because some people will be tempted to go test their breath holding time, which please don't do it. Just don't.
+
+31:17.026 --> 31:44.798
+I'm just going to do an across the board. Just don't do it. Learn from an expert. If you're going to learn to free dive, learn from somebody who's truly expert under the right conditions. I'll put a link to a couple of folks I know that I have no business relation to, Mark Healy and some other people that teach this on land first. Actually, you know what? I'll just tell you. You know what they told me was the first step in one of these free diving classes I chose not to do it is to do not do this. But I was told, here's the first step. You're going to hold your breath on land and force yourself to not
+
+31:45.218 --> 32:11.230
+breathe when the gas reflex hits until you pass out. Yes. And I was like, you know what? I'm not going to take this course. Yeah. So this is exactly what gets people in trouble because, yeah, like, you know, we don't have a reliable sensor for when our oxygen is low. And so that happens to people underwater because that feeling that wanting to breathe is a buildup of carbon dioxide. And so, yeah, people teach themselves to overcome it like they're suggesting you do there. And then, you know, you're underwater and you pass out and
+
+32:11.362 --> 32:40.574
+That's it. I've been told that you go from feeling that gasp reflex. You learn to ride that like a bump. The same way you might stay in a cold plunge or something a little bit longer than your impulse would have you stay in. But in this case, you're underwater. And then it passes. And then you're swimming freely about. And you feel good. You're relaxed. You're doing slow exhales to let off that carbon dioxide, whatever carbon dioxide is left. And then it just lights out. Yeah. That there's no flickering.
+
+32:40.738 --> 33:07.518
+it just goes to complete blackout, like curtains, as they call it. And then you're dead. Yeah. Unless somebody pulls you up to the surface. Exactly. Yeah. Yeah. So hopefully we sufficiently scared people into doing this. Okay. So this population presumably is not thinking about carbon dioxide thresholds for the gas reflex areas of the brainstem that are measuring carbon dioxide. They presumably learn through experience that if you do the right things, you live and reproduce. Your family eats. You do the wrong things, you die. Yeah.
+
+33:08.002 --> 33:33.694
+Right, yeah. There's so much cultural knowledge that's integrated into the practice and that's passed on from generation to generation because a lot of times they're doing this in family units. One of the divers that I worked with, his dad used to be the most famous diver in the village. Now he's the most famous diver in the village. And so there's a lot of that tradition and that traditional knowledge that's passed on despite it maybe not looking like what we would read in a textbook. When you say the...
+
+33:34.114 --> 33:59.198
+one of the most revered or expert divers. I'm very curious as to how this weaves back to an earlier part of our conversation. Is prowess at diving based on how long someone can stay under? And is prowess at diving because it correlates with the ability to secure resources? Is that somehow correlated with desirable mate? Do these people tend to have more offspring than people that are not as
+
+33:59.330 --> 34:21.022
+Good at diving. And of course, there are confounds here, like you can imagine differences in hormone levels to begin with, eating more during puberty and growing, you know, stronger or whatever it is, or smarter, not just smarter. But do you see this? Like are the people who are great divers in the village, do they tend to be the ones with more –
+
+34:21.154 --> 34:51.120
+more children to be direct? You know, it would be interesting to count that. I think now, you know, things are changing for the Bajo, at least the community that I worked with, where a lot of people are moving away from traditional diving and into other kinds of fishing practices. And so I think at this point, you know, this prowess, this respect for these, you know, these divers is more respect for the fact that they're keeping the tradition alive and they're continuing this tradition, even though it's a very hard thing to do. But yeah, it would be really interesting. I know actually the
+
+34:51.120 --> 35:17.022
+the one diver came from a very big family. And that was something that the Bajo actually asked me about was, why do the Bajo have so many children? And so it would be interesting to see if, yeah, diving success correlates with reproductive success. Because you can imagine that it would. I mean, they're diving for things that they're eating. So why wouldn't that increase your success on that? Just out of curiosity, and because I like seafood, what are they fishing for?
+
+35:17.570 --> 35:41.790
+They dive for, it depends on where they are. They're spearing a lot of fish. Everything is delicious. They dive for shellfish. They also harvest seaweed sometimes. And they actually collect a lot of sea cucumbers, which they dry out in the sun and then eat later. It's like pure protein. Yeah, yeah. Yeah, very interesting. So what did you study in this group? Yeah, so we started thinking about, okay,
+
+35:41.922 --> 35:54.782
+you know, for natural selection to act in this population, it needs some kind of physical trait to act on, which got us looking at the dive reflex or the mammalian dive reflex. So this is, if anyone...
+
+35:55.202 --> 36:25.168
+And again, I hesitate to tell people to do this. But if you hold your breath and put your face in a bowl full of cold water, your body responds as if you're diving. And what that means is that your heart rate slows down, your blood vessels and your extremities constrict because, you know, your fingers will be okay with a little bit less oxygen, but your brain really needs that oxygen. So it's keeping the blood central where you need it the most. And then your spleen contracts. And so the spleen certainly wasn't the first organ that I thought about when thinking of
+
+36:25.168 --> 36:53.790
+diving. But the spleen is a reservoir. I mean, the spleen does many things, but one of the things that it does is it's a reservoir for red blood cells that are carrying oxygen. And so through that contraction, those oxygen-rich red blood cells are now pushed into circulation and you get an oxygen boost. How significant is that oxygen boost? It's about 10% in most of us. That's pretty impressive. Exactly. Yeah. Yeah. I mean, it's enough to make a difference. Yeah. By comparison, you know, there are...
+
+36:54.594 --> 37:06.942
+A lot of discussions online about, you know, if you finish your exercise, resistance training or cardiovascular exercise with a brief sauna session. So going slightly hyperthermic, right? This, you have to...
+
+37:07.202 --> 37:29.662
+hydrate, et cetera, but it actually works even better. As long as we're talking about dangerous practices, it works even better if you're slightly dehydrated. You get an overproduction of red blood cells in the subsequent days. And this is used for a performance enhancing effect in elite athletes mainly. You have to, again, avoid dehydration, death, et cetera. But this is done, and there are, someone will correct me, but the shift in
+
+37:30.114 --> 37:50.782
+available oxygen is in the low percentages, like 1% or 2%. So this is what people are fighting for using these kind of Baroque protocols. You're talking about a 10% increase in available oxygen through a contraction of the spleen. I didn't even know the spleen could contract. Yeah, that's right. Just when you put your face into colder than ambient temperature water.
+
+37:51.170 --> 38:18.014
+Yeah, usually in like lab protocols, we do it at about 10 degrees Celsius or 50 degrees Fahrenheit. So quite a bit colder. For how long? Well, depends on how long you can hold your breath. Oh, right. Yeah. So, you know, the extent to which like how long the contraction actually takes, I think we have room to learn more about that. But one thing that's slightly different from what you're talking about is that after you stop holding your breath, your spleen takes...
+
+38:18.370 --> 38:46.878
+that oxygen back, essentially. So it refills with red blood cells and that extra boost is no longer in circulation. Ah, so it's only during the breath hold. That's right. Only when you need it the most. Interesting. What an incredible adaptation of the human body. Yeah. What are some other functions of the spleen just for... This is the first time the spleen has ever been discussed on this podcast, I think. Yeah. We don't think about spleens too often. Well, you can live without one. So it seems like
+
+38:47.010 --> 39:12.286
+How important could it be? Right. Well, for this population, it sounds like it might be critical. You'll tell us. Exactly. Yeah. What are some other things that it does? It's involved in the immune response to certain bacteria. And actually, I'm trying to think of what else it does. But that's the main role is immunological. One thing I, in anticipation of this episode, I did a little reading about it. And it gets very heavy neural innervation.
+
+39:12.386 --> 39:39.678
+which is interesting. We don't normally think about our peripheral organs besides our heart as getting a lot of neural innervation. Of course, the gut has neural innervation, but the spleen gets very heavy neural innervation, which makes me think that maybe there's the opportunity for more perhaps even conscious control of the spleen. Does this population communicate about any sense that they can like switch this thing on or is this just all kind of unconscious genius related to their behavior? Yeah.
+
+39:40.098 --> 40:03.902
+Yeah, as far as I know, it's all unconscious. It's not something that they talk about. And, you know, most of them, you know, when I was explaining what the spleen was, it wasn't something that they had ever thought about or, you know, experienced any kind of sensation in the area where the spleen is found. Yeah, but who knows? I mean, it's encapsulated in smooth muscle, I think, the spleen, and that's what controls that contraction. So, yeah, maybe there could be some way to...
+
+40:04.162 --> 40:29.342
+to consciously contract your spleen. We also, our spleens contract when we exercise to a lesser extent. And this is why like horses and apparently greyhounds, someone wrote to me after the study came out, have massive spleens, as do seals who do a lot of deep diving, but that makes a little more sense. Interesting. Horses, I don't think about horses being underwater very often. Right, right. Or greyhounds for that matter. Yeah. I wonder if they...
+
+40:29.442 --> 40:58.398
+incorporate breath holds as a way to deploy red blood cells. Yeah, it could be that. Yeah, it's something in the kind of breath holding aspect of extreme bouts of exercise is also contributing to that contraction. Like when one becomes a bit hypoxic because you just can't keep up with whatever exertion, like you just can't breathe in enough oxygen, dump enough carbon dioxide to keep up with your physical activity. Is there any – is that –
+
+40:58.882 --> 41:26.622
+one of the conditions under which it sort of mimics a breath hold? Or do you need this cold, there seems to be something about the face being cold. Yeah, it's stimulation of the vagal nerve that is in part triggering this response, which, you know, runs through your face, since that's why the, you know, the facial immersion is crucial to triggering the response. But there is, I think, a component of if you're just holding your breath, where that also kind of triggers it. So, but yeah, it's really amazing to think that
+
+41:26.722 --> 41:49.406
+mammals. This evolved sometime so long ago that it's even in mice. They've done a study where they actually trained mice to dive and they could measure the mammalian dive reflex in mice. Wild. Yeah. So you sort of answered my next question, which was, why do we have a dive reflex? I mean, we're not a harp seal and we're not a diving bird. Why do we
+
+41:49.794 --> 42:19.760
+why do we have this? Yeah. I mean, it's a great question. I don't think we really know. There's a, some people talk about something called the aquatic ape hypothesis that says that one of our ancestors is a- Sorry, I'm trying not to interrupt, but I just, someone, I've heard of the stoned ape hypothesis. Okay. All the psychonauts love the stoned ape hypothesis, which is that psychedelics are what led to new ideas and daytime dreams that led to our evolution. And anyway, forgive me for interrupting. It was an interruption of the stoned ape. Yes. So the
+
+42:19.760 --> 42:42.078
+Maybe the aquatic ape was right there alongside the stoned ape. But I think that, you know, given the fact that it's present throughout all mammals, I think it's much more likely that it was some very long ago ancestral, you know, proto-mammal that was doing some kind of diving. And because of that, this response is present to varying degrees in all modern mammals.
+
+42:43.234 --> 43:05.054
+As many of you know, I've been taking AG1 daily for more than 13 years. However, I've now found an even better vitamin mineral probiotic drink. That new and better drink is the new and improved AG1, which just launched this month. This next gen formula from AG1 is a more advanced clinically backed version of the product that I've been taking daily for years.
+
+43:05.154 --> 43:25.150
+It includes new bioavailable nutrients and enhanced probiotics. The NextGen formula is based on exciting new research on the effects of probiotics on the gut microbiome. And it now includes several specific clinically studied probiotic strains that have been shown to support both digestive health and immune system health, as well as to improve bowel regularity and to reduce bloating.
+
+43:25.250 --> 43:55.216
+As someone who's been involved in research science for more than three decades and in health and fitness for equally as long, I'm constantly looking for the best tools to improve my mental health, physical health, and performance. I discovered and started taking AG1 way back in 2012, long before I ever had a podcast, and I've been taking it every day since. I find that it greatly improves all aspects of my health. I just feel so much better when I take it. With each passing year, and by the way, I'm turning 50 this September, I continue to feel better and better, and I attribute a lot of
+
+43:55.216 --> 43:56.446
+that to AG1.
+
+43:56.578 --> 44:26.544
+AG1 uses the highest quality ingredients in the right combinations, and they're constantly improving their formulas without increasing the cost. So I'm honored to have them as a sponsor of this podcast. If you'd like to try AG1, you can go to drinkag1.com slash Huberman to claim a special offer. Right now, AG1 is giving away an AG1 welcome kit with five free travel packs and a free bottle of vitamin D3 K2. Again, go to drinkag1.com slash Huberman to claim the special welcome kit with five free travel packs and a free bottle of vitamin D3 K2.
+
+44:26.544 --> 44:40.126
+of vitamin D3, K2. Today's episode is also brought to us by Element. Element is an electrolyte drink that has everything you need and nothing you don't. That means the electrolytes, sodium, magnesium, and potassium in the correct amounts, but no sugar.
+
+44:40.290 --> 45:10.256
+Proper hydration is critical for optimal brain and body function. Even a slight degree of dehydration can diminish cognitive and physical performance. It's also important that you get adequate electrolytes. The electrolytes, sodium, magnesium, and potassium, are vital for functioning of all the cells in your body, especially your neurons or your nerve cells. Drinking element dissolved in water makes it very easy to ensure that you're getting adequate hydration and adequate electrolytes. To make sure that I'm getting proper amounts of hydration and electrolytes, I dissolve one packet of element in about 16
+
+45:10.256 --> 45:40.208
+to 32 ounces of water when I first wake up in the morning, and I drink that basically first thing in the morning. I'll also drink Element dissolved in water during any kind of physical exercise that I'm doing, especially on hot days when I'm sweating a lot and losing water and electrolytes. Element has a bunch of great tasting flavors. I love the raspberry. I love the citrus flavor. Right now, Element has a limited edition lemonade flavor that is absolutely delicious. I hate to say that I love one more than all the others, but this lemonade flavor is right up there with my favorite other one, which is raspberry or watermelon.
+
+45:40.208 --> 46:06.590
+Again, I can't pick just one flavor. I love them all. If you'd like to try element, you can go to drink element.com slash Huberman spelled drink L M N T.com slash Huberman to claim a free element sample pack with a purchase of any element drink mix. Again, that's drink element.com slash Huberman to claim a free sample pack. I'm jumping around here, but I feel like these are the questions that are hopefully springing to people's minds here and there. Uh,
+
+46:07.170 --> 46:35.646
+I've seen these videos of babies being born into a swimming pool and that you get on their belly, it looks like the Nirvana cover. And, you know, they seem perfectly happy to be underwater shortly after birth, which makes intuitive sense. They were in the womb, they were floating in the amniotic sac and they're underwater, so to speak. Do we come into this world knowing how to dive and be underwater because of our experience during pregnancy? I mean, it seems like it. I mean, I've seen, you know, if you take –
+
+46:35.874 --> 47:03.998
+babies, and I'm not recommending anyone do this, but like blow in their face, you know, they instinctively hold their breath and can be put underwater. And actually, Bajo, people told me, and I don't know if this is something they actually do, but that the test of a Bajo is as a baby, they pass the baby under the canoe. And if the baby comes out the other side, then it's a Bajo because it has held its breath like it will for the rest of its life. What's the alternative? Yeah. That's why I said I don't know if they actually do this, but it was just something that they told me. Yeah.
+
+47:04.098 --> 47:29.662
+But yeah, I think there is some innate response where we know even as babies to hold our breath. That's fascinating. So what did you discover in this group of incredible divers? So we discovered that they have larger spleens. So, you know, I mentioned the spleen's role in diving. It's increasing your, sometimes people call it a biological scuba tank. You know, it's increasing the amount of oxygen available to you. So, yeah.
+
+47:29.762 --> 47:49.150
+You know, our hypothesis was that they would have larger spleens because a larger spleen presumably means longer diving, safer diving. And so we compared them to a nearby population living in a very similar environment, but with a history of farming. So these are people who live right next to the ocean, but aren't really interacting with it. So, you know, Bajo children are in the water.
+
+47:49.346 --> 48:16.222
+from the moment they're born almost. And then children in this other village didn't know how to swim. And so we found that compared to that village, the Bajo had significantly larger spleens. So their spleens were about 50% larger on average. And this was true for divers and non-divers. So that showed us that it was very likely to be something genetic rather than, you know, the fact that you're diving increases the size of your spleen. But does diving increase the size of the spleen?
+
+48:16.322 --> 48:45.150
+This is a question that I think is still open because in both of the populations where I've measured this, divers and non-divers have the same size spleen. However, other people have shown that, you know, when you train, if you train people, if you recruit people to a study and train them in breath hold diving, their spleens increase in size. So I don't know if it's just that the populations that I've worked with have some kind of genetic factors that override that change. But yeah, open question, I would say.
+
+48:45.922 --> 49:13.214
+I know you've done some work parsing which genes are different in this population and developing some animal models for that and that some of this converges on thyroid hormone. Could you tell us the relationship between thyroid hormone levels that people are fascinated by thyroid hormone, it seems? Everyone either thinks they have a thyroid deficiency or an overproduction of thyroid or they want to increase their thyroid. What is the relationship between thyroid hormone and spleen function as it relates to the
+
+49:13.410 --> 49:42.878
+reduction of these additional red blood cells? The gene that we found that was evolving in the population correlates with higher than average thyroid hormone levels. So not, you know, like clinically hyperthyroid, but higher than average. And this is actually also true for Europeans who are carrying the same genetic variant. You know, we showed in another group of individuals that if you have this gene variant, you have higher thyroid hormone levels and you have a larger spleen. So it's not just something that's true in the C-nomads. And so...
+
+49:43.042 --> 50:12.702
+what we think is going on potentially, and this relates to the work that we did with mice as well, is that because of these higher, I hesitate to say elevated because that's a clinical term, higher than average thyroid hormone levels, people are, you know, the mice, the humans, whoever it is, are producing more red blood cells. And so now whether that's kind of stretching the spleen, you know, because the spleens that we saw in the mice were larger but less dense, or, you know, if there's some other mechanism, we're not completely sure yet. But yeah, it seems like
+
+50:13.378 --> 50:41.086
+these higher than average thyroid hormone levels, at least when the genetic cause was what we saw in the C-nomads, increased the size of the spleen, increased hemoglobin, increased hematocrit, increased red blood cell count. I can think of two general scenarios where having a nice big spleen would be advantageous. One is in the performance enhancement context. You're a runner. Maybe there's a way. I'm not suggesting this as a protocol that, you know, like
+
+50:41.250 --> 51:09.758
+getting your face into some cold water, holding your breath could afford you a kind of a boost. So instead of the scuba tank boost underwater, you're getting the above ground boost in endurance or in strength output. But you said you have to be holding your breath at the same time in order to take advantage of that deployment of red blood cells, which is a little confusing to me because I imagine if the spleen contracts and the red blood cells are deployed into the body, that those are available whether or not your mouth is open or not. Yeah. Yeah. And we don't, I don't think no,
+
+51:09.954 --> 51:35.518
+how quickly the spleen reuptakes those red blood cells, but it does do that eventually. So maybe this is something that would be advantageous for short bursts or something like that. I mean, I think there's a lot that we don't know about the performance enhancing aspect of this, but that's really interesting because the work that we did in the mice where we replicated what we saw in these divers, they had larger spleens, they had higher red blood cell count, but they did not have any change in erythropoietin, which is how we...
+
+51:35.618 --> 52:04.670
+normally think about changes in red blood cell count. This is a drug that was really popular with cyclists for a while. People would self-dose with erythropoietin and it would increase their red blood cell count dramatically to improve their performance. So this is like an erythropoietin independent mechanism of increasing your red blood cell count that could have an advantage in performance, I think. Fascinating. And then the other scenario is for robustness of one's immune system.
+
+52:05.250 --> 52:33.918
+I, for one, don't like being sick. And if there's anything I can do to increase the function of my immune system, including sleep, exercise, sunlight, all those things, but in particular if I feel like I'm traveling an additional amount or not sleeping as well, I'd be willing to do pretty much anything within the realm of reason to improve my immune system vigor. Yeah, absolutely. And if sticking my face in a bowl of cold water 50 degrees for –
+
+52:34.690 --> 52:53.534
+I guess as long as I can hold my breath in the morning is going to potentially afford that advantage. I'm willing to be the idiot that is doing this thing without any specific clinical trial yet. But I'd love to see a clinical trial on this. Oh, absolutely, yeah. Has anything been done to explore how that particular behavior that is –
+
+52:53.986 --> 53:20.958
+generating the dive reflex can afford any enhancement in immune system function? I haven't seen any studies that look at that, but it would be really interesting because, yeah, I mean, like you, I also would do anything to not get sick. And we do see in these populations a lot of older people who are continuing to dive, and there is a seeming health and robustness that I wonder if it's related to the activity of diving itself.
+
+53:21.922 --> 53:50.110
+We have a family friend who's 94. My mom just told me, 94. And my mom said over the phone, she swims four miles a day. And I'm like, there's no way. She goes, no, wait, she swims a mile a day four days a week, which is still pretty impressive. Yeah, swimming a mile is, yeah, that's quite impressive. Four days a week at 94? Presumably that's not backstroke. Some of it's, yeah, I think that, like, is there something to being in water that just generally is good for us?
+
+53:50.306 --> 54:15.582
+I shower, I bathe, but is there something good about swimming or floating or diving just for our general human physiology that we're aware of? Yeah. I mean, it's so low impact and such a natural way to move, to exercise that I think especially as we age, it would be a really wonderful way to stay fit and healthy. Has the size of spleens or rather the
+
+54:15.842 --> 54:39.102
+genes related to what you're talking about. Has that been correlated with whether or not people evolved from coastal versus more central regions of continents? That's a really good question. We haven't looked at that, but it would be really interesting to see because, I mean, you know, the oceans are an incredible resource in terms of food availability, especially to early humans. So you would imagine that
+
+54:39.266 --> 55:07.870
+Anyone living near a coast anywhere would take advantage of this resource. So it would be interesting to see if maybe coastal populations are more likely to carry the genetic variation that enables this behavior. Although there are actually skeletons that have been found in various parts of the world near river systems that also suggest that those people have been diving. So maybe it's just being near water anywhere in the world. I don't think of humans as an underwater species, but you're changing my view of this. I feel like we need to think about humans as some humans...
+
+55:08.130 --> 55:35.518
+in the past and now spend a lot of time underwater without a scuba tank. It seems to be that way, yeah, all over the world. That's super interesting. So this isn't the only population you've studied. If you would, could you tell us about the recent work, the study on women in particular? And I'm very interested in how this relates to cardiovascular health. Yeah. So...
+
+55:35.618 --> 56:05.584
+You know, speaking of older divers, there's a group in Korea on an island called Jeju. These are all female divers. They're called the henyo, which just means sea women. And the average age of the henyo currently is around 70 years old. So that's when I think of robustness with age, I think of the henyo. But this all female diving population has likely been diving in that region for thousands of years. And what's really extraordinary about the henyo, there's a few things. First of all, they're diving
+
+56:05.584 --> 56:29.470
+No wetsuits.
+
+56:29.698 --> 56:49.726
+throughout pregnancy. So they're diving up until the day they give birth sometimes. And then they're back in the water a few days later. So this has really shaped this population in really interesting ways. I was wondering, how deep do they dive? This is a really good question I get asked a lot. How deep do any of these populations dive? And there's just not really data. So we don't really know.
+
+56:49.826 --> 57:15.550
+You know, now we're starting to see, you know, we're looking at the Henio. We actually tracked some of their diving. And their dives tended to be much shallower, you know, not really going any deeper than 10 meters, 30 feet. But they're also in their 70s, 80s even. You know, we had an 81-year-old diver in our study. And 30 feet's not nothing. That's right. We had a 20-foot deep end in the pool, you know, recreational pool near my home growing up. And when you're down at the bottom –
+
+57:15.842 --> 57:40.702
+you feel significant pressure. You can let some air out to relieve some of that pressure, but you're, I mean, 20 feet is 20 feet, 30 feet. And it's not a linear experience, right? With every additional foot, like you're really experiencing more and more pressure. So. Yeah. Yeah. And I shouldn't say it like that. It's just that compared to, you know, the Bajo have been documented to dive deeper than 200 feet deep. Oh, I'm not countering. I was just, I just forsake of people out there who
+
+57:40.866 --> 58:04.318
+perhaps haven't spent time at the bottom of a pool, a 20-foot pool, like 30 feet is still really impressive. Yeah, it's very impressive, yeah. And they're bringing a fetus down that low. Right. I mean, you know, again, there's no documentation of how these women have been diving throughout their pregnancy other than, you know, we know that they were diving throughout their pregnancy. But, yeah, presumably in their youth they were diving to these depths.
+
+58:04.514 --> 58:29.246
+with their unborn child inside them. So it's a really, I mean, when we think about natural selection and evolution, something that's able to act on a pregnant woman has the opportunity to take out two generations if there's not genetic variation there that's protective. So it's like if we want to talk about really fast examples of evolution, it's anything that's acting on pregnancy. And that's what we think has been happening in this population.
+
+58:30.018 --> 58:57.278
+I have so many questions, some of which are cultural, some of which are biological. I'll start with the cultural questions. Why in this culture is it the women specifically that dive? Are they revered? And are they diving for a particular resource that is, well, because it's underwater, presumably is not available elsewhere, but what are they diving for? We don't totally know. I have my own personal theory, which actually relates to the fact that
+
+58:57.442 --> 59:24.894
+In a lot of places with cold water, so in Korea, in Patagonia, in Aboriginal Tasmania, it's all women diving. So I suspect that there's something unique about the physiology of women that makes us better at diving in cold temperatures. Where the men are afraid of the cold. It could be that too. I hear about a lot of guys that will spend dozens of hours picking apart deliberate cold exposure when it would take them a fraction of the amount of the time to get into the water. In my experience,
+
+59:25.474 --> 59:51.934
+This is not a controlled studies. Women are more tolerant of the cold, at least in terms of being willing to embrace it the first time around. Interesting. I have stories of, I won't say which countries, elite special forces. It wasn't the U.S. Guys, in that case it was guys, being terrified of getting into cold water, but otherwise being willing to do very, very challenging and indeed very dangerous things. Right.
+
+59:52.066 --> 01:00:20.606
+I know a woman who first cold plunge 10 minutes. She was just in there. In my experience, women are more willing to get into the cold the first time. And then now there's a lot of debate online about cold tolerance in the two sexes. But I don't – the data aren't really solid there. Right, right. So maybe the men are just afraid of going underwater. It could be. These are some tough ladies, I will tell you that, even into old age. My colleague –
+
+01:00:20.770 --> 01:00:47.902
+Jiyang Lee at Seoul National University, she's been working with them for a very long time. And she did a study where she was trying to find retired henyo. And the only ones she could find were over 100 years old, because they basically don't retire. They just die until they die, essentially. So she had these two women who were about three feet tall who were retired henyo, because those are the only ones she could find. You know, 100 years old? Mm-hmm. As we have this conversation, I think it's very important to remind people that correlation is an
+
+01:00:48.162 --> 01:01:15.518
+causation with all the obsession with longevity and living longer. I'm not going to rule out the possibility that getting into cold water, in particular diving or generating the dive reflex with cold water, doesn't have a longevity effect, but I don't think there's any direct evidence that it does. No, no. And yeah, I mean, it would certainly be interesting to explore, but I don't think there's any evidence so far other than anecdotal. I would love to do that study. Yeah. The problem is that you need to do a very long study. Right. And the other problem with longevity studies is
+
+01:01:16.194 --> 01:01:39.358
+You don't really have a good control group, at least within the subject, because you don't know when you would have died. Right. Exactly. Yeah. Okay. So these incredible women are diving up until their 70s, 80s? 70s, 80s, beyond, I guess. The oldest diver that I've personally worked with was over 80. But yeah, they – and they're – you know, I mean, they're so athletic as they do it. Yeah.
+
+01:01:39.554 --> 01:02:09.520
+But yeah, in terms of are they revered, I think now, yes. I think that wasn't always true. One henyo told me that in her youth, she was kind of embarrassed to be henyo. And a lot of it's because, you know, they're exposed to the sun, so they have darker skin than a lot of other women. They tend to be very loud because a lot of times they rupture their eardrums from diving. You know, if they don't pressurize correctly, you know, they can have hearing damage. So they're known for being very loud. And so, you know, I think there was kind of
+
+01:02:09.520 --> 01:02:25.630
+of a marginalization early on, but now they're recognized as a UNESCO World Heritage intangible site, essentially. And there's just, I think, tremendous respect for the population now. Very cool. What are they gathering down there?
+
+01:02:25.762 --> 01:02:46.270
+They are diving for all kinds of things. They're diving for a sea urchin, abalone. They also harvest seaweed. I've seen them pull up octopus. They'll spear an octopus. And they do it in a very interesting kind of controlled way. Like they're really guardians of their marine environment where they don't, they make sure that they don't,
+
+01:02:46.370 --> 01:03:14.718
+overfish things. So the sea urchin season is very short because, you know, if they overharvest the sea urchin, that population won't replenish. So they have this, you know, system where they really take care of the marine environment. So it's all the proteins again. It's the expensive sushi. Yeah. Umi. I'm still developing a taste for umi. I'm trying, but... When it's fresh out of the shell, there's nothing better. I'm willing to try. Octopus, I have too much an affinity for cephalopods to eat octopus, but
+
+01:03:14.946 --> 01:03:44.734
+I have in the past and it can be delicious. And so it's amazing to me if I step back from these two populations and I think more broadly as well about what people are willing to work for. Humans will work very hard to get protein. It's just kind of incredible how hard they'll work for proteins and lipids combined in delicious form. Yeah. I mean, we're not aquatic animals. Right, right. And they're willing to risk –
+
+01:03:44.962 --> 01:04:10.078
+their lives and the lives of their fetuses to the next generation, right? There's nothing I think that a species tries to protect more than the next generation, one would hope, that they're willing to risk their lives on a daily basis multiple times per day to go collect protein, basically. Yeah, yeah. And in these cold temperatures as well. So do you think between on-land hunting and what you're describing that if we think about
+
+01:04:10.626 --> 01:04:37.854
+homo sapien evolution generally, that a big part of homo sapien evolution as it relates to selection of particular genes to drive particular traits and abilities relates to this thing of just trying to get more protein and fat? I mean, it certainly could. Diet is an incredible driver of selection. So, you know, a very common example of natural selection is lactase persistence. So our ability to continue to consume milk past infancy. And that happened
+
+01:04:37.986 --> 01:05:06.302
+very quickly in multiple different human populations. So it happened in Africa and it happened in Europe. And another example is the Greenlandic Inuit. A huge part of their diet was marine mammals that have really high lipid content. And so they actually evolved to be able to better metabolize those lipids so that it wouldn't kill them from heart disease or something like that. So yeah, diet as a driver of selection is extremely strong. So it may be that this has been shaping our species in ways that we don't even know.
+
+01:05:07.010 --> 01:05:27.198
+interesting. So in this group of Korean women divers, what's going on with their cardiovascular system? You know, earlier we were talking about how this might have implications for oxygen utilization in the brain and body and potential disease treatment ramifications.
+
+01:05:27.618 --> 01:05:51.934
+Yeah, so we found two different adaptations. And I say adaptation, but there's kind of adaptation in a physiological sense, this thing that you can do by training, or adaptation in a genetic sense. And we have found one of each. So the training adaptation that we found was that I mentioned before that when you dive, your heart rate slows down to try to conserve oxygen. So their heart rate through a lifetime of training slows down even more.
+
+01:05:52.098 --> 01:06:17.982
+So we could actually, you could visually see this when they were doing these dives. Watching their heart rate, you could just see it plummeting. We had one individual whose heart rate dropped more than 40 beats per minute in less than 15 seconds. Yikes. So really dramatic. And the reason that we think that that's a training adaptation rather than a genetic adaptation was that it was only true in the divers. So non-divers with the same genetics didn't have this phenomenon. Yeah.
+
+01:06:18.082 --> 01:06:42.462
+So that was, I mean, that has, you know, it's interesting to think about how, what the potential health benefits of that could be. I mean, it's clearly something that you can train. This has also been observed in other competitive breath hold divers. But in terms of how that could benefit your health, I mean, maybe it's good for your heart to have that kind of plasticity in terms of its response. Yeah. When I think about heart rate, I think mainly about autonomic function and again, vagal function.
+
+01:06:43.042 --> 01:07:07.390
+Innervation seems to be a theme there that the vagus is responsible for slowing the heart rate down. Anytime we exhale through respiratory sinus arrhythmia, we essentially slow our heart rate down. It's the fastest way I'm aware of to consciously slow our heart rate down. So as one dives, I guess if they're exhaling, letting out some air, dumping some carbon dioxide, which is probably a good thing if you're a free diver.
+
+01:07:07.874 --> 01:07:33.406
+I don't want to encourage people to do this because it shuts off the gas reflex that would have you jolt to the surface. But assuming no one's going to go out and try this, by dumping air, you're exhaling. Exhaling slows the heart rate, but not 40 beats per minute. Right. Yeah. It's usually a fraction of that. Yeah. And so then we also found this genetic adaptation that we think is driven by the fact that they're diving through pregnancy. So when...
+
+01:07:33.506 --> 01:07:48.414
+Pregnant women have sleep apnea, which is where you hold your breath in your sleep. So it's kind of you can think of it as unintentional diving through pregnancy. They tend to develop these blood pressure-related complications. So like preeclampsia, they're just...
+
+01:07:48.674 --> 01:08:16.159
+They call them hypertensive disorders of pregnancy. And so we think that there's no studies that have shown this yet, but we think that, you know, if you're diving, different kind of apnea through pregnancy, that would also increase your risk for these disorders. And so what we saw was that there was a genetic variant that was actually driving their, like a lowering of their diastolic blood pressure while they were diving. And so we think that this is protective against these hypertensive or high blood pressure effects.
+
+01:08:16.450 --> 01:08:44.159
+That's interesting. So for non-divers, so for pregnant women on land who aren't from this population, the picture I'm getting is they're sleeping on their back perhaps because it's more comfortable as they get very pregnant and their airway is getting cut off at some point. So they're having these hypoxic episodes. And then there's some gasping as the carbon dioxide gets high. This is also, incidentally, what people who are overweight or, by the way, people with very big necks,
+
+01:08:44.290 --> 01:09:13.726
+This is why a lot of big-necked, very lean men die in their sleep. This is a kind of well-known thing in certain sports communities. Okay. It's very tragic. You know, you say, well, this person's, you know, fit, but they're lying on their back. They have big necks and their airway is compressed. If you have a big neck, it doesn't necessarily mean you're going to die early, but make sure you're breathing right at night because sleep apnea is very dangerous. It is, yeah. I think we think of it as just snoring, right? But it's super dangerous. Yeah. You're putting yourself into a state of hypoxemia, so your oxygen is very low.
+
+01:09:14.082 --> 01:09:27.998
+So for pregnant women who are concerned about hypoxia, what are the options that they have besides becoming a diver and joining this incredible community in Korea?
+
+01:09:28.162 --> 01:09:52.286
+Yeah, I mean, I think, well, you know, that's one of the things that we're hoping to find from studying these women. So if they've evolved some kind of protective mechanism that protects them in the case of apnea, maybe that's something we could develop into a therapeutic that could be used to help prevent that same, you know, hypertensive disorder pregnancy in pregnant women who have apnea for other reasons. But otherwise, I would say I think
+
+01:09:52.674 --> 01:10:22.590
+You know, preeclampsia used to be a death sentence for mothers and fetus, you know, which is why it was such a strong driver of evolution. Now I think awareness of it enables treatment, but that's only something that's happened in the last, you know, I don't know how many decades. So that's why it was, it could have been such a powerful force in this population. Uncomfortable topic, but I think an important one. Earlier you were talking about genetic selection and what determines survival of offspring.
+
+01:10:23.490 --> 01:10:43.486
+Is it the case that many miscarriages, if not most miscarriages, are because the mutations that arise would have been destructive at some point postnatally, after birth? So it's a kind of a nature's veto on the genetic program.
+
+01:10:43.810 --> 01:11:11.262
+Yeah. I mean, you know, I'm not a maternal health specialist, but I do know that most mutations create non-viable embryos. And so, yeah, I think that could certainly be driving the early miscarriages especially. So it could be pre-implantation or post-implantation. A mutation arises and somehow the genetic programs of embryology are somehow made aware that
+
+01:11:11.810 --> 01:11:37.566
+down the line, this is going to lead to a stillborn fetus or something. So, I mean, nature doesn't have a conscious logic in the same way that we think, but the genetic decision, therefore, is to stop, is essentially a stop cell proliferation and the pregnancy is terminated. Yeah, because, I mean, a lot of proteins are involved in many, many systems. And so if you have a mutation that's
+
+01:11:37.698 --> 01:12:01.886
+problematic in one of those proteins that's involved in all these different systems, it's just going to start to go haywire very early on. I'm very curious about how these genetic adaptations and how they relate to behavior impact organs versus things on the surface of the body that we can see versus both. I don't know if this is true, but long ago I heard that
+
+01:12:02.114 --> 01:12:30.110
+And I don't want to scare anyone because it's not true in every case. I'll repeat, it's not true in every case. But I was told by a friend of mine who's a physician that a lot of the wine spot pigmentation of the surface of the body, like a baby will come out with a very dramatic like wine spot pigmentation of part of the face or the head, sometimes, not always, is correlated with mutations in internal organs. And this is... So... And this is...
+
+01:12:30.690 --> 01:12:59.070
+having run a mouse lab for a long time, you study mouse mutants, mice that overexpress or lack or are hypomorphic for a particular gene. And you learn as you work with one of these populations that oftentimes the mutation that impacts, say, retinal development, for which I need to take the retina out, look at it under a microscope and find which cells are miswired or something like that, correlates with something on the surface of the body where you go, oh yeah, the ones with the curly tails,
+
+01:12:59.202 --> 01:13:23.710
+Those are the ones that are likely to be the mutants. You still have to do the genotyping. You still got to send out DNA and, you know, or analyze DNA. Nowadays you send it out. But in the old days we genotyped our own mice. And what you find is that oftentimes there are these peripheral markers of central issues. I'm also interested in the inverse of that where there are peripheral markers of central advantages. Mm-hmm.
+
+01:13:23.874 --> 01:13:45.726
+So in these populations that you studied, they have these larger spleens or this ability to dive deeper and longer can overcome hypoxia through a drop in heart rate. Is there anything about their external appearance that isn't about soft feet or exposure to the sun that tells you like this population is different? They look different in ways that
+
+01:13:45.986 --> 01:14:10.814
+we don't expect different populations to just look different. Does that make sense? Yeah, absolutely. Yeah. And I mean, you know, to your point, like the phosphodiesterase that we found that was evolving in the Bajo, phosphodiesterases are involved in so many different functions. And so there's, you know, there are chances for these mutations to affect not just the systems that we're interested in, but other systems as well. I mean, in both populations, the people look
+
+01:14:11.234 --> 01:14:39.422
+incredibly fit and athletic, and they tend to have just a very robust appearance. Now, is that because they're diving every day, and there aren't that many 70-year-old women who are jumping off a boat every day to go to work? Or is it something related to their genetics? I don't think we know yet, but it would be really interesting to look into that more. The reason I ask this is that, as we were discussing at the beginning of today's conversation, mate selection is
+
+01:14:39.810 --> 01:15:08.990
+think of the, they smell so great. We like them for this reason. We like them for that reason. And there's the conscious choices that we're making. And then there's all the stuff working below our level of consciousness. Like, oh, they smell great. And you're actually selecting, at least in part, for their immune system and the potential immune system of offspring. Even if you decide you never want to have children with this person for whatever reason, this stuff is happening in parallel, consciously and unconsciously. And so when I think about, you know, the
+
+01:15:09.090 --> 01:15:38.942
+the special abilities of different populations at the level of internal organs, like a spleen ability. You also have to wonder if this is represented at the level of, you know, I don't know, like the... I mean, it could be anything, right? I mean, it could be the ones with the better spleens have really nice hands. I mean, and you don't think about it. You don't think to correlate those things. But as in the example I was discussing with the mice in a laboratory, when you get mutations that you know impact an internal organ...
+
+01:15:39.138 --> 01:16:07.934
+almost always there's something about, you know, they might have a particular fur pigmentation pattern, assuming it's a whole body mutation. Or sometimes they'll have like one webbed toe or they'll have a pinkies that, pinkies, it's mice. They have a little back paw digit that faces in, not out like the others. And so you learn when you work with these things to say, those are the good ones. Those are the mutant ones. Or in some cases, those are the good mutant ones. Right? And I think as
+
+01:16:08.098 --> 01:16:33.758
+humans, we don't tend to do this consciously. It's not how we're trained to think, thank goodness. That would complicate all the dating apps. People would have to show their digits and Lord knows what else. But human mate selection is in part genetic selection. So what are your thoughts on this in terms of how these things correlate with human choice and behavior? I'm asking you to speculate here, obviously. I think that certainly, you know, I mean,
+
+01:16:33.922 --> 01:16:53.630
+We know that these populations have been evolving. We have theories as to what is driving that selection, but there, I mean, could be sexual selection. It could be, like you're saying, like that people carrying this genetic variation that happens to also make them a good diver in ways that we expected to find also make them more attractive in ways that we weren't even looking for. And, you know, we weren't even...
+
+01:16:53.794 --> 01:17:19.230
+Thinking about pregnancy, really, when we started the study with the Henio, it wasn't until we got these results and we're saying, you know, what is this difference in blood pressure? And speaking with maternal health specialists that we really pieced it together. So I think it's the kind of thing where, yeah, you just, you don't even really know necessarily all of the pieces of the puzzle. And that's where it's a lot more questions for us to ask in the future. I'd like to take a quick break and acknowledge one of our sponsors, Function.
+
+01:17:19.330 --> 01:17:24.510
+Last year, I became a function member after searching for the most comprehensive approach to lab testing.
+
+01:17:24.802 --> 01:17:54.768
+Function provides over 100 advanced lab tests that give you a key snapshot of your entire bodily health. This snapshot offers you with insights on your heart health, hormone health, immune functioning, nutrient levels, and much more. They've also recently added tests for toxins, such as BPA exposure from harmful plastics, and tests for PFASs, or forever chemicals. Function not only provides testing of over 100 biomarkers key to your physical and mental health, but it also analyzes these results and provides insights from top doctors who are
+
+01:17:54.768 --> 01:18:22.750
+expert in the relevant areas. For example, in one of my first tests with Function, I learned that I had elevated levels of mercury in my blood. Function not only helped me detect that, but offered insights into how best to reduce my mercury levels, which included limiting my tuna consumption. I'd been eating a lot of tuna while also making an effort to eat more leafy greens and supplementing with NAC and acetylcysteine, both of which can support glutathione production and detoxification. And I should say, by taking a second Function test, that approach worked.
+
+01:18:22.850 --> 01:18:38.110
+Comprehensive blood testing is vitally important. There's so many things related to your mental and physical health that can only be detected in a blood test. The problem is blood testing has always been very expensive and complicated. In contrast, I've been super impressed by function simplicity and efficiency.
+
+01:18:38.210 --> 01:19:07.358
+at the level of cost. It is very affordable. As a consequence, I decided to join their scientific advisory board and I'm thrilled that they're sponsoring the podcast. If you'd like to try Function, you can go to functionhealth.com slash Huberman. Function currently has a wait list of over 250,000 people, but they're offering early access to Huberman podcast listeners. Again, that's functionhealth.com slash Huberman to get early access to Function. As long as we're talking about dieting underwater as a,
+
+01:19:07.618 --> 01:19:20.414
+Vision scientists, that's where my initial training was. I have to ask about vision underwater. Do these two populations use goggles? So now they do. Okay.
+
+01:19:20.706 --> 01:19:47.870
+I mean, you can imagine goggles haven't been around that long. So at some point in the past, they didn't. And this was, you know, the study that first got me interested in this was a study done in Mokin children, where I think it was literally a researcher who was on vacation in Thailand, noticed these little kids diving for things and, you know, having this ability to see underwater and set up an experiment and had European children and Mokin children diving to look at things underwater. And the Mokin children had
+
+01:19:48.162 --> 01:20:15.614
+better eyesight underwater than the European children. Now, that same researcher, after publishing this paper, went back to Europe and trained European children to do the same thing, essentially, to perform at the same level as these Mokin children. And so, you know, there was this kind of dismissal, like, oh, well, you can train Europeans to see underwater just as well, so it must not be evolved. It must not be genetic. It has to just be training. But I think that's a logical fallacy that has
+
+01:20:15.746 --> 01:20:43.902
+stopped a lot of or has prevented a lot of research from being done in these populations. Because just because you can train someone to be at the same level, you know, as someone else doesn't mean that that person didn't have an advantage. And so I think that's, yeah, I mean, definitely there's a difference in their vision. And what causes that? I think we still don't know. So interesting. I'm just going to take one minute and explain to people the underwater thing, because I find it fascinating that
+
+01:20:44.130 --> 01:21:13.566
+the surface of the eye is rounded, obviously. People get that. And that's what allows you to refract, to bend the light to a single point so that things look nice and crisp. And when you're underwater, the water essentially fills in the roundness around it. The air does, of course, above water as well. But because of the similarity and basically the density of the water and the surface of the eye, even though they're different, you get less of a bending of the light to a point.
+
+01:21:13.698 --> 01:21:33.822
+So the reason I'm saying this, the reason I'm giving this very crude lesson in optics is there were really two possibilities. One is that kids that dive a lot in their youth have a flatter eye, right? If you think about a goggle or any kind of underwater seeing device, you're basically putting air between the eye and the water and you're making it flat.
+
+01:21:33.922 --> 01:22:02.654
+So the idea that the eye would become more flat through diving isn't inconceivable. I suppose it could happen. But it makes perfect sense to me as to why the European children could do this also, because you train it enough. It turns out it's the ability to constrict the pupil down really, really small that can account for this adaptation. Me tienes contento. No sé por qué no paras de subirme el precio del seguro cada año. Es que parece que estoy escuchando un podcast de misterio. Pues yo me voy a la mutua.
+
+01:22:02.946 --> 01:22:30.782
+So, I wouldn't have thought that diving underwater and learning to pick up small objects underwater would make the eye more flat, kind of like wearing a goggle underwater. But the point you make is an extremely important one because if you take a population that is already...
+
+01:22:31.042 --> 01:22:56.926
+afforded some sort of potential genetic advantage and you train them even further, that's when you get X-Men-like behavior. And this is really all about the X-Men, right? And women, as you clearly pointed out. And I think that brings us to this question of like human super performance. I think about the fact that almost always when I see a marathon winner nowadays and
+
+01:22:57.442 --> 01:23:23.326
+I think about, is it Elliot Kipchoge? Sorry, normally I don't bring him into the frame consciously here for the audience here, but my producer and business partner at the Human Lab podcast is a triathlete. What is the guy's name? Elliot Kipchoge. Elliot Kipchoge set the marathon record with mile times on the order of? 435. 26.3.
+
+01:23:24.002 --> 01:23:50.142
+26.2 miles at somewhere in the four and a half minute mile pace continuously. Incredible. So he represents among the pinnacle of that sport. Almost always when we see these incredible endurance runners, they seem to descend from specific regions of the world. Can we talk about why that's so? Are they inheriting some sort of red blood cell trait? Is it the light bonedness combined with that?
+
+01:23:50.242 --> 01:24:18.910
+What leads to incredible human performance? I know you're a runner. Your husband's a runner. So like how much hope is there for the rest of us? And why is it that folks like Eliod are so unbelievably spectacular? You know, I would love to look at that scientifically. He's absolutely incredible. I mean, breaking the two-hour marathon record is also just unbelievable. But I think there have been, you know, I'm not as familiar with this literature, but there have been studies looking at the
+
+01:24:19.042 --> 01:24:31.166
+the proportion of like bone lengths in certain parts of Africa, especially. It's also interesting to note that a lot of these really talented runners come from Ethiopia, where there are highland areas.
+
+01:24:31.266 --> 01:24:58.494
+areas where humans have actually adapted to altitude. So in addition to some of these like biomechanical advantages, they may actually also have physiological advantages that enable them to run faster. But yeah, I think this is an excellent example of there's clearly something biological making people from this part of the world, you know, really excellent runners. And just because you can train a European runner to compete at nearly the same level, that doesn't mean that there's not something special about it.
+
+01:24:58.690 --> 01:25:27.390
+people like Kipchoge. And so, you know, this comes up a lot with the Bajo as well because people say, oh, well, you know, they don't hold the free diving depth record. It's like, well, yeah, but they're not training to hold that record. You know, they're training, they're diving just to collect food for their families. They're not training. So what would happen if we did train them? And I think it's, yeah, it's a great point. If we take this out of the realm of physical performance and we take it into cognitive performance,
+
+01:25:27.810 --> 01:25:55.262
+mathematical performance. I feel like there's some fun thought experiments we could do. Before we started, you were talking about your time at Princeton as an undergraduate, seeing John Nash, you know, famed for sadly having schizophrenia, diagnosed schizophrenia, the topic of the movie Beautiful Mind with Russell Crowe, but at the same time having incredible abilities based on
+
+01:25:55.394 --> 01:26:24.030
+presumably things that either correlate with or just by chance run in parallel with the schizophrenia. Who knows what's driving what or if they're in parallel. We have examples, again, I'm pulling from movies like Rain Man where there's a person has autism of a type that makes social interactions very challenging. But in that example, which is I think representative of at least some people with autism,
+
+01:26:24.130 --> 01:26:49.726
+extreme mathematical calculation abilities, especially in the physical space, being able to see things and count them very rapidly. Last example I'll give is there's this math competition held in India where the kids can update the numbers by moving their hands with a sensor on it, and they're adding the numbers very fast. And you just see this kid basically spooling numbers, spooling numbers, spooling the numbers. At the end, they get one opportunity to answer the addition of this
+
+01:26:50.050 --> 01:27:19.486
+immensely long string of numbers correctly, and this kid nails it. And you go, whoa, like he's adding things very fast, presumably through some training. But is it possible? Is it within the realm of reality, based on what we know about human genetics, that there could be genes that select for, say, rapid updating of visual scenes combined with short-term memory or whatever duration of memory is required that would afford certain people –
+
+01:27:19.810 --> 01:27:42.078
+certain advantages in this based on inheritance that's then combined with training. Much in the same way that the ability of the spleen to expand if you dive a lot and you happen to be born in one of these communities that we've been talking about. Is that possible? Yeah. I mean, I think certainly, you know, I mean, there's an interesting correlation between like
+
+01:27:43.010 --> 01:28:12.318
+between people in STEM fields and having family members with autism. And so I was actually at a lecture in Princeton where the professor asked the incoming class of students, you know, how many of you have a family member with autism? And then of those, you know, and he displayed the statistics, how many of you are joining the engineering department? And it was, you know, it was much higher amongst engineers. And he explained that this can have to do with the fact that, I mean,
+
+01:28:12.546 --> 01:28:40.510
+people on the spectrum tend to have an ability to hyper-focus. And that actually makes you, you know, the ability to really kind of narrow yourself to this one thing can make you a really good engineer. And so in that way, it's, you know, it's a huge advantage because it's allowing you to succeed in that field, you know, depending obviously where you are on that spectrum and how that affects you in other ways. And so if that in some way is giving you an advantage, you know, why wouldn't it be selected for? Of course, there are other ways that it could be a disadvantage. But,
+
+01:28:40.610 --> 01:29:05.406
+Oliver Sacks, I think, wrote about how people with Tourette's may have faster processing speeds. And so, again, maybe this is a place where, you know, that is advantageous despite the other disadvantages that might come along with having that syndrome. Huge Oliver Sacks fan here. I'm sort of becoming a historian of him, an informal historian. And he also loved to spend much of his time underwater. Yeah.
+
+01:29:05.602 --> 01:29:28.894
+Oh, did he? I didn't have that. Yeah, he was an avid diver and snorkeler and scuba diver. And I think in part, he said, because it was so quiet down there. Incidentally, he had prophesagnosia. He couldn't recognize faces. I think I have that right. I've known a few other people with that. And prophesagnosia, the inability to recognize faces, also seems to correlate with this...
+
+01:29:29.154 --> 01:29:55.550
+for lack of a better way to put it, kind of nerdy, quirky phenotype. A former advisor of mine had this. Although in part I thought he told us that because then it gave him an out anytime he couldn't remember somebody's name. The disorder. Yeah, it's a great thing to put forward. Yeah. If you can't remember people's names, no disrespect to the actually clinically diagnosed people with prophesignosia. It gets you out of a lot of having to remember things. Yeah, I find this fascinating because in this day and age of –
+
+01:29:55.682 --> 01:30:24.990
+pathologizing everything. It's interesting to take, as you just did, and I really appreciate it, taking a step back and saying, yes, there are instances where people on the spectrum have, you know, they need assisted living their entire lives. But there are also people who are living, you know, incredibly productive lives, even making incredibly enormous, meaningful, and uniquely meaningful contributions to society who we would say are probably on the spectrum. And so the question then becomes, to what extent is it
+
+01:30:25.666 --> 01:30:48.990
+genetic? To what extent is our genes driving a proclivity for numbers or a proclivity for engineering? And on the opposite side, like our great creatives, are they carrying a different set of genes or are they just the ones that can't pay attention to anything so they start throwing things together? You know, that was a joke against the creators. It's interesting because it becomes a really difficult thing to test because how do you –
+
+01:30:49.090 --> 01:30:59.390
+you measure creativity in a way that you could then link to genetic information. So a lot of these kinds of understandings of genes come from things called genome-wide association studies, where essentially they
+
+01:30:59.842 --> 01:31:29.822
+form a correlation at every site in the genome to see which of these sites correlate statistically with whatever phenotype it is. So whether that's, you know, kidney disease or, you know, creativity. But you have to have a really good way of quantifying that trait. So, you know, creativity is nearly impossible to quantify. Something like, you know, mathematical ability, there's so many potential environmental, you
+
+01:31:29.858 --> 01:31:57.470
+it also becomes quite difficult to quantify and therefore difficult to find any genetic factor that's contributing. It's so interesting how we classify intelligence. And some years back, there was a lot of debate about IQ versus emotional intelligence. But there's this wonderful documentary. By the way, there's several movies by this title, but the one I'm thinking of is the documentary Spellbound, which is about the spelling bee competition. And
+
+01:31:57.602 --> 01:32:23.774
+It was the case for a long time that how well and how quickly kids could remember to spell certain words was thought of as some important correlate of intelligence, which is kind of crazy now in the day – an age of autocorrect and things like that. But one could argue that being able to spell is an interesting one. But the different kids that they detail, one from a farming community, one from a community where the parents were really hard driving about academics, it –
+
+01:32:24.578 --> 01:32:49.150
+the entire representation of every kind of background you can imagine. Different types of parents, blue collar parents, highly educated parents, boys, girls, one set that's clearly on the spectrum and you see it in the family. You can see that. And everything in between. And what you come to realize is that training effects are very real. Like if you take a kid in particular and you give them an activity and they repeat that activity –
+
+01:32:49.282 --> 01:33:19.070
+no surprise here, they get very good at that, but it also narrows the number of things that they can also be good at. This is what I think we forget about neuroplasticity is that the choice to get very good at one thing is also the choice to not get good at a bunch of other things. So when you step back, and I'm not going to ask you for parenting advice, but when you step back and you think about what you know about human genetics, is there a kind of a... Assuming one doesn't have to hunt for their food the way these populations you've been studying do...
+
+01:33:19.266 --> 01:33:34.398
+Is there a kind of a optimal way to think about kind of genetic bias and what we perhaps should focus on? Or are you a equal opportunity to get after whatever interests you the most kind of person? I mean, you know, there's like companies where you can...
+
+01:33:34.818 --> 01:34:03.742
+yourself to find out what kind of athlete you should be. And I think that kind of gets into something called genetic determinism, which is this idea that your genes determine everything about you, which we know isn't true. We know that it's a combination of, you know, genetic factors, environmental factors, all of these different things. But I think it's interesting how much the idea that we're genetically predisposed to something or, you know, we're genetically better at something can actually influence how we are
+
+01:34:03.842 --> 01:34:30.238
+that thing. So we talked a little bit before about, you know, there was a study where they told people, they said, we're going to take your DNA, we're going to genotype you, we're going to find out, you know, whether if you train, you're going to get faster or whether it's not going to affect you at all. And so they did that and they put people into these groups and then they tested them after a few months. And the people who they told were going to do better did better. And this was like something they can measure at the
+
+01:34:30.434 --> 01:35:00.382
+at the biological level. They could measure specific molecules that had changed in that population of people compared to the other group of people. Now, the trick was that there was no difference genetically between these groups. It was just what they were told. So it's really interesting to think about, you know, if you tell a child what they should or shouldn't do based on, you know, their genes, I think that's a really dangerous thing. Or potentially you could motivate them through that. So interesting. I mean, I think mindset effects are
+
+01:35:00.514 --> 01:35:23.710
+so important, under discussed. I'm so glad this is coming up. Allie Crum was a guest on this podcast and she shared with us some incredible data on it. You know, you tell people that stress is good for them, you stress them out, their health improves. You tell people stress is bad for them, you stress them out, their health gets worse and on and on. There's just so many examples of these.
+
+01:35:24.610 --> 01:35:51.582
+Most of the time people aren't taking a genetic test to determine whether or not they're likely to be good or bad at something. They're looking at their family photos or they're looking at their parents or their grandparents. This is the old version of genetic information. Sure. And I'm guessing here too one should be very cautious. If your parents weren't athletes, does that mean that you don't have the genes to be a great athlete? Clearly the answer is no. Yeah. Right? Yeah. Likewise for intellectual pursuits. We really –
+
+01:35:51.714 --> 01:36:20.670
+have very little evidence that intelligence is heritable. So I think that's a big one, especially if you feel like you're not coming from a very intelligent family, that doesn't mean anything really based on what we know currently. What about rhythm and dancing ability? Oh, man. I don't know, but I'll tell you, I did not inherit any rhythm from my dad. I didn't inherit any rhythm from my dad or my mom. Although my dad is a bit more...
+
+01:36:20.770 --> 01:36:50.462
+musical by virtue of being more mathematical. But that is not the same thing as dancing ability. I don't know if we have any truly bad dancers in our family, but we have at least one with exceptional rhythm and ability. She happens to be adopted. So there you go. There you go. That's a different version of genetic variation. And an important one in the sense that it's a cross-fostering experiment. Exactly. To put it in animal laboratory terms. Mm-hmm.
+
+01:36:50.818 --> 01:37:18.238
+If you don't mind, I'd like to talk about the ethics of genetics and genetic engineering. A few years back, a guy in China running a laboratory used CRISPR to modify the genome of babies. I believe he mutated the HIV receptor. I believe it wasn't to prevent them from contracting HIV under any circumstances, but rather
+
+01:37:18.626 --> 01:37:47.614
+the relationship between the HIV receptor and some things related to human memory. That was the speculation. There was very little known about this because this was happening in China in a kind of a closed format. It wasn't published in a peer-reviewed journal, but he showed up at a human genetics meeting and he announced to the world that he had genetically modified babies through the use of genetic engineering. Now on the backdrop of this, up until now, we've basically been talking about genetic selection through partner selection, through all sorts of things. So there are
+
+01:37:47.842 --> 01:38:14.910
+of indirect ways to genetically select. I think people forget that. But here we're talking about deliberate gene insertion or removal in embryos, creating genetically modified humans. After he did that, there was a sort of pause, as I recall, I was paying very close attention to this, as to whether or not the international community of genetic ethicists and scientists would say, wow, this is
+
+01:38:15.362 --> 01:38:44.414
+a feat of human engineering that could prevent disease, et cetera, et cetera, or they were going to chastise him. And it turned out they chastised him. And as it were, we were told that he was actually put into prison. Now, whether or not that prison included a laboratory, we don't know, right? We have no idea. And there were a few other countries that chimed in and said, oh yeah, you know, programs like this have actually been underway elsewhere for a long time. And then it just went silent.
+
+01:38:44.610 --> 01:39:14.398
+Right now, the idea of the use of CRISPR to improve babies or to protect them against potential diseases is not commonplace. Or if it is, it's not discussed. What are your thoughts on the use of CRISPR to protect children from certain diseases? Let's just put it in that domain. And then, of course, we could talk about the misuse of this. But, you know, you could think of parents who are maybe carrying a mutation.
+
+01:39:15.170 --> 01:39:41.790
+They don't want their kids to have Huntington's, for instance, and you could potentially fix that gene. So I'm just going to cast all of that out there to give the kind of backdrop and get your thoughts. And there's clearly no right or wrong answer here, but this is very likely to be a big topic in the upcoming decade. Yeah, I mean, it's a really great question, and I think one without a very good answer at this point. I think one of the things holding back this discussion up till now is that
+
+01:39:42.402 --> 01:40:11.838
+CRISPR is still a little bit of a blunt tool. The way that we're applying it isn't as precise as we'd like it to be to do the kind of gene editing that you would need to protect babies in the way that you're describing. There are things like off-target effects, they say. You're trying to edit one very specific part of the genome, but it ends up editing places that you didn't intend it to edit. That's one of the issues, I think, technologically that it
+
+01:40:12.034 --> 01:40:40.926
+I think if I remember right when that happened, people were a little bit like that technology isn't ready to be used in that way yet. But of course, that's something that is changing really rapidly. We're getting so much better at this. We're able to do it successfully in lab animals. And so, yeah, ethically, I mean, it's just, I think it's also interesting to think about, you know, enhancement versus, you know, like correction. Like at what point
+
+01:40:41.378 --> 01:41:02.590
+where is the line between those two? So if we're correcting some kind of genetic defect, first of all, some defects, other people might not even see them as defects. They might just see that as variation amongst humans. So where is the line between defect, normal, enhanced? And so it's, yeah, I don't know who would make those decisions.
+
+01:41:02.722 --> 01:41:30.686
+once the technology is even available to apply that in unborn children. I mean, of course, it would be a dream to prevent disease using these technologies, but it's a slippery slope maybe. Yeah, there's a lot of debate right now online about some of these companies that allow for a deep sequencing of embryos. In particular, in cases of IVF, there's a company, I believe it's called Orchid up in the Bay Area that's kind of foremost in this where
+
+01:41:30.850 --> 01:42:00.670
+You know, typically for IVF or even for a natural pregnancy, there'll be an analysis of like, is there trisomy? Like, you know, extra chromosomes, which we know can lead to Down syndrome, et cetera. But these companies for a price offer deep, deep sequencing of genes that correlate with, like they're not causal in many cases. Sometimes yes, but oftentimes correlate with, you know, potential spectrum phenotypes.
+
+01:42:00.770 --> 01:42:27.870
+or things of that sort, cancer susceptibility, BRCA mutation. I know several people, unfortunately, that died from cancer and they carried BRCA mutations. So this is real stuff. I think that the challenge for a lot of people is that as it stands now, it's very costly. So it sets up a scenario where wealthy people can afford to analyze embryos
+
+01:42:28.450 --> 01:42:55.006
+more vigorously than people who don't have the means to do it. But if we look back 10, 20, 30 years, you know, getting your whole genome sequenced in the early 90s, was it when Venter and those guys first nailed that ability? Something like that. I'm just thinking 90s sometimes. Okay, maybe I'm a little early or a little late on that one, but it was extremely expensive. But now it's like, what, 100 bucks?
+
+01:42:55.298 --> 01:43:23.678
+or even free in some cases. Yeah, depending on the coverage. Yeah, you can sequence a genome for pretty cheap these days. Yeah, so most technologies tend to advance that way. So it gets back to also this issue of how much information do you want. And so I guess given your training and understanding of human genetics, there's obviously no one-size-fits-all answer. But when it comes to understanding how much control to exert,
+
+01:43:24.002 --> 01:43:49.598
+over the genome. Where do you land on this? I'm not trying to put you in the hot seat here. I think people are going to hear more about these technologies and just want to understand how to frame them. Yeah. Well, first of all, for context, I only have dogs, so I don't have to think about this in terms of human babies. But yeah, I think say you get your baby's genome sequenced and that baby is going to be blind.
+
+01:43:50.242 --> 01:44:15.326
+Is that a problem? You know, a lot of blind people would say no. So, you know, I think it's such a personal question. I think that's a great answer. I think it's a really hard question to answer for any of us. I appreciate you being able to look at it and consider it. Dog genetics is fascinating. The selection seems to be for phenotype but also behavioral type. Yes. Which is...
+
+01:44:15.458 --> 01:44:44.574
+Fascinating. Yeah, my fur babies were 100% selected to be cute. That was the basis? It was the eye contact? Yeah, I mean, actually, literally, one of my dogs is a type of dog that was bred to be a companion. So the only thing that they selected for was cuteness and companionship. This is the Bolognese? Yes, that's right, yeah. There is a dog named after the spaghetti sauce or vice versa. Yeah, named after Bologna in Italy. Oh, right, no, I was joking. Tell us, what is the breed of dog? Bolognese. And it's a mix between?
+
+01:44:44.706 --> 01:45:14.462
+It's in the family of like the Maltese, Spichon, Catone family. So these little fluffy white dogs that are in Renaissance paintings sitting in the laps of royalty. It strikes me that whether or not we're talking about Mendel's peas in the garden, whether or not we're talking about dogs, whether or not we're talking about corn varieties, or we're talking about humans, that for some reason we like to underestimate
+
+01:45:15.618 --> 01:45:44.606
+the power that genes and natural selection have. And behavioral selection, I guess, is the more appropriate term, right? I'm very curious about this concept of admixing. If you could explain what admixing is. And what I'm getting at here is probably the biggest question for me, which is, are we all really one species? I mean, I like the idea that we are all one, collective consciousness and unity and peace on earth, awesome. But really in a serious sense,
+
+01:45:45.026 --> 01:46:14.174
+Homo sapiens, one species, I mean, there's a lot of genetic variation. And so if you could explain ad mixing, and if you're willing to go out on a limb and address whether or not there might be multiple species of primates walking around that we say, oh, that's a person, but they might be that much different than us. Yeah. So starting with ad mixture, ad mixture is just when different ancestry populations mix. So it's, you know, it's kind of this relative term because, you know, if we're all
+
+01:46:14.306 --> 01:46:32.798
+descended from one ancestral population, then maybe we all have one ancestry. But I always like to put it in the context of myself. So my dad is 100% Italian. My mom's a mix of Northern European. I am an admixed individual, if you think about it that way. And the reason that this is important in genetic studies is that
+
+01:46:32.994 --> 01:46:55.582
+if I claimed to be Italian and were included in a genetic study of Italians, the genetic variation that I have coming in from my mom's side would confuse that analysis. So admixture creates a ton of problems when we try to do genetic analyses. And so that's generally why we try to quantify it in genetics. But yeah, you know, when we're talking about
+
+01:46:55.810 --> 01:47:24.510
+It depends on kind of what scale, because I'm 100% European, so in that way I'm not admixed if we're talking on the scale of continents. So it becomes kind of a blurry concept of admixture depending on what level we're looking at. But as to your question of whether we are all one species, I would say I've actually, this is not the first time I've been asked this, especially given these, you know, we call them superhuman populations, these people who have these extraordinary abilities, extraordinary species,
+
+01:47:24.674 --> 01:47:27.966
+physiology that makes them really good at what they do.
+
+01:47:28.194 --> 01:47:58.160
+I think the thing to keep in mind is that some of that variation can come from just a single base pair difference. I mean, a lot of times it's multiple genetic changes that create the differences between individuals. But like when you think about, you know, eye color, that's just one genetic variation or genetic variant in some cases, like the case of blue eyes, you know. So you could be exactly the same as someone else except for this one change out of 3.5 billion, you know. So does that, like at what point do we need enough genetic diversity
+
+01:47:58.160 --> 01:48:22.846
+to call a group of humans a different species. And I don't think that's something that we see anywhere on the planet that I know of. Well, this has been incredibly illuminating. I've learned so much, and I know everyone listening has as well. I don't think we've ever had a discussion about these topics on this podcast in a solo episode or guest episode. You're truly the first person to come on here and talk about human genetics and
+
+01:48:22.978 --> 01:48:51.678
+And these incredible populations that you study are not only interesting in their own right, but they really shed light on the interplay between culture, selection, behavior, genetics, and basically what's possible in terms of human potential. And they also have important relevance to human disease, as you mentioned with the hypoxia work. And it also shines light on something that I don't think we can get enough of,
+
+01:48:51.938 --> 01:49:21.790
+which is the incredible things that humans are capable of in these very different populations that grew up and continue to exist in ways that are so different than us. I think it can't help but turn the mirror on ourselves and ask ourselves, what are we doing in our daily lives behaviorally? How might that be impacting our genes? And to start to speculate about that in constructive ways. So I just really want to thank you for coming here today and sharing your knowledge for the incredible work that you're doing.
+
+01:49:21.890 --> 01:49:40.094
+be honest, I'm envious if I were ever going to do a sabbatical. I don't think I'll ever have time to take the sabbatical that I've been accruing. But if I ever did, I'd love to study one of these incredible populations and try the free dive thing. It's really wonderful work and it's having a huge impact. It's in the news often of
+
+01:49:40.322 --> 01:50:07.198
+we'll put links to and recently as well. I'm not going to ask you what you're on to now and what's coming next because we'll save that for a future installment. But I just want to really extend my gratitude and on behalf of myself and all the listeners, thank you so much for the work you do and for educating us. Thank you so much for having me and you're welcome in the field anytime. Awesome. I'll take you up on that. Thank you for joining me for today's discussion with Dr. Melissa Alardo. To learn more about her work, please see the links in the show note captions.
+
+01:50:07.458 --> 01:50:37.424
+If you're learning from and or enjoying this podcast, please subscribe to our YouTube channel. That's a terrific zero-cost way to support us. In addition, please follow the podcast by clicking the follow button on both Spotify and Apple. And on both Spotify and Apple, you can leave us up to a five-star review. And you can now leave us comments at both Spotify and Apple. Please also check out the sponsors mentioned at the beginning and throughout today's episode. That's the best way to support this podcast. If you have questions for me or comments about the podcast or guests or topics that you'd like me to consider for the Huberman
+
+01:50:37.424 --> 01:51:01.662
+lab podcast please put those in the comments section on youtube i do read all the comments for those of you that haven't heard i have a new book coming out it's my very first book it's entitled protocols an operating manual for the human body this is a book that i've been working on for more than five years and that's based on more than 30 years of research and experience and it covers protocols for everything from sleep to exercise to stress control
+
+01:51:01.794 --> 01:51:21.790
+protocols related to focus and motivation. And of course, I provide the scientific substantiation for the protocols that are included. The book is now available by presale at protocolsbook.com. There you can find links to various vendors. You can pick the one that you like best. Again, the book is called Protocols, an Operating Manual for the Human Body.
+
+01:51:22.146 --> 01:51:52.112
+And if you're not already following me on social media, I am Huberman Lab on all social media platforms. So that's Instagram, X, Threads, Facebook, and LinkedIn. And on all those platforms, I discuss science and science-related tools, some of which overlaps with the content of the Huberman Lab podcast, but much of which is distinct from the information on the Huberman Lab podcast. Again, it's Huberman Lab on all social media platforms. And if you haven't already subscribed to our Neural Network newsletter, the Neural Network newsletter is a zero-cost monthly newsletter that includes podcast summaries as well
+
+01:51:52.112 --> 01:52:21.822
+as what we call protocols in the form of one to three page PDFs that cover everything from how to optimize your sleep, how to optimize dopamine, deliberate cold exposure. We have a foundational fitness protocol that covers cardiovascular training and resistance training. All of that is available completely zero cost. You simply go to HubermanLab.com, go to the menu tab in the top right corner, scroll down to newsletter and enter your email. And I should emphasize that we do not share your email with anybody. Thank you once again for joining me for today's discussion with Dr. Melissa Lardo.
+
+01:52:21.922 --> 01:52:26.622
+And last, but certainly not least, thank you for your interest in science.

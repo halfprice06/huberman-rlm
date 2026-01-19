@@ -1,0 +1,247 @@
+WEBVTT
+
+00:00.226 --> 00:28.958
+Welcome to Huberman Lab Essentials, where we revisit past episodes for the most potent and actionable science-based tools for mental health, physical health, and performance. I'm Andrew Huberman, and I'm a professor of neurobiology and ophthalmology at Stanford School of Medicine. This podcast is separate from my teaching and research roles at Stanford. It is, however, part of my desire and effort to bring zero cost to consumer information about science and science-related tools to the general public.
+
+00:29.186 --> 00:41.246
+Today, we're going to focus on how particular hormones influence our energy levels and our immune system. We're going to talk about the hormones cortisol and epinephrine, also called adrenaline.
+
+00:41.698 --> 01:07.294
+If you're somebody who has challenges with sleep or you're somebody who has challenges getting your energy level up throughout the day and getting your energy level down when you want to sleep, today's episode is also for you. And we're going to talk about the immune system and how to enhance the function of your immune system. I think it's fair to say that most people would like to have a lot of energy during the day, if you work during the day, and they'd like their energy to taper off at night.
+
+01:07.458 --> 01:37.438
+And I think it's fair to say that most people don't enjoy being sick. And it turns out that the two hormones that dominate those processes of having enough energy and having a healthy immune system are cortisol and epinephrine. I just want to cover a little bit about what cortisol and epinephrine are, where they are released in the body and brain, because if you can understand that, you will understand better how to control them. First of all, cortisol is
+
+01:37.986 --> 02:01.086
+a steroid hormone, much like estrogen and testosterone in that it is derived from cholesterol. So understand that cholesterol is a precursor molecule, meaning it's the substrate from which a lot of things like testosterone and estrogen are made. Please also understand that cholesterol can be made into estrogen or testosterone
+
+02:01.250 --> 02:25.758
+or cortisol and that cortisol is sort of the competitive partner to estrogen and testosterone. What this means is no matter how much cholesterol you're eating or you produce, whether or not it's low or it's high, if you are stressed, more of that cholesterol is going to be devoted toward creating cortisol, which is indeed a stress hormone. However, the word stress
+
+02:26.210 --> 02:48.830
+shouldn't stress you out because you need cortisol. Cortisol is vital. You don't want your cortisol levels to be too low. It's very important for immune system function, for memory, for not getting depressed. You just don't want your cortisol levels to be too high and you don't want them to be elevated even to normal levels at the wrong time of day. Epinephrine or adrenaline
+
+02:49.538 --> 03:04.574
+has also been demonized a bit. We think of it as this stress hormone, this thing that makes us anxious, fight or flight. The fact of the matter is that epinephrine is your best friend when it comes to your immunity, when it comes to protecting you from infection.
+
+03:04.674 --> 03:32.190
+and epinephrine, adrenaline, is your best friend when it comes to remembering things and learning and activating neuroplasticity. We're going to talk about that as well. Once again, it's a question of how much and how long and the specific timing of release of cortisol and epinephrine, as opposed to cortisol and adrenaline being good or bad. They're terrific when they're regulated. They are terrible when they're misregulated, and we will give you lots of tools to regulate them better.
+
+03:32.578 --> 03:49.086
+I'd like to take a quick break and acknowledge one of our sponsors, BetterHelp. BetterHelp offers professional therapy with a licensed therapist carried out entirely online. I've been doing weekly therapy for well over 30 years. Initially, I didn't have a choice. It was a condition of being allowed to stay in school.
+
+03:49.218 --> 04:11.678
+But pretty soon I realized that therapy is an extremely important component to overall health. In fact, I consider doing regular therapy just as important as getting regular exercise, including cardiovascular exercise and resistance training, which of course I also do every week. There are essentially three things that great therapy provides. First of all, it provides a good rapport with somebody that you can trust and talk to about all issues that you're concerned about.
+
+04:11.778 --> 04:33.214
+Second of all, it can provide support in the form of emotional support or directed guidance. And third, expert therapy can provide useful insights. With BetterHelp, they make it very easy to find an expert therapist with whom you resonate with and can provide those benefits that come through effective therapy. Also, because BetterHelp allows therapy to be done entirely online, it's very time efficient.
+
+04:33.346 --> 04:50.718
+It's easy to fit into a busy schedule. There's no commuting to a therapist's office or sitting in a waiting room or anything like that. You simply go online and hold your appointment. If you would like to try BetterHelp, go to betterhelp.com slash Huberman to get 10% off your first month. Again, that's betterhelp.com slash Huberman.
+
+04:51.394 --> 05:21.214
+Today's episode is also brought to us by Element. Element is an electrolyte drink that has everything you need, but nothing you don't. That means the electrolytes, sodium, magnesium, and potassium, all in the correct ratios, but no sugar. Proper hydration is critical for optimal brain and body function. Even a slight degree of dehydration can diminish cognitive and physical performance. It's also important that you get adequate electrolytes. The electrolytes, sodium, magnesium, and potassium are vital for the functioning of all the cells in your body, especially your neurons or your nerve cells.
+
+05:21.442 --> 05:48.446
+Drinking Element dissolved in water makes it extremely easy to ensure that you're getting adequate hydration and adequate electrolytes. To make sure that I'm getting proper amounts of hydration and electrolytes, I dissolve one packet of Element in about 16 to 32 ounces of water when I wake up in the morning, and I drink that basically first thing in the morning. I also drink Element dissolved in water during any kind of physical exercise that I'm doing. They have a bunch of different great tasting flavors of Element. They have watermelon, citrus, et cetera. Frankly, I love them all.
+
+05:48.578 --> 06:18.206
+If you'd like to try Element, you can go to drinkelement.com slash Huberman Lab to claim a free Element sample pack with the purchase of any Element drink mix. Again, that's drinkelement.com slash Huberman Lab to claim a free sample pack. Cortisol biology 101 in less than two minutes. Your brain makes what we call releasing hormones. And in this case, there's corticotropin releasing hormone, CRH is made by neurons in your brain. It causes the pituitary
+
+06:18.562 --> 06:43.518
+this gland that sits about an inch in front of the roof of your mouth and the base of your brain to release ACTH. ACTH then goes and causes your adrenals, which sit above your kidneys and your lower back to release cortisol, a so-called stress hormone. But I would like you to think about cortisol, not as a stress hormone, but as a hormone of energy.
+
+06:43.650 --> 07:13.342
+It produces a situation in the brain and body whereby you want to move and whereby you don't want to rest and whereby you don't want to eat, at least at first. Epinephrine or adrenaline 101 in less than two minutes. When you sense a stressor with your mind or your body senses a stressor, excuse me, from a wound or something of that sort, a signal is sent
+
+07:13.442 --> 07:41.214
+to neurons that are in the middle of your body. They're called the sympathetic chain ganglia. The name doesn't necessarily matter. They release norepinephrine very quickly. It's almost like a sprinkler system that just hoses your body with epinephrine. That will increase heart rate, will increase breathing rate. It will also increase the size of vessels and arteries that are giving blood flow to your vital organs. You also release adrenaline from your adrenals.
+
+07:41.570 --> 08:10.494
+Again, riding atop your kidneys. And you release it from an area of your brain called locus coeruleus, and that creates alertness in your brain. Okay, so we have cortisol and we have epinephrine, and their net effect is to increase energy. So the first tool is to make sure that your highest levels of cortisol are first thing in the morning when you wake up. One way or another, every 24 hours, you will get an increase in cortisol. It's to stimulate movement from being asleep,
+
+08:10.594 --> 08:37.598
+presumably horizontal, to getting up and starting to move about your day. The best way to stimulate that increasing cortisol at the appropriate time is that very soon after waking, within 30 minutes or so after waking, get outside, view some sunlight. Even if it's overcast, get outside, view some sunlight, no sunglasses. Do that because in the early part of the day, you have the opportunity to time that cortisol release
+
+08:37.986 --> 09:06.174
+to the early part of the day, it will improve your focus, it will improve your energy levels, and it will improve your learning throughout the day. So here's how it works. On a sunny day, so no cloud cover, provided that the sun is not yet overhead, it's somewhere low in the sky, could have just crossed the horizon, or if you wake up a little bit later, it could be somewhat low in the sky. Basically the intensity of light, the brightness is somewhere around 100,000 lux.
+
+09:06.274 --> 09:35.902
+Lux is just a measurement of brightness. On a cloudy day, it's about 10,000 lux. Okay, so 10 fold reduction. But bright artificial light, very bright artificial light is somewhere around a thousand lux. And ordinary room light is somewhere around 100 to 200 lux. So even if you have a very bright bulb sitting right next to you, that's not going to do the job. Your phone will not do the job, not early in the day. To get the cortisol,
+
+09:36.482 --> 10:00.542
+released at the appropriate time, you need to get outside. So let's just set a couple general parameters. If it's bright outside and no cloud cover, get outside for 10 minutes. If it's a cloudy day, dense overcast, you're probably gonna need about 30 minutes. If it's light cloud, broken cloud cover, it's probably gonna be somewhere between 10 and 20 minutes. This is why it's vital to get this light on a regular basis.
+
+10:01.538 --> 10:30.718
+to get that cortisol released early in the day. That sets you up for optimal levels of energy. Now throughout the day, you're going to experience different things. Most of you are not spending your entire day trying to optimize your health. Some of you might be, but most of you have jobs and you have families and you have commitments. Life enters the picture and provides you stressors. Those will cause increases in cortisol and epinephrine. The key is these blips in cortisol and epinephrine
+
+10:30.946 --> 10:54.654
+need to be brief. You can't have them so often or lasting so long that you are in a state of chronic cortisol elevation or chronic epinephrine elevation. This system of stress was designed to increase your alertness and mobilize you towards things, get you frustrated and provide the opportunity to change behavior. And the reason it works is that cortisol
+
+10:54.882 --> 11:21.918
+when it's released into the bloodstream, it actually can bind to receptors in the brain. It can bind receptors in the amygdala, fear centers, and threat detection centers, but also areas of the brain that are involved in learning and memory and neuroplasticity. And this is why I say that neuroplasticity, the brain's ability to change itself in response to experience is first stimulated by attention and focus and often a low level state of agitation.
+
+11:22.242 --> 11:47.934
+Understand that and you won't be quite so troubled about the little stress increases that you experience throughout the day. Now, there are ways to leverage stress, epinephrine and cortisol in ways that serve you and to do it in a deliberate way. There are also ways to do that that increase your level of stress threshold, meaning they make it less likely that epinephrine and cortisol will be released.
+
+11:48.066 --> 12:15.166
+So I want to talk about the science of those practices because I get asked about these practices a lot. Things like Wim Hof breathing, which is also called Tumo breathing, things like ice baths, things like high intensity interval training. All of those things have utility. The question is how you use them and how often you use them. Those tools, just like stress from a life event, can either enhance your immunity or deplete it.
+
+12:15.618 --> 12:44.894
+That's right, those same practices of ice baths, tumor breathing, high intensity interval training or training of any kind can deplete your immune system or it can improve them. Excuse me, they can improve it, meaning they can improve your immune system. The key is how often you use them and when. And so I want to review that now in light of the scientific literature, because in doing that, you can build practices into your daily or maybe every other day routine that can really help buffer you against
+
+12:45.026 --> 13:14.046
+unhealthy levels of cortisol and epinephrine, meaning cortisol increases that are much too great or that last much too long. Epinephrine increases that are much too great or that last much too long. Let's say somebody tells you something very troubling, or you look at your phone and you see a text message that's really upsetting to you. That will cause an immediate increase in epinephrine, adrenaline, in your brain and body. And chances are it's going to increase your levels of cortisol as well.
+
+13:14.562 --> 13:43.678
+Let's say you get into an ice bath or a cold shower, that will cause an equivalent increase in epinephrine and cortisol. Let's say you go out for high intensity interval training, you decide you're going to run some sprints, you do some repeats, or you're going to do some weightlifting in the gym, or you decide that you want to do some hot yoga, you're going to increase your epinephrine and cortisol levels. And guess what? They increase your levels of energy and alertness. So if you're somebody who struggles with energy and alertness,
+
+13:43.810 --> 14:07.422
+It can be beneficial, provided you get clearance from your doctor, to have some sort of protocol built into your day where you deliberately increase your levels of epinephrine and your levels of cortisol. So it's really important to understand that the body doesn't distinguish between a troubling text message, ice, tumor breathing, or high-intensity interval training, or any other kind of exercise. It's all stress.
+
+14:08.514 --> 14:36.414
+Cognitively reframing that and telling yourself, I like this, I enjoy it, is not going to change the way that that molecule impacts your body and brain. I sort of chuckle because people would love to tell you that all you have to do is say, oh, this is good for me. No, what it does to tell yourself that it's good for you or that you enjoy it is that it liberates other molecules like dopamine and serotonin that help buffer the epinephrine response.
+
+14:36.706 --> 15:01.982
+Now, the way that it does that, I've talked about previous episode, but I'll just mention that dopamine is the precursor to epinephrine. Epinephrine is made from dopamine. And that's why if you tell yourself you're enjoying something, and because dopamine is so subjective that you can, in some ways, as long as you're not completely lying to yourself, you can get more epinephrine, you get more mileage or more ability to push through something.
+
+15:02.082 --> 15:30.078
+and you can sort of reframe it, but it's not really cognitive reframing. The cognitive part is the trigger, but it's a chemical substance that's actually occurring there. It's dopamine giving you more epinephrine, a bigger amplitude epinephrine release, and it gives you some sense of control. So here's a protocol that anyone can use if you want to increase levels of energy, if you suffer from low energy during the daytime or whenever it is that you'd like to be alert.
+
+15:31.138 --> 15:59.582
+pick a practice that you can do fairly consistently, maybe every day, but maybe every third day or every fourth day, maybe it's an ice bath or a cold bath, maybe it's a cold shower, maybe it's the cyclic inhale, exhale breathing protocol I described, if that wasn't clear and people always ask for a demo, I'm not going to do the whole thing right now, but I'm willing to do a few rounds of this or a few cycles, I should say. So it's inhale, I would do that more deeply, more like,
+
+16:00.898 --> 16:25.822
+You do that 25, 30 times repeatedly, you will start to feel warm. People in the yoga community, they say you're generating heat. You're not generating heat, releasing adrenaline. Inhale, exhale, inhale, exhale 25 or 30 times, you will feel agitated and stressed. That's because you're releasing adrenaline in your body, and that's because you're releasing norepinephrine in your brain, and you'll be more alert. I'd like to take a quick break and acknowledge our sponsor, AG1.
+
+16:25.954 --> 16:55.920
+AG1 is a vitamin mineral probiotic drink that also includes prebiotics and adaptogens. As somebody who's been involved in research science for almost three decades and in health and fitness for equally as long, I'm constantly looking for the best tools to improve my mental health, physical health, and performance. I discovered AG1 way back in 2012, long before I ever had a podcast or even knew what a podcast was, and I've been taking it every day since. I find that AG1 greatly improves all aspects of my health. I simply feel much better when I take it.
+
+16:55.920 --> 17:25.662
+it. AG1 uses the highest quality ingredients in the right combinations, and they're constantly improving their formulas without increasing the cost. Whenever I'm asked if I could take just one supplement, what would that supplement be? I always say AG1. If you'd like to try AG1, you can go to drinkag1.com slash Huberman to claim a special offer. Right now, they're giving away five free travel packs plus a year's supply of vitamin D3 K2. Again, that's drinkag1.com slash Huberman to claim that special offer.
+
+17:25.890 --> 17:50.142
+So if all these protocols, all these activities are just equivalent, they're just stress, then how do we make them good for us? How do we actually benefit from them? Now, of course, the cold itself can have some health promoting effects. It can increase brown fat thermogenesis and metabolism, high-intensity interval training or other forms of exercise, of course, has cardiovascular effects that can be good for us.
+
+17:50.306 --> 18:13.118
+as does weight training, et cetera. But what we're talking about here are ways to increase energy and to teach our brain and body, to teach ourselves how to regulate the stress response. So in addition to the benefits of the actual practices, what we're talking about is building a system so that when you experience increases in epinephrine and cortisol,
+
+18:13.410 --> 18:41.470
+from life events, you're able to better buffer those. And we are also talking about ways that you can increase energy overall, because that's what today's episode is all about, energy and the immune system. There's a biological mechanism that's very important if you want to do those things, increase energy and your immune system on demand, learn to buffer stress on demand in real time. And it means taking these protocols, these practices, whether or not it's
+
+18:41.730 --> 19:08.350
+cold water or ice bath or exercise or any of those and making one small but very powerful adjustment in how you perform them. But in order to make that adjustment, I can't just tell you the adjustment. I have to tell you the mechanism so that you know if you're doing it correctly or not. This is really a case where if you can understand a little bit of mechanism, you will be far better off than just adopting protocols.
+
+19:09.346 --> 19:36.606
+Cortisol, as I mentioned, is released from the adrenals. It can have action both in the body and in the brain. Cortisol can cross the blood brain barrier, epinephrine cannot. That's one of the reasons why it's released both from the adrenals in your body and released from this brainstem area, the locus coeruleus in your brain. That's a powerful thing because what it means is that the body can enter states of readiness and alertness
+
+19:36.994 --> 20:04.830
+while the mind remains calm. So I'm presuming at this point that you're getting your morning light to time your cortisol increase. I'm presuming that you want more energy or that you want to increase your immune system's function and its ability to combat infections of various kinds. Now, the simplest way to describe how to do that would be in the context of cold water or a breathing protocol. Let's presume cold water. So let's say you decide you're going to take a cold shower.
+
+20:04.962 --> 20:31.582
+You get into the cold shower and if it's cold enough, that will be stressful. You will experience an increase in epinephrine. It will increase your alertness. Now you're using this as a practice, as a tool to build, you could call it resilience, but the ability to stay calm in the mind while being stressed in the body, epinephrine's in the body. And you do that by subjectively trying to calm yourself. Now you can do that by telling yourself it's good for you, by,
+
+20:31.746 --> 21:00.990
+emphasizing your exhales, anything that you can do to try and stay calm despite the fact that you are in a heightened state of alertness. You could do this with exercise, you could do this with music, pretty much anything that will give you a really heightened state of alertness offers you the opportunity to try and stay calm in the mind. What you're trying to do at a mechanistic level is to have adrenaline released from the adrenals, but not have adrenaline epinephrine released from the brainstem to the same degree.
+
+21:01.506 --> 21:31.102
+So you're not just trying to buffer this. You're not trying to say, oh, this is good for me. This is good for me. I'm going to grind this out. You're not trying to grind it out. You're trying to move through this calmly while maintaining alertness. In the immediate period, following that practice, your system, your entire brain and body are different. Your body is actually primed to resist infection when you have high levels of epinephrine in it for short periods of time. So the scientific study that explored how
+
+21:31.458 --> 22:00.990
+increasing adrenaline in the body can improve immune resistance is grounded in a well-known phenomenon that increases in stress actually protect you against infection in the short term. So I want to look at the classic data first, describe what was done, and then I want to talk about the more recent study, which is immediately actionable. There are classic set of studies that are really based mainly on the work of somebody named Bruce McEwen, who is at the Rockefeller University in New York.
+
+22:01.474 --> 22:30.942
+I'm not going to go through all the details of the study, but essentially what they were doing was exposing subjects to some sort of infection, either bacterial or viral infection and inducing stress. Sounds like a double whammy, right? You'd think that maybe getting a little electric shock or cold water exposure or something to increase your levels of stress and adrenaline would just make the effects of the infection worse, but no, quite the opposite. Brief bouts of stress,
+
+22:31.170 --> 23:00.478
+which now you should be thinking about in terms of cortisol and epinephrine release, were actually able to increase immune system function. The duration here is really important because if stress stayed too high for too long, then yes, indeed, stress can hinder the immune response. But for a period of about one to four days, it actually can protect you by way of increasing the immune response. There's a human study that I definitely want to point out to you.
+
+23:00.866 --> 23:30.622
+because it was published more recently than the McEwen work. The title of the paper is Voluntary Activation of the Sympathetic Nervous System. That's the system that causes fight or flight and AKA stress. This is Cox, K-O-X et al, P-N-A-S, Proceedings of the National Academy of Sciences, 2014. And they incorporate the ever famous Wim Hof breathing. Here's what they did. They injected people with E. coli and they had groups that either did
+
+23:30.882 --> 23:58.590
+the sorts of breathing I've been describing that increase adrenaline release. Although I should say, I don't think you need that breathing to get adrenaline release. You could do it with cold exposure. You could do it with other things, high intensity interval training as well. And what they found was that the response to the E. coli was quite different in the people that had a protocol, in this case, breathing to increase adrenaline. So this is,
+
+23:59.394 --> 24:26.334
+a remarkable study because what they found was that the fever, the vomiting, all the negative effects of E. coli, many of them, and in some cases, all of them were greatly attenuated by way of engaging the adrenaline system. The point is you can control your immune system by finding a way that you can increase adrenaline. And this runs counter to what we always hear, which is don't get too stressed or you will get sick.
+
+24:26.754 --> 24:53.214
+Learn to control adrenaline, turn it on and turn it off. Learn to control cortisol, turn it on with light in the morning, try and turn it off. And then when it spikes because of life events, learn to turn it off. Learning to turn on and off adrenaline, AKA epinephrine, and learning to turn on and off cortisol, affords you the ability to turn on energy and focus and your immune system.
+
+24:53.666 --> 25:15.294
+That's the most important point from today's podcast and understanding that it doesn't matter what protocol you use. Maybe it's a cup of coffee and running up a hill five or six times. That will improve your immune system function if you get adrenaline in your system. You can use an ice bath, you can use a cold bath. It really doesn't matter. I'd like to take a quick break and acknowledge one of our sponsors, Function.
+
+25:15.426 --> 25:45.392
+Last year, I became a Function member after searching for the most comprehensive approach to lab testing. Function provides over 100 advanced lab tests that give you a key snapshot of your entire bodily health. This snapshot offers you with insights on your heart health, hormone health, immune functioning, nutrient levels, and much more. They've also recently added tests for toxins, such as BPA exposure from harmful plastics, and tests for PFASs, or forever chemicals. Function not only provides testing of over 100 biomarkers key to your physical and mental
+
+25:45.392 --> 26:15.344
+health, but it also analyzes these results and provides insights from top doctors who are expert in the relevant areas. For example, in one of my first tests with Function, I learned that I had elevated levels of mercury in my blood. Function not only helped me detect that, but offered insights into how best to reduce my mercury levels, which included limiting my tuna consumption. I've been eating a lot of tuna, while also making an effort to eat more leafy greens and supplementing with NAC and acetylcysteine, both of which can support glutathione production and detoxification. And I should say,
+
+26:15.344 --> 26:33.790
+say by taking a second function test, that approach worked. Comprehensive blood testing is vitally important. There's so many things related to your mental and physical health that can only be detected in a blood test. The problem is blood testing has always been very expensive and complicated. In contrast, I've been super impressed by function simplicity and
+
+26:33.890 --> 27:00.958
+at the level of cost. It is very affordable. As a consequence, I decided to join their scientific advisory board and I'm thrilled that they're sponsoring the podcast. If you'd like to try Function, you can go to functionhealth.com slash Huberman. Function currently has a wait list of over 250,000 people, but they're offering early access to Huberman podcast listeners. Again, that's functionhealth.com slash Huberman to get early access to Function. So up until now, we've been talking about
+
+27:01.058 --> 27:27.582
+increasing energy and increasing the immune system by way of cortisol and epinephrine, but I'd be totally remiss if I didn't cover how cortisol and epinephrine, if chronically elevated or if elevated too high, can have a lot of detrimental effects. Your immune system over time will get battered and you won't be able to fight infection off as well, right? You can start laying down the sort of classic
+
+27:27.682 --> 27:55.838
+of cortisol induced body fat. Why do we seek high fat and or high sugar foods when we are stressed for a while? Why would that be? And the reason is that the so-called glucocorticoids of which cortisol is a glucocorticoid is caused as we've mentioned before by releasing hormones from the brain and ACTH from the pituitary, et cetera. But normally high levels of glucocorticoid shut off
+
+27:56.706 --> 28:26.398
+the releasing hormones in the brain and in the pituitary. They shut down in a so-called negative feedback loop. Chronic stress, however, stress that lasts more than four to seven days, causes changes in the feedback loop between the adrenals and the brain and the pituitary, such that now the brain and the pituitary respond to high levels of glucocorticoids, cortisol, by releasing more of them. It becomes a positive feedback loop.
+
+28:26.594 --> 28:54.622
+And that's bad. It's a cascade of stress equals more stress equals more stress. So this is why it's very important to learn to turn off the stress response. So there's one study that Dahlman and her colleagues did where they stimulate chronic stress by increasing corticosterone, cortisol. And they found that subjects would increase their consumption of sugar and fat. In fact, they would even eat lard. And that led to all sorts of things like type two diabetes,
+
+28:55.842 --> 29:24.926
+led to dysfunction in the adrenal output, et cetera. And so the real key is to learn to shut off the stress response. And you should watch yourself next time you experience stress. If it's a short-term bout of stress, typically it blocks hunger. If it's a longer bout of stress, typically it triggers hunger in particular for these so-called comfort foods, sugary and fatty foods. Other bad effects of stress is that yes, indeed, stress can make you go gray. Pigmentation of hair,
+
+29:25.090 --> 29:42.878
+just like pigmentation of skin is controlled by melanocytes. Well, it turns out that activation of the so-called sympathetic nervous system, which is really just another name for the system that liberates adrenaline from the adrenals and epinephrine in the brain,
+
+29:43.234 --> 30:08.862
+drives depletion of melanocytes in hair stem cells. So indeed there's a rate of aging that we will undergo based on our genetics, but stress will make us go gray. How do I know the difference between chronic and acute stress and how do I keep chronic stress at bay? Once again, getting your light and your feeding and your exercise and your sleep
+
+30:09.026 --> 30:38.846
+on a consistent schedule or consistent-ish is going to be the most powerful thing you can do in order to buffer yourself against negative effects on mental health and physical health for that matter. There are things that one can take, supplements, prescription drugs, et cetera. All supplements, of course, have to be checked out for their safety margins for you because it's going to differ from person to person. You're responsible for making sure they're safe for you if you decide to use them. One of the most common ones is ashwagandha.
+
+30:38.978 --> 31:08.606
+it has a very strong effect on cortisol itself. How strong? The decrease in cortisol node in humans is 14.5 to 27.9% reduction in otherwise healthy, but stressed humans. The other compound that I think deserves attention is Apigenin, A-P-I-G-E-N-I-N, Apigenin, which is what's found in chamomile. I take it before bedtime, 50 milligrams,
+
+31:08.898 --> 31:26.334
+The major source of action is to calm the nervous system. And it does that primarily by adjusting things like GABA and chloride channels, but also has a mild effect in reducing cortisol. So ashwagandha and apigenin together, sort of, I would consider the most potent
+
+31:27.554 --> 31:55.838
+commercial compounds that are in supplement non-prescription form that one could use if they were interested in reducing chronic stress, especially late in the day by way of reducing cortisol late in the day. So you're probably getting the impression that cortisol and epinephrine are a bit of a double-edged sword. You want them elevated, but not for too long or too much. You don't want them up for days and days and days, but you do want to have a practice in order to increase them in the short term.
+
+31:57.250 --> 32:27.102
+we should talk about protocols that can set a foundation of cortisol and epinephrine that is headed towards optimal. Optimization is always going to be a series of regular practices that you do every day. So sleeping at certain times, light at specific times, food at specific times, certain foods, et cetera. And that's highly individual, but there are some universals and we've covered a number of those in the discussion today. Meal timing, meal schedules has a profound effect on energy levels.
+
+32:27.458 --> 32:57.118
+And as I mentioned before, the energy I'm referring to is not glucose energy. It's what I'm talking about is neural energy, epinephrine and cortisol. Fasting and timing one's eating are two sides of the same coin. When our blood glucose is low, cortisol and epinephrine are going to go up. Anytime we haven't eaten for four to six hours, levels of epinephrine and cortisol are going to go up pretty substantially. One thing that many people do to great benefit is they follow a so-called circadian eating schedule.
+
+32:57.794 --> 33:14.494
+They eat only when the sun is up, they stop when the sun is down, more or less. The other way to think about this is they stop eating a couple hours before sleep and they eat more or less upon waking, assuming that they're waking up more or less around the time the sun rises, maybe plus or minus two hours.
+
+33:14.594 --> 33:43.486
+Now, let's say you decide to do what I do, which is I skip breakfast. I drink water, I delay my caffeine for 90 minutes to two hours, and then I drink my caffeine, and then my first meal is typically around lunchtime, 11, 30 or 12. So I've got a cortisol increase, I've got my sunlight in the morning, so I'm getting a big pulse and energy early in the day. And yes, there's a little bit of agitation. I am hungry sometimes early in the day, sometimes no, but my ghrelin system is used to kicking in right around noon. At the point where I eat,
+
+33:43.618 --> 34:08.286
+as long as I don't eat carbohydrate, in my case, I know that my epinephrine levels are going to stay pretty high. So for me, it's usually meat and salad or something of that sort or fish and salad. So fasting is a tool for many reasons, can increase growth hormone, et cetera. But today I'm talking about fasting as a tool to bias your system toward more epinephrine adrenaline release
+
+34:08.418 --> 34:38.384
+more cortisol release, but still low enough that it's not chronic stress, that it's not causing negative health effects. One has to learn how to regulate these hormones with behavior, with nutrition, perhaps with supplementation. I also want to mention again that I think there's great benefit to having a practice that perhaps you do every other day, but if you can't, maybe every third day or every other day of deliberately increasing your adrenaline in your body while learning to stay calm in the mind so that you learn to separate the brain-body experience. The idea is to stay
+
+34:38.384 --> 35:05.470
+and stay calm in your mind so that then you can regulate your action. So once again, we've covered a ton of material. I hope right now you're thinking, okay, am I in a state of chronic stress? Am I under activated or could I afford to increase my levels of adrenaline cortisol to improve my relationship to my immune system and to energy, neural energy? And I hope that you'll think about some of the ways in which cortisol
+
+35:06.018 --> 35:24.126
+and adrenaline are not good or bad, that stress isn't good or bad, but short-term stress is healthy. Alertness and energy is healthy, even if it puts you at the edge of agitation. That's an opportunity to learn how to control these hormones better. And I hope that if you're in a state of chronic stress, that you'll do things to start tamping down some of that.
+
+35:24.258 --> 35:52.574
+stress and that you realize that your nervous system and your hormone system are linked, but they're linked in ways that you can control, that we don't have to be slaves to our hormones and certainly not the hormones that cause us stress. We can learn to control those both to the benefit of our body and benefit of mind. Thank you for joining me for what I hope was an informative discussion and an actionable discussion about how to increase energy and the immune system by way of cortisol and adrenaline, epinephrine.
+
+35:53.122 --> 36:03.870
+I really appreciate your willingness to learn new topics as well as to embrace and think about new tools and whether or not they're right for you. And as always, thank you for your interest in science.

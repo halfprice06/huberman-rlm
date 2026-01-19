@@ -1,0 +1,265 @@
+WEBVTT
+
+00:00.226 --> 00:20.926
+Welcome to Huberman Lab Essentials, where we revisit past episodes for the most potent and actionable science-based tools for mental health, physical health, and performance. My name is Andrew Huberman, and I'm a professor of neurobiology and ophthalmology at Stanford School of Medicine. Today, we're going to talk about how to change your nervous system for the better.
+
+00:21.474 --> 00:41.598
+As you recall, your nervous system includes your brain and your spinal cord, but also all the connections that your brain and spinal cord make with the organs of your body and all the connections that the organs of your body make with your brain and spinal cord. Now this thing that we call the nervous system is responsible for everything we know, all our behavior,
+
+00:41.826 --> 01:10.750
+all our emotions, everything we feel about ourselves and the outside world, everything we think and believe, it's really at the center of our entire experience of life and who we are. Fortunately, in humans, unlike in other species, we can change our nervous system by taking some very specific and deliberate actions. And today we're really going to focus on the actions, the motor commands and the aspects of movement and balance
+
+01:11.330 --> 01:41.118
+that allow us to change our nervous system. It turns out that movement and balance actually provide windows or portals into our ability to change our nervous system the way we want, even if those changes are not about learning new movements or learning how to balance. And soon you'll understand why. So let's talk about the different kinds of plasticity that are available to us, because those will point directly towards the type of protocols that we should engage in to change ourselves for the better.
+
+01:41.762 --> 02:11.390
+there is something called representational plasticity. Representational plasticity is just your internal representation of the outside world. We know that, for instance, if I want to reach out and grab the pen in front of me, that I need to generate a certain amount of force. So I rarely overshoot. I rarely miss the pen, okay? So our maps of the motor world and our maps of the sensory world are merged. The way to create plasticity is to create mismatches or
+
+02:11.490 --> 02:26.910
+errors in how we perform things. And this I think is an amazing and important feature of neuroplasticity that is highly underappreciated. The way to create plasticity is to send signals to the brain that something is wrong.
+
+02:27.106 --> 02:51.326
+something is different and something isn't being achieved. Errors and making errors out of sync with what we would like to do is how our nervous system is cued through very distinct biological mechanisms that something isn't going right. And therefore certain neurochemicals are deployed that'll signal the neural circuits that they have to change. So let's talk about
+
+02:51.426 --> 03:20.574
+errors and making errors and why and how that triggers the release of chemicals that then allow us to not just learn the thing that we're doing in the motor sense, play the piano, dance, et cetera, but it also creates an environment, a milieu within the brain that allows us to then go learn how to couple or uncouple a particular emotion to an experience or better language learning or better mathematical learning. Last episode, we discussed some of the basic principles of neuroplasticity.
+
+03:20.706 --> 03:37.086
+If you didn't hear that episode, no problem, I'll just review it quickly, which is that it's a falsehood that everything that we do and experience changes our brain. The brain changes when certain neurochemicals, namely acetylcholine, epinephrine, and dopamine,
+
+03:37.218 --> 03:54.014
+are released in ways and in the specific times that allow for neural circuits to be marked for change, and then the change occurs later during sleep. Basically, you need a certain cocktail of chemicals released in the brain in order for a particular behavior to reshape the way that our brain works.
+
+03:54.658 --> 04:19.198
+So the question really is what allows those neurochemicals to be released? And last episode, it talked all about focus. If you haven't seen or heard that episode, you might want to check it out about some specific tools and practices that can allow you to build up your capacity for focus and release certain chemicals in that cocktail. But today we're going to talk about the other chemicals in the cocktail, in particular dopamine. And we're really going to center
+
+04:19.329 --> 04:48.190
+our discussion around this issue of making errors and why making errors is actually the signal that tells the brain, okay, it's time to change, or more generally, it's time to pay attention to things so that you change. And I really want to distinguish this point really clearly, which is that I'm going to talk today a lot about motor and vestibular, meaning balance programs, but not just for learning motor commands and
+
+04:48.354 --> 05:12.350
+and balance, but also for setting a stage or a kind of condition in your brain where you can go learn other things as well. So let's talk about some classic experiments that really nail down what's most important in this discussion about plasticity. I'd like to take a quick break and acknowledge our sponsor, AG1. By now, many of you have heard me say that if I could take just one supplement, that supplement would be AG1.
+
+05:12.610 --> 05:42.576
+The reason for that is AG1 is the highest quality and most complete of the foundational nutritional supplements available. What that means is that it contains not just vitamins and minerals, but also probiotics, prebiotics, and adaptogens to cover any gaps you may have in your diet and provide support for a demanding life. For me, even if I eat mostly whole foods and minimally processed foods, which I do for most of my food intake, it's very difficult for me to get enough fruits and vegetables, vitamins and minerals, micronutrients, and adaptogens from food alone. For that reason, I've
+
+05:42.576 --> 06:10.814
+I've been taking AG1 daily since 2012. When I do that, it clearly bolsters my energy, my immune system, and my gut microbiome. These are all critical to brain function, mood, physical performance, and much more. If you'd like to try AG1, you can go to drinkag1.com slash Huberman to claim their special offer. Right now, they're giving away five free travel packs plus a year's supply of vitamin D3 K2. Again, that's drinkag1.com slash Huberman to claim that special offer.
+
+06:11.298 --> 06:35.454
+As I mentioned last episode, and I'll just tell you right now, again, the brain is incredibly plastic from about birth until about age 25, and then somewhere about 25, it's not like the day after your 26th birthday plasticity closes, there's a kind of tapering off of plasticity and you need different mechanisms to engage plasticity as an adult. Knowing how to tap into these plasticity mechanisms
+
+06:35.618 --> 06:56.222
+is very powerful. The simplest example is if I hear something off to my right, I look to my right. If I hear it on the left, I look to my left. If I hear it right in front of me, I keep looking right in front of me. And that's because our maps of visual space and our maps of auditory space and our maps of motor space
+
+06:56.354 --> 07:19.646
+are aligned to one another in perfect register. It's an incredible feature of our nervous system. It takes place in a structure called the superior colliculus, although you don't need to know that name. Superior colliculus has layers, literally stacks of neurons, like in a sandwich, where the zero point right in front of me, or maybe 10 or 15 degrees off to my right, or 10 or 15 degrees off to my left,
+
+07:19.746 --> 07:46.302
+are aligned so that the auditory neurons, the ones that care about sounds at 15 degrees to my right, sit directly below the neurons that look at 15 degrees to my right in my visual system. And when I reach over to this direction, there's a signal that's sent down through those layers that says 15 degrees off to the right is the direction to look, it's the direction to listen, and it's the direction to move if I need to move.
+
+07:46.562 --> 08:16.510
+So there's an alignment and this is really powerful. And this is what allows us to move through space and function in our lives in a really fluid way. It's set up during development, but there have been some important experiments that have revealed that these maps are plastic, meaning they can shift, they're subject to neuroplasticity, and there are specific rules that allow us to shift them. So here's the key experiment. The key experiment was done by a colleague of mine,
+
+08:17.154 --> 08:44.414
+who's now retired, but whose work is absolutely fundamental in the field of neuroplasticity, Eric Knudsen. The Knudsen lab and many of the Knudsen lab scientific offspring showed that if one is to wear prism glasses that shift the visual field, that eventually there'll be a shift in the representation of the auditory and motor maps too. Now, what they initially did is they looked at young subjects
+
+08:45.410 --> 09:10.078
+And what they did is they moved the visual world by making them wear prism glasses so that for instance, if my pen is out in front of me at five degrees off center, so just a little bit off center, if you're listening to this, this would be like just a little bit to my right, but in these prism glasses, I actually see that pen way over far on my right. So it's actually here, but I see it over there.
+
+09:10.434 --> 09:40.030
+because I'm wearing prisms on my eyes. What happens is in the first day or so, you ask people or you ask animal subjects or whatever to reach for this object and they reach to the wrong place because they're seeing it where it isn't. But what you find is that in young individuals within a day or two, they start adjusting their motor behavior in exactly the right way so that they always reach to the correct location. So they hear a sound at one location, they see the object,
+
+09:40.130 --> 10:01.470
+that ought to make that sound at a different location. And they somehow are able to adjust their motor behavior to reach to the correct location. It's incredible. And what it tells us is that these maps that are aligned to one another can move and shift and it happens best in young individuals. If you do this in older individuals,
+
+10:01.666 --> 10:30.878
+In most cases, it takes a very long time for the maps to shift, and in some cases, they never shift. So this is a very experimental scenario, but it's an important one to understand because it really tamps down the fact that we have the capacity to create dramatic shifts in our representation of the outside world. So how can we get plasticity as adults that mimics the plasticity that we get when we are juveniles?
+
+10:31.074 --> 10:53.950
+Well, the Knudsen lab and other labs have looked at this and it's really interesting. The signal that generates the plasticity is the making of errors. It's the reaches and failures that signal to the nervous system that this is not working and therefore the shifts start to take place.
+
+10:54.466 --> 11:21.822
+And this is so fundamentally important because I think most people understandably get frustrated. Like they're trying to learn a piece on the piano and they don't know how they can't do it, or they're trying to write a piece of code, or they're trying to access some sort of motor behavior and they can't do it. And the frustration drives them crazy and like, I can't do it, I can't do it. When they don't realize that the errors themselves are signaling to the brain and nervous system, something's not working. And of course the brain doesn't understand the words, something isn't working.
+
+11:21.922 --> 11:32.318
+the brain doesn't even understand frustration as an emotional state. The brain understands the neurochemicals that are released, namely epinephrine and
+
+11:32.418 --> 11:58.718
+acetylcholine, but also, and we'll get into this, the molecule dopamine, when we start to approximate the correct behavior just a little bit, and we start getting a little bit right. So what happens is when we make errors, the nervous system starts releasing neurotransmitters and neuromodulators that say, we better change something in the circuitry. And so errors are the basis for neuroplasticity and for learning. And I wish that this was more prominent
+
+11:58.818 --> 12:27.710
+prominent out there, I guess this is why I'm saying it. And humans do not like this feeling of frustration and making errors. The few that do, do exceedingly well in whatever pursuits they happen to be involved in. The ones that don't, generally don't do well. They generally don't learn much. And if you think about it, why would your nervous system ever change? Why would it ever change? Unless there was something to be afraid of, something that made us feel awful will signal that the nervous system needs to change.
+
+12:27.810 --> 12:56.926
+or there's an error in our performance. So it turns out that the feedback of these errors, the reaching to the wrong location starts to release a number of things. And now you've heard about them many times, but this would be epinephrine. It increases alertness, acetylcholine focus, because if acetylcholine is released, it creates an opportunity to focus on the error margin, the distance between what it is that you're doing and what it is that you would like to do. And then the nervous system
+
+12:57.442 --> 13:27.358
+starts to make changes almost immediately in order to try and get the behavior right. And when you start getting it even a little bit right, that third molecule comes online or is released, which is dopamine, which allows for the plastic changes to occur very fast. Now, this is what all happens very naturally in young brains, but in old brains, it tends to be pretty slow, except for in two conditions. So let me just pause and just say this. If you are uncomfortable making errors and you get frustrated easy,
+
+13:27.586 --> 13:47.838
+easily, if you leverage that frustration toward drilling deeper into the endeavor, you are setting yourself up for a terrific set of plasticity mechanisms to engage. But if you take that frustration and you walk away from the endeavor, you are essentially setting up plasticity
+
+13:47.970 --> 14:17.694
+to rewire you according to what happens afterwards, which is generally feeling pretty miserable. So now you can kind of start to appreciate why it is that continuing to drill into a process to the point of frustration, but then staying with that process for a little bit longer, and I'll define exactly what I mean by a little bit, is the most important thing for adult learning, as well as childhood learning, but adult learning in particular. Now the Newton Lab did two very important sets of experiments. The first one,
+
+14:17.794 --> 14:46.494
+which showed that juveniles can make these massive shifts in their map representations. They get a lot of plasticity all at once. And it happens very fast in a period of just a couple days. In adults, it tends to be very slow, and most individuals never actually accomplish the full map shift. They don't get the plasticity. Then what they did is they started making the increment of change smaller. So instead of shifting...
+
+14:46.594 --> 15:16.158
+the world a huge amount by putting prisms that shifted the visual world, you know, all the way over to the right. They did this incrementally. So first they put on prisms that shifted it just a little bit, you know, and just like seven degrees, I believe was the exact number. And then it was 14 degrees and then it was 28 degrees. And so what they found was that the adult nervous system can tolerate smaller and smaller errors over time, but that you can stack those errors so that you can get a lot of plasticity. Put simply,
+
+15:16.578 --> 15:42.718
+Incremental learning as an adult is absolutely essential. You are not going to get massive shifts in your representations of the outside world. So how do you make small errors as opposed to big errors? Well, the key is smaller bouts of focused learning for smaller bits of information. It's a mistake to try and learn a lot of information in one learning bout as an adult.
+
+15:42.978 --> 16:07.998
+Now there is one way to get a lot of plasticity all at once as an adult. There is that kind of Holy Grail thing of getting massive plasticity as you would when you were a young person, but as an adult. And the Knudsen lab revealed this by setting a very serious contingency on the learning.
+
+16:08.098 --> 16:33.022
+What they did was they had a situation where subjects had to find food that was displaced in their visual world, again, by putting prisms, and they had to find the food and the food made a noise. There was a noise set kind of the location of the food through an array of speakers. Basically, in order to eat at all, they needed plasticity. And then what happened was remarkable.
+
+16:33.474 --> 16:54.782
+is that the plasticity as an adult can be as dramatic, as robust as it is in a young person or in a young animal subject, provided that there's a serious incentive for the plasticity to occur. And this is absolutely important to understand, which is that how badly we need or want the plasticity
+
+16:54.946 --> 17:24.158
+determines how fast that plasticity will arrive. This means that the importance of something, how important something is to us, actually gates the rate of plasticity and the magnitude of plasticity. And this is why just passively going through most things, going through the motions, as we say, or just getting our reps in, quote unquote, is not sufficient to get the nervous system to change. If we actually have to accomplish something in order to eat,
+
+17:24.801 --> 17:54.750
+or in order to get our ration of income, we will reshape our nervous system very, very quickly. And so I think that the studies that Knudsen did showing that incremental learning can create a huge degree of plasticity as an adult, as well as when the contingency is very high, meaning we need to eat or we need to make an income or we need to do something that's vitally important for us, that plasticity can happen in these enormous leaps
+
+17:54.882 --> 18:23.134
+just like they can in adolescence and young adulthood, that points to the fact that it has to be a neurochemical system. There has to be an underlying mechanism. All the chemicals that we're about to talk about are released from drug stores, if you will, chemical stores that already reside in all of our brains. And the key is how to tap into those stores. And so we're going to next talk about what are the specific behaviors that liberate,
+
+18:23.266 --> 18:49.726
+particular categories of chemicals that allow us to make the most of incremental learning and that set the stage for plasticity that is similar enough or mimics these high contingency states like the need to get food or really create a sense of internal urgency, chemical urgency, if you will. I'd like to take a quick break and thank one of our sponsors, David. David makes a protein bar unlike any other.
+
+18:49.890 --> 19:16.414
+It has 28 grams of protein, only 150 calories and zero grams of sugar. That's right, 28 grams of protein and 75% of its calories come from protein. These bars from David also taste amazing. My favorite flavor is chocolate chip cookie dough, but then again, I also like the chocolate fudge flavored one and I also like the cake flavored one. Basically, I like all the flavors. They're incredibly delicious. For me personally, I strive to eat mostly whole foods. However, when I'm in a rush,
+
+19:16.514 --> 19:36.030
+or I'm away from home, or I'm just looking for a quick afternoon snack, I often find that I'm looking for a high quality protein source. With David, I'm able to get 28 grams of protein with the calories of a snack, which makes it very easy to hit my protein goals of one gram of protein per pound of body weight each day. And it allows me to do that without taking in excess calories.
+
+19:36.130 --> 20:05.790
+I typically eat a David Barr in the early afternoon or even mid-afternoon if I want to bridge that gap between lunch and dinner. I like that it's a little bit sweet, so it tastes like a tasty snack, but it's also giving me that 28 grams of very high quality protein with just 150 calories. If you would like to try David, you can go to davidprotein.com slash Huberman. Again, the link is davidprotein.com slash Huberman. If you've heard previous episodes of this podcast, you may have heard me talk about ultradian rhythms, which are these
+
+20:05.890 --> 20:31.070
+90 minute rhythms that break up our 24 hour day. They help break up our sleep into different cycles of sleep, like REM sleep and non-REM sleep. And in waking states, they help us, or I should say they break up our day in ways that allow us to learn best within 90 minute cycles, et cetera. Today, we're really talking about how to tap into plasticity through the
+
+20:31.202 --> 20:58.046
+completion of a task or working towards something repetitively and making errors. The ultradian cycle says that for the first five to 10 minutes of doing that, your mind is going to drift and your focus will probably kick in provided that you're visually, you're restricting your visual world to just the material in front of you, something we talked about last episode, somewhere around the 10 or 15 minute mark. And then at best, you're probably going to get about an hour of
+
+20:58.178 --> 21:27.198
+of deliberate kind of tunnel vision learning in there, your mind will drift. And then toward the end of that, what is now an hour and 10 or hour and 20 minute cycle, your brain will start to flicker in and out. You're trying your best to accomplish something and you're failing. You want to keep making errors for this period of time that I'm saying will last anywhere for about seven to 30 minutes. It is exceedingly frustrating, but that frustration, it liberates the,
+
+21:27.394 --> 21:48.158
+chemical cues that signal that plasticity needs to happen. And it is the case that when we come back a day or two later in a learning bout after a nap or a night or two of deep rest, then what we find is that we can remember certain things and the motor pathways work and we don't always get it perfectly, but we get a lot of it right, whereas we got it wrong before. So that seven to 30 minute intense
+
+21:48.610 --> 22:12.446
+learning about, specifically about making errors. I want to really underscore that. And it's not about, as I mentioned before, coming up with some little hack or trick or something of that sort. It's really about trying to cue the nervous system that something needs to change because otherwise it simply won't change. I think everyone could stand to enhance the rate of learning by doing the following.
+
+22:13.410 --> 22:37.822
+learn to attach dopamine in a subjective way to this process of making errors, because that's really combining two modes of plasticity in ways that together can accelerate the plasticity. In other words, failing repetitively, provided we're engaged in a very specific set of behaviors when we do it, as well as telling ourselves that those failures are good for learning and good for us,
+
+22:38.274 --> 23:06.494
+creates an outsized effect on the rate of plasticity. It accelerates plasticity. Now, some of you might be asking, and I get asked a lot, well, how do I get dopamine to be released? And can I just tell myself that something is good when it's bad? Well, actually, yes, believe it or not. Dopamine is one of these incredible molecules that both can be released according to things that are hardwired in us to release dopamine. Again, things like food, sex, warmth when we're cold,
+
+23:06.690 --> 23:31.038
+cool environments when we're too warm. It's that kind of pleasure molecule overall, but it's also highly subjective what releases dopamine in one person versus the next. So everyone releases dopamine in response to those very basic kind of behaviors and activities, but dopamine is also released according to what we subjectively believe is good for us.
+
+23:31.202 --> 23:53.438
+And that's what's so powerful about it. In fact, a book that I highly recommend if you want to read more about dopamine, it's a book that frankly, I wish I had written. It's such a wonderful book. It's called The Molecule of More. And it really talks about dopamine, not just as a molecule associated with reward, but a molecule associated with motivation and pursuit and just how subjectively controlled dopamine can be. So make lots of errors.
+
+23:53.826 --> 24:14.366
+tell yourself that those errors are important and good for your overall learning goals. So learn to attach dopamine, meaning release dopamine in your brain when you start to make errors. Once you're attaching dopamine to this process of making errors, then I start getting lots of questions that really are the right questions, which are,
+
+24:15.170 --> 24:30.910
+how often should I do this? And when should I be doing this? And at what time? Well, I've talked a little bit about this in previous episodes, but as long as we're now kind of into the nitty gritty of tools and application, each of us have some natural times throughout the day when we are going to be much better
+
+24:31.010 --> 24:48.286
+at tolerating these errors and much more focused on what it is that we're trying to do. Last episode was about focus, but chances are that you can't focus as well at 4 p.m. as you can at 10 a.m. It differs for everybody depending on when you're sleeping and your kind of natural chemistry and rhythms.
+
+24:48.546 --> 25:16.286
+Find the time or times of day when you naturally have the highest mental acuity. And that's really when you want to engage in these learning bouts. And then get to the point where you're making errors and then keep making errors for seven to 30 minutes. Just keep making those errors and drill through it. And you're almost seeking frustration. And if you can find some pleasure in the frustration, yes, that is a state that exists. You've created the optimal neurochemical milieu for learning that thing.
+
+25:16.930 --> 25:44.830
+but then here's the beauty of it. You also have created the optimal milieu for learning other things afterward. At least for an hour or so, I would say, you're going to be in a state of heightened learning. Again, these aren't gimmicks. These tap into these basic mechanisms of plasticity. And the three that I'd like to talk about next are balance, meaning the vestibular system, as well as the two sides of what
+
+25:44.962 --> 26:07.710
+I call limbic friction or autonomic arousal. And if none of that makes sense, I'm going to put a fine point on each one of those and what it is and why it works for opening up neuroplasticity. I'd like to take a quick break and thank our sponsor, BetterHelp. BetterHelp offers professional therapy with a licensed therapist carried out entirely online. I've been doing weekly therapy for well over 30 years.
+
+26:07.842 --> 26:33.822
+Initially, I didn't have a choice. It was a condition of being allowed to stay in school. But pretty soon I realized that therapy is an extremely important component to one's overall health. In fact, I consider doing regular therapy just as important as getting regular exercise. Now, there are essentially three things that great therapy provides. First of all, it provides a good rapport with somebody that you can trust and talk to about essentially all issues that you want to. Second of all, great therapy provides support in the form of emotional support or
+
+26:33.954 --> 27:01.886
+simply directed guidance, what to do or what not to do in given areas of your life. And third, expert therapy can provide you useful insights that you would not have been able to arrive at on your own. BetterHelp makes it very easy to find an expert therapist who you really resonate with and that can provide you the benefits I just mentioned that come with effective therapy. If you'd like to try BetterHelp, go to betterhelp.com slash Huberman to get 10% off your first month. Again, that's betterhelp.com slash Huberman.
+
+27:02.466 --> 27:21.054
+Let's talk about limbic friction. Limbic friction, I realize is not something you're going to find in any of the textbooks, but it is an important principle that captures a lot of information that is in textbooks, both neurobiology and psychology, and it has some really important implications.
+
+27:22.626 --> 27:49.118
+Limbic friction is my attempt to give a name to something that is more nuanced and mechanistic than stress. Because typically when we hear about stress, we think of heart rate, heartbeat going too fast, breathing too fast, sweating, and not being in a state that we want. We're too alert and we want to be more calm. And indeed, that's one condition in which we have limbic friction, meaning our limbic system is
+
+27:49.250 --> 28:18.398
+taking control of a number of different aspects of our autonomic or automatic biology. And we are struggling to control that through what we call top-down mechanisms. We're trying to calm down in order to reduce that level of arousal. We're all familiar with this. It's called the stress response. However, there's another aspect of stress that's just as important, which is when we're tired and we're fatigued and we need to engage, we need to be more alert than we are.
+
+28:18.530 --> 28:40.606
+And so what I call limbic friction is really designed to describe the fact that when our autonomic nervous system isn't where we want it, meaning we're trying to be more alert or we're trying to be less alert, both of those feel stressful to people. But the reason I'm bringing this up is that in order to access neuroplasticity, you need these components of focus, you need the component of self,
+
+28:41.154 --> 29:04.510
+attaching subjective reward, you need to make errors, all this stuff. And a lot of people find it difficult to just get into the overall state to access those things. Here's the beauty of it. If you are too alert, meaning you're too anxious and you want to calm down in order to learn better, there are things that you can do. The two that I've spoken about previously
+
+29:05.154 --> 29:26.206
+on various podcasts, and I'll just review them really quickly, are the double inhale, exhale. So inhaling twice through the nose and exhaling once through the mouth. This is what's called a physiological sigh. It offloads carbon dioxide from the lungs. The other thing is starting to remove your tunnel vision. When you use tunnel vision, you're very focused, that epinephrine is released by dilating your field of gaze, so-called panoramic vision.
+
+29:26.306 --> 29:56.094
+But the other side of limbic friction is important too. If you are too tired and you can't focus, well then it's going to be impossible to even get to the starting line, so to speak, for engaging in neuroplasticity through incremental learning, et cetera. So in that case, there are other methods that you can do to wake yourself up. The best thing you should do is get a good night's sleep, but that's not always possible, or use a NSDR, non-sleep deep rest protocol. But if you've already done those things, or you're simply exhausted for whatever other reason, then there,
+
+29:56.258 --> 30:23.230
+are other things that I often get asked about, like sure, a cup of coffee or super oxygenation breathing, which means inhaling more than exhaling on average in a breathing bout. Now we're sort of getting toward the realm of like how you could trick your nervous system into waking up. And if you bring more oxygen in by making your inhales deeper and longer, you will become more alert. You'll start to actually deploy norepinephrine if you breathe very fast. So there are things that you can do to move up or down this so-called autonomic arousal arc.
+
+30:23.330 --> 30:51.614
+And what you want to ask before you undergo any learning bout is how much limbic friction am I experiencing? Am I too alert and I want to be calmer? Or am I too calm and too sleepy and I want to be more alert? You're going to need to engage in behaviors that bring you to the starting line in order to learn. There are other things that you can do in order to then learn better and faster besides incremental learning and those center on the vestibular system.
+
+30:51.714 --> 31:20.702
+Why the vestibular system to access neuroplasticity? Well, we have a hardwired system for balance and here's how it works in as simple terms as I can possibly come up with. As we move through space, or even if we're stationary, your brain doesn't really know where your body is except when through that proprioceptive feedback. The main way it knows is through three planes of movement that we call pitch, which is,
+
+31:20.866 --> 31:40.158
+like nodding, so if I nod like this, that's pitch. Then there's yaw, which is like shaking my head no. And then there's roll from side to side, like when a puppy looks at you like, that kind of thing. Okay, so pitch, yaw, and roll. Our ears have two main roles. One is to hear.
+
+31:40.354 --> 32:08.958
+right, to perceive sound waves or taking sound waves for perception, so-called hearing. And the other is balance or vestibular function. So sitting in our ears are these semicircular canals and they're these little tubes where these little stones, they're actually little bits of calcium roll back and forth like little marbles. When we roll this way, they roll this way. When we pitch, when we go from side to side, there's some that sit flat like this and they go like marbles inside of a hula hoop. And then we have roll, there's some that are kind of at 45 degrees to those and it's kind of,
+
+32:09.058 --> 32:37.758
+pitch, yaw, and roll. Okay, great. That sends signals to the rest of our brain and body that tell us how to compensate for shifts relative to gravity. I say, okay, wait, I thought we were talking about plasticity, but this is where it gets really, really cool. Errors in vestibular motor sensory experience, meaning when we are off balance and we have to compensate by looking at, thinking about, or responding to the world differently,
+
+32:38.530 --> 33:07.742
+cause an area of our brain called the cerebellum, it actually means mini brain, and it looks like a little mini brain like tucked below our cortex in the back, cause the cerebellum to signal some of these deeper brain centers that release dopamine, norepinephrine, and acetylcholine. And that's because these circuits in the inner ear, et cetera, and the cerebellum, they were designed to recalibrate our motor movements
+
+33:07.938 --> 33:36.094
+when our relationship to gravity changes, something fundamental to survival. We can't afford to be falling down all the time or missing things that we grab for or running in the wrong direction when something is pursuing us. These are hardwired circuits that tap right into these chemical pathways. And those chemical pathways are the gates to plasticity. So I really want to spell this out clearly because I've given a lot of information today. The first thing is how are you arriving to the learning bout?
+
+33:37.026 --> 34:03.550
+You need to make sure your level of autonomic arousal is correct. The ideal state is going to be clear, calm, and focused, maybe a little bit more on the arousal level, like heightened arousal. So understand limbic friction, understand that you can be too tired, in which case you're going to need to get yourself a little more alert, or you can be too alert and you're going to need to get yourself calmer. So the first gate is to arrive at learning at the appropriate level of autonomic arousal.
+
+34:04.386 --> 34:19.006
+Clear and focused is best, but don't obsess over being right there. It's okay to be a little anxious or a little bit tired. Then you want to make errors. We talked about that. And this vestibular motor sensory relationship is absolutely key.
+
+34:19.170 --> 34:45.566
+if you want to get heightened or accelerated plasticity. And we talked about another feature, which is setting a contingency. If there's a reason, an important reason for you to actually learn, even if you're making failures, the learning will be accelerated. So there's really four things that you really need to do for plasticity as an adult. And I would say that these also apply to young people. And there's an interesting,
+
+34:45.793 --> 35:08.702
+kind of a thought experiment there as well, which is if you look at children, they are moving a lot in different dimensions. Whatever sport that kids are playing, or even if they don't play a sport, they tend to move in a lot of different relationships to gravity, more dimensionality to their movements, I should say, than adult. As we age, we get less good at engaging in neuroplasticity. Part of that is because
+
+35:08.930 --> 35:35.742
+as we get older, we tend to get more linear and more regular about specific kinds of movements. So you sort of have to wonder whether or not the lack of plasticity or the reduced plasticity in older individuals, which includes me, would reflect the fact that those chemicals aren't being deployed because we're not engaging in certain behaviors, as opposed to we can't engage in the behaviors because the chemicals aren't being deployed.
+
+35:36.098 --> 36:03.102
+I want to make sure that I underscore the fact that this vestibular thing that I've been describing is a way to really accentuate plasticity. It's tapping into an inborn biological mechanism where the cerebellum has outputs to these deep brain nuclei associated with dopamine, acetylcholine, and norepinephrine. That's kind of an amplifier on plasticity, as is high contingency. If you really need to learn conversational French to save your relationship,
+
+36:03.202 --> 36:32.062
+chances are you're going to learn it. Now, there are limits to this, of course, too. If someone puts a gun to my head and says, learn conversational French in the next 120 seconds, I think we would probably be my only response because I can't stuff in all the knowledge all at once. I mean, I think that's the dream of brain machine interface, that one will be able to download a chip into their hippocampus or cortex or some other brain structure that would allow them to download conversational French. And someday we may get to that.
+
+36:32.258 --> 37:00.446
+And so my overall goal here in this episode and with this podcast is to give you some understanding of the mechanisms and the insights into the underlying biology that allow you to tailor what these kind of foundational mechanisms are to suit your particular learning needs. So I very much thank you for your time and attention. I know it's a lot of information and it takes a bit of focus and attention and certainly will trigger plasticity.
+
+37:00.834 --> 37:18.462
+To learn all this information, I want to encourage you and just remind you that you don't have to grasp it all at once, that it is here archived, and that if you want to return to the information, it will still be here, and that I most of all really appreciate your interest in science. Thank you so much.

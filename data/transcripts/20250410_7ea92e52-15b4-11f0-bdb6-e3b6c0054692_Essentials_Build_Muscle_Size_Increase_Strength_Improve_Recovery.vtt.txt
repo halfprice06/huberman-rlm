@@ -1,0 +1,247 @@
+WEBVTT
+
+00:00.226 --> 00:29.118
+Welcome to Huberman Lab Essentials, where we revisit past episodes for the most potent and actionable science-based tools for mental health, physical health, and performance. I'm Andrew Huberman, and I'm a professor of neurobiology and ophthalmology at Stanford School of Medicine. This podcast is separate from my teaching and research roles at Stanford. It is, however, part of my desire and effort to bring zero cost to consumer information about science and science-related tools to the general public.
+
+00:29.346 --> 00:54.494
+Today, I want to talk about something that is vitally important for not just athletic performance, but for your entire life and indeed for your longevity, and that's muscle. And one of the things that's exquisite and fantastic about the human brain is that it can direct all sorts of different kinds of movement, different speeds of movement, movement of different durations, all of that,
+
+00:55.458 --> 01:19.582
+is governed by the relationship between the nervous system, neurons, and their connections to muscle. So today, as always, we're going to talk a little bit of mechanism. I'm going to explain how neurons control muscle. We will touch on some nutritional themes and how that relates to muscle, in particular, a specific amino acid that if it's available in your bloodstream frequently enough,
+
+01:19.874 --> 01:43.006
+sufficient levels can help you build and improve the quality of muscle. We are also going to talk about recovery. That's when muscle grows. That's when muscle gets more flexible. None of that actually happens during training. It happens after training. Most people, when they hear the word muscle, they just think about strength. But of course, muscles are involved in everything that we do.
+
+01:43.298 --> 02:09.982
+They are involved in speaking. They're involved in sitting and standing up. They're involved in lifting objects, including ourselves. They are absolutely essential for maintaining how we breathe. They're absolutely essential for ambulation, for moving and for skills of any kind. So when we think about muscle, we don't just want to think about muscle, the meat that is muscle, but what controls that muscle.
+
+02:10.145 --> 02:33.598
+And no surprise, what controls muscle is the nervous system. The nervous system does that through three main nodes of control. Basically, we have upper motor neurons in our motor cortex. So those are in our skull, and those are involved in deliberate movement. Those upper motor neurons send signals down to my spinal cord, where there are two categories of neurons, one
+
+02:33.730 --> 03:01.566
+are the lower motor neurons. And those lower motor neurons send little wires that we call axons out to our muscles and cause those muscles to contract. They do that by dumping chemicals onto the muscle. In fact, the chemical is acetylcholine. Now there's another category of neurons in the spinal cord called central pattern generators or CPGs. And those are involved in rhythmic movements. Anytime we're walking or doing something where we don't have to think about it to do it
+
+03:01.794 --> 03:24.222
+deliberately, it's just happening reflexively, that central pattern generators and motor neurons. Anytime we're doing something deliberately, the top-down control, as we call it, from the upper motor neurons comes in and takes control of that system. So it's really simple. You've only got three ingredients. You got the upper motor neurons, the lower motor neurons, and for rhythmic movements that are reflexive, you've also got the central pattern generators.
+
+03:24.450 --> 03:38.398
+I'd like to take a quick break and acknowledge our sponsor, Eight Sleep. Eight Sleep makes smart mattress covers with cooling, heating, and sleep tracking capacity. Now I've spoken before on this podcast about the critical need for us to get adequate amounts of quality sleep each and every night.
+
+03:38.594 --> 04:08.560
+Now, one of the best ways to ensure a great night's sleep is to ensure that the temperature of your sleeping environment is correct. And that's because in order to fall and stay deeply asleep, your body temperature actually has to drop about one to three degrees. And in order to wake up feeling refreshed and energized, your body temperature actually has to increase by about one to three degrees. Eight Sleep automatically regulates the temperature of your bed throughout the night according to your unique needs. Now, I find that extremely useful because I like to make the bed really cool at the beginning of the night, even colder in the middle
+
+04:08.560 --> 04:29.534
+of the night and warm as I wake up. That's what gives me the most slow wave sleep and rapid eye movement sleep. And I know that because Eight Sleep has a great sleep tracker that tells me how well I've slept and the types of sleep that I'm getting throughout the night. Their latest model, the Pod 4 Ultra, also has snoring detection that will automatically lift your head a few degrees in order to improve your airflow and stop you from snoring.
+
+04:29.698 --> 04:52.798
+If you decide to try Eight Sleep, you have 30 days to try it at home and you can return it if you don't like it. No questions asked, but I'm sure that you'll love it. Go to eightsleep.com slash Huberman to save up to $350 off your Pod 4 Ultra. Eight Sleep ships to many countries worldwide, including Mexico and the UAE. Again, that's eightsleep.com slash Huberman to save up to $350 off your Pod 4 Ultra.
+
+04:52.930 --> 05:15.454
+Today's episode is also brought to us by Element. Element is an electrolyte drink that has everything you need, but nothing you don't. That means the electrolytes, sodium, magnesium, and potassium, all in the correct ratios, but no sugar. Proper hydration is critical for optimal brain and body function. Even a slight degree of dehydration can diminish cognitive and physical performance. It's also important that you get adequate electrolytes.
+
+05:15.554 --> 05:39.966
+The electrolytes, sodium, magnesium, and potassium are vital for the functioning of all the cells in your body, especially your neurons or your nerve cells. Drinking element dissolved in water makes it extremely easy to ensure that you're getting adequate hydration and adequate electrolytes. To make sure that I'm getting proper amounts of hydration and electrolytes, I dissolve one packet of element in about 16 to 32 ounces of water when I wake up in the morning and I drink that basically first thing in the morning.
+
+05:40.098 --> 06:02.878
+I also drink Element dissolved in water during any kind of physical exercise that I'm doing. They have a bunch of different great tasting flavors of Element. They have watermelon, citrus, et cetera. Frankly, I love them all. If you'd like to try Element, you can go to drinkelement.com slash Huberman to claim an Element sample pack with the purchase of any Element drink mix. Again, that's drinkelement.com slash Huberman to claim a free sample pack.
+
+06:03.074 --> 06:29.022
+I'd now like to shift our attention to how to use specific aspects of muscular contraction to improve muscle hypertrophy, muscle growth, as well as improving muscle strength. There are a lot of reasons to want to get stronger. And I should just mention that it's not always the case that getting stronger involves muscles getting bigger. There are ways for muscles to get stronger without getting bigger. However,
+
+06:29.282 --> 06:56.478
+increasing the size of a muscle almost inevitably increases the strength of that muscle, at least to some degree. Reasons why most everyone should want to get their muscles stronger is that muscles are generally getting progressively weaker across the lifespan. So when I say getting stronger, it's not necessarily about being able to move increasing amounts of weight in the gym, but rather to offset some of the normal decline
+
+06:56.578 --> 07:20.926
+in strength and posture and the ability to generate a large range of movement safely that occurs as we age. So there's an important principle of muscle physiology called the Henneman size principle. And the Henneman size principle essentially says that we recruit what are called motor units. Motor units are just the connections between nerve and muscle from
+
+07:21.026 --> 07:50.046
+in a pattern that staircases from low threshold to high threshold. What this means is when you pick up something that is light, you're going to use the minimum amount of nerve to muscle energy in order to move that thing. Likewise, when you pick up an object that's heavy, you're going to use the minimum amount of nerve to muscle connectivity and energy in order to move that object. So it's basically a conservation of energy principle.
+
+07:50.722 --> 08:20.094
+Now, if you continue to exert effort of movement, what will happen is you will tend to recruit more and more motor units with time. As you recruit more and more of these motor units, these connections between these lower motor neurons and muscle, that's when you start to get changes in the muscle. That's when you open the gate for the potential for the muscles to get stronger and to get larger. And so the way this process works
+
+08:20.386 --> 08:37.278
+has been badly misunderstood in the kind of online literature of weight training and bodybuilding, and even in sports physiology. The Henneman size principle is kind of a foundational principle within muscle physiology, but many people have come to interpret it
+
+08:37.378 --> 08:57.758
+by saying that the way to recruit high threshold motor units, the ones that are hard to get to is to just use heavy weights. And that's actually not the case. As we'll talk about the research supports that weights in a very large range of sort of a percentage of your maximum
+
+08:58.018 --> 09:14.398
+anywhere from 30 to 80%. So weights that are not very light, but are moderately light, too heavy, can cause changes in the connections between nerve and muscle that lead to muscle strength and muscle hypertrophy. Put differently,
+
+09:14.754 --> 09:44.222
+Heavy weights can help build muscle and strength, but they are not required. What one has to do is adhere to a certain number of parameters, just a couple of key variables that I'll spell out for you. And if you do that, you can greatly increase muscle hypertrophy, muscle size, and or muscle strength if that's what you want to do. And you don't necessarily have to use heavy weights in order to do that. Now, I'm sure the power lifters and the people that like to move heavy weights around
+
+09:44.706 --> 10:08.798
+will say, no, if you want to get strong, you absolutely have to lift heavy weights. And that might be true if you want to get very strong, but for most people who are interested in supporting their muscular such that they offset any age-related decline in strength or in increasing hypertrophy and strength to some degree, there really isn't a need to use the heaviest weights possible in order to build strength and muscle.
+
+10:08.962 --> 10:35.294
+So there are three major stimuli for changing the way that muscle works and making muscles stronger, larger, or better in some way. And those are stress, tension, and damage. Those three things don't necessarily all have to be present, but stress of some kind has to exist. So this is very reminiscent of neuroplasticity in the brain. There is a good predictor of how well
+
+10:35.938 --> 11:04.638
+or how efficient you will be in building the strength and, or if you like the size of a given muscle. And it has everything to do with those upper motor neurons that are involved in deliberate control of muscle. You can actually do this test right now. You can just kind of march across your body mentally and see whether or not you can independently contract any or all of your muscles. Because everything about muscle hypertrophy, about stimulating muscle growth,
+
+11:05.250 --> 11:30.622
+is about generating isolated contractions, about challenging specific muscles in a very unnatural way. Whereas with strength, it's about using musculature as a system, moving weights, moving resistance, moving the body. The specific goal of hypertrophy is to isolate specific nerve to muscle pathways so that you stimulate the chemical
+
+11:30.722 --> 11:43.134
+and signaling transduction events in muscles so that those muscles respond by getting larger. So there's a critical distinction in terms of getting stronger versus trying to get muscles to be larger hypertrophy
+
+11:43.426 --> 12:10.526
+per se, and it has to do with how much you isolate those muscles. So you can nest this as a principle for yourself, which is if you want to get stronger, it's really about moving progressively greater loads or increasing the amount of weight that you move. Whereas if you're specifically interested in generating hypertrophy, it's all about trying to generate those really hard, almost painful localized contractions of muscle.
+
+12:10.658 --> 12:37.726
+If ever there was an area of practical science that was very confused, very controversial and almost combative at times, it would be this issue of how best to train. I suppose the only thing that's even more barbed wire of a conversation than that is how best to eat for health. Those seem to be the two most common areas of online battle. What's very clear now from all the literature is that once you know
+
+12:37.922 --> 13:02.366
+roughly your one repetition maximum, the maximum amount of weight that you can perform an exercise with for one repetition in good form, full range of motion, that it's very clear that moving weights or using bands or using body weight, for instance, in the 30 to 80% of one rep maximum
+
+13:02.626 --> 13:21.694
+that is going to be the most beneficial range in terms of muscle hypertrophy and strength. So muscle growth and strength. So let's say you're somebody who's been doing some resistance exercise kind of on and off over the years, and you decide you want to get serious about that for sake of sport or offsetting age-related declines in strength.
+
+13:22.082 --> 13:38.206
+The range of sets to do in order to improve strength ranges anywhere from two, believe it or not, to 20 per week. Again, these are sets per week and they don't necessarily all have to be performed in the same weight training session. It appears that five sets per week
+
+13:38.850 --> 14:03.454
+in this 30% to 80% of the one repetition maximum range is what's required just to maintain your muscles. So think about that. If you're somebody who's kind of averse to resistance training, you are going to lose muscle size and strength. Your metabolism will drop, your posture will get worse. Everything in the context of nerve to muscle connectivity will get worse over time unless you are generating five sets
+
+14:04.770 --> 14:31.294
+or more of this 30% to 80% of your one repetition maximum per week. Okay, so what this means is for the typical person who hasn't done a lot of weight training, you need to do at least five sets per muscle group. Now that's just to maintain. And then there's this huge range that goes all the way up to 15 and in some case 20 sets per week. Now, how many sets you perform is going to depend on the intensity of the work that you perform.
+
+14:31.906 --> 14:57.342
+This is where it gets a little bit controversial, but I think nowadays most people agree that 10% of the sets of a given workout or 10% of workouts overall should be of the high intensity sort where one is actually working to muscular failure. But the point being that most of your training, most of your sets should be not to failure.
+
+14:57.506 --> 15:26.494
+And the reason for that is it allows you to do more volume of work. So we can make this simple, perform anywhere from five to 15 sets of resistance exercise per week, and that's per muscle. And that's in this 30 to 80% of what your one repetition maximum. That seems to be the most scientifically supported way of offsetting any decline in muscle strength. If you're working in the kind of five set range,
+
+15:26.594 --> 15:55.166
+and in increasing muscle strength when you start to get up into the 10 and 15 set range. But it's pretty clear that performing this five to 15 sets per week, whether or not it's in one workout or whether it's divided up across multiple workouts is really what's going to be most beneficial. And please do keep in mind Henneman's size principle and the recruitment of motor units. And remember, the better you are at contracting particular muscles and isolating those muscles, the fewer sets likely you need to do in order to get the desired effect.
+
+15:55.522 --> 16:10.174
+As many of you know, I've been taking AG1 daily for more than 13 years. However, I've now found an even better vitamin mineral probiotic drink. That new and better drink is the new and improved AG1, which just launched this month.
+
+16:10.274 --> 16:37.438
+This next-gen formula from AG1 is a more advanced, clinically-backed version of the product that I've been taking daily for years. It includes new bioavailable nutrients and enhanced probiotics. The next-gen formula is based on exciting new research on the effects of probiotics on the gut microbiome, and it now includes several specific clinically studied probiotic strains that have been shown to support both digestive health and immune system health, as well as to improve bowel regularity and to reduce bloating.
+
+16:37.538 --> 17:06.623
+As someone who's been involved in research science for more than three decades and in health and fitness for equally as long, I'm constantly looking for the best tools to improve my mental health, physical health, and performance. I discovered and started taking AG1 way back in 2012, long before I ever had a podcast, and I've been taking it every day since. I find that it greatly improves all aspects of my health. With each passing year, and by the way, I'm turning 50 this September, I continue to feel better and better, and I attribute a lot of that to AG1.
+
+17:06.753 --> 17:36.720
+AG1 uses the highest quality ingredients in the right combinations, and they're constantly improving their formulas without increasing the cost. So I'm honored to have them as a sponsor of this podcast. If you'd like to try AG1, you can go to drinkag1.com slash Huberman to claim a special offer. Right now, AG1 is giving away an AG1 welcome kit with five free travel packs and a free bottle of vitamin D3 K2. Again, go to drinkag1.com slash Huberman to claim the special welcome kit with five free travel packs and a free bottle
+
+17:36.720 --> 18:06.142
+of vitamin D3 K2. What about people who have been training for a while? If you're somebody who's been doing weight training for a while, the data point to the fact that more volume can be beneficial, even for muscles that you are very efficient at contracting. Now, the curve on this, the graph on this begins again at about five sets per week for maintaining a given muscle group and extends all the way out to 25 or 30 sets per week. However, there are
+
+18:06.658 --> 18:34.814
+individuals who for whatever reason can generate so much force. They're so good at training muscles that they can generate so much force in just four or six or eight sets that doing this large volume of work is actually going to be counterproductive. So everyone needs to figure out for themselves, first of all, how often you're willing to do resistance exercise of any kind. And then it does appear that somewhere between five and 15 sets per week is going to be what's
+
+18:35.042 --> 19:00.734
+the thing that's going to work for most people. Now, this is based on a tremendous amount of work that was done by Andy Galpin and colleagues, Brad Schoenfield and colleagues, Mike Roberts. There's a huge group of people out there doing exercise physiology and a small subset of them that are linking them back to real world protocols that don't just pertain to athletes. So that's mainly what I'm focusing on today. And surely there will be exceptions. Now, if you are going to divide the sets
+
+19:00.930 --> 19:26.398
+across the week, you're not going to do all 10 sets, for instance, for a given muscle group in one session. Then of course, it's imperative that the muscles recover in between sessions. You might ask, well, what about the speeds of movements? This is actually turns out to be a really interesting data set. For generating explosiveness and speed, it's very clear that learning to generate forces quickly and to move heavy or moderately heavy loads quickly
+
+19:26.722 --> 19:55.838
+is going to be beneficial because of the way that you train the motor neurons. And of course, changes in the muscle. And so what this would involve is something like 60 to 75% of a one repetition maximum. And then in a controlled way, moving that as quickly as one can throughout the entire set. And certainly not going to failure because as you approach failure, the inability to move the weight with good form, the weight inevitably slows down. So as you're probably starting to realize you need to customize a resistance
+
+19:56.354 --> 20:23.678
+practice for your particular needs and goals. So we've talked about a few principles, the fact that you need to get sufficient volume, you need at least five sets to maintain, and you probably need about 10 sets per muscle group in order to improve muscle. That moving weights of moderate to moderately heavy weight quickly is going to be best for explosiveness. That isolating muscles and really contracting muscles hard, something that you can test by just when you're outside the training session, seeing whether or not you can cramp the muscle hard will really
+
+20:23.874 --> 20:52.414
+will tell you your capacity to improve hypertrophy or to engage strength changes in that muscle. That your ability to contract a muscle hard is inversely related to the number of sets that you should do in order to isolate and stimulate that muscle. Now, how long to recover between sets? There's a question for the testosterone protocol. Duncan French and colleagues found that it was about two minutes, keeping that really on the clock, two minutes, not longer. For hypertrophy and for strength gains,
+
+20:52.834 --> 21:12.958
+it does seem that resting anywhere from two minutes or even three or four, or even five or six minutes can be beneficial. So how do we know if we've recovered? How can we test recovery? And this is not just recovery from resistance training. This is recovery from running, recovery from swimming. Up until now, I've been talking about resistance training more or less in a vacuum.
+
+21:13.122 --> 21:41.950
+even touched on the fact that many people are running and they're doing resistance training or they're swimming and they're doing resistance training. Well, you can assess systemic recovery, meaning your nervous system and your nervous system's ability to generate force, both distributed and isolated through three main tests. And fortunately, these tests are very simple and two of them are essentially zero cost, require no equipment. HRV,
+
+21:42.114 --> 22:06.622
+heart rate variability has made its way finally into the forefront of exercise physiology and even into the popular discussion. I've talked about HRV before, how when we exhale, our heart rate slows down because of the way that our diaphragm is connected to our heart and to our brain and the way our brain is connected to our heart. When we inhale, our heart rate speeds up and that is the basis of heart rate variability. Heart rate variability is good.
+
+22:07.138 --> 22:31.614
+but heart rate variability is difficult for a lot of people to measure. There are two measures, however, whether or not you recovered that you can use first thing in the morning when you wake up in order to assess how well recovered you are and therefore whether or not you should train your whole system at all that day. The first one is grip strength. Grip strength, the ability to generate force at the level of squeezing the fist or
+
+22:31.778 --> 22:52.062
+you know, squeezing down on something might seem like kind of a trivial way to assess recovery, but it's not because it relates to your ability to use your upper motor neurons to control your lower motor neurons and to generate isolated force. And so that's really what you're assessing when you do that. Some people will use, you know, one of these grip tools.
+
+22:52.162 --> 23:18.846
+working really hard, not sleeping very well, or I've been training a lot, any one or combination of those things, my grip suffers. I can't actually squeeze that thing down as much as I can. But on a good day, I can squeeze this thing so that I eliminate the hole in the donut, so to speak. You can also take a floor scale and squeeze the scale and see how much force you can generate. I would do that as a baseline to establish what you can do when you're well rested. And then if you do that in the morning, you can see whether or not you're able to generate the same amount of force.
+
+23:18.978 --> 23:37.438
+A lot of this is very subjective with the scale. You're really trying to assess whether or not you can generate the same amount of force. If you start seeing a 10% or 20% certainly reduction in that, that's concerning. It means that your system, that your nervous system as a whole, it's not necessarily fatigued. It's that the pathways from nerve to muscle
+
+23:38.114 --> 23:58.718
+are still in the process of rewiring themselves in order to generate force. And you might think, well, I trained one muscle group one day, why am I having a hard time doing this for a completely different muscle group? It doesn't make any sense. But there's something about the upper motor neuron to lower motor neuron pathway generally that allows you to use something like grip strength as a kind of a thermometer, if you will.
+
+23:59.362 --> 24:20.798
+of your ability to recover. So look for your ability to generate force in grip when you first wake up. It's not going to be as good as it is at 3 p.m. after a cup of coffee and a couple of meals, but the point isn't performance overall. The point is to assess whether or not you're getting better, worse, or the same from day to day. I'd like to take a quick break and acknowledge one of our sponsors, Function.
+
+24:20.898 --> 24:50.864
+Last year, I became a Function member after searching for the most comprehensive approach to lab testing. Function provides over 100 advanced lab tests that give you a key snapshot of your entire bodily health. This snapshot offers you with insights on your heart health, hormone health, immune functioning, nutrient levels, and much more. They've also recently added tests for toxins, such as BPA exposure from harmful plastics, and tests for PFASs, or forever chemicals. Function not only provides testing of over 100 biomarkers key to your physical and mental
+
+24:50.864 --> 25:20.816
+health, but it also analyzes these results and provides insights from top doctors who are expert in the relevant areas. For example, in one of my first tests with Function, I learned that I had elevated levels of mercury in my blood. Function not only helped me detect that, but offered insights into how best to reduce my mercury levels, which included limiting my tuna consumption. I'd been eating a lot of tuna, while also making an effort to eat more leafy greens and supplementing with NAC and acetylcysteine, both of which can support glutathione production and detoxification. And I should say,
+
+25:20.816 --> 25:39.262
+say by taking a second function test, that approach worked. Comprehensive blood testing is vitally important. There's so many things related to your mental and physical health that can only be detected in a blood test. The problem is blood testing has always been very expensive and complicated. In contrast, I've been super impressed by function simplicity and
+
+25:39.362 --> 26:03.838
+at the level of cost. It is very affordable. As a consequence, I decided to join their scientific advisory board and I'm thrilled that they're sponsoring the podcast. If you'd like to try Function, you can go to functionhealth.com slash Huberman. Function currently has a wait list of over 250,000 people, but they're offering early access to Huberman podcast listeners. Again, that's functionhealth.com slash Huberman to get early access to Function.
+
+26:04.258 --> 26:33.182
+The other one that's really terrific and the Andy Galpin's group is using, and I'm delighted about this because it relates to something that my lab is very excited about as well, is carbon dioxide tolerance. So this is a really interesting tool that endurance athletes, strength athletes, I think can all benefit from. So here's how you do the carbon dioxide tolerance test. You wake up in the morning and what you're going to do is you're going to inhale through your nose as deeply as you can. You can do this lying down, sitting, whatever, inhale through your nose,
+
+26:33.890 --> 27:02.014
+and then exhale all the way. So that's one. You're going to repeat that four times. Then you take a fifth inhale as deep as you can through your nose, fill your lungs as much as you can. And if you can try and expand, make your stomach go out while you do that, that means that your diaphragm is really engaged. So you're inhaling as much as you possibly can. Then hit the timer and your goal is to release that air as slowly as possible
+
+27:02.914 --> 27:25.470
+through your mouth. So it looks like you have a tiny, tiny little straw in your mouth and you're letting it go as slowly as you possibly can. Measure what we call the carbon dioxide blow off time or discard rate. I know you can all sit with lungs empty after you eliminate all that air, but don't,
+
+27:25.698 --> 27:53.758
+Lie to yourself. Don't stop the timer when you've been sitting with your lungs empty for a while. Stop the timer when you are finally no longer able to exhale any more air. Your carbon dioxide discard rate will be somewhere between one second and presumably two minutes. Two minutes would be a heroic carbon dioxide discard time. 30 seconds would be more typical. 20 seconds would be fast.
+
+27:54.050 --> 28:23.166
+If your carbon dioxide discard time is 20 or 25 seconds or less, you are not necessarily recovered from your previous day's activities. If your carbon dioxide discard time is somewhere between about 30 seconds and 60 seconds, you are in what we would call kind of the green zone where you are in a position to do more physical work.
+
+28:24.162 --> 28:43.038
+And if your carbon dioxide discard time is somewhere between 65 and 120 seconds, well then you have almost certainly recovered your nervous system. I'm not talking about the individual muscles, but your nervous system is prepared to do more work. I'm really keen on this tool because everybody has different,
+
+28:43.170 --> 29:11.294
+recovery abilities. I realize people have varying levels of stress and demand in their life. It's just impossible to prescribe an entire protocol that says, okay, yes, you should train today. And this is exactly what you should do. No, you shouldn't. Use carbon dioxide discard rate because A, it's valuable. It's informative. B, it's zero cost. And C, it's something that you can track objectively over time. And that's really the key. So recovery is a complex process. It's got a lot of things, but
+
+29:11.554 --> 29:34.622
+The CO2 tolerance test should be a valuable tool. Now, another tool for recovery that people are very excited about is the use of cold and the ice bath. And this is important. Yes, it will reduce inflammation. Yes, it will reduce the amount of delayed onset muscle soreness, but it does seem to interfere with some of the things like mTOR pathways, the mammalian target of rapamycin pathway and other
+
+29:34.786 --> 30:00.030
+pathways related to inflammation that promote muscle repair, remember, and muscle growth. Remember, stress, tension, and damage are the stimulus for nerve to muscle connections to change and for muscles to get bigger, stronger, and better. And so if you're getting into the ice bath after doing resistance training, you are likely short circuiting the improvements that you're trying to create. The other thing are non-steroid anti-inflammatory drugs. You know their trade names.
+
+30:00.162 --> 30:29.854
+These are painkillers that many people take. Those, as I've mentioned in a previous episode, seem to prevent a lot of the gains, the improvements in endurance, strength, and size that people are specifically using exercise for. So be cautious about your use of non-steroid anti-inflammatory drugs, especially within the four hours preceding or the four hours following exercise. Let's talk about some of the things that seem to work across the board to improve strength, improve hypertrophy,
+
+30:29.986 --> 30:59.486
+to improve nerve to muscle communication and performance. The first thing that's absolutely key for nerve to muscle communication and physical performance of any kind might not sound that exciting to you, but it is very exciting. And that's salt. Nerves, nerve cells, neurons communicate with each other and communicate with muscle by electricity. But that electricity is generated by particular ions moving into and out of the neuron and the rushing in
+
+30:59.586 --> 31:18.366
+of a particular ion, sodium, salt, is what allows nerve cells to fire. If you don't have enough salt in your system, your neurons and your brain and your nerve to muscle communication will be terrible. If you have sufficient salt, it will be excellent. How much salt will depend on how much water you're drinking.
+
+31:18.498 --> 31:43.486
+how much caffeine you're drinking, and how much food you're ingesting. So, and whether or not you're taking any diuretics, how hot it is, et cetera, how much you're sweating. So you want to make sure that you have enough salt, potassium, and magnesium in your system if you want to perform well. The other thing that's been shown over and over again, numerous well-controlled studies to improve muscle performance is creatine. How much creatine? Well, I asked the experts.
+
+31:44.194 --> 32:10.014
+And they tell me that for somebody who's about 180 pounds, five grams a day should be sufficient or so. Creatine seems to have a performance enhancing effect. There are 66 studies, 66, showing that power output is greatly increased anywhere from 12 to 20%. And this is sprinting and running and jumping as well as weightlifting by creatine. The ability to,
+
+32:10.690 --> 32:38.718
+Hydrate your body is improved by creatine because of the way that it brings more water into cells of various kinds. It reduces fatigue. When it comes to supporting muscle, it does seem that ingesting 700 to 3000 milligrams of the essential amino acid leucine with each meal is important. Now that does not necessarily mean from supplements. In fact, most people recommend that you get your
+
+32:39.138 --> 33:01.662
+you get your amino acids, including your essential amino acids and your leucine from whole foods. High quality proteins are high density proteins. What do you mean by that? Well, it is true that a lot of sources of protein are found in things like beans and nuts and things like that, that all the essential amino acids can be found there, but per unit calorie,
+
+33:02.114 --> 33:29.182
+if it's in your practice, if it's in your ethics to ingest animal proteins, it's true that for instance, 200 calories of steak or chicken or fish or eggs will have a higher density of essential amino acids than the equivalent amount of calories from nuts or plants. So I'm not, for the vegans and vegetarians, I'm certainly not saying there's no way that you can support muscle growth. You absolutely can. I encourage you to think about this protein density issue
+
+33:29.954 --> 33:54.046
+and whether or not you're getting sufficient essential amino acids, especially leucine. But I think the simple takeaway from the literature that I was able to extract eating two to four times a day, making sure you're getting sufficient amino acids in a way that's compatible with your ethics and with your nutritional regimen is going to support muscle repair, muscle growth, strength improvements, et cetera, just fine.
+
+33:54.370 --> 34:00.830
+Last but not least, I want to thank you for your time and attention today. And as always, thank you for your interest in science.

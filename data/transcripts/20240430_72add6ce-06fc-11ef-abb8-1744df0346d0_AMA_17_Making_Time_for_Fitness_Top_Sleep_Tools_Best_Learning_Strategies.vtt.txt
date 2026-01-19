@@ -1,0 +1,190 @@
+WEBVTT
+
+00:00.386 --> 00:23.038
+Welcome to the Huberman Lab Podcast, where we discuss science and science-based tools for everyday life. I'm Andrew Huberman, and I'm a professor of neurobiology and ophthalmology at Stanford School of Medicine. Today is an Ask Me Anything, or AMA, episode. But before I get to answering your most frequently asked questions, I'd like to make an exciting announcement.
+
+00:23.138 --> 00:53.104
+As you may know, being a subscriber to the Huberman Lab Premium Channel allows you access to the full length AMAs. Otherwise, you can just listen to the first 15 or 20 minutes or so of these AMAs. Now you may also know that a significant portion of the proceeds from the Premium Channel go to fund important research on humans to benefit mental health, physical health, and performance. When we started the Premium Channel, we had a one-for-one match with Tiny Foundation, and that's great. That means for every dollar that Huberman Lab Premium Channel contributes to research, Tiny Foundation
+
+00:53.104 --> 01:21.022
+matches that dollar amount. And I'm very excited to announce that we now have a three to one dollar match with the Huberman Lab Premium Channel philanthropy. That means for every dollar that we would contribute to research, three more dollars are matched to that dollar. That's a four X amplification of the funding to benefit important studies, again, on human beings for mental health, physical health and performance. And of course, as those studies are completed and published, we will be sharing with you the information and how it can benefit all of you.
+
+01:21.218 --> 01:47.454
+So for those of you that are already Huberman Lab premium channel subscribers, thank you. And for those of you that are considering becoming premium channel subscribers, please keep in mind that three to $1 match that greatly amplifies your subscription. If you'd like to subscribe to the Huberman Lab podcast premium channel, please go to hubermanlab.com slash premium. It is $10 a month to subscribe, or you can pay $100 all at once to get an entire 12 month subscription for a year.
+
+01:47.682 --> 02:12.574
+We also have a lifetime subscription model that is a one-time payment. And again, you can find that option at hubermanlab.com slash premium. For those of you that are already subscribers to the premium channel, please go to hubermanlab.com slash premium and download the premium subscription feed. And for those of you that are not Huberman Lab Podcast premium subscribers, you can still hear the first 20 minutes of today's episode and determine whether or not becoming a premium subscriber is for you.
+
+02:12.738 --> 02:28.510
+So without further ado, let's get to answering your questions. The first question is about scheduling fitness. That is how to ensure that you get sufficient number of resistance training and cardiovascular workouts per week in order to best benefit your immediate and long-term health.
+
+02:28.674 --> 02:58.640
+Now, I did an episode of the Huber and Lab podcast all about what I call a foundational fitness protocol. The foundational fitness protocol is the one that I've followed more or less for the last 30 plus years. And it certainly is not the only protocol that works out there, but it's a schedule that most people can adhere to over time. And that checks off the boxes for what the current research tells us we need in order to maximize our cardiovascular health, to maximize our neuromuscular health, and to do so with a minimal time commitment. Now I've already put together and I provide a
+
+02:58.640 --> 03:28.592
+There's a link in the show note captions for the foundational fitness protocol in the form of a PDF, which spells out which workouts are done on which days, what the various workouts look like, including sets and reps, what options you have in terms of cardiovascular exercise. I personally like to run, but you could also use a rower, you can use a stationary bike. There's a lot of optionality inside of the foundational fitness protocol. And by the way, the foundational fitness protocol is available to all of you, completely zero cost. You don't even need to sign up for our neural network newsletter, although you can if you like.
+
+03:28.592 --> 03:50.078
+Again, you can find that by following a link in the show note captions or simply going to Hubermanlab.com, going to the menu tab, scrolling down to newsletter, and then you can scroll down to the foundational fitness protocol. You can view it online, print it out. Again, doesn't cost anything and there's no barrier to entry, meaning you don't need to do anything to access it. You can just look at it or download it or print it, whatever you like.
+
+03:50.210 --> 04:07.198
+The basic structure of the foundational fitness protocol is three resistance training sessions per week and three cardiovascular training sessions per week, and then one complete rest day. Now that might sound like a lot to some of you, but in fact, none of the workouts is particularly long. I think the longest workout in that entire
+
+04:07.298 --> 04:33.278
+foundational fitness protocol is about 60 minutes, maybe 75 minutes if you're moving slowly through the gym because somebody else is in the way or because you're checking your phone a little too often as we all sometimes do, that sort of thing. But the basic structure is as follows. For me, the foundational fitness protocol starts as day one on Monday, but you could start it as day one on any day of the week, frankly. So day one for me is to train legs. So that's quadriceps, hamstrings,
+
+04:33.410 --> 04:59.166
+and calves and tibialis work, the front of the shin. For those of you that don't know, I'm a big fan of doing tibialis work. Then the next day is a complete day off during which you could do if you wanted something like deliberate heat or deliberate cold exposure or both, but you don't have to. It's just nice to have a complete day off after training legs because if you train legs properly, oftentimes it can be a bit tiring and the next day you're recovering. Then the following day is either a
+
+04:59.714 --> 05:27.230
+cardiovascular training session of about 20 to 30 minutes of say a jog at a slightly more rapid clip than one would consider zone two cardio. Zone two cardio is where you can carry out a conversation. So a little bit faster than that. Or if you're not feeling like your legs are recovered enough to do that, you could do the resistance training work on that day. The resistance training work that falls in the middle of the week is believe it or not, torso. I know that for some of you that are into more kind of bodybuilding type routines,
+
+05:27.330 --> 05:50.046
+Training your entire torso on one day might seem like a lot, but really that day just involves some pushing. So some overhead shoulder press type workouts or dips, maybe some bench presses, if that's your thing, as well as some pulling. So some rows and some pull-ups or chin-ups, things of that sort. Again, all tailored to you so that you're not doing anything that aggravates any preexisting injuries, and you're not going to do anything that's going to induce injuries.
+
+05:50.178 --> 06:20.144
+Okay, so there's some pushing and pulling, maybe a little bit of neck work if you need some additional neck strength, that sort of thing. So with legs on Monday, rest on Tuesday, that falls either on Wednesday or Thursday, depending on how recovered your legs were. Then the next day, which for me typically falls on a Friday, is a high intensity interval training session. Although really it's just about VO2 max. It's about getting maximum heart rate where you're breathing really, really hard. And that's a very short workout. The total duration of that workout is anywhere from eight to 15 minutes total.
+
+06:20.144 --> 06:43.102
+For me, it involves getting on an Airdyne bike. Those are those bikes with some resistance because there's a fan, although you could do this on a rower. Basically anything where you can exert yourself to get your heart rate way, way up and breathe very, very hard where you're not going to injure your musculoskeletal system. You're not going to do any soft tissue damage. So you need to figure out what that is for you. Again, the PDF explains how to select that. For me, it typically means getting on the Airdyne bike and pedaling very hard for about
+
+06:43.426 --> 07:10.782
+20 seconds, then resting 10 seconds, 20 seconds hard, 10 seconds rest, 20 seconds hard for a total of about eight cycles, by the end of which I'm breathing extremely hard. My heart rate is way, way up. And then I'll just shower and head about my day. And then the following day, which typically for me falls on a Saturday, although again, we're going to talk about flexibility and how to build flexibility into the schedule. The Saturday workout is typically things like biceps, triceps, some calves, maybe a bit more neck work and some
+
+07:11.010 --> 07:32.894
+abdominal work, excuse me. So basically small body parts that can recover pretty quickly. And that workout typically takes only about 45 to 50 minutes, maybe 60 minutes maximum. And then the following day, which is of course, Sunday is a day in which I try and get outside and move as much as possible. So I'll typically do the longer Sunday cardio workout as either a rock, so a backpack with a weight in it,
+
+07:33.474 --> 08:03.440
+By the way, if you don't own a rucksack, you can just put a, you know, a gallon water jug in there full, and then, you know, drink it as you go. It'll lighten as you go. Or you could get a weight vest if you have the resources to do that. There's some great weight vests out there of varying weight. You can throw a kid on your shoulders. If you've got a kid that wants to be carried on your shoulders, you can do it alone, listening to an audio book, listening to music, or in total silence. I've done all these various versions, by the way. You can do it with family members or with friends. I'll sometimes do this with my
+
+08:03.440 --> 08:27.806
+One of the great things about this long Sunday workout is that it's extremely flexible in terms of how social you are or whether or not you do it in isolation, whether or not you do it on concrete or on dirt, it's very versatile. For instance, if I have friends over and I want to spend time with them, but I also want to get outdoors and do this workout. And if they're interested in getting some outdoor movement as well, we'll all just head out for a hike. And if they are,
+
+08:28.002 --> 08:56.894
+less fit than I am or tend to move more slowly, well then I'll throw on a, you know, a 10 or 15, maybe even 30 pound backpack so that I get a good workout out of it. And if they're faster than I am, and they're the sort of person who, you know, is a triathlete, I've got some friends who are triathletes and they want to move at a really fast clip, well then I'm not bringing any weight pack and I'm just going to ask them to, you know, weight up for me because I'm going to have a hard time keeping up, but I'll have to really push myself as I go along. So a lot of versatility, I don't measure my heart rate during any of these workouts, by the way, that's not my,
+
+08:57.218 --> 09:04.958
+preferred way to do things. I know other people like to measure heart rate as they go. I find it's just really nice to get out once a week, if possible,
+
+09:05.154 --> 09:29.182
+out of doors and just move my body as much as possible so that I head into the week knowing that I got some really terrific outdoor time in nature while benefiting my cardiovascular system and often while socializing with important people in my life as well. Okay, so that's the summary of the foundational fitness protocol. And one thing that I really like about it is that the total time commitment is actually not that great. If you step back from it, you realize there's a, you know, a brief 12 minute workout, there's an hour long weight
+
+09:29.314 --> 09:57.470
+training workout, there's a long hike, sure, but then there's a 20 minute jog. It's really not that much time when you consider the overall benefits to one's health. Now, one very important feature of the foundational fitness protocol is to build some flexibility into it. You know, the way I described it up until now was, okay, Monday legs, Tuesday rest, Wednesday, cardio, Thursday, torso, Friday, high intensity interval training VO2 max, Saturday, small body parts, biceps, triceps, calves, et cetera.
+
+09:58.082 --> 10:17.470
+Sunday long, slow distance cardio. But in reality, sometimes I have to travel on a Monday, so I don't have the option to train legs that day. In which case, what I will do is either slide that workout to Sunday, meaning I'm doing both long, slow distance cardio and the,
+
+10:17.666 --> 10:47.632
+leg workout, or I'll slide it to Tuesday, which is typically a rest day. However, sometimes I'm traveling on a Monday. I don't have access to a gym to train my legs properly. So what do I do? Do I skip leg day? No, I don't skip leg day typically, unless I'm sick or I'm extremely sleep deprived, or there's some other major stress in my life. What I'll typically do is I will plan for it by training my legs on Sunday. Or if I don't have access to a place where I can train my legs properly on Sunday, I'll just shift it to Tuesday. Okay.
+
+10:47.632 --> 11:10.782
+The question always becomes, if I were to move that leg workout to Sunday, just by way of necessity, because I'm traveling on a Monday, do I also do the long, slow distance work that I typically do on Sunday? And the answer is yes, if I'm well rested. So if I'm well rested and well fed, I'm not feeling like I'm fighting off any kind of illness and I have the time, what I'll do is I'll train my legs in the gym,
+
+11:10.914 --> 11:36.414
+on Sunday and then I'll head out for, I don't know, an hour long walk in the neighborhood or something like that. So I'm probably not training my legs hard and then going hiking hard all day, although I've done that before, but then I'm sure to rest completely the next day, which is Monday. Now, what if I move the leg workout to Tuesday? Do then I take Wednesday off completely? Well, for me, the way I train legs is typically with a lot of intensity. So if I'm going to train legs, typically the next day,
+
+11:36.546 --> 12:02.782
+will be a complete day off no matter what. But that's not always the case. I think as long as you're not moving your workouts around constantly, it's perfectly fine to train your legs really hard on a Tuesday because you have to, because you couldn't train them on Monday. And then on Wednesday, rather than go out for a jog, I might train torso and I might back off on the intensity a little bit. And then I'll take a day off. I will say that anytime I do resistance training workouts two days in a row, I make sure that I take a complete day off
+
+12:02.914 --> 12:32.798
+the following third day, just for sake of recovery. I'm not somebody that recovers particularly well from any form of exercise. I find that if I train longer than 90 minutes, especially with resistance training, if I crank up the intensity too much, I tend to get sick or I tend to stop making progress with my resistance training sessions. So the basic takeaway here is it's perfectly fine to slide a resistance training session, such as legs, forward a day or back a day. Okay, so I guess back a day would be from
+
+12:33.250 --> 12:53.822
+Monday to Sunday or forward from Monday to Tuesday, but then you're going to want to make some adjustments accordingly so that you don't get sick or you don't overtrain and that sort of thing. Now, let's say that I train my legs on Tuesday, then I do torso work on Wednesday, and then I take the next day completely off. So I take Thursday completely off.
+
+12:54.370 --> 13:12.286
+Well, then Friday rolls around and I haven't done any cardiovascular training that week, except for the walk that I did on Sunday. What am I going to do? Do I do my VO2 max and a 30 minute jog? Sure, that's what I would do. I would combine the two cardiovascular workouts that I normally do in the middle of the week by, for instance, going out for a,
+
+13:12.802 --> 13:35.678
+20 or 30 minute jog. And then at the end, doing some VO2 max work such that by the end of Friday, I'm caught up with that cardiovascular training. And then on Saturday, I would just go right ahead and do those small body parts training. And then on Sunday, I would take a hike and that sort of thing. So basically what I'm saying is that foundational fitness protocol provides a scaffold of ideal, what you would do if you had a completely
+
+13:35.874 --> 14:03.582
+non-negotiable mindset where you said, okay, Monday's always legs, Wednesday is always this, Thursday is always that. So basically what I'm describing is trying to achieve optimal, right? Training certain things on certain days, doing certain things in certain ways. That wasn't meant to rhyme by the way, but the reality is we all have travel, we all get run down, we all have lack of sleep at times, we have stressful episodes in life. So for me, the best solution to that is to basically allow any one workout
+
+14:03.842 --> 14:30.078
+either resistance training or cardiovascular workout to slide back or forward by one day, which means sometimes doubling up on workouts for a given day to make sure that I check off those boxes of getting three resistance training sessions per week and three cardiovascular training sessions per week. Again, for the cardiovascular training sessions, it's a long, slow distance, it's a moderate 20 to 30 minute cardiovascular training session. And then it's that shorter VO2 max cardiovascular training session. And sometimes,
+
+14:30.210 --> 14:53.342
+doubling those up on the same day so that I make sure that by the end of the week, I've achieved what I want to achieve, which is I've trained my legs, I've trained my torso, I've trained my arms, any small body parts that need additional work for balance or stabilization or aesthetic reasons, you get that in, but also that you get the base of the long, slow distance endurance, you get the slightly more intense or rather faster cardiovascular training session, and then you get your heart rate
+
+14:53.474 --> 15:21.534
+up, up, up at least once per week doing that high intensity interval training. Now, as I describe all this, I realized that I might be taking what a few minutes ago was fairly simple in design and making it more complex. Why? Well, some people feel that as soon as you introduce flexibility into a schedule, you remove, of course, the non-negotiable aspect of it. And then people get really confused. Are they overtraining? Are they under training? Is it okay? For instance, if you can't train Monday, Tuesday, Wednesday,
+
+15:21.666 --> 15:48.990
+than just train Thursday, Friday, Saturday, Sunday. I think everybody is an individual. Everybody needs to modify their schedule according to the demands on their life and their particular fitness needs. But I will say this, I've found having tried many, many different fitness schedules, many, many different combinations of resistance training and cardiovascular training, that the best solution is to find what you can do on a consistent basis and to try and do that as many days and weeks
+
+15:49.186 --> 16:18.366
+of the year as possible with the understanding that sometimes you're simply not going to be able to meet that schedule, which is why you allow for this sliding back and forward of individual workouts, doubling up occasionally two workouts per day in order to stay on schedule. But, and this is very important, also allowing yourself to sometimes just skip a training day. Yes, I said it, to sometimes just skip a training day. You're feeling a little rundown, it's late in the day, you don't want to drink caffeine to train because then it's going to throw off your sleep.
+
+16:18.562 --> 16:20.350
+I'm the first person to say, you know,
+
+16:20.482 --> 16:50.448
+skip torso training day, and then maybe on small body parts day, which for me falls on Saturday, instead of just doing biceps, triceps with some isolation exercises, make sure you do a few chins, pull-ups, dips, and things like that to make sure that you hit those torso muscles as well. Skipping a workout every once in a while is not going to crater your entire fitness program. It's simply not. That said, for sake of physical health and for sake of just feeling good about your commitment and follow through to your fitness regimen, you should try on average to make
+
+16:50.448 --> 17:20.401
+somewhere between 85 and 95% of your workouts. And if you schedule things well, and in particular, if you leave your phone out of the gym, if you're able to do that, I know sometimes we need the phone to communicate with people or the potential to communicate with people if people need to get a hold of us. But if you can leave your phone outside of the gym, you'll be amazed at how quickly you move through these workouts, likewise with your cardiovascular training sessions. Now, one important feature of flexibility that I haven't talked about yet is flexibility within a day. So for me, just personally, again, this is my personal preference,
+
+17:20.400 --> 17:44.030
+This is by no means dogma. I prefer to get my workouts done first thing in the morning. So I like to get up, hydrate, get some electrolytes in my system, get some caffeine in my system if I'm going to work out. That's right, I said it. I do believe if you experience a crash in energy in the afternoon, delaying your caffeine by about 90 minutes or so after waking can be very beneficial. I know there's some controversy around that,
+
+17:44.706 --> 18:14.672
+Almost everybody that tries it finds that that's the case. Again, no obligation to do that. It's just a suggestion to perhaps experiment with if you have an afternoon crash. But for me, and I think for most people, if you're going to work out first thing in the morning and you like caffeine before a workout, drink caffeine first thing in the morning. That's certainly what I do if I'm going to work out that day. I like to have my workouts done before 9 a.m. and ideally before 8.30 a.m. so that I can move into my work day. However, there are days where that simply doesn't happen. And then the question is, is it okay to move a workout
+
+18:14.672 --> 18:26.238
+out from its typical time, like for me, 7.30 AM or so to the afternoon. And the answer is yes, there's simply no reason why that's not okay. It's not going to cause a,
+
+18:26.338 --> 18:56.304
+significant diminishment in performance. If anything, the data point to the fact that for sake of physical performance and output, workouts in the afternoon are probably more beneficial. I don't know about that result. I mean, that's certainly what the data say. I know for me, I'm most alert and have the most amount of energy first thing in the morning. And so that's when my workouts tend to be best. But if I can't make a workout in the morning, I'll sometimes do it in the afternoon around two or 3 p.m. Making sure, however, that I don't consume so much caffeine before that workout, that it's going to disrupt my sleep. Now there's another feature of training.
+
+18:56.304 --> 19:02.846
+which is like sunlight, like meals, like socialization, physical exercise
+
+19:03.042 --> 19:33.008
+provides an entrainment mechanism. That is a predictive mechanism for your so-called autonomic nervous system that makes it such that at a given hour of the day that you normally train, so for me around 7.30 AM or so, you'll notice that there's going to be a peak in physical and mental energy. That's right. If you work out at a given time pretty consistently, your autonomic nervous system will start to anticipate that timing and you'll start to feel an increase in energy around that time. That is not an imagined thing. It's a real thing. It's a short-term entrainment as we call it. This is something that I'll probably visit in a few
+
+19:33.008 --> 19:48.414
+future full length episode of the Huberman lab podcast. But what you'll notice is that around the time that you normally train or run or whatever you want to call it, you start to feel an increase in energy and you can leverage that by going ahead and training. But if you don't have the opportunity to train, then
+
+19:48.642 --> 20:17.854
+I do think it's a good idea to still get that training session in at a later time during the day, if you have the opportunity, otherwise you may have to slide it to the day before or the day after, as we talked about a few minutes ago, or you may have to skip entirely. The point here is that it's always going to be best to complete the workout if you can complete the workout safely and without disrupting your nighttime sleep. I think that's really the biggest takeaway. I personally am not going to compromise sleep and my overall health in order to get workouts in. Every once in a while, I'll force myself to wake up, especially early, meaning I'll
+
+20:18.018 --> 20:41.854
+cash out a couple hours of sleep that I would normally get. So I'll normally get up around, I don't know, 6 a.m. or 6.30, kind of depends on when I went to sleep. But sometimes I'll give up two hours of sleep to get a workout in the morning if I'm going to fly that day. I will sometimes do that. However, if I'm very fatigued, if I've been exposed to colds and flus, I'm feeling kind of rundown, then I won't do that. I'll prioritize sleep. Most of the time I prioritize sleep.
+
+20:41.954 --> 21:11.358
+but there are those occasions in which I'll prioritize the workout. Each and all of us have those options. And my suggestion is to really look at things on a case by case, meaning you as an individual and on a daily basis, taking into account what happened the day before, how stressed you are, how much sleep you're getting, how much exposure to colds and flus, and to pay attention to how hard you've been training recently. You know, if you're on a family vacation and you want more time with family, are you really going to compromise time with family in order to get your workouts in? I think that would be,
+
+21:11.490 --> 21:28.158
+probably a bad idea, you know, if I'm honest, I think you want to prioritize social life, that's super important. But then of course you don't want to prioritize social life to the detriment of your physical health. So it's all a bit of give and take. And what I've tried to describe here is again, a recap of the foundational fitness protocol, the,
+
+21:28.642 --> 21:54.014
+places where there's some flexibility, you can move workouts back a day or forward a day if you like, you could double up if you like, especially if you're getting great rest and you're well fed, et cetera. And you can also move the workout up or down in the day, depending on how much energy you have, how much sleep you've gotten. And of course, how rigid you are with yourself. Some people are just really rigid. They are completely in the non-negotiable stance. They get their workout in no matter what, because they feel as if,
+
+21:54.114 --> 22:02.590
+If they don't, then they're going to be grumpy or they're going to fall off schedule. Other people like me try to get the workouts done. I would say anywhere from
+
+22:03.074 --> 22:30.878
+85 to 95% of the time I get those workouts done occasionally. I skip them typically because life stress, travel, or some sort of low grade illness, a cold or a flu or something of that sort. I get those pretty rarely, but they do happen. So that's really how I answer this question of how to build flexibility into one's fitness schedule. I should also mention that I'm a big believer in periodization. So I will do four month blocks of training heavier with the weights. So that's in the three to five repetition range.
+
+22:31.074 --> 22:54.174
+then another three to four month block will follow where I'm training slightly less heavy. So I'll typically be using anywhere from five to eight repetition range. And then for the next four month block, I'll be using somewhere between eight and 15 repetition range. Every once in a while, I'll mix it up so that, you know, if I've been training heavy a lot, I might do a lighter workout, or if I've been training lighter, I might do a heavy workout. Again, not super rigid. I personally find that by being,
+
+22:54.338 --> 23:23.102
+strict and rigid about the scheduling, about the reps and the sets, et cetera, for most of the time, meaning about 85 to 95% of workouts and across the year that things just work out great. You'll make constant progress without having to drive yourself and everybody else crazy with extreme rigidity and compulsivity around training. And then of course you can enjoy those days off. You can enjoy the flexibility in your schedule because yes, physical fitness is wonderful, but unless you're an athlete, especially a professional athlete,
+
+23:23.234 --> 23:51.262
+Really physical fitness is about being able to lean into other aspects of life with more vigor. At least that's what it's about for me. And I think that's what it's about for most people. Thank you for joining for the beginning of this Ask Me Anything episode, to hear the full episode and to hear future episodes of these Ask Me Anything sessions, plus to receive transcripts of them and transcripts of the Huberman Lab Podcast standard channel and premium tools not released anywhere else, please go to hubermanlab.com slash premium.
+
+23:51.650 --> 24:09.438
+Just to remind you why we launched the Huberman Lab Podcast Premium Channel, it's really twofold. First of all, it's to raise support for the standard Huberman Lab Podcast channel, which of course will still be continued to be released every Monday in full length. We are not going to change the format or anything about the standard Huberman Lab Podcast.
+
+24:10.018 --> 24:39.984
+and to fund research, in particular research done on human beings, so not animal models, but on human beings, which I think we all agree is the species that we are most interested in. And we are going to specifically fund research that is aimed toward developing further protocols for mental health, physical health, and performance. And those protocols will be distributed through all channels, not just the premium channel, but through all channels, Huberman Lab podcast and other media channels. So the idea here is to give you information to your burning questions in depth and allow
+
+24:39.984 --> 24:59.518
+you the opportunity to support the kind of research that provides those kinds of answers in the first place. If you'd like to sign up for the Huberman Lab Premium channel, again, there's a cost of $10 per month, or you can pay $100 upfront for the entire year. That will give you access to all the AMAs. You can ask questions and get answers to your questions, and you'll of course get answers
+
+24:59.682 --> 25:25.566
+to all the questions that other people ask as well. There will also be some premium content such as transcripts of the AMAs and various transcripts and protocols of Huberman Lab podcast episodes not found elsewhere. And again, you'll be supporting research for mental health, physical health, and performance. You can sign up for the premium channel by going to hubermanlab.com slash premium. Again, that's hubermanlab.com slash premium. And as always, thank you for your interest in science.

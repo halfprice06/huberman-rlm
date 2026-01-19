@@ -1,0 +1,925 @@
+WEBVTT
+
+00:00.354 --> 00:25.790
+Welcome to the Huberman Lab Podcast, where we discuss science and science-based tools for everyday life. I'm Andrew Huberman, and I'm a professor of neurobiology and ophthalmology at Stanford School of Medicine. My guest today is Dr. Harold McGee. Dr. Harold McGee is a professor at Stanford University and world-renowned author on the topic of science and the chemistry of food and cooking.
+
+00:25.986 --> 00:49.566
+He has spent more than four decades researching and writing about this topic. His work is unique because it at once teaches us about why foods taste the way they do, as well as how to make essentially any food or drink taste better. I, like presumably most of you, absolutely love to eat. And for me, that's an understatement. I love food and eating. Today, Harold teaches us about everything from how certain types of cookware
+
+00:49.698 --> 01:05.662
+the bowls, the pans you use, even the utensils you use can change the taste of those foods as well as simple things like adding a pinch of salt to anything bitter tasting, including coffee, yes, coffee, changes its chemistry and flavor for the better. And he explains why.
+
+01:05.794 --> 01:31.102
+We discuss the preparation of meat and this thing that we call savoriness or the umami taste and how it's brought about by heating proteins in very specific ways and how you can bring out more of those flavors and how to get more of the healthy compounds such as polyphenols found in chocolate and cacao. And we cover the much debated issue of whether more expensive wines are truly better than less expensive ones in terms of their taste or whether it's all a function of marketing.
+
+01:31.298 --> 01:45.566
+So if you're a seasoned cook, or perhaps you only know how to make a few basic dishes, or if your version of cooking is basically a protein shake and some oatmeal, this discussion with Harold McGee will let you understand the essential chemistry of food in cooking and how to prepare food that is far more enjoyable.
+
+01:45.666 --> 02:02.590
+As I said before, I love to eat. And this discussion taught me how to make the foods I love so much, meat, cheese, vegetables, fruit, starches, et cetera, all taste far better. And since eating is a big part of life, not just a way to support our health, I'm certain that everyone will glean useful knowledge and practical tools from Dr. McGee.
+
+02:02.786 --> 02:32.574
+Before we begin, I'd like to emphasize that this podcast is separate from my teaching and research roles at Stanford. It is, however, part of my desire and effort to bring zero cost to consumer information about science and science related tools to the general public. In keeping with that theme, today's episode does include sponsors. And now for my discussion with Dr. Harold McGee. Dr. Harold McGee, welcome. Thank you, Dr. Huberman. I, like most people, love to eat. I also love food. I love the look of it. I love the smell of it.
+
+02:32.802 --> 03:01.438
+I love the anticipation of eating. And you've had a truly unique career. We'll talk a little bit more about your background later, but you've had such a unique career focusing on the chemistry of food, food interactions. And I must say, even just knowing a little bit about your work, you've changed the way that I think about even like the sorts of metals that I might use to prepare my food, because it turns out these things are all impacting one another in not just
+
+03:01.858 --> 03:24.990
+small ways, but really profound ways that impact our experience of food and taste. So just to kick things off, is there any one wild food interaction chemistry fact that you just particularly find interesting? When I started writing my book about the chemistry of cooking,
+
+03:25.090 --> 03:52.574
+I didn't know that much about cooking or about chemistry. I was kind of learning on the fly, which was part of the fun. And I read when I was writing about eggs that if you're going to make a foam of egg whites to make a meringue or a souffle, so you put the egg whites in a bowl and you whisk them until they essentially form a solid from that liquid.
+
+03:53.218 --> 04:23.134
+a solid consisting of air bubbles trapped in the liquid, and that makes it act like a solid. Amazing kind of transformation. And when I was looking at what cooks had said about this process, they said you should use a copper bowl to do that whipping. And so I looked in the chemistry of eggs literature, of which there was a fair amount actually, and
+
+04:23.554 --> 04:53.214
+for some kind of explanation as to why that might be the case and couldn't find one. And so I decided, well, it's probably an old cook's tale, somebody who had a copper bowl and used that and thought that was better. And so I didn't think anything more about it until I was preparing my book for publication, looking for cheap illustrations because I couldn't afford good ones. And I found an old engraving of an 18th century French kitchen.
+
+04:53.378 --> 05:20.030
+And there was a boy acting as though he was whipping something in a bowl. And the bowl kind of looked like our modern copper bowls with a little ring to hang the bowl on the wall. And there was a key that came along with the illustrations. And the key actually said, whipping eggs in a copper bowl to make pastries. So I thought...
+
+05:20.354 --> 05:44.446
+If the French have been doing it for hundreds of years, maybe there's something to this. Maybe I should actually test it, which was a really important lesson for me. Test everything. I gulped and bought a copper bowl because they're expensive and did it side by side. And the difference was tremendous. Different color, different texture.
+
+05:44.546 --> 05:59.294
+different consistency in the mouth, totally different experience. And so it was that realization that a cook's
+
+05:59.394 --> 06:27.966
+what I thought might be an old cook's tale could actually have a kernel of scientific chemical truth to it. That to me was a mind-blowing and career-changing experience because from then on, I didn't take anything for granted. I always had to give it a try. I love it. I recently started drinking water out of a copper reusable bottle mostly because I
+
+06:28.258 --> 06:55.966
+needed a water bottle and there was one for sale where I happened to be and it was copper. And I rather liked the taste. There are all sorts of theories about copper being better for us health wise, et cetera. I haven't explored those to see if they're actually true or if it's nonsense, but I do like the look of it. Is copper used for the preparation of any other foods specifically in order to extract the best flavor from those foods or liquids?
+
+06:56.066 --> 07:25.790
+Copper is actually used in jam making, jelly and jam making. And the reason for that is that if you use any other material, you end up messing with actually almost everything in there because the temperatures are pretty high. They're above the boiling point, but in particular the sugars. And if you break sucrose down to glucose and fructose, then
+
+07:25.890 --> 07:51.134
+You know, the behavior of the material changes a lot, not necessarily for the better. And it turns out that copper actually inhibits the breakdown of sucrose into glucose and fructose. And so, again, for generations, cooks, French cooks in particular, have used copper bowls to make their preserves. Wow.
+
+07:51.714 --> 08:20.542
+Copper is used for a variety of things, it sounds like, and people have arrived to this through what sounds like kind of an unconscious genius combined with experimentation. When scientists got interested in cooking, they sometimes made claims and suggested changes that in fact were terrible ideas. The traditional way of doing things was actually much better.
+
+08:20.802 --> 08:45.950
+they had come up with a partial understanding of what was going on and on the basis of that partial understanding decided that they needed to correct cooks who of course weren't as smart as they were and get them to change. So you can see in the middle of the 19th century some cookbooks published in England and the US having a subtitle, you know, the back in the day
+
+08:46.146 --> 09:12.446
+long subtitles were enjoyed. And so the subtitle would be, in which the theories of Dr. Liebig have been as much as possible applied in the recipes. And Liebig was a genius biochemist, but on cooking he kind of took his genius for granted and was wrong. The cooks knew better. Yeah, I love
+
+09:12.674 --> 09:25.694
+this notion of unconscious genius that a field of people who are experimenting without any formal rigorous coursework in a given area like chemistry can, can arrive at, at truths without understanding the,
+
+09:25.794 --> 09:51.614
+the mechanistic basis of those truths. You know, actually I think a lot of what we face nowadays in the, the sphere of health and nutrition is about that conflict. You know, there are papers identifying mechanisms, but then they don't play out in clinical trials, which is the, you know, and then there are people in the real world who are doing things for which there's really no peer reviewed research, but you get the sense that maybe they're onto something, you know? So it's a very interesting intersection of, um, uh,
+
+09:51.874 --> 10:06.558
+expertise and real world results. Yes. Or sometimes collision of the two. I'd like to take a quick break and acknowledge our sponsor, Eight Sleep. Eight Sleep makes smart mattress covers with cooling, heating, and sleep tracking capacity.
+
+10:06.786 --> 10:36.752
+One of the best ways to ensure a great night's sleep is to make sure that the temperature of your sleeping environment is correct. And that's because in order to fall and stay deeply asleep, your body temperature actually has to drop by about one to three degrees. And in order to wake up feeling refreshed and energized, your body temperature actually has to increase by about one to three degrees. Eight Sleep automatically regulates the temperature of your bed throughout the night according to your unique needs. Eight Sleep has just launched their latest model, the Pod 5, and the Pod 5 has several new important features. One of these
+
+10:36.752 --> 10:56.862
+new features is called Autopilot. Autopilot is an AI engine that learns your sleep patterns to adjust the temperature of your sleeping environment across different sleep stages. It also elevates your head if you're snoring, and it makes other shifts to optimize your sleep. The base on the Pod 5 also has an integrated speaker that syncs to the 8Sleep app and can play audio to support relaxation and recovery.
+
+10:56.962 --> 11:26.928
+The audio catalog includes several NSDR, non-sleep deep rest scripts that I worked on with 8sleep to record. If you're not familiar, NSDR involves listening to an audio script that walks you through a deep body relaxation combined with some very simple breathing exercises. NSDR can help offset some of the negative effects of slight sleep deprivation and NSDR gets you better at falling back asleep should you wake up in the middle of the night. It's an extremely powerful tool that anyone can benefit from the first time and every time. If you'd like to try 8sleep,
+
+11:26.928 --> 11:45.054
+Go to 8sleep.com slash Huberman to get up to $350 off the new Pod 5. 8 Sleep ships to many countries worldwide, including Mexico and the UAE. Again, that's 8sleep.com slash Huberman to save up to $350. Today's episode is also brought to us by Our Place.
+
+11:45.218 --> 12:13.054
+Our place makes my favorite pots, pans, and other cookware. Surprisingly, toxic compounds such as PFASs or forever chemicals are still found in 80% of nonstick pans, as well as utensils, appliances, and countless other kitchen products. As I've discussed before in this podcast, these PFASs or forever chemicals like Teflon have been linked to major health issues such as hormone disruption, gut microbiome disruption, fertility issues, and many other health problems. So it's really important to try and avoid them.
+
+12:13.346 --> 12:37.470
+This is why I'm a huge fan of Our Place. Our Place products are made with the highest quality materials and are all completely PFAS and toxin-free. I especially love their Titanium Always Pan Pro. It's the first nonstick pan made with zero chemicals and zero coating. Instead, it uses pure titanium. This means it has no harmful forever chemicals and does not degrade or lose its nonstick effect over time. It's also beautiful to look at.
+
+12:37.602 --> 12:53.726
+I cook eggs in my Titanium Always Pan Pro almost every morning. The design allows for the eggs to cook perfectly without sticking to the pan. I also cook burgers and steaks in it, and it puts a really nice sear on the meat. But again, nothing sticks to it, so it's really easy to clean, and it's even dishwasher safe. I love it.
+
+12:53.890 --> 13:10.366
+and I basically use it constantly. Our Place now has a full line of Titanium Pro cookware that uses its first-of-its-kind titanium nonstick technology. So if you're looking for non-toxic, long-lasting pots and pans, go to fromourplace.com slash Huberman and use the code Huberman at checkout.
+
+13:10.466 --> 13:39.006
+Right now, Our Place is having their biggest sale of the season. You can get up to 30% off all products now through May 12th, 2025. With a 100-day risk-free trial, free shipping, and free returns, you can try Our Place with zero risk and see why more than 1 million people have made the switch to Our Place Kitchenware. Again, that's fromourplace.com slash Huberman to get up to 30% off. As I mentioned before, I love to eat. And we could talk about any of the
+
+13:39.138 --> 13:51.454
+different major food groups as an exploration of the chemistry of food. But I think one of the more interesting ones is the combination of heat and food, right? And,
+
+13:51.906 --> 14:18.590
+very often people will ask me, like, is microwaving safe and things like that. And I've, uh, didn't ask me anything recently where I said, yes, indeed, microwaves are safe. You probably don't want to stand right in front of it in case the, the mesh protector isn't, isn't as effective as it might be, but yeah, it's heating things up from the inside. But we have all these different ways to heat up food and we have ways to heat food and then cool food as a way to enhance the flavor of food. When it comes to, um,
+
+14:18.818 --> 14:44.222
+the use of heat in food. What do we know about the history of the use of, I imagine it was fire first, but this is a vast topic, but what are some of the interesting ways in which heat interacts with food at the chemical level to allow us to enjoy that food more? Yeah, so in the anthropological literature, of course, the focus is on...
+
+14:44.546 --> 15:12.734
+increasing caloric intake and being able to consume materials that we wouldn't otherwise be able to consume as efficiently. So that's the sort of practical side. But my feeling is that the use of fire wouldn't have caught on if it didn't make foods delicious, more delicious than they'd been in the first place at the same time. And in fact,
+
+15:12.962 --> 15:40.542
+probably people early on learned to associate particular sensory experiences with the nutritional value of what it was they were eating and maybe even the safety because, you know, if you kill a mammoth, you've got a lot of leftovers and what do you do with them so that they don't spoil and make you sick later on? So the...
+
+15:40.706 --> 16:08.350
+terrific thing about the application of heat to the foods in general is that they, heat kind of takes the materials of which the food is made and rearranges them. And in many cases breaks molecules down into smaller molecules that we can actually detect with our senses of taste and smell.
+
+16:08.738 --> 16:36.638
+So, proteins, carbohydrates, fats, that's what we think of as constituting food, but they're all macromolecules. They're way too big for us to experience directly. And so, one of the things about cooking that's most important is that cooking will take those macromolecules and break down enough of them
+
+16:36.738 --> 17:00.766
+to produce small molecules that we can detect with our senses of taste and smell and enjoy simply for that reason. My feeling is that we have our senses for them to be stimulated. And so in many cases, even if the
+
+17:00.866 --> 17:30.590
+if the stimulation is borderline pleasurable or maybe even slightly unpleasurable, we still enjoy the fact that we're being stimulated, that something is going on with our senses of taste and smell. And cooking does that in spades. It takes these molecules with no taste or smell and turns them into bouquets of various kinds depending on the original material. When I think about a piece of steak,
+
+17:31.266 --> 17:56.542
+And if I were to take a bite of it raw, it would taste very different cold versus room temperature. And then raw steak, which to me is not appetizing, cooked even just a bit, especially if it were seared on the outside, now becomes pretty darn good. Cooked it a little bit more.
+
+17:56.642 --> 18:26.142
+like medium rare with a really nice sear on the outside. I think they call it Pittsburgh char. Anyone that likes the outside of the steak, really nice and charred and the inside rare, it's Pittsburgh char, if the chef knows what they're doing, is absolutely delicious. So what's happening there? I mean, you said that heat changes the molecular structure, but what about those changes allow us to taste it more, not just differently?
+
+18:26.754 --> 18:53.438
+Because as you said, like raw steak is pretty bland. I mean, most of us probably think of that as kind of gross, but it's also kind of bland compared to when it's cooked. What's happening? What's being released into the steak? Yeah. So what happens is that the materials of the tissue, and in the case of meat, it's mostly protein and fat, those...
+
+18:53.538 --> 19:17.342
+macromolecules, large molecules that are too big for our senses to register, get broken apart. And that's because heat is energy. Energy agitates things. It agitates molecules at the surface of the food enough to break them apart into much, much smaller molecules.
+
+19:17.442 --> 19:44.990
+pieces, and it's those pieces that we're experiencing when we take a bite. The pieces are not only much smaller, but they're also reactive so that they can react with each other. They can react with oxygen in the air surrounding the food. And so we end up with, you know, if you did an analysis of the aroma coming off of
+
+19:45.090 --> 20:01.694
+some steak tartare and coming off of a Pittsburgh char, you're going to have very, very little noticeable even with instrumentation. But off of the steak,
+
+20:01.794 --> 20:26.910
+a tremendous amount of volatile molecules, which are the ones that our noses detect. And then also molecules that are small enough to stimulate our taste receptors. So we have a handful and we think of them as responding to sweet, sour, salt, bitter, umami tastes.
+
+20:27.138 --> 20:53.886
+We encounter those tastes in all kinds of things in everyday life, but when you cook a piece of meat to a high temperature and do a good amount of damage to that outer molecular surface, you generate molecules that can stimulate those receptors even though they themselves are not sugars or salts or whatever.
+
+20:54.082 --> 21:22.142
+What I like to think of is just the alchemy of heat. You take this material, you add energy, and you transform it in ways that are delightful to us. So if I understand correctly, even though the molecules in meat typically wouldn't stimulate the sweet receptor, when you cook steak, it starts to stimulate the sweet receptors because of the change
+
+21:22.274 --> 21:39.326
+in those molecules. You've reduced their size and you've changed their configuration, depending on which recipe you use. Yes, and you're also generating where once you might have had, you know, well, these days,
+
+21:39.458 --> 22:08.446
+our enumeration of molecules has gotten so good that who knows exactly how many are in that raw piece of meat. But whatever that number is, it's multiplied many fold by the application of heat simply because it's taking those materials, breaking them apart, getting them to react with each other. And the result is just an explosion of sensory information that
+
+22:08.546 --> 22:38.366
+simply wasn't there before. We have to talk about umami. I mean, not just because the name is fun to say, but this receptor that seems to bind molecules that give us the sensation, at least in part of savoriness. I mean, to me, few things are as delicious as the braise that comes off of meat in a cast iron pan.
+
+22:38.850 --> 23:07.486
+that I would literally scrape that stuff up onto the spatula and eat it if no one's looking. And anyone that thinks that that sounds gross, I mean, it is absolutely delicious. I mean, it is like the pinnacle of like why we eat protein. That's why it feels so darn delicious to me. And the intensity of flavor per unit of whatever that stuff is,
+
+23:07.586 --> 23:34.814
+is so high. But then here's the thing. If you were to wait two hours and come back and pick up one of those little black, you know, crumbs of braise and put it in your mouth, it would kind of like punch you in the mouth. And it tastes like kind of awful, like you were licking the grill of a barbecue from two days before. Not good. So what's going on with braise and with umami? And we can talk about a lot of non-meat
+
+23:34.914 --> 23:57.182
+ways to stimulate umami, but such an interesting aspect to food and taste. Yeah, yeah, it is. And something that when I started writing about cooking in the 70s, no one believed it existed except for the Japanese scientists who were living in the country where it was discovered in the first place.
+
+23:57.314 --> 24:25.726
+That's right. They were the first to molecularly clone the umami receptor as far as I know. And they were also the first to claim that there was a sensation, taste sensation, that was not sweet, sour, salt or bitter, which is why they were disbelieved in the West for decades and decades. And as I say, when I started writing, that was the standard view. Japanese have this weird idea of something, a basic taste.
+
+24:25.890 --> 24:47.518
+That's just simply not correct. And I went to a couple of meetings in Boston and remembered this being debated among chemists. First, I'll just say that I know exactly what you mean about that flavor of something that you apparently feel guilty about enjoying because you said,
+
+24:47.650 --> 25:11.966
+You would scrape it up when no one was looking. When I was growing up, we had a family of four children. My mother would occasionally make an oven-baked chicken cut up into pieces, and the drippings would drip down to the pan and brown. And after the meal, my siblings and I would line up
+
+25:12.706 --> 25:40.062
+for a spoonful of the scrapings. Delicious. I can smell it and taste it just a bit. Yeah, anyone that's cringing at that, you have not tasted proper braise from meat. Assuming you consume animal proteins, it is absolutely delicious. Yeah, yeah, yeah. I can, it just takes me back. It's Proustian, to go back to that.
+
+25:40.290 --> 26:08.702
+So, to make a long story short, the Japanese were shown to be correct by Western standards. They always knew they were correct, but by Western standards, they were proved to be correct when a receptor for glutamate was discovered in the 2000s, early 2000s. So, finally, Western scientists were on board.
+
+26:08.802 --> 26:37.470
+Meanwhile, cooks had been on board for a long time because they're always looking for ways to make their food more delicious. And they'd heard about this. Some went to Japan. They came back. And so umami is a sensation that's a little bit difficult to describe compared to sweet, sour, salt, and bitter.
+
+26:37.666 --> 27:06.814
+Savory, I think, is the word you use, and that's sort of the usual nomenclature. When you try to characterize it further, it's a feeling of fullness and length. So the flavor, there's just a lot of it there, and it sticks with you for a while. That's what we mean by length? Yeah. Got it. I feel like also it doesn't occur just in my mouth.
+
+27:07.266 --> 27:21.406
+You know, and I'm not like very nuanced about food. I mean, I love food, but I'm not somebody who can really, I don't consider myself a food connoisseur. I just know what I like and what I don't like. But I feel like that,
+
+27:21.922 --> 27:48.062
+the taste of something with a lot of umami flavor actually spreads throughout the body. It's like a whole head experience, maybe down to the chest. It's not restricted to like a location on the tongue or something like that. Later we'll talk about this myth about restricted receptors on the tongue. But, yeah, one has to wonder if because the umami –
+
+27:48.226 --> 28:13.918
+receptor stimulation is so closely tied to savoriness and protein, and because protein was presumably scarce in evolutionary history, whether or not there's some reward pathways that are like, oh, this is good. Because people had to work really hard under dangerous conditions often to get umami stimulation. Yes. Yes. Yeah, that's right. And I would also say that
+
+28:14.114 --> 28:43.294
+from at least my reading of the literature, we only know a tiny, tiny bit about what's going on when we smell things and taste things. So we know the initial step. There's a receptor on our tongue that responds to glutamate, which is associated with this sensation. What happens after that, who knows? And there's also the fact that glutamate is an important molecule in the body,
+
+28:43.426 --> 29:09.374
+for signaling. So who knows what kind of, you know, crosstalk there might be between the receptor on the tongue and the rest of the body. And people have also in the last, what, 10 years or so discovered taste receptors for all the tastes in our GI tract. Yeah, that is so interesting. And so important too, because, well, maybe that's the sensation that,
+
+29:09.698 --> 29:36.894
+things that the umami taste is much deeper, is that they're in the esophagus and presumably maybe even into the stomach. Yeah, yeah. Wild. I heard that tigers have something like 10,000-fold more umami receptors than humans, but they have no sweet receptors. I don't know if that's true. Usually when you hear something like that, it's likely to be...
+
+29:37.026 --> 30:02.590
+not completely true, but who knows? We look it up and someone will tell us in the comments, which upon hearing made me immediately want to try being a tiger for one day. Like I can't even imagine how good meat tastes to carnivores that have that density of umami receptors. But it raises another question too, which is assuming that's true, would the absence of the sweet receptor perhaps make it
+
+30:03.394 --> 30:29.406
+meat tastes completely different? You know, in other words, is there crosstalk between these receptors so that when you eat something that's like this spoonful of braise drippings off the roasted chicken, presumably there's some stimulation of the sweet receptors. If you only had umami receptors, maybe it wouldn't taste good at all. Is the chemistry of food occurring in the mouth, not just in the food itself?
+
+30:29.730 --> 30:55.102
+Wonderful questions. I don't know where to begin exactly, except to say that when you brown a piece of meat or just cook it to a high temperature so that the outside of the meat changes color, that color change is an indication of a group of reactions called the Maillard reactions.
+
+30:55.202 --> 31:21.630
+after the guy who actually didn't quite address this, but he got his name associated with it. Anyway, the Maillard reactions are essentially reactions between fragments of proteins and fragments of carbohydrates and fats. And the reaction pathways are really complicated. They still haven't been worked out completely.
+
+31:21.794 --> 31:50.590
+but they generate a bunch of different classes of products. And among those products are sugars. So you don't start out necessarily with sugars, but if you've got proteins and fats, you can make sugars simply with the alchemy of applying heat. So that's part of what's going on. And I would say that, yeah, tigers are missing out because there's an interesting dimension of sugar
+
+31:50.786 --> 32:20.766
+to meat that has been cooked. There's the chemistry of cooking, and then there's the chemistry of enjoying, of tasting, consuming. And it turns out that that's complicated in its own right because, first of all, we're presenting our sensory apparatus with the most complex materials that they're going to encounter. Nature does not generate this kind of complexity.
+
+32:20.866 --> 32:50.462
+We're doing it for ourselves, and that's part, I think, of the great pleasure that we take from it. But it also turns out that in the mouth, changes can take place. And this was actually first noticed by experts in wine because they found that when they put a raw grape in their mouth...
+
+32:50.594 --> 33:13.022
+to taste, you know, what's the characteristics of this particular grape and how does that carry over into the wine. What they noticed was that initially there's just the taste of the grape, but then as they sit there, other flavors begin to come. And because they were experts in wine tasting, they were able to
+
+33:13.154 --> 33:32.670
+figure out which ones they were, and they were, some of them, molecules that you find in the finished wine. And it's just in your mouth. You just chewed it. So it turns out that there are, in all kinds of foods, molecules that are
+
+33:32.770 --> 33:57.726
+called conjugates, you know, they're kind of business end of the molecule and then usually attached to a sugar of some kind. And when we put something in our mouth and we have enzymes in our mouth, those enzymes can go to work on things like conjugates and free up the sugar in
+
+33:58.082 --> 34:21.822
+from the rest of the molecule and the rest of the molecule can be aromatic. And it's known now that the Maillard reactions generate not only sugars but conjugates. And so there's just a lot going on and it's, I think, one of the best arguments for
+
+34:21.985 --> 34:49.566
+enjoying your food slowly because you never know what's going to kind of show up in your mouth after 20 or 30 seconds. Slow down, enjoy every bite and notice what's happening because it's often a really dynamic experience. We're gonna have a hard time convincing many people to slow down their rate of eating however,
+
+34:49.730 --> 35:17.406
+If you promise them a richer experience of the food and not just that they're trying to eat less or something, which is the usual reason that people hear they should chew their food, maybe improve digestion as well. They might be incentivized to do it. I should point out of all the senses, it seems taste and its relationship to food, we have more control over that experience. Like let me state this differently. If I were to do a podcast on, you know, that,
+
+35:18.082 --> 35:47.902
+simply by looking around the world differently, you could start to actually get new visual perceptual abilities. That'd be pretty exciting, but I'm sorry, but that's not true. It doesn't work. I mean, you could enhance your, you know, some discrimination of certain things if you were trained to look for them, but that can change your visual perceptual abilities. But with taste, it sounds like we have the ability. So when you say slow down, do you mean slow down the chewing, take pauses after bites, all of the above?
+
+35:48.002 --> 36:16.894
+Yeah, all of the above, because even after you swallow, there are residues in your mouth and at the back of your mouth. And that's what the wine experts noticed was the change in those residues. So it's not that they chewed on a grape and then kept it in their mouth for a minute. It was just what was left over. So the leftovers can be as delicious as the main course. All right, I'm going to start taking pauses between at least food types. I've sometimes had the experience of
+
+36:16.994 --> 36:45.438
+eating something particularly delicious, for instance, meat or fruit or vegetables. I love all the, I'm an omnivore, so I love all these things, but I'm so satisfied with what I just ate that I don't want something sweet right away because of the collision that occurs between foods. Am I alone in not liking dessert, but liking dessert foods?
+
+36:45.666 --> 37:13.662
+on their own at a separate time? Or am I just like on a desert island of experience here? No, I'm actually completely the same. I would prefer to have another half glass of wine than dessert, just simply to prolong the experience of the main part of the meal. And dessert, sweet things I enjoy, but not after...
+
+37:13.762 --> 37:43.422
+a big meal of other things, savory things. My wife, who's Japanese, says she has a separate mouth and a separate stomach for desserts, and she can go right into it after the main course. But yeah, I prefer not to. I feel like many people eat dinner just to get to dessert. Let's actually talk about food order in the meal.
+
+37:43.842 --> 38:12.990
+Many years ago, I had a girlfriend who was from the south of France, from the Perigord. So she grew up in what is arguably one of the food capitals of the planet. You know, people think French food Paris, but actually people in the south of France are so serious about food that her family would spend most of the day and the night and the meal talking about the next meal or a previous meal
+
+38:13.570 --> 38:42.270
+They would search for mushrooms with binoculars. If they spotted one in the neighbor's yard, they were perplexed as to how to negotiate for that mushroom. You couldn't actually go steal the mushroom. That would be like a cardinal sin. I mean, they are so serious about food, every aspect of it, as you know. And we used to get into these intense arguments about the order in which one is supposed to eat food. And, you know, in her mind, it was soup first,
+
+38:42.466 --> 39:08.958
+because it actually prepares the gut and then always salad last. This whole notion of eating salad at the beginning of the meal was like heresy to everything that she had known and conceptualized about food. So I have to believe that whether one likes French food or not, that they're onto something.
+
+39:09.122 --> 39:36.350
+that when it comes to digestion, when it comes to being able to really taste the full array of flavors in a food, that we probably should be doing soup first, then an appetizer, then an entree, and then salad last. And if we're not consuming an entire meal of that sort, that salad shouldn't be eaten at the beginning of a meal. Are they right? I'm pretty sure that she was right. She was right about most things.
+
+39:36.866 --> 40:05.150
+Very good question, and I guess my answer would depend on the audience. And I say that because, of course, if you go to a banquet in China, everything is served simultaneously. Really? They just slide it all out in front of you? Yeah. And do people eat everything in kind of mishmash? Or there may be phases, but you're presented with many, many different dishes at each phase. Oh, I would be so overwhelmed. And it is...
+
+40:05.282 --> 40:28.894
+overwhelming. And, you know, it's partly, well, I don't want to generalize. Maybe it has to do with perhaps emphasizing the abundance and generosity of the meal rather than focusing on the pleasure that you can get from each
+
+40:29.026 --> 40:54.878
+stage in it, maybe the French are more focused on the sensory experience, but there are many, many different ways to sequence dishes in a meal. And I think it does, the French way of doing it does make a lot of sense. My family and I lived in the countryside near Toulouse for a year.
+
+40:55.010 --> 41:24.606
+and ate around with the neighbors and so on. And my daughter and son went to school where they were given a full hour for lunch, and it was a coursed lunch with all those different components. So it does make sense, I think, because having the soup come early helps, among other things,
+
+41:24.770 --> 41:36.382
+partly fill your stomach so that when you then go to the main course, you don't have to eat as much in order to be satisfied.
+
+41:36.482 --> 42:06.142
+And then the salad, you know the salad is coming and it kind of refreshes you because the main course is usually on the heavy and rich side. Almost always. Yeah. Yeah, goose breast with foie gras was not uncommon in her household. Yes. And they were a middle class home, I should mention. So it wasn't that people there were eating goose breast with foie gras because they were among the elite. That was the...
+
+42:06.850 --> 42:34.558
+ham and cheese sandwich of the town. Yeah, those are the local products. And the geese were probably being raised down the road. So, yeah. So I think the salad kind of closes out the main part of the meal and refreshes you a little bit. And then if you're going to have dessert, you're ready for it rather than being overwhelmed by yet another rich
+
+42:34.850 --> 43:01.950
+another rich course. So I think it does make a lot of sense for that structure of a meal where you have those different courses. Yeah, this notion of cleansing the palate is kind of an interesting one. It's been a long time since I've been to a meal where they served a palate cleanser in between dishes. I mean, that's something that I think in the 80s and 90s became a little bit popular in the United States and
+
+43:02.274 --> 43:29.438
+My family wasn't serving or attending those sorts of meals, but I've been to a few. It's kind of an interesting idea, but molecularly, chemically speaking, is that a real thing that you're going to wash out the flavor of what you just ate so that you can prepare for the next item on the menu, or is it more for show? I think it's both. I do think that, you know, if you're, and again, depending on the details, but
+
+43:29.602 --> 43:59.134
+palate cleansers are usually cold and not too strong in any direction, a little bit tart often. So something cold and tart to break up a meal where you've gone from one kind of rich course and you're about to have another rich course because it's a fancy restaurant, I think that probably does make sense. My next question is a bit more of a
+
+43:59.234 --> 44:25.854
+human physiology question, but I think we're all familiar with the kind of taste intensity drift. I can't think of a better phrase where, you know, if you are used to drinking your coffee black and you start putting a little bit of cream in it, maybe a little bit of cream and a little bit of sugar, going back to black coffee feels like a step in the really bitter direction.
+
+44:25.954 --> 44:55.934
+And then if you start adding more sugar or eating sweeter foods, it seems like we reset our threshold for what we consider too sweet. There are all sorts of health implications, negative health implications around this. But is that a real thing? Are we actually changing our threshold for what we consider bitter or sweet? I ask this because recently I've developed a, I won't call it an addiction, but a love for cacao beans.
+
+44:56.578 --> 45:24.414
+And the first time I bit into one of those, I thought, oh, like those are bitter. And now it's one of my favorite parts of my morning where I'm like pop five or six of those in my mouth and munch on them. And they taste bitter, but they taste so good. And they're kind of barky. They have kind of like a bark taste to them. And I swear I can taste the polyphenols, although that's all cognitive, right? So what I just described is not uncommon for me. What is this whole thing about...
+
+45:24.642 --> 45:53.790
+thresholds for bitterness and sweet. Do they interact? Yeah, yeah. So taste is hugely malleable as far as we can tell. And I think this is best documented in the literature trying to find ways to reduce the sodium content of packaged goods. So manufacturers have been saying long after
+
+45:53.986 --> 46:23.806
+biomedical people were saying we should cut back on our sodium intake. We would be happy to do that in our products, but our consumers don't like our products without the level of salt that we have in them. So people at the Monell Chemical Census Center in Philadelphia did some pretty systematic studies of this, and what they found was that you can, over time,
+
+46:24.034 --> 46:50.366
+adjust thresholds and preferences for the basic tastes. They were focusing on salt because that was the issue at hand. But there's no reason to think that that's not the case for everything, that if you become used to a particular level of stimulation, then that becomes your new normal.
+
+46:50.466 --> 47:17.054
+And anything below or above that is going to stand out for being not quite enough or too much. So I think we're perfectly capable of training ourselves to adjust our preferences. It does take time. So the Monell study I think lasted maybe a couple of months. It takes time, but it's certainly doable.
+
+47:18.498 --> 47:27.678
+I'd like to take a quick break and acknowledge our sponsor, AG1. AG1 is a vitamin mineral probiotic drink that also includes prebiotics and adaptogens.
+
+47:27.778 --> 47:57.744
+As somebody who's been involved in research science for almost three decades and in health and fitness for equally as long, I'm constantly looking for the best tools to improve my mental health, physical health, and performance. I discovered AG1 back in 2012, long before I ever had a podcast, and I've been taking it every day since. I find it improves all aspects of my health, my energy, my focus, and I simply feel much better when I take it. AG1 uses the highest quality ingredients in the right combinations, and they're constantly improving their formulas without increasing the cost.
+
+47:57.744 --> 48:16.222
+In fact, AG1 just launched their latest formula upgrade. This next-gen formula is based on exciting new research on the effects of probiotics on the gut microbiome, and it now includes several clinically studied probiotic strains shown to support both digestive health and immune system health, as well as to improve bowel regularity and to reduce bloating.
+
+48:16.354 --> 48:46.320
+Whenever I'm asked if I could take just one supplement, what that supplement would be, I always say AG1. If you'd like to try AG1, you can go to drinkag1.com slash Huberman. For a limited time, AG1 is giving away a free one month supply of omega-3 fish oil along with a bottle of vitamin D3 plus K2. As I've highlighted before on this podcast, omega-3 fish oil and vitamin D3 K2 have been shown to help with everything from mood and brain health to heart health to healthy hormone status and much more. Again, that's drink AG1.
+
+48:46.320 --> 48:57.758
+KG1.com slash Huberman to get a free one month supply of omega-3 fish oil plus a bottle of vitamin D3 plus K2 with your subscription. Today's episode is also brought to us by Matina.
+
+48:57.858 --> 49:27.838
+Matina makes loose leaf and ready-to-drink yerba mate. I've often discussed yerba mate's benefits, such as regulating blood sugar, its high antioxidant content, and the ways that it can improve digestion. It also may have possible neuroprotective effects. It's for those reasons and the fact that yerba mate provides, in my opinion, the most even and steady rise in energy and focus with no crash, the yerba mate has long been my preferred source of caffeine. I also drink yerba mate because I love the taste. And while there are a lot of different yerba mate drinks out there, my absolute favorite is
+
+49:27.842 --> 49:52.734
+is Matina. I'm excited to share that Matina has recently launched a series of new flavors of their cold brew, all zero sugar yerba mate. There's a raspberry flavor, there's a mango flavor, there's a mint flavor, there's a lemon flavor and a peach flavor. And they are absolutely incredible. If I had to pick one, that's my absolute favorite. It would probably be the mango or the raspberry, but frankly, I cannot pick just one. And I end up having basically one of each every single day.
+
+49:52.962 --> 50:21.598
+Again, all of these flavors are made with the highest quality ingredients, all organic, and again, all zero sugar. If you'd like to try Matina, you can go to drinkmatina.com slash Huberman. Again, that's drinkmatina.com slash Huberman. I stopped eating quote-unquote junk food a long time ago, and I've totally lost interest. In parallel to that, I enjoy strawberries and vegetables and meat and fish and eggs, but
+
+50:21.794 --> 50:50.334
+and rice and oatmeal, so much more with each successive year. And I think it's in part because of this reshaping of what one considers flavorful. But I also feel like my experience of food is getting richer and richer as opposed to worse and worse. So it's kind of interesting and kind of counterintuitive. Do we have any evidence that if you eat foods closer to their, let's just say in their unadulterated form, that...
+
+50:50.882 --> 51:06.878
+you get more out of the taste experience than if you are combining lots and lots of flavors, which is essentially what processed foods are. Yeah. I can't point to chapter and verse in the literature on this, but...
+
+51:07.010 --> 51:31.902
+I think it just makes common sense that if you're going to start with strawberries and then add a bunch of other things, vanilla extract and sugars and who knows what else, in order to essentially as processed
+
+51:32.194 --> 51:56.798
+foods try to do, just kind of wow your mouth with an overwhelming sensation that you then want to repeat rather than slowing down and enjoying the nuances. The natural world gives us these amazing ingredients like strawberries and blueberries and oats and so on.
+
+51:57.058 --> 52:25.182
+and then to take those amazing ingredients which you can kind of savor for a minute at a time and really enjoy, to take those ingredients and make them ingredients rather than things in themselves and combine them with lots of other things for the purpose of stimulation
+
+52:26.050 --> 52:54.302
+rather than the purpose of appreciating and enjoying those individual components, then you're kind of giving up, I would say, most of the pleasure of eating. You're just fueling yourself with stuff that is going to give you an immediate hit of flavor and then be gone. And what was in that food is opaque.
+
+52:54.434 --> 53:24.094
+You know, it may have been strawberries once upon a time, but it's now been masked by all these other things. And meanwhile, one of the miracles of living on this planet is strawberries and the just vast range of materials that plants have gone to the trouble of preparing for the sake of pleasing us. And so to hand that...
+
+53:24.290 --> 53:54.046
+responsibility or that activity over to manufacturers who are just looking to make things as cheaply and quickly as possible, I think is a mistake. Do you drink coffee? I do. How do you prepare your coffee? I grind the beans and... Fresh every time? Yeah. Is that important to the taste? It can be. I mean, it depends on where you get your beans from, but...
+
+53:54.210 --> 54:21.278
+and how long they last, but I think so, yeah. So you'll mill the beans each time. Yeah. And then you use a drip filter, a machine, a French press. A drip filter, yeah, yeah. We have this colleague of ours at Stanford, Adler, who built the AeroPress, which I've used for years, long before they were involved with the podcast. I remember seeing him...
+
+54:21.570 --> 54:48.894
+throwing the Aerobee Frisbee. So he's an inventor, right? And I think that the AeroPress is an interesting idea because it sort of combines French press and filter drip, right? It's kind of a... But yeah, there is actually really interesting data that coffee has some, perhaps it seems, some powerful health promoting effects, but it depends on how you brew it. So how are you brewing it?
+
+54:48.994 --> 55:12.158
+Not that I'm going to get you to change the way you do anything with food or drink. So I go back and forth between a metal filter and a paper filter. And, yeah, I lived near the park where Alan Adler would fly his Aerobees. And so I visited with him and chatted about the...
+
+55:12.290 --> 55:37.502
+the Aeropress and I like the idea a lot and it seems to me you can control the flavor with it much more than you can with a drip system simply because when it drips, it drips but you can hold it in the Aeropress as long as you want. The temperature of water is so critical with coffee. Do you take it to a boil or no?
+
+55:37.634 --> 56:06.270
+I know people might think, gosh, they're really getting down to the weeds, but the flavor of coffee is completely different if you take the water to a boil versus just get it near boil or cut off the heat a moment after it starts to boil. Completely different beverage, in my opinion. Yeah, yeah. And I actually prefer coffee, drip coffee, with water right off the boil. So I've tried all the different
+
+56:06.530 --> 56:35.518
+stages and that's just my preference. The important thing though is to know that the temperature does make a difference and the pleasure you get from it is going to vary depending on the temperature of the water that you use. So it's worth knowing that and then playing around and seeing what you like best. So that's the experience side of it chemically and what's happening. I mean, when you brew coffee, what are some of the interesting...
+
+56:35.810 --> 56:55.102
+coffee chemistry factoids. I'm obsessed with this stuff as you can tell. Yes. Well, so first of all, there's the grind size makes a huge difference because what you're essentially doing is extracting extractable materials from the solids,
+
+56:55.298 --> 57:24.894
+and a typical cup of coffee, you're extracting maybe 20% of the weight, of the original weight of the coffee. So it's not that much, except that it's all the good stuff. And in fact, the longer you extract, the more you extract, the larger the molecules you're able to remove. And those larger molecules are the ones that tend to be tannic and astringent and really bitter.
+
+57:25.122 --> 57:51.966
+Yes. The longer you let the beans or the ground beans be exposed to the hot water, the more large molecules you pull off. The large molecules are the ones that give it that kind of punch you back in the mouth. Yeah. Feeling the tannic. Yeah. Interesting. And bitter. In fact, it's kind of a fun experiment. If you love coffee and you're interested in this kind of thing, what you can do is...
+
+57:52.130 --> 58:22.046
+set up a filter with coffee in it and line up four or five different cups and then pour the water in and then every 30 seconds or so move it from cup to cup. And you can see what comes out early and middle and late. And what comes out late are these larger molecules. And late is kind of synonymous or you can think of
+
+58:22.178 --> 58:38.590
+using hotter water as the temperature equivalent of brewing later and later. You're getting more stuff out. The word that comes to mind is stale. Coffee that's been on the coffee pot a long time. That seems to be the flavor you're describing when you...
+
+58:39.202 --> 59:03.422
+pull these large molecules out. Is that right? Well, actually I would say that so yeah, the old – unfortunately not so common anymore, the old coffee urn that you would have at conferences and things like that. Or the one where you pump the – yeah. Yeah. Some people will know what we're talking about. Yeah. The coffee has been in there for a couple hours probably.
+
+59:03.554 --> 59:32.446
+That to me is stale coffee and that changes in the smaller aromatic molecules as well as the larger ones. But I think the take-home lesson is that these little details make a difference. And if you're a stickler for coffee just the way you want it, then doing some of these experiments to see what's on either side of the coffee that you brew...
+
+59:32.546 --> 59:59.678
+usually is worth knowing about. You know, I think everyone could afford to slow down their experience of consuming food for a variety of reasons, some of which you mentioning, like just straight up better taste and taste experience. And also with beverages, I consume an ungodly amount of caffeine each day. I'm very caffeine tolerant. I actually can't drink coffee in the morning.
+
+59:59.810 --> 01:00:20.318
+But in the afternoon, I absolutely love it. It tastes aversive to me early in the day. I don't know why. I drink yerba mate early in the day and throughout the morning. And then in the afternoon, I like a cup of coffee in the same cup of coffee. Tastes absolutely delightful in the afternoon. I don't know what it is.
+
+01:00:20.450 --> 01:00:48.190
+Yeah, that's mysterious to me too. Can't claim pregnancy either. So, you know, because people who are pregnant report feeling kind of nauseous to certain tastes at one time a day versus another. Is there anything else we can do with our coffee and tea? You know, so the tannic flavor or the experience of a tea being too tannic is awful. It tastes metallic. But when tea's done right...
+
+01:00:48.834 --> 01:01:10.686
+it's very smooth. What is this tannic smooth thing in the context of tea? Is it the same thing, large molecules, small molecules? Yeah, it's basically the same thing. It also depends on, you know, what's left in the tea leaf. So some teas are just by definition going to be more tannic than others because they have been treated differently in order to make the dried tea.
+
+01:01:10.850 --> 01:01:34.718
+I have three or four tea bushes in my backyard, and so I make tea every year. Whenever the new growth comes out, that's what you make tea with. What kind of tea do you make? That's the fun thing about having the bushes. I make all kinds, and I play around with them and see what happens if I just pluck a leaf and brew that.
+
+01:01:34.818 --> 01:02:02.366
+or pluck a leaf, let it wither in the sun and then brew that or do the various processing techniques that give you oolong, which is kind of medium manipulated and then black tea is very heavily manipulated. But it's a whole spectrum and it's a lot of fun to play with. And you're just putting these directly into hot water or you put it in like a metal tea strainer? For most of them, what you have to do first is dry them.
+
+01:02:02.530 --> 01:02:31.614
+But then when I make tea, yeah, it's just leaves into a pot and then pouring the tea out. I make small pots so that I can try lots of different things. How do you dry them? That's another variable. So you can let them air dry. Just out on the counter? Yeah. I live in San Francisco, so it's not very warm. So it takes a while to dry on the counter.
+
+01:02:31.746 --> 01:02:58.654
+But you can also, I put them in the toaster oven. I'll dry them. A lot of Chinese green teas even are dried in a wok. So I will do that. You heat them up in the wok. Yeah, yeah. Toaster oven, yeah. Somebody who's obsessed with yerba mate, since I was a kid, I've been drinking yerba mate. I love, love, love it, as people know. Fascinated by this.
+
+01:02:58.754 --> 01:03:11.326
+How much space does one of these plants take up? Well, so it totally depends. I bought mine originally as a quarter meter tall.
+
+01:03:11.458 --> 01:03:36.158
+Not exactly seedling because they are bushes and so they get lignified pretty quickly. They're more solid. What's lignified? Sorry. Like a tree. Okay. Yeah. A solid base. Oh, like ligand. Okay. Yeah. Yeah. Yeah. Yeah. So one of the cool things about being alive these days is that...
+
+01:03:36.258 --> 01:04:04.190
+It used to be really hard to get your hands on these plants, but now it's very easy. You can go online, you can find many, many different sources at many different maturities. But the thing about making tea from tea plants is that what you're doing is plucking off the new growth. That's what you make tea from. It's not the older leaves, it's the very newest ones, which are the most metabolically active and have the most interesting stuff in them.
+
+01:04:04.418 --> 01:04:33.662
+interesting for us when we play with them. So you actually don't want to make tea from small plants. You want to let them grow bigger. And you can control the size from then on up. They're often grown in the shade for flavor purposes. And so growing them in the shade is actually fine. You don't have to have a sunny spot on your windowsill, although
+
+01:04:33.826 --> 01:05:03.742
+it'll grow faster in the sun, but shade-grown tea is actually preferred. And then they're a species of camellia. So they're not that demanding. They need acidic soil, but apart from that, very easy to grow. I've had mine now for almost 20 years, and making tea from them is actually a great way to keep them in check. Otherwise, they would take over the yard.
+
+01:05:04.194 --> 01:05:26.110
+Amazing. And then what's, is it called tessiography? Do you do that too? The reading of tea leaves? I'm just joking. Tea leave reading is probably never going to make it onto this podcast. And I'll probably upset some people by saying that. I'm not convinced that reading tea leaves is indicative of much.
+
+01:05:26.274 --> 01:05:54.014
+Yeah, okay. I'm glad we're in agreement about that. As long as we're exploring whether longstanding lore within kitchens is reflective of some real chemistry, as was the case with umami or the French with eating salads last, there's this idea that you shouldn't have tea at the end of a meal. Is that true? Or is it like...
+
+01:05:54.402 --> 01:06:21.214
+that it somehow hardens the food in your stomach? Or is this just complete nonsense? Sounds to me in the direction of complete nonsense. Great, because I like tea at the end of a meal. I like chamomile tea after a meal. Well, and herbal teas especially, because I mean, I could make a just-so story about the phenolic compounds in tea cross-linking things in your stomach or something like that, because...
+
+01:06:21.602 --> 01:06:39.646
+Polyphenols do that, but I can't imagine that it makes a difference. So polyphenols cross-link proteins? Yeah, yeah. For those who aren't familiar, cross-linking proteins is a way of changing their configuration and making, generally makes them more rigid when we, in laboratories, when we use fixative like
+
+01:06:39.874 --> 01:07:07.774
+formaldehyde or paraformaldehyde, you're taking a tissue, usually a slice of brain tissue, which is very floppy, and you need to be less floppy so you can work with it. And so you put it into paraformaldehyde or formaldehyde or glutaraldehyde. All these things create what are called shift bases. Do I have that right? Yeah. Okay. I'm remembering my chemistry. And they cross-link the proteins so that then you can pick that thing up like a, well, it's a very thin slab. I would not want to do that to the food in my gut. Right.
+
+01:07:07.906 --> 01:07:33.310
+But nowadays we hear that polyphenols are like the greatest thing. So what's the deal with polyphenols? Should we consume them separately from proteins? Yeah, no, I don't think so because the thing about polyphenols, the reason that they do this cross-linking is the fact that they're reactive. And what that means is you put them in with almost anything else and they're going to get bound.
+
+01:07:33.506 --> 01:08:01.726
+And then you're going to swallow them and they're going to make it down to your lower GI tract. And then there they may be freed up because whatever they're bound to gets to be digested and so on. But there it's not a bad thing necessarily. In fact, it's probably a good thing. But the thing about polyphenols early on in the process, if you think about what would happen if, for example, you take milk
+
+01:08:01.858 --> 01:08:31.102
+and add some wine to it and let it sit, it'll curdle. And that's because the polyphenols are cross-linking the milk proteins. And so that's basically the kind of thing that's happening inside us. Years ago, there was a semi-popular diet. This was in the early 90s that argued that you shouldn't combine carbohydrates and proteins, that you should actually eat them separately. And I've also heard it said that
+
+01:08:31.746 --> 01:09:00.318
+you want to eat fruit before a meal or away from a meal, but not after a meal, because it can give you digestive issues. I'm sure people differ tremendously in terms of what they can consume. I'm actually one of these people, if I have a stomachache, it means something is seriously wrong. I mean, I can eat everything except metal shavings and my stomach doesn't hurt. I don't get headaches or stomachaches. I get other things, but I don't get those. Some people are very sensitive to food combinations. They get stomachaches really easily.
+
+01:09:01.282 --> 01:09:23.038
+regardless of one's sensitivity to different foods, are there certain foods that it would make sense to keep them separate if you have digestive issues, you know, bloating or just gurgling stomach, this kind of thing, or worse? Yeah. So my understanding is, well, first of all, I know for a fact that
+
+01:09:23.234 --> 01:09:50.942
+We have cycled through every possible permutation of these theories over the course of the last 150 years with no one of them actually being touted now as the answer. So to me what that says is there is no the answer for this kind of question and that it really does depend on individual physiology and what people can tolerate
+
+01:09:51.042 --> 01:10:16.638
+for their own particular reasons. I don't think there are any principles by which you can choose to combine or not combine foods that would make a difference to your health. Also, we're eating so many different things so many times a day that I think would be really hard to kind of tease out
+
+01:10:16.866 --> 01:10:46.206
+any particular relationships like this. And even if they do exist, they probably exist only for subpopulations and not for the world at large. So translated, what I'm hearing is you have to figure out what works for you. It doesn't sound like you believe in one particular nutrition plan or diet according to any particular science, but it does sound like you leaning toward the idea that
+
+01:10:46.530 --> 01:11:13.950
+certain diets, for lack of a better word, will work better for different people. Yeah, I guess I would certainly say that it would depend on the individual. And I'm not sure that I would buy in necessarily to the idea of an optimal diet in the first place because unless optimal included, tremendously varied, which is kind of, you know,
+
+01:11:14.146 --> 01:11:43.006
+in a way, the opposite of optimal. It's making sure to try a lot of different things all the time rather than hewing to one particular approach. So, yeah, I think we just don't know enough to say anything definitive. We talk about the ever-problematic onions and garlic. There's a lot of chemistry around onions and garlic.
+
+01:11:43.362 --> 01:12:11.006
+most notably the crying caused by onions. What is the basis of the crying caused by onions and how do we mitigate it? So plants in that family, the allium family, so onions and garlic are close relatives. The way that they defend themselves from animals that might want to eat them, and they're not fruits, they're actually roots or root-like plants
+
+01:12:11.138 --> 01:12:32.318
+structures that are meant to give rise to the next generation. So to the plant, they're very important. They're defended with these sulfur molecules that in the intact root are inactive. But then the moment the tissues are disrupted, enzymes get to work and generate from those molecules.
+
+01:12:32.482 --> 01:13:01.918
+kind of chemical warfare cylinders. The cylinders are opened and we end up with these molecules that can fly through the air. They're volatile. We don't have to actually touch the onion. They come to us, these molecules. And they're meant to do exactly what they do, which is make us miserable. So the fact that they're volatile...
+
+01:13:02.050 --> 01:13:20.990
+means that you can protect yourself by doing a couple of different things. You can wear goggles, which prevents volatile molecules from getting to your eyes. You can do the cutting interspersed with just a rinse and water.
+
+01:13:21.154 --> 01:13:44.798
+because the molecules are being generated at the surface that you're generating by doing the cutting. So if occasionally you just rinse those surfaces, then the volatiles go away and they don't bother you as much. You can also get non-pungent varieties of onions which exist.
+
+01:13:44.962 --> 01:14:14.302
+Maui onions are the best known of those. And they just don't make those sulfur molecules so that they don't irritate us. I'm reminded that our colleague at Stanford, Dr. Sean Mackey, who runs the pain division, when he was on this podcast, he said that despite many years of traditional training in medicine and thinking that a lot of people's reported gut issues were
+
+01:14:14.466 --> 01:14:38.814
+perhaps psychosomatic and all this stuff. He himself had the experience of getting a lot of gut pain at one point in his life, just and not knowing what the origin was. And it seemed like it was after certain meals and not others. And he did all the necessary self-experimentation to pinpoint that it was onions that were causing this very, what sounded like pretty severe,
+
+01:14:38.914 --> 01:15:04.414
+gastric issues and pain. And it was the histamines caused by ingesting onions, right? These little packets of molecules that cause inflammation. And so that in part converted into this idea that, you know, when people talk about their negative experiences with certain foods, that they're not making this stuff up, that it's very likely that they have some sort of food sensitivity. And I think now the landscape of
+
+01:15:04.546 --> 01:15:30.590
+quote unquote, traditional medicine is starting to become more open to this. But in hearing what you just described, like these warfare molecules coming out of onions, stimulating a negative, they're designed to create an aversive reaction in animals that would eat them. And here we are eating these things. And then the idea that it would be bad for certain people at first seemed like shocking to the standard medical community, but now one of the
+
+01:15:30.690 --> 01:15:53.374
+leading experts in the world of pain medicine is like, hey, listen, histamines from onions are a problem for people with gut issues sometimes, not always. So I think there's an interesting kind of intersection of food chemistry, individual experience, and where medicine is headed. It's not crazy. These are chemicals coming out of food. Makes sense.
+
+01:15:53.506 --> 01:16:11.710
+Yeah, exactly. And maybe the most prominent example of an aversive chemical being generated in foods that we love is capsaicin in peppers. So hot peppers, the ones that are spicy, are spicy for...
+
+01:16:11.874 --> 01:16:37.022
+because they contain a particular molecule that is designed to be aversive to animals so that animals won't chew up those fruits before the seeds can be dispersed. And interestingly, the animals that the plant depends on for dispersal are birds, and birds don't respond to capsaicin. They don't have the... Really? Yeah, yeah.
+
+01:16:37.282 --> 01:17:05.822
+So this is a molecule that's designed specifically for mammals like us to get us to leave those fruits alone. And some people can handle tremendously noxious, shall we say, levels of capsaicin. And other people are very, very sensitive and can't handle hardly any. So, yeah, it's all part of this...
+
+01:17:06.434 --> 01:17:30.782
+this larger picture of the world giving us these materials to feed ourselves and our working out our negotiations with those materials so that we can enjoy them and be nourished by them. I want to explore spiciness a bit more in a moment, but are there any data that there are genetic differences among people in terms of the density of
+
+01:17:30.946 --> 01:17:54.846
+I think the capsaicin receptor is a substance P receptor or something like that, or sweet receptors or umami receptors that would perhaps not predict, but partially explain why some people are really averse to spice, other people pursue spice and why some foods perhaps just like don't taste good to certain people or even give them a gut issues or this sort of thing.
+
+01:17:55.202 --> 01:18:22.814
+So the best studied aspect of this is taste rather than smell. Smell is difficult because there are so many different receptors and thousands and thousands of smells, but taste is a relatively confined subject. And there are what are called super tasters. And this has to do eventually, I'm sure, with genetics, but the way this...
+
+01:18:23.138 --> 01:18:52.798
+The category of people was first defined was by simply counting taste buds on the tongue. So they had a particular area in which they could look and they stained the taste buds and then simply counted them, enumerated them on thousands of different people. And what they found was, as you might expect, there are some people with very, very few in a given area and others where they're so crowded together you can barely count them.
+
+01:18:52.994 --> 01:19:11.870
+Wow. So high pixel density, low pixel density. Some people have the iPhone 1, some people have the iPhone whatever we're on now of 16 or something or 13 density. Wow. Yeah, yeah. So clearly that's going to affect the way you experience whatever you put in your mouth. Yeah.
+
+01:19:12.258 --> 01:19:38.782
+The investigators gave the name supertaster to the people who had the highest density of receptors. It's unfortunate because, you know, the term does have connotations that really don't belong. It's just some people have lots of taste receptors and other people don't have very many. Well, I guess the question is,
+
+01:19:39.106 --> 01:20:02.622
+do the people who have higher density of taste receptors have better taste discrimination? Can they tell two foods apart or beverages apart on a dimension of, say, sweetness that somebody with lower density receptors can't? So that's a really good question. And I don't know exactly the answer to that. But what I do know is that
+
+01:20:02.914 --> 01:20:13.502
+You would think that supertaster sounds great. That's what I want is to be able to taste more. In fact, supertasters are especially sensitive to...
+
+01:20:13.826 --> 01:20:39.454
+bitterness and to acidity to the point that foods that other people enjoy just fine, they find aversive simply because the sensation is overwhelming. So I used to teach a course at the French Culinary Institute, no longer with us in New York, and we would often have chefs in the course along with just ordinary people.
+
+01:20:39.714 --> 01:21:09.502
+And we would do a taste test, a proxy for counting the number of taste buds. You can give people a very bitter substance at a known level on a little piece of filter paper and then ask people to rate, does this taste extremely bitter, kind of bitter, or what bitter? And the chefs would always be upset
+
+01:21:09.858 --> 01:21:38.622
+if they did not score as super tasters because super means you're a really good taster. But talk to them and you find out that it's often difficult for chefs to kind of match the flavor preferences of their customers. And one of the reasons for that can be that if you're a super taster as a chef, you're going to dial down
+
+01:21:38.754 --> 01:22:07.006
+kinds of things that to an ordinary taster may leave the food tasting bland. So it's something that there's no right thing to be. But if you're a professional in the food world, you need to know what you are and how to compensate for it if you need to. I'd like to take a quick break and acknowledge one of our sponsors, Function. Last year, I became a Function member after searching for the most comprehensive approach to lab testing.
+
+01:22:07.298 --> 01:22:37.264
+Function provides over 100 advanced lab tests that give you a key snapshot of your entire bodily health. This snapshot offers you with insights on your heart health, hormone health, immune functioning, nutrient levels, and much more. They've also recently added tests for toxins, such as BPA exposure from harmful plastics, and tests for PFASs, or forever chemicals. Function not only provides testing of over 100 biomarkers key to your physical and mental health, but it also analyzes these results and provides insights from top doctors who are
+
+01:22:37.264 --> 01:23:05.214
+expert in the relevant areas. For example, in one of my first tests with Function, I learned that I had elevated levels of mercury in my blood. Function not only helped me detect that, but offered insights into how best to reduce my mercury levels, which included limiting my tuna consumption. I'd been eating a lot of tuna while also making an effort to eat more leafy greens and supplementing with NAC and acetylcysteine, both of which can support glutathione production and detoxification. And I should say, by taking a second Function test, that approach worked.
+
+01:23:05.346 --> 01:23:20.542
+Comprehensive blood testing is vitally important. There's so many things related to your mental and physical health that can only be detected in a blood test. The problem is blood testing has always been very expensive and complicated. In contrast, I've been super impressed by function simplicity and efficiency.
+
+01:23:20.674 --> 01:23:47.198
+at the level of cost. It is very affordable. As a consequence, I decided to join their scientific advisory board and I'm thrilled that they're sponsoring the podcast. If you'd like to try Function, you can go to functionhealth.com slash Huberman. Function currently has a wait list of over 250,000 people, but they're offering early access to Huberman podcast listeners. Again, that's functionhealth.com slash Huberman to get early access to Function. Do you salt your fruit?
+
+01:23:47.490 --> 01:24:13.982
+A few years ago, there was this like a trend of salting fruit. Remember that? I tried it. I love fruit. I love salt. Wasn't such a fan of salting fruit, but I don't wanna dismiss it right off the bat. Does it do anything interesting to fruit in a way that should have me return to that? Yeah, no, I think it's a completely individual thing. My grandmother would salt her grapefruit. Oh yeah.
+
+01:24:14.370 --> 01:24:42.206
+Oh, no, we would put sugar on our grapefruit when we were kids. Sucrose. So she would salt her grapefruit. She would salt her grapefruit. And it turns out, we know now, that in fact salt and bitter are kind of opposing sensations. And you can actually diminish the sensation of bitterness by upping the salt. So she was making it less bitter without adding sugar.
+
+01:24:42.402 --> 01:25:09.022
+which to her was important. She used the artificial sweetener of the day in her tea in the morning. That's interesting. I know people who put a tiny, tiny bit of salt in their coffee to, according to them, take the edge off, meaning to take the bitterness out. It makes sense. Yeah, yeah, it does. Based on the chemistry, this push-pull of bitter and salty.
+
+01:25:09.570 --> 01:25:38.974
+Salty tastes. Yeah. Pretty much everything in the nervous system is push-pull. Yeah, and that goes, by the way, for things like beer. Some people will add a pinch of salt to their beer. The only place in the world where I enjoy beer is in Munich, where they serve beer. Well, maybe it's the schnetzel that they're... I love that stuff. But they'll come around with a heater.
+
+01:25:39.362 --> 01:26:05.726
+and they'll heat your beer so that it's room temperature. And it completely changes the taste. The bubbles are small in those beers. They taste to me just a little bit sweeter. And I asked them about this and the idea that you would drink a cold beer to them was like, what are you talking about? I mean, you might as well tell an American that they should have their apple pie with...
+
+01:26:06.242 --> 01:26:32.542
+with spaghetti on top or something. It's crazy. Let's talk about alcohol, even though I'm not a drinker. I know people enjoy a little bit of wine or spirits or beer. And I'm supposed as long as people aren't alcoholics and they're of age, like, you know, small amounts of consumption are probably okay. Zero is better, but so let's talk about wine and beer.
+
+01:26:32.962 --> 01:26:50.750
+What's the brief history on this? When do people start fermenting fruit and hops and this whole business of creating poison to ingest because it tastes good and gets them a little bit inebriated? What is this?
+
+01:26:51.170 --> 01:27:18.078
+So this is actually an area where we're learning more every year because people are, especially archaeological sites, are pushing dates back and so on and finding evidence for this kind of thing. The ability to detect residues in pots is just amazing these days. But my guess is, and it's been argued that,
+
+01:27:18.178 --> 01:27:41.918
+We have been enjoying alcohol since before we were homo sapiens. Really? Yes. That primates, in fact, when you observe them, will go after fermenting fruit and enjoy it. Seek out and pick those fruits and not others. Yeah.
+
+01:27:42.210 --> 01:28:05.246
+And I bet it's not a literature I keep up with, but I bet that there are some behavioral studies as well to suggest whether or not the ingestion of the fruit is actually having an effect on their coordination, for example. I bet there are studies like that. So we've been enjoying...
+
+01:28:05.378 --> 01:28:31.486
+alcohol before we were homo sapiens. And in the archaeological record, the dates have been pushed back now to the very beginnings of agriculture. And in many different places, so China, the Middle East, it's just an attractive possibility.
+
+01:28:31.586 --> 01:28:57.790
+which probably did simply start with collecting a bunch of fruit, not getting around to eating it right away, and it beginning to smell interesting, and you try it, and it does things. Humans daring other humans to try things. Which I think is also, by the way, how chocolate was discovered, or the possibilities for chocolate.
+
+01:28:57.922 --> 01:29:27.198
+cow beans are the seeds in a fruit. And the current thinking is that the fruits were gathered for the fruit and the seeds, which are large, were simply thrown in a pile near the fire. And there were enough residues of the fruit on the seeds for those residues to ferment. And that's the first step in making chocolate. So with respect to alcohol,
+
+01:29:27.554 --> 01:29:56.126
+I mean, alcohol is, as you mentioned, a long history. I've heard it said that despite so much fascination and money spent on different wines, depending on the make and the label and the year in particular and how the grapes were that year, depending on how the weather was that year and the soil and, you know, so much goes into this, the huge industry. But every once in a while, there'll be a study published
+
+01:29:56.226 --> 01:30:25.726
+where they'll do a blind taste test and some of the most experienced, AKA expert wine drinkers won't be able to discern the finest wine or near finest wine from a far more trivial, inexpensive wine. And that always seems to send everyone into disarray for a couple of weeks. And then everyone goes right back to distributing their wine consumption according to their income and what they are
+
+01:30:26.210 --> 01:30:55.678
+to be the better wine. It's kind of a wild foray into human psychology. Like if this is true that these expert wine drinkers can't discern like a $20 bottle of wine from a $2,000 bottle of wine, and yet they insist on returning to the practice of preferentially buying and consuming more expensive wines if they have the means. I mean, that says all sorts of things about humans and the way we place value on things. But I wanna know,
+
+01:30:56.642 --> 01:31:21.502
+Are the more expensive wines actually truly better from the perspective of taste? And through the lens of, let's just say, a novice and an expert wine drinker, what's the deal? Yeah, yeah. So this, I think, is really complicated in all kinds of interesting ways, and I think...
+
+01:31:21.698 --> 01:31:51.614
+begin with, it's true that people have done things like serve red wines, expensive red wines alongside white wines that had been dyed red and asked people, asked experts to judge them and comment on them and the experts being fooled by the food coloring. So I think it's in large part to begin with
+
+01:31:51.810 --> 01:32:21.022
+a matter of what we're expecting to happen when we taste something. And if we have expectations, then those expectations are going to influence our perception. And there are a couple of wonderful books by a neurobiologist named Gordon Shepard on exactly these subjects. So it's a...
+
+01:32:21.218 --> 01:32:45.214
+complicated loop. We have expectations, we taste something, the expectations play into what we think we experience and our conclusions from that experience, which is no knock on the lines. It's just the fact of our imperfect nature as sensory beings.
+
+01:32:45.346 --> 01:33:13.662
+Then when it comes to the wines themselves and the kind of variation that you find from different kinds of wine makers, locations, weather, treatment during the winemaking process, all those different things, if you work at it, you can train yourself to notice minute differences.
+
+01:33:13.762 --> 01:33:43.262
+just as you can train yourself to notice minute differences in all kinds of other things that we care about. Art connoisseurship, for example, you know, is knowing something about the history of art and about the materials and that kind of thing. They all play into our judgment. And what we're talking about when we're talking about whether a wine is better than another, it's a judgment.
+
+01:33:43.394 --> 01:34:08.798
+And I think the more you know about, if you care to know, the more you know about a particular material, the better you're able to either appreciate it or depreciate it, depending. And wine is just fascinating material. I mean, it's made every year for
+
+01:34:08.994 --> 01:34:38.558
+all kinds of different grapes in all kinds of different parts of the world by all kinds of different people. And they all taste kind of different depending on all those different factors. And if you're interested in those kinds of distinctions and if you get pleasure from taking a sip and saying, ah, yeah, that was a warm year in that vineyard and tastes a little riper than the other bottle that I have in my cellar,
+
+01:34:38.882 --> 01:35:07.710
+that's great. That means you're using your human capacities to the utmost. If you're just drinking to drink, not so much. So I think it depends on not only the product, but the consumer. Like so many domains of life, it sounds like curiosity lends itself to a deeper and better relationship with something. A guest on this podcast is
+
+01:35:07.906 --> 01:35:36.926
+who himself was a comedian, said exactly what you said. He said, which is only to say that you agree, that the more you learn about something, the way a movie was made or visual art or a song, the more you come to appreciate it. With one exception, comedy. You either think something's funny or not. You can learn about the process that comedian went through. You can learn about the context. And if it's not funny to you, it's,
+
+01:35:37.026 --> 01:36:06.302
+not gonna become funny. So it seems to be like one exception in the universe of experiences. But even though we weren't talking about food, I think he would totally agree with you on this point, which is a perfect segue for my next question, which is about cheese. When you walk into a cheese shop in say Denmark or in Northern Europe, do you like it or do you feel overwhelmed? Because for those who have,
+
+01:36:06.882 --> 01:36:36.382
+they know. It's intense. Yeah, that's one of my favorite things, actually. Something that I learned to like when our family lived in France for a year, and I decided, you know, the French make a lot of cheese, I should learn something about that. And I went to a little trailer at one of the farmer's markets in the little village we were living in, and in my
+
+01:36:36.482 --> 01:37:05.406
+French said I would like to learn about cheese. I got like a 10-minute lecture on how Americans could never appreciate cheese properly, but then, okay, I'll tutor you. And I had a wonderful year-long, just every week, a session with this cheesemaker who was bringing, she herself did not make
+
+01:37:05.698 --> 01:37:35.166
+Most of the cheeses she sold, but she would sell what was proper seasonally for that place. Anyway, I learned a tremendous amount, fell in love with the diversity, starting with basically the same material, maybe two or three different animals' kinds of milks, but starting with the same bland material and ending up with this tremendous range of flavors is, I think, a tribute to human ingenuity.
+
+01:37:35.298 --> 01:38:00.318
+to be able to come up with that kind of diversity. How long has cheese been made and consumed by humans? Since apparently very early in the domestication of animals, maybe even before animals were fully domesticated. So again, we're talking 7,000, 8,000 years ago. In the case of
+
+01:38:00.418 --> 01:38:29.598
+dairy products, that's pretty much in the Central Asian area. Can we talk about the chemistry of cheese and fermentation? Sure. Yeah. First, a question about a specific cheese. If one looks online, which is always a dangerous thing to do, if you're in search of real information, you have to be very discerning. There's this idea that certain cheeses, in particular Parmesan cheeses, are so rich with the amino acid tyrosine
+
+01:38:30.082 --> 01:39:00.062
+they create, because tyrosine is the amino acid precursor to dopamine, that they create a mild high of sorts. Now, this, of course, could also be that people just really enjoy the taste or both. Yeah. But it makes sense at some level. What's known about the chemistry of cheeses and the experience of cheeses? Yeah. Well, so the thing that makes cheese much more interesting than milk is the fact that...
+
+01:39:00.162 --> 01:39:25.406
+microbes have been living in it and on it for weeks or months or years and slowly breaking down the proteins and the fats and generating these small molecules that we were talking about before that have flavor, that give us the sensations of taste and smell. The longer that process goes on,
+
+01:39:25.634 --> 01:39:55.166
+the most part, the more of those breakdown products there are and the richer and more varied the flavor is. Now you can sometimes get very strong flavored cheeses very quickly. Camembert is an example of cheese like that where you, in the cheese making process, essentially encourage the changes to happen very rapidly. But if you dial back on the process and let it take
+
+01:39:55.426 --> 01:40:17.502
+longer, you end up with a much more diverse array of molecules. And in the case of Parmesan and those crystals that you end up with in cheeses that are two, three years old, which are crunchy and kind of the sign of authenticity, you know, the
+
+01:40:17.602 --> 01:40:46.782
+this cheese is actually that old and it's worth paying double the price that you would pay for a young version. Those are usually tyrosine or other amino acid derivatives that have been broken off of the protein chains and then because the cheese has slowly been dehydrating,
+
+01:40:46.914 --> 01:41:13.054
+they've become insoluble and begin to crystallize out. And so that's why they're a sign of the process of aging and also the time of aging. The thing about it, though, and for me the question mark, is that tyrosine was there already in the proteins. And so is...
+
+01:41:13.250 --> 01:41:39.550
+having it crystallize out somehow making it more immediately available to have an effect on us. You know, we don't have to digest the protein anymore now. It just, you know, pops right into us the moment we put it in our mouths. Maybe that has something to do with the effect that people are reporting. When smoke flavors are added to cheese, is it through actual smoking process?
+
+01:41:40.194 --> 01:42:08.510
+If it's authentic? Yeah. If it's authentic, yeah. The cheeses have been kept in a room with something smoldering. And that was often in the old, old days and still to some extent these days, kind of like curing hams. Bugs are going to want to enjoy that really rich, nutritious material. And so you have to ward them off. And smoke is a good way to do it. That makes sense.
+
+01:42:08.898 --> 01:42:37.822
+So to keep bugs away, you fill the room with smoke and then you end up with food that tastes smoky. Yeah. And then you tell people that it tastes good. I'm not a fan of smoke. I don't know why. Yeah. Maybe it's because most smoky flavors seem to come from a kind of a, it tastes chemical to me. It doesn't taste like smoke. It tastes like smoke generated from drywall mixed with some styrofoam. It doesn't, it's not like a nice,
+
+01:42:38.082 --> 01:43:06.494
+organic in the real sense of the word, natural flavor to me, it tastes chemical. Yeah, yeah, no, I know exactly what you mean. And I also think that most smoked foods are over smoked. You know, that ends up being the only flavor that the food has, and instead of being a kind of in the background flavor, so. And what about in bourbons and things like that, where people get really excited about a smoky bourbon, is that...
+
+01:43:06.626 --> 01:43:36.062
+Why would you do that? Because I can't imagine that the bugs we're going to get into. Well, bugs like ferment, right? Is that right? Yeah. Actually, one great way to attract bugs to your picnic is to have vinegar there. They love the smell of vinegar. Yeah. Yeah. So in the case of barrels for distilled beverages, that's, as far as I can tell, just a completely cultural...
+
+01:43:36.258 --> 01:44:04.414
+In order to make barrels, you have to heat them in order to make the wood pliable. And probably someone in the process of making barrels discovered that if it burns out of control for a few seconds, that may be not such a bad thing 10 years down the line. So it's certainly not essential to the flavor of alcohols. And a lot of, for example,
+
+01:44:04.674 --> 01:44:33.118
+whiskies may be marketed as having been aged in used sherry casks. So you don't get the toasting that you get if you're making fresh perils. So I think it's a matter of taste and also just the skill with which that flavor has been incorporated into whatever the food or drink is. On the topic of fermentation,
+
+01:44:33.538 --> 01:44:56.414
+our colleague, I assume you mentioned a lot of our colleagues, but we got a lot of spectacular colleagues at Stanford at Justin Sonnenberg. And to be fair, his wife, Erica, has also contributed critically to this work, have made discoveries essentially that consuming low sugar fermented foods on a daily basis can lower inflammation, markers of inflammation, even more so than
+
+01:44:57.154 --> 01:45:25.374
+increasing one's fiber intake, which is itself interesting. What have you learned about fermentation, chemistry, fermentation as a human practice, for health benefits, sure, for taste, but just as a thing? Fermentation's a pretty wild thing that we would do this. Yeah, yeah, yeah. Well, so my sense is that it began, we were talking earlier about alcohol, began with just observation.
+
+01:45:25.474 --> 01:45:52.606
+You have fruits that are overripe and they're sitting on the forest floor and they sit long enough and they begin to smell different and look different and fizz and all kinds of things. And that's interesting. So my sense is that fermentation has been discovered essentially by every population on the earth, including the Arctic where you think it might
+
+01:45:52.994 --> 01:46:16.990
+a while for things to go on, but in fact, products that are translated into English as stink fish are among the most prized of the foods in the Inuit regions of the pole. How do they prepare the stink fish? Essentially by letting it sit.
+
+01:46:17.730 --> 01:46:46.846
+So that's one of the appeals of fermentation is you don't have to do a whole lot. You just catch the food, whatever it is, and put it in a container of some kind. Some stingfish are made simply by digging a pit and burying it and covering it over. And then there's a connoisseurship of these foods. It's a lot of fun actually to go back and read the accounts of explorers
+
+01:46:46.946 --> 01:47:11.518
+these regions and the locals are, you know, trying to show the greatest hospitality by serving them foods that they can't bear even to get near. Salmon eggs, another example, highly prized, but after they'd been fermented. This is caviar. Yeah, yeah. One of the most expensive foods on the planet.
+
+01:47:11.650 --> 01:47:38.110
+Exactly, exactly. And not just for kind of for show reasons. I mean, the omega-3 content of caviar is like off the charts. And there are other micronutrients in caviar that make it... These are the sturgeon eggs typically, right? Yes, yeah, that's right. Yeah, yeah. Which production of which almost disappeared...
+
+01:47:38.626 --> 01:48:06.590
+years ago and now is booming because people are now farming these fish, the fish were endangered. They're now farming them all over the place and trying caviar from different species that had never been tried before. So that's actually part of what I would say about fermentation these days as well, is that once
+
+01:48:07.490 --> 01:48:27.262
+the formerly isolated populations on the earth began communicating with each other and sharing expertise and sharing knowledge of these materials, which has happened, of course, hugely in the last 20 years or so.
+
+01:48:27.426 --> 01:48:56.158
+Local traditional ways of doing things have now not only spread to other parts of the world, but gotten people to ask the question, well, if you can do this kind of fermentation with this raw material, what about doing it with a different raw material? So miso was traditionally made with soybeans. Now it's being made with peas in northern Europe.
+
+01:48:56.290 --> 01:49:19.134
+And just on and on and on, which I think is both tremendously difficult to keep up with, but also tremendously exciting because it means that we're now seeing how traditional food materials can be transformed by the action of microbes that we've...
+
+01:49:19.362 --> 01:49:47.454
+know about, but only know about in very specific contexts. And so I think the next couple of decades are going to bring forth just all kinds of new foods that will be initially strange and maybe off-putting because they're new, but also they're going to be, you know, this era's versions of miso and
+
+01:49:47.554 --> 01:50:09.918
+soy sauce and beer and wine and so on. So exciting times ahead. Yeah, we forget that we're still evolving. Especially when we hear about all the problems of the world, we forget that we're still evolving and that some of the technologies around food and drink are not just creating less healthy versions, but as you pointed out, are creating new...
+
+01:50:10.114 --> 01:50:38.206
+new hybrids of information, new hybrids of actual foods. It's not all about returning to ancient ways. You know, the conversations like this of slowing down and one's intake of food and chewing and appreciating and thinking about preparation of food, not just eating out of packages, one hopes. People, I think if there's one thing that the vegans, the vegetarians, the omnivores and the carnivores all agree on is that eating fewer processed foods is better.
+
+01:50:38.626 --> 01:51:07.230
+It's the one thing they all seem to agree on. Yeah, yeah. I have a question about you. Actually, I have several questions about you, which is what motivated this exploration into food and chemistry? I mean, you're taking a very different approach to all of this. I should point out that your original training at Caltech was in astronomy, then you shifted to another field, and then you ended up in this field of food science slash chemistry.
+
+01:51:08.066 --> 01:51:34.046
+know a lot about poetry so um I don't think I've ever met anyone with that background you are clearly an n of one as we say what got you into this whole thing and and and more importantly perhaps what motivates you like what's what's where's the the the texture of interest yeah is it like to taste as many things as possible or is it to link levels of analysis what what is it
+
+01:51:34.402 --> 01:52:03.166
+That last question is a really good one. I'll think about that as I answer the first parts. So I started out in love with science and with astronomy in particular and built a telescope. I still look up at Orion every time it's in the sky and the skies are clear. Went to Caltech to do astronomy, decided after a couple of years there that
+
+01:52:03.362 --> 01:52:30.334
+The physics was just not enough of a motivator for me to keep going. The physics at that point had gotten pretty hairy for me. And so I decided, you know, I still love to look at the stars, but maybe I'm not going to do astronomy. I then looked around for other things and the people, I had always loved the humanities,
+
+01:52:30.434 --> 01:52:53.534
+poetry and novels in particular, I was going to transfer to Stanford actually and my literature professors at Caltech, there were a few, convinced me to stay and they said, what you can do is you can stay with us, cherry pick the science because you don't have to take as much anymore.
+
+01:52:53.858 --> 01:53:22.622
+And we'll get you a desk at the Huntington Library and the research library and we'll give you tutorials and we'll take care of you. And that's exactly what happened. It was a fantastic education that still included plenty of science but it was on my terms and not the discipline's terms. And then I went off to graduate school in literature having been –
+
+01:53:23.042 --> 01:53:50.270
+inspired by my teachers at Caltech, did a degree there on the poetry of John Keats and then couldn't get a job teaching. And so my mentors back at Caltech and also in graduate school said, well, you know, you have the science in your background. You should do something with that. And long story short,
+
+01:53:50.402 --> 01:54:15.710
+conversations with friends over the dinner table and drinking wine and so on, a question came up, why is it that beans give you gas? And we all laughed. I laughed, and then I went to the library, and I found out why. And I came back and told my friends, and we had a good laugh, and then I thought, hmm.
+
+01:54:15.842 --> 01:54:42.878
+Maybe, I mean, people are interested in food and this is kind of a fun fact about food that most people don't know. Maybe I can do this kind of thing. So I began to look a little more into it and then in the meantime, a scout for one of the publishing houses in New York had a girlfriend who was in the same group and she reported to him, he reported to the publisher.
+
+01:54:43.074 --> 01:55:06.718
+The publisher called up out of the blue and said, we hear you're writing a book about the science of food. And so from that moment on, I was writing a book about the science of food. He said, yes, I am. Yes. Why do we get gas from beans? And is it true that soaking them in water prior to cooking them can remove some of that untoward effect?
+
+01:55:06.946 --> 01:55:35.422
+So it turns out that the answer was discovered by scientists working for NASA. And if you think about NASA and their missions back in the 70s, you can understand why they would want to control something like this. So it turns out that beans contain, in addition to starch and sugars, kind of intermediate-sized carbohydrates,
+
+01:55:35.522 --> 01:56:05.278
+our bodies do not have the enzymes to break down into sugars. So we can take care of starch but not these intermediate size molecules. And so they pass into our gut unchanged and then we have plenty of microbes who are happy to see those and digest them and in the process they produce CO2 and hydrogen gas and that's what we end up experiencing. So the way to deal with that
+
+01:56:05.506 --> 01:56:34.974
+is to, soaking the beans will work. That leaches out some of these molecules, which are small and so soluble in water. Even more effective is to actually bring that water after it's been soaking to a boil and then pour that water off. That will get rid of more. But the other point I would make about these so-called oligosaccharides is these days we value
+
+01:56:35.138 --> 01:57:00.574
+the life in our lower tract. And these are the creatures that those molecules are in fact feeding. And it has been shown that you can or your system can kind of adapt. So yeah, the first few times you have beans or lentils or whatever it might be,
+
+01:57:00.706 --> 01:57:28.830
+you may have some discomfort, but the more frequently you eat it, the better you're able to tolerate it or your system is able to tolerate it without generating the discomfort. It seems to be a repeating theme, which is that the more we eat certain foods, the more our gut microbiome adapts to those foods. I think that we're just at the beginning of understanding the gut microbiome, but it's
+
+01:57:28.930 --> 01:57:54.718
+such a key player. So what do you make it a point to eat fermented foods given what you know about the microbiome? What are your favorite fermented foods or drinks? Yeah. I have learned to like kimchi. So that was not initially a food that I sought out, but I've really come to like it. And I
+
+01:57:55.746 --> 01:58:12.350
+You know, that may really be the only unusual fermented food that I seek out. I mean, I love fruits and vegetables and legumes and eat lots of those and kind of figure that, you know,
+
+01:58:12.450 --> 01:58:41.822
+things will take care of themselves down there for the most part, but kimchi is something I've come to love. Yeah, I haven't quite gotten to the kimchi thing. I think it's because a few years ago, I brought it into my lab when I was in San Diego, and my entire lab complained, except one person, my Korean student, who absolutely loved it. So I think some of these things are acquired early in life. And that's a question I was gonna ask earlier. Do you think that when young kids
+
+01:58:41.954 --> 01:59:11.838
+in particular, like don't want broccoli or they don't want certain foods that it's reflecting an actual real version that's based on something important about their chemistry? Yeah, yeah. So my, again, I don't think the literature is clear, but my sense based on having had a couple of kids go through this and just thinking it through, I think what's going on is that
+
+01:59:11.938 --> 01:59:40.158
+Kids have a heightened sense of taste and smell. And very early in development, they're omnivorous. They'll put anything in their mouths. Then at a certain point, they become much more conservative and I think also much more sensitive to nuances, you know, the sulfurousness of broccoli and that kind of thing. But I think it's also...
+
+01:59:40.322 --> 02:00:07.006
+both temporary and you can work with it. So in the case of our kids, we just made our regular dinners every day. And we would say to our kids, you're welcome to eat as much or as little of what we have as you want, but this is what we have. And there was one food that neither my son nor daughter created
+
+02:00:07.778 --> 02:00:31.102
+colorate. And we ended up just deciding, okay, that's literally off the table. You don't have to worry about this one. And it was amaranth leaves, which I was growing in the garden because, you know, I'm trying to learn about everything and they're interesting, but they have a very particular texture. And it was the texture that they just
+
+02:00:31.202 --> 02:01:00.638
+You know, it made them gag. And I didn't want to put them through that. Fair. So it wasn't just saying, I don't like this. It was, they were trying. If nothing else, one can still thrive in life without having any amaranth leaves. Is it true that some people like and some people loathe cilantro because they taste different things in the cilantro? Like the experience of cilantro is fundamentally different for some people than others. I like it. My father, he hates it.
+
+02:01:00.994 --> 02:01:29.662
+Yeah. Yeah. So cilantro is a really interesting case and the subject of a series of studies at the Monell Chemical Census Center. They were – they, in addition to all kinds of other things, would go to local county fairs and ask people – ask first of all for twins. If they saw twins on the grounds, they would bring them over to the booth and ask them both to taste –
+
+02:01:29.826 --> 02:01:54.238
+cilantro and say what they thought. Bottom line is, cilantro has molecules that kind of, I was going to say cross-react, that's not exactly it. They're also found in soaps. And so for a lot of people, depending on whether they've been acculturated to cilantro early in their lives or not,
+
+02:01:54.338 --> 02:02:11.902
+If they're only encountering it as an adult, the first thing they're going to think is, that tastes like soap. I don't want to put that in my mouth. Unless, you know, you're in company where it's important to go along with the gang. So there's a good basis for it.
+
+02:02:12.002 --> 02:02:40.798
+more this kind of divergent set of reactions, but it has more to do with the cultural appearance of those same flavor molecules than with the material itself. I see. So for those of you that don't like cilantro, you can cite this discussion. I have a colleague at Harvard, Catherine Duloc, who studies the olfactory system. You're probably familiar with Catherine's work. And she's French.
+
+02:02:40.898 --> 02:03:00.958
+as the last name suggests. And she would tell this story about different students and postdocs in her lab who come from a variety of different countries being split down the middle in terms of their experience of microwave popcorn that some people in her lab were like,
+
+02:03:01.090 --> 02:03:30.494
+love the smell of microwave popcorn, but then there's a separate population of people in her lab that experienced the smell of microwave popcorn as exactly the same as pungent vomit. And she claims it's on the basis of a variant in one of these olfactory receptors, which also speaks to the relationship between smell and taste. You know, like nobody wants to eat something that smells putrid generally, one would hope. What are some other examples of foods where people tend to diverge on the basis of something
+
+02:03:31.106 --> 02:04:00.414
+known to be or almost certainly biological as opposed to just, I wasn't raised eating that or that seems weird. So one thing that comes to mind that isn't quite that is Parmesan cheese, which has as one of its primary flavor components butyric acid, which is also the main thing that makes vomit smell like vomit. And some people just...
+
+02:04:00.738 --> 02:04:29.982
+eat parmesan cheese for that reason. Others don't notice it. Others kind of notice it, but it's okay. It's part of being parmesan cheese. So a lot depends on not only the sort of the individual apparatus experiencing a food, but then also what's kind of normal for that food to contain. And because cow's milk is especially rich in
+
+02:04:30.306 --> 02:04:58.462
+butyric acid as one of the components of the fats, that's what you get when the breakdown takes place. I like the example of Parmesan cheese. More for me. Yes. More for me. My last question is not in the domain of food or chemistry, but it's about poetry. This is a science health podcast, but you're here and you have the expertise. So I'm going to ask you, I love poetry.
+
+02:04:58.658 --> 02:05:26.782
+What is something that you learned about Keats that most people don't know that is, at least to you, particularly interesting? And then I'll ask you to suggest a Keats starter pack. Maybe name one Keats poem that everyone should go read. We'll put a link to it. But first question is, you spent a considerable amount of time researching Keats and learning about him and his work. So what's something that we're not gonna learn elsewhere? Yeah, yeah.
+
+02:05:27.202 --> 02:05:54.142
+I think one of the most important things about his development and the reason that he wrote the kind of poetry he did, which was often concerned with death, eventually, ultimately, is that he started out life as a medical student. He was a medical student that...
+
+02:05:54.946 --> 02:06:20.670
+Guy's Hospital in London, which still exists and has a long amazing history. He was a medical student. He had a mother and a brother who both died of TB and he attended them in their illnesses. And
+
+02:06:22.498 --> 02:06:51.454
+So to know that and then to read a poem like To Autumn, which is the poem that I would suggest people read, I think just adds a dimension of appreciation to that poem because there's nothing about death in the poem. It's just a description of a natural scene.
+
+02:06:51.874 --> 02:07:19.294
+in the autumn, but that those experiences are there. And knowing that and reading not only that poem, but many others, I'm sure it was, well, I think he wrote poetry both to comfort people and to kind of work through what it is that
+
+02:07:19.490 --> 02:07:48.350
+is all about that he needs to come to terms with in order to have lived that life. Thank you for that. We will go read to Autumn and we'll look for those experiences inside of that. A couple of things I want to say. First of all, thank you so much for coming here and sharing your knowledge with us. I'm certain that it's going to change the way that people experience food and drink and it
+
+02:07:48.450 --> 02:08:16.030
+nothing else will get them chewing their food and pausing between bites here and there to get deeper into the experience of food. It's also nice. In fact, it's very refreshing to be able to talk about food on this podcast, not within the context of just fueling the body and health benefits. Those are critically important, but obviously food has cultural aspects and it has taste aspects and is one of the great
+
+02:08:16.258 --> 02:08:46.206
+of pleasure in life. So you've taught us how to get more pleasure from food and also its links to history and human evolution. I mean, there's so much there and we'll put links to your books that explore chemistry of food and other aspects. I also just, I wanna thank you because whether you intended to or not, you're a wonderful example of how somebody follows their interests and blends them and how talking about your interests with people
+
+02:08:46.370 --> 02:09:02.174
+help you get opportunities to get paid to do what you do. You know, people often wonder, you know, how do I take my varied interests and put them into something and they'll try and like thread the needle from this to that. And I'm not going to make up a story here, but what I gathered was
+
+02:09:02.306 --> 02:09:29.886
+that just by being you and being open-minded and answering questions when people ask that you've been able to braid together your interests in a way that's allowed you to have a very unique career that's very impactful. Your books have been read by so many people and this conversation will be heard by so many people. So thank you for that. It's a reminder to just be oneself and things generally work out and that you're continuing to do the great work that you're doing. So-
+
+02:09:30.018 --> 02:09:57.886
+Once again, thanks for taking the time to come down here and talk to us. I'm going to try some new foods. I think I'm going to do this tea thing. I need some greenery in my place, and I think I'm going to do that, so I have questions for you about that. Thanks so much. I really appreciate the work you're doing. Well, thank you very much, Andrew. If I can just say a word about how rare it is to talk with people who are broadly interested in
+
+02:09:58.050 --> 02:10:25.278
+sort of the details of life but also the meaning of life and, you know, what's possible and what's not. That makes me especially happy to be here. And I was just going to say that I looked at this book about food as being, you know, a one-off and then I would write about gardening or, you know, something else. And I just got
+
+02:10:25.538 --> 02:10:47.870
+captured by the subject. It's hard to think of something that's more central to just sustaining human life, but also getting pleasure from it. And so I went down the rabbit hole and I'm still down there. We're grateful you are. So thank you. And thanks for putting the knowledge you collect in that rabbit hole out into the world. Thank you.
+
+02:10:48.450 --> 02:10:56.222
+Thank you for joining me for today's discussion with Dr. Harold McGee. To learn more about his work and to find links to his books, please see the show note captions.
+
+02:10:56.386 --> 02:11:26.352
+If you're learning from and or enjoying this podcast, please subscribe to our YouTube channel. That's a terrific zero cost way to support us. In addition, please follow the podcast by clicking the follow button on both Spotify and Apple. And on both Spotify and Apple, you can leave us up to a five-star review. And you can now leave us comments at both Spotify and Apple. Please also check out the sponsors mentioned at the beginning and throughout today's episode. That's the best way to support this podcast. If you have questions for me or comments about the podcast or guests or topics that you'd like me to consider for the Huberman
+
+02:11:26.352 --> 02:11:50.558
+Please put those in the comments section on YouTube. I do read all the comments. For those of you that haven't heard, I have a new book coming out. It's my very first book. It's entitled Protocols, an Operating Manual for the Human Body. This is a book that I've been working on for more than five years, and that's based on more than 30 years of research and experience. And it covers protocols for everything from sleep to exercise, to stress control,
+
+02:11:50.754 --> 02:12:10.718
+protocols related to focus and motivation. And of course, I provide the scientific substantiation for the protocols that are included. The book is now available by presale at protocolsbook.com. There you can find links to various vendors. You can pick the one that you like best. Again, the book is called Protocols, an Operating Manual for the Human Body.
+
+02:12:11.074 --> 02:12:41.040
+if you're not already following me on social media, I am Huberman Lab on all social media platforms. So that's Instagram, X, Threads, Facebook, and LinkedIn. And on all those platforms, I discuss science and science-related tools, some of which overlaps with the content of the Huberman Lab podcast, but much of which is distinct from the information on the Huberman Lab podcast. Again, it's Huberman Lab on all social media platforms. And if you haven't already subscribed to our Neural Network newsletter, the Neural Network newsletter is a zero-cost monthly newsletter that includes podcast summaries as well
+
+02:12:41.040 --> 02:13:06.750
+as what we call protocols in the form of one to three page PDFs that cover everything from how to optimize your sleep, how to optimize dopamine, deliberate cold exposure. We have a foundational fitness protocol that covers cardiovascular training and resistance training. All of that is available completely zero cost. You simply go to HubermanLab.com, go to the menu tab in the top right corner, scroll down to newsletter and enter your email. And I should emphasize that we do not share your email with anybody.
+
+02:13:06.946 --> 02:13:30.750
+Thank you once again for joining me for today's discussion with Dr. Harold McGee. And last, but certainly not least, thank you for your interest in science.
+
+02:13:30.882 --> 02:13:38.910
+Thank you.

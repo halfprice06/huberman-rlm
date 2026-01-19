@@ -1,0 +1,868 @@
+WEBVTT
+
+00:00.386 --> 00:20.510
+Welcome to the Huberman Lab Podcast, where we discuss science and science-based tools for everyday life. I'm Andrew Huberman, and I'm a professor of neurobiology and ophthalmology at Stanford School of Medicine. My guest today is Dr. Alan Shore. Dr. Alan Shore is a clinician psychoanalyst
+
+00:20.610 --> 00:49.790
+and he is the world expert in how childhood attachment patterns impact our adult relationships, including romantic relationships, friendships, and professional relationships, as well as our relationship to ourselves. Dr. Schor is on the faculty in the Department of Psychiatry and Behavioral Sciences at the University of California Los Angeles School of Medicine. He is also the author of several important books, including Right Brain Psychotherapy and Development of the Unconscious Mind.
+
+00:50.178 --> 01:18.014
+Today's discussion with Dr. Shor is an extremely important one for everyone to hear, to understand themselves and to understand the people in their lives. Why? Well, we all go through the first 24 months of age. You wouldn't be listening to this if you hadn't. And during that first 24 months of age, your brain develops in a particular way depending on how you interacted with your primary caretaker, namely your mother, but also your father or other primary caretakers.
+
+01:18.338 --> 01:29.054
+In that first 24 months, your right brain and your left brain mediate very specific but different processes. For instance, today you'll learn from Dr. Shor that your right brain circuitry
+
+01:29.218 --> 01:59.184
+That is, specific circuitries on the right-hand side of your brain are involved in developing a very specific type of resonance with your primary caretaker that transitions from states of calm and quiescence that you both share simultaneously to states that are considered up states of excitement, of enthusiasm, of being wide-eyed. And the transitioning back and forth between those states, as Dr. Shor explains, is critical to our emotional development and how we form attachments later. So if you've heard, for instance, of avoidant attachments,
+
+01:59.184 --> 02:17.406
+or anxious attachment or secure attachment, today you'll understand why those particular attachment styles develop, how they translate from early life to your adolescence, teen years, and adulthood, and in fact, how those childhood attachment patterns, which of course we can't control for ourselves, but we can control for our children,
+
+02:17.826 --> 02:36.926
+how we can modify them through very specific protocols in order to achieve better relations with both others and with ourselves. It's indeed a very special conversation. And to my knowledge, unlike any other discussions about relationships, neuroscience, or psychology, that certainly I have heard before, and I fully expect that for you, it will be as well.
+
+02:37.122 --> 03:04.670
+Before we begin, I'd like to emphasize that this podcast is separate from my teaching and research roles at Stanford. It is however, part of my desire and effort to bring zero cost to consumer information about science and science related tools to the general public. In keeping with that theme, I'd like to thank the sponsors of today's podcast. Our first sponsor is David. David makes a protein bar unlike any other. It has 28 grams of protein, only 150 calories and zero grams of sugar.
+
+03:04.898 --> 03:34.864
+That's right, 28 grams of protein and 75% of its calories come from protein. These bars from David also taste amazing. My favorite flavor is chocolate chip cookie dough, but then again, I also like the chocolate fudge flavored one and I also like the cake flavored one. Basically, I like all the flavors. They're incredibly delicious. For me personally, I strive to eat mostly whole foods. However, when I'm in a rush or I'm away from home or I'm just looking for a quick afternoon snack, I often find that I'm looking for a high quality protein source. With David, I'm able to get 28 grams of protein
+
+03:34.864 --> 03:42.206
+protein with the calories of a snack, which makes it very easy to hit my protein goals of one gram of protein per pound of body weight each day.
+
+03:42.402 --> 04:11.710
+And it allows me to do that without taking in excess calories. I typically eat a David Bar in the early afternoon or even mid afternoon if I wanna bridge that gap between lunch and dinner. I like that it's a little bit sweet, so it tastes like a tasty snack, but it's also giving me that 28 grams of very high quality protein with just 150 calories. If you would like to try David, you can go to davidprotein.com slash Huberman. Again, the link is davidprotein.com slash Huberman. Today's episode is also brought to us by Eight Sleep.
+
+04:11.874 --> 04:16.062
+8sleep makes smart mattress covers with cooling, heating, and sleep tracking capacity.
+
+04:16.226 --> 04:46.192
+Now I've spoken before on this podcast about the critical need for us to get adequate amounts of quality sleep each night. Now one of the best ways to ensure a great night's sleep is to ensure that the temperature of your sleeping environment is correct. And that's because in order to fall and stay deeply asleep, your body temperature actually has to drop by about one to three degrees. And in order to wake up feeling refreshed and energized, your body temperature actually has to increase about one to three degrees. Eight Sleep makes it very easy to control the temperature of your sleeping environment by allowing you to program the temperature of your
+
+04:46.192 --> 05:10.846
+mattress cover at the beginning, middle, and end of the night. I've been sleeping on an Eight Sleep mattress cover for nearly four years now, and it has completely transformed and improved the quality of my sleep. Eight Sleep recently launched their newest generation of the Pod Cover called the Pod 4 Ultra. The Pod 4 Ultra has improved cooling and heating capacity. I find that very useful because I like to make the bed really cool at the beginning of the night, even colder in the middle of the night, and
+
+05:10.978 --> 05:37.022
+warm as I wake up. That's what gives me the most slow-wave sleep and rapid eye movement sleep. It also has snoring detection that will automatically lift your head a few degrees to improve your airflow and stop your snoring. If you'd like to try an 8sleep mattress cover, you can go to 8sleep.com slash Huberman to access their Black Friday offer right now. With this Black Friday discount, you can save up to $600 on their Pod 4 Ultra. This is 8sleep's biggest sale of the year.
+
+05:37.154 --> 06:04.446
+Eight Sleep currently ships to the USA, Canada, UK, select countries in the EU and Australia. Again, that's eightsleep.com slash Huberman. And now for my discussion with Dr. Alan Shore. Dr. Alan Shore, welcome. Nice to be here. To kick things off, I have a simple question, which is what percentage of our thinking and our behavior do you think is governed by our conscious mind versus our unconscious mind?
+
+06:04.930 --> 06:33.758
+You understand that I was trained in psychoanalysis, and I'm a psychodynamic psychotherapist, in addition to a scientist, a neuroscientist. So the unconscious has been something that I have been aware of and have been writing about, and it's a central part of what I'm writing about to this day. Essentially, as we're going to see, I'm suggesting that the right brain is the unconscious mind. So when you ask how much of things really are conscious and how much are unconscious, I'm also looking at that neurobiologically in terms of
+
+06:33.954 --> 06:56.542
+how much of activity is going on in the right brain. The right brain is always processing information, always, especially emotional information at levels beneath conscious awareness, especially when you're in an emotional interaction. So how much really are things that conscious, I would say that when it comes to the basic motivations of why we do what we do,
+
+06:57.410 --> 07:26.686
+95 to 90% of that is unconscious. And there has been data to show that that is the case. At most, although we think that our conscious mind literally is making all of these decisions, underneath that, at all points in time, the unconscious is operating. Used to be thought that the unconscious only comes forth in dreams at night. Well, we now know that this right brain is reading unconscious communications between us. Communications is a safe to be with you
+
+07:27.106 --> 07:55.774
+Do you understand what I'm saying? Really the critical ones always operating and much more important than we had thought itself. Let's start thinking about and talking about this right brain versus left brain thing. And what I'd like to know is when we come into this world, how much lateralization, as we call it, how much right versus left brain specialization is there at the time when we exit
+
+07:56.386 --> 08:25.534
+the womb, when we take our first breath? The answer to that is pretty clear at this point in time. And incidentally, some of these questions about the unconscious are provided by neurobiology. But essentially, here's what we know. There was discoveries that were being made in the 80s and the 90s about the human brain growth spurt. The human brain growth spurt occurs from the last trimester of pregnancy through the second until the third year of life.
+
+08:26.562 --> 08:55.070
+All of that time is a period of right hemisphere dominance. And actually there have been six major studies in neuroscience laboratories around the world that have shown that the right hemisphere is dominant during that period of time. In fact, there's a recent study in Mexico where they looked at two to three months, six to eight months, nine to 12 months. At each point in time they noticed that the right hemisphere was accelerating its growth, the left was not.
+
+08:55.234 --> 09:24.094
+So the right is dominant very early. In fact, there's evidence to show that even in utero, there is a right lateralization. Now remember, the lateralization is part of all systems. And what is lateralized is not only the cortical areas, but the subcortical areas, et cetera. So if you take, let's say, the amygdala, there's a difference between the right amygdala and the left amygdala. And again, the right hemispheres. So the answer to that is very clearly now.
+
+09:24.322 --> 09:53.406
+The left hemisphere does not come into a growth spurt until the end of the second year and into the third year, up until that point, which means everything about attachment is about right brain dynamics. Does that mean that everything about attachment is occurring in the first, you know, 24 months? Yes, absolutely. And it's occurring during that brain growth spurt while the right hemisphere. So essentially what you have now
+
+09:54.338 --> 10:22.846
+is that in the baby's brain, that baby's brain is now in a right brain growth spurt, and the mother now is shaping that baby's right brain through the attachment mechanism, through her regulation of that brain. So she's helped shaping that brain for better or for worse. And incidentally, that means also not only secure attachments, but also the matter, because it's for better or worse, it's also the early evolution of insecure attachments,
+
+10:23.298 --> 10:50.366
+and we'll talk about what those insecure attacks are. All of those really are being shaped by the right. What's more, there's evidence to show that it goes right hemisphere, then it goes left hemisphere, and then it goes back into left and back and right along the lifespan. So although you have a tremendous growth spurt more than any other time in the first two and a half, three years of life,
+
+10:50.594 --> 11:20.062
+Think now about adolescence, where you have another growth spurt. Is adolescence marked by a right brain growth spurt? It's marked by the initially right, and then it goes left. So essentially, with puberty and with the onset of testosterone and androgens and estrogens, it shifts now into another growth spurt at that point in time. Which means, just for the record, now the attachment relationship, which is essentially going to
+
+11:20.162 --> 11:45.790
+be about how we regulate our emotion because I'll be talking about attachment is about the communication of emotions, right brain to right brain in the first two years of life and about the regulation of emotions in that same period of time, et cetera. But ultimately that leads to the strategies that we have for affect regulation for an attachment is essentially affect regulation, affect communication,
+
+11:46.018 --> 12:15.518
+and affect regulation. So now what you're looking at is you have a mother and an infant. They are communicating with each other, right brain to right brain. And how are they doing it? By face, voice, and gesture. The mother is now reading the expressions of the baby's face, the visual, the auditory, the porosity of the voice, and then the tactile. So she's picking up these kinds of communications that are coming out of that baby.
+
+12:16.162 --> 12:45.470
+tactile, gestural, visual. And she's now picking up those communications now. She's resonating with those communications. And now she is going to regulate those communications. And that's essentially what it's about. In the end, what we have is strategies of affect regulation. How we regulate affect for the rest of our lives depends upon the attachment relationship of the first two years, which is a right brain to right brain connection. Now, there have been hundreds of
+
+12:45.698 --> 13:13.854
+thousands of studies on attachment, as you're well aware of at this point in time. But the key to it, literally, I began this in 1994 with my first book, Afic Regulation and the Origin of the Self, the neurobiology of emotional development. Remember, Bowlby was studying attachment in the 60s, but the problem of emotion really was not picked up. And early on when they were looking at attachment, they were looking at behaviors, behaviors,
+
+13:14.274 --> 13:31.934
+And they were looking at cognition. So if you know the attachment literature, remember the strange situation? Yeah, just to remind listeners, I've talked about this on previous podcasts. I'll provide a link to that segment. But a strange situation can briefly be described as parent and usually mother and child come into the clinic. They...
+
+13:32.610 --> 13:55.742
+deliberately leave the baby with a caretaker. This is sort of a pseudo daycare type situation. Mother leaves and then there's a lot of attention paid to how the infant or young child, toddler, whatever age they were looking at reacts. Are they nervous? Are they able to engage in play? And then they look at the return of the mother and how they react to that. And there was this classification of behaviors along the lines of,
+
+13:55.842 --> 14:22.046
+secure attached, insecure attached. There was a categorization of kind of an amalgam of different things, these so-called D-babies that were kind of a bunch of other things. And this is where we hear a lot nowadays about secure, insecure, and anxious and avoidant adult relationship styles. There's been a lot written about that and talked about that. We don't have time to go into all that in detail, but this is what Dr. Shore is referring to.
+
+14:22.178 --> 14:43.390
+I'm really intrigued by this idea that there's a right brain, left brain dominance that takes place throughout the lifespan. Has it been carefully mapped into adulthood such that we can say as a function of chronological age, you know, when somebody hits their early thirties that they're more right brain or left brain dominant, or is it more developmental milestones as opposed to chronological age?
+
+14:43.554 --> 15:06.558
+I think it's developmental milestones there. You know, I'm thinking that, remember Eric Erickson talking about different stages of life and how you have a hierarchy here, literally, because the attachment is a hierarchy. It starts subcortical and then it goes to cortical. So what he said was that there are changes along the line and that it fits with that. So...
+
+15:07.202 --> 15:36.318
+The attachment relationship is there at later points in time, and really what it does, it guides us through our relationships with other people. It certainly guides us through strategies of what to do with stress, and that way that we deal with that stress is now going to depend upon how the mother is regulating that baby's stress during a critical period. The term critical period is an important one here, too, because, again,
+
+15:36.898 --> 16:02.654
+At the first two years of life, it's the right brain is in that critical period there. But that leads to strategies of affect regulation of how we deal with stress, but also how we deal with novel situations. And again, all of it has to do with emotion. Now, I jumped there because I talked about there was attachment models move from behavior to cognition to emotion.
+
+16:02.914 --> 16:29.470
+And essentially, the first book that I wrote was on the neurobiology of emotional development. And in 1994, when I came out with that book, that was about the same time that Antonio Damasio came out with his book. And really, it was not until the mid-90s, partly because of the neuroimaging, which was coming during, you remember, the decade of the brain, that emotion really now became a matter that science was looking at
+
+16:29.666 --> 16:57.630
+for the first time. The point that I'm making here is that attachment is not psychological, it's psychobiological. And there was always this rift between the psychological and the biological. But when you're talking about emotions, you're not only talking about psychological events, you're talking about physiological events that are associated with those events. For example, the physiology of the stress response, the physiology of the sympathetic nervous system, which is energy expending.
+
+16:57.858 --> 17:24.350
+the parasympathetic nervous system, which is energy conserving. So the mother is a regulator of that. And the way that she's a regulator of that baby is that she's tracking that baby's arousal levels. She's tracking that baby's emotions as they change in time, moment to moment. And then she's synchronizing with that, and that allows her now to be able to regulate it.
+
+17:24.930 --> 17:54.206
+So we're going from recognizing that baby's emotions, synchronizing with those emotions, and then being an affect regulator. So the mother, who is securely attached now, is a good affect regulator of that baby. She not only is an affect regulator of the negative states of the baby, because negative states and negative affects are adaptive by definition. Baby cries, mother nurses baby. You bet. And that's a signal she's sending there literally...
+
+17:54.402 --> 18:20.382
+And the mother then intuitively knows, intuitively knows, she's not using her left brain to figure out what to do with that baby. She's doing it intuitively. And intuition is a right brain function. And she's regulating that baby implicitly. Now, let's go back over implicit to explicit. You're seeing a lot now about the shift from explicit to
+
+18:20.546 --> 18:49.854
+to implicit. Something that is implicit goes on at levels beneath awareness. So when she is intuitively knowing what to do, that right now this baby is down-regulating too much and she wants to bring that baby up, she'll now use her tone of voice literally to raise that baby up into a more excited state. Or if the baby is dysregulated, sympathetic hyperarousal, she knows how to down-regulate that. And she'll down-regulate that
+
+18:50.018 --> 19:18.590
+by her facial expression, by the tone of her voice. Now her tone of her voice is now trying to soften and to quiet down. So essentially what attachment is, is the regulator of arousal, of emotional arousal. And that emotional arousal also includes the autonomic nervous system. So what we have here is the regulation attachment of the limbic system, the emotion processing limbic system,
+
+19:19.554 --> 19:46.398
+positive and negative, and the autonomic nervous system. So they are limbic autonomic circuits, and those circuits are in the right brain. Now on this matter, as it turns out, the right brain has a control system of attachment. Now since the right brain is there first, before the left, because there's no speech at two years,
+
+19:46.498 --> 20:09.726
+She's regulating this baby at two months, six months, 12 months. All of it is occurring nonverbal. She's doing this implicitly, not explicitly. The left hemisphere processes explicit stimuli, conscious stimuli, rational stimuli. That's not there. Everything is being done implicitly,
+
+20:10.370 --> 20:39.294
+beneath levels of awareness, and again, that allows it to be the regulation. So attachment theory, my attachment theory, regulation theory, is essentially attachment is interactive regulation. Stay with me now. Ultimately, what we have are two forms of regulation. What we're doing is we're regulating the self, right? I mean, it's the subjective self.
+
+20:39.842 --> 21:06.654
+which is in the right hemisphere. The left is objective self. The left is verbal, conscious. She's regulating the right hemisphere, and she's doing that, again, by tracking the baby's emotional states, as I said. But again, what the child learns now from that is that her right brain is becoming more and more complex from the first year to the second year.
+
+21:07.778 --> 21:36.350
+And it's going to turn out some of these functions that are more complex are being also stimulated by the mother. And ultimately, by the end of the second year, that baby can regulate its emotional states by itself in its right brain. But we have two forms of regulation. You can regulate your states by auto-regulation, by yourself.
+
+21:36.578 --> 22:06.206
+In other words, you're not with other human beings at this point in time. You have an efficient right brain which can regulate. And incidentally, what we're talking about here is the regulation of the amygdala by the right orbital frontal cortex. The right orbital frontal cortex is the highest level of the right hemisphere. It also has the most sophisticated and the latest evolving parts of the brain are in the right frontal cortex, not the left.
+
+22:07.394 --> 22:35.934
+The right orbital frontal, not the left orsolateral cortex is the key to this. So what we learn from attachment here, again, is how to both, in a secure attachment, how to auto-regulate your emotions when you're apart from people. In other words, when you go to a quiet place at this point in time, you're regulating yourself down, so to speak, and you're getting a nice regulation of the amygdala by the right orbital frontal cortex, or interactive regulation.
+
+22:37.122 --> 23:06.942
+which is now you go to another human being. We go to another human being under times of stress in an optimal situation. We also go to another human being to share joy states. Remember, I said that the mother is up-regulating joy states and down-regulating negative states. So in a secure attachment, you have somebody now who can do both. In certain forms of insecure attachment, that's not going to happen.
+
+23:07.682 --> 23:37.118
+The avoidant attachment is always auto-regulating his states. So just so I'm clear, in avoidant attachment, the baby, which is now, let's say, two and a half years old, three years old. That's already a toddler. That's a toddler, excuse me. The toddler is auto-regulating more often than seeking another to help do coordinated regulation. Yeah, what I'm saying is a secure attachment.
+
+23:37.762 --> 24:05.566
+And it's sort of led me back a step on it. The key to attachment is psychobiological attunement. You know the phrase. Notice, psychobiological attunement. That the mother is regulating not only the psychological aspect, but literally is regulating the physiological aspect of that, which means that she's regulating the autonomic nervous system. Think about Porges' social engagement system.
+
+24:06.210 --> 24:35.294
+What we have here is the capacity by insecure attachment who have, and then the second part of the attachment is repair. Now, let me go back. Psychobiological attunement. Sometimes she misattunes. Sometimes she misreads the baby states for one reason or another. What happens in a good enough caregiver is that the mother who was misattuned now returns to that baby.
+
+24:36.226 --> 25:04.094
+now resynchronizes with that baby, now reconnects right brains to right brains with that baby. And that repair is the key here. So you have misattunement and repair. So the key to a secure attachment is not only psychobiological attunement, but it's also the repair of the misattunement. And that allows the baby now to expand that situation and being able to use that now to order a case.
+
+25:05.346 --> 25:34.782
+That's a secure. But if she misattunes, for example, and doesn't repair, let's say, or she's not that good at psychobiologically attuning, let's say as an avoidant mother, because avoidant personalities are uncomfortable with real closeness. Another term for an avoidant personality is a dismissive personality. And what they are dismissing is the need for interactive regulation, so they're always auto-regulating it.
+
+25:34.946 --> 26:00.190
+Or you have another time in which you have another form of attachment, an insecure anxious attachment, where that person is always interactively regulating or is always going to others to help them regulate, but can't auto-regulate. I think this is a really important thing to hover on for a moment, just given some context about...
+
+26:00.386 --> 26:27.422
+hundreds of thousands of questions that I get about avoidant versus secure versus anxious attached. And you stated it all incredibly clearly, but I want to make sure that we double click on this, as they say. The idea that if a child and mother did not coordinate their autonomic regulation- Use the word synchronize. Synchronize. Do not synchronize their autonomic regulation in the proper way, that there would be
+
+26:27.522 --> 26:57.214
+a non-secure attachment. I'm using that language for a specific reason. Makes total sense. But this idea that if the child, which soon, the baby, which is a toddler at three or so, is avoidant, then they're going to have to learn to auto-regulate and they're going to seek others to help them regulate less than a secure attached. And the anxious attached baby, toddler, adolescent, adult,
+
+26:57.570 --> 27:25.278
+will do just the opposite. They're going to have a hard time self-soothing, but they are going to feel, let's say that these might be the kind of people that don't well tolerate a text message not getting responded to at a very short latency, for instance. And we all, depending on context, we have this, right? But I find this to be incredibly important, which is why I wanted to go back through it, because I think nowadays we hear so much about
+
+27:25.474 --> 27:51.998
+anxious and securely attached, avoidant, et cetera, in the context of adult romantic relationships. But I hope that people are realizing the truly incredible importance of your work, which is that the same circuitry and mechanisms that are used to establish infant mother attachment are repurposed later in life for adult relationships. I think that when we hear that, it makes sense, but I don't think that
+
+27:52.098 --> 28:09.822
+Most people know that. They assume somehow that there's circuitry in our brain and body for adult romantic attachment that is distinct from our attachment circuitry that we had with our parent. And I think your work speaks very loudly that they are in fact the exact same circuitry. All of this is happening in the right brain.
+
+28:10.306 --> 28:23.038
+And incidentally, attachment relationship is retained as an autobiographical memory in the first two years of life, even before there's a left hemisphere. And that under later stress situation...
+
+28:23.298 --> 28:50.622
+That will be the key there. Incidentally, the attachment, whether it's secure or insecure, is also the key to positive and negative transferences. That's where it's communicated. Let me go back and say a little bit more about one other form of attachment, in that you mentioned the type D attachment. The D babies. Disorganized. Disorganized babies. So you have secure. You have two types of organized insecures.
+
+28:51.106 --> 29:18.334
+okay, the avoidant and the anxious, and then you have a disorganized, disoriented one. Now, ultimately, that person, under stress, is not able to auto-regulate or to interact and regulate. So what they will do at that point now, I'm now thinking about, let's say, PTSD, various borderline personality disorders, that person now
+
+29:18.786 --> 29:47.870
+literally can't go to the other for autoregulation or inter-active regulation, that person now will use a defense, literally, to shut down the attachment system. And that's exactly what dissociation is. Dissociation just shuts down the attachment. So in the anxious attachment, you have a continual activation of the attachment system, which means a continual activation of the right hemisphere all of the time. And in the insecure...
+
+29:48.514 --> 30:12.958
+dismissive attachment, you have a deactivation of the attachment system, which would be a deactivation of the right brain. So in the end, a secure attachment is an efficient one, but it's an efficient one that can switch back and forth between them. Not only that, it also, at a later point in time when the left comes online, it can also communicate much better with the left hemisphere.
+
+30:13.090 --> 30:38.110
+you know, than without that. Regulation theory is essentially a theory of the development of the self in an optimal situation, but it also talks about the psychopathogenesis of the self, the early origins of psychiatric disorders and personality disorders. And I'm thinking about not only schizophrenia and depression, but I'm now thinking about depression,
+
+30:38.210 --> 31:05.086
+Narcissistic personality disorders, borderline personality disorders, maybe we'll come back to more on that. And then ultimately, the repair of the self. So regulation theory is about the development of the self, the psychopathogenesis of the self, and then the repair of the self. Because these attachment situations are now going to play out under all periods of stress. The right hemisphere is dominant for the stress response. The right hemisphere is dominant
+
+31:05.922 --> 31:35.198
+For the sympathetic nervous system, the energy expending and the right hemisphere is dominant. For the parasympathetic nervous system, so again, all of that will play out at later points under stress. And when those systems break down, that's when the patient will form symptomatologies and come into therapy. And in therapy, the therapist now, the key, I'm jumping here. No, this is great. Because...
+
+31:36.610 --> 32:05.566
+There's a right brain to right brain interaction between the mother and the infant. There's also a right brain to right brain interaction between the therapist and the patient. And the key to both of them is regulation. Person is coming in in a dysregulated state. The key to that is regulation. And the key to any form of therapy, whatever the form of it is, again, is interactive regulation.
+
+32:05.730 --> 32:32.414
+And it's a therapeutic relationship. The thing which is the best indicator of whether somebody will do well out of therapy and whether a clinician will do well out of therapy is how well they can deal with the therapeutic relationship. And a really good therapist literally knows how to bring back those attachment things there because now the person is starting to feel safety and trusted and incidentally
+
+32:33.058 --> 33:00.414
+Attachment is about safety and trust, which is very much autonomic. But again here, the key to therapy is being able to form a therapeutic relationship with the patient. So the key here is can the therapist form, co-create a therapeutic relationship with an avoidant patient, with a secure patient, with anxious patient, with a borderline patient?
+
+33:00.610 --> 33:29.310
+As you can imagine, the toughest thing is going to be able to do with the borderline patient or the schizophrenic patient. So what you have here is that the attachment dynamics are being able to hang out. So in the very first session, what's happening, the therapist is listening to the verbalizations of the patient in order to diagnose and understand the symptomatology. But the therapist is also listening beneath the words.
+
+33:29.410 --> 33:57.982
+And the patient is tracking the attachment relationship underneath it, tracking the arousal and the arousal dysregulation underneath that, tracking it in his own body, so to speak, et cetera. And again, that is a different type of listening. Again, the therapist is listening to a left brain, but more or less the therapist is listening to the right brain. And the question is, how does the therapist do that? And in order, just for the record, for the therapist to be able to
+
+33:58.082 --> 34:23.390
+To get to the attachment dynamics, which are right, lateralized, the therapist has got to switch out of the left into the right. And there's a term for that. The term for that is surrender. Surrender. You cannot consciously, purposely put yourself into the right. You've got to let go. You've got to let go. Think, let it be, so to speak. I'd like to take a quick break and thank our sponsor, AG1.
+
+34:23.554 --> 34:53.520
+AG1 is an all-in-one vitamin, mineral, probiotic drink with adaptogens. I've been taking AG1 daily since 2012, so I'm delighted that they're sponsoring this podcast. The reason I started taking AG1 and the reason I still take AG1 once and often twice a day is because it is the highest quality and most complete foundational nutritional supplement. What that means is that AG1 ensures that you're getting all the necessary vitamins, minerals, and other micronutrients to form a strong foundation for your daily health. AG1 also has probiotics
+
+34:53.520 --> 34:56.511
+and prebiotics that support a healthy gut microbiome.
+
+34:56.674 --> 35:26.640
+Your gut microbiome consists of trillions of microorganisms that line your digestive tract and impact things such as your immune system status, your metabolic health, your hormone health, and much more. So I've consistently found that when I take AG1 daily, my digestion is improved, my immune system is more robust, I rarely get sick, and my mood and mental focus are at their best. In fact, if I could take just one supplement, that supplement would be AG1. If you'd like to try AG1, you can go to drinkag1.com slash Huberman to claim a special
+
+35:26.640 --> 35:51.550
+For this month only, November 2024, AG1 is giving away one free month's supply of omega-3 fatty acids from fish oil in addition to the usual welcome kit of five free travel packs and a year's supply of vitamin D3 K2 with your order. Omega-3 fatty acids are critical for brain health, mood, cognition, and much more. Again, go to drinkag1.com slash Huberman to claim this special offer.
+
+35:51.682 --> 36:19.966
+Tell me more about surrender. And I just want to make sure I understand this is surrender on the part of the therapist trying to, yes, listen to the narrative that the patient is sharing, but also paying attention to the underlying emotional state. Is the person quaking? Are they angry? Is there feelings of despair, shock, disgust? Hyperarousal.
+
+36:20.066 --> 36:49.758
+Right, so they're carrying this in their parallel tracks, and then is the goal of the therapist, if they're an effective one, to then soothe the patient, or is it to allow the patient to have some sort of catharsis, some release of this? Like, at what point does the therapist intervene and try and coordinate and show the patient a different way to think about and feel about the topic matter? All right, what I'm suggesting here is that essentially the therapist is listening left brain to left brain.
+
+36:49.890 --> 37:14.910
+But the therapist also is always listening beneath the words, etc. And he's listening to the right brain to right brain communications. And the patient now who is depressed is coming out with right brain communications. There's sadness in the voice. The face is clearly dysregulated. And essentially, as the therapist is tracking that, the emotional arousal, whether it's into hypoarousal and depression...
+
+37:15.042 --> 37:42.750
+or hyperarousal into anxiety. The first thing there is to synchronize with that patient so that my physiology is syncing with their physiology. And now through the right insula, interoceptively, I now literally am feeling in my body what the patient is feeling in their body. I now understand that patient
+
+37:43.810 --> 38:04.158
+from the inside out. And incidentally, what I'm picking up in my body about the dysregulation of that patient may be very different than the verbal report that that patient is giving at that time. But the key here, literally, just like the mother, is synchronizing with that baby's
+
+38:04.610 --> 38:29.886
+crescendos and the decrescendos of that autonomic state, of those emotional state, I'm picking up those points where they are shifting into and out of an emotional state. I'm synchronizing with that. And then ultimately, when I'm in sync with that kind of thing, then at that point, purely implicitly, I'm now starting to slow the tone of my voice if I want to reduce that arousal down.
+
+38:30.466 --> 38:57.598
+or I'm up-regulating the voice. At that point in time, I am now interactively regulating. And we are now synchronized together. So essentially what's going to happen is that as we synchronize, as they're going to dysregulation, we're now synchronizing together as we're going down into regulation. So the therapist can literally and somatically show the patient...
+
+38:58.370 --> 39:23.326
+what auto-regulation is like or what coordinated regulation is like. And you'll see it on my face. Face, voice, gesture. You'll see it on my face. You'll see it in the tone of my voice. You'll see it in my gestures. Those three sensory modalities are now going back and forth between us. So the key of the first session literally is not only to diagnose the
+
+39:23.938 --> 39:53.598
+Really, it's to start to begin to synchronize with that patient and to form a therapeutic alliance with that patient. And at the end of the first session, the patient may say, I don't know why, but I'm feeling better, and I have some idea that you can understand, but it's got to be more than that, what I am feeling, literally. So often nowadays, I think we hear that adult romantic relationships can
+
+39:53.730 --> 40:05.758
+can provide a healing of some of the failures of childhood attachment. And there's also a phrase thrown around a lot that
+
+40:05.986 --> 40:35.326
+we need to learn to parent ourselves. This is more of a pop psychology, online, social media thing, you know, that people need to learn to mother and father themselves at some level, to self-soothe and to, you know, who knows what that means. I'm not going to try and define it. It's not operationally defined. So the question I have is, to what extent do you think the process that you just described with a therapist can start to rewire some of the
+
+40:35.458 --> 41:05.214
+the capacity to auto-regulate or coordinated regulate. Essentially here, what you have is over time, partly because of this synchrony. First of all, let me spell synchrony with a capital S. What I mean by that is in the last five years, a huge amount of information has come out about this idea about interpersonal synchrony. The term synchrony comes from the Greek, synch meaning the same, crony,
+
+41:05.442 --> 41:34.878
+time, same time. So that literally two people literally are synchronized in the same, we are feeling something in the same moment and we are feeling it spontaneously between ourselves. We are feeling that kind of situation. So again here, the key to the mother really even more than the auto regulation, the key is interactive regulation, number one. Number two, it's occurring on an implicit level. The mother literally is doing this without any conscious awareness.
+
+41:35.202 --> 42:03.646
+She's doing this intuitively. The right hemisphere is intuitive and it's imagistic. It's not rational or logical. The key to any disorder, whatever it is, is the regulation of a particular state. The regulation of rage, the regulation of loss, the regulation, the dysregulation of shame, disgust. So essentially what you have is the regulation of all of these emotions. But that regulation, I want to point out, is all implicit. And here's where the skill comes.
+
+42:04.418 --> 42:27.710
+of being with patients over long periods of time is the key here. Because the key to making changes in the patient is not what you say to the patient or what you do to the patient. It's how to be with the patient. You understand the difference how to be with that patient, especially while that person's being is in a dysregulated state.
+
+42:29.570 --> 42:58.302
+Now, by definition, when they're coming in on the first session, they are in a dysregulated state. So again, it's implicit, it's not explicit. If explicit regulation is an intellectual understanding of my symptoms, implicit is an unconscious understanding at a physiological level, at a psychobiological level of that. And incidentally, synchrony,
+
+42:59.746 --> 43:26.910
+is the mechanism underneath empathy. Now, we know. Empathy literally has to be there. But empathy is a right brain function. And there is a difference. I said there's a difference in the hemispheres. There's a difference between emotional empathy, where I am feeling what you are feeling, and we are sharing the same feeling,
+
+43:28.002 --> 43:54.942
+And I don't have to think about that literally. I know at that point in time we are in the same place. There's a difference between emotional empathy on the right and cognitive empathy on the left. Cognitive empathy is an understanding. It makes no changes because essentially what we're attempting to do is make the changes in the right. Now the changes in the right are going to be in the right axis. They're going to be the orbital frontal cortex
+
+43:55.938 --> 44:24.766
+which is the executive regulator of the right brain, the dorsolateral cortex is the executive regulator of the left brain, the orbitofrontal cortex now starts to form new connections with the cingulate, the insula, and the amygdala. And that's where you're now going to see the changes. But again, the changes are due to the regulation. So you'll see the person now starting to come into more regulated states.
+
+44:25.122 --> 44:54.430
+And the key is synchrony. So what's happening here, there's a strong therapeutic alliance, safety and trust. And in that situation now, the more synchrony that is there between the two, the more interactive regulation there is between the two. And first there will be synchrony between the patient and the therapist. Then there will be synchrony and interactive regulation between that person and maybe other people, maybe
+
+44:54.978 --> 45:24.350
+a wife, a partner, and ultimately in the symptomatology will change. Because remember, the symptomatology is dysregulation. And the whole key is to change it to regulation. Fascinating. There are a couple of questions I have before we move forward about mother-infant attachment as opposed to father-infant attachment. So that's one. And I'll ask these again in a moment. But I think you'll see where I'm going here. And then I'm fascinated by the idea that these
+
+45:24.482 --> 45:49.854
+circuits get established early in life, then are repurposed for adult relationships. They can be modified in the way that you just described, but that they cross gender lines. So for instance, a female baby can form these patterns of attachment with their
+
+45:50.658 --> 46:18.526
+mother, female caretaker, but then assuming that baby grows up to be a heterosexual woman and she has attachments to men, then these things can be reactivated across gender lines, right? So this formation of the circuitry is not gender specific, although it sounds like it's important that it be the mother to child in some way. You keep saying mother, child, as opposed to caretaker. So to just spell them out one by one, first question,
+
+46:18.786 --> 46:44.990
+Are there any data about the formation of these circuits in the baby where the mother is either not available, if it's an adopted mother, if it's a child raised by extended family? I mean, there's so many different configurations, but you get the point. All right. Here's what I'm suggesting. First of all, there has been some conflict on this, but after 30 years on this, I
+
+46:45.346 --> 47:11.294
+I believe that there is a primary attachment figure. And the primary attachment figure is the person who is the interactive regulator of that baby when that baby is under stress. Between age zero and two. Yeah. Or let me say it even another way. The primary attachment figure is the person who provides the right brain for that baby when that baby's right brain is this regulated. Could be dad, could be mom. Could be.
+
+47:11.970 --> 47:36.702
+Yes, it's true women are better at reading nonverbal cues than men are, but it could be. And incidentally, we now have some evidence that's showing that men do have right brains. For a second there, I wasn't sure if you were joking. But I don't know, maybe that's reflective of a natural right brain. All right, now that being the case, what's happening here is that in the first year or two,
+
+47:36.866 --> 48:02.462
+the mother's right brain, she's the person who is the right brain, which in most cultures is a woman. But does not have to be. It could be a stay-at-home dad who literally has a good right brain, and maybe a couple are figuring out that literally he'd be better in that position. But it needs that right brain. But other than that, what happens here, when it goes now into the second year, toward the end of the second year, and the father comes online, got me?
+
+48:03.042 --> 48:31.678
+At that point in time, the father now becomes a primary attachment figure also. But he has some differences the way that he's dealing with that baby. He's usually more arousing with that baby and that the play is more arousing with that baby. So more activation of the sympathetic autonomic. So sort of more up, let's call it up-level play. Exactly. You're dealing with more up-regulation and being able to tolerate more hyper-aroused states because in the second year,
+
+48:31.842 --> 49:01.662
+One of the things that the father will do with the infant is with the toddler, infant first year, toddler second year, rough and tumble pay, for example, rough and tumble play. So the father is that. So the father literally is now teaching the child literally how to take risks, but the father is now moving more towards autonomy and independence. The mother was there at the beginning about interactive regulation. So the father is playing that role. And I've also suggested...
+
+49:01.954 --> 49:30.142
+that just as the mother is shaping that baby's right brain in the first year, the father is now shaping that baby's left brain towards the end of the first year, second, and into the third year. That he's shaping that baby's, his left brain to that baby's left brain. That being the case, he may also, earlier on, have had good experiences with that baby early on in life.
+
+49:30.658 --> 49:53.694
+And a good example of that would be a father who is tender, tender, yet at the same time is instrumental and is teaching things about the world. So one brain is shaped by the mother figure, the brother by the father figure. What about under situations where there's really just one person?
+
+49:53.826 --> 50:12.190
+primary caretaker. This is increasingly common nowadays. And in some countries, like in certain Scandinavian countries, people opt to do this and elsewhere, of course, but this isn't always a divorce situation. Sometimes people decide to have children on their own. You know, I think what's happening in that kind of situation is the person...
+
+50:12.578 --> 50:36.222
+is initially providing the right brain, and then that person is now providing the left brain. So let's say as a single woman with a child, her right brain is there on the get, but then in the second year, and incidentally, there may be father figures or family members who also can step into that, but essentially her left brain is there also.
+
+50:36.354 --> 50:53.438
+Remember, we both have right brains and left brains. But again, that's different kinds of skill in a left brain, which would be the more autonomous situation. What are your thoughts about some of the...
+
+50:53.986 --> 51:21.566
+modern exploration of compounds that can facilitate more right brain synchrony between therapist and patient. I've done a few episodes about MDMA assisted psychotherapy. These of course were just recently not approved by the FDA. So these are not legal. Nonetheless, there are interesting clinical studies showing that these are in pathogens. One could imagine that they've
+
+51:21.666 --> 51:41.982
+could be useful in the proper context to improve patient-therapist right brain synchrony and accelerate some of this process. But it seems like it would also require both the patient and the therapist taking the compound. And that seems like it would have all sorts of ethical issues. Yeah, yeah.
+
+51:42.722 --> 52:08.702
+Remember, it's the relationship in the end that is the key there. I'm also somewhat aware of that literature. And you used the word empathogen, which is not quite straight out empathic, but mimicking those kind of situations there. My thought is that that might be more efficacious if it were possible
+
+52:09.922 --> 52:36.606
+specifically involving right brain dynamics with a person who knew how to work with those right brain. What you're getting there are very early forms of the behaviors which are subcortical. Remember, the attachment is also regulating the subcortical areas, and those are the key ones. And incidentally, we are paying too much attention to the cortical area. We literally have to shift because the subcortical areas are the foundations of the human, and everything is built on top of that.
+
+52:36.770 --> 53:06.622
+I'll come back to in utero in a second if I don't get on that. In fact, I have some people who have worked with me have also been using right brain type psychotherapy with those patients, and I think that that will be really interesting possibilities of seeing changes where you have the relationship in addition to that. And also some understanding about how the right brain works, because...
+
+53:06.754 --> 53:31.070
+One of the problems that you have where there is still some resistance is the idea that the right brain is just a simpler version of the complex left hemisphere. But that's not the case. This right brain is working completely differently. So I'm thinking that in that case, a better situation. Before I forget this, I want to just throw...
+
+53:32.002 --> 53:58.622
+one other piece, and I said that the right brain is in a growth spurt from the last trimester. In the last five years, 10 years, there has been a real interest in utero development and evidence to show that you're even seeing lateralization in the fetus, and so, and there's even evidence now, scientific evidence to show that the early memories in utero,
+
+53:58.914 --> 54:25.054
+are stored in the right amygdala. So they're down there, so to speak. So we're not paying more and more attention to what is happening there. Because at birth, literally, what you have here is the deeper parts of the right brain are evolving in utero. The insula and the right amygdala, the central amygdala. And that's setting up. And you also have synchronization across the placenta.
+
+54:25.954 --> 54:54.366
+whereby they are regulating each other's autonomic nervous systems. Can adrenaline pass across the placenta? I should know this. I know adrenaline doesn't cross the blood-brain barrier, but the brain makes its own adrenaline. But do we know if adrenaline crosses the placental barrier? Well, first of all, most of the studies have been on cortisol. Right. And high levels of cortisol, they're going to cross it. Sure. So if you have, let's say the amygdala, which is in a critical period of growth, the right amygdala, and the cortisol levels are very high,
+
+54:54.914 --> 55:23.966
+That's really going to not be an optimal situation for that amygdala to evolve because you're going to have a continual stress response there. And so that's going to happen. And essentially what that means also that if the mother is in a very stressed state during a utero, some of that literally now is going to impact the lower areas of the brain. So as far as adrenaline goes, I'm not sure on that. I don't see why not. Although hormones certainly cross...
+
+55:24.130 --> 55:49.374
+You know, we're looking at not only changes in neuromodulators, especially, incidentally, the key here that we're trying to regulate are the neuromodulators. Excuse me. Dopamine, reward, noradrenaline, adrenaline. It's those which also early in life literally form neuroplastic, so they will form circuits. That's what we're attempting to do.
+
+55:49.474 --> 56:07.422
+regulate here, to down-regulate very high levels of noradrenaline and up-regulate, you know, dopamine, et cetera, et cetera. I'd like to take a quick break and thank one of our sponsors, Function. I recently became a Function member after searching for the most comprehensive approach to lab testing.
+
+56:07.522 --> 56:25.278
+While I've long been a fan of blood testing, I really wanted to find a more in-depth program for analyzing blood, urine, and saliva to get a full picture of my heart health, my hormone status, my immune system regulation, my metabolic function, my vitamin and mineral status, and other critical areas of my overall health and vitality.
+
+56:25.442 --> 56:41.470
+Function not only provides testing of over 100 biomarkers key to physical and mental health, but it also analyzes these results and provides insights from top doctors on your results. For example, in one of my first tests with Function, I learned that I had two high levels of mercury in my blood,
+
+56:41.634 --> 57:11.600
+This was totally surprising to me. I had no idea prior to taking the test. Function not only helped me detect this, but offered medical doctor informed insights on how to best reduce those mercury levels, which included limiting my tuna consumption, because I had been eating a lot of tuna, while also making an effort to eat more leafy greens and supplementing with NAC, N-acetylcysteine, both of which can support glutathione production and detoxification and worked to reduce my mercury levels. Comprehensive lab testing like this is so important for health. And while I've been doing
+
+57:11.600 --> 57:41.552
+it for years, I've always found it to be overly complicated and expensive. I've been so impressed by Function, both at the level of ease of use, that is getting the tests done, as well as how comprehensive and how actionable the tests are, that I recently joined their advisory board, and I'm thrilled that they're sponsoring the podcast. If you'd like to try Function, go to functionhealth.com slash Huberman. Function currently has a wait list of over 250,000 people, but they're offering early access to Huberman Lab listeners. Again, that's Function Health
+
+57:41.552 --> 58:08.318
+As I recall in your book, Right Brain Psychotherapy, there was a description, beautiful description of these up states and then these more calming state coordination between mother and child. And I started to, I actually read this book when I was living in Topanga. I would walk on the road, I don't recommend this, there are no sidewalks in Topanga. And I would read the physical copy
+
+58:08.450 --> 58:33.886
+And I recall very distinctly thinking about this image of the baby and the mother. And, you know, the baby is a little bit, you know, hyper aroused, is upset. And so the mother would make, you know, sort of sounds, not necessarily words like shh, shh, shh, shh, shh, shh, these kinds of things, or humming or, you know, bouncing lullabies, these sorts of things. That's the prosody. That's the prosody. And then the...
+
+58:34.210 --> 58:58.910
+the related release of things like serotonin, perhaps oxytocin as well. We can talk more about those. But then also how critical it is for the mother to be able to regulate the baby's transition to upstates. Like looking at the baby as it comes out of a nap and saying, you know, good morning and really wide eyes, lots of gesturing, lots of gesticulating that is, you know, bringing the voice level up and the baby going, you know, really...
+
+58:59.362 --> 59:28.926
+waking up in a kind of a steeper slope of arousal and how important that was. And then that being slightly more related, and this makes perfect sense to norepinephrine, adrenaline at low healthy levels and perhaps dopamine as well. Is that the right way to think about this? And if so, is that what's going on when we form adult friendships, adult relationships? Are we oscillating back and forth between the ability to hang out and relax and soothe each other?
+
+59:29.250 --> 59:49.790
+and the ability to kind of get excited about something. Is this the basis of all relationships and relating? Yes, yes. The key here is emotional regulation again, and again, it's implicit emotional regulation. One of the central tenets of my ideas here is that
+
+59:51.234 --> 01:00:20.190
+First of all, there has been too much of an emphasis on the downregulation of negative states. Remember the original attachment theory, the secure base, the baby would come back in a stressed state, she would downregulate the negative states. But really, attachment is about the downregulation of negative states and the upregulation of positive states. Still, at this point in time, the importance of positive states and the human experience are overlooked. Positive emotions, joy, joy.
+
+01:00:20.418 --> 01:00:45.310
+enthusiasm, excitement. Positive states literally are the key, and there are hormonal aspects to that, as you just point out, for example, dopamine, et cetera, et cetera. And this goes for therapy also. In therapy, it's not only just the down regulation and the sharing of the down regulation, but it's also sharing the upregulation of positive states because that's a critical piece of it also.
+
+01:00:45.410 --> 01:01:13.406
+But there still is that bias to look one way. Now, in the Right Brain book, I'm also talking about two types of love. Quiet love and excited love. This was the famous psychoanalyst Donald Winnicott, who was a pediatrician, who was one of the great psychoanalysts of the 20th century. And he made the distinction between quiet love, which would again be the downregulation of noradrenaline,
+
+01:01:14.146 --> 01:01:43.102
+And excited, which is into a parasympathetic state. So you're going from a hypersympathetic state into a parasympathetic state, quiet love. And then excited love, which would be also passionate love, which is the high arousal state out of it, so to speak. And they are both important. And ultimately, they both need to be integrated. And you may have a situation whereby one can do one, but ultimately they have to come together. Let me make this important point.
+
+01:01:43.362 --> 01:02:12.798
+In the end, we have negative emotions for adaptive reasons. It's there. Let's say shame. Shame is meant to dose down very high levels of arousal. And if one can't do that, very high levels of arousal, let's say in narcissistic personality disorders, you need to be able to... So we need to have access to both positive and negative emotion. But the real key to a secure attachment is the ability to integrate relationships
+
+01:02:12.930 --> 01:02:37.758
+both positive and negative emotions. So with a really good securely attached mother, when that baby is in a down state, literally, she can literally ride down with that baby and synchronize. And when it's an up state, she can really ride up with that state. In the case of narcissistic personality disorders, let's say, for example, and I'm jumping here, we've got an insecure attachment.
+
+01:02:38.754 --> 01:03:07.518
+There can be an avoidant attachment or the other one, depends on what kind. There are two different types of narcissistic personality disorders. You can have anxiously attached narcissistic- No, no, but you can have two different types of narcissistic personality disorders, a vulnerable attachment and an egotistical attachment. You said a vulnerable attachment? Vulnerable attachment is again an anxious attachment. These people constantly need praise? Yes, sound familiar, but also egotistical attachment.
+
+01:03:07.682 --> 01:03:37.534
+But my point out of that essentially here is the stresses in life are there and that the negative stresses are there. But we can learn from those negative stresses also, et cetera. And ultimately, what we need to do is to be able to know how to integrate. If we can't integrate the positive and the negative, we'll end up with splitting. You know the term. Yeah, because I believe that's a primary feature of...
+
+01:03:37.986 --> 01:04:04.414
+Borderline personality disorder. Yes. Which I think we should also touch on. Yeah. Yeah. So my understanding about splitting is that it's the, I love you, I hate you phenomenon brought on by not just an internal switch, which is sometimes seen in like bipolar disorder, but rather somebody with a borderline personality disorder will see something like, and be like,
+
+01:04:04.834 --> 01:04:29.054
+very upset, like suddenly, like the fact that a glass is empty of a drink meant that they didn't think enough to like refill a glass or something. Whereas a few minutes before, it was perfectly fine. It was not an issue, right? There needs to be a trigger and then they split. Is that right? Yeah, yeah. So essentially, you know, the splitting usually, the splitting goes out externally. That person is all bad. I am all good.
+
+01:04:30.914 --> 01:05:00.830
+So now you have that splitting, et cetera. You can't see anything of a goodness in that person at this point in time. Does it sometimes go the other way? That person's all good, I'm bad? It could also be that, all good. But you also have internally splitting. You have an internal split between a good self and a bad self. And internally, there's an internal object relation that we all have as we internalize these external relationships so that there's a good self and a bad self, literally, and that they cannot be integrated, so to speak. And that that part of me...
+
+01:05:01.090 --> 01:05:28.638
+I hate that part of me versus I love that part of me. Also, in terms of borderline, usually what you see at the very beginning is that there's an over-idealization of the positive values of that therapist. And then there's some stressors and misattunements and ruptures that are repair. And now all of a sudden, what was totally good now becomes totally bad. And so that could be
+
+01:05:29.058 --> 01:05:49.598
+If there is not a strong therapeutic alliance, the point at which the person will drop out. Are these people with borderline personality – I don't know if you still call it a disorder nowadays that gets a little bit into the – let's call it borderline. With borderline, do they exhibit the same sort of splitting –
+
+01:05:49.762 --> 01:06:16.094
+idealization and then the idea that somebody is terrible and they want nothing to do with them in the context of work relationships, friendships, does it extend out into other domains of life or is it unique to certain types of relationships? I think it's a way of seeing the world. Remember, the way of seeing the world essentially is very different from the left hemisphere and the right hemisphere. The right hemisphere sees the world through emotional relationships.
+
+01:06:16.354 --> 01:06:44.414
+And so that can become a trait that can be really hard and fast. Let me put it another way. In the case of narcissistic personality disorder, the baby is all good. The caregiver, primary caregiver, is always thinking very positively about that infant. But when that infant now all of a sudden becomes depressed,
+
+01:06:46.978 --> 01:07:15.518
+The interactive regulation stops at that point in time. The caregiver doesn't want anything to do with that. So at that point in time, now, everything is unconscious. If you and I are together and there is a misattunement between us, what possibility, let's say in a dismissive attachment, is all of a sudden I will disengage. We got too close.
+
+01:07:16.802 --> 01:07:45.950
+And at that point in time, maybe I'm acting out my early attachment dynamics because what the baby is doing is expecting what the mother will do next. And at that point in time, there's a misattunement like that. And so in the case of a dismissive personality, that person will emotionally disengage, okay? Become very abstract at that point in time. And at that point in time,
+
+01:07:47.266 --> 01:08:16.702
+I can't feel you. I hear what you're saying. And so at all points in time, you have this situation of coming closer and moving apart, coming closer and moving apart. And this will be acted out in the therapeutic relationship also. And so that every time the person is, the anxious person is stressed, they'll come in closer to you now. Now they're more demanding about what they need from you. Look at the tone of my voice.
+
+01:08:16.898 --> 01:08:45.022
+while the instinct you're avoiding now is now going to deactivate it, and at that point in time, my voice will now get flat. You can't even hear the affective tone of my voice. So I'm telling you that we always pick up at the level of our own physiology how emotionally close or distant that person is at this point in time, especially at points of stress.
+
+01:08:46.689 --> 01:09:16.382
+whether I'm coming in or I'm moving out. Let me go back to this. All of this is occurring at an implicit level, which is why you said something about reparenting, et cetera. Too much is on a conscious level there. If you really want to make these changes in a personality, they have to be changes in the right brain. And that's why all therapy now is looking into emotion. All therapy, no matter all.
+
+01:09:16.930 --> 01:09:44.927
+what form of therapy is laying on top of the therapeutic relationship and emotion per se. I'm pausing because I'm just taking all this in and thinking about what are the ways that people can start to tap into this right brain health or lack of health and ways to repair their right brain circuitry, so to speak, and
+
+01:09:47.138 --> 01:10:17.118
+without a therapist? Or is that just simply impossible? No, it's not impossible. No, it's not impossible. We all do grow, and incidentally, our right brains do grow. But again, the key here, I'm suggesting the whole idea about interpersonal neurobiology. I was the editor of the Northern Series, interpersonal, which is the two-person situation.
+
+01:10:17.474 --> 01:10:45.854
+There has been too much of an emphasis on auto regulation and not enough emphasis on interactive regulation. The real key to changing a right brain is finding people you can be close with, finding people you can be open with, finding people you can be vulnerable with, that literally you can show your shortcomings and opening yourself up to those people
+
+01:10:45.986 --> 01:11:13.086
+As they open up to you, it's literally to form that right brain to right brain communication system with someone else. I think I just got it. I think, if I'm not mistaken, what you're describing is interactive dynamics that create or elaborate on circuitry that exists in all of us, but that for some people might be atrophied because of the lack of proper communication.
+
+01:11:13.346 --> 01:11:42.846
+nourishment, emotional nourishment early in life, but that we can engage these circuits, these right brain circuits. But then when we're not around these people, there must be something about the right brain circuitry that provides a sort of a soothing function so that we must know at an implicit level that like we can do this. Like we know how to attach in healthy ways to people. We have a close friend we can rely on. We have maybe friends, plural. We, we,
+
+01:11:42.946 --> 01:12:11.390
+maybe repaired a relationship with a sibling, this kind of thing. So it's not that these circuits need to constantly be engaged every moment with the barista, with the, you know, but that we somehow at an unconscious level, it must be that we come to realize that this circuitry has reelaborated or has elaborated in a way that we know, quote unquote, we can do it. You know, remember, part of the problem is being able to take in, to take these things in here.
+
+01:12:11.778 --> 01:12:39.774
+But the key to emotion, incidentally, let me throw out another important term in terms of a therapy situation. I've said essentially therapy is about literally reworking emotion. And the key to mental health and physical health is also a right brain emotional situation here. The key here is that there are heightened affective moments in a therapy session.
+
+01:12:40.578 --> 01:13:08.094
+I'm going to go therapy, then I'm going to come back to your question. We've now formed a therapeutic alliance. The stronger the therapeutic alliance is between us, more empathy between us, so to speak, the more we can share. I'm now going to start to drop some of my defenses, because the defenses are there to block affect, negative affect, and begin now to take a chance now to open myself up to somebody else's.
+
+01:13:08.194 --> 01:13:38.078
+But in a therapy session, somewhere around the middle of that session, the person comes in, out of the world, in a left brain state, somewhere in the middle of the session, they start moving into affect. And now the person is starting to talk in a more affective level. And now talking about a memory or some sad situation or something that just happened in a relationship with a couple. Now, you even start hearing my voices now. The voice tone change. And these moments...
+
+01:13:38.594 --> 01:14:08.414
+which only may last, believe it or not, 50, 60 seconds, are heightened affective moments. These are moments when all of a sudden we are both in the right and we are both synchronized. And the affective now is out there, so to speak. And that's the possibility now to get this change in these heightened affective moments. So to be in an interpersonal relationship with someone and to co-create with that person
+
+01:14:09.250 --> 01:14:33.534
+a heightened affective moment in both of us, which we are sharing at that point in time, by taking the risk to be open at that point in time also. These are the moments in life that you really go into your autobiographical memory. I remember my occasion with that person. I can bring back the whole context because remember the right brain is
+
+01:14:33.666 --> 01:15:01.438
+with images, images. So I can bring back that image now, and I can remember the closeness that I felt at that point in time, etc. These are put into bright brains. So we are always putting into our autobiographical memory these heightened affective moments. So to have those shared affective moments with other people, these are really whereby you're making changes in the right.
+
+01:15:01.634 --> 01:15:31.102
+And these are much more important, I want to suggest, than intellectually. Now, there have been certain fMRI. I'm now going to move into a little bit of a different place here. What I'm suggesting is that these right brain to right brain communications are always going on. But certain people literally can't read them as well as other people can. And they can't read the face of voice. And they can't synchronize well.
+
+01:15:31.394 --> 01:15:54.622
+Can I stop you and ask one question which is, let's say that, let's take this conversation for instance. I'm listening to your words very carefully. If I make an effort to listen especially carefully to what somebody is saying, the content of their words, is there a competition between left and right brain such that I'm now not getting as much right brain listening?
+
+01:15:55.010 --> 01:16:22.014
+Yeah, okay. This to me feels like the surrender aspect. Whereas I can, and I do this during these interviews slash discussions where I'll sit back sometimes and I'm still listening, but I widen my gaze. I don't look around, but I widen my gaze and I'm trying to just feel something coming in. I'm not a therapist, obviously. No one would ever suspect that I was, but I only do it for a few seconds.
+
+01:16:22.626 --> 01:16:39.710
+And then I re-engage. And I used to think that it was like a relaxation of sorts. But inevitably, I feel like it's a different way to – the conversation takes a different direction. Is that more or less what you're talking about? Yeah, that's a colossal shift. I mean, certainly –
+
+01:16:40.034 --> 01:17:08.222
+Corpus callos, you can shift from the left into the right about 100 milliseconds. So essentially you have to be in one hemisphere or the other. So if I'm listening very carefully to like exactly what you said and I'm tracking everything you said, like we're in a courtroom situation, then my right brain is suppressed. Is that right? Good feet, good feet. Now watch where I go here. The right hemisphere is dominant for attention. Okay?
+
+01:17:08.514 --> 01:17:19.742
+I mean, this baby and this mother, literally, she's focusing our attention on that baby's face tone voice. But there are two different types of attention. Strong neuroscience to show this.
+
+01:17:19.970 --> 01:17:42.686
+The left brain operates by narrow attention, narrowly focused attention. The best example of narrowly focused attention is you are following my words one after the other. But there's another type of attention which is used by the right brain, which is called wide-ranging attention, which comes right out of Freud.
+
+01:17:43.458 --> 01:18:12.830
+which he also called, maybe you'll remember this, evenly suspended attention. I haven't heard that, but that's beautiful. It's the same thing, which is much wider than that. And that form of attention is the form of attention that the right brain has. Because the attention at that point in time is not only of what's coming from the outside, but also attention to what's happening in the inside.
+
+01:18:12.994 --> 01:18:42.462
+my own insight, the changes in my own physiology at that point in time also. So yes, there are these two different forms of attention. And essentially, the only way someone who was just narrow all the time, let's take a personality who just lives in the left hemisphere. A hyperlinear person. Exactly. Hyperlogical, hyperrational, cannot really see the big picture, but literally that kind of a situation.
+
+01:18:42.626 --> 01:19:11.358
+So essentially, that kind of a person is always looking at the narrow aspects of it and cannot see the broader context, the broader context, because there's a context that's being set up. Right now, between you and I, there's also a context that's being set up. And that context also has to it a kind of a feeling of safety and trust as we literally just go off wherever our thoughts are,
+
+01:19:11.810 --> 01:19:33.662
+with some idea that literally you'll be able to follow that and you'll come back with me at the same time. So the context, the emotional atmosphere between us changes when you go left into the right like that. Point here is that it used to be thought that the only way you could understand the brain
+
+01:19:34.626 --> 01:20:03.038
+was by looking more intrapsychically into one brain. If you understood how one brain worked and everything was intrapsychic. But then there's the interpersonal part of it. And so essentially what we're moving now from a one-person intrapsychic psychology to a two-person interpersonal psychology. You see what I mean by two-person. I got the mother here, I got the baby there. I got the patient here, I got the therapist there. And between them, literally they're going back and forth at all periods of time
+
+01:20:03.362 --> 01:20:21.566
+right brain to right brain communications underneath the conversation. So neuroimaging, hyperscanning, neuroimaging, you're familiar with hyperscanning, another paradigm shifting thing that is occurring now in neuroimaging. For the first time, we can now scan two people,
+
+01:20:21.986 --> 01:20:44.254
+NIRS, EEG, whatever you want, while they are in the middle of a basic interpersonal interaction, a numberable interaction between the two of them. These studies have now been done. And what they did was that they found is that the two brains, especially when they are into emotional states,
+
+01:20:44.546 --> 01:21:13.982
+And when they are looking at each other face to face and they're concentrating literally on how to empathically be with that person, et cetera, emotions, so to speak, they find that the right brain of one will synchronize with the right brain of the other. And the part of the right brain that synchronizes with the other is the right temporal parietal junction. A lot of evidence now
+
+01:21:14.434 --> 01:21:39.134
+on the right temporal parietal junction. I said right brain to right brain. So now the eyes are coming. I remember the eyes are, I mean, direct eye connection really is the most powerful form of communication. I always remind people these are two little bits of brain outside your cranial vault. As weird as that might seem, they are two bits of brain. Your retina is central nervous system and you're looking at
+
+01:21:39.234 --> 01:22:07.902
+That's about as close as you can get to looking at somebody's brain state as anything. Well, you know, the eyes are being controlled by the autonomic nervous system. So you have an autonomic nervous system with autonomic nervous system synchrony here, so to speak. But essentially, what's occurring at this point in time, face, voice, gesture. The face is processed in the posterior parts of the right hemisphere, face processing. Right hemisphere, face processing.
+
+01:22:08.674 --> 01:22:37.918
+The posterior parts of the right hemisphere, the sensory areas of the right hemisphere process the voice, the melody of the voice, the tone of the voice. That's different than the semantics of the voice. So this is prosody. This is what the Italians do so well. Right, right. And the posterior parts of the right hemisphere also will process gesture and tactile. Okay? All of that comes together...
+
+01:22:38.530 --> 01:23:08.478
+is integrated together in the right temporal parietal junction. So when two people literally are empathically synchronizing with each other, when we are sharing the same emotional state, the patient says at this point in time, my God, it's rage. I never realized it was anger. And at that point in time, the empathic therapist who is synchronizing
+
+01:23:08.578 --> 01:23:38.206
+We are both literally now in that right temporal parietal junction. But the right temporal parietal junction is what sends the communications and receives the communications. Got me here? So essentially, that's where our linkage is and we are now literally in a right brain to right brain communication. And what they found was during a real psychotherapy situation,
+
+01:23:38.402 --> 01:24:03.070
+Where the patient comes in and they're there because they have interpersonal relationships problems and emotional problems. And they're face to face and they're eye to eye. And they're tracking each other like that. You'll find that synchronization. So the synchronization between my right temporal parietal and your right temporal parietal is a right brain to right brain communication.
+
+01:24:03.266 --> 01:24:29.054
+That ripe brain to ripe brain communication is always occurring in that kind of a context. And therefore, the most important new change in psychoanalysis is that the unconscious is more than just happening at dreams. It's happening at all points because the unconscious we now know is a relational unconscious.
+
+01:24:29.154 --> 01:24:57.438
+It communicates with another relational unconscious, right brain to right brain. And this has really changed so much now in our understanding about what psychotherapy is about also. Incidentally, I want to point out the major change mechanism in psychotherapy now is not insight. It's not cognitive insight. It's more the ability to have an emotionally-laden conversation with another human being
+
+01:24:58.562 --> 01:25:28.542
+And to make emotional connections with another human being, which is why the therapeutic relationship really is the factor of the change. And that's very different than the old days was your unconscious is here, the analyst is there, I'm now going to interpret what you're doing as you are sinking down into the right, but I'm going to stay up left and interpret it. That's why there was a real limitation to that, and that's why psychoanalysis really changed now also to a face-to-face contact, not just the cat...
+
+01:25:28.642 --> 01:25:57.278
+couch also. Fascinating and makes total sense based on the newer imaging tools, revealing synchrony, et cetera. I have two questions that can be asked in parallel, music and dogs. Why music and dogs? Well, some of what you're describing reminds me of the state shift that occurs when I hear particular pieces of music and
+
+01:25:57.602 --> 01:26:25.278
+for which I'm not paying attention to the lyrics, or in some cases, the lyrics matter. I'm listening, but they don't make any sense. Like if they were read out as a paragraph, it wouldn't make any sense. But it feels like there's some fundamental truth there. So this is, I could state specific musical preferences, but it's highly individual. So for some people, it's classical music. For other people, it's music that contains lyrics. But there's this feeling like...
+
+01:26:25.762 --> 01:26:54.942
+Yes, like there's a truth there and I feel that truth, even though the content of the words, let's take, couldn't help myself, like a Bob Dylan song, for instance, he's certainly could be considered a poet, right? You know, and if you read the lyrics just as a paragraph, you'd be like, this is nonsense. But the way that it's sung, the meaning behind it, the timbre in the voice, the prosody, et cetera, and presumably the emotion that he was feeling at the time when the music was recorded communicates with us and we enter a synchronous state.
+
+01:26:55.170 --> 01:27:24.478
+And then in parallel to this, I mentioned dogs where sure they have a left brain and a right brain, but I think with animals generally, if they're domestic animals and we have a very close relationship to them, we can really feel a resonance with them and presumably them with us. And for anyone that's experienced it, some people might be chuckling now, but it's nothing short of profound, right? The extent to which we really feel like they see us and we see them and there's a bond.
+
+01:27:24.802 --> 01:27:41.022
+clearly not the same magnitude as a parent-child bond, but nonetheless. So music and dogs, do you think it's tapping in to this same right temporal parietal structure? Well, I think that it's, first of all,
+
+01:27:41.666 --> 01:28:08.702
+The right temporal parietal junction is the posterior and the right orbital frontal is the cortex. So the whole right brain there, so to speak. Okay, so we're basically going from anterior to posterior. There's structures the whole way back. Yeah, the orbital frontal is the regulation part of it. The temporal parietal junction is the communication part of it. So the whole key is the communication of emotion and the regulation of emotion. Where is the surrender switch? The surrender is the colossal switch out of the left side.
+
+01:28:09.218 --> 01:28:38.622
+into the right. So not so much paying attention to the content of the words, the logic behind them, the logical flaws that might exist, the analytic part, but rather how the words sound, how the words feel, literally. Yes. And clearly, one of the, first of all, there has been a lot of neuroscience done on music. And incidentally, most of that is right brain, showing right brain activation in music. The key here, even more than that,
+
+01:28:38.722 --> 01:29:08.126
+It's particular music to me. It has a particular meaning to me, subjectivity. And a lot shows that music is essentially a mechanism of affect regulation. But I want to suggest to you that pets are also a mechanism of affect regulation. Dogs everywhere smiling. Absolutely. And maybe by the same things, I want to suggest, I think that the communication between dogs, and I've had four dogs myself,
+
+01:29:08.258 --> 01:29:35.998
+is that literally it's tactile, it's the touch of that animal, it's the prosody of the voice, because literally that dog understands the prosody of the voice, and also, to some extent, I think they can read our faces. But more than that, there's one other sense which I haven't brought up, which is part of human relationship, and that's smell. Okay, and this is overlooked in human relationship,
+
+01:29:36.130 --> 01:29:58.142
+But in real intimate contacts between human beings, the smell is really a key there. You know, think about sexual arousal. So dogs are really very strong on our smell, etc. But if attachment is a reunion after a separation, you come home, there's that dog sitting there, literally, and immediately
+
+01:29:58.434 --> 01:30:14.526
+You're down-regulating the day. You have now taken off the whole left hemisphere and the whole stresses of all of that, and you're now shifting left into right, and we use the mechanisms that are available to do that, and music is one of the ways to do that. So in some sense,
+
+01:30:14.658 --> 01:30:43.134
+Music is an auto regulation, although music can be live music and then it's more than that. So that's the case. Or playing music with others. This is something I'm incapable of because I have no musical ability. But playing music with others, you can see that when we talk about the chemistry of a band, it's so incredible to witness that and then to feel it in mass with thousands maybe of other people. Yeah. There have been studies to show that during a performance,
+
+01:30:43.234 --> 01:31:12.158
+there is a synchrony, there are synchronized states between the performer and the audience. And incidentally, they're all, you can have thousands of people literally in that same synchronized state at that point in time here. You mentioned earlier Stephen Porges' work. And we know that brain and body are connected in both directions. And I should know this, but I don't know if the right brain has preferential...
+
+01:31:12.258 --> 01:31:42.046
+with the parasympathetic or sympathetic or other aspects of, well, Vegas is parasympathetic, but I think it's probably both. I think the more we discover about the Vegas, it's likely to be mixed, sympathetic, parasympathetic, but I'll catch some heat for that, but that's okay. But is the, you know, bodily sensing is a real thing. Like there are ways that our diaphragm and our core relax when we're happy. I mean, all of this is obvious to anyone, but I'm just curious how right brain
+
+01:31:42.210 --> 01:32:11.294
+links up with bodily state. The right brain is more connected into the body than the left brain. Incidentally, do you know the name Ian McGilchrist? Yes, I know the name and many people have commented on our YouTube channel that I need to talk to Ian. I have gotten that far, but I've been busy. Get him, get him. Great, Ian, we'll send you an invite. Yeah, I mean,
+
+01:32:13.090 --> 01:32:42.398
+There has been ongoing dialogue between us for some time. But Ian talks about that the right brain literally is much more connected into the body and incidentally is also more dominant for will. Unconscious will is more important than conscious will, which you kind of at the very beginning we were talking about the left versus the right. Yeah, so I'm curious as to how people can start to sense
+
+01:32:42.722 --> 01:33:00.510
+these right brain, left brain shifts. We talked about how paying a little less attention to the content of words and a little bit more to how a conversation is feeling independent of the word content might be part of it. We hear a lot these days about how
+
+01:33:00.610 --> 01:33:24.542
+body posture matters. You know, like if people are closed up with their arms crossed, I don't know, but sometimes I'm just a little chilly, so I'll cross my arms and sometimes I'll cross my arms and lean in and I know that I'm in a much more attuned state. So I don't put too much weight on that, but maybe I should put more weight on that. What are your thoughts? Yeah. There's a classical work on an analyst by the name of Manuel Hammer.
+
+01:33:24.706 --> 01:33:53.022
+and he was talking about how to reach the affect. And what he suggested is that there are certain moments in this session when literally my body, in order to pick up the communications of the patient, I lean back. I'm not leaning forward into, I lean back and let the atmosphere literally come over me, so to speak. I love this. And I'm just, forgive me for interrupting, but I love this because people, especially on social media, they take a piece of information like,
+
+01:33:53.186 --> 01:34:13.694
+if you're leaned back, you're disengaged, you're leaned forward, you're engaged, but you could also just turn it right around and say, if you're leaned forward, you're impending, and then the person doesn't have space. And so it becomes, frankly, it becomes a bunch of BS. But notice here, what I'm talking about, what the therapist is attempting to do is to make an emotional connection, an empathic connection. And in order to make an empathic connection,
+
+01:34:14.658 --> 01:34:29.534
+You're leaning back. You're leaning back. And literally, as you lean back, all of a sudden, you're able to pick up things and hear things that you didn't see before, so to speak. And frequently what happens when you're in an emotional connection like that...
+
+01:34:29.954 --> 01:34:47.806
+Images will come to your mind, images which really represent the emotional experience that the other is having. And at that point in time also, what you'll find is that just as you're picking up that person's image, he's picking up your person's image. And what Hammer says...
+
+01:34:47.938 --> 01:35:14.046
+is that what we have here is something that's like an affective wireless between the two, because it's going back and forth between the two of us, just like a right brain to right brain communication, affected by it. Freud said, the human unconscious acts like a receptor, and it picks up the communications of the unconscious of another human being.
+
+01:35:14.882 --> 01:35:44.478
+Freud said, literally, human beings can pick up the unconscious without it going through the conscious mind. So again, in that kind of a context, that all makes sense. The other thing I want to say about all of these behaviors that are going on now when there is an emotional communication, the key is spontaneous behaviors. Spontaneous. Not thought-out behaviors. Spontaneous behaviors.
+
+01:35:45.538 --> 01:36:14.398
+their spontaneous behaviors, there's more trust in them being, you know, in the first place. But there's not a mind that is attempting to present anything. And when you have two people revealing their spontaneous behaviors to each other, even if they're not sure how they're going to be affected, that also is a matter for synchrony. In order for there to be synchrony, there has to be spontaneous two-way communications, turn-taking communications. And incidentally,
+
+01:36:15.298 --> 01:36:43.614
+as we talk about this conversation. What is set up in the attachment between the mother and the infant, the infant makes a cry, the mother responds, is that they are now taking turns. There's turn-taking behavior. And in a good relationship, what you find is more or less smooth turn-taking behaviors. And incidentally, you and I, who have never met before, are not doing too badly in these spontaneous,
+
+01:36:43.938 --> 01:37:06.974
+taking behaviors between us. I appreciate you saying that. I feel the same way. Text messaging has become a dominant mode of communication these days. I've hosted a few guests expert in emotions in the brain, Lisa Feldman Barrett, for instance, and others. And she and others have talked about
+
+01:37:07.202 --> 01:37:37.118
+how the emojification of emotions, you know, just like a smiley face or a crying face or a, oh goodness, or you're mind blown. These things are convenient as is shorthand text, lack of punctuation, et cetera. But today's conversation also, you know, highlights the extent to which text messaging is pretty much devoid of most everything that you're talking about. A green bubble or a blue bubble, seen or not seen, you know, read or not read depending on how you set your settings.
+
+01:37:37.250 --> 01:38:06.206
+the latency, the turn-taking, it's complicated. Sometimes people layer in multiple conversations and you're going back and forth about a couple of different things. And then like your food order comes. I mean, sure, the human brain can handle this, but this seems either not good, neutral that is, or bad for building and reinforcing communication. It actually concerns me, but of course I'm,
+
+01:38:06.466 --> 01:38:30.718
+I'm now 49, so I can say things like now that I'm 49, I can say things like that, you know, but it concerns me because I think that you can imagine the young brain and the older brain essentially not being good at interpersonal dynamics because of text messaging. I agree. I agree. First of all,
+
+01:38:33.218 --> 01:39:02.014
+Let me mention that one of Ian's ideas is that essentially the left hemisphere is becoming more and more dominant today, not only in this country. And he sees that really as a huge problem, because the title of his book is The Master and It's Emissary, and the emissary, which is the left brain, betrays the master. So he sees that one of the problems we're dealing with right now is that the left hemisphere is there, and that
+
+01:39:02.178 --> 01:39:30.878
+right hemispheres, even metaphors are problematic. So I have a rule. I don't argue over text. I don't like to argue over text. I don't like to argue, period. But I don't, you know, I'll pick up the phone. I'm of the generation where we called one another. I find text to be completely devoid of what I'm really seeking in terms of connection. And I think that
+
+01:39:31.202 --> 01:40:00.094
+I know there's an entire generation of people that grew up communicating mainly through short message. Jonathan Haidt, the author of The Anxious Generation, has been encouraging young kids to put away their phones and get out and interact more, encouraging parents to let their kids be more what they call free-range kids and do this kind of thing, arguing that there's far fewer dangers in the physical world than there are in the online world for young brains. He makes a convincing argument. For those of us that...
+
+01:40:00.898 --> 01:40:27.902
+are seeking to have better connection, maybe even do some healing of the right brain circuitry that you've been talking about today. Do you think that there's a hierarchy of effectiveness such that, you know, like text would be perhaps at the bottom, voice memo, maybe next level up, I'm thinking here, a phone call. You know, there was a time when we wrote handwritten letters and those felt very meaningful.
+
+01:40:28.002 --> 01:40:56.574
+I kept handwritten letters from people that I cared about and that cared about me. The handwritten letters sort of proves that it doesn't have to be a real time exchange, but there's something about handwriting. A typewritten letter by today's standards would also be a significant thing. But there really seems to be something special about a letter, a face-to-face conversation. In terms of literally,
+
+01:40:57.442 --> 01:41:09.022
+point of the letter and the attempt of the letter literally was to make a connection. I can remember in my childhood going away to camp and we would write letters back and forth
+
+01:41:09.186 --> 01:41:37.726
+And the words that were being used there were literally about making a connection and filling you in, which also meant that I had to reflect about myself and what was happening with me and how I felt about that. And I was sharing all of that with another person. That has really gone into the background. And things have become much more impersonal. But I want to point out that for a certain type of personality, texting fits perfectly.
+
+01:41:39.330 --> 01:42:08.862
+Is there people that walk around with left brains that are hypertrophied? People, you know, living in the left. Living in the left, that's right. I just want to point out there are other ways, literally, of feeding the right brain of what it needs. And one of the other ways also is going out into the world, is traveling, is being in nature, sharing those kinds of things also. Those are also in addition to the in-person situations here.
+
+01:42:09.314 --> 01:42:36.094
+But we're seeing changes here. We're seeing changes here, and I'm not so sure too many of these are good. Let me throw out. I made a little list of the areas which are now being studied, which are showing that clearly this is right brain dominance in these activities. Yeah, please share. Stop me at any point.
+
+01:42:38.498 --> 01:43:04.446
+Essentially, the argument that I'm making in this new book on human nature is that the highest levels of human nature are in the right brain. So essentially, intuition. Now remember, intuition is there for all kinds of professions. One of the things that a fireman gains over time is literally how to read a fire. So intuition.
+
+01:43:04.610 --> 01:43:30.910
+Purely right brain, incidentally. And intuition literally is drawing on body sensations also, etc. Imagery. Creativity. A lot of evidence showing creativity. The ability to processing something novel and something new. Metaphors. Imagination.
+
+01:43:34.658 --> 01:44:02.046
+humor, music, poetry, art, morality, compassion, spirituality, and the best for last, love.
+
+01:44:04.098 --> 01:44:32.542
+That's a spectacular list, making the right brain circuitry at least among the most exciting circuits, certainly important circuits. I threw an ad for the next book. I love right brain psychotherapy. Love, love, love it. I own a hardcover copy. I've owned it for a couple years now. I highly recommend it. We'll put links to your books in the show notes. Get to development of the unconscious mind also.
+
+01:44:32.802 --> 01:45:02.078
+Okay, will do. What are some activities that allow us to quote unquote drop into our right brain circuitry a bit more? One that immediately leapt to mind, as you mentioned nature and interacting with nature, and we were talking about music is walking. And earlier we talked about, you educated us on rather, this notion of wide range attention
+
+01:45:02.818 --> 01:45:31.774
+this evenly suspended attention that is associated with the right brain, this kind of widening of gaze as opposed to narrow gaze and narrow attention that is associated with left brain circuitry. When we're out in nature and when we're ambulating, when we're walking, provided we're not looking at our phone, one hopes, or looking for something specific like a bird that we've spotted, we tend to be in panoramic vision.
+
+01:45:32.674 --> 01:45:59.710
+I'm a vision scientist, so I can't help myself, you know, what we call magnocellular vision. These are like big pixels. I'm aware. Yeah, taking it all in. And it's more spherical than kind of a cone of attention. I would imagine that might be more right brain associated. What are some things that you, if you suggest to your patients, like, hey, you know, until our next session, you know,
+
+01:45:59.938 --> 01:46:26.398
+you encourage them to journal, free associate journal, to listen to music, to take walks, or do you restrict the activation of this right brain circuitry to the session and then let it just show up as it were? Yeah. Yeah. So you let them sort of just default to what's happening? Yeah, yeah. Two points here.
+
+01:46:28.098 --> 01:46:56.190
+First of all, on therapy, I think there's been too much of an emphasis on technique in therapy. And really what the right brain research is showing is that it's the right brain process that's the key here more than the technique. And so...
+
+01:46:56.482 --> 01:47:25.502
+That being the case, due to my own training, psychotherapy has shown to be more effective in making long-term changes and even changes after the treatment is over than other forms of therapy like CBT. So I think there's been too much on that. On the matter of other experiences, the right brain is also dominant for processing novel information. Anytime something new comes up,
+
+01:47:26.018 --> 01:47:55.646
+Wright picks it up first, and you get a burst of noradrenaline out of that also. So the pursuit of continuing to have a curious mind, an open mind, I think is part of that. And seeking new experiences in different parts of the world, there's an economic piece to that also, but with new challenges, bring up new challenges that we have, and to...
+
+01:47:56.098 --> 01:48:25.950
+Essentially, if possible, feed curiosity. Curiosity. Einstein even said something essentially along those lines there. So new experiences with new people, new challenges, new places to see. Travel, I think, is one of those. And it turned out to be one of the great fortunate gifts that came from all of this.
+
+01:48:26.178 --> 01:48:51.806
+You know, I was a therapist only for about 45 years and I came into this late. I wrote this book late and literally it's led me into new relationships and new friends. Who starts making friends at 45 and 50 years old? But again, novelties and sharing that, you know, I think is also another way of doing that.
+
+01:48:51.970 --> 01:49:21.502
+Plus, you said this, I'll repeat it, exercise. Exercise is a key here. I happen to be interested in energy and in mitochondria. And there's a scientist, Navio, at San Diego, who has written on this. And he's talking about the healing process. And part of the healing process literally is exercise. That's fundamental to healing of whatever,
+
+01:49:22.018 --> 01:49:47.838
+physical and mental, and also restorative sleep. So taking care of our body. One of the things that we learn early in our experiences, mostly taught through the body, is literally how to take care of our bodies. And as you're well aware of, you don't see that in certain pathologies. And you also have certain...
+
+01:49:47.970 --> 01:50:17.598
+and I'm talking about more than just self-destructive, like cutting the butt. Ultimately, the ability to be able to look inward and to be able to reflect back upon the self and to be able to see even what we want to see and don't want to see. Now, I want to just make a quick reference to defenses because
+
+01:50:17.986 --> 01:50:47.294
+Defenses can be adaptive and maladaptive, and they're important, and they're there. For example, we have defenses against overwhelming affect. Dissociation is defense against overwhelming affect. But we also have defense like repression, which is part of all human beings. And repression can be normal and adaptive, or it can be maladaptive. And it's maladaptive literally when the repression is very strong, essentially. What you have there is that the left hemisphere
+
+01:50:47.426 --> 01:51:15.774
+is just shutting out anything coming over from the right. That's what repression is. The left hemisphere is just shutting that all out. So part of this is becoming more aware of those defenses that we have also. And I want to make this point also. There are certain parts of ourselves which we cannot see. We can only see them when we're getting feedback from somebody who knows us and can see those things in us.
+
+01:51:16.482 --> 01:51:45.854
+And even if at the time they're uncomfortable, but we need that feedback from somebody we trust to be able to see, which is why this ability literally to completely change one's psychology is highly problematic. Because remember, what you're attempting to do is to change the right brain, which is why intimate relationships, close relationships with whom we can share things is really a key there also.
+
+01:51:46.146 --> 01:52:15.582
+Everybody has blind spots. And the way out of that, again, is trusting enough to take in negative feedback, you know, at times also. My own feeling is that when something hits me, let's say a disappointment hits me, and one of the things I learned early about my own emotion, because in order to study emotion,
+
+01:52:15.906 --> 01:52:33.630
+have to study your own emotion, etc. That for me, literally, when something comes, I just let it come and move wherever it's going to go, and feel it just at all of its intensity and strength. And even after sharing it, literally,
+
+01:52:34.914 --> 01:53:00.190
+Letting it penetrate down, so to speak. And ultimately, at some point, it'll come back into another shape and a form. But our emotions are adaptive. And again, I want to point out one of the major fallacies is that negative emotions are bad and positive emotions are good. Positive emotions are good, manic emotions, etc. Negative emotions are bad, loss, you know.
+
+01:53:00.546 --> 01:53:29.694
+We are wired for all of these emotions because they have adaptive value. And we need to be able to be familiar with all of those different types of emotions that come our way in our lives. I have a friend, he's a songwriter, and he told me that he has this process whereby he writes music every day, but he starts his day by painting or drawing. I think he sold...
+
+01:53:29.794 --> 01:53:50.622
+some paintings and drawings, but that's not his main vocation. But he told me that he draws and paints as a way to sort of grease the gears to songwriting. And then I learned that Joni Mitchell did this too, or something similar. And I can't help but wonder whether or not they've,
+
+01:53:51.074 --> 01:54:16.926
+unconsciously tapped into a mode of bringing right brain circuitry up in terms of its activity. Neither of them are known as painters or artists, but of course musical artists and quite accomplished ones at that. Does that sort of tool or technique make sense? Yeah, it does. Essentially, it's creativity, which again is the ability to see something novel in a new way.
+
+01:54:17.090 --> 01:54:45.054
+look at the same thing but through new eyes. So I think those are ways of literally, artists know literally how to surrender out of the left and get into the right and you're seeing these mechanisms of surrender. But let me share something else more autobiographical about what you're saying. When I decided to, I knew that I was going to write something at a certain point in time and so for 10 years I went into a period of self-study.
+
+01:54:45.890 --> 01:55:01.150
+And literally, I went to a library, Cal State Library near me, and I just went through the stacks. Do you remember what it was like to go through the stacks? I do. And I started to move into psychology, into neurology, into chemistry. But then I found myself doing something else.
+
+01:55:01.346 --> 01:55:29.438
+I went back to the piano. I took piano as a teenager, it led nowhere. But as an adult, I went back to the piano. We have a piano in the house that came from my in-laws. Because I wanted to know something in my fingers. I didn't want to know something in my logic. I knew that the way that I usually would understand things would be rationally and logically. But I wanted to be able to play and be able to play, again,
+
+01:55:30.050 --> 01:55:59.006
+literally so that it was in my fingers. And I also wanted to be able to visualize. So I got to a point now where I started to be able to now, to be able to see a cell, and I could visualize mitochondrial moving now up into the dendrites at the cell membrane. So that visualization capacity, as well as the musical capacity, was my intuitive way of starting now more and more to get me to lean into the right
+
+01:55:59.138 --> 01:56:28.734
+be able to learn how to be in the right. Amazing. I love this. And I'll refrain from sharing my personal use of such a sort of, I guess we call them avenues into the right. But I wanna make clear I understand you're in the stacks of books in the library. It feels and sounds like a cognitive endeavor, a left brain endeavor. But then it just came to you, I wanna play the piano.
+
+01:56:28.866 --> 01:56:52.574
+or through the research that you were doing, this 10-year self-research, amazing, by the way, I'm like so struck by that, then did it just come to you in a flash? Like, I want to play the piano again. And was it because playing the piano contrasted so much with looking through the stacks or they were aligned? For me, that was exploration.
+
+01:56:53.346 --> 01:57:12.414
+It was exploration. It was all new information. And I found that I could master more than what the field that I was trained in. Let me give you one other experience that is a lot of evidence to show. The aha experience is right brain also. So there are times when literally insights will come.
+
+01:57:12.834 --> 01:57:40.766
+quickly and suddenly, and it'll seem to come out of nowhere, and all of a sudden the muse is there. So that was an aha experience, and when I thought about it, it just made all kinds of sense. I mean, there was a purpose to it because, again, I needed to get past doing that. Let me tell you something else that I decided to do very early on as I was setting off into this 10-year period. I decided never to memorize anything. Tell me more.
+
+01:57:41.506 --> 01:58:10.270
+It's a lot of effort that gets nowhere. Literally what I wanted to do is I wanted to understand it in the way that I could understand it. So there's a lot of wasted time in memorization. And that being the case, as you can imagine, I have a rather enormous memory. I know where things are. I know where they are. I know how to get them. I know what's important. And I know how to put it into a place where I can get. I know where that article is. And incidentally, when I'm working,
+
+01:58:11.362 --> 01:58:33.406
+Originally, I would write everything down, and the writing had an effect of putting that more into my memory. Even now, when I'm studying, I'll take papers, I'll Xerox them, and I'll read them at my desk. I will not read and study right off the computer. In other words, I was learning my own technique of learning.
+
+01:58:35.394 --> 01:58:56.862
+important I often get asked you know what's your note-taking process how do you prepare a solo episode I do these long solos that you know I have only a few pages of notes but I could describe it but the process is so specific to the way that I learn across the whatever six eight ten weeks that it takes me to prepare for one of those sometimes more that it wouldn't really translate like it doesn't matter
+
+01:58:57.090 --> 01:59:15.518
+But there's a process of introspection there about literally how do I learn and how can I literally absorb the information so that it goes in deep. The left hemisphere essentially is a surface hemisphere. The right hemisphere is the one of depth, so to speak.
+
+01:59:15.906 --> 01:59:45.502
+And what goes into the right, for example, if you have an experience, an emotional experience that's really important, that goes deep into your autobiographical memory. That's much deeper than you're attempting to memorize something, you know, at that point, at any point in time. Given the extreme importance of this right brain circuitry and of this autonomic synchrony between mother and typically mother, primary caretaker, that is, and infant autonomic,
+
+01:59:45.698 --> 02:00:14.462
+what are some things that are known from the literature as critically important about that stage in terms of amount of time spent with the child? Oftentimes parents are working, there are nannies or any number of different things. There are a lot of different structures nowadays for families and balancing work and family, but is there anything known about how to, I hate to use the word optimize, but maximize the health of the relationship?
+
+02:00:15.202 --> 02:00:44.446
+I don't think that this culture compared to other cultures really provides for that kind of time. I think that people are stressed because of that. And now I'm going to talk about maternal leave and paternal leave in other rich countries. The paternal leave is three months and maternal leave is six months or more in Scandinavia. So these other countries have figured out
+
+02:00:44.738 --> 02:01:13.118
+This time of life is critical that if you really want to affect a personality and help shape that personality to be a moral person or, you know, to have values, etc., the time literally that to put in is the earliest years. That's when it's there, so to speak. And without that kind of leave policy, in this country, most people go back to work at six weeks.
+
+02:01:14.114 --> 02:01:37.918
+Six weeks is at the beginning of the critical period of the right brain. The autonomic nervous system is in a critical period at six to eight weeks. The amygdala is coming into a critical period. The basolateral amygdala, the insula, and the cingulate are in a critical period at that point in time. This is before the child has formed an attachment.
+
+02:01:38.338 --> 02:02:07.614
+or the separation. So I see this as literally, and as I'm well aware of, there's now talking about this more and more. In fact, the recent debate, there was discussion of this also about this problem. The London School of Economics had a study about what is the best predictor, the best childhood predictor of adult satisfaction in life. And the best predictor was emotion,
+
+02:02:07.970 --> 02:02:37.150
+And the second was the child's conduct. And the third and last was the child's IQ. We have things upside down here. We are focusing too much on executive functions that come online at the third year. And again, what I'm suggesting to you is that the whole foundations of our personality are starting in utero through the second and the third year and then, you know, with the father, et cetera.
+
+02:02:37.378 --> 02:03:04.446
+That's where we literally should be putting the money and the money should be there so that it provides the time. Every other culture has figured this out. The UNICEF took a poll in 2021 of 36 countries, rich countries, we came in last in emotional well-being, childhood well-being. Shame. It is a shame. What's...
+
+02:03:04.834 --> 02:03:31.838
+however, is that you're highlighting these issues. So many people are hearing about this and I encourage anyone, everyone listening to really take in the ordering of importance of what Dr. Shor just shared, that IQ third on the list, emotion regulation, number one. Conduct. Conduct. Yeah. So the idea that we need to
+
+02:03:32.098 --> 02:03:59.102
+our kids up as little memorizing computers is clearly the wrong idea. Clearly there's important information that needs to be committed to memory to be a functional human being, but that we're missing not just critical knowledge transfer, but critical emotional transfer. And for that reason, and for so many other reasons, I really wanna thank you for coming in today and having this conversation.
+
+02:03:59.714 --> 02:04:29.566
+It's unlike any conversation I've had on this podcast for several reasons, not the least of which is that you have this incredible knowledge of the neurobiology, which for me is a delight, and I'm sure for the listeners too, but also the clinical experience, which is so rich. And it's clear you've also done your own work in exploring these ideas. And you've been here for and participated in the evolution of this whole right brain, left brain thing, the advent of neuroimaging and how that's really shed new light.
+
+02:04:30.146 --> 02:04:58.494
+just love, love, love the way that you braid all this together in terms of actionable things with patient and therapist, but also just in terms of one's understanding of self. I'm certain people are going to take this knowledge into their lives and into the world. And it's been really enriching for me, and I'm certain it's going to be immensely enriching for them. So thank you for the work you do. Thank you for taking the time to come here today. And I'm excited about your new book, so keep us informed as to when that comes out.
+
+02:04:58.722 --> 02:05:25.150
+we will have you back on for another discussion if you're willing. And just thank you so much for entering this left brain, right brain dance and dynamic. It's been thoroughly enjoyable for me. Absolutely, pleasure for me too, Andrew. Absolute pleasure. Thank you. Thank you. Thank you for joining me for today's discussion with Dr. Alan Shore. To learn more about his work and to find links to his books, please see the links in the show note captions.
+
+02:05:25.474 --> 02:05:40.990
+If you're learning from and or enjoying this podcast, please subscribe to our YouTube channel. That's a terrific zero cost way to support us. Another terrific zero cost way to support us is to follow the podcast on both Spotify and Apple. And on both Spotify and Apple, you can leave us up to a five-star review.
+
+02:05:41.186 --> 02:05:57.886
+Please also check out the sponsors mentioned at the beginning and throughout today's episode. That's the best way to support this podcast. If you have questions for me or comments about the podcast or guests or topics that you'd like me to consider for the Huberman Lab podcast, please put those in the comments on YouTube. I do read all the comments.
+
+02:05:58.018 --> 02:06:17.182
+For those of you that haven't heard, I have a new book coming out. It's my very first book. It's entitled Protocols, an Operating Manual for the Human Body. This is a book that I've been working on for more than five years, and that's based on more than 30 years of research and experience. And it covers protocols for everything from sleep to exercise to stress control,
+
+02:06:17.314 --> 02:06:37.310
+protocols related to focus and motivation. And of course, I provide the scientific substantiation for the protocols that are included. The book is now available by presale at protocolsbook.com. There you can find links to various vendors. You can pick the one that you like best. Again, the book is called Protocols, an Operating Manual for the Human Body.
+
+02:06:37.666 --> 02:07:07.632
+If you're not already following me on social media, I am Huberman Lab on all social media platforms. So that's Instagram, X, formerly known as Twitter, LinkedIn, Facebook, and Threads. And on all those platforms, I discuss science and science-based tools, some of which overlap with the content of the Huberman Lab podcast, but much of which is distinct from the content covered on the Huberman Lab podcast. Again, it's Huberman Lab on all social media platforms. And if you haven't already subscribed to our Neural Network newsletter, the Neural Network newsletter is a zero-cost monthly newsletter that includes podcasts,
+
+02:07:07.632 --> 02:07:32.830
+as well as brief one to three page PDFs that cover protocols for things like deliberate heat exposure, deliberate cold exposure. There's a protocol for managing your dopamine. There's a protocol for optimizing your sleep, for neuroplasticity and learning, and much more. To sign up for the newsletter, simply go to HubermanLab.com. There you provide your email. I'd like to emphasize that we do not share your email with anybody. And as I mentioned before, the newsletter is completely zero cost.
+
+02:07:33.026 --> 02:07:41.790
+Thank you once again for joining me for today's discussion with Dr. Alan Shore. And last, but certainly not least, thank you for your interest in science.

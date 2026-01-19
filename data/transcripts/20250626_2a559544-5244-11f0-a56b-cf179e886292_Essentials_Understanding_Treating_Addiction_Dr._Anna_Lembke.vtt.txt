@@ -1,0 +1,262 @@
+WEBVTT
+
+00:00.226 --> 00:30.046
+Welcome to Huberman Lab Essentials, where we revisit past episodes for the most potent and actionable science-based tools for mental health, physical health, and performance. And now for my discussion with Dr. Anna Lemke. I and many listeners of this podcast are obsessed with dopamine. What is dopamine? And what are maybe some things about dopamine that most people don't know? And probably that I don't know either.
+
+00:30.786 --> 00:49.534
+So dopamine is a neurotransmitter, and neurotransmitters are those molecules that bridge the gap between two neurons. So they essentially allow one neuron, the presynaptic neuron, to communicate with the postsynaptic neuron. Dopamine is intimately associated with
+
+00:49.698 --> 01:19.664
+the experience of reward, but also with movement, which I think is really interesting because movement and reward are linked, right? If you think about early humans, you had to move in order to go seek out the water or the meat or whatever it was. So dopamine is this really powerful, important molecule in the brain that helps us experience pleasure. It's not the only neurotransmitter
+
+01:19.664 --> 01:33.598
+involved in pleasure, but it's a really, really important one. And if you want to think about something that most people don't know about dopamine, which I think is really interesting, is that we are always releasing dopamine at a kind of tonic level.
+
+01:33.698 --> 02:03.646
+baseline rate. And it's really the deviation from that baseline rather than like hits of dopamine in a vacuum that make a difference. So when we experience pleasure, our dopamine release goes above baseline. And likewise, dopamine can go below that tonic baseline. And then we experience a kind of pain. Interesting. So is it fair to say that one's baseline levels of dopamine, how frequently we are releasing dopamine in the absence of some
+
+02:04.066 --> 02:23.422
+I don't know, drug or food or experience just sitting, being. Is that associated with how happy somebody is, their kind of baseline of happiness or level of depression? There is evidence that shows that people who are depressed may indeed have lower tonic levels.
+
+02:23.778 --> 02:40.990
+levels of dopamine. So that's a really reasonable thought. And there's some evidence to suggest that that may be true. The other thing that we know is that if we expose ourselves chronically to substances or behaviors that
+
+02:41.090 --> 03:07.518
+repeatedly released large amounts of dopamine in our brain's reward pathway that we can change our tonic baseline and actually lower it over time as our brain tries to compensate for all of that dopamine, which is more really than we were designed to experience. Interesting. And is it the case that our baseline levels of dopamine are set by our genetics, by our heredity?
+
+03:07.842 --> 03:37.054
+Well, I think, you know, if you think about sort of, you know, the early stages of development in infancy, certainly that is true. You're kind of, you know, born with probably whatever is your baseline level, but obviously your experiences can have a huge impact on where your dopamine level ultimately settles out. Do you think that's a set in terms of our parents and obviously nature and nurture interact, but
+
+03:37.698 --> 03:48.702
+Is dopamine at the core of our temperament? I don't really think we know the answer to that, but I will say that people are definitely born with different things.
+
+03:49.026 --> 04:12.670
+And those temperaments do affect their ability to experience joy. And, you know, we've known that for a long time and we describe that in many different ways. One of the ways that we describe that in the modern era is to use psychiatric nomenclature like this person has a dysthymic temperament or, you know, this person has chronic major depressive disorder.
+
+04:12.770 --> 04:40.606
+In terms of looking specifically at who's vulnerable to addiction, that's an interesting sort of mixed bag because when you look at the research on risk factors for addictions or what kind of temperament of a person makes them more vulnerable to addiction, you see some interesting findings. First, you see that people who are more impulsive, who have a thought to do something and just do it impulsively, are people who are more vulnerable to addiction. Right.
+
+04:40.738 --> 05:08.766
+What we now conceptualize in our current ecosystem as mental illness are actually traits that in another ecosystem might be very advantageous. They're just not advantageous right now because of the world that we live in. And I think, you know, impulsivity is potentially one of those, right? Because we live in this world that's such a sensory rich environment, right, that we're
+
+05:08.898 --> 05:37.374
+being bombarded with all of these opportunities, these sensory opportunities, and we have to constantly check ourselves. And so impulsivity is something that right now can be a difficult trait, but isn't in and of itself a bad thing. In a previous conversation we had, you said something that really rung in my mind, which is that many people who become addicted to things have this feeling that normal life isn't interesting enough. Maybe you could just tell us
+
+05:37.474 --> 06:03.998
+a little bit about your experience with this association, if it really exists, between people's sense of the normalcy or maybe even how boring life can be and their tendency to become addicts of some sort. I think that life for humans has always been hard, but I think that now it's harder in unprecedented ways. And I think that the way that life is
+
+06:04.098 --> 06:08.158
+is really hard now is that it actually is really boring.
+
+06:08.258 --> 06:36.158
+all of our survival needs are met. We don't even have to leave our homes to meet every single physical need, you know, as long as you're of a certain level of financial well-being, which frankly, you know, we talk so much about, you know, the income gap, and certainly there is this enormous gap between rich and poor, but that gap is smaller than it's ever been in like the history of humans. We don't really have anything that we have to do. So we're all
+
+06:36.290 --> 07:06.046
+forced to make stuff up, you know, whether it's being a scientist or being a doctor or being an Olympic athlete or, you know, climbing Mount Everest. And people really vary in their need for friction. And some people need a lot more than others. And if they don't have it, they're really, really unhappy. And I do think that a lot of the people that I see with addiction and other forms of mental illness are
+
+07:06.242 --> 07:28.094
+are people who need more friction. Like they're unhappy, not necessarily because there's something wrong with their brain, but because their brain is not suited to this world. I'd like to take a quick break and acknowledge our sponsor, AG1. AG1 is a vitamin mineral probiotic drink that also includes prebiotics and adaptogens.
+
+07:28.226 --> 07:58.192
+As somebody who's been involved in research science for almost three decades and in health and fitness for equally as long, I'm constantly looking for the best tools to improve my mental health, physical health, and performance. I discovered AG1 back in 2012, long before I ever had a podcast, and I've been taking it every day since. I find it improves all aspects of my health, my energy, my focus, and I simply feel much better when I take it. AG1 uses the highest quality ingredients in the right combinations, and they're constantly improving their formulas without increasing the cost.
+
+07:58.192 --> 08:16.638
+In fact, AG1 just launched their latest formula upgrade. This next-gen formula is based on exciting new research on the effects of probiotics on the gut microbiome, and it now includes several clinically studied probiotic strains shown to support both digestive health and immune system health, as well as to improve bowel regularity and to reduce bloating.
+
+08:16.770 --> 08:46.736
+Whenever I'm asked if I could take just one supplement, what that supplement would be, I always say AG1. If you'd like to try AG1, you can go to drinkag1.com slash Huberman. For a limited time, AG1 is giving away a free one month supply of omega-3 fish oil along with a bottle of vitamin D3 plus K2. As I've highlighted before on this podcast, omega-3 fish oil and vitamin D3 K2 have been shown to help with everything from mood and brain health to heart health to healthy hormone status and much more. Again, that's drinkag1.com.
+
+08:46.736 --> 09:06.782
+Let's talk about the pleasure pain balance and addiction. And I've heard you use this seesaw or balance scale analogy before, and I think it's a wonderful one.
+
+09:06.882 --> 09:27.262
+Yeah. So to me, one of the most significant findings in neuroscience in the last 75 years is that pleasure and pain are co-located, which means the same parts of the brain that process pleasure also process pain. And they work like a balance. So when we feel pleasure, our balance tips one way. When we feel pain, it tips in the opposite direction.
+
+09:27.426 --> 09:41.118
+And one of the overriding rules governing this balance is that it wants to stay level. So it doesn't wanna remain tipped very long to pleasure or to pain. And with any deviation from neutrality, the brain will work very hard to restore a level balance
+
+09:41.218 --> 10:11.184
+or what scientists call homeostasis. And the way the brain does that is with any stimulus to one side, there will be a tip, an equal and opposite amount to the other side. It's like they have principal laws of physics. Yes, right. So I like to watch YouTube videos. When I watch YouTube videos of American Idol, it tips to the side of pleasure. And then when I stop watching it, I have a comedown, which is a tip to the equal and opposite amount on
+
+10:11.184 --> 10:41.118
+the other side. And that's that moment of wanting to watch one more YouTube video, right? It's not something that consciously happens or that we're aware of unless we really begin to pay attention. And of course, one way to combat that is to do it more, right? And more and more and more. So I think that is really what I want people to tune into and get an awareness around. Because once you tune into it, you can see it a lot. And if you keep the model of the balance in mind, I think it gives people...
+
+10:41.314 --> 11:11.294
+kind of a way to imagine what they're experiencing on a neurobiological level and understand it. And in that understanding, get some mastery over it, which is really what this is all about. Because ultimately, we do need to disengage, right? We can't live in that space all the time, right? We have other things we need to do. And there are also serious consequences that come with trying to repeat and continue that experience or that feeling.
+
+11:11.490 --> 11:40.510
+Yeah, so if I understand this correctly, when we find something that we enjoy that feels pleasureful, social media, food, sex, gambling, whatever happens to be, there's some dopamine release when we engage in that behavior. And then what you're telling me is that very quickly and beneath my conscious awareness, there's a tilting back of the scale where pleasure is reduced by way of increasing pain. Right.
+
+11:40.706 --> 12:05.310
+And I've heard you say before that the pain mechanism has some competitive advantages over the pleasure mechanism such that it doesn't just bring the scale back to level. It actually brings pain higher than pleasure. What happens right after I do something that is really pleasurable and releases a lot of dopamine is, again, my brain is going to immediately compensate by depression.
+
+12:05.506 --> 12:35.472
+down-regulating my own dopamine receptors, my own dopamine transmission to compensate for that, okay? And that's that come down or the hangover or that after effect, that moment of wanting to do it more. Now, if I just wait for that feeling to pass, then my dopamine will re-regulate itself and I'll go back to whatever my chronic baseline is. But if I don't wait, and here's really the key, if I keep indulging again and again and again, ultimately, I have so much on the pain side, right, that I've essentially re-regulated
+
+12:35.472 --> 13:00.126
+reset my brain to what we call like an anhedonic or lacking in joy type of state, which is a dopamine deficit state. So that's really the way in which pain can become the main driver is because I've indulged so much in these high reward behaviors or substances that my brain has had to compensate by way downregulating my own dopamine such that
+
+13:00.258 --> 13:30.224
+Even when I'm not doing that drug, I'm in a dopamine deficit state, which is akin to a clinical depression. I have anxiety, irritability, insomnia, dysphoria, and a lot of mental preoccupation with using again or getting the drug. So in general, what we want is some kind of flexibility in that balance and the ability to easily reassert homeostasis. We don't want to break our balance, which is possible if we overindulge for enough period of time and end up with a balance tipped to the side of pain, this
+
+13:30.224 --> 14:00.176
+dopamine deficit state we've been talking about. We want a flexible, resilient balance, right? Which can be sensitive to things going on in the environment, which can experience pleasure and approach, which can experience pain and recoil, right? This is all adaptive and healthy and necessary and good. We would never want a balance that doesn't tilt. That would be a disaster. We wouldn't be human. And we wouldn't want that. It'd be really, really boring. On the other hand, what people in recovery from addiction talk about is
+
+14:00.176 --> 14:28.446
+is to some extent having to learn to live with things being a little boring a lot of the time, right? So trying to avoid some of this intensity and thrill-seeking and escapism that really is at the core of addictive tendencies. So along those lines, I've heard you say that in order to reset the dopamine system, essentially in order to break an addictive pattern, 30 days of resistance,
+
+14:28.866 --> 14:58.832
+zero interaction with that substance, that person, et cetera. Is that correct? Yeah. And 30 days is in my clinical experience, the average amount of time it takes for the brain to reset reward pathways for dopamine transmission to regenerate itself. By depriving ourselves of this high dopamine, high reward substance or behavior, we allow our brains to regenerate its own dopamine for the balance to really equilibrate. And then we're in a place where we can sort of enjoy other things. So I'd like
+
+14:58.832 --> 15:16.606
+I like to dissect out that 30 days a little more finally. So days one through 10, I would imagine will be very uncomfortable. Yes. Anxiety, trouble sleeping, physical agitation and to the point where, you know, maybe impulsive, angry. Should we?
+
+15:16.930 --> 15:33.022
+one expect all of that? Should the- Yeah. So what I say to patients, and it's a really important piece of this intervention, is that you will feel worse before you feel better. For how long? Yeah. This is probably the first question they ask, right? And I say, usually in my clinical experience,
+
+15:33.282 --> 16:02.558
+you'll feel worse for two weeks. But if you can make it through those first two weeks, the sun will start to come out in week three. And by week four, most people are feeling a whole lot better than they were before they stopped using their substance. So it's a hard thing. Like you have to sign up for it. Then days 21 through 30, dopamine is starting to be released in response to the taste of a really good cup of coffee, for instance. Yes, exactly. Whereas before it was only to insert...
+
+16:02.722 --> 16:32.094
+you know, addictive behavior. One thing I've seen over and over again, sadly, often in the same individuals is they get sober from whatever, they're doing great. And then all of a sudden you get this call, so-and-so's back in jail, so-and-so's wife is gonna leave him because he drank two bottles of wine and took a Xanax at 7 a.m., crashed his truck into a pole, it's got two beautiful kids, like how?
+
+16:32.418 --> 16:53.758
+Did this happen again to the point where by the fourth and fifth time people are just done? And so what I'd like to talk about in this context is what sorts of things help other people that we know that are addicted? What really helps? And are there certain people for whom it's hopeless?
+
+16:53.954 --> 17:23.070
+Yeah. So there are people who will die of their disease of addiction. And I think conceptualizing it as a disease is a helpful frame. There are other frames that we could use, but I do think given the brain physiologic changes that occur with sustained heavy drug use and what we know happens to the brain, it is really reasonable to think of it as a brain disease. And for me...
+
+17:23.810 --> 17:46.686
+the real window of, let's say, being able to access my compassion around people who are repeat relapsers, even when their life is so much better, when they're in recovery. Yeah, it's like a no-brainer, right? Is to conceptualize this balance and the dopamine deficit state and a balance tilted to the side of pain. And to imagine that for some people...
+
+17:46.914 --> 18:16.894
+after a month or six months or maybe even six years, their balance is still tipped to the side of pain, that on some level, that balance has lost its resilience and its ability to restore homeostasis. It's almost like the hinge on that balance is messed up. Yes, exactly. Imagine that you had an itch somewhere on your body, okay? I mean, we've all had that, like, you know, whatever the source. You know, if you really focus, you could go for a pretty good amount of time not scratching it.
+
+18:16.962 --> 18:21.118
+But the moment you stopped focusing on not scratching it
+
+18:21.282 --> 18:51.248
+you would scratch it. And maybe you would do it while you were asleep, right? And that is what happens to people with severe addiction. That balance is essentially broken. Homeostasis does not get restored despite sustained abstinence. They're living with that constant specter of that pull. It never goes away. So let me say there are lots of people with addiction for whom that does go away. And it goes away at four weeks for many of them. But in severe cases, that's all
+
+18:51.248 --> 19:10.366
+always there and it's lingering. And it's the moment when they're not focusing on not using, it's like a reflex. They fall back into it. It's not purposeful. It's not because they want to get high. It's not because they value using drugs more than they do their family. None of that. It's that really they, they,
+
+19:10.978 --> 19:38.302
+they cannot not do it when given the opportunity and that moment when they're not thinking about it. Does that make sense? That's a great description. And actually in that description, I can feel a bit of empathy because the way you describe scratching an itch in your sleep, you know, I've done that with mosquito bites in summer, you're scratching, you know, like you wake up scratching that mosquito bite. And I also have to admit that
+
+19:39.010 --> 20:00.094
+I've experienced not feeling like I want to pick up my phone because it's so rewarding, but just finding myself doing it. Yes, of course. Like, I'm not going to use this thing. I'm not going to use this thing. And then just finding myself doing it. Like, what am I doing here? Sort of the, how did I get back here again? And I know enough about brain function to understand that we have circuits that
+
+20:00.738 --> 20:29.694
+generate deliberate behavior and we have circuits that generate reflexive behavior. And one of the goals of the nervous system is to make the deliberate stuff reflexive. So you don't have to make the decision because decision-making is a very costly thing to do. Decision-making of any kind. Why is it then that people will relapse, not just after getting fired from a job or their spouse leaving them, but when things are going really well, is it this unconscious mechanism? Cause I've seen this before is, uh,
+
+20:29.794 --> 20:54.686
+they have a great win. I have a friend who's a really impressive creative. Um, I don't want to reveal any more than that, but, uh, and relapsed upon getting another really terrific opportunity to create for the entire world. And I was like, how can that happen? But now I'm beginning to wonder, was it the dopamine associated with that win that opened the spigot on this dopamine system? Because, um,
+
+20:54.978 --> 21:07.294
+It happened in a phase of a really great stretch of life. Yeah. Triggers are things that make us want to go back to using our drug. And the key thing about triggers, whatever they are, is they always...
+
+21:07.458 --> 21:35.166
+also release a little bit of dopamine, right? So just thinking about whatever the trigger is that we associate with drug use or just thinking about drug use can already release this anticipatory dopamine, this little mini spike. But here's the part that I think is really fascinating. That mini spike is followed by a mini deficit state. So it goes up and then it doesn't go back down to baseline. It goes below baseline tonic levels. And that's cravings.
+
+21:35.298 --> 22:02.302
+Right. So that anticipation is immediately followed by wanting the drug. And it's that dopamine deficit state that drives the motivation to go and get the drug. So many people talk about dopamine is not really about pleasure, but about wanting and about motivation. And so it is that deficit state that then drives the locomotion to get it. And earlier, your description of dopamine being involved in the desire for more
+
+22:02.498 --> 22:31.742
+giving the sense of reward, but also movement. I have to assume that those things are braided together in our nervous system for the specific intention of when you feel something good, then you feel the pain, or maybe you don't notice it, and then the next thing you know, you're pursuing more of the thing that can deliver pleasure. And I love the way you use the word braided together. That's beautiful. There are people for whom bad life experiences, loss in any form, stress in many different forms, that's a trigger. But there are absolutely people for whom
+
+22:32.034 --> 22:47.422
+The trigger is things going well. And the things going well can be like the reward of the things going well, but very often what it is is the removal of the hypervigilant state that's required to keep their use in check. So it's this sense of...
+
+22:47.682 --> 23:14.206
+I want to celebrate, you know, or I want to, this reward happened. I want to put more reward on there. And it's really, really fascinating because when people come to that realization about themselves, that they're most vulnerable when things are going well, that's really a valuable insight because then they can put some, you know, things in place or barriers in place or go to more meetings or whatever it is that they do, you know, to protect themselves. Yeah.
+
+23:15.650 --> 23:24.734
+I would like to take a quick break and acknowledge one of our sponsors, Wealthfront. I've been using Wealthfront for my savings and for my investing for nearly a decade, and I absolutely love it.
+
+23:24.834 --> 23:54.334
+At the start of every year, I set new goals. And one of my goals for 2025 is to focus on saving money. Since I have Wealthfront, I'll keep that savings in my Wealthfront cash account, where I'm able to earn 4% annual percentage yield on my deposits. And you can as well. With Wealthfront, you can earn 4% APY on your cash from partner banks until you're ready to either spend that money or invest it. With Wealthfront, you also get free instant withdrawals to eligible accounts every day, even on weekends and holidays. The 4% APY is not a promotional rate.
+
+23:54.466 --> 23:56.446
+And there's no limit to what you can deposit and earn.
+
+23:56.546 --> 24:26.512
+And you can even get protection for up to $8 million through FDIC insurance provided through Wealthfront's partner banks. Wealthfront gives you free instant withdrawals where it takes just minutes to transfer your money to eligible external accounts. It also takes just minutes to transfer your cash from the cash account to any of Wealthfront's automated investment accounts when you're ready to invest. There are already a million people using Wealthfront to save more, earn more, and build long-term wealth. Earn 4% APY on your cash today. If you'd like to try Wealthfront, go to
+
+24:26.512 --> 24:54.910
+wealthfront.com slash Huberman to receive a free $50 bonus with a $500 deposit into your first cash account. That's wealthfront.com slash Huberman to get started now. This has been a paid testimonial of Wealthfront. Wealthfront brokerage isn't a bank. The APY is subject to change. For more information, see the episode description. Today's episode is also brought to us by BetterHelp. BetterHelp offers professional therapy with a licensed therapist carried out entirely online.
+
+24:55.042 --> 25:24.382
+I've been doing weekly therapy for well over 30 years. Initially, I didn't have a choice. It was a condition of being allowed to stay in school. But pretty soon I realized that therapy is an extremely important component to overall health. In fact, I consider doing regular therapy just as important as getting regular exercise, including cardiovascular exercise and resistance training, which of course I also do every week. There are essentially three things that great therapy provides. First of all, it provides a good rapport with somebody that you can trust and talk to about all issues that you're concerned about.
+
+25:24.482 --> 25:45.918
+Second of all, it can provide support in the form of emotional support or directed guidance. And third, expert therapy can provide useful insights. With BetterHelp, they make it very easy to find an expert therapist with whom you resonate with and can provide those benefits that come through effective therapy. Also, because BetterHelp allows therapy to be done entirely online, it's very time efficient.
+
+25:46.050 --> 26:13.918
+It's easy to fit into a busy schedule. There's no commuting to a therapist's office or sitting in a waiting room or anything like that. You simply go online and hold your appointment. If you would like to try BetterHelp, go to betterhelp.com slash Huberman to get 10% off your first month. Again, that's betterhelp.com slash Huberman. I wanted to just touch on something that you mentioned, which is the shame. Yeah. I heard you say in an interview with somebody else recently that
+
+26:14.946 --> 26:30.110
+truth-telling and secrets are sort of at the core of recovery. And yeah, tell us more about that. Yeah. So one of the things that I found really fascinating about working with people in recovery was how
+
+26:30.754 --> 27:00.720
+Telling the truth, even about the merest detail of their lives, was central to their recovery. It's not even just not lying about using drugs. I have to not lie about anything. I can't lie about why I was late to work this morning, which we all do. Oh, I hit traffic. No, I didn't hit traffic. I wanted to spend two more minutes reading the paper and drinking my coffee, right? So people with addiction will get into the lying habit where they're lying about random stuff because they're sort of in the habit of lying. And how recovery is really about telling the truth.
+
+27:00.720 --> 27:30.672
+And there's really interesting neuroscience behind it that suggests that when we tell the truth, we actually potentially strengthen our prefrontal cortical circuits and their connections to our limbic brain and our reward brain. And of course, these are the circuits that get disconnected when we're in our addiction, right? Our balance in our reward pathway, our limbic brain, our emotion brain is doing one thing. And our cortical circuits are completely disengaged from that, ignoring what's happening, which is easy to do because it's reflexive. We don't need to
+
+27:30.672 --> 27:57.950
+Think about that balance for the balance to be happening. But we have to re-engage those circuits, anticipate future consequences, think through the drink, you know, not just how am I going to feel now if I use, but how am I going to feel tomorrow or six months from now? And that telling the truth is in fact a way to do that, to make these connections stronger. And there, I talk about some studies in my book that kind of indirectly show that. So I find that really fascinating. Plus,
+
+27:58.338 --> 28:26.590
+just that like being open and honest with people really does create very intimate connections. And those intimate connections create dopamine. You think people are going to run away from you if you tell them about all like your weird neuroses, but really they don't. What they're like is, oh, thank God, I'm not the only one, right? I love that there's neuroscience being done on truth telling and the value of truth telling. I think, I hope they'll continue to do more work. I want to ask you about
+
+28:26.914 --> 28:53.182
+using drugs to treat drug addiction. This is a vast area, right? Different chemistries for different drugs and different purposes. But the rationale, as I understand it, is take people who are in a pattern of addiction, launch them into a experience that's also chemical and extreme, often of the extreme serotonin and or extreme dopamine type.
+
+28:53.282 --> 29:22.526
+So MDMA, ecstasy, for instance, tons of serotonin dumped, tons of dopamine dumped, how neurotoxic, if neurotoxic, debatable, et cetera, et cetera. Not a topic for now, but a lot. And then somehow that extreme experience wrapped inside of a supported network in there, whether or not there's just someone there or whether or not they're actively working through something with the patient is supposed to eject the person into a life where drug,
+
+29:22.658 --> 29:50.110
+use isn't as much of interest. This violates everything we've talked about in terms of dopamine biology. It would, if this arrangement is the way I described it, cause more addiction. It is anything but a dopamine fast. It's a dopamine feast. So we hear about successful transitions through this, at least anecdotally, and maybe some clinical say, what is going on?
+
+29:50.466 --> 30:13.438
+What is going on? It doesn't make any sense to me. Yeah. So I think it's good that you're skeptical. I think we all should be skeptical. Having said that, there are clinical studies showing, you know, and these are small studies and they're short duration, small number of subjects, but, you know, taking people, for example, who are
+
+30:13.666 --> 30:39.038
+addicted to alcohol, and then having them have this, let's say, psychedelic experience in a very controlled setting. So either typically it's a high dose psilocybin or three dose, as I saw it for the MAP study of MDMA, of ecstasy. Those are sort of the, seem to be the kind of bread and butter of this kind of work. But the thing to really keep in mind is that this is completely interwoven with
+
+30:39.138 --> 31:08.414
+with regular psychotherapy and that these are highly selected individuals. And clinical trials. Right, right. We're referring to legal clinical trials. Right, right. When it works, it's a transformational experience because it gives the person another lens through which to view their lives, which I think for some people is positive and powerful because they can come back from that and be like, oh my gosh, I care...
+
+31:08.514 --> 31:37.886
+about my family and I don't, I want X, Y, or Z for them. And I realized that my continuing to drink is not going to, you know, achieve that. So it's, it's almost like a spiritual or values based. So I think it can be very powerful, but, but having said that, I truly am quite skeptical because, you know, addiction is a chronic relapsing and remitting problem. It's hard for me to imagine that there's something that works very quickly, short term, that's going to work for a
+
+31:37.986 --> 32:06.718
+a disease that's really long lasting. Yeah. The two addicts I know that did MDMA-assisted psychotherapy as part of this thing both got worse. Yeah. But the people I know who had severe trauma who did this, who took this approach, seemed to be doing better. Okay. Interesting. And so I think that the discussion as we hear it now is just sort of psychedelics, which is a huge category that includes many different
+
+32:06.818 --> 32:36.222
+drugs and compounds with different effects. And we hear about trauma and addiction lumped together. And I think it's going to be important for people to know that this is definitely not a one-size-fits-all kind of thing, but it sounds like it may have some utility under certain conditions. Yeah, I think so. I'm trying to be very open-minded about its potential utility for certain individuals, but I can tell you in my clinical work what is a very concerning thing
+
+32:36.354 --> 32:59.230
+unintended consequence of this narrative is I have a lot of people who are looking for some kind of spiritual awakening who on their own, not in the context of any kind of therapeutic psychological work, you know, microdose or want to try, you know, psilocybin or MDMA with a friend or wherever so they can have this, you know, spiritual experience that they can figure out their lives.
+
+32:59.362 --> 33:28.382
+That's a disaster and almost never works out well. And I can just tell you that the downstream effect for the average person is that they've misconstrued the data on the use of psychedelics for mental health conditions to this idea that they're safe or that anybody can take them in any circumstance and have this kind of awakening. And that's not what the data show, right? The data are these highly controlled settings that
+
+33:28.706 --> 33:52.030
+There are a couple other things I just want to touch on, but they all relate to social media. Okay. I have to imagine that we need to regulate, not necessarily eliminate this behavior. How addicting is it? And what is healthy social media behavior? The first message I would want to get across about social media is that it
+
+33:52.162 --> 34:20.190
+really is a drug and it's engineered to be a drug, which doesn't mean that we can't use it, but we need to be very thoughtful about the way we use it. And so that means with intention and in advance planning our use, right? And trying to use it as a really awesome tool to potentially connect with other people and not to be used by it or get lost in it.
+
+34:20.386 --> 34:49.758
+We do need to figure out, you know, how to make this tool something that's, you know, going to be good for us and not ultimately harmful. As more and more of us are spending more and more time on social media, we're divesting our libidinous energies, et cetera, from real life interactions. So I think our collective challenge, and it should be our mission, is to make sure that we are preserving and maintaining our
+
+34:49.922 --> 35:19.888
+offline ways to connect with each other. So this is the key. You have to, with intention, prior to being in that situation, think of literal physical and metacognitive barriers that you can put between yourself and your phone or whatever your drug is to create these intentional spaces where you're not constantly interrupting yourself, essentially, and distracting yourself. Because I really do think we're losing the ability to have a sustained thought, right? I mean, we get
+
+35:19.888 --> 35:47.134
+So far, and then you get to that point in the thought where it's a little bit hard to know what's coming next. And it's very easy to check your phone or check your email or look something up on the internet. And then you never get that opportunity to finish that thought, which is really the source of creative energy and an original thought, right? You're not just reacting to what's coming at you. Right, and something that could contribute to the world.
+
+35:47.394 --> 36:13.630
+I know a number of people are going to have questions and want to get in contact with you. You are not on social media. That's correct. Yes. You are true to your ideology. That's great. Thank you so much for sharing this information. And I know I learned a ton and I know everyone else is going to learn a lot more about addiction and the good side of dopamine. That's right. Thank you for having me. It's been really, really great to talk with you.

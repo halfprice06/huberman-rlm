@@ -1,0 +1,277 @@
+WEBVTT
+
+00:00.226 --> 00:28.222
+Welcome to Huberman Lab Essentials, where we revisit past episodes for the most potent and actionable science-based tools for mental health, physical health, and performance. I'm Andrew Huberman, and I'm a professor of neurobiology and ophthalmology at Stanford School of Medicine. Today, we're going to talk about the neuroscience of fear. We are also going to talk about trauma and post-traumatic stress disorders. I think it's fair to say that in the last 10 years,
+
+00:28.450 --> 00:57.950
+The field of neuroscience has shed light on not just the neural circuits, meaning the areas of the brain that control the fear response and the ways that it does it, but some important ways to extinguish fears using behavioral therapies, drug therapies, and what we call brain-machine interfaces. Today, we are going to talk about all of those, and you are going to come away with both an understanding of the biology of fear and trauma, as well as many practical tools to confront fear and trauma.
+
+00:58.306 --> 01:19.486
+To give you a sense of where we are going, I'll just lay out the framework for today's podcast. First, I'm going to teach you about the biology of fear and trauma, literally the cells and circuits and connections in the body and chemicals in the body that give rise to the so-called fear response and why sometimes, but not always, fear can turn into trauma.
+
+01:19.746 --> 01:47.550
+I will also describe the biology of how fear is unlearned or what we call extinguished. You're going to learn, for instance, that we can't just eliminate fears, we actually have to replace fears with a new positive event. So what is fear? Well, fear falls into a category of nervous system phenomenon that we can reliably call an emotion. I think it's fair to say that emotions include responses within our body
+
+01:47.746 --> 02:15.710
+quickening of heart rate, changes in blood flow, things that we experience as a warming or a cooling of our skin, but that there's also a cognitive component. There are thoughts, there are memories. There's all sorts of stuff that goes on in our mind and in our body that together we call an emotion. So let's talk first about what fear isn't. Most people are familiar with stress, both as a concept and as an experience.
+
+02:16.034 --> 02:45.182
+is a physiological response. And it is fair to say that we cannot have fear without having several, if not all of the elements of the stress response. However, we can have stress without having fear. Likewise, people are familiar with the phrase or the word rather anxiety. Anxiety tends to be stress about some future event, although it can mean other things as well. We can't really have fear without
+
+02:45.282 --> 03:13.982
+seeing or observing or experiencing some of the elements of anxiety, but we can have anxiety without having fear. So what you're starting to realize is that fear is built up from certain basic elements that include stress and anxiety. And then there is trauma. The operational definition of trauma is that some fear took place, which of course includes stress and anxiety, and that fear
+
+03:14.114 --> 03:42.334
+somehow gets embedded or activated in our nervous system such that it shows up at times when it's maladaptive, meaning that fear doesn't serve us well and it gets reactivated at various times. The reason I'm putting all this word soup around fear out onto the table is not to complicate the issue, rather it is to simplify the issue because now that we acknowledge that there are many different phrases to describe this thing that we call fear and then related phenomenon,
+
+03:42.594 --> 04:11.550
+We can start to just focus on two of these issues, fear and trauma, as it relates to specific biological processes, specific cognitive processes, and we can start to dissect how fears are formed, how fears are unformed, and how new memories can come to replace previously fearful experiences. We've known for a long time that there are things that we can do to improve our sleep. And that includes things that we can take, things like magnesium threonate, theanine,
+
+04:11.650 --> 04:33.086
+chamomile extract, and glycine, along with lesser known things like saffron and valerian root. These are all clinically supported ingredients that can help you fall asleep, stay asleep, and wake up feeling more refreshed. I'm excited to share that our longtime sponsor, AG1, just created a new product called AGZ, a nightly drink designed to help you get better sleep and have you wake up feeling super refreshed.
+
+04:33.250 --> 04:58.046
+Over the past few years, I've worked with the team at AG1 to help create this new AGZ formula. It has the best sleep supporting compounds in exactly the right ratios in one easy to drink mix. This removes all the complexity of trying to forge the vast landscape of supplements focused on sleep and figuring out the right dosages and which ones to take for you. AGZ is to my knowledge, the most comprehensive sleep supplement on the market. I take it 30 to 60 minutes before sleep,
+
+04:58.146 --> 05:12.382
+It's delicious by the way. And it dramatically increases both the quality and the depth of my sleep. I know that both from my subjective experience of my sleep and because I track my sleep. I'm excited for everyone to try this new AGZ formulation and to enjoy the benefits of better sleep.
+
+05:12.578 --> 05:42.078
+AGZ is available in chocolate, chocolate mint, and mixed berry flavors. And as I mentioned before, they're all extremely delicious. My favorite of the three has to be, I think, chocolate mint, but I really like them all. If you'd like to try AGZ, go to drinkagz.com slash Huberman to get a special offer. Again, that's drinkagz.com slash Huberman. So in this effort to establish a common language around fear and trauma, I want to point out autonomic arousal. Autonomic arousal relates to this
+
+05:42.466 --> 06:10.846
+aspect of our nervous system that we call the autonomic nervous system. It basically has two branches to it, two branches meaning two different systems. One is the so-called sympathetic autonomic nervous system, has nothing to do with sympathy, it has everything to do with increasing alertness. The other branch of the autonomic nervous system is the so-called parasympathetic branch of the autonomic nervous system. I know that's a mouthful. The parasympathetic branch of the autonomic nervous system are the cells and neurons and
+
+06:11.618 --> 06:35.774
+chemicals and other aspects of your brain and body that are involved in the calming nervous system. So sympathetic is alerting, parasympathetic is calming, and it acts as sort of a seesaw to adjust your overall level of alertness. There are many different aspects to the autonomic nervous system, but one of the main aspects is an aspect that's going to come up again and again and again today. It's called the HPA axis. The HPA axis stands for hypothalamic
+
+06:36.482 --> 07:04.734
+pituitary adrenal axis. The hypothalamus is a collection of neurons. It's an area of your brain, real estate that's deep in the brain at the base of the brain that contains many, many different areas that control things like temperature and desire to have sex, desire to eat, thirst. It also controls the desire to not mate, have sex, not eat, not drink more water or any other type of fluid. So it has,
+
+07:04.962 --> 07:34.654
+accelerators and brakes in there as well. The hypothalamus connects to the so-called pituitary. The pituitary lives close to the roof of your mouth. It releases hormones into your bloodstream. And so the hypothalamus has this ability to trigger the release or prevent the release of particular hormones like cortisol or the hormones that go stimulate adrenals to produce adrenaline. And speaking of the adrenals, that A in the HPA are the adrenals.
+
+07:34.754 --> 08:03.518
+two glands that sit above your kidneys and your lower back. They release different hormones and other types of chemicals into the body. And the two main ones that you need to know about today are adrenaline, also called epinephrine and cortisol. Both of those are so-called stress hormones, but they're not always involved in stress. They're also involved in waking up in the morning when you arise, when you, excuse me, when you rise from sleep. And so this HPA axis should be thought of in the following way.
+
+08:03.650 --> 08:26.686
+The HPA axis includes a piece of the brain, the hypothalamus, the pituitary, and the adrenal. So it's a beautiful three-part system that can use your brain to alert or wake up your body and prepare it for action. And it can do that in the short term by triggering the release of hormones and chemicals that make you alert and ready to go right away.
+
+08:26.786 --> 08:54.878
+and by triggering the release of neurotransmitters and hormones and other chemicals that give that alertness a very long tail, a very long latency before it shuts off. And that's important because one of the hallmarks of fear and one of the hallmarks of trauma is that they involve fear responses that are long lasting. Even if those fearful events, the events in the world that trigger the HPA axis can be very brief,
+
+08:55.010 --> 09:24.158
+The fear response can reverberate through your system because the chemicals that are involved in this HPA axis have a fast component and a longer lasting component. And the longer lasting component can actually feed back to the brain and literally control gene expression, which can take many days and build out new circuits and new chemicals that can embed fear in our brain and body. We can't really have a discussion about fear without discussing
+
+09:24.290 --> 09:34.302
+the famous amygdala. Famous because I think most people by now have heard of the amygdala. Amygdala means almond. It's an almond shaped structure on
+
+09:34.434 --> 10:00.894
+both sides of the brain. The amygdala is part of what we can call the threat reflex. And this is very important to conceptualize fear as including a reflex. And that reflex involves things like quickening of your heart rate, hypervigilance, your attentional systems pop on, increased ability to access energy stores for movement and thought and so forth. And the amygdala is part of the threat.
+
+10:00.994 --> 10:24.318
+so much so that we can really say that it's the final common pathway through which the threat reflex flows. In other words, the amygdala is essential for the threat response. So while the amygdala might look like an almond, it's actually part of a much bigger complex or collection of neurons called the amygdaloid complex. That complex has,
+
+10:24.546 --> 10:52.318
+at anywhere from 12 to 14 areas, depending on which neuroanatomist is naming things and carving it up. Why is that important to us? Well, it turns out that the amygdala is not just a area for threat, it's an area for generating threat reflexes that integrates lots of different types of information. Information from our memory systems, like the hippocampus, and from our sensory systems, our eyes, our ears, our nose, our mouth, et cetera. So taste information, vision,
+
+10:52.482 --> 11:13.630
+auditory information, touch, et cetera, flow into the so-called lateral portion of the amygdala or the amygdaloid complex. And then there are multiple outputs from the amygdala. And this is where things get particularly interesting because the outputs of the amygdala have a lot of different areas, but there are two main pathways. One involves the hypothalamus and the other,
+
+11:14.146 --> 11:39.198
+It also feeds out to our adrenals to create a sense of alertness and action. The other pathway out of the amygdala is to a very interesting area that typically is associated with reward and even addiction. The amygdaloid complex actually projects to areas of the dopamine system, the so-called nucleus accumbens, the mesolimbic reward pathway, for those of you that want to look that up or that remember from the dopamine episodes,
+
+11:39.650 --> 12:03.774
+We have pathways in our brain that are associated with pursuit, motivation, and reward, and the neuromodulator dopamine is largely responsible for that feeling of craving, pursuit, and reward. And this threat center is actually able to communicate with and activate the dopamine system. And later you will realize why that is very important and why you can leverage the dopamine system in order to wire in new memories to replace fearful ones.
+
+12:04.162 --> 12:34.014
+There's a fourth component, and I promise this is the last component that we need to put into this picture of the neural circuits for fear. And this is a circuit that involves an area of the brain called the prefrontal cortex and some of it subdivisions, so literally in the front. And it's involved in what we call top-down processing. Top-down processing is the way that your prefrontal cortex and other areas of the brain can control or suppress a reflex. You tell yourself,
+
+12:34.146 --> 13:03.614
+I want to do this, or I should do this, or even though I don't want to, I'm going to do it anyway. So this fourth component of fear is really our ability to attach narrative, to attach meaning, and to attach purpose to what is by all accounts and purposes, a generic response. There's no negotiating what fear feels like. There's only negotiating what it means. There's only negotiating whether or not you persist, whether or not you pause, or whether or not you retreat.
+
+13:03.906 --> 13:33.246
+So this is usually the point in the podcast where I think people start asking, okay, well, there's the biology, there's the mechanism, there's the logic. How do I eliminate fear? Well, it's not quite that simple, although by understanding the logic and the mechanisms by which these circuits are built, we can eventually get to that place. I do want to plant a flag around a particular type of tool or a logical framework around a particular set of tools rather that we are going to build out through this episode.
+
+13:33.698 --> 14:02.878
+Based on what you now know, that the threat reflex gets input and it has outputs and it's subject to these top-down processing events, these narratives, you should be asking yourself, what sort of narrative should I apply to eliminate fear? Well, first let's take a step back and just acknowledge the reality, which is that fear is in some cases an adaptive response. We don't want people
+
+14:03.842 --> 14:25.278
+eliminating fears that can get them injured or killed, right? The reason that the fear, threat response and reflex exists at all is to help us from dying, to help us from making really bad decisions. So it's not just about a readiness for things that might injure us or kill us in the immediate circumstance, but also protecting us
+
+14:25.506 --> 14:54.238
+for the future because of our important need and ability to anticipate. Some memories, even if they evoke a sense of fear in us, are protective. They protect us from making bad mistakes that could get us injured or killed or put us into really horrible circumstances. Other memories are dangerous because they create a sense in us of discomfort and they tend to limit our behavior in ways that are maladaptive, that prevent us from having healthy relationships to others, healthy,
+
+14:54.402 --> 15:19.262
+job relationships, healthy relationship to ourselves, frankly. So this language of memories as protective or memories as dangerous, it's an important aspect of fear because much of the fear system is a memory system. It's designed to embed a memory of certain previous experiences in us such that the threat reflex is activated in anticipation of what might happen.
+
+15:19.618 --> 15:31.998
+Okay, so let's talk for a second about how certain memories get attached to this fear system. And this brings us to a beautiful and indeed Nobel Prize winning aspect of biology and physiology, which is Pavlovian conditioning.
+
+15:32.162 --> 15:57.374
+Many of you are probably familiar with Pavlov's dogs and the famous Pavlovian conditioning experiments. They go something like this, ring a bell. A dog doesn't do much in response to a bell. It might attend to it, but it doesn't salivate typically in response to the bell. However, if you pair the ringing of a bell with a presentation of food enough times, the dog will salivate in response to the food. Eventually you take away the food, you just ring the bell and the dog will salivate in response to the bell.
+
+15:57.698 --> 16:26.302
+Okay, so in the context of so-called Pavlovian conditioning, these things have names like conditioned stimulus and unconditioned stimulus and responses. The unconditioned stimulus is the thing that evokes a response unconditionally. So food is the unconditioned stimulus in the example I just gave. The bell in the previous example is what we call the conditioned stimulus or the conditioning stimulus. The conditioned stimulus is paired with the
+
+16:26.914 --> 16:49.438
+a thing that naturally creates a response. And then eventually the conditioned stimulus creates the response itself. You might think, well, that just seems endlessly boring and simple, but this is actually the way that our fear systems work. Except unlike Pavlov's dogs, you don't need many, many pairings of a bell with some unconditioned
+
+16:49.634 --> 17:18.206
+stimulus in order to get a response, you can get what's called one trial learning. And in this circuit that involves the amygdala, the threat reflex, and all this other stuff that I was talking about earlier, the system is set up for learning. It's set up to create memories and to anticipate problems. It's a very good system because it was designed to keep us safe. So now you should understand how classical conditioning as it's called occurs.
+
+17:18.434 --> 17:45.598
+go to give a piano recital as a kid, you sit down and you freeze up and it's horribly embarrassing. And even if you just freeze up for a few seconds, the heart rate increase and the perspiring, the sweating and the shame that you feel leads you to want to avoid playing instruments or public displays of performances for a long period of time, unless you do something to overcome it. Some people,
+
+17:45.794 --> 18:14.622
+it tends to be more an accumulation of experiences. There's a key, what we call temporal component. There's a component of the fear system being able to batch many events in time and create one specific fear, or take one very specific isolated incident that happened very briefly and create one very large general sense of fears. And I'll give an example of the latter just to kind of flesh this out a little bit. I had a friend come visit
+
+18:14.882 --> 18:44.222
+me in San Francisco some years ago, and their car got broken into, unfortunately a frequent occurrence in San Francisco, even in the middle of the day, never leave anything in your car in San Francisco, they'll break in in the middle of the day, doesn't matter, police can be having coffee right there in front of them, they'll still do it. They got their belongings taken and they decided they were never coming back to San Francisco. This was an isolated incident that forever colored their view of the city, which I, you know, frankly, understanding the fear system, I can understand.
+
+18:44.642 --> 19:10.526
+We can have isolated incidents that wick out to broad decisions about entire places, or we can have many experiences that funnel into very specific isolated fears about particular circumstances, places, and things. I'd like to take a quick break and acknowledge one of our sponsors, Element. Element is an electrolyte drink that has everything you need and nothing you don't. That means the electrolytes, sodium, magnesium, and potassium in the correct amounts, but no sugar.
+
+19:10.690 --> 19:40.656
+Proper hydration is critical for optimal brain and body function. Even a slight degree of dehydration can diminish cognitive and physical performance. It's also important that you get adequate electrolytes. The electrolytes, sodium, magnesium, and potassium are vital for functioning of all the cells in your body, especially your neurons or your nerve cells. Drinking element dissolved in water makes it very easy to ensure that you're getting adequate hydration and adequate electrolytes. To make sure that I'm getting proper amounts of hydration and electrolytes, I dissolve one packet of element in about 16 minutes
+
+19:40.656 --> 20:10.608
+to 32 ounces of water when I first wake up in the morning. And I drink that basically first thing in the morning. I'll also drink Element dissolved in water during any kind of physical exercise that I'm doing, especially on hot days when I'm sweating a lot and losing water and electrolytes. Element has a bunch of great tasting flavors. I love the raspberry, I love the citrus flavor. Right now, Element has a limited edition lemonade flavor that is absolutely delicious. I hate to say that I love one more than all the others, but this lemonade flavor is right up there with my favorite other one, which is raspberry or watermelon.
+
+20:10.608 --> 20:39.038
+Again, I can't pick just one flavor. I love them all. If you'd like to try Element, you can go to drinkelement.com slash Huberman, spelled drink L-M-N-T dot com slash Huberman to claim a free Element sample pack with a purchase of any Element drink mix. Again, that's drinkelement.com slash Huberman to claim a free sample pack. So I like to think that by now you have a pretty good understanding of the circuits that underlie the threat reflex, the fear response, and how we have
+
+20:39.362 --> 21:07.326
+top-down control, meaning we can attach a narrative to the fear response, and that the fear response can be learned in association with particular events. Okay? So now I'd like to talk about therapies that are carried out in humans that allow fears to be undone, that allow traumas to be reversed. Contrary to popular belief, it is not going to work to simply extinguish a fear.
+
+21:07.938 --> 21:37.246
+one needs to extinguish a fear and or trauma and replace that fearful or traumatic memory or idea or response with a positive response. And this is something that's rarely discussed both in the scientific literature, but certainly in the general discussion around fear and trauma. And so that brings us to which treatments are directly related to the fear circuitry and the circuitry related to trauma.
+
+21:37.538 --> 22:04.126
+The primary one to begin with is the so-called behavioral therapies. There are three forms of therapy that purely through the use of language have been shown to have very strong positive impact, meaning reduce fears and traumas. And those three are prolonged exposure therapy, cognitive processing or CPT and cognitive behavioral therapy. It's very clear because it's been measured that
+
+22:05.218 --> 22:34.206
+If you look at the amount of anxiety, the pure physiological anxiety response of quickening of heart rate, flushing of the skin, sometimes quaking of the hands, the experience of fear, over time, when people recount or retell their trauma, that the first time they do that, especially when it's recounted in a lot of detail, there's a tremendous anxiety response.
+
+22:34.562 --> 22:56.670
+even as great or greater than the actual exposure to the fearful event or trauma. And obviously this is something that is done with a clinician present because it is very traumatic to the person. They're literally reliving the trauma in full rich detail and they are encouraged to provide full rich detail. They're often encouraged to speak in complete sentences
+
+22:56.770 --> 23:22.974
+to flesh out details about how they felt inside, to flesh out details about their memories going into this traumatic or fearful event, going through it, and after really digging into all the nuance and contours of these horrible experiences. But what's remarkable is that in the second and the third and the fourth retelling of these
+
+23:23.074 --> 23:51.518
+traumatic or fearful events, that anxiety response and the amount of the physiological response, I should say that the amplitude of the physiological response becomes progressively diminished with each retelling. Every clinician I spoke to in anticipation of this episode said the exact same thing, which is that a detailed recounting of the traumatic and fearful events is absolutely essential in order to get the positive effects of
+
+23:51.618 --> 24:19.710
+prolonged exposure, cognitive processing, and cognitive behavioral therapy. So the thing to embed in your mind is that recognition of the early traumatic or fearful event in detail over and over is key to forming a new non-traumatic association with that event or person. So that's part one. You need to diminish the old experience. And when I say diminish, I mean reduce,
+
+24:19.810 --> 24:37.790
+the amplitude of the physiological response. But even after that's occurred, there's an essential need to relearn a new narrative. Why is there essential need to relearn a new narrative or create a new association? Well, that has to do with
+
+24:37.890 --> 25:06.846
+that fear reflex circuitry. As you recall, there are outputs to areas of the brain that are associated with dopamine release and reinforcement. And that we now know offers the capacity for these fear circuits and these circuits that underlie trauma to be mapped onto new experiences that are of positive association. That is all through narrative. It's all through cognition. And I think this is a very important point. Oftentimes I think we tend to undervalue
+
+25:07.906 --> 25:36.638
+the importance of rationalization and of story and of narrative. But the prefrontal cortex is this amazing capacity of our brain real estate to create meaning, to attach meaning and purpose to things that otherwise are just reflexive. Now, I mentioned prolonged exposure therapy, cognitive processing, and cognitive behavioral therapy. For those of you that are seeking relief from fear and traumatic events, you can look up licensed clinicians that can carry out those
+
+25:36.802 --> 26:05.438
+one or several of those types of therapies. There are many people, however, that don't have access to that or who are working through stuff. They have things in their past that are very uncomfortable to them. And I'm aware that many people are working through those things through journaling, through talking to a friend, through any number of different sort of non-traditional approaches. One thing that really pertains to everybody who's working through fear and trauma
+
+26:06.274 --> 26:35.294
+of any kind is the importance of social connection as it relates to the chemical systems and the neural circuits associated with fear and trauma. And it's really important to understand that regular social connection, trusting social connection of any kind is going to be very beneficial for that process. In a few minutes, we are going to discuss some of the behavioral treatments, including some really new exciting protocols for dealing with fear and trauma.
+
+26:35.778 --> 26:57.438
+For a few minutes, I'd like to discuss some of the drug treatments that are starting to emerge as potential therapeutics, in particular for PTSD. The two drug treatments I'd like to focus on are ketamine-assisted psychotherapy and MDMA-assisted psychotherapy. Ketamine is a dissociative anesthetic. You know, dissociation,
+
+26:57.922 --> 27:19.230
+in its essence is really about viewing what's happening from a different perspective than what normally one would view that experience from. What seems to be the case is that it somehow allows the patient, the individual to recount their trauma while feeling either none or a very different set
+
+27:19.362 --> 27:48.766
+of emotional experiences that they experienced in the actual trauma or fearful experience. So it's a remapping of new onto old, new meaning new feelings onto old feelings while staying in the exact same narrative. And so in that way, we can sort of view, or we can try and view ketamine assisted psychotherapy for the treatment of trauma as bringing together the three elements that we talked about before. You want to diminish the intensity, the potency of the old original
+
+27:49.314 --> 28:16.574
+trauma experience or fear experience. So that seems to be accomplished through this dissociation that leads to the extinction of the trauma and the fear. But then there also seems to be an automatic or kind of built in a relearning of a new narrative and new set of experiences, which is the next step that we described earlier. So it's an intriguing therapy. It's one that's really catching on and there are many, many clinics around the US that are now doing it.
+
+28:16.674 --> 28:44.958
+Whether or not it turns out to be the ultimate treatment for trauma and for fear isn't clear. My colleagues in psychiatry tell me that that's unlikely, although it does seem to be beneficial for a number of people, especially people that are experiencing trauma or have existing traumas and fear that are coupled with depressive symptoms because the data on ketamine and depression seems to be quite strong. I'd like to take a quick break and acknowledge one of our sponsors, Function.
+
+28:45.058 --> 29:03.070
+Last year, I became a Function member after searching for the most comprehensive approach to lab testing. Function provides over 100 advanced lab tests that give you a key snapshot of your entire bodily health. This snapshot offers you with insights on your heart health, hormone health, immune functioning, nutrient levels, and much more.
+
+29:03.202 --> 29:33.168
+Function not only provides testing of over 100 biomarkers key to your physical and mental health, but it also analyzes these results and provides insights from top doctors who are expert in the relevant areas. For example, in one of my first tests with Function, I learned that I had elevated levels of mercury in my blood. Function not only helped me detect that, but offered insights into how best to reduce my mercury levels, which included limiting my tuna consumption. I'd been eating a lot of tuna, while also making an effort to eat more leafy greens and supplementing with NAC and acetylcysteine,
+
+29:33.168 --> 29:55.550
+both of which can support glutathione production and detoxification. And I should say by taking a second function test, that approach worked. Comprehensive blood testing is vitally important. There's so many things related to your mental and physical health that can only be detected in a blood test. The problem is blood testing has always been very expensive and complicated. In contrast, I've been super impressed by function simplicity and
+
+29:55.650 --> 30:22.942
+at the level of cost, it is very affordable. As a consequence, I decided to join their scientific advisory board and I'm thrilled that they're sponsoring the podcast. If you'd like to try Function, you can go to functionhealth.com slash Huberman. Function currently has a wait list of over 250,000 people, but they're offering early access to Huberman podcast listeners. Again, that's functionhealth.com slash Huberman to get early access to Function. So now let's talk about MDMA.
+
+30:23.202 --> 30:36.414
+MDMA, also sometimes called ecstasy or molly in its recreational form, is a powerful synthetic drug that at least as far as we know, creates a state
+
+30:36.994 --> 31:05.950
+in the brain and body that is unlike any other chemical state in the brain and body that's normally experienced. What do I mean by that? Well, we have several neuromodulator systems in our body. Good examples of neuromodulators are dopamine, serotonin, acetylcholine, norepinephrine. And there is a little bit of a seesaw type phenomenon with dopamine and serotonin. Dopamine most commonly associated with activating neural circuits related to motivation, craving, and reward, and serotonin,
+
+31:06.402 --> 31:26.462
+more typically activated in response to situations or conditions in which we are very happy and content with what we have. So dopamine is more about pursuing and seeking. Serotonin is more about kind of pleasure and satisfaction with resources that we have in our immediate sphere. MDMA is a unique,
+
+31:26.850 --> 31:54.302
+in that it leads to very large increases in the amount of both dopamine and serotonin in the brain and body simultaneously. And that's a unique circumstance that is just simply not seen under normal conditions. From a subjective standpoint, people under the influence of MDMA in the therapeutic setting tend to report immense feelings of connection or resonance with people or even things with
+
+31:54.402 --> 32:22.974
+music, with objects, why would this state of mind and body be potentially useful for the treatment of trauma? What it seems to allow is a very fast relearning or new associations to be tacked onto the previously traumatic experience. So again, it brings us back to the same model of how people extinguish fears and traumas and replace them with new experiences when there is no drug treatment involved,
+
+32:23.970 --> 32:42.814
+There needs to be a diminishing of the old experience, meaning an extinction, and then a relearning of a new narrative. This whole business of fear and trauma relates to taking external experiences and funneling those experiences into this thing that I'm calling a threat reflex or the fear circuitry.
+
+32:43.234 --> 33:07.678
+We have a system that can generate threat responses. And in the case of trauma, PTSD, and extreme stress, chronic stress, that system gets ramped up so that it takes very little, maybe even just a memory or maybe even an association that we're not even aware of. How do we recalibrate the system? Well, most of the approaches that are out there involving drug treatments, typical drug treatments would involve suppressing the level
+
+33:07.778 --> 33:29.918
+of internal arousal, just trying to bring that down. So what we've been doing in human subjects is having them do breathing protocols called cyclic hyperventilation, which is somewhat stressful. It's five minutes a day of stress and involves basically doing this, what I'll do in a moment, for five minutes, which is hyperventilating, which is,
+
+33:34.818 --> 34:02.430
+not continuously for the five minutes because many people would pass out or feel extremely uncomfortable. It involves inhale, exhale, inhale, exhale, very deep, inhale through the nose, exhale through the mouth, and then every 25 or 30 breaths or so doing a full exhale and holding one's breath, lungs empty for about 25, maybe 30, maybe even 60 seconds, and then continuing until five minutes is up. Subjects report and our data indicate that people feel a heightened level
+
+34:02.562 --> 34:30.046
+of autonomic arousal. In fact, I can feel it right now, even from that very brief cyclic hyperventilation bout I just did, you feel a heating up, you feel a, some people will perspire, some people get wide-eyed, some people feel agitated, that's adrenaline being released into your system. It's stressful in air quotes. You can imagine a very brief five minutes a day, two weeks intervention in which people with the support of a clinician, we would hope,
+
+34:30.178 --> 34:57.118
+would deliberately induce a physiological state that's very stressful, right? Not shying away from the stress response, but increasing their own stress response deliberately, and maybe in conjunction with recounting the traumatic or fearful circumstance. This is far and away different than the kind of state of mind and body that would come about in a ketamine-assisted trauma-induced psychotherapy session or a MDMA-assisted trauma
+
+34:57.634 --> 35:21.406
+trauma psychotherapy session, or in a purely narrative-based psychotherapy session aimed at alleviating fear or trauma. The reason I like these sorts of interventions is that A, they are very low cost or even zero cost, right? You could imagine doing this while journaling or while recounting a particular experience. I do think that deliberate
+
+35:21.602 --> 35:50.878
+Self-directed entry into these short bouts of stress is a very promising approach. And it's one that if people are going to experiment, I just again, want to caution people with anxiety or panic disorders, be very cautious, probably don't do it. Ideally, you would do this in conjunction with support from a clinician. But I'm also aware that there are a lot of people out there that are dealing with trauma and dealing with post-traumatic stress of various kinds, and that they're desperate for various self-directed intervention approaches.
+
+35:51.074 --> 36:20.830
+So just very briefly, I want to touch on some of the lifestyle and supplementation factors that can impact things like fear and trauma and getting over fear and trauma. To make a long story short, there are many things that we all can and should do to support our overall mental and physical health. And these are the foundational elements of quality nutrition, what that means to you, quality sleep on a regular basis, ample sleep on a regular basis. I just want to briefly mention
+
+36:21.346 --> 36:30.494
+A few of the things that some people find great benefit from in the supplementation realm as it relates to anxiety, stress,
+
+36:30.754 --> 36:54.238
+fear and PTSD, but I want to point out that again, these are somewhat indirect in their support and most of them focus on reducing anxiety overall. The two that I want to focus on are two that I've never talked about on this podcast before because I've done podcasts before on stress and managing stress in the kind of shorter term. The first one is saffron of all things, but it,
+
+36:54.370 --> 37:24.336
+There are 12 studies, believe it or not, that orally ingested saffron at 30 milligrams seems to be a reliable dose for reducing anxiety on the standard inventories, the Hamilton anxiety rating scale, for those of you that want to know. And these are significant effects, and these were carried out in both male and female subjects. Here I'm only referring to human studies. Several of these were double-blind studies. There's a meta-analysis of the positive effects, meaning anxiolytic effects,
+
+37:24.336 --> 37:29.310
+anxiety reducing effects that is of things like saffron. The other one is,
+
+37:29.474 --> 37:59.440
+Inositol. Inositol has been shown to create a very notable decrease in anxiety symptoms. It's a fairly high dose that's used, but believe it or not, the potency of this effect is on par with many of the prescription antidepressants, 18 grams of inositol taken for a full month. And it does take some time for these symptoms of anxiety to be improved. Now, the question is, when would you take it? Well, by the logic of what we spelled out today, you
+
+37:59.440 --> 38:18.590
+probably would not want to take it during a session or prior to a session where you were trying to amplify the intensity of an experience and the recounting of an experience in efforts to eventually extinguish that experience, right? So you can imagine doing this outside of that session as a way to kind of bring your system back to baseline perhaps,
+
+38:18.754 --> 38:43.998
+So today we've reviewed a large amount of information about the biology of pathways in the brain and body that underlie the fear response and that give rise to chronic fear and in some cases to trauma and PTSD. We also touched on a large variety of approaches to dealing with fear, trauma, and PTSD that currently exist in the clinical landscape out there.
+
+38:44.194 --> 39:12.766
+Most important, I believe, is to understand and really think about the logical structure of the circuits that underlie fear and PTSD. Because in doing that, each of us, all of us, can think about what sorts of treatments and approaches make the most sense for them. I also hope that it will help people lean into certain practices involving re-exposure, provided that's done in a supportive environment, re-exposure to a given traumatic event in an attempt to extinguish that.
+
+39:12.962 --> 39:40.350
+Obviously you want to do that safely, meaning psychologically safely and physically safely. There are great practitioners out there that can help you with that work. There are also a number of people out there, I am certain, that are carrying certain traumas or certain fears that they would like to alleviate that are not in the extreme clinical realm. And that's the reason why I touched on a number of things, including some self-directed practices that might be useful and reasonable for them to explore.

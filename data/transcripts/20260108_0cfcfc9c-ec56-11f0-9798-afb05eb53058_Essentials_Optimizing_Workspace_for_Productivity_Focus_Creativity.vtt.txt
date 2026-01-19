@@ -1,0 +1,259 @@
+WEBVTT
+
+00:00.226 --> 00:21.950
+Welcome to Huberman Lab Essentials, where we revisit past episodes for the most potent and actionable science-based tools for mental health, physical health, and performance. I'm Andrew Huberman, and I'm a professor of neurobiology and ophthalmology at Stanford School of Medicine. Today, we're going to talk all about how to optimize your workspace for maximum productivity.
+
+00:22.562 --> 00:48.190
+Indeed, that means to heighten levels of focus, to increase levels of creativity, to improve your ability to task switch. And this could be for say, go school or for work, creative endeavors, personal endeavors. This really extends to everybody. This is a topic that's intrigued me for a very long time because my undergraduate advisor, my graduate advisor, and my postdoc advisor had many things in common, including
+
+00:48.322 --> 01:17.086
+being great scientists, being kind people and terrific mentors, but they had another thing in common, which always perplexed me, which is that their offices were a complete disaster. They had mountains of books, mountains of papers, mountains of all sorts of stuff, and yet all of them were extremely productive and could remain extremely focused in that incredibly cluttered environment. Now, I'm somebody who doesn't like clutter. I find it very hard to focus in cluttered environments. And indeed, there's tremendous variation among people
+
+01:17.506 --> 01:41.534
+as to whether or not they can remain focused or whether or not they struggle to focus in physically cluttered environments. There's no right or wrong to this, but the question we should ask ourselves is why were they all able to be so focused? And it turns out that the reason they were able to be so focused is that they all captured one single and yet fundamental variable of workspace optimization. And we'll talk about what that variable is. In fact,
+
+01:41.634 --> 02:10.974
+to talk about what all the variables of optimizing a workspace are. Things like vision, things like light, things like noise in the room, whether or not you listen to music or not, whether or not you use noise canceling headphones or not. We're going to talk about all of that. And we're going to do that in a way that you can optimize your workspace, regardless of whether or not you are at home, whether or not you're on the road, et cetera. Because the last thing I would ever want to do is to create a situation where you find the optimal workspace and then you are
+
+02:11.298 --> 02:40.894
+a slave to that optimal workspace. That's just not the way the world works. What you want to do, or my goal for you rather, is that you will have a short checklist of things that you can look to anytime you sit down to do work. And you can think about the underlying variables that impact your brain and your body and allow your brain and body to get into the optimal state in order to learn, in order to be productive, and indeed to move through your work bouts in a very relaxed and pleasureful way while maintaining focus and while pursuing any of the number of things that you're doing.
+
+02:41.250 --> 03:09.918
+The first variable we want to think about in terms of workspace optimization is vision and light. From the time you wake up in the morning until about six or seven or eight, sometimes nine hours later, your brain is in a unique state. It is in a state of high levels of dopamine, a neuromodulator, and high levels of epinephrine, as well as hormones like cortisol and so forth. That early part of the day is a time of day in which for sake of workspace optimization,
+
+03:10.658 --> 03:32.862
+being in a brightly lit environment can lend itself to optimal work throughout the day, not just during that early phase. So one of the things that I've done for my workspace is to make sure that when I wake up in the morning, I do go get my sunlight. If the sun isn't out, I turn on as many bright artificial lights as I can manage or tolerate, and then I go get my sunlight exposure. But once I...
+
+03:32.994 --> 03:54.238
+set out to do some work that all the overhead lights in that room are on, as well as lights in front of me. And that's again, to stimulate heightened levels of focus and further release of these neuromodulators that I mentioned before, dopamine, norepinephrine, and epinephrine. Now, the way that one could do that could be a very low cost way of having, for instance, a desk lamp and those overhead lights. Ring lights can be,
+
+03:54.338 --> 04:17.502
+pretty cost-effective, and yet they're very bright and they have the sort of bright blue light that is going to optimally stimulate those melanopsin ganglion cells. I don't use a ring light, I use a light pad. The particular light pad I use, I bought on Amazon. So I place that on the desk in front of me and I turn it on essentially throughout this phase one of the day. For those of you that can place your desk near a window,
+
+04:17.697 --> 04:47.664
+and even better to open the window, that would be really fantastic. Why would I say open the window? Well, it turns out that sunlight is going to be the best stimulus for waking up your brain and body through this melanopsin to hypothalamus system. And by looking at sunlight through a window, it's 50, five, zero times less effective than if that window were to be open, mostly because those windows filter out a lot of the wavelengths of blue light that are essential for stimulating the eyes and this wake up signal. Now in the afternoon, starting at about nine
+
+04:47.664 --> 05:02.014
+and continuing until about 16 hours after waking, you want to start dimming the lights in that environment. The idea is that in this so-called phase two of the 24-hour cycle from about nine to 16 hours after waking,
+
+05:02.146 --> 05:32.112
+you want to bring the level of lights down a bit. Having lights that are in front of you is fine, but overhead lights at that time are not going to be optimal for the sorts of neurochemical states that your brain wants to be in. The states that I'm referring to are a shift from the dopamine and norepinephrine that's highest early in the day to increases in things like serotonin and other neuromodulators that put your brain into a state that's better for creative endeavors or for more abstract thinking. So what I recommend doing
+
+05:32.112 --> 05:34.398
+and what I personally do is,
+
+05:34.498 --> 06:04.464
+I will turn off overhead lights in the afternoon. It's not completely dim, it's not completely dark, but I will start to reduce the amount of overhead light and just simply keep the light pad on and whatever other lamps I happen to be using. So somewhere around four or 5 p.m., which for me is about 12 hours after I've been awake or 14 hours after I've been awake, I will turn off that light pad and start to transition the lights in my environment to more yellows and reds. And then I'll just mention, because I know there are people who are working in the middle
+
+06:04.464 --> 06:14.366
+of the night, there's phase three, which is about 17 to 24 hours after waking. If you're going to be doing work in that third phase of your circadian cycle,
+
+06:14.466 --> 06:42.878
+you really want to limit the amount of bright light that you're getting in your eyes to just the amount that allows you to do the work that you're doing. Because if you get light in your eyes that's any brighter than that, you're going to severely deplete your melatonin levels. You're going to severely shift your circadian clock and it's effectively like traveling to another time zone. So if you stay up from 3 a.m. until 6 a.m. or 2 a.m. until 4 a.m. working on a term paper or something of that sort, and you're getting bright light in your eyes,
+
+06:43.010 --> 07:09.918
+you are effectively flying six hours to a different time zone, or at least that's what your body registers it as. And it can really throw your sleep and your metabolism and a number of other things out of whack. Now there's an exception to this, which is if you really want to be awake, it can often be beneficial to flipping on all the lights in the room and keeping them really bright. One of the hardest things to do is to stay up all night studying when you're in a dim environment. So you have to determine the trade-off between
+
+07:10.018 --> 07:34.206
+whether or not you want to shift your clock or whether or not you want to get the work done. I'd like to take a quick break and acknowledge our sponsor Eight Sleep. Eight Sleep makes smart mattress covers with cooling, heating, and sleep tracking capacity. One of the best ways to ensure you get a great night's sleep is to make sure that the temperature of your sleeping environment is correct. And that's because in order to fall asleep and stay deeply asleep, your body temperature actually has to drop by about one to three degrees.
+
+07:34.338 --> 07:53.406
+And in order to wake up feeling refreshed and energized, your body temperature actually has to increase by about one to three degrees. Eight Sleep automatically regulates the temperature of your bed throughout the night according to your unique needs. I've been sleeping on an Eight Sleep mattress cover for nearly five years now, and it has completely transformed and improved the quality of my sleep.
+
+07:53.602 --> 08:14.462
+The latest eight sleep model is the Pod 5. This is what I'm now sleeping on and I absolutely love it. It has so many incredible features. For instance, the Pod 5 has a feature called Autopilot, which is an AI engine that learns your sleep patterns and then adjusts the temperature of your sleeping environment across different sleep stages. It'll even elevate your head if you're snoring and it makes other shifts to optimize your sleep.
+
+08:14.658 --> 08:41.119
+If you'd like to try Eight Sleep, go to eightsleep.com slash Huberman to get up to $350 off the new pod five. Eight Sleep ships to many countries worldwide, including Mexico and the UAE. Again, that's eightsleep.com slash Huberman to save up to $350. Now that's light, but there's another aspect of vision that has been shown to be critically important for how alert we are going to be and how well we can maintain that alertness.
+
+08:41.250 --> 09:03.454
+And that has to do with where our visual focus is in a given environment. There's a very underappreciated and yet incredible aspect of our neurology that has to do with the relationship between where we look and our level of alertness. And it works in a very logical way. We have clusters of neurons in our brainstem and those clusters of neurons
+
+09:03.714 --> 09:32.286
+control our eyelid muscles and they control our eye movements up and down and to the sides. Now, the neurons that control those muscles have a very interesting feature, which is that when we are looking down toward the ground or anywhere below basically the central region of our face, the neurons that control that eye movement are intimately related to areas of the brainstem that release certain types of neuromodulators and neurotransmitters.
+
+09:32.898 --> 10:00.446
+and they activate areas of the brain that are associated with calm and indeed even with sleepiness. Now the opposite is also true. We have neurons that place our eyes into an upward gaze above the sort of level of our nose and up above our forehead, literally looking up while keeping the head stationary. Those neurons don't just control the position of the eyes and cause them to move up. They also trigger the activation of brain circuits that are associated with alertness.
+
+10:00.770 --> 10:22.334
+Now, this has some obvious implications. Contrary to what most people do, which is to look down at their laptop, tablet, or phone, if you want to be alert and you want to maintain the maximum amount of focus for whatever it is that you're reading or doing, you want that screen or whatever it is that you're looking at to at least be at eye level and ideally slightly above it.
+
+10:22.722 --> 10:50.430
+There's another aspect of our vision that's absolutely critical for optimizing our workspace. And that has to do with this really interesting feature of our visual pathways in that it has two major channels. Those two major channels have names, although you don't have to remember the names. The first one is the so-called parvocellular channel, which is involved in looking at things at specific points in space and at high resolution or detail. And then there's the so-called magnocellular channel that's involved in looking at
+
+10:50.690 --> 11:18.718
+big swaths of visual space and at lower resolution. Now, again, you don't have to remember the names. What you do have to remember, however, is that you're going to create the maximum amount of alertness in your system, the maximum amount of ability to focus when your system is in that parvocellular mode, when you're bringing your eyes to a common point, what we call a vergence eye movement, V-E-R-G-E-N-C-E, bringing your eyes to a single point in space,
+
+11:18.946 --> 11:41.470
+will create a narrower aperture of a visual window, meaning your visual world actually shrinks, at least perceptually. Now, the caveat to this is that if you are going to look at a narrow space, a narrow window for any period of time, whether or not it's a book or a laptop or a tablet or a phone, those virgins eye movements not only create alertness, but they also require energy.
+
+11:41.570 --> 12:11.006
+And they also can fatigue the eyes because there's a process called accommodation whereby the shape of your eye literally has to change so that the lens can move so that you can focus at that location. Accommodation is an incredible process, but it is a demanding one. And that's the reason that your eyes get tired when you focus on something for too long. So here's a principle extracted from the ophthalmology and neuroscience literature that you can adopt. For every 45 minutes in which you are focusing on something like a phone or a tablet or a book,
+
+12:11.138 --> 12:37.502
+page or your computer, you want to get into magnocellar panoramic vision for at least five minutes. And the way that I suggest to do this is actually to take a walk ideally outside. So for every 45 minutes or so, try and get five minutes of relaxing your eyes. Look off into the distance, looking at a horizon will automatically trigger this panoramic gaze, which is very relaxing to the eyes and will allow you to go back into a focused work bout.
+
+12:37.922 --> 12:52.734
+The one thing you absolutely do not want to do is to go outside and check your phone. Because if you're outside checking your phone or you're taking a break and checking your phone, you're still in that virgins eye movement. Okay? So this is very, very important because virgins eye movements increase
+
+12:53.410 --> 13:20.478
+focus and attention, and you can exploit that to increase focus and attention when you want to, but you absolutely need to relax the system. Again, for every 45 minutes in which you've been in that focused mode, you want to get at least five minutes of panoramic vision. Next, I'd like to talk about an aspect of workspace optimization that can actually bias whether or not our brain and nervous system are better suited for detailed analytic work or more abstract work.
+
+13:20.802 --> 13:46.974
+What I'm about to describe is called the cathedral effect. The cathedral effect has been discussed, well, really for many, many decades, maybe even hundreds of years, but formally has been discussed since the early 2000s in which it seemed that people who were in high ceilinged environments, hence the phrase cathedral, would shift their thinking and their ideas to more abstract and creative lofty type thinking.
+
+13:47.138 --> 14:06.206
+So literally higher ceiling, loftier thinking, higher aspirations. This was observed in terms of the language that they use, but also the sorts of ideas that they would generate. And conversely, that people that were in lower ceilinged environments would be more oriented
+
+14:06.498 --> 14:36.464
+toward using language that was more restricted, literally more detailed analytic about things in their immediate space. So what does this mean for workspace optimization? Well, most of us have a fixed ceiling level in our home, but you might have rooms in which the ceiling is higher and rooms in which the ceiling is lower. If that were the case, I recommend if you want to do creative work during phase two, the nine to 16 hours of your circadian cycle, nine to 16 hours after waking that is, that you do that in the high ceiling room, or maybe even outdoors out on a deck or on a patio.
+
+14:36.464 --> 15:05.406
+because the highest ceiling of course is the sky. And again, the lower the ceiling or the lower your visual environment, the more that one tends to do, or I should say performs detailed analytic work accurately. And the more that one's thinking is oriented towards detailed sort of correct answer type work. Whereas when the ceiling is higher or there's no ceiling, the more that the brain and the rest of the processing that we call cognitive processing,
+
+15:05.762 --> 15:10.398
+is related to abstract reasoning, brainstorming, and indeed can pull from
+
+15:10.754 --> 15:39.326
+broader swaths of memory resources, because really what abstract reasoning is, is it's taking existing elements and maneuvering them or arranging them into novel ways. So you can think about like notes on a piano, playing a particular song, learning scales, that's very analytic. There's a correct answer that you're trying to arrive at or generate. Whereas writing music or writing poetry or generating new material of any kind involves taking existing elements, right? You're not going to use words that you don't have
+
+15:39.522 --> 16:07.774
+committed to your memory or that you're not aware of and arranging them in novel ways. So I think the cathedral effect can be leveraged. And again, you don't need to move into a different home or build a slanted roof and work at one side of the room at one part of the day and the other side of the room at the other. Although if that's the way you want to swing it, that's great. Most of us don't have that flexibility, but it's very clear that the height of the ceiling of the visual environment that we're in has a profound effect on the types of cognitive processes that we are able to engage.
+
+16:08.226 --> 16:27.806
+By now, I'm sure that many of you have heard me say that I've been taking AG1 for more than a decade. And indeed, that's true. The reason I started taking AG1 way back in 2012, and the reason why I still continue to take it every single day, is because AG1 is, to my knowledge, the highest quality and most comprehensive of the foundational nutritional supplements on the market.
+
+16:28.002 --> 16:55.134
+What that means is that it contains not just vitamins and minerals, but also probiotics, prebiotics, and adaptogens to cover any gaps that you might have in your diet, while also providing support for a demanding life. Given the probiotics and prebiotics in AG1, it also helps support a healthy gut microbiome. The gut microbiome consists of trillions of little microorganisms that line your digestive tract and impact things such as your immune status, your metabolic health, your hormone health, and much more.
+
+16:55.298 --> 17:03.358
+Taking AG1 consistently helps my digestion, keeps my immune system strong, and it ensures that my mood and mental focus are always at their best.
+
+17:03.490 --> 17:33.456
+AG1 is now available in three new flavors, berry, citrus, and tropical. And while I've always loved the AG1 original flavor, especially with a bit of lemon juice added, I'm really enjoying the new berry flavor in particular. It tastes great, but then again, I do love all the flavors. If you'd like to try AG1 and try these new flavors, you can go to drinkag1.com slash Huberman to claim a special offer. Right now, AG1 is giving away six free sample packs of AGZ, which is AG1's new sleep formula, which by the way is fantastic.
+
+17:33.456 --> 17:55.262
+the only sleep supplement I take. It eliminates the need for all these pills and my sleep has never been better. The special offer gives you six free samples of that AGZ, as well as three AG1 travel packs and a bottle of vitamin D3 K2 with your first subscription. Just go to drinkag1.com slash Huberman to get started. Now I'd like to shift our attention to the
+
+17:55.362 --> 18:24.894
+auditory environment or the noise in the room or the music in the room or the music or noise in the headphones, because it turns out that there is a lot of quality scientific data out there that speaks to whether or not listening to particular sounds can enhance our cognition. And indeed the answer is yes, but there are very particular types of things to listen to under very particular types of conditions that allow one to do that. If you look across the literature for,
+
+18:25.058 --> 18:53.118
+studies that involve complete silence or white noise or binaural beats or music or classical music or rock and roll, you can find results to support any type of environment as being more beneficial. However, as we'll talk about in a moment, there are a few types of environments to really avoid and a few types of sounds that really can enhance the cognition and your ability to focus in your workspace environment across the board that really seem to work for all people. Let's talk about
+
+18:53.218 --> 19:21.886
+background noise to avoid. And here we're talking about background noise to avoid because it actually can cause some pretty severe deficits in cognition. There's a paper, first author, Jordan Love, cool name, last author, Alexander Francis. The title of the paper has to do with psychophysiological responses to potentially annoying heating, ventilation, and air conditioning noise during mentally demanding work, which is a mouthful. But basically what this paper identifies is
+
+19:21.986 --> 19:44.638
+a large data set in which workplace and environmental noise, mostly the humming of air conditioners that's very loud or the humming of heaters that's very loud and ongoing, just incessant, doesn't let up, can really increase mental fatigue and can vastly decrease cognitive performance. I think we've all experienced that when you're in a room and there's some ongoing background noise and all of a sudden it stops and you just feel this enormous relief.
+
+19:44.962 --> 20:02.654
+So does that mean that we shouldn't listen to white noise or pink noise or brown noise while we're working? Certainly a lot of people do. In fact, if you want to know what white noise, pink noise and brown noise are, they're just different constellations of auditory frequencies that are played together. Brown noise has others. It has different frequencies that are
+
+20:02.786 --> 20:25.086
+included at higher amplitude, et cetera. You can look this stuff up on YouTube if you want, you just put brown noise. None of it sounds terrific. It doesn't sound like music. It's literally just noise, mixed frequencies and no particular arrangement. There is some evidence that playing white noise in the background or on headphones or pink noise or brown noise can facilitate cognition, but it's mainly through an increase in this overall alertness
+
+20:25.954 --> 20:53.982
+as a consequence of areas like locus coeruleus and other brainstem areas that are associated with autonomic arousal from that noise. There's really no reason to suspect, however, that those particular patterns of noise are going to optimize particular mental functions. So what I'd like to turn to next are particular patterns of sounds that indeed have been shown in peer-reviewed studies to optimize certain types of mental processing, because you can incorporate these into your optimized workspace environment
+
+20:54.658 --> 21:14.494
+through headphones or through speakers, whatever mechanism that you want in order to get more out of your work efforts. If you were to search for apps or go online and try and find sounds that can improve thinking or change your emotions, you're generally going to find three types. One are called isochronic tones. These are tones usually of a,
+
+21:14.658 --> 21:43.678
+a common frequency. So it might be a beep and then a pause and then beep of the same frequency and then beep, forgive my terrible beeping. I don't know what good beeping would sound like, but contrast isochronic tones with monaural beats. Monaural beats would be repetitive, almost percussive like beats delivered to just one ear. This kind of thing. Okay, you can find apps that can deliver monaural beats. You can find,
+
+21:43.778 --> 22:02.942
+also apps that deliver so-called binaural beats. You can also find YouTube scripts that were channels that will deliver binaural beats. Binaural beats, as the name suggests, are beats delivered to the two ears. One pattern of kind of percussive beat to one ear and a different pattern, or at least a pattern that's out of phase, that's not synchronized,
+
+22:03.138 --> 22:31.806
+delivered to the other ear. So on one ear you hear, and in the other ear, you've got, and what happens is because of the way that the auditory system converges in the brainstem and generates what are called intraoral time differences. I'll explain what that means in a moment. Intraoral time differences. The difference between the two patterns of beats that are heard by each of the two different ears leads to a third pattern that the brain entrains to.
+
+22:32.002 --> 23:01.726
+and kind of maps onto and generates particular types of brain waves, okay? So without going into a lot of detail, intraoral time differences are the ways in which if you were to hear something off to your right, like I just snapped my finger just to the right of my right ear, that a signal arrives in my right ear before that sound signal, those sound waves arrive in my left ear. So there's an intraoral between ears time difference. And there's a brainstem area in which signals from one ear,
+
+23:02.594 --> 23:24.030
+and signals from the other ear converge. And there's literally a math done by your nervous system that says this signal arrived before the other signal. And the difference between those signals is the intraoral time difference. Binaural beats have been generated in ways that create a particular pattern of intraoral time differences that then cascades
+
+23:24.194 --> 23:53.822
+up to the rest of the brain and puts the forebrain and other areas of the brain that are involved in cognition and action into a particular rhythm. And some of the rhythms or waves of brain activity are ones that you may have heard of, things like alpha waves or theta waves or gamma waves. If you look across the board at the studies of binaural beats and you ask what sorts of binaural beats appear to be useful for people to enhance their brain function for particular kinds of tasks, we arrive at some very interesting answers.
+
+23:54.370 --> 24:14.974
+So we'll review what those are now. The frequency of binaural beats that appears to bring about improved cognitive functioning at the level of memory, improved reaction times, and improved verbal recall seems to be 40 Hertz. You might try listening to binaural beats for about 30 minutes while doing something else.
+
+24:15.074 --> 24:40.958
+and then maybe eating lunch or something of that sort, or taking a walk, and then going into the work bout. Because remember, the moment that you start listening to these binaural beats, the brain doesn't immediately switch into a particular pattern of oscillation or brainwaves. It takes some time. So again, 40 Hertz, binaural beats, many, many apps, many YouTube scripts out there, probably other resources for binaural beats, hopefully zero costs, so you can access those without any need to shell out any money.
+
+24:41.122 --> 25:01.342
+Some of you out there might be craving a little bit more mechanism by which binaural beats can influence things like focus or reduced reaction time. This has actually been explored. This 40 Hertz binaural beats pattern seems to have an effect on what's called striatal dopamine. That dopamine release leads to heightened levels of motivation and focus,
+
+25:01.474 --> 25:29.662
+Why motivation and focus? Well, dopamine is actually the substrate by which epinephrine is made. Dopamine, the molecule, is actually converted into epinephrine, adrenaline, and they work together like close cousins, dopamine and epinephrine, in order to put us on a path of movement, or if we are doing work, of mental movement toward a goal. So that's a little bit of mechanistic meat to explain at least part of the reason why 40 hertz binaural beats can enhance our focus, reduce our reaction times, and improve indeed learning and memory.
+
+25:30.082 --> 25:32.862
+I'd like to take a quick break and acknowledge one of our sponsors,
+
+25:33.058 --> 26:03.024
+Roka. Roka makes eyeglasses and sunglasses that are the absolute highest quality. I'm excited to share that Roka and I recently teamed up to create a new pair of red lens glasses. These red lens glasses are meant to be worn in the evening after the sun goes down. They filter out short wavelength light that comes from screens and from LED lights, which are the most common indoor lighting nowadays. I want to emphasize Roka red lens glasses are not traditional blue blockers. They do filter out blue light, but they filter out a lot more than just blue light. In fact, they filter out the
+
+26:03.024 --> 26:15.550
+full range of short wavelength light that suppresses the hormone melatonin. By the way, you want melatonin high in the evening and at night, makes it easy to fall and stay asleep. And those short wavelengths trigger increases in cortisol.
+
+26:15.682 --> 26:45.648
+Increases in cortisol are great in the early part of the day, but you do not want increases in cortisol in the evening and at night. These Roka Red Lens glasses ensure normal healthy increases in melatonin and that your cortisol levels stay low, which is again, what you want in the evening and at night. In doing so, these Roka Red Lens glasses really help you calm down and improve your transition to sleep. If you'd like to try Roka, go to Roka.com, that's R-O-K-A.com and enter the code Huberman to save 20% off your first order.
+
+26:45.648 --> 26:53.054
+Again, that's roca.com and enter the code Huberman at checkout. Next, I'd like to talk about two aspects of optimizing workspace that
+
+26:53.314 --> 27:20.478
+will come up at some point in your work or school life. The first one is interruptions. There's a simple method that I learned from my graduate advisor that works very, very well. What she would do was if I came by and asked a question or if anyone came by and asked a question, she would acknowledge their presence but would not shift her body toward them. So she purposely did not position her computer facing the door, which I think is a deadly, or I should say deadly to focus way of,
+
+27:20.898 --> 27:50.526
+positioning your workspace. So her computer was facing the wall, the door was perpendicular to that. And I would come by and I'd say, I have a question. And she would say, yes. So she would acknowledge my presence, but she wouldn't actually orient her body toward me, which told me that this conversation was not going to last very long. And no matter how long I stood there or what I asked, she would never orient toward me, which generally kept these conversations very, very short. The other approach, which I confess colleagues of mine have used before, not necessarily at Stanford, but elsewhere is to simply say no.
+
+27:50.754 --> 28:20.510
+to everything that somebody requests or comes by. So if someone would knock on the door, they would just shout no through the door. Or if someone would say, can I bother you for a second? They would say no. Or if someone would say, I have something I want to tell you, they would just say no. And they would just continue doing this until the person went away. That was actually very effective. These were some of the most productive people I know, not always the kindest people, but some of them were very kind. So is it better to sit or is it better to stand when doing work, at least as it relates to focus and productivity? And the answer is,
+
+28:20.962 --> 28:49.950
+Both. There've been a number of systematic studies exploring what are called sit-stand desks. So these are desks that can be set to a height that makes standing the best practice, and then they can be lowered to a height that makes sitting the best practice or the easiest practice, I should say. And it turns out that just sitting is terrible for us, okay? And there's an enormous number of studies out there that point to the fact that people who sit for
+
+28:50.434 --> 29:13.182
+five or six or seven hours a day doing work, have all sorts of issues related to sleep, neck pain, cognition suffers, a number of cardiovascular effects, even digestion. There may even actually be some almost pressure effects on the pelvic floor and things of that sort, depending on the chairs that one uses. But that people who stand are in a slightly better situation where
+
+29:13.634 --> 29:34.558
+many of those health metrics improve, but that people that do a combination of sitting and standing at the same desk throughout the day, or move from one desk to another, if they don't have a combination sit-stand desk, that's going to be best. Now, what's interesting, if you look at the scientific literature, is that people who decreased their sitting time by about half each day showed
+
+29:34.658 --> 30:01.470
+incredibly significant effects on reduced neck and shoulder pain, increase in subjective health, vitality in work-related environments, and perhaps most importantly, for sake of today's discussion, improvement in cognitive conditioning and the ability to embrace new tasks and cognitive performance. What happens if we just stand? Well, that can also generate some postural issues in terms of stabilization and fatigue. That said,
+
+30:01.634 --> 30:23.486
+most everybody, at least in the US, is not getting sufficient cardiovascular exercise or movement throughout the day. And standing at one's desk can improve some of those health metrics and again, can improve productivity, probably because of those postural effects that I talked about earlier. I have to say after now about 10 years of working at a sit-stand desk,
+
+30:23.618 --> 30:50.558
+I find I can't sit for too long before I want to stand. And my standing bouts can be anywhere from 30 minutes to two hours, although two hours would be a little bit long. And then I catch myself kind of leaning on the desk off to the side. So again, the idea is to stand, but not be leaning on the desk. Obviously, if you're typing or you're writing, there'll be some leaning involved, but that's what the literature support. So we've been discussing workspace optimization with the understanding that you're not always going to work in the same place every day.
+
+30:50.690 --> 31:19.454
+What I've tried to do is give you a set of high potency tools that can improve your focus and cognition and to place that within a framework for particular kinds of work. Let's just review some of the basic elements of what we've covered today. First of all, in the first part of your day, that zero to nine hours after waking, you want bright lights, especially overhead lights, as bright as you can keep them without feeling uncomfortable or certainly not without feeling any pain in your eyes or elsewhere in your body. Bright lights will make,
+
+31:19.618 --> 31:42.654
+for the maximum state of alertness. And if you can try and place whatever it is you're focusing on at least at nose level or above, try and avoid reclining, try and stand for at least half of your workday. That's a good goal. And it may take some time to work up to that goal. In addition, if you're going to use sound as a stimulus for increasing focus and alertness, try and avoid
+
+31:42.882 --> 32:12.030
+exposure to white noise, pink noise, or brown noise for extended periods of time, for more than an hour or so. That might actually be damaging to the auditory system. And at the very least is kind of stressful, even though you might not notice it, it's kind of a background level of anxiety and stress that is not going to serve you well. Rather, if you're going to pursue particular types of sound frequencies, consider using 40 hertz binaural beats, not monaural beats, but 40 hertz binaural beats done during a particular work bout or
+
+32:12.130 --> 32:42.078
+for 30 minutes prior to that work bout. I would not rely on binaural beats all the time every day. I think that could cause them to lose their potency just because of the way the auditory system attenuates. Some other things that you could do in order to improve your workplace performance would be to consider the cathedral effect. If you're going to do analytic work for any part of the day, phase one or phase two, as I described them, but really in any time of day, that detailed analytic work for which there is a correct answer, then try and get into an environment with a relatively low ceiling.
+
+32:42.274 --> 33:10.366
+If you don't have access to a low ceiling environment, you might consider using a brimmed hat or even a hoodie, or even just facing down, or even putting your hand above your eyes, as you will, at the level of your eyebrows. In contrast, if you're interested in doing brainstorming, creative work, you're writing new things, you're creating new things of any kind, artwork, consider getting into a high ceiling or no ceiling environment. Or if you're wearing a brimmed hat or you're wearing a hoodie, maybe peel that back.
+
+33:10.882 --> 33:27.422
+Now, of course, there are an enormous number of other things that you can do to improve work performance and productivity. And I've talked about those in previous episodes, in particular in the episode on focus and the episode on motivation. There are supplements you can take that can increase dopamine, for instance. There are
+
+33:27.522 --> 33:55.774
+tools that you can use to increase your focus. For instance, focusing your visual attention on one location for 30 to 60 seconds prior to entering a focused work bout. I do want to acknowledge again, the fact that I realize people are showing up to this challenge of workspace optimization with different budgets, with different constraints. Some people have kids at home. There are a lot of interruptions. Some people do not. Nonetheless, I hope that the information I was able to provide today will allow you to make subtle or maybe even drastic
+
+33:56.066 --> 34:23.422
+rearrangements in your workspace environment. There's one other point related to that that I did not cover and that I'd like to cover just briefly, which is that there's nothing to say that you have to always work in the same location all the time. You can move from house to cafe if that works for you. You can move from office to home. You can also move from different locations within your home. Once again, thank you for joining me for this discussion about the science and peer-reviewed literature on workspace optimization, I hope.
+
+34:23.522 --> 34:29.758
+Some, if not all of the tools will be beneficial for you. And as always, thank you for your interest in science.

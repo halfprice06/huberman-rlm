@@ -1,0 +1,241 @@
+WEBVTT
+
+00:00.226 --> 00:29.182
+Welcome to Huberman Lab Essentials, where we revisit past episodes for the most potent and actionable science-based tools for mental health, physical health, and performance. I'm Andrew Huberman, and I'm a professor of neurobiology and ophthalmology at Stanford School of Medicine. This podcast is separate from my teaching and research roles at Stanford. It is, however, part of my desire and effort to bring zero cost to consumer information about science and science-related tools to the general public.
+
+00:29.538 --> 00:51.934
+Today we're going to talk about and focus on skill learning. We are going to focus on how to learn skills more quickly, in particular motor skills. So if you're interested in how to perform better, whether or not it's dance or yoga, or even something that's just very repetitive, like running or swimming, this podcast episode is for you. We're going to go
+
+00:52.226 --> 01:19.966
+deep into the science of skill learning. And we are going to talk about very specific protocols that the science points to and has verified, allow you to learn more quickly, to embed that learning so that you remember it and to be able to build up skills more quickly than you would otherwise. Let's talk about the acquisition of new skills. These could be skills such as a golf swing or a tennis swing, or,
+
+01:20.290 --> 01:49.886
+you're shooting free throws or you're learning to dance or you're learning an instrument. I'm mainly going to focus on athletic performance. There are basically two types of skills, open loop and closed loop. Open loop skills are skills where you perform some sort of motor action and then you wait and you get immediate feedback as to whether or not it was done correctly or not. A good example would be throwing darts at a dart board.
+
+01:50.498 --> 02:09.310
+So if you throw the dart, you get feedback about whether or not you hit the bullseye, that's open loop. Closed loop would be something that's more continuous. So let's say you're a runner and you're starting to do some speed work and some sprints and you're running and you can kind of feel whether or not you're running correctly or maybe even have a coach.
+
+02:10.018 --> 02:38.430
+and they're correcting your stride, that's closed loop because as you go, you can adjust your behavior and you can adjust the distance of your steps or you can adjust your speed or you can adjust your posture. You're getting feedback on a moment to moment basis. There are essentially three components of any skill that involves motor movement. And those are sensory perception, actually perceiving what you are doing and what's happening around you.
+
+02:38.754 --> 03:07.166
+Then there are the actual movements. And then there's something called proprioception. And proprioception is often discussed as kind of a sixth sense of knowing where your limbs are in relation to your body. Now, skill learning has a lot of other dimensions too, but those are the main ones that we're going to focus on. So anytime we learn something, we have to decide, is it open loop or closed loop? The second question should be,
+
+03:08.226 --> 03:29.374
+What should I focus my attention on? Auditory attention, visual attention, or proprioception. Should I focus on where my limbs are relative to my body, or should I focus on the outcome? Okay, this is a critical distinction. You can decide to learn how to do a golf swing or dance tango and decide that you are going to focus on the,
+
+03:29.762 --> 03:58.782
+movements of your partner or the positions of your feet, or maybe you're going to sense the position and posture of your body, which is more proprioceptive. Okay? So you have to allocate your attention and I'm going to tell you how to allocate your attention best in order to learn faster. So these are the sorts of decisions that you have to make. So we can really simplify things now. I've given you a lot of information, but we can simplify it. Basically open loop or closed loop, that's one question. And what am I going to focus on? And then your neurology will take care of the rest.
+
+03:59.234 --> 04:22.654
+I'd like to take a quick break and thank one of our sponsors, Element. Element is an electrolyte drink that has everything you need and nothing you don't. That means the electrolytes, sodium, magnesium, and potassium in the correct ratios, but no sugar. We should all know that proper hydration is critical for optimal brain and body function. In fact, even a slight degree of dehydration can diminish your cognitive and physical performance to a considerable degree.
+
+04:22.754 --> 04:52.720
+It's also important that you're not just hydrated, but that you get adequate amounts of electrolytes in the right ratios. Drinking a packet of Element dissolved in water makes it very easy to ensure that you're getting adequate amounts of hydration and electrolytes. To make sure that I'm getting proper amounts of both, I dissolve one packet of Element in about 16 to 32 ounces of water when I wake up in the morning, and I drink that basically first thing in the morning. I'll also drink a packet of Element dissolved in water during any kind of physical exercise that I'm doing, especially on hot days when I'm sweating a lot and losing water.
+
+04:52.720 --> 05:21.598
+and electrolytes. There are a bunch of different great tasting flavors of Element. I like the watermelon, I like the raspberry, I like the citrus, basically I like all of them. If you'd like to try Element, you can go to drinkelement.com slash Huberman to claim an Element sample pack with the purchase of any Element drink mix. Again, that's drinkelement, spelled L-M-N-T, so it's drinkelement.com slash Huberman to claim a free sample pack. So now I want to talk about realistic expectations. Somewhere,
+
+05:22.146 --> 05:51.230
+in Hollywood, presumably, it got embedded in somebody's mind that instant skill acquisition was possible, that you could take a particular pill and you would suddenly have a skill. And I love movies, but it simply doesn't exist. Then the self-help literature created another rule called the 10,000 hours rule. And frankly, that doesn't really match the literature, at least the scientific literature either.
+
+05:52.034 --> 06:20.446
+I like it because it implies that learning takes time, but the 10,000 hours rule overlooks something crucial, which is that it's not about hours, it's about repetitions. Now, of course, there's a relationship between time and repetitions, but there are some beautiful experiments that point to the fact that by simple adjustment of what you are focused on
+
+06:20.770 --> 06:50.334
+As you attempt to learn a new skill, you can adjust the number of repetitions that you do, you adjust your motivation for learning, and you can vastly accelerate learning. Some of you may recognize this by its internet name, which is not a scientific term, which is the Super Mario effect. The Super Mario effect relates to the game Super Mario Brothers, but you'll see why at the end. But basically what they did was they had 50,000
+
+06:50.690 --> 07:09.918
+which is a enormous number of subjects, learn a program, essentially taking words from a computer program or the commands for a computer program that were kind of clustered in a column on the right. And those commands are essentially, they essentially translate to things like, you know,
+
+07:10.114 --> 07:38.078
+go forward and then if it's a right-hand turn in the maze, then go right and continue until you hit a choice point, et cetera. So it's a bunch of instructions, but the job of the subjects in these experiments were to organize those instructions in a particular way that would allow a little cursor to move through the maze successfully. It takes some skill. You have to know what commands to give in what particular order. And they made that very easy. You could just assemble them in a list over onto the right. Now, there were two groups.
+
+07:38.338 --> 08:06.206
+And one half of the subjects, if they got it wrong, meaning they entered a command and the cursor would move and it was the wrong command for this little cursor to move through the maze, they saw a signal jump up on their screen that said, that did not work, please try again. The subjects would reorganize the instructions and then the little cursor would continue.
+
+08:06.370 --> 08:34.526
+wrong again, it would say that did not work, please try again. Okay? The other half of the subjects, if they got something wrong, were told, you just lost five points, please continue. So that's the only difference in the feedback that they got. Now, I have to confess, I would have predicted, based on my knowledge of dopamine circuitry and reward contingency, people will work much harder to,
+
+08:34.785 --> 09:04.286
+prevent losing something than they will to gain something. And it turns out that that's not at all what happened. If they looked at the success rate of the subjects, what they found was that the subjects that were told that did not work, please try again, had a 68% success rate. 68% of them went on to successfully program this cursor moving through the maze. Whereas the ones that were told you lost five points,
+
+09:04.866 --> 09:20.094
+had a 52% success rate, which is a significant difference. But the source of the success or the lack of success is really interesting. The subjects that were told that did not work, please try again.
+
+09:20.450 --> 09:46.846
+tried many, many more times per unit time. In other words, they made more attempts at programming this thing to allow this person to move through the maze. Whereas the people that were told you lost five points gave up earlier or gave up entirely. To me, this was very surprising. It violates a lot of things that I had heard in the kind of popular culture or the self-help literature that people will work much harder to avoid losing something than they will to gain something.
+
+09:46.978 --> 10:16.222
+but it did fit well with another set of experiments that I'm very familiar with from the neuroscience literature. So the experiment that I want to tell you about is called the tube test. Here's the experiment. You take two rats, you put them in a tube or two mice, you put them in a tube and mice and rats, they don't like to share the same tube. So what they'll do is they'll start pushing each other back and forth, back and forth. Sooner or later, one of the rats or mice pushes the other one out. Now you take the winner
+
+10:16.642 --> 10:43.838
+you give it a new competitor. And what you find is that the mouse or rat that won previously has a much higher than chance probability of winning the second time. In other words, winning before leads to winning again. Three years ago, there was a paper published that examined the brain area that's involved in this. Turns out it's a particular area of the frontal cortex, for those of you that want to know.
+
+10:44.034 --> 11:07.870
+And they did a simple experiment where the experimenters increased or decreased the activity of this brain area in the prefrontal cortex, a little sub region of the prefrontal cortex. And what they found is if they stimulated this brain area, a mouse or rat, regardless of whether or not it had been a winner or loser before, became a winner every single time. So what is this magic brain area? What is it doing?
+
+11:08.098 --> 11:32.190
+Well, the reason I'm bringing this up today and the reason I'm bringing it up on the heels of the Super Mario effect is that stimulation of this brain area had a very simple and very important effect, which was it led to more forward steps, more repetitions, more effort, but not in terms of sheer might and will, not digging deeper, just more repetitions.
+
+11:32.290 --> 11:59.582
+per unit time, and the losers had fewer repetitions per unit time. So the Super Mario effect, this online experiment, and the tube test, which has been done by various labs and repeated again and again, point to a simple but very important rule, which is neither the 10,000 hours rule nor the magic wand Hollywood version of learning, but rather the neurobiological explanation for learning a skill is,
+
+11:59.970 --> 12:27.006
+You want to perform as many repetitions per unit time as you possibly can, at least when you're first trying to learn a skill. The winners are always generating more repetitions per unit time. It's just a repeat of performance, repeat of performance, even if there are errors. And that points to something vitally important, which is reps are important, but making error reps
+
+12:27.170 --> 12:56.478
+is also important. In fact, it might be the most important factor. So let's talk about errors and why those solve the problem of what to focus on. Because as I said earlier, if you want to learn something, you need to know if it's open loop or closed loop, and you need to know what to focus on, where to place your perception. And that seems like a tough task, but errors will tell you exactly what to focus on. And the reason is that the errors actually cue your nervous system to
+
+12:56.834 --> 13:24.510
+two things, one to error correction, and the other is it opens the door or the window for neuroplasticity. Errors tell your nervous system that something needs to change. So if you are performing a task or a skill, like you're learning how to dance and you're stepping on the other person's toes or you're fumbling or you're not getting it right, those errors are opening the possibility for plasticity. If you walk away at that point, you've made the exact
+
+13:24.866 --> 13:46.974
+wrong choice. Without errors, the brain is not in a position to change itself. Errors actually cue the frontal cortex networks, what we call top-down processing, and the neuromodulators, things like dopamine and acetylcholine and epinephrine, that will allow for plasticity. So these errors
+
+13:47.394 --> 14:17.360
+cue the brain that something was wrong and they open up the possibility for plasticity. It's what's sometimes called the framing effect. It frames what's important, right? This isn't about motivation to learn. This is about how you actually learn. So the key is designate a particular block of time that you are going to perform repetitions. Work for time and then try and perform the maximum number of repetitions that you can do safely. That's going to be the best way to approach learning for most sessions. I will talk about
+
+14:17.360 --> 14:43.230
+other things that one can do. But making errors is key. And this isn't a motivational speech. I'm not saying, oh, go make errors. Errors are good for you. You have to fail in order to win. No, you have to fail in order to open up the possibility of plasticity, but you have to fail many times within the same session. And those failures will cue your attention to the appropriate sensory events. I'd like to take a quick break and acknowledge our sponsor, AG1.
+
+14:43.362 --> 15:13.328
+AG1 is a vitamin mineral probiotic drink that also includes prebiotics and adaptogens. As somebody who's been involved in research science for almost three decades and in health and fitness for equally as long, I'm constantly looking for the best tools to improve my mental health, physical health, and performance. I discovered AG1 way back in 2012, long before I ever had a podcast or even knew what a podcast was, and I've been taking it every day since. I find that AG1 greatly improves all aspects of my health. I simply feel much better when I take it.
+
+15:13.328 --> 15:43.070
+it. AG1 uses the highest quality ingredients in the right combinations, and they're constantly improving their formulas without increasing the cost. Whenever I'm asked if I could take just one supplement, what would that supplement be? I always say AG1. If you'd like to try AG1, you can go to drinkag1.com slash Huberman to claim a special offer. Right now, they're giving away five free travel packs plus a year's supply of vitamin D3 K2. Again, that's drinkag1.com slash Huberman to claim that special offer.
+
+15:43.522 --> 16:08.094
+So science points to the fact that there's a particular sequencing of learning sessions that will allow you to learn faster and to retain the skill learning. And it involves doing exactly as I just described, which is getting as many repetitions as you can in the learning session, paying attention to the errors that you make, and then the rewards that will be generated
+
+16:08.450 --> 16:37.342
+again, these are neurochemical rewards, from the successful performance of a movement. And then after the session, you need to do something very specific, which is nothing. That's right. After a skill learning session, there's a replay of the motor sequence that you performed correctly, and there's an elimination of the motor sequences that you performed incorrectly. Okay, so to be very clear about this,
+
+16:37.666 --> 17:01.502
+after I finished the training session, if I do nothing, if I just sit there and close my eyes for five to 10 minutes, even one minute, the brain starts to replay the motor sequence in a way that appears important for the more rapid consolidation of the motor sequence of the pattern and to accelerated learning. So you have this,
+
+17:01.762 --> 17:25.374
+basic learning session and then a period of time afterwards in which the brain can rehearse what it just did. At the beginning of learning any skill and as we approach from uncertain to skilled to mastery, we want to reduce uncertainty. And that's really what the nervous system is doing. It's trying to eliminate errors and hone in on the correct trajectories. If you perform a lot of repetitions and then you use a,
+
+17:25.986 --> 17:48.318
+period immediately after, we don't really have a name for this post-learning kind of idle time for the brain. The brain isn't idle at all. It's actually scripting all these things in reverse that allow for deeper learning and more quick learning. But if we fill that time with other things, if we are focused on our phones or we're focused on learning something else, we're focusing on our performance,
+
+17:48.578 --> 18:08.158
+that's not going to serve us well. At least it's not going to serve the skill learning well. So please, if you're interested in more rapid skill learning, try introducing these sessions. They can be quite powerful. But once you're familiar with something and you're performing it well every once in a while, you're accomplishing it better every once in a while, then you can start to cue your attention in very deliberate ways.
+
+18:08.290 --> 18:37.726
+And so we hear a lot about chunking, about breaking things down into their component parts. But one of the biggest challenges for skill learning is knowing where to place your attention. So to dial out again, we're building a protocol across this episode, early sessions, maybe it's the first one, maybe it's the first 10, but during those initial sessions, the key is to make many errors, to let the reward process govern the plasticity, let the errors open the plasticity, and then after the learning sessions to let the brain go idle.
+
+18:38.434 --> 18:55.742
+at least for a short period of time. And of course, to maximize sleep. As you start incorporating more sessions, you start to gain some skill level, learning to harness and focus your attention on particular features of the movement, independent of the rewards and the feedback.
+
+18:55.970 --> 19:25.936
+right? So the reward is no longer whether or not you struck the target correctly, but simply the motor movement, focusing your, for instance, in a dart throw on the action of your arm, that is embedding the plasticity and the motor pattern most deeply. That's what's been shown by the scientific literature. So we're breaking the learning process down into its component parts. As we get more and more skilled, meaning as we make fewer and fewer errors per a given session per unit time, that's when attention
+
+19:25.936 --> 19:55.838
+can start to migrate from one feature, such as the motor sequence, to another feature, which is perhaps one's stance and another sequence, component of the sequence, which would be the result that's one getting on a trial to trial basis. Some of you may be wondering about speed of movement. There are some data, meaning some decent papers out there, showing that ultra slow movements, performing a movement
+
+19:55.970 --> 20:04.830
+essentially in slow motion can be beneficial for enhancing the rate of skill learning. However,
+
+20:05.666 --> 20:35.198
+at least from my read of the literature, it appears that ultra slow movements should be performed after some degree of proficiency has already been gained in that particular movement. Now that's not the way I would have thought about it. I would have thought, well, you know, if you're learning how to do a proper kick or a punch in martial arts or something that ultra slow movements at first are going to be the way that one can, you know, best learn how to perform a movement. And then you just gradually increase the speed. And it turns out that's not the case.
+
+20:35.810 --> 21:04.510
+And I probably should have known that. And you should probably know that because it turns out that when you do ultra slow movements, two things aren't available to you. One is the proprioceptive feedback is not accurate because fast movements of limbs are very different than slow movements of limbs. So you don't get the opportunity to build in the proprioceptive feedback. But the other reason why it doesn't work is that it's too accurate. You don't generate errors. And so,
+
+21:04.674 --> 21:24.926
+The data that I was able to find showed that very slow movements can be beneficial if one is already proficient in a practice. When should you start to introduce slow learning? Well, it appears that once you're hitting success rates of about 25 or 30%, that's where the super slow movements can start to be beneficial.
+
+21:25.314 --> 21:53.598
+If you're still performing things at a rate of five or 10% correct and the rest are errors, then the super slow movements are probably not going to benefit you that much. Also super slow movements are not really applicable to a lot of things. For instance, you could imagine throwing a dart super slow motion, but if you actually try and throw an actual dart, the dart's just going to fall to the floor, obviously. Some of you already have a fair degree of proficiency, of skill in a given practice.
+
+21:54.274 --> 22:17.566
+or sport or instrument. And if you're in this sort of advanced intermediate or advanced levels of proficiency for something, there is a practice that you can find interesting data for in the literature, which involves metronoming. So this you'll realize relates to generating
+
+22:17.730 --> 22:47.326
+You can use a metronome to set the cadence of your repetitions. And if you do that, what athletes find is they can perform more repetitions, they can generate more output, you can increase speed. A number of really interesting things are being done with auditory metronoming. There are actually some wild experiments out there. You know, there's a world championship of cup stacking. There's a young lady who I saw could take all these cups spread out on a table and basically just stack them into the perfect pyramid in the least amount of times all the kids go wild. This is something I've never,
+
+22:47.426 --> 23:16.862
+thought to pursue and frankly never will pursue unless my life depends on it for some reason, but it's really impressive. And if you look at the sequence, because these have been recorded, you can look this up on YouTube. What you'll find is that these expert cup stackers, it's just all about error elimination, but there too metronoming and auditory cues can actually cue them to pick up the cups faster than they would ordinarily and to learn to do that. Now, what's interesting about this and is cool is that your attention is now
+
+23:17.090 --> 23:47.038
+harnessed to the tone, to the metronome, not necessarily to what you're doing in terms of the motor movement. And so really you need a bit of proficiency. Again, this is for people who are intermediate or advanced, intermediate or advanced, but what you're essentially doing is you're creating an outside pressure, a contingency so that you generate again, more errors. So it's all about the errors that you get. And if you harness your attention to this outside contingency, this metronome that's firing off and saying, now go, now, go, now, go.
+
+23:47.202 --> 24:16.222
+not only can you increase the number of repetitions, errors, and successes, but for some reason, and we don't know why, the regular cadence of the tone, of the metronome, and the fact that you are anchoring your movements to some external force, to some external pressure or cue, seems to accelerate the plasticity and the changes and the acquisition of skills beyond what it would be if you just did the same number of repetitions without that outside pressure.
+
+24:16.610 --> 24:36.510
+I'd like to take a quick break and acknowledge one of our sponsors, Matina. Matina makes loose leaf and ready to drink yerba mate. Now I've often discussed yerba mate's benefits, such as regulating blood sugar, its high antioxidant content, the ways it can improve digestion and its possible neuroprotective effects. It's for all those reasons that yerba mate is my preferred source of caffeine.
+
+24:36.642 --> 24:59.102
+I also drink yerba mate because I simply love the taste. And while there are a lot of different choices out there of yerba mate drinks, my personal favorite far and away is Matina. It's made of the highest quality ingredients, which gives it a really rich, but also a really clean taste. So none of that tannic aftertaste. In fact, given how absolutely amazing Matina tastes and their commitment to quality, I decided to become a part owner in the company last year.
+
+24:59.330 --> 25:16.638
+In particular, I love the taste of Matina's canned zero sugar cold brew yerba mate, which I personally helped develop. I drink at least three cans of those a day now. I also love their loose leaf Matina, which I drink every morning from the gourd. So I add hot water and sip on that thing and I'll have some cold brews throughout the morning and early afternoon.
+
+25:16.770 --> 25:45.726
+I find it gives me terrific energy all day long and I'm able to fall asleep perfectly well at night, no problems. If you'd like to try Matina, you can go to drinkmatina.com slash Huberman. Right now, Matina is offering a free one pound bag of loose leaf yerba mate tea and free shipping with the purchase of two cases of their cold brew yerba mate. Again, that's drinkmatina.com slash Huberman to get a free bag of yerba mate loose leaf tea and free shipping. Let's talk about visualization and mental rehearsal
+
+25:46.690 --> 26:15.806
+I've been asked about this a lot, and I think it relates back to that kind of a matrix Hollywood idea that we can just be embedded with a skill. But the question we're going to deal with today is, does it help? Does it let you learn things faster? And indeed the answer appears to be yes, it can. However, despite what you've heard, it is not as good. It is not a total replacement for physical performance itself.
+
+26:16.066 --> 26:44.286
+Okay, so I'm going to be really concrete about this. I hear all the time that just imagining contracting a muscle can lead to the same gains as actually contracting that muscle. Just imagining a skill can lead to the same increases in performance as actually executing that skill. And that's simply not the case. However, it can supplement or support physical training and skill learning in ways that are quite powerful.
+
+26:44.386 --> 27:11.550
+Mental rehearsal, closing one's eyes typically, and thinking about a particular sequence of movement and visualizing it in one's quote unquote mind's eye creates activation of the upper motor neurons that's very similar, if not the same as the actual movement. And that makes sense because the upper motor neurons are all about the command for movement. They are not the ones that actually execute the movement, okay?
+
+27:11.682 --> 27:39.550
+Remember, upper motor neurons are the ones that generate the command for movement, not the actual movement. The ones that generate the actual movement are the lower motor neurons and the central pattern generators. So the point is, if you want to use visualization training, great, but forget the idea that visualization training is as good as the actual behavior. You hear this all the time. People say, do you know that if you imagine an experience to your brain and to your body, it's exactly the same as the actual experience?
+
+27:39.650 --> 28:04.254
+Absolutely not. This is not the way the nervous system works. I'm sorry, I don't mean to burst anybody's bubble, but your bubble is made of myths. And the fact of the matter is that the brain, when it executes movement, is generating proprioceptive feedback. And that proprioceptive feedback is critically involved in generating our sense of the experience and in things like learning. So I don't say this,
+
+28:04.834 --> 28:31.710
+because I don't like the idea that visualization couldn't work. In fact, visualization does work, but it doesn't work as well. It doesn't create the same milieu, the same chemical milieu, the same environment as actual physically engaging in the behavior, the skill, the resistance training, et cetera. Many of you are probably asking, what can I take in order to accelerate skill learning? Well, the conditions are going to vary.
+
+28:31.906 --> 28:54.846
+but motivation is key. You have to show up to the training session motivated enough to focus your attention and to perform a lot of repetitions in the training sequence. That's just a prerequisite, all right? There's no pill that's going to allow you to do fewer repetitions and extract more learning out of fewer repetitions. It's actually more a question of what are the conditions that you can create for yourself
+
+28:55.458 --> 29:09.374
+such that you can generate more repetitions per unit time. I think that's the right way to think about it. What are the conditions that you can create for yourself in your mind and in your body that are going to allow you to focus? There are a few compounds that I think worth
+
+29:09.538 --> 29:36.446
+are worth mentioning because of their ability to improve the actual physical performance, the actual execution of certain types of movements. And some of these have also been shown to improve cognitive function, especially in older population. So I'd be remiss if I didn't at least mention them. I'm only going to mention one today. In fact, the one that's particularly interesting and for which there really are a lot of data is alpha GPC. And I'm going to attempt to,
+
+29:37.314 --> 29:59.070
+pronounce what alpha GPC actually is. It's alpha glycerophosphocholine, right? Alpha GPC, alpha glycerophosphocholine. See, if I keep doing it over and over repetitions, alpha glycerophosphocholine. There, I made an error. Okay, so the point is that alpha GPC, which is at least in the United States is sold over the counter, typically is taken in
+
+29:59.746 --> 30:26.590
+dosages of about 300 to 600 milligrams, that's a single dose, or have been shown to do a number of things that for some of you might be beneficial. One is to enhance power output. So if you're engaging in something like resistance training or sprinting or something where you have to generate a lot of power, well then in theory, alpha GPC could be beneficial to you. A study noted a 14% increase in power output
+
+30:26.882 --> 30:43.614
+that's pretty substantial, 14% if you think about it, but it wasn't like a doubling or something of that sort. So as you can see, things like alpha GPC in particular, when they are combined with low levels of caffeine can have these effects of improving power output, can improve
+
+30:44.034 --> 31:10.974
+growth hormone release can improve fat oxidation. All these things in theory can support skill learning, but what they're really doing is they're adjusting the foundation upon which you are going to execute these many, many repetitions. Okay. The same thing would be said for caffeine itself. If that's something that motivates you and gets you out of a chair to actually do the physical training, then that's something that can perhaps improve or enhance the rate of skill learning and how well you
+
+31:11.138 --> 31:35.934
+retain those skills. Now on a previous episode, I talked about, and this was the episode on epinephrine, on adrenaline, I talked about how for mental, for cognitive learning, it makes sense to spike epinephrine, to bump epinephrine levels up, adrenaline levels up after cognitive learning. For physical learning, it appears to be the opposite, that
+
+31:36.034 --> 32:06.000
+If caffeine is in your practice, or if you decide to try alpha GPC, that you would want to do that before the training, take it before the training, use it, its effect should extend into the training, presumably throughout. A lot of the questions I get are about how different protocols and things that I described start to collide with one another. So let's say for instance, you go to bed at 1030 and you're going to do your skill training at 930. Well, taking a lot of caffeine then is not going to be a good idea because it's going to
+
+32:06.000 --> 32:34.366
+So I'm not here to design the perfect schedule for you because everyone's situations vary. So the things to optimize are repetitions, failures, more repetitions, more failures at the offset of training, having some idle time that could be straight into sleep, or it could be simply letting the brain just go idle for five to 10 minutes, me not focusing on anything, not scrolling social media, not emailing, not posting,
+
+32:34.498 --> 32:58.718
+but ideally not even talking to somebody, just lying down or sitting quietly with your eyes closed, letting those motor sequences replay. Use things like metronoming, where you're cueing your attention to some external cue, some stimulus, in this case, an auditory stimulus, most likely, and trying to generate more repetitions per unit time. So you now are armed with a lot of information about how you generate movement and
+
+32:58.818 --> 33:12.254
+I like to think that you're also armed with a lot of information about how to design protocols that are optimized for you, or if you're a coach for your trainees in order to optimize their learning of skills
+
+33:12.770 --> 33:37.246
+of various kinds. And I should say that for those of you that are short on time or have limited amounts of time, 10 minutes of maximum repetitions, maximum focus, skill learning work is going to be very beneficial. It's really about the density of training inside of a session. So I think you should let the, you know, work toward maximal or near maximal density of repetitions and failures provided there are failures you can perform safely.
+
+33:37.634 --> 34:00.030
+in order to accelerate skill learning and don't let some arbitrary, or in this case, the ultradian constraint prevent you from engaging in that practice. In other words, get the work in, get as much work done as you can per unit time. And based on the science, based on things that I've seen, based on things that I'm now involved in with various communities, you will see the skill improve vastly
+
+34:00.194 --> 34:22.111
+at various stages. Sometimes it's a little bit stutter start. It's not always a linear improvement, but you will see incredible improvement in skill. Today, we talked all about skill learning. I hope that you'll consider the information. You might even decide to try some of these tools. If you do, please let us know your results with them. Give us feedback in the comments. And as always, thank you for your interest in science.

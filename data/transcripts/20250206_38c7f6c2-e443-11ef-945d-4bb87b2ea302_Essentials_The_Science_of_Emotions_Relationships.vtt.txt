@@ -1,0 +1,307 @@
+WEBVTT
+
+00:00.226 --> 00:25.694
+Welcome to Huberman Lab Essentials, where we revisit past episodes for the most potent and actionable science-based tools for mental health, physical health, and performance. My name is Andrew Huberman, and I'm a professor of neurobiology and ophthalmology at Stanford School of Medicine. So let's talk about emotions. Emotions are a fascinating and vital aspect of our life experience.
+
+00:25.858 --> 00:48.126
+It's fair to say that emotions make up most of what we think of as our experience of life. Even the things we do, our behaviors and the places we go and the people we end up encountering in our life, all of that really funnels into our emotional perception of what those things mean, whether or not they made us happy or sad or depressed or lonely or
+
+00:48.354 --> 01:15.742
+were awe inspiring. Now, one thing that is absolutely true is that everyone's perception of emotion is slightly different. Meaning your idea of happy is very likely different than my idea of what a state of happiness is. And we know this also for color vision, for instance, even though the cells in your eye and my eye that perceive the color red are identical right down to the genes that they express,
+
+01:15.874 --> 01:43.134
+we can be certain based on experimental evidence and what are called psychophysical studies, that your idea of the most intense red is going to be very different than my idea of the most intense red. If we were given a selection of 10 different reds and asked which one is most intense, which one looks most red. And that seems crazy. You would think that something as simple as color would be universal and yet it's not. And so we need to agree at the outset
+
+01:43.234 --> 02:12.350
+that emotions are complicated and yet they are tractable. They can be understood. And today we're going to talk about a lot of tools to understand what emotions are for you to understand what your emotional states mean and what they don't mean. And in doing that, that will allow you to place value on whether or not you should hold an emotional state as true or not true, whether or not it has meaning or it doesn't, as well as whether or not the emotions of others are important to you in a given context.
+
+02:12.898 --> 02:34.110
+We're going to talk a lot about development. In fact, we're going to center a lot of our discussion today around infancy and puberty. We're also going to talk about tools for enhancing one's emotional range and for navigating difficult emotional situations. I'm not a clinical psychologist, I'm not a therapist, but I do have some background in psychology and
+
+02:34.242 --> 03:04.094
+Today, I'm going to be drawing from the psychology greats, not me, but from the greats of psychology who studied emotion, who studied emotional development and linking that to the neuroscience of emotion, because nowadays we understand a lot about the chemicals and the hormones and the neural circuits in the brain and body that underlie emotion. So while there's no one single universally true theory of emotion, at the intersection of many of the existing theories, there are really some ground truths. I'd like to take a quick break and thank our sponsor,
+
+03:04.290 --> 03:09.310
+Eight Sleep. Eight Sleep makes smart mattress covers with cooling, heating, and sleep tracking capacity.
+
+03:09.442 --> 03:39.408
+Now, I've spoken before on this podcast about the critical need for us to get adequate amounts of quality sleep each night. Now, one of the best ways to ensure a great night's sleep is to ensure that the temperature of your sleeping environment is correct. And that's because in order to fall and stay deeply asleep, your body temperature actually has to drop by about one to three degrees. And in order to wake up feeling refreshed and energized, your body temperature actually has to increase about one to three degrees. Eight Sleep makes it very easy to control the temperature of your sleeping environment by allowing you to program the temperature of your
+
+03:39.408 --> 04:04.062
+mattress cover at the beginning, middle, and end of the night. I've been sleeping on an Eight Sleep mattress cover for nearly four years now, and it has completely transformed and improved the quality of my sleep. Eight Sleep recently launched their newest generation of the Pod Cover called the Pod 4 Ultra. The Pod 4 Ultra has improved cooling and heating capacity. I find that very useful because I like to make the bed really cool at the beginning of the night, even colder in the middle of the night, and
+
+04:04.194 --> 04:32.254
+warm as I wake up. That's what gives me the most slow wave sleep and rapid eye movement sleep. It also has snoring detection that will automatically lift your head a few degrees to improve your airflow and stop your snoring. If you'd like to try an Eight Sleep mattress cover, go to eightsleep.com slash Huberman to save up to $350 off their Pod 4 Ultra. Eight Sleep currently ships in the USA, Canada, UK, select countries in the EU and Australia. Again, that's eightsleep.com slash Huberman.
+
+04:32.802 --> 04:51.102
+If we want to understand emotions, we have to look at where emotions first develop. And the rule that every good neuroanatomist knows is that if you want to understand what a part of the brain does, you have to address two questions. You have to know what connections does that brain area make? And you need to know
+
+04:51.298 --> 05:18.494
+what's called the developmental origin of that structure. What are the brain areas for emotion? And nowadays there's a lot of debate about this. For years, it was thought that there might be circuits, meaning connections in the brain that generate the feeling of being happy or circuits that generate the feeling of being sad, et cetera. That's been challenged. And yet I think there's good evidence for circuits in the brain, such as limbic circuits and other circuits that shift our overall states
+
+05:18.914 --> 05:46.142
+or our overall level of alertness or calmness, or whether or not they bias us toward viewing the outside world or paying more attention to what's going on inside our bodies. But the important thing to understand is that emotions do arise in the brain and body. And if we want to understand how emotions work, we have to look how emotions are built. And they are built during infancy, adolescence, and puberty.
+
+05:46.338 --> 06:14.782
+And then it continues into adulthood, but the groundwork is laid down early in development when we are small children. You were born into this world without really any understanding of the things around you. Now, there are two ways that you can interact with the world and you're always doing them more or less to some degree at the same time. Those are interoception, paying attention to what's going on inside you, what you feel internally and exteroception, paying attention to what's going on
+
+06:14.914 --> 06:42.302
+outside you. Hold that in mind, please, because the fact that you're both interocepting and exterocepting is true for your entire life and it sets the foundation for understanding emotions. It's absolutely critical. As an infant, you didn't have any knowledge of what you needed. You didn't understand hunger, you didn't understand cold or heat or any of that. When you needed something, you experienced that as anxiety.
+
+06:42.434 --> 07:04.190
+You would feel an increase in alertness if you had to use the bathroom. You would feel an increase in alertness if you were hungry. And you would vocalize, you would cry out, you would act agitated, you might coo, you might do a number of different things, and then your caregiver, whoever that might've been, would respond to that. So this is actually really important to understand that a baby
+
+07:04.450 --> 07:32.830
+when you were a baby and when I was a baby, we didn't have any sense of the outside world, except that it responded to our acts of anxiety, essentially. All developmental psychologists agree that babies lack the ability to make cognitive sense of the outside world. But in this feeling of anxiety and registering one's own internal state, and then crying out to the outside world, either through crying or subtle vocalizations, or even just cooing, making some noise,
+
+07:32.962 --> 07:59.966
+we start to develop a relationship with the outside world in which our internal states, our shifts in anxiety, start to drive requests and people come and respond to those requests. And this gets to the basis of what emotions are about, which are emotions are really about forming bonds and being able to predict things in the world. And at this point, I actually just want to pause and mention a really
+
+08:00.226 --> 08:24.446
+interesting tool that is trying to address this question of what are emotions and what do they consist of that you can use if you like this is an app i didn't develop it i don't have any relationship to them but the app was developed by people at yale and it's called mood meter what they're trying to do is put more nuance more subtlety on our words and our language for for emotions and be able to
+
+08:24.770 --> 08:42.526
+to allow you to predict how you're going to feel in the future. I'm on the app right now, and I know you can't see this, but it's called Mood Meter. You know, it says to me, hi, Andrew, how are you right now? And I clicked a little tab that says I feel, and I can either pick high energy and unpleasant,
+
+08:42.690 --> 09:11.678
+high energy and pleasant, low energy, unpleasant, or low energy, pleasant. And I would say right now, I feel high energy, pleasant. So I just revealed to you how I feel. So I click on that and then it gives you a gallery of colors and you just move your finger to the location where you think it matches most. And as you do that, little words pop up. So say motivated, cheerful, inspired. I would say I'm feeling right now cheerful. So you click that and then you just go to the next window and it just says, what are you doing?
+
+09:11.970 --> 09:31.070
+It feels like play to me, but I'm going to call it work. And then that's it. And then what it does is it basically starts to collect data on you. You're giving it information and it starts to link that to other features that you allow it access to if you like. And it starts helping you be able to predict how you're going to feel at different times a day.
+
+09:31.202 --> 09:58.686
+It points to a couple of really interesting features, which is that we don't really have enough language to describe all the emotional states. And yet there's some core truths to what makes up an emotion. This can really help people, kids and adults understand better what they're feeling and why, and when best to engage in certain activities and thankfully when best to avoid certain activities too. So the way this works is the following.
+
+09:59.682 --> 10:28.958
+You need to ask yourself at any point, you could do this right now if you like, what's your level of autonomic arousal? Autonomic arousal is just the continuum, the range of alert to calm. So if you're in a panic right now, you are like 10 out of 10 on the arousal scale. If you're asleep, you're probably not comprehending what I'm saying, although maybe a little bit, but let's say you're very drowsy, you might be at a one or a two.
+
+10:29.122 --> 10:54.014
+And then there's this other axis, this other question, which is what we call valence. Now, valence is a value. Do you feel good or bad? I would say I feel pretty good right now on a scale of one to 10. I'm like, I don't know, I feel like a seven. So I'm alert and I feel pretty good. And then there's a third thing, which is how much we are interocepting and how much we are exterocepting.
+
+10:54.242 --> 11:18.430
+All right, so how much our attention is focused internally on what we're feeling and how much it's focused externally. And this is always going to be in a dynamic balance. So for instance, if you're really, really stressed, oftentimes that puts you in a position to be really in touch with what's going on in your body. If you start having a lot of somatic, a lot of bodily sensations, like your heart is beating so fast that you can't ignore it,
+
+11:18.562 --> 11:47.294
+then you're really strongly interoceptive. So there's three things, how alert or sleepy you are, that's one, how good or bad you feel, that's two, and then whether or not most of your attention is directed outward or whether or not it's directed inward. And much of what we call emotions are made up by those three things. Let's return to the infant. There's the baby in the crib. It's mostly interocepting. As caregivers bring it what it needs, you hope, milk,
+
+11:47.522 --> 12:14.494
+diaper changes, et cetera, a warm blanket if it's cold, pull off the blanket when the baby's fussing and it's too warm, because babies get too warm also, it starts to exterocept. The baby starts to look into the outside world and start making predictions. It starts wondering how much it needs to cry or predicting, well, if I cry like a little bit, then mom comes over and I get my milk.
+
+12:14.754 --> 12:44.254
+Babies are starting to evaluate and do all this, but they're not doing it consciously. They're doing this in order to relieve anxiety. As a young creature, an infant and young toddler, you were mainly focused inward and you started to understand what was going on outward as a way of predicting what would bring you relief, what would remove your anxiety. And that's where the fundamental rules of your experience, your emotional experience were laid down. I'd like to take a quick break and acknowledge one of our sponsors,
+
+12:44.482 --> 12:57.854
+BetterHelp. BetterHelp offers professional therapy with a licensed therapist carried out entirely online. I've been doing weekly therapy for well over 30 years. Initially, I didn't have a choice. It was a condition of being allowed to stay in school.
+
+12:58.018 --> 13:19.326
+But pretty soon I realized that therapy is an extremely important component to overall health. In fact, I consider doing regular therapy just as important as getting regular exercise. There are essentially three things that great therapy provides. First of all, it provides a good rapport with somebody that you can trust and talk to about all issues that you're concerned about. Second of all, it can provide support in the form of emotional support or
+
+13:19.426 --> 13:36.766
+directed guidance. And third, expert therapy can provide useful insights. With BetterHelp, they make it very easy to find an expert therapist with whom you resonate with and can provide those benefits that come through effective therapy. Also, because BetterHelp allows therapy to be done entirely online, it's very time efficient.
+
+13:36.866 --> 14:01.790
+It's easy to fit into a busy schedule. There's no commuting to a therapist's office or sitting in a waiting room or anything like that. You simply go online and hold your appointment. If you would like to try BetterHelp, go to betterhelp.com slash Huberman to get 10% off your first month. Again, that's betterhelp.com slash Huberman. So now let's talk about what kind of baby you were because that actually informs your emotionality now.
+
+14:02.626 --> 14:29.278
+These are classic, they're actually famous experiments done by Bowlby and Ainsworth. This is this classic experiment of the, what was called the strange situation task in which, and I'm describing it very coarsely here, I realize, but a mother and child come into the laboratory, the baby and the mother or father play together for a bit, and then the mother leaves.
+
+14:30.786 --> 15:00.030
+The mother leaves for some period of time and then comes back. And the research is devoted to understanding the response of the child when the caretaker, the mother or the father returns. Bowlby and Ainsworth and many of their scientific offspring and colleagues identified at least four patterns that babies display when their caretaker returns. And they group these into group A, B,
+
+15:00.130 --> 15:28.638
+C, D, so much so that the kids were referred to as A babies, B babies, C babies, or D babies. The first babies are the A babies. When their caretaker would return, the infant would respond with happiness, with what looked like delight. They would go to the caretaker, they seemed happy. These are referred to as secure attached kids. The B babies, as they're called, were less likely to seek comfort from their caregiver
+
+15:28.930 --> 15:51.390
+when the caregiver would return. So they would sometimes continue to play with their toys or they would be with the, they had an adult in the room while the parent was gone, they would stay with them. These were referred to as avoidant babies. The C babies would respond to the return of the caregiver with acts of annoyance. They seemed kind of angry.
+
+15:51.522 --> 16:17.022
+And those were referred to as ambivalent babies. And then the third category, the D babies were the disorganized babies. The child avoided interactions with everyone and their behavior didn't really change whether or not the caregiver was there or not. This work, this classic work opened up a huge set of important questions that related to what is the reestablishment of the bond really about? I mean, what's actually being,
+
+16:17.250 --> 16:46.398
+figured out here is not whether or not there are four categories of babies, that's interesting, but it presumably is more interesting to focus on what is it that defines a really good bond, a secure attachment or an insecure attachment or an avoidant attachment. And the four things are gaze, literally eye contact, vocalizations, so what we say and how we say it, affect,
+
+16:46.786 --> 17:16.126
+or emotion, so the way that we express, you know, crying, smiling, et cetera, and touch. But gaze, vocalization, affect, and touch are really the core of this thing that we call social bonds and emotionality. And it's clear from most all of the theories of emotional health that an ability to recognize when your own internal state is being driven primarily by external events
+
+17:16.450 --> 17:40.350
+as important for being able to emotionally regulate, right? People who are constantly being yanked around by the external happenings in the world, you would say are emotionally labile. They are not in control of their emotions. Even if they're calm all the time, if that calmness only arrives because they're in a placid environment and then you put a cracker in that environment and they freak out, well then they're not really
+
+17:40.450 --> 18:09.470
+So how much the outside environment disrupts your internal environment has everything to do with this balance of interoception and extra reception. And it very likely has roots in whether or not you were secure attached or insecure attached, disorganized or ambivalent as a baby. So while we can't travel back in time, there is an exercise that you can do to address at least in this moment, whether or not you have a bias for extra reception or a bias for interoception.
+
+18:10.210 --> 18:34.238
+If you close your eyes right now and concentrate on the contact of any portion of your body and trying to bring as much of your attention to that point of contact as possible. And then from there, you're going to move your attention even more deeply into say the sensation of what's going on in your gut. Are you full? Are you empty? Are you hungry? Are you not?
+
+18:34.370 --> 18:51.038
+Is your heart beating? At what rate? What's the cadence of your breathing? Basically bringing your focus and attention to everything at the surface of your skin and inward. So I'm going to do a rare thing on the Huberman Lab podcast. I'm going to introduce about five to eight seconds of silence in order to allow you to do that a little bit.
+
+19:01.122 --> 19:29.662
+Now try and do something that for most people actually is a little bit harder, which is to purely exterocept. Put your eyes or your ears or both on anything in your immediate space. I would say, look across the room, pick a panel on the wall or a leg of a table or something and try and bring as much of your attention to that as possible. And again, I'll take about five seconds of silence to allow you to exterocept.
+
+19:37.442 --> 20:05.662
+Okay, so what you probably found is that you were able to do that, but that some degree of interoception is maintained. It's hard to place 100% of your attention on something externally, unless it's really exciting, really novel. If you've ever watched a really great movie, presumably you're extracepting more than you're interocepting until something exciting happens and then you feel something. You're actually tethering your emotional experience to something external. And now you can also...
+
+20:05.922 --> 20:21.598
+do this dynamically. You can decide to focus internally and then externally. You can decide to split it 50%, 50% or 70, 30. One can develop, you can develop a heightened ability to do this and
+
+20:21.986 --> 20:48.094
+The power of doing that is actually that when you are in environments where you feel like you're focused too much internally and you'd like to be focused more externally, you can actually do that deliberately. But as you've noticed, it takes work. These exercises are really what are at the core of these development of emotional bonds. Because as we mentioned before, these four things, the gaze, vocalization, touch, and affect, those,
+
+20:48.354 --> 21:15.582
+are happening very dynamically. So if somebody winks at you, you're paying attention to their wink, but then you also notice how you feel. This is very dynamic. So if it seems overwhelming to try and interocept and exterocept and then shift the balance, you do that all the time. Your brain and nervous system are fantastic at doing this. Now, some people have a very hard time breaking out of a very strongly interoceptive mode. Some people have a harder time breaking out of their exteroceptive mode.
+
+21:16.322 --> 21:35.038
+It's very interesting to note the extent to which we have biases in how interoceptive or exteroceptive we are. Remember those three axes that we talked about earlier, you have valence, good or bad, you have alertness, alert or calm, and you have interoceptive or exteroceptive bias.
+
+21:35.202 --> 21:53.214
+Early in development, you start off with this interoceptive bias. You are starting to develop expectations, predictions about how the outside world is going to work. And you are trying to figure out the reliability of outside events and people and where things are reliable.
+
+21:53.378 --> 22:17.342
+when people are reliable, we are able to give up more of our interoception. There's literally trust that our interoceptive needs, our internal needs will be met through bonds and actions of others. And this starts to veer toward the discussion about neglect and trauma. We are going to devote entire episodes, probably an entire month to trauma and PTSD, but this is
+
+22:17.762 --> 22:42.078
+those have roots in what we're talking about now. And it's important to internalize and understand what we're talking about now in order to get the most out of those future conversations. So now I want to just pause, just shelve the discussion about interoception, exteroception for a moment. And I want to talk about what is arguably the second most, if not equally important aspect of your development
+
+22:42.210 --> 23:04.062
+as it relates to emotionality and as it relates to this, what I call trust, but this ability to predict whether or not things in the outside world are reliable or not reliable in terms of their ability to help you meet your interoceptive needs. And that period is puberty. I'd like to take a quick break and acknowledge our sponsor, AG1.
+
+23:04.194 --> 23:34.160
+AG1 is a vitamin mineral probiotic drink that also includes prebiotics and adaptogens. As somebody who's been involved in research science for almost three decades and in health and fitness for equally as long, I'm constantly looking for the best tools to improve my mental health, physical health, and performance. I discovered AG1 way back in 2012, long before I ever had a podcast or even knew what a podcast was, and I've been taking it every day since. I find that AG1 greatly improves all aspects of my health. I simply feel much better when I take it.
+
+23:34.160 --> 24:03.902
+it. AG1 uses the highest quality ingredients in the right combinations, and they're constantly improving their formulas without increasing the cost. Whenever I'm asked if I could take just one supplement, what would that supplement be? I always say AG1. If you'd like to try AG1, you can go to drinkag1.com slash Huberman to claim a special offer. Right now, they're giving away five free travel packs plus a year's supply of vitamin D3 K2. Again, that's drinkag1.com slash Huberman to claim that special offer.
+
+24:04.386 --> 24:25.822
+So up until now, we've been talking mainly about psychology, not a lot of biology, not a lot of mechanism. And now we're going to transition into talking about mechanism, hormones, receptors, et cetera. Puberty is a absolute biological event. It has a beginning and it has a specific definition, which is the transition into reproductive maturity.
+
+24:25.986 --> 24:54.782
+So there are a lot of hormonal changes. Yes, there are also a lot of brain changes and most people don't realize it, but the brain changes occur first. The brain turns on the hormone systems that allow puberty to occur. One of the more interesting molecules that triggers puberty in all individuals is something called Kispeptin, K-I-S-S-P-E-P-T-I-N, Kispeptin. Kispeptin is made by the brain and it stimulates
+
+24:54.978 --> 25:23.006
+large amounts of a different hormone called GNRH, gonadotropin releasing hormone to be released. Gonadotropin releasing hormone then causes the release of another hormone called luteinizing hormone or LH, which travels in the bloodstream and stimulates the ovaries of females to produce estrogen and the testes of males to produce testosterone. Now this is interesting because at this point, the testes
+
+25:23.266 --> 25:49.470
+in males start churning out tons of testosterone in order to trigger the development of secondary sexual characteristics, body hair and all the others, deepening of voice, et cetera. And in females, estrogen is doing various other things, breast development, et cetera. So that's how puberty happens at the biological level, gets triggered by leptin and kispeptin. And then this young child is now a different creature.
+
+25:49.602 --> 26:14.654
+to some extent, not just because they're reproductively competent, of course, but because there's a shift in a number of the things that underlie these social bonds. There's a marked shift in a number of the things that allow children and adults to engage in predictive behavior about each other. And most of what consumes the minds and the people
+
+26:15.074 --> 26:44.542
+waking hours of adolescents and children who have gone through puberty and going through puberty is questions about how they relate to social structures, who they can rely on and how they can make reliable predictions in the world now that they have more agency, that they are physically changed. In fact, you could argue that puberty is the fastest rate of maturation that you'll go through at any point in your life. It's the largest change that you'll go through at any point in your life in terms of who you are
+
+26:44.962 --> 27:12.446
+because your biology is fundamentally changed at the level of your brain and your bodily organs, all your organs from the skin inward. So I want to visit a little bit of the research about some of the core needs that occur during puberty and adolescence. So there's a terrific review article that was published in the journal Nature about the biology of adolescence and puberty, as well as
+
+27:13.250 --> 27:33.950
+some of the core needs and demands that have to be met for successful emotional maturation during that time. We will provide a link to that, but I just want to highlight a few of the things that they place in the final table. I don't want to go through all the results right now because you could do that on your own if you like. They mainly highlight a lot of the
+
+27:34.082 --> 28:03.806
+changes in neurons and neural circuits. For instance, I'll just highlight one. There's a connection between the dopamine centers in the brain and an area of the brain that's involved in emotion and dispersal. Dispersal is very interesting. What you observe in animals and humans is that around the end of adolescence and during the transition to puberty, both because of changes in the brain and changes in hormones, there's an intense desire
+
+28:03.938 --> 28:27.422
+on the part of the child to get further and further away from primary caregivers. Mostly there's a desire to start spending more time with friends, more time with peers and less time with adults. So there's something about these hormones that don't just allow sexual reproduction. They don't just change the brain and bodily organs in the shape of us. They also,
+
+28:27.906 --> 28:52.350
+bias us towards dispersal, getting further and further away from primary caregivers in particular. And what's interesting is during puberty, there's increased connection, connectivity as we call it, between the prefrontal cortex, which is involved in motivation and decision-making, being able to suppress action for making long-term goals possible, as well as dopamine centers
+
+28:52.450 --> 29:15.966
+and the amygdala. So there's this really broad integration and testing. I think this is the key element here, testing of circuits for emotions and reward as they relate to decisions. And I think that's useful because when you look at the behavior of adolescents and teens, they are testing social interactions. They are testing physical interactions with the world. Oftentimes they're engaging in unsafe behavior and
+
+29:16.866 --> 29:43.742
+You can't just, I would never try and justify that with the underlying neurology, but the neuroscience points to increased connectivity between areas of the brain that are related to emotionality and to threat detection like the amygdala, but also reward. So it's a time of testing behaviorally how different behaviors lead to success or not. It's how different behaviors lead to fear states or not.
+
+29:43.906 --> 30:05.086
+you can start to map the neurology onto some of this emotional exploration. I do realize that this episode is about emotions. Puberty is a time in which the internal state of the person or the animal is being sampled and tested against different extra receptive events. Only now they are able to guide those events with more agency.
+
+30:05.218 --> 30:32.126
+the child or the adolescent is now able, the teen really, is able to now sample many, many more extra receptive events through behavior. And so adolescence and puberty is really seen as the period of development in which one self samples for these two elements that we talked about at the beginning, which are how do I form bonds and how do I make predictions about what will make me feel good
+
+30:32.866 --> 30:58.974
+at a level of interoception. But in terms of the biology, it's clear that there's this stage of development where more autonomy, more physical capability is triggered by these hormone changes in the brain and these peptide changes in the brain and body. And that nonetheless brings us back to the exact same model that we started with in infancy of alert or calm, feel good or feel bad.
+
+30:59.330 --> 31:17.182
+primarily exterocepting, primarily interocepting. So I keep going back to this. I'm sort of like a repeating record on that because the same core algorithm, the same core function is at play throughout the lifespan. And that's a useful framework in my opinion, because it allows you to sort through
+
+31:17.314 --> 31:42.398
+all the data and information that's out there about, well, this area, the stria terminalis is active, or the basolateral amygdala is active, or gray matter thickening, or this hormone or that hormone, and return to a kind of kernel of certainly not exhaustive truth, it doesn't cover all aspects of emotionality, but at least establishes some groundwork from which you can start to evaluate how different behaviors might or might not make sense.
+
+31:42.498 --> 32:06.782
+how certain emotional responses might or might not make sense, regardless of the age of the person or the organism. I'd like to take a quick break and thank one of our sponsors, Element. Element is an electrolyte drink that has everything you need and nothing you don't. That means the electrolytes, sodium, magnesium, and potassium in the correct ratios, but no sugar. We should all know that proper hydration is critical for optimal brain and body function.
+
+32:06.882 --> 32:36.848
+In fact, even a slight degree of dehydration can diminish your cognitive and physical performance to a considerable degree. It's also important that you're not just hydrated, but that you get adequate amounts of electrolytes in the right ratios. Drinking a packet of Element dissolved in water makes it very easy to ensure that you're getting adequate amounts of hydration and electrolytes. To make sure that I'm getting proper amounts of both, I dissolve one packet of Element in about 16 to 32 ounces of water when I wake up in the morning, and I drink that basically first thing in the morning. I'll also drink a packet of Element dissolved
+
+32:36.848 --> 33:05.502
+water during any kind of physical exercise that I'm doing, especially on hot days when I'm sweating a lot and losing water and electrolytes. There are a bunch of different great tasting flavors of Element. I like the watermelon. I like the raspberry. I like the citrus. Basically, I like all of them. If you'd like to try Element, you can go to drinkelement.com slash Huberman to claim an Element sample pack with the purchase of any Element drink mix. Again, that's drinkelement spelled L-M-N-T. So it's drinkelement.com slash Huberman to claim a free sample pack.
+
+33:06.082 --> 33:31.134
+There's a theory of emotional development that I find particularly interesting, which is from Alan Shore at UCLA that talks about how most of our testing of bonds and relationships is this seesawing back and forth between very dopaminergic, so driven by dopamine or serotonergic, driven by serotonin states. And this starts with infant and mother or infant and father, healthy emotional development clearly
+
+33:31.778 --> 33:50.302
+begins with an ability for the caretaker and child to be in calm, peaceful, soothing, touch-oriented, eye-gazing type of behaviors. Those really drive serotonin, the endogenous opioid system, oxytocin, things that are very calming
+
+33:50.882 --> 34:02.558
+are centered around pleasure with the here and now, as well as excited states of what we're going to do next. There's actually a kind of characteristic sign of the dopaminergic interaction where both
+
+34:03.202 --> 34:26.814
+caretaker and child are wide-eyed, the pupils dilate, that's a signature of arousal. They get really excited. Oftentimes the baby will look away if it gets really excited. Those are signatures of dopamine release in the body. And in adolescence, these same things carry forward where their good bonds are achieved through hanging around, watching TV, just kind of playing video games
+
+34:27.074 --> 34:55.614
+texting together or talking, whatever it is that the soothing local activity happens to be, as well as adventure and things that are exciting. And so this kind of seesawing back and forth between the different reward systems seems to be the basis from which healthy emotional bonds are created. We can't have a complete conversation about emotions and bonds and social connection without talking about oxytocin. Oxytocin has come to such prominence in the last decade or so
+
+34:55.777 --> 35:24.542
+and seems to be everywhere. Anytime you hear a discussion about neuroscience in the brain or hormones in the brain, oxytocin is released in response to lactation in females. It is released in response to sexual interactions. It is released in response to non-sexual touch. It's released in males and females. And indeed it's involved in pair bonding
+
+35:24.642 --> 35:52.030
+and the establishment of social bonds in general. How it does that seems to be by matching internal state. It seems to both increase synchrony of internal state somehow, maybe it sets a level of calmness or alertness, that seems like a reasonable hypothesis, as well as raising people's awareness for the emotional state of their partner.
+
+35:52.546 --> 36:19.390
+And again, this brings us back to this alertness, calmness axis and this interoceptive, extraoceptive axis. In order to form good bonds, we can't just be thinking about how we feel. We also need to be paying attention to how others feel and we're evaluating a match. We're trying to see whether or not there seems to be some sort of synchrony between states and oxytocin both seems to increase that synchrony
+
+36:19.490 --> 36:31.678
+and increase the awareness for the emotional state of others. So here are some experiments that involve the administration of intranasal oxytocin. What's been reported is
+
+36:32.034 --> 36:59.070
+increase positive communication among couples. That study, just for those of you like, was published in Biological Psychiatry, which my psychiatry colleagues tell me is a fine journal. And the title is Intranasal Oxytocin Increases Positive Communication and Reduces the Stress Hormone Cortisol Levels During Couple Conflict. They have them fight with and without oxytocin. So interesting, very much in line with the idea that oxytocin is the quote unquote trust hormone.
+
+36:59.394 --> 37:24.766
+The other molecule that we make that's extremely important for social bonds and emotionality is one that we're going to talk about more in the month on hormones, and that's vasopressin. Vasopressin has effects on the brain directly. It actually creates feelings of giddy love. It also has very interesting effects on monogamous or non-monogamous behavior. This, again, we will revisit in the future, but there's a,
+
+37:24.994 --> 37:37.950
+beautiful set of experiments that have been done in a little rodent species called a prairie vole. It turns out there are two different populations of prairie voles. Some are monogamous. They always mate with the same other prairie vole. And some are...
+
+37:38.178 --> 38:04.254
+very robustly non-monogamous. They mate with as many other prairie bulls as they can. And it turns out that levels of vasopressin and or vasopressin receptor dictate whether or not they're monogamous or not. And there's actually some interesting evidence in humans when people report their behavior, assuming they're reporting it accurately, that vasopressin and vasopressin levels can relate to monogamy or non-monogamy in humans as well. We're going to talk about this in the month on hormones.
+
+38:04.354 --> 38:33.886
+If we're talking about the neuroscience of emotions, we have to talk about the vagus nerve. I described what the vagus nerve is in a previous episode. That's these connections between the body and the viscera, including the gut, the heart, the lungs, and the immune system, and the brain, and that the brain is also controlling these organs, so it's a two-way street. There's this big myth out there that I mentioned before that stimulating the vagus in various ways leads to calmness, that it's always going to calm you down, and that is false.
+
+38:33.986 --> 38:55.838
+Now, this is interesting in light of emotionality because of work that's been done by many groups, but in particular, I'm going to focus on the work of a colleague of mine, Carl Diceroth at Stanford, who's a psychiatrist, but has also developed a lot of tools to adjust the activity of neurons in real time using light and electrical stimulation and so forth.
+
+38:56.290 --> 39:23.038
+I'll refer you to an article in the New Yorker that was published about this a few years ago. I'm going to read a brief excerpt, but I'll put the link in the caption as well. He's talking to an extremely depressed, suicidal depressed patient who has a small device implanted that allows her to adjust her vagus nerve activity. They're in his office and they're talking and he asks her how she's doing. And she describes how she's been doing as,
+
+39:23.298 --> 39:42.270
+as quote unquote, going pancake, which for her just means totally laid out flat, not much going on. She talks about how she doesn't want to pursue a job, she's really depressed. And he says in, you know, typical good psychiatrist fashion, you know, well, that's a lot to think about. That's actually the quote.
+
+39:42.978 --> 40:06.110
+and they talk about her blood pressure, et cetera. And then she says, mood's been down, just spiraling down, talks about insomnia, bad dreams, low appetite. So this is severe depression. This is what we call major depression. And then she requests, can we please go up to 1.5 on Vegas stimulation? She'd been receiving 1.2 milliamps
+
+40:06.242 --> 40:33.886
+of stimulation every five minutes to 30 seconds, but was no longer able to feel the effects. So he says, okay, I think we can go up a little, you're tolerating things well. They start the stimulation and quote, in the course of the next few minutes, her name was Sally, underwent a remarkable change. Her frown disappeared. She became cheerful, describing the pleasure she had had during the Christmas holiday and recounting how she'd recently watched some YouTube videos of Diceroth.
+
+40:35.010 --> 41:03.902
+She was still smiling and talking when the session ended and they walked out to the reception area. So this is just by stimulating and activating the vagus. Now, why am I bringing this up? Well, for several reasons. One is the vagus is fascinating in terms of the brain body connection. Two, I'd like to keep trying to dispel the myth that vagus stimulation is all about being calm. It's really about being alert. I don't know how that originally got going backwards, but it's about being alert. And once again,
+
+41:04.066 --> 41:30.014
+level of alertness or level of calmness is impacting emotion, that this access of alertness and calmness is one primary access in emotion. It's not the only one because there's also this valence component of good or bad. And those two aren't the only ones because there's also this component of interoceptive, exteroceptive that we talked about earlier, and there will be others too. Again, it's not exhaustive, but I find it fascinating and it really brings us back
+
+41:30.114 --> 41:59.870
+to where we started, which is what are the core elements of emotion and what can you do about them? This business of how you conceptualize emotions is really the most powerful tool you can ever have in terms of understanding and regulating your emotional state. If you're willing to try and wrap your head around it, I realize it's not the simplest thing to do, but rather than think of emotions as just these labels, happy, sad, awe, depressed, thinking about emotions, excuse me, as,
+
+42:02.050 --> 42:27.614
+elements of the brain and body that encompass levels of alertness that include a dynamic with the outside world and your perception of your internal state. And starting to really think about emotions in a structured way can not only allow you to understand some of the pathology of when you might feel depressed or anxious or others are depressed and anxious, but also to develop a richer emotional experience to anything.
+
+42:27.714 --> 42:46.846
+I offer it to you as a source of knowledge from which you can start to think about your emotional life differently, I hope, as well as others in a way that builds more richness into that experience, not that detracts from it. I want to thank you for your time and attention and thank you for your interest in science.

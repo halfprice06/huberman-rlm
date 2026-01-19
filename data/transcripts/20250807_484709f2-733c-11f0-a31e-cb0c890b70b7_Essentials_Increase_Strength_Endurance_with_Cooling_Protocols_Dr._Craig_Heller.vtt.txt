@@ -1,0 +1,250 @@
+WEBVTT
+
+00:00.226 --> 00:26.302
+Welcome to Huberman Lab Essentials, where we revisit past episodes for the most potent and actionable science-based tools for mental health, physical health, and performance. I'm Andrew Huberman, and I'm a professor of neurobiology and ophthalmology at Stanford School of Medicine. Today, I have the pleasure of introducing Dr. Craig Heller as my guest on the Huberman Lab podcast. And now for my discussion with Dr. Craig Heller.
+
+00:26.658 --> 00:55.550
+Great to have you here. It's good to be here. Yeah. I know that I and many people have a lot of questions about the use of cold. So one of the things that's happened in recent years is that for many reasons, people have become interested in things like taking cold showers and taking ice baths for many different purposes. Could you just tell me a little bit about what happens when I get into a cold shower
+
+00:55.682 --> 01:25.598
+or an ice bath? Well, first of all, you get a tremendous shock. And what that's going to translate into is a bit of a shot of adrenaline. And I think this is really the so-called benefit, but it doesn't necessarily translate into any benefit in terms of your physiology, your performance, and so forth. Now, if you take a cold bath or a cold shower, a couple things are happening. One is you're going to stimulate vasoconstriction.
+
+01:25.858 --> 01:51.582
+So if anything, it's going to make it a little bit more difficult for your body to get rid of heat because you're shutting off your avenues of heat loss. If you're in a true cold bath, the overall surface area of your body is so great that it doesn't matter if you've acid-constricted, you're still going to lose heat. The primary sites of heat loss, which we're going to get into, are
+
+01:51.682 --> 02:21.470
+are the palms of your hands, the soles of your feet, and the upper part of your face. And the reason these are avenues for heat loss is they're underlain by special blood vessels. And these blood vessels are able to shunt the blood from the arteries, which are coming from the heart, directly to the veins, which are returning to the heart, and bypassing the capillaries, which are the nutritive vessels, but high resistance. So you can tell when you shake someone's hand
+
+02:21.794 --> 02:44.574
+what his or her thermal status is the hands hot or it's cold a couple of questions before we get into these specialized um yeah uh vascular compartments on the soles the palms and and the upper face is there anything that's that's really important to understand about the difference in the physiological response evoked by the by cold shower versus immersion in cold uh
+
+02:44.706 --> 03:10.910
+Well, there are differences that are more physical than anything else. So if you are in a cold bath and you're still, you develop a boundary layer. It's best to explain it in terms of a hot bath because everybody's experienced that. You get into a hot bath and, oh my God, it's really hot, almost painful. And then you sit down and eventually it doesn't feel so hot anymore because the still water, which is close to your skin, is
+
+03:11.042 --> 03:39.870
+is coming into equilibrium with your skin. So it's like having a blanket on you or an insulator on you. And then if you move around, you disturb that still water layer, you feel the hot temperature again. Got it. Yeah. But I think getting back to your original question about benefits, you have to keep in mind whether you're talking about aerobic activity or anaerobic activity, if you're referring to performance and exercise and so forth.
+
+03:40.034 --> 04:08.190
+So if you're doing aerobic activity that you can sustain for a long time, your production of heat is rising gradually and is being distributed throughout your body. So eventually your body temperature is going to come up to a level that's going to impair your performance. So the benefit of a cold bath or a cold shower before aerobic activity is that you increase the capacity of your body mass to absorb that excess heat.
+
+04:08.546 --> 04:36.158
+I see. So could you say that in a rough sense that a protocol that one might use if they're gonna head out for a long run, even on a reasonably warm day, not super hot, or maybe it is super hot, would be to take a cool shower before they go run? Would that be beneficial? Sure, it'll take them longer to get to the sweat point and to heat up. And what will that translate to in terms of a performance benefit? Well, could increase your speed
+
+04:36.514 --> 05:02.302
+or it depends on how you use that benefit. Some people are pacers. They will go at the same pace and then they will go farther. Or some people are forcers. They will take that advantage and use it up as fast as they can. So they will go faster, but not necessarily farther. And what about for the anaerobic athlete, the strength athlete? Right. For the anaerobic athlete, and let's say they're doing several...
+
+05:02.626 --> 05:32.126
+they're doing several sets. Their core temperature is not going to rise that fast because it's only certain muscles which are being used, but the temperature of those muscles will go up. So it's a local effect. It's a local effect, right. So if somebody, let's say, is doing a large body compound movement like barbell squats, where there are a lot of large body movements, hip hinging, et cetera. But for instance, the biceps are not...
+
+05:32.322 --> 05:58.750
+they're involved, but more or less indirectly. So the effect is going to be to heat up the quadriceps, heat up the hamstrings, heat up the glutes, this kind of thing. Right. And then during rest, that heat will leave the muscle, but it's not fast. And certainly the heat can't leave the muscle very fast while you're working out because when the muscle contracts, it squeezes the blood vessels. And the only way heat gets out of a muscle is in the blood.
+
+05:59.202 --> 06:28.766
+and your muscle metabolism can go up 50 or 60 fold during anaerobic activity. That means the heat production in the muscle goes up 50 or 60 fold. The blood flow to that muscle cannot go up 50 or 60 fold. So you literally have the capacity to cook your muscles. So to keep you from damaging your muscle by hyperthermia, we have fail-safe mechanisms. And one of those fail-safe mechanisms is an enzyme which is critical
+
+06:29.410 --> 06:52.702
+For getting fuel, in other words, the results of metabolism of glucose, getting that fuel into the mitochondria, which is making our major coinage of energy exchange, ATP. So that particular enzyme is temperature sensitive. So when the muscle temperature gets above 39 or 39.5, it shuts off.
+
+06:53.474 --> 07:23.358
+And that essentially shuts off the fuel supply to the mitochondria. That's when you cannot do one more rep. So failure, could we say that one component of muscular failure is overheating of the muscle locally? Right. Probably other things too. The most immediate, the most immediate impairment of muscle activity, muscle fatigue, in other words, is the rise in temperature of the muscle. I'd like to take a quick break and acknowledge one of our sponsors, Carbon.
+
+07:23.458 --> 07:45.342
+Carbon is a diet coaching app built by nutrition expert Dr. Lane Norton. I've used Carbon for more than three years now, and I have to say, having been interested in fitness and in my nutrition for more than three decades, it's among the most powerful tools for nutrition coaching and effective weight management that I've ever encountered, especially if your goal is like mine, which is to maintain or build muscle while also losing fat.
+
+07:45.474 --> 08:03.358
+Now I'm turning 50 years old this September, and even though I consider myself in pretty good shape, and I've been training for a long time and trying to eat right, one of my goals is to hit 50 in the absolute best shape of my life. To do that, I'm dialing in my nutrition using carbon with the goals of increasing my muscle mass, increasing my strength, while also
+
+08:03.490 --> 08:32.254
+decreasing my body fat. I've been raving about the Carbon app to friends and to family and to members of my Huberman Lab team over the last few years. And everyone who's joined me in using it has found it to be tremendously useful. In fact, some of those people are going to join me in my approaching 50 fitness goals and body composition goals. My birthday is September 26th. And so I'd like to invite you to join if you would like to improve your body composition and fitness to also use the Carbon app. Now, there are a lot of apps out there that are focused on fitness and nutrition.
+
+08:32.450 --> 08:48.254
+But what makes Carbon different is that it doesn't just hand you a one-size-fits-all plan. It actually learns your metabolism over time, and it adapts your program based on your results. So if you're looking to take a smarter, more personalized approach to your nutrition, I can't recommend the Carbon app enough.
+
+08:48.386 --> 09:17.310
+To try Carbon, you can go to joincarbon.com slash Huberman. While Carbon does not typically offer trials or promotions, they've agreed to give a free seven-day trial to all Huberman podcast listeners. Again, that's joincarbon.com slash Huberman to get a seven-day free trial. So let's say I'm doing five sets of five with squats. I hit muscular failure at a given weight. And according to what I now know,
+
+09:17.410 --> 09:46.494
+it's my quadriceps and the muscles associated with the squat that have failed because of this heat triggering, this mechanism triggered by heat that shuts off the muscle. But my biceps are nice and cool, you're telling me. They're not doing too much work, it's only indirect work. So why is it that I can't set the bar down in the squat rack, walk over and do barbell curls with the same intensity that I could if I were to do those barbell curls fresh?
+
+09:46.722 --> 10:15.966
+not having done anything prior. Well, you will still have a fatigue curve with your upper body. Okay. And that will be influenced by any rise in temperature that has been generated by your lower body exercise. So temperature in both cases is the limiting factor. It's one limiting factor. It's one limiting factor. I find that amazing. Right. So I realize there might be other mechanisms involved. Sounds like heat is, if not the...
+
+10:16.578 --> 10:41.662
+dominant mechanism that prevents more work. It's one of them. It's one of them. And it's a quick one. It's a fast one. Why is it that if I finish a set of squats, I can't simply cool off my quadriceps by throwing a nice cool towel on my quadriceps? Why is that not the best way to go about it? Because your body surface is a very good insulator.
+
+10:41.826 --> 11:05.982
+the skin, the fascia, the muscles underneath, they're all very good insulators. And that's why I said earlier that the way the heat gets out of the muscle is in the blood. So if throwing a cold towel or even ice cold towel on my quadriceps isn't going to work or standing in front of the fan because I'm insulated from that cool, I can't cool off my blood fast enough. What about drinking...
+
+11:06.114 --> 11:27.294
+16 ounces of ice water. Sure, you can do that, but you can calculate how much heat that can absorb. And you can't continue drinking liters of ice water. You're going to dilute your blood and have other problems. But yes, it'll help. Sure, it will help. But it doesn't have the full capacity you will need to...
+
+11:27.586 --> 11:54.462
+What about an ice pack to the back of my neck or to my head or squeezing the cold sponge over the head? How good is that or how poor is that as a strategy? Since now we know that being overheated locally and systemically throughout the body is a serious limiting factor on performance. Well, you have to understand something about our thermoregulatory system. We have a thermostat just like you have a thermostat in your house. And that thermostat is in the brain.
+
+11:54.626 --> 12:23.646
+It's called the preoptic anterior hypothalamus. It does many things in terms of physiological regulation, but it serves as a thermostat. Now that thermostat has to have information. It has to have input. Where does that input come from? It comes from our overall body surface where we sense temperature. So one of the things that can happen when you're overheated is that you can send in a cold stimulus to your thermostat. And that's sort of like,
+
+12:23.810 --> 12:51.326
+wanting to cool your house by putting a wet washcloth over your thermostat, it's doing the wrong thing. So we've actually had experiences where we've had people exercising, getting overheated, and then cooling the body surface, and they say, it feels great, this is fantastic, and their core temperature's going up. So what can happen if you, let's say, cool the torso with an ice vest, you can actually cause vasoconstriction of your portals.
+
+12:51.650 --> 13:18.846
+your heat loss portals. So that's what impairs the rate at which you're losing heat. It feels good. Now back to the head. That's really interesting. The major blood flow to the brain comes up four arteries through the neck. There's the carotid arteries and there's the vertebral arteries. So when you put a cold towel around the neck, you're going to be putting a cold stimulus into the brain.
+
+13:19.042 --> 13:45.790
+That's great for protecting the brain. You want to protect the brain, but it's also going to make you feel cooler than you are. So you will think you're ready to go again quickly when you've just essentially cooled the thermostat. So you're saying that if somebody is hyperthermic, they could trick themselves into subjectively thinking that they are cooling off by putting a cool towel and that they can go further, but their brain could cook.
+
+13:46.146 --> 14:15.262
+Well, if they stop the cooling, then that hot blood from the body core is going to go to the brain. Interesting. Yeah, you can feel great and have a dangerously hyperthermic temperature. But I should say that when you get into the danger zone, things get bad fast. What are some of the symptoms that people could be on the lookout for, for hyperthermia? Essentially, it's almost ironic that if individuals are transitioning into heat stroke,
+
+14:15.362 --> 14:45.150
+they actually vasoconstrict and they stop sweating. And that's a pathological situation. I couldn't begin to explain it, but essentially you are just feeling exhausted. You're feeling miserable. The heart rate is very high. Your heart rate goes up as your core temperature goes up, called cardiac drift. So,
+
+14:45.474 --> 15:08.510
+You just feel rotten. It's not a danger signal that you can translate immediately into, nope, I'm going into heat stroke. That's why people can overcome their bad feeling with motivation to continue going, to work harder. So there have been a number of high-profile athletic deaths due to heat stroke that were during practice.
+
+15:09.282 --> 15:39.230
+not in competition when people are really trying to do it, but in practice, which shows they were just motivated to push. So let's talk about these magnificent portals that not just humans, but other animals, mammals are equipped with. If putting cold on the neck or on the head or on the torso is not optimal, what is optimal? And maybe walk us through a theory as to why we would have these portals located where they are
+
+15:39.426 --> 16:07.614
+And then we can talk about how one might leverage them for performance. Okay, where the portals are, are in the glabrous skin, big word, okay? Glabrous just means no hair. So it's the hairless skin. You say, well, most of my body is without hair. No, most of your body has hair follicles. We are mammals. Mammals have fur. We've lost the fur, but we still have those
+
+16:07.810 --> 16:37.694
+that hairy skin phenotype all over our body, except for those skin surfaces where our mammal relatives didn't have fur. So the pads of the feet. And for the primates, for part of the face. For rabbits, no portions of the ears, the inner surface of the ears. Our mammalian relatives can't lose heat over their overall body surface. So probably very early on in mammalian evolution...
+
+16:38.306 --> 17:05.694
+They evolved these special blood vessels in the limited surface areas that don't have fur. And as I said, what these blood vessels are, are shunts between the arteries and the veins. Arteries and veins are both low resistance vessels. So you can have high flow rate. Capillaries, which normally are between arteries and veins, are high resistance because they're very tiny. So you're saying that in this glabrous or beneath the glabrous skin,
+
+17:05.890 --> 17:35.102
+There are these shunts. And those go directly from arteries to veins. So you skip the capillaries. If you are warm and you look at the palms of your hands, they are fairly red. The backs of your hands aren't. You don't have these vessels in the backs of your hands. Now, if you take a glass, like a water tumbler, right, and you grab it, you can see if you squeeze a little bit, the hand goes white.
+
+17:35.394 --> 18:04.414
+that's because you've shut off that blood flow. Oh, interesting. I'm going to do that little home experiment. So if you're bicycling on a hot day, you don't want to be grabbing your handlebars all the time. You want to periodically. Well, this is important. I know you're privy to some really amazing results that we're going to talk about, but I actually heard you say this during this lecture recently, and you mentioned this, that if you're cycling and you're working hard and you want to be able to do more work, we now know why you want to remain cool. Yeah.
+
+18:04.514 --> 18:30.206
+in order to continue to do work. And if you get too warm, that's bad. That gripping the handlebars too tightly will actually limit your performance. And that's probably also true on the Peloton or any other kind of device or the skier or anything like that. So loosen the grip or if you safely can, you want to actually expose your hands to the world. Now, what about for people wearing gloves? What about the, to me, that just seems crazy based on everything you're telling me.
+
+18:30.338 --> 18:52.894
+Well, gloves definitely impede heat loss from the hands, just as socks impede heat loss from the feet. So if you want to maximize your heat loss, you want to have as thin a protectors as possible on your hands. And of course, the feet are more problematical because you have to be using them in certain ways. Interesting. Yeah. So...
+
+18:53.378 --> 19:02.878
+heating up at the level of the hands obviously is going to hinder performance. So if I can, how about with running? I noticed I ran across the country briefly in high school and not,
+
+19:02.978 --> 19:32.350
+particularly well at that, but that we were told to run as if we were holding crackers in our fingers or something like very lightly and to keep hands kind of loose. So running like this would actually be more beneficial performance than gripping a phone, which is probably what most people are doing nowadays, right? Interesting. Let me introduce one more thing because you asked earlier about the pouring of water on the head. One of the things which is not appreciated fully is that
+
+19:32.802 --> 19:58.814
+The blood which is perfusing these special blood vessels in the face, above the beard line, that's the non-hairy skin, that blood then returns in the venous supply to the heart, but it actually does it in a very strange way. They go through the skull. And that's why the scalp bleeds a lot if you cut the scalp. These blood vessels were perfusing
+
+19:59.586 --> 20:28.926
+primarily thought to be ways that blood is leaving the brain. But when you're overheated, the direction of flow in those blood vessels reverses. So the cooled blood that's coming from your facial region goes into that circulation and actually is a cooling source for the brain. So you can cool the brain, you can have a cooling effect on the brain by pouring water on your head. Interesting. So that practice, which we...
+
+20:29.058 --> 20:44.542
+at least for me, I most commonly associate with combat sports. That you're saying is somewhat effective in cooling the brain. Yeah, it's one of the natural mechanisms for cooling the brain. I'd like to take a quick break and acknowledge our sponsor,
+
+20:44.674 --> 21:08.318
+AG1. AG1 is a vitamin mineral probiotic drink that also includes prebiotics and adaptogens. As many of you know, I've been taking AG1 for more than 13 years now. I discovered it way back in 2012, long before I ever had a podcast, and I've been drinking it every day since. For the past 13 years, AG1 has been the same original flavor. They've updated the formulation, but the flavor has always remained the same.
+
+21:08.514 --> 21:33.054
+And now, for the first time, AG1 is available in three new flavors, berry, citrus, and tropical. All the flavors include the highest quality ingredients in exactly the right doses to together provide support for your gut microbiome, support for your immune health, and support for better energy and more. So now you can find the flavor of AG1 that you like the most. While I've always loved the AG1 original flavor, especially when I mix it with water and a little bit of lemon or lime juice, that's how I've been doing it for
+
+21:33.186 --> 22:03.152
+basically 13 years. Now I really enjoy the new berry flavor in particular. It tastes great and I don't have to add any lemon or lime juice. I just mix it up with water. If you'd like to try AG1 and these new flavors, you can go to drinkag1.com slash Huberman to claim a special offer. Right now, AG1 is giving away an AG1 welcome kit that includes five free travel packs and a free bottle of vitamin D3K2. Again, go to drinkag1.com slash Huberman to claim the special welcome kit of five free travel packs and a free bottle of vitamin D3K2.
+
+22:03.152 --> 22:28.830
+K2. Is there any known benefit to cooling the brain in terms of offsetting physical damage, you know, offsetting the negative effects of concussion? Because one of the reasons why fighters will often get a cold on the back, you know, cold item on the back of the neck or on the head is not just to cool them down, but the theory is that it might offset some of the damage of neurons. Yeah.
+
+22:29.122 --> 22:58.334
+I'm aware of those ideas, but they're controversial. One of the things that you want to do for injury to the brain is to decrease swelling. And one of the ways that you decrease swelling in many parts of the body is to cool. It decreases inflammation, it decreases the blood flow. So, you know, I think it's a really interesting topic and it's something that should be investigated.
+
+22:58.850 --> 23:25.310
+It's kind of hard to investigate. Interesting. Okay. So I hear these stories and I've seen the data. So I believe the stories. Maybe tell us a story about an observation that your group has made with respect to anaerobic exercise and this proper cooling of these glabrous surfaces. And we can talk about the technology. What happens when...
+
+23:25.634 --> 23:54.622
+a skilled athlete comes in and does dips for multiple sets. And then what happens when they cool properly using the glabrous skin surfaces? This was a story that occurred early on in our investigations when we first made the discoveries that cooling has a benefit to increase your work volume, your capacity to do more reps. Okay. So the word got over, I think to the 49ers camp and one of their
+
+23:54.722 --> 24:20.574
+players, Greg Clark, who was a tight end at the time, he had been tight end at Stanford, he decided to come over and check it out. So Greg came over and we said, Greg, what are you good at? What activity do you like to do? He said, dips. I can do a lot of dips. I can do 40 dips in a first set and I can probably do five sets. That's a usual workout for me. And we said, okay. So he came over to the
+
+24:20.834 --> 24:50.494
+gym one day, and that's exactly what he did. He did 40 dips the first set, and then maybe 25 and 15 and down from there. Do you recall roughly what kind of rest periods he was taking between sets? Yeah, we standardized the rest period to three minutes. So several days later, he came back, and his first set he did, I think, maybe 42. Then his second set was, I don't remember the numbers, but very much above the second set on the control day. This was after week.
+
+24:50.850 --> 25:20.446
+Okay, so he does, when is he doing the cooling? He's sitting down and putting his hands in the devices that we had built, which were cooling the palms of his hands. For how long does that cooling take? Can he do it inside of a three-minute rest period? Yeah, that's what we were doing. We standardized the interval for resting or cooling. The point is, he got to his fifth set, and all of the sets were above what he had done on the previous day. And he said, you know, I'm not tired. I can do another set.
+
+25:21.058 --> 25:50.910
+And then I can do another set. I can do another set. I can do another set. So from one day to two or three days later with cooling, he doubled the total number of dips. By adding more sets and more repetitions to each set. Right. So then he kept coming back for four more weeks, twice a week. And by the end of that month, he was doing 300 dips. Wow. So what percentage? So he tripled.
+
+25:51.106 --> 26:17.278
+He tripled them. He tripled them. He tripled them. Here's a professional athlete at peak physical conditioning, and he triples what he can do. Amazing. And I know there are also published results, and we will provide links to some of these papers for people seeing similar effects, I should say similar performance enhancing effects using bench presses, bench press, or push-ups, or other sorts of things. So-
+
+26:17.954 --> 26:41.822
+What's your favorite example of endurance? We haven't done a lot in the field. I mean, outdoors. Most of our endurance has been in a hot room with treadmill work and so forth. So the very first experiment, we had, I think, maybe 18 subjects just off the street. For this group, with one trial with and without cooling, we could double their endurance performance.
+
+26:42.434 --> 27:05.726
+walking on the treadmill, walking uphill on the treadmill in the heat, like maybe 40 degrees ambient temperature, 40 degrees centigrade. So what does that experiment look like? You're having people walk on an incline. It's really warm. Some people are just going to hit the quit button and say, I've had enough and get off the treadmill. Right. With proper cooling, when are they doing the cooling? They're doing it continuously. I see. Because in the
+
+27:05.858 --> 27:34.398
+we can suspend devices from the ceiling, for example. Some people might wonder, you know, if there are all these studies and there are these incredible results over the years, why haven't we heard more about it? And I will ask your opinion on that as well, but I'll just editorialize a little bit. It's that the best laboratory work and its practical applications oftentimes requires many studies. And oftentimes there isn't a portal for,
+
+27:34.498 --> 28:02.782
+so to speak, to get that information out into the technology sector. So there is a company that's developing this technology for people to use, to purchase and use. We might as well just tell us now, what is the name of that company? And do they have a website? People are going to want to know where can they get this magical technology? And is there a poor man's version of it as well? Well, the company is Arteria, A-R-T-E-R-I-A.
+
+28:02.882 --> 28:23.710
+And the website is www.coolmitt.com. So Cool Mitt is just C-O-O-L-M-I-T-T, coolmitt.com. The new version of the technology is sort of in beta test versions. We got it into the hands of people who had used the technology before. So there's NFL technology.
+
+28:23.874 --> 28:47.518
+teams that are using. There's college teams, there's Olympics, there's the Navy SEALs, Major League Baseball, the NBA, the National Tennis Association. They have locations where now they are trying this out and reporting back. How is it working? How could you change it? How could you improve it? Great. Let's talk about the technology you
+
+28:47.650 --> 29:17.278
+in a little more detail for a moment. The cool mitt as I understand is it's a mitt, it's a glove. You put your hand into, you hold on to a surface and that surface cools your hand and thereby through this specialized portal, cools your core body temperature and all the muscles of the body. Subjectively, if I were to do this right now, would I think that it was ice cold or would I think it was just cool? Just cool. I'd say ice cold is too cold.
+
+29:17.442 --> 29:44.542
+So people always ask, well, why can't you just stick your hand in a bucket of ice water? It's too cold. What that does is that causes reflex vasoconstriction of the very portals that you're trying to maximize the heat loss from. So you stick your hand in cold water. When it comes out, it's cold. You just sealed up all the heat in your body. Yeah, right. How long in the cool mid, at the proper temperature, how long are...
+
+29:44.642 --> 30:10.398
+are people putting their hands into the mitt? We once again had just standardized on three minutes. And part of the reason for that is that the heat law, the rate of heat loss is an exponentially declining curve. Okay. And three minutes sort of gets the best part of the curve. So you can go longer and get more benefit, but the biggest bang for the buck is in the first two, three minutes.
+
+30:11.170 --> 30:32.830
+I'd like to take a quick break and acknowledge one of our sponsors, Function. Last year, I became a Function member after searching for the most comprehensive approach to lab testing. Function provides over 100 advanced lab tests that give you a key snapshot of your entire bodily health. This snapshot offers you with insights on your heart health, hormone health, immune functioning, nutrient levels, and much more.
+
+30:32.994 --> 31:02.960
+Function not only provides testing of over 100 biomarkers key to your physical and mental health, but it also analyzes these results and provides insights from top doctors who are expert in the relevant areas. For example, in one of my first tests with Function, I learned that I had elevated levels of mercury in my blood. Function not only helped me detect that, but offered insights into how best to reduce my mercury levels, which included limiting my tuna consumption. I'd been eating a lot of tuna, while also making an effort to eat more leafy greens and supplementing with NAC and acetylcysteine,
+
+31:02.960 --> 31:08.958
+both of which can support glutathione production and detoxification. And I should say, by taking a second function test,
+
+31:09.090 --> 31:39.056
+that approach worked. Comprehensive blood testing is vitally important. There's so many things related to your mental and physical health that can only be detected in a blood test. The problem is blood testing has always been very expensive and complicated. In contrast, I've been super impressed by Function's simplicity and at the level of cost. It is very affordable. If you'd like to try Function, you can go to functionhealth.com slash Huberman. Function currently has a wait list of over 250,000 people, but they're offering early access to Huberman podcast listeners. A
+
+31:39.056 --> 32:00.382
+Again, that's functionhealth.com slash Huberman to get early access to function. A number of people said to me after learning a little bit about this science and technology that they've experienced some big effects, positive effects of cooling by, and I confess I've done this, taking a package of frozen blueberries,
+
+32:00.482 --> 32:22.942
+I'm just kind of passing it back and forth between my hands. If you were going to give a crude protocol for, let's just say for the gym, because with running, it's a little bit tricky, but what would that look like if people wanted to just play with this in some sort of fashion? You know, it would be experimental. Sure. Your idea of frozen peas is a good idea. After you...
+
+32:23.074 --> 32:52.254
+hold the cold peas in one hand and you switch it to the other hand. If someone then comes in, feels your hand, is it warm or cold? If it's cold, it means you vasoconstricted. If it's warm, it means the hot blood is still going there. And the key is for it to not vasoconstrict. Right. Okay. So there's a test out there, folks. If you're going to try this in kind of crude fashion, at least until the cool mitt is available more broadly to the general public,
+
+32:52.770 --> 33:19.358
+you could assess, you want to assess whether or not your palms actually feel cool to the touch by somebody else. And if it does, that means you've essentially shut down the port of your ceiling in more heat, which is bad. What about putting this cold pack of some sort on the face? Or could I put my feet on them? The problem is back to boundary layers again. If you don't have a convective stream of the cooling system,
+
+33:19.906 --> 33:28.286
+The heat sink is not as effective because there'll be a boundary layer developed between the heat sink material and your skin.
+
+33:28.386 --> 33:57.918
+So that decreases its efficacy. Right. So this is why just planting my bare feet on two packages of frozen peas, there's really no opportunity for circulation and therefore heat transfer. So it's not really optimal. But once again, it depends on the surface area to get any benefit at all. We have a study that we published, which was investigating the standard treatment for hyperthermia in the field.
+
+33:58.050 --> 34:21.950
+And the standard treatment that's recommended by medical organizations is you take cold packs and you put them in the axilla, the groin. The axilla are the armpits. The armpits and the neck. So what we did is we did studies in which we made people hyperthermic and then we measured the rate at which we could cool them.
+
+34:22.114 --> 34:51.167
+by putting those heat exchange bags in the recommended location versus palms, soles, and face. The cooling rate was double. Wow. So face, hands, and bottoms of feet will cool you twice as fast as putting cold packs into your armpits, your groin, or back of neck. I realized there was a question that I failed to ask earlier. If you do this cooling in between sets in the gym, you get this performance enhancing effect. Mm-hmm.
+
+34:51.330 --> 35:18.526
+So presumably the body is adapting. You're getting better as a consequence of being able to do more work per unit time or to go harder in some way, of course. You get that adaptation. Does that mean that you see a performance enhancing effect even when you don't cool if you've previously done the cooling workouts? You keep your gains. It's a true conditioning effect. You respond to the increased work volume
+
+35:19.234 --> 35:45.790
+By all of those mechanisms you mentioned, you increase the number of contractile elements in your muscles. Muscles get bigger. Well, Craig, thank you so much. You gave so much information that's actionable and interesting. I know a lot of people are going to be really interested in the Palmer cooling technology from CoolMit. I do encourage people to play around with
+
+35:46.050 --> 36:00.030
+so to speak, the Palmer cooling technology that we all have, which are these glabrous surfaces. And I also just want to thank you for taking time out of your busy schedule to share this information. It was fun.

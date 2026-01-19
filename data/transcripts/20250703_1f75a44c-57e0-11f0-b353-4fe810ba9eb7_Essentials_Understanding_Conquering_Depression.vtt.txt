@@ -1,0 +1,289 @@
+WEBVTT
+
+00:00.226 --> 00:29.470
+Welcome to Huberman Lab Essentials, where we revisit past episodes for the most potent and actionable science-based tools for mental health, physical health, and performance. I'm Andrew Huberman, and I'm a professor of neurobiology and ophthalmology at Stanford School of Medicine. Today, we're discussing depression. In particular, we're going to talk about major depression. The phrase major depression is used to distinguish one form of depression from the other, the other one being bipolar depression.
+
+00:29.602 --> 00:57.054
+Major depression impacts 5% of the population. That is an enormous number. That means if you're in a class of 100 people, five of them are dealing with major depression or have at some point. Look around you in any environment and you can be sure that a good portion of the people that you're surrounded by is impacted by depression or will be at some point. So this is something we really have to take seriously and that we want to understand.
+
+00:57.890 --> 01:22.526
+It is the number four cause of disability. A lot of people miss work, miss school, and before then likely perform poorly in work or school due to major depression. So let's talk about the things that are present in somebody that has major depression. First of all, there tends to be a lot of grief. There tends to be a lot of sadness. That's no surprise.
+
+01:22.754 --> 01:44.734
+Also this thing that we call anhedonia, a general lack of ability to enjoy things. For the time being, we want to frame up anhedonia, this lack of ability to achieve or experience pleasure, a kind of a flat affect as it's called. Sometimes even delusional thinking, negative delusional thinking, and in particular, anti-self confabulation,
+
+01:44.930 --> 02:11.294
+What is anti-self confabulation? Well, first of all, confabulation is an incredible aspect of our mind and our nervous system. You sometimes see other forms of confabulation in people who have memory deficits, either because they have brain damage or they have age-related dementia. A good example of this would be someone with age-related dementia sometimes will find themselves in a location in the house and not know how they got there.
+
+02:11.394 --> 02:41.054
+And if you ask them, oh, what are you doing here? They will create these elaborate stories. Oh, you know, I was thinking about going to the shopping today and I was, you know, and I was going to take the bus and then I was going to do, they create these elaborate stories, they confabulate. It's as if a brain circuit that writes stories just starts generating content. In major depression, there's often a state of delusional anti-self confabulation where the confabulations are not directly or completely linked to reality.
+
+02:41.154 --> 03:09.854
+but they are ones that make the self, the person describing them seem sick or in some way, not well. A good example would be somebody who experiences a physical injury, perhaps. Maybe they break their ankle, maybe it's an athlete, and they also happen to become depressed. And you'll talk to them, you say, how are things going? How's your rehab? And they'll go, oh, it's okay. And I don't know, I'm just, I feel like I'm getting weaker and weaker by the day. I'm just not performing well. And then you'll talk to the person that they're working with
+
+03:10.626 --> 03:39.326
+their kinesiologist or whoever the physical therapist is, and they'll say, no, they're actually really improving. And I tell them they're improving, but somehow they're not seeing that improvement. They're not registering that improvement. They are viewing themselves and they are confabulating according to a view that is very self-deprecating to the point where it doesn't match up with reality. The other common symptomology of major depression is what they call vegetative symptoms.
+
+03:39.458 --> 03:59.070
+Okay, so vegetative symptoms are symptoms that occur without any thinking, without any doing, or without any confabulation. These are things that are related to our core physiology, things like constantly being exhausted. The person just feels exhausted. They don't have the energy they once had.
+
+03:59.266 --> 04:26.910
+not in their heads, something is disrupted in the autonomic or so-called vegetative nervous system. And one of the most common symptoms of people with major depression, one of the signs of major depression is early waking and not being able to fall back asleep despite being exhausted. So waking up at 3 a.m. or 4 a.m. or 5 a.m., just spontaneously and not being able to go back to sleep. It's well known that the architecture of sleep
+
+04:27.426 --> 04:48.830
+is disrupted in depression. What's the architecture of sleep? Early in the night, you tend to have slow-wave sleep more than REM sleep or rapid eye movement sleep. As the night goes on, you tend to have more rapid eye movement sleep. That architecture of slow-wave sleep preceding rapid eye movement sleep is radically disrupted in major depression.
+
+04:49.698 --> 05:18.782
+In addition, the pattern of activity in the brain during particular phases of sleep is disrupted. And then there are some other things that relate to the autonomic nervous system, but that we normally think of as more voluntary in nature. And these are things like decreased appetite. So you could imagine that one could have decreased appetite because of the anhedonia, the lack of pleasure from food. So you can see that the symptomology of major depression impacts us at multiple levels. There's the conscious level,
+
+05:18.914 --> 05:48.382
+of how excited we are generally. Well, that's reduced. There's grief, there's guilt, there's crying, but then there's also these vegetative things. There's disruptions in sleep, which of course make everything more challenging when we're awake. We know that sleep is so vital for resetting. You're waking up early, you can't get back to sleep. That's going to adjust your affect, your emotions in negative ways. We know this. And appetite is off. And there are hormones that get disrupted. So cortisol,
+
+05:48.482 --> 06:17.086
+levels are increased. In particular, there's a signature pattern of depression whereby cortisol, this stress hormone that normally is released in a healthy way only in the early part of the day is shifted to late in the day. In fact, a 9 p.m. peak in cortisol is one of the physiological signatures of depressive-like states. It's not the only one, but it is an important one. I'd like to take a quick break and acknowledge one of our sponsors,
+
+06:17.346 --> 06:30.686
+BetterHelp. BetterHelp offers professional therapy with a licensed therapist carried out entirely online. I've been doing weekly therapy for well over 30 years. Initially, I didn't have a choice. It was a condition of being allowed to stay in school.
+
+06:30.850 --> 06:53.310
+But pretty soon I realized that therapy is an extremely important component to overall health. In fact, I consider doing regular therapy just as important as getting regular exercise, including cardiovascular exercise and resistance training, which of course I also do every week. There are essentially three things that great therapy provides. First of all, it provides a good rapport with somebody that you can trust and talk to about all issues that you're concerned about.
+
+06:53.410 --> 07:14.878
+Second of all, it can provide support in the form of emotional support or directed guidance. And third, expert therapy can provide useful insights. With BetterHelp, they make it very easy to find an expert therapist with whom you resonate with and can provide those benefits that come through effective therapy. Also, because BetterHelp allows therapy to be done entirely online, it's very time efficient.
+
+07:14.978 --> 07:32.350
+It's easy to fit into a busy schedule. There's no commuting to a therapist's office or sitting in a waiting room or anything like that. You simply go online and hold your appointment. If you would like to try BetterHelp, go to betterhelp.com slash Huberman to get 10% off your first month. Again, that's betterhelp.com slash Huberman.
+
+07:32.994 --> 07:58.302
+So let's just take a few minutes and talk about some of the underlying biology that creates this cloud or this constellation of symptomology. One of the most important early findings in the search for a biological basis of depression was this finding that there are drugs that relieve some of the symptoms of depression. Those drugs generally fall into
+
+07:58.402 --> 08:17.278
+three major categories, but the first set of ones that were discovered were the so-called tricyclic antidepressants and the MAO inhibitors, the monoamine oxidase inhibitors. And these tricyclic antidepressants and the MAO inhibitors largely worked
+
+08:17.474 --> 08:43.550
+by increasing levels of norepinephrine in the brain, as well as in the body in some cases. They were discovered because of the exploration for drugs that alter blood pressure. Norepinephrine impacts blood pressure and drugs that lower blood pressure, reduce levels of norepinephrine, and that in many cases was shown to lead to depression or depressive-like symptoms.
+
+08:43.682 --> 09:01.246
+These tricyclic drugs and the MAO inhibitors actually increase norepinephrine. And frankly, they do quite a good job of relieving some, if not all of the symptoms of major depression. However, they carry with them many side effects. Some of those side effects are
+
+09:01.570 --> 09:30.846
+side effects related to blood pressure itself. By increasing noradrenaline, norepinephrine as it's called, you raise blood pressure. That can be dangerous. But they also have a lot of other side effects. The reason they have other side effects is because they impact systems in the brain and in the body that impact things like libido, appetite, digestion, and others. They made some people so uncomfortable that they preferred not to take them, even though when they didn't take them, they had a worsening or a maintenance of their depressive symptoms.
+
+09:31.202 --> 10:00.990
+A decade or so later, there was the discovery of the so-called pleasure pathways in the brain. This pleasure pathway, as it's sometimes called, involves areas like the nucleus accumbens and the ventral tegmental area. These are areas of the brain that are rich with neurons that make dopamine. And if you think to the symptoms of depression, of anhedonia, lack of pleasure, a lack of ability to experience pleasure, well, that was a smoking gun that there's something wrong with the dopamine pathway in
+
+10:01.090 --> 10:28.574
+So it's not just norepinephrine, it's also the dopamine or pleasure pathway is somehow disrupted. And then in the 1980s, there was the discovery of the so-called SSRIs. Most people are now familiar with the SSRIs, the selective serotonin reuptake inhibitors. The SSRIs worked by distinct mechanisms from the tricyclic antidepressants and the MAO inhibitors. As their name suggests, SSRIs, selective serotonin reuptake inhibitors,
+
+10:29.026 --> 10:52.542
+prevent serotonin from being wiped up from the synapse after two neurons talk to one another. What do I mean by that? Well, here's some very basic neurobiology 101. If you don't know any neurobiology, you're going to know some in about 15 seconds. Neurons communicate with one another by spitting out chemicals into the little gap between them. The little gap between them is called the synapse.
+
+10:52.706 --> 11:20.222
+Those chemicals bind to the neuron on the opposite side and cause changes in the electrical activity of that neuron on the other side of the synapse. Serotonin is one such neurotransmitter or more specifically, it's a neuromodulator. It can change the activity of large groups of neurons in very meaningful ways. Selective serotonin reuptake inhibitor means when a person takes this drug, some of those drugs include things like Prozac or Zoloft
+
+11:20.354 --> 11:41.918
+the more typical names or more generic names are things like fluoxetine. When people take those, more serotonin hangs out in the synapse and is able to be taken up by the neuron on the opposite side because of this selective reuptake inhibition. It prevents the clearance of serotonin from the synapse.
+
+11:42.082 --> 12:11.102
+and thereby more serotonin can have an effect. So SSRIs don't increase the total amount of serotonin in the brain. They change how effective the serotonin that's already in the brain is at changing the activity of neurons. About a third of people that take SSRIs don't derive any benefit. It doesn't relieve their symptoms of depression. However, for the other two thirds, there's often a relief of some, if not all of the symptoms of major depression.
+
+12:11.586 --> 12:41.502
+The problem is the side effects that accompany those SSRIs. And so these days, SSRIs are a complicated topic. It's sort of what I would call a barbed wire topic, but these drugs also have saved a lot of lives. They've also improved a lot of lives. The issue is that they tend to have varying effects on different individuals and sometimes varying effects over time. So they'll work for a while, then they won't work for a while. There are also a lot of mysteries about the SSRIs and those mysteries bother people. SSRIs,
+
+12:41.858 --> 13:03.774
+increase the amount of serotonin or more specifically, they increase the efficacy of serotonin at the synapse. That happens immediately or very soon after people start taking SSRIs, but people generally don't start experiencing any relief from their symptoms of depression if they're going to experience them at all until about two weeks after they start taking these drugs.
+
+13:03.970 --> 13:31.518
+It's very clear that there are at least three major chemical systems in the brain, norepinephrine, dopamine, and serotonin that relate to and can adjust the symptoms of depression. And those actually can be divided into separate categories. So for instance, epinephrine or norepinephrine is thought to relate to the so-called psychomotor defects. This is the lethargy, this is the exhaustion, this is the inability to get out of bed in the morning.
+
+13:31.618 --> 13:52.542
+Dopamine is thought to relate to the anhedonia, or I should say lack of dopamine in depressive patients is thought to lead to the anhedonia, the lack of ability to experience pleasure. And serotonin is thought to relate to the grief, the guilt, some of the more cognitive or more emotional aspects
+
+13:52.674 --> 14:06.622
+of depression. So we've got the norepinephrine system related to activity and alertness, the dopamine system relating to motivation, pleasure, and the ability to seek and experience pleasure. And then the serotonin system that's related to grief.
+
+14:06.818 --> 14:36.382
+And unfortunately, brains and organisms don't work in a simple mathematical way where you just say, oh, well, this person's experiencing a lot of grief, but they don't have any problems with lethargy. And so let's just boost up their serotonin. On paper it works, but oftentimes it doesn't work clinically. And really good psychiatrists will work with someone to try and pull and push on these various systems to find the combination of drugs that may be or may not be correct for them. So next I'd like to talk about hormones and how they relate to depression.
+
+14:36.482 --> 15:00.030
+And I'd also like to talk about stress and how it relates to depression, as well as talk about some of the genetics or the predispositions to depression. 20% of people that have major depression have low thyroid hormone, and that leads to low energy, low metabolism in the brain and body. Sometimes a psychiatrist will prescribe thyroid medication to increase
+
+15:00.130 --> 15:23.774
+thyroid output in people that are depressed and that will work to relieve the symptoms. So there are certain situations or conditions that can impact the thyroid hormone system and make people more susceptible to depression or make a preexisting depression worse. And those are things like childbirth. So it's well known that women who give birth can often undergo what's called postpartum depression and that's thought to be hormonally related.
+
+15:24.002 --> 15:47.998
+either directly to the thyroid system or perhaps to the cortisol system as well. We'll talk about cortisol in a moment. As well, certain women during certain phases of their menstrual cycle experience symptoms that are very much like clinical depression and oftentimes are diagnosed with clinical depression appropriately. And of course, the menstrual cycle is associated with shifts in hormone levels. As well, menopause and postmenopausal
+
+15:48.546 --> 16:12.254
+women are more susceptible to major depression, regardless of whether or not they've had that major depression earlier in their life. So these are things to be on the lookout for and to definitely talk to a doctor and get a blood panel that hopefully includes measures of thyroid hormone and cortisol hormone. Why cortisol hormone? Well, more stress is correlated with more bouts of major depression across the lifespan. How many bouts? Well,
+
+16:12.386 --> 16:42.302
+It turns out that as you go from having one to two to three, well, when you hit four to five bouts of really intense to stressful episodes in life, these tend to be long-term stressful episodes, your risk for major depression goes way up. And that's because the stress system is associated with the release of cortisol. The cortisol system can dramatically impact the way that these different neuromodulators, dopamine, norepinephrine, and serotonin function. One of the more important reasons for learning how to counter stress in order to offset
+
+16:43.042 --> 17:11.838
+is that there is a genetic predisposition that certain people carry to become depressed. How do we know? Well, in what are called concordant monozygotic twins. So these would be identical twins for which one of those twins goes on to have major depression. There's a 50% probability that the other one will have major depression. So it's not 100%, it's not 100% inherited, it's not 100% genetic, as you might say, but there's a much higher predisposition for
+
+17:12.513 --> 17:42.462
+depression, whereas in fraternal twins, that number drops and in siblings, that number drops to about 25% and in half siblings, it's about 10%. Basically, the more closely related you are to somebody who has major depression, the more likely it is that you will also get major depression. And therefore, if you haven't gotten major depression, the more likely it is that you should take steps to learn to mitigate stress because stress is the major factor that can trigger one of these depressive episodes.
+
+17:43.202 --> 17:47.038
+I'd like to take a quick break and acknowledge our sponsor, AG1.
+
+17:47.170 --> 18:17.136
+AG1 is a vitamin mineral probiotic drink that also includes prebiotics and adaptogens. As somebody who's been involved in research science for almost three decades and in health and fitness for equally as long, I'm constantly looking for the best tools to improve my mental health, physical health, and performance. I discovered AG1 back in 2012, long before I ever had a podcast, and I've been taking it every day since. I find it improves all aspects of my health, my energy, my focus, and I simply feel much better when I take it. AG1 uses the highest quality
+
+18:17.136 --> 18:40.958
+ingredients in the right combinations, and they're constantly improving their formulas without increasing the cost. In fact, AG1 just launched their latest formula upgrade. This next-gen formula is based on exciting new research on the effects of probiotics on the gut microbiome, and it now includes several clinically studied probiotic strains shown to support both digestive health and immune system health, as well as to improve bowel regularity and to reduce bloating.
+
+18:41.090 --> 19:11.056
+Whenever I'm asked if I could take just one supplement, what that supplement would be, I always say AG1. If you'd like to try AG1, you can go to drinkag1.com slash Huberman. For a limited time, AG1 is giving away a free one month supply of omega-3 fish oil along with a bottle of vitamin D3 plus K2. As I've highlighted before on this podcast, omega-3 fish oil and vitamin D3 K2 have been shown to help with everything from mood and brain health to heart health to healthy hormone status and much more. Again, that's drinkag1.com.
+
+19:11.056 --> 19:35.102
+So next I'd like to talk about some of the tools that people who both have depression or who are prone to depression, as well as people who don't have depression and simply want to maintain a good mood, who want to maintain a positive affect and pursuit of things in life. What are the things that you can do?
+
+19:35.234 --> 20:03.646
+any behavioral tool that adjusts the levels of a particular chemical ought to perhaps provide some relief for some of the symptoms of major depression. Let's take an example that I've talked about before on the podcast, which is if you get into a very cold shower, you take an ice bath, you will release norepinephrine and epinephrine in your brain and body. There's no question about that. If some aspects of depression are related to low levels of norepinephrine, will taking cold showers relieve your depression?
+
+20:04.098 --> 20:32.638
+Perhaps it might even relieve certain aspects of that depression. Will exercise help? Well, if you go out for a run, you're going to increase the amount of norepinephrine in your body. If you enjoy that run, it's likely that you'll increase the levels of dopamine and probably serotonin in your brain and body as well. Will that cure your depression? Well, there are a lot of studies exploring how exercise can impact depression. And indeed, regular exercise is known to be a protective behavior against depression.
+
+20:33.570 --> 21:00.286
+but it also can help relieve some of the symptoms of depression. So you may ask yourself, why would you need drugs at all? Why would there be prescription drugs or the need for supplementation or other things to alleviate the symptoms of depression? Ah, well, that's the diabolical nature of depression, which is if people are far enough along in this thing, this sometimes called disease, sometimes called disorder, but major depression, oftentimes they can't
+
+21:00.642 --> 21:27.166
+get the energy to even get up and take a bath or a shower. They have no motivation to do it. They have no desire to go for a run, but it's very important to highlight the fact that these circuits that are accessible to some of us, the circuits for happiness, for pursuit of pleasure, for exercise, for getting in a cold shower, if that's your thing, that those circuits are present in all people,
+
+21:27.490 --> 21:55.742
+For certain people that are experiencing major depression and are really in the depths of their depression, they can't really access those circuits in the same way that people who are not suffering from depression can. But let's look at depression from the standpoint of a deeper biological phenomenon, which is inflammation and the immune system. There's growing evidence now that many forms of major depression, if not all of them, relate to excessive inflammation.
+
+21:55.938 --> 22:24.414
+Now, inflammation plays an important role in wound healing. It is a positive aspect of our immune system, our ability to combat wounds, combat illnesses, et cetera. But inflammation gone unchecked, inflammation that lasts too long or is of too high amplitude, meaning too many cytokines and things of that sort in the body is bad. And there's decent evidence now that inflammation can lead to or exacerbate depression.
+
+22:24.546 --> 22:54.334
+and that if we want to control depression or limit or eliminate depression, that focusing on reducing inflammation and its associated pathways is a really good thing to do. And I think this is a really good thing for everybody to do, regardless of whether or not you suffer from depression or not. So first of all, who are the major players in creating chronic inflammation in the brain and body? They are the inflammatory cytokines, things like IL-6, interleukin-6, things like
+
+22:54.466 --> 23:23.230
+tumor necrosis alpha, TNF alpha, things like C-reactive protein. All right? When we are stressed, chronically stressed, we get inflamed, our brain and various locations in the brain become inflamed because certain classes of cells, in particular, those glial cells, the cells that are typically thought to just be support cells, those cells and their biochemistry and their dialogue with the neurons of the brain and body starts to become disrupted. It turns out there is a set of
+
+23:23.330 --> 23:45.278
+actions that we can take in order to limit inflammation. One of those approaches is to increase our intake of so-called EPAs or essential fatty acids. Increasing our intake of these essential fatty acids, in particular, the EPA variety of omega-3s can lower the effective dose
+
+23:45.442 --> 24:12.094
+of things like SSRIs. The threshold level seems to be about one gram, a thousand milligrams of EPA. So you will sometimes see on a bottle of krill oil or fish oil or any other source, even plant source or other source of EPA, that it's a thousand milligrams or 1200 milligrams. But what's really important to look at is whether or not there's more than a thousand milligrams of EPA.
+
+24:12.258 --> 24:39.358
+because the EPA in particular is what's important here. So how would this work? These inflammatory cytokines act in a variety of different ways, but they mainly act to inhibit the release of serotonin, norepinephrine, and dopamine, or the synthesis of serotonin, norepinephrine, and dopamine. Dopamine, also called 5-HT, essentially derives from a precursor called tryptophan. Tryptophan arrives into our system through our diet,
+
+24:39.618 --> 25:08.350
+Okay, tryptophan is an amino acid. Tryptophan is eventually converted into serotonin. However, if there's excessive amounts of inflammation, these inflammatory cytokines cause tryptophan to be diverted down a different pathway. The pathway involves something called IDO, indolamine, which converts tryptophan into kinurine. Kinurine actually acts as a neurotoxin by way of converting into something called
+
+25:08.738 --> 25:36.670
+Quinolinic acid, okay? And quinolinic acid is pro-depressive. So if that seems like a complicated biochemical pathway, what's basically happening here is that the tryptophan that normally would be made into serotonin under conditions of inflammation is being diverted into a neurotoxic pathway. And ingestion of EPAs, because it limits these inflammatory cytokines, things like IL-6, C-reactive protein, et cetera, can cause more of the tryptophan
+
+25:36.994 --> 26:02.110
+that one ingests or has in their body to be diverted towards the serotonergic pathway. Exercise, it turns out, also has a positive effect on the tryptophan to serotonin conversion pathway. The activation of the muscles through rhythmic repeated use, in particular aerobic exercise, but also resistance training has been shown to do this to some extent, tends to sequester or shuttle
+
+26:02.722 --> 26:27.966
+the kynurine into the muscle so that it isn't converted into this neurotoxin that is pro-depression. From the data that are published in quality peer-reviewed journals, it really appears that this inflammation pathway does function to increase depression through these pathways. And so knowing that there are behavioral steps and supplementation-based steps, or if you prefer getting your EPAs from typical food, from nutritional approaches,
+
+26:28.354 --> 26:52.254
+I find that very reassuring that the mechanisms all converge on a common pathway, serotonin. There's a common biochemical pathway that can explain why these things not just work, but why they should work. They should work because they operate in the very same biochemical pathways that antidepressants that are prescribed to people do. I'd like to take a quick break and acknowledge our sponsor, OurPlace.
+
+26:52.418 --> 27:20.286
+Our place makes my favorite pots, pans, and other cookware. Surprisingly, toxic compounds such as PFASs or forever chemicals are still found in 80% of nonstick pans, as well as utensils, appliances, and countless other kitchen products. As I've discussed before in this podcast, these PFASs or forever chemicals like Teflon have been linked to major health issues such as hormone disruption, gut microbiome disruption, fertility issues, and many other health problems. So it's really important to try and avoid them.
+
+27:20.546 --> 27:44.638
+This is why I'm a huge fan of Our Place. Our Place products are made with the highest quality materials and are all completely PFAS and toxin-free. I especially love their Titanium Always Pan Pro. It's the first nonstick pan made with zero chemicals and zero coating. Instead, it uses pure titanium. This means it has no harmful forever chemicals and does not degrade or lose its nonstick effect over time. It's also beautiful to look at.
+
+27:44.802 --> 28:00.926
+I cook eggs in my Titanium Always Pan Pro almost every morning. The design allows for the eggs to cook perfectly without sticking to the pan. I also cook burgers and steaks in it, and it puts a really nice sear on the meat. But again, nothing sticks to it, so it's really easy to clean, and it's even dishwasher safe. I love it.
+
+28:01.090 --> 28:17.534
+and I basically use it constantly. Our Place now has a full line of Titanium Pro cookware that uses its first-of-its-kind titanium nonstick technology. So if you're looking for non-toxic, long-lasting pots and pans, go to fromourplace.com slash Huberman and use the code Huberman at checkout.
+
+28:17.666 --> 28:46.398
+Right now, Our Place is having their biggest sale of the season. You can get up to 30% off all products now through May 12th, 2025. With a 100-day risk-free trial, free shipping, and free returns, you can try Our Place with zero risk and see why more than 1 million people have made the switch to Our Place Kitchenware. Again, that's fromourplace.com slash Huberman to get up to 30% off. Now I want to talk about something that, at least for me, was quite surprising when I first learned about it.
+
+28:46.594 --> 29:00.126
+for sake of treatment of mood disorders, and that's creatine. Creatine has a number of very important functions throughout the body. For those of you that are into resistance training, and actually for those of you that are
+
+29:00.482 --> 29:27.582
+into endurance training as well. Creatine has achieved a lot of popularity in recent years because supplementation with creatine can draw more water into muscles and can increase power output from muscles. However, there's also a so-called phosphocreatine system in the brain. And that phosphocreatine system has everything to do with the dialogue between neurons and these other cell types called glia. But the phosphocreatine system
+
+29:28.002 --> 29:57.694
+in the forebrain in particular, in the front of our brain has been shown to be involved in regulation of mood and some of the reward pathways, as well as in depression. The American Journal of Psychiatry in 2012 published a study, which was a randomized double-blind placebo-controlled trial of oral creatine monohydrate. And what it found is that it could augment or enhance the response to a selective serotonin reuptake inhibitor, in particular in women with major depressive disorder.
+
+29:57.954 --> 30:25.790
+So like EPA, creatine supplementation seems to either lower the required dose of SSRI that's required to treat depression or can improve the effectiveness of a given dose of SSRI. However, there are other studies that have looked directly at creatine supplementation in the absence of SSRIs, and those are interesting as well. So let's talk a little bit more about novel therapeutic compounds for the treatment of major depression. One is ketamine.
+
+30:26.402 --> 30:51.454
+which is getting increasing interest in psychiatric clinics in various experimental and clinical studies. They create dissociative anesthetic states. So dissociative states where people don't feel as closely meshed with their emotions and their perceptions. Clinically, what's described in the trials for ketamine and things like it, that people who are depressed will take ketamine
+
+30:52.322 --> 31:21.694
+will experience a kind of separateness from their grief and from their emotions. And that possibly there's plasticity, there actually shifts in the neural circuitry such that their emotions don't weigh on them so heavily. It's not always about just getting people peppy and excited and happy. There also seems to be a requirement for getting them distanced from their own grief. And this brings us back to something that we talked about way back at the beginning of this episode, which was,
+
+31:22.018 --> 31:50.942
+this particular feature of the anti-self confabulation, that everything that happens is a reflection that I should say for the depressed person, that everything that happens is a reflection of how life is bad and their experiences just point to the fact that nothing is going to get better. This is the common language of depression. If this is very depressing to hear me talk about, it is heavy. And that's what it's like to hear these things. It's even heavier, of course, for somebody to experience them. And those,
+
+31:51.266 --> 32:20.958
+those patterns of guilt and grief and anhedonia and delusional anti-self confabulations, those are the things that eventually, if they get severe enough, start to convert into things like self-harm, mutilation, and in the most tragic of cases, of course, suicide. And so I think we can look to these treatments such as ketamine and its use in the clinic as ways for people to get distanced from the negative affect that they feel
+
+32:21.090 --> 32:49.694
+isn't just inside them or overwhelms them, but that for the very severely depressed person, they feel is them. Another category of treatments that's being actively explored now in laboratories and in the psychiatry realm are the psychedelics. And that's a huge category of compounds. However, one in particular, psilocybin is one that's being most intensely and actively pursued for its capacity to treat major depressive disorder.
+
+32:49.794 --> 33:19.454
+but let's focus on psilocybin for its capacity to rewire neural circuits and alleviate depression. There have been anecdotal data or evidence over the years that psilocybin has this capacity. How does psilocybin work? Well, psilocybin engages or increases serotonin transmission, meaning it increases the amount of serotonin, mainly by acting at these 5H2A receptors. But where in the brain does it
+
+33:19.778 --> 33:32.702
+and what are the major effects? First, let's talk about the major effects, because I think that's what people are interested in. The study that I'd like to highlight is a fairly recent one. It was published in May of 2021 in Journal of the
+
+33:32.866 --> 33:58.622
+journal excuse me of the american medical association psychiatry so jama psychiatry and it's entitled effects of psilocybin assisted therapy on major depressive disorder a randomized clinical trial basically what they did was they screened for patients to come into the clinic these were people that suffered from major depressive disorder and administered either one or two rounds of psilocybin typically it was
+
+33:58.722 --> 34:21.790
+20 milligrams per kilogram of body weight. So it depends on body weight. What's really striking about this study is that there was a very significant improvement in mood and affect and relief from depressive symptoms in anywhere from 50 to 70% of the people that were subjects in the study who received
+
+34:22.594 --> 34:51.839
+the psilocybin treatment. These are really enormous and significant effects. What's really interesting is there are some common themes to psilocybin administration and experience that lead to relief from depressive symptoms, but they are subjectively, excuse me, subjectively very varied, meaning that whether or not people feel they had a good experience or a bad experience, whether or not people thought about their parents or thought about
+
+34:51.938 --> 35:04.062
+the color of the ceiling doesn't seem to have too much of an impact on whether or not they receive relief during these studies, in these clinical studies. It seems they,
+
+35:04.194 --> 35:33.822
+Different people can have lots of different experiences and still receive benefit. It's somehow rewiring associations between events, emotional events, past events, current events, and future events in ways that allow people to get some sort of relief or distance from these narratives, these depressive stories about their past and present and allow them to see new opportunity and optimism in the future. One of the most common questions I get for this podcast is about different
+
+35:33.922 --> 35:55.070
+different diets, different regimes, different nutritional plans, things like keto, ketogenic diet, or vegan diets, or intermittent fasting, or the all meat diet, the so-called lion diet, et cetera. There are actually really interesting data relating nutrition and diet to major depressive disorder. There have been some
+
+35:55.234 --> 36:18.686
+explorations of whether or not a vegan diet can improve symptoms of depression. Not a lot of data, not impressive data. There have been very few controlled studies looking at the carnivore all meat diet. However, the ketogenic diet has been explored for its ability to relieve certain symptoms of depression, in particular to prevent
+
+36:19.234 --> 36:38.590
+what's called maintain euthymia. Euthymia is the kind of state of equilibrium between a manic episode and a depressive episode in a manic bipolar person. Euthymia is that kind of place in the middle where people feel neither too high nor too low. And there are some interesting studies looking at the ketogenesis
+
+36:38.722 --> 37:05.502
+diet for maintaining euthymia in manic depressives, but also in people with major depressive disorder. The ketogenic diet by way of increasing ketone metabolism or shifting brain's metabolism over to ketones tends to modulate GABA such that GABA is more active and adjust the so-called GABA glutamate balance. This is getting technical, but glutamate is an excitatory neurotransmitter
+
+37:05.602 --> 37:34.014
+GABA's inhibitory neurotransmitter, and their balance is vital for neuroplasticity, for maintaining healthy levels of activity in the brain, et cetera. And so there is decent evidence that people with major depressive disorders, in particular, the people with major depressive disorders that are refractory, meaning they don't respond to classical antidepressants, can benefit, it seems, from,
+
+37:34.562 --> 37:58.590
+the ketogenic diet. It's really interesting that eating in a particular way, lowering carbohydrates to the point where you rely on ketogenic metabolism in the brain increases GABA and can provide some relief for depressive symptoms. And that in particular, that seems to have positive effects in people that are refractory or don't respond to classic antidepressants. So today we've covered what
+
+37:58.786 --> 38:26.622
+at least feels to me like a tremendous amount of material. This topic of depression is indeed an enormous topic to try and get our arms around. We talked about the symptomology, we talked about some of the underlying neurochemistry and biology, and then we talked about approaches to deal with it that are really grounded in the neurochemistry and biology. I just want to recap a few of those tools and what those things are. So number one, don't overwhelm your pleasure centers, either through activities or compounds.
+
+38:26.754 --> 38:56.510
+It might seem counterintuitive, but you're setting yourself up for anhedonia and depression if you do that. Second of all, talked about the norepinephrine system and how the norepinephrine system is really deficient in many forms of major depression and in depression. There is now more deliberate pursuit of norepinephrine-inducing activities that are healthy, that aren't adrenaline-seeking per se, things like exercise that will increase our levels of noradrenaline. I'd be remiss if I...
+
+38:56.738 --> 39:21.118
+said that these activities could completely eliminate depressive symptoms in people with major depressive disorder. I don't think that's the case. And again, I want to acknowledge that people with major depressive symptoms often don't have the energy, the willingness, or the capacity to engage in some of these activities, but things like cold showers, deliberate cold showers, things like regular exercise, they aren't just feel good activities.
+
+39:21.314 --> 39:48.606
+they actually engage the norepinephrine system and keep that system tuned up and allow us to increase our norepinephrine levels at will on a regular basis. And their mood enhancing effects are real effects at the level of neurochemistry. Then we talked about EPAs, these essential fatty acids, and it's clear that for most people getting above a thousand milligrams and probably even closer to 2000 milligrams per day of EPAs can be beneficial for mood, especially in attempts to treat or offset
+
+39:48.802 --> 40:12.894
+major depressive disorder. We also talked about exercise and how EPA and exercise on a regular basis can offset these inflammatory pathways. And then we talked about the prescription compounds and the compounds that are being used mainly in the course of studies and of psychiatry and depression, things like ketamine, psilocybin and related compounds. And then lastly, we talked about ketosis, which may not be right for everybody, but might be right for certain individuals out there.
+
+40:13.058 --> 40:23.678
+we're grappling with this. I want to thank you for embarking on this journey of trying to understand what is depression, how does it work, and how to treat it. And thank you for your interest in science.

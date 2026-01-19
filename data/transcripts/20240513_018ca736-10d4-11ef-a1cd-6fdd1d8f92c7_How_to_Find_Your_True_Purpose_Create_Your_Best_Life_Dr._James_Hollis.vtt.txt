@@ -1,0 +1,1081 @@
+WEBVTT
+
+00:00.386 --> 00:27.518
+Welcome to the Huberman Lab Podcast, where we discuss science and science-based tools for everyday life. I'm Andrew Huberman, and I'm a professor of neurobiology and ophthalmology at Stanford School of Medicine. My guest today is Dr. James Hollis. Dr. James Hollis is a Jungian psychoanalyst and author of more than 17 books about the self, relationships, and how to create the best possible life.
+
+00:27.746 --> 00:50.078
+Some of the notable titles and topics of those books include creating a life, finding your individual path, as well as the Eden project in search of the magical other, which as the name suggests is about relationships. He has also written about how to access our most resilient self in the book entitled living between worlds, finding personal resilience in changing times.
+
+00:50.306 --> 01:19.422
+During today's discussion, Dr. Hollis teaches us what questions we need to ask of ourselves on a regular basis in order to best understand who we really are and what we most desire at the level of vocation, romantic relationships, friendship, and family, and indeed in relationship to life's journey. What you'll quickly realize during today's discussion with Dr. Hollis is that while yes, he is trained as a Jungian psychoanalyst, he is also very firmly grounded in practical tools. That is, he teaches us the simple,
+
+01:19.522 --> 01:46.526
+and yet practical tools that we can each and all apply on a daily basis in order to make sure that we are staying on our best path. We discuss how family dynamics that we grew up in, as well as trauma and attachment styles, combined with our unique gifts, and indeed our shadow side as well, in order to drive us down particular trajectories in life that sometimes lead us where we want to go, but other times lead us astray. And when they do, how to get back on track.
+
+01:46.754 --> 02:14.142
+Today's conversation with Dr. Hollis is truly a special one in that he rarely does podcast appearances. In fact, we traveled to him to record this podcast. That's how motivated I was to be able to sit down with him because I'm familiar with his many books and his incredible teachings, but I really wanted to get his knowledge collected in one format, in one place. And what I can promise you is that by the end of today's podcast, you will be thinking differently about yourself, about the people in your life and indeed life itself.
+
+02:14.402 --> 02:44.368
+Before we begin, I'd like to emphasize that this podcast is separate from my teaching and research roles at Stanford. It is however, part of my desire and effort to bring zero cost to consumer information about science and science related tools to the general public. In keeping with that theme, I'd like to thank the sponsors of today's podcast. Our first sponsor is Matina. Matina makes loose leaf and ready to drink yerba mate. Now I've long been a fan of yerba mate as a source of caffeine in part because of its high antioxidant content, as well as its ability to elevate glucagon like peptide
+
+02:44.368 --> 03:13.502
+which leads to a slight appetite suppressing effect, as well as its ability to regulate blood sugar and possible neuroprotective effects. I also just happen to love the way that yerba mate tastes. I'll sometimes drink it hot by pouring hot water over the loose leaf yerba mate. And I'm particularly fond these days of drinking the zero sugar cold brew Matina yerba mate that I helped develop. Now I realized that there are a lot of different brands of loose leaf and canned and bottled yerba mate out there. But the reason I like Matina the most is first of all, it has,
+
+03:13.698 --> 03:21.918
+absolutely the best taste of all of them. Secondly, they only use organic ingredients. And thirdly, because they offer low sugar and zero sugar varieties.
+
+03:22.050 --> 03:43.742
+If you'd like to try Matina, you can go to drinkmatina.com slash Huberman. That's spelled drink, M-A-T-E-I-N-A.com slash Huberman. Right now, Matina is offering a free one pound bag of loose leaf yerba mate tea and free shipping with the purchase of two cases of their cold brew yerba mate. Again, that's drinkmatina.com slash Huberman.
+
+03:44.130 --> 04:10.654
+Today's episode is also brought to us by Juve. Juve makes medical grade red light therapy devices. Now, if there's one thing that I've consistently emphasized on this podcast, it's the incredible impact that light, meaning photons, can have on our mental health and physical health. Red and near infrared light has been shown to have profound effects on improving cellar health, which can help with faster muscle recovery, boosting healthier skin, reducing pain and inflammation, enhancing sleep, and much more.
+
+04:10.818 --> 04:28.510
+What sets Juve apart is that it uses clinically effective wavelengths, emits a safe and effective dose of red and near infrared light, and most importantly, offers the only true medical grade red light panel available. I personally try to use the handheld Juve Go unit as it's called every day, and especially when I'm on the road traveling.
+
+04:28.834 --> 04:55.486
+If you'd like to try Juve, you can go to juve.com slash Huberman. That's J-O-O-V-V.com slash Huberman. Juve is offering an exclusive discount to Huberman Lab Podcast listeners with up to $400 off Juve products. Again, that's juve.com slash Huberman. Today's episode is also brought to us by BetterHelp. BetterHelp offers professional therapy with a licensed therapist carried out online. I've been going to therapy for well over 30 years.
+
+04:55.650 --> 05:19.774
+Initially, I didn't have a choice. It was a condition of being allowed to stay in school. But pretty soon I realized that therapy is extremely valuable. In fact, I consider doing regular therapy just as important as getting regular exercise, including cardiovascular exercise and resistance training, which of course I also do every week. The reason I know therapy is so valuable is that if you can find a therapist with whom you can develop a really good rapport, you not only get
+
+05:20.066 --> 05:46.110
+terrific support for some of the challenges in your life, but you also can derive tremendous insights from that therapy. Insights that can allow you to better not just your emotional life and your relationship life, but of course also the relationship to yourself and to your professional life, to all sorts of career goals. In fact, I see therapy as one of the key components for meshing together all aspects of one's life and being able to really direct one's focus and attention toward what really matters.
+
+05:46.306 --> 06:16.094
+If you'd like to try BetterHelp, go to betterhelp.com slash Huberman to get 10% off your first month. Again, that's betterhelp.com slash Huberman. And now for my discussion with Dr. James Hollis. Dr. James Hollis, such a honor and a pleasure to sit down with you. I'm a huge fan of your writing and I'm excited to talk to you today. Thank you, Andrew. It's a privilege to be with you. Thank you. Let's talk about the self. This is something that I think people will occasionally wonder about.
+
+06:16.194 --> 06:41.758
+You know, who am I? We wake up every day, we have some stable representation of who we are in our name most of the time. And we develop a self, a story based on what we know about our parents, our siblings, our life. From the perspective of Jungian psychology, maybe psychology generally, how should we think about ourselves
+
+06:42.498 --> 07:10.846
+Well, first of all, the idea of the self with a capital S to distinguish it from the ego consciousness, that is to say my conscious presence as you and I are talking right now, is a transcendent other. It's a mystery. It's essentially governed by our instincts. It's nature seeking its own expression and its own healing. What I've seen in terms of the activity of the self through the years, it has two agendas. One, healing when injured.
+
+07:11.458 --> 07:39.262
+And secondly, expressing itself in the same way that the acorn becomes the oak tree, so to speak. Now, the ego, of course, is that little scintilla of energy that we begins to cluster. We're born without an ego, but then there's this assembled shards of experience between the me and the not me that slowly accumulate almost in tidal pools so that I begin to differentiate myself from myself.
+
+07:39.362 --> 07:52.382
+the other, my mother, let's say, or my father, or the object that is there. And you're right. We are an animal that seeks to understand as part of our adaptation to the world. And so we
+
+07:52.578 --> 08:17.950
+are narrative animals. We create stories about it. And our stories rise out of what we're experiencing at the moment. So you can see why a person born into a certain culture or a certain family of origin with its style of relating or disrelating, as the case may be, becomes the ground for defining that person's sense of self. So it's important to distinguish between the self and one's sense of self.
+
+08:18.210 --> 08:44.478
+The sense of self is who I think I am. In any given moment, that's very fluid, of course. Now, we have all kinds of internal clusters of energy. They are called complexes, a term that Jung popularized. And complexes are splinter personalities, he said. So a person might say, why did I get so upset yesterday? What came over me? Or I don't know what I was thinking when I made this important decision.
+
+08:44.962 --> 09:05.118
+And that's our recognition that we were in an altered state at that moment, that something within us had been triggered, had sufficient energy to come up, usurp ego consciousness and take it over. Actually, the term that Jung used in German meant possession. It's a state of psychic possession temporarily.
+
+09:05.250 --> 09:32.062
+You know, we joke that lovers are fools or lovers are blind. So we know that people are in a certain, they're caught in a certain projection onto the other. And, you know, that ultimately gets, you know, resolved into some sort of reality through time and experience with that individual. But in that state of being, one senses that one's making the right decision. And, you know,
+
+09:32.162 --> 10:02.046
+No one wakes in the morning and says, for example, well, today I think I'm going to do the same stupid counterproductive things I've done for decades, but there's a good chance we will. Why? Because we have certain clusters of energy in us that are regularly triggered. When triggered, they catalyze a response in the ego that enacts that program. So it affects our body, it affects our script, and of course it affects our perception of self and world.
+
+10:02.498 --> 10:21.726
+You know, from the standpoint of therapy, one of the things we try to do is suggest to people, you're not what happened to you. Because one of our tendencies is to internalize whatever is happening to us. And thinking of that defines us. Of course, the younger, the more less formed we are.
+
+10:21.858 --> 10:49.502
+the more we're likely to be defined by poverty or by disease or by alcoholism or by sexism or whatever the social constructs are into which we're born, as well as the psychodynamics of the family of origin. So in those circumstances, we all have a provisional sense of self. And if you have a culture that says this is who you are, this is what your orders are, your marching orders, here's your script,
+
+10:49.794 --> 11:13.022
+And the more authoritarian the culture or the more traumatic one's environmental situation in a family of origin, the more likely I'm going to be reacting to that. So when I've had an experience, I'm either going to repeat it or I'm going to try to run from it or maybe I'll be spending my life trying to treat it in some way that I'm not aware of. This...
+
+11:13.154 --> 11:42.014
+activates many people into the healing professions, by the way, whether it's clergy, nursing, therapy, et cetera, et cetera, that that's often a sensitive child in the family who feels, I have to try to stabilize my environment in order to sort of get things back to a normal state, whatever that might be, so that then it can be there for me. But of course, that never quite happens. You know, the child can't fix a parent, you see.
+
+11:42.210 --> 12:08.990
+And so many people in the helping professions are driven there by a powerful internalized message, which becomes their sense of self. So it's a long-winded way of saying there's a distinction between the self, which is the natural organic development of this organism. You know, as we're speaking, it's growing our toenails, digesting our breakfast, mentating, emoting, and so forth. Most of that's autonomous activity.
+
+12:09.890 --> 12:35.262
+It's like the centipede, you congratulate the centipede on how well he coordinates all of his legs and then he thinks, well, should I move this leg or this leg or this? And he's immobilized. These are not functions that we govern consciously, although we can interrupt them consciously. But something is there taking care of us. It's an organic unity. And that's what Jung meant by the self, capital S. Our sense of self is a different matter.
+
+12:35.906 --> 13:00.254
+And so one of the things that I've tried to emphasize in therapy is you're not what happened to you. Because we tend to be bound to our story that says either that's who I am, that's what I'm defined by, or I'm spending my life trying to differentiate myself from that, get away from that, perhaps. So again, our sense of self is very provisional.
+
+13:00.418 --> 13:29.502
+It evolves. And in any given moment, there may be something in the unconscious that's triggered. And of course, the problem with the unconscious, it's unconscious. So I don't know that it's happened. I have the unconscious triggered. It has the power to rise, take over provisionally, spin out its program. And then after a while, it recedes back into the unconscious. And as I said, sometimes people will stop and say, well, I wonder what
+
+13:29.602 --> 13:58.398
+was behind that decision? Or why did I choose that path? Or what in me is blocking me from doing what I know is right for me? You know, as Paul said in the letter to the Romans, though I know the good, I do not do the good. Well, why not? Well, he saw it as insufficiency of will. But we know it's more than that. We know that there are unconscious factors at work that have a certain autonomy. And the more unconscious they are, the greater their autonomy will prove to be.
+
+13:59.970 --> 14:26.910
+If they are unconscious and they're driving us sometimes into states, other times traits, I mean, and that's perhaps an interesting discussion in and of itself is, you know, what's the difference between a state of mind and body and a trait? But if it's unconscious, what chance do we stand to overcome these things? I mean, where, how does the awareness come about
+
+14:27.042 --> 14:53.982
+Can we do it on our own? Does it require reflection from a trained professional? And if so, when we become conscious of something, does that immediately flip a switch or does it require constant returning to seeing and forcing the unconscious to become conscious over and over again? Sure. Well, those are great questions. First of all,
+
+14:54.082 --> 15:13.118
+Again, none of us rise as saying we're going to be counterproductive today, but we will because of the autonomy of those clusters of energy within us. Now, I've said to many people who've asked that question, well, start with your own life. Look to the patterns that you have. A pattern is an indication of...
+
+15:13.250 --> 15:34.558
+of some cluster of energy, whether it's outward or whether it's inward that you're carrying with you. And we don't do crazy things. We always do logical things. If we understand that what we're in service to intrapsychically, I'll give you an example. I was working in a closed ward of a hospital many decades ago.
+
+15:34.914 --> 16:01.342
+And there was a fellow repeatedly trying to break a window. People were assuming he was trying to escape or get a shard of glass for some nefarious purpose. And no one bothered to ask him why he was doing this. And he said he had the delusion that he was, first of all, in a locked ward. So he was caught in a non-voluntary situation. And in his psychosis, he felt that somebody was pumping air from the room.
+
+16:02.210 --> 16:25.598
+Now if this door was locked and the air is being pumped out of this room, the most logical thing we would do is break through a window or break down the door. So his behavior was logical based on the premise. Now the premise is often inaccurate or tied to one place but gets extrapolated to another one somewhere else. And then we are responding logically to that premise.
+
+16:25.762 --> 16:55.326
+So you start with your own life, particularly the places where you find these are self-defeating behaviors or behaviors that are hurtful to you and someone else. And then you say, since that's not my conscious intention, and yet there it is as part of my history, then I have to say, all right, what is it within me that has the kind of power to take over my ego consciousness? Now, just to back off for a moment here, I think we're only conscious in
+
+16:55.490 --> 17:17.310
+in the ego dealing with reality a few times during the course of a day. My favorite analogy is when you get up in the morning and you step in the shower, it's too hot or too cold, so you change the water temperature. Well, that's the ego in its proper function. It's being adaptive to its reality. It's being protective at that moment. It's achieving the optimum situation for you.
+
+17:18.146 --> 17:46.974
+But from the rest of time on, when that same ego is flooded by other material, some of which is conscious. Who gets the kids today after school? How do I get to the work on time, et cetera? But underneath that are other drivers that have to do with fear-based responses or adaptive responses that were perhaps once protective. But later, you know, we weren't born with them, but we acquired them along life's highway. So what was once protective often becomes constrictive later.
+
+17:47.874 --> 18:14.494
+and creates those patterns. So number one, you start with your patterns. Secondly, and everyone sort of laughs at this, but there's a certain truth there, you might talk to those around you, such as your spouse or your closest partner or your children, and ask them about what they see in us, if you can bear to hear what they have to say. And to say, where is it you see me being
+
+18:14.786 --> 18:41.790
+hurtful to myself or others or where is it that I get in your face in an inappropriate way? And then we usually have something to inform us with. Thirdly, we pay attention to our dreams because we don't choose to dream, but sleep research tells us that we average about six dreams per night. That's a lot of activity. Nature doesn't waste energy. It's processing something. And it's not just processing. If we pay attention over time,
+
+18:42.082 --> 19:06.590
+you begin to realize it has a point of view. Another way of putting this is the psyche, which is the term I would use here, and that's the Greek word for soul, by the way. The psyche has its own intentionality. It's omnipresent, and it's commenting. And it comments in terms of our feeling function. You don't choose your feelings.
+
+19:07.234 --> 19:28.830
+Feelings are autonomous responses to what has happened. You can repress them, suppress them, anesthetize them, project them onto others. But you are, in the end, a creature that has an autonomous feeling response. Secondly, we have energy systems. If I'm doing what's right for me, the energy is there. The flow is there.
+
+19:29.474 --> 19:58.110
+We can mobilize our energy and we have to in life to get up and feed the baby at 2 in the morning or put in our 40 hour week or whatever the requirements are. But over time, forcing the energy system leads, as we know, to boredom and burnout and ultimately depression, often with self-medication attached to that. Thirdly, we have dreams which comment.
+
+19:58.274 --> 20:26.910
+Most importantly is the question of meaning. If what we're doing is meaningful, as understood by the psyche, it will support us even in the face of suffering and sacrifice and so forth. If what we're doing is wrong, as seen by the psyche, then over time it begins to pathologize. So you take that word psychopathology, literally from the Greek it means the expression of the suffering of the soul.
+
+20:28.066 --> 20:54.430
+which I think is revelatory, the expression of the suffering of the soul. Now, that seems to me obligatory to take seriously. If my soul, and again, that's a metaphor, you know, people look for the soul throughout history, and you can't find it in the pineal gland, for example. The soul's a metaphor for the organic wisdom of that natural being that we are.
+
+20:55.394 --> 21:21.374
+The soul is a metaphor for this purposeful expression of the organism. It is purposeful. In other words, question that occupies all of us in childhood and throughout the first half of life at least, if not an entire lifetime, is what does the world want of me? What do my parents want from me? What do my school teacher want me? What do the playmates expect of me?
+
+21:21.474 --> 21:47.198
+What does the partner want from me? What does the employer want? All of these are reality-based encounters with the demands of the environment. And part of what we have to do is develop enough ego strength to create a provisional sense of self and a provisional functional self to deal with those expectations. But then when you've done that, you know, why are you still here? What's the purpose? Are you simply here to be a creature of adaptations?
+
+21:47.458 --> 22:16.254
+Now, without those adaptations, we would be overwhelmed typically by the circumstances of our lives. So we accommodate them in some way. But in the second half of life, and I'm using a term very loosely, the real question is, what does the soul want of me? You know, what does the psyche want of me? And that's a different question. Then the issue comes up, what is it that is wishing expression in the world through me? That's a different question than what does the world ask of me?
+
+22:17.314 --> 22:44.798
+The people that we would most admire in history are people who in some way found and lived out what the soul was asking of them. It didn't spare them from suffering, sometimes even martyrdom. It doesn't spare you from conflict and pain, maybe isolation, maybe exile, but you're fed by the purposefulness of it. Take that away and life is pretty empty.
+
+22:45.890 --> 23:13.502
+And of course, we live in a culture where there's this enormous barrage of external stimuli. Well, buy this, purchase that, do this or that, the latest thing and this or that, the newest shiny thing. And the more I'm seeking to define myself through that environmental summons, the more likely I'm going to be estranged from something inside. All of us know it, but we don't know what to do about that at some level.
+
+23:14.338 --> 23:43.230
+And typically it has to hurt enough inside to bring a person into therapy. People don't just walk in and say, well, I was in the neighborhood and I thought I'd pop in and talk to a total stranger, pay him some money, and then walk out as a different person. It doesn't work that way. I've often said to people, this is not about curing you because you're not a disease. This is about making your life more interesting, where you realize every morning you get up
+
+23:43.362 --> 24:07.678
+you have something profound to address today. Why am I here? And in service to what? Because if you don't ask that question, you're going to be in service to your adaptive postures from childhood, as many people prove to be, until the conflict within reaches that point where the suffering of the soul, psychopathology, is sufficient. Um...
+
+24:07.810 --> 24:35.806
+I myself was cruising along in my 30s. I'd achieved everything that I wanted to achieve and was enjoying my life and then suddenly, inexplicably, had a very serious depression. And it took me a while to realize that I was asking the wrong question. The first question that occurs to a person under those circumstances is, how quickly do I get rid of this? You know, give me five easy steps or a pill for that or whatever.
+
+24:36.162 --> 25:06.110
+I didn't understand. The real question is, why has your psyche autonomously withdrawn its approval and support from the agenda that you've been addressing? It was a good agenda. Nothing wrong with it, but there was something else that was missing in this process. And it took a depression. It's like something from below reached up and pulled me down. Something was being pressed down. That's depression. And at the bottom of that well, there's always a task. There's always an issue.
+
+25:06.850 --> 25:36.510
+the identification of which can lead one into a new place in one's life, a different journey. In my case, it led me to leave a very fine tenure position in academia, travel to Switzerland, and spend several years there in retraining as a psychoanalyst. And I now look upon that depression as beneficent, but at the time, I certainly didn't, as you can imagine.
+
+25:37.378 --> 25:48.702
+I'd like to take a brief break and acknowledge our sponsor, AG1. By now, most of you have heard me tell my story about how I've been taking AG1 once or twice a day, every day, since 2012. And indeed, that's true.
+
+25:48.802 --> 26:18.782
+I started taking AG1 and I still take AG1 once or twice a day because it gives me vitamins and minerals that I might not be getting enough of from whole foods that I eat, as well as adaptogens and micronutrients. And those adaptogens and micronutrients are really critical because even though I strive to eat most of my foods from unprocessed or minimally processed whole foods, it's often hard to do so, especially when I'm traveling and especially when I'm busy. So by drinking a packet of AG1 in the morning, and oftentimes also again in the afternoon or evening, I'm ensuring that I'm getting
+
+26:18.786 --> 26:22.142
+everything I need. I'm covering all of my foundational nutritional needs.
+
+26:22.402 --> 26:52.368
+And I, like so many other people that take AG1 regularly, just report feeling better. And that shouldn't be surprising because it supports gut health. And of course, gut health supports immune system health and brain health. And it's supporting a ton of different cellular and organ processes that all interact with one another. So while certain supplements are really directed towards one specific outcome, like sleeping better or being more alert, AG1 really is foundational nutritional support. It's really designed to support all of the systems of your brain and body that relate to mental health and physical health.
+
+26:52.368 --> 27:16.958
+So if our task is to get in touch with this kind of yearning of the soul,
+
+27:17.090 --> 27:46.750
+to perhaps do some reparative work from our childhood or at least understand our parent-child relationships. And then in an ideal circumstance to express ourselves through some higher calling, if you will. But higher meaning for us or for the world, hopefully both. That would be ideal. In terms of the day, you said you can wake up in the morning, presumably some of the residual thought processes and emotions from a dream –
+
+27:47.522 --> 28:14.302
+or dreams still live within us early in the day. And then we start going about our day doing the practical things, making the cup of coffee, drinking the water, getting some sunshine, these sorts of things. How is it that the typical person, any of us can think about segmenting our thinking and our actions in a way that we're touching into the deeper meaning of life while also carrying out a life?
+
+28:14.530 --> 28:34.686
+because as you know, and I know, and everybody listening and watching knows that there's stuff to do. We need to often get an education, make a living, tend to people around us, tend to ourselves. And it becomes a kind of a neuroscience problem in my mind, right? You know, different brain circuitries for different types of thinking.
+
+28:34.850 --> 29:04.414
+And if I may, I think it also becomes a time perception problem. You know, the brain, the human brain to me is so magnificent at setting milestones that are like get in the shower, finish the shower, check the text messages, talk to somebody and get about the day. The milestones become very close in. And then if we're lucky enough to be able to take a walk and reflect, put the phone away, et cetera, then our mind can expand into, you know, gosh, why am I here? You know, what about my, that thing my grand,
+
+29:04.578 --> 29:32.382
+father said to me or my grandmother said to me. And you know, that the ability to place our perception in larger or smaller time bins seems very closely linked to all of this and to the sense of mortality, which we'll certainly talk about in a little bit. But in a kind of a practical way, in the absence of a daily therapy session, how do you suggest people start to segment
+
+29:32.578 --> 30:02.302
+or compartmentalize in a way that's functional? For instance, should people set aside 15 minutes each morning to just think about why they're on this earth and why they're doing and what they're doing as opposed to just doing? Sure. Well, this is a central problem of our time is everybody is going to say, I don't have time for that. I had a colleague, now deceased, Marion Woodman in Toronto, who
+
+30:02.626 --> 30:19.966
+who used to say to her clients, you have to guarantee me one hour per day that you reflect on your dreams or you journal in terms of what's going on in your life. And she said, always people say, I don't have time for that. Then she said, then you don't have time for therapy.
+
+30:20.962 --> 30:44.894
+You're not making any priority here for this. And you're right. Wordsworth wrote in 1802, the world is too much with us, getting and spending, we lay waste our powers. This is 1802, before the internet, right? With all of its claims upon us. There's such a noisy din around us. We're all distracted by that, you see.
+
+30:44.994 --> 31:13.054
+That's why it usually takes a crisis in a marriage or depression or whatever the case may be to get people to pull out of that and reflect upon that. So I spend 15 minutes every morning before starting just meditating, particularly working on a dream if I've had a dream. And secondly, I reflect on things in the evening too because one of the things we want to try to do is to say, what are the stories I'm living here?
+
+31:13.666 --> 31:41.406
+You know, one of them, I've got to earn a living. One of them, I've got to do this. In other words, I have to do that, you see. But what's all of that frenzy about, you see? That's why I think the first half of life, and I say this semi-humorously, is a huge and unavoidable mistake because we're living just reactively. You see, it's not generative. It's reacting to whatever is going on around us. Is one's entire life to be spent reacting to things?
+
+31:42.434 --> 32:10.270
+Now when you're young, there's only so much ego strength to reflect upon this. A number of years ago, I was asked to give a talk to an advanced group of college students at a university on the psychodynamics of love. Well, they were all interested about love, I can tell you, right? So it was a three-hour seminar. So over the first 90 minutes, we talked about projection, transference, all these. They got it. They were smart kids.
+
+32:10.626 --> 32:30.622
+And then we took a short break. When we came back and I said, now let's apply these ideas to your current or recent relationships. It was like the curtain came down. You know, they were 19, 20, 21, 22 in that area. They couldn't bear, they could get the idea, but they couldn't bear to look at themselves with that kind of scrutiny.
+
+32:31.522 --> 32:59.902
+Flash forward 20 years when they're 40 and their marriage just dissolved or the relationship has hardships of one kind or another, they're much more likely to be able to, A, have enough ego strength to bear looking at oneself. Secondly, there's enough life experience to reflect upon because this kind of work takes courage in the first place. I have to be able to bear to look at myself and
+
+33:00.194 --> 33:27.422
+and see what's there, which won't always be pretty. And secondly, it's humbling because this is not about feeling great, it's about being called to accountability, which is a whole different matter. To be an adult is not just to have a big body, it's to know that I'm accountable for what's spilling into the world through me. Jung said once in one of those telling statements that haunts me in a constructive way,
+
+33:27.746 --> 33:57.566
+He said, the greatest burden the child must bear is the unlived life of the parent. So where I'm stuck as a person, my children will be stuck or they'll be spending their life trying to get unstuck, you see. So the best thing I can do for them is to model for them, you know, a life lived with as much courage as I can mobilize and as much integrity as I can manage. And in doing that, it not only models, it gives permission to them.
+
+33:58.498 --> 34:28.094
+One of the things I've found for many people is they don't really feel permission to feel what they feel, desire what they desire, go out and fight for what matters to them. Because life, we learn early, is conditional. You will be acceptable in this family. You will perhaps be loved. You'll be rewarded or you'll be punished if you meet these conditions. And if you don't meet the conditions, a lot of people put conditions on their children.
+
+34:28.194 --> 34:53.982
+You know, a lot of people are still living through their children. You know, if you forgive the joke here, there's an old joke about Jewish mothers. The fetus is not considered full term until it's graduated from medical school, you see. And that's, it's a joke about a cultural expectation and carrying someone else's unfinished business in a way in which
+
+34:54.210 --> 35:22.046
+is to make them feel good rather than serve what is wanting expression through you, which is quite a different matter. So one of the things one has to do is seize permission to realize life is short. We're here a very brief time, and the summons is to live your journey as honestly as you can. And when you do, it ultimately serves other people. It's not selfish. It's actually serving the self, if you will.
+
+35:22.978 --> 35:51.934
+It's not narcissistic. It's not self-absorption. It's actually humbling. I would never imagine as a child that I would spend my adult life listening to people's suffering. And yet that's my day job. And I'm humbled to be invited into the lives of other people. It's profoundly meaningful. I can't imagine living without that. At the same time, it's not fun. It's not pleasant.
+
+35:52.482 --> 36:20.638
+but it's profoundly meaningful. That's the distinction. That's why of those various sources of insight that we can have into our lives, you have to ask about what is most meaningful to me as defined by the psyche, not by the culture around you. Because what the culture says, it's all about being successful. It's all about making money. It's about living in this neighborhood. It's about buying that object. And if that worked, we would know it. It obviously doesn't. So...
+
+36:20.770 --> 36:45.342
+That's what brings us back to that humbling moment that maybe I'm not living my life. Soren Kierkegaard, the Danish theologian in Copenhagen in the 19th century, talked about a man who was shocked to find his name in the obituary column and he hadn't realized he died because he hadn't realized that he was here in the first place. Now this is Kierkegaard talking the middle of the 19th century.
+
+36:45.442 --> 37:14.494
+Think about the ramping up of the stimuli around us, the steady drum. Among young people, you take away their cell phone and they experience enormous anxiety because this is their link to the world. And yet it's constantly making demands upon them. So again, underneath all of this is we have an appointment with our own souls. And the question is, are you going to show up for the appointment? And I thought I had, but...
+
+37:14.690 --> 37:42.206
+my psyche thought otherwise. So it was in the midst of a serious depression that I began showing up. And it was a difficult process, but ultimately proved to be, I think, transformative. I certainly agree that hardship, for better or worse, is often the way that these things stimulate the self-reflection that's required for change. There seems to be a tricky situation whereby
+
+37:42.434 --> 38:11.198
+On the one hand, I'm hearing and I agree that it all starts with being very honest with oneself about what one really wants. And I love and thank you for mentioning this 15 minutes in the early part of the day, perhaps ideally 15 minutes at the end of the day where one takes time away from input from others of any form, electronic or otherwise, to just reflect on what's inside and the messages coming up through dreams and reflection, et cetera.
+
+38:11.682 --> 38:38.846
+So important. And may I just add another piece? Forgive the interruption, but I've often said to individuals, it's not so much what you believe, feel, or do. It's what it's in service to inside of you. That's an important distinction. So I may think I've done a good thing when it's really an old codependence, or it's a way of avoiding conflict, or it's a fear-driven response.
+
+38:39.426 --> 39:05.982
+We have to always be asking, but what was that in service to inside of me? You may not know at first, but you keep asking the question, it'll start rising to the surface. You begin to recognize that. That's how we begin to identify some of those internal drivers that we call the complexes. Because again, they're clusters of energy with the power to create a provisional personality.
+
+39:06.946 --> 39:33.950
+And many times people are identified with their complex. That's who I am. I am what I do. I am my performance. Rather than beneath all of this is a human being who is wandering through life, afraid of dying, trying to avoid pain as much as possible, and hoping that someone's going to step in and make it all right. I'm certainly familiar with the feeling of...
+
+39:35.810 --> 40:02.814
+recognizing what I want, but being afraid that if I were to express that, that it would not be accepted. Certainly. And that certainly can create problems. I'm also familiar with recognizing what I want and stating it very clearly, and some people, fortunately, responding well. But I think it's fair to say, at least based on my experience, that
+
+40:03.106 --> 40:30.558
+when we are really honest with ourselves and with others, it doesn't always land well, right? I mean, I pay a lot of attention, probably too much to messaging on social media in the landscape of science and health. It's just kind of the world I live in much of the time these days. And what I noticed is that there's a real gravitational pull of people to, let's call them whatever they are, influencers, public figures that are,
+
+40:30.754 --> 40:59.870
+just very clear about who they are, at least in their own self-perception. But then here in lies the twist, it seems, is that what I'm hearing is that often our self-perception is not accurate. That's correct. And it's almost futile to try and convince people that we are who we believe we are, right? And I have a theory that's emerging. It's not a formal theory that the internet and in particular social media is borderline.
+
+41:00.002 --> 41:29.214
+It weaves back and forth between sane and psychotic. Yes. As if a borderline person would, projecting either adoration or total disgust. And I warn anybody now, including myself, if you're going on social media, you're interacting with a borderline organism. So you need to be prepared to be told in various ways, sometimes subtle, sometimes overt, that you're terrible. And you also need to be prepared for immense reward
+
+41:29.570 --> 41:58.814
+and being told that you're spectacular simply by being there. That's what it is to interact with a borderline person. And there's no controlling or predicting their flips. So in any event, that's a little theory that's emerging. Why wouldn't it be that way, right? You're the psychologist, but why wouldn't it be that way? Because ultimately social media is the emergent property of all these individuals. Okay, so you've made it clear how one way
+
+41:59.362 --> 42:25.374
+to anchor to the self and get in touch with what's really going on inside. Reflecting on dreams, reflecting on what geysers to the surface, journaling perhaps, meditation, ideally twice a day, perhaps therapy as well would be ideal. But then we move about our day and we do our best to be the best version of ourselves. And when we get positive feedback, we tend to, I think as,
+
+42:25.730 --> 42:55.710
+You know, neurobiological, psychological organisms do more of that. Do more of that. And it's sort of a bank account of sorts. We're going for a net positive balance. And we tend to do less of the things that give us negative feedback, except perhaps go to social media where people seem to go on there specifically for friction-based interactions as well, which is its own thing. So as we move through life, first half of life, second half of life,
+
+42:56.258 --> 43:25.246
+How is it that we can orient in time, as I kind of put it before, how can we carry out these daily or weekly or maybe yearly reflections in a way that really serves us well? I mean, do you recommend one day a week stepping away from everything? Do you recommend doing retreats of sort? Do you recommend that people keep a life journal is the story and seeing how one story of
+
+43:25.730 --> 43:54.014
+evolves, is this useful? What I'm trying to do here is kind of orient people to some practical tools because I think at some level we can get pulled down currents of any kind. And ideally we stay out of deep pathology, but even if we hit the rumble strips and go back over and over again, this is important work, right?
+
+43:54.242 --> 44:12.894
+being the best version of ourselves and society benefits from that. So are there more macroscopic things that we can do or is it just a daily chip away, two meditations, ideally therapy, journal and just anchor down? Do we ever get to relax?
+
+44:13.026 --> 44:33.182
+Well, of course, of course. First of all, there's no formula that's applicable to everybody and their life circumstances. You know, the word psychotherapy literally means from the Greek to listen to or pay attention to the soul. However you go about doing that is right for you. It's up to you to figure that out.
+
+44:33.346 --> 45:01.790
+And for some people, it'll be working in nature. For others, it'll be working with their hands. For others, it'll be through some creative enterprise or working with their dreams or meditating or whatever. I would say whatever helps you step out of the stimulus response, stimulus response melee that we call our daily life, is likely to be helpful to you, either because you rest and you restore the psyche and or...
+
+45:01.890 --> 45:28.734
+You have some reflection upon it. You recollect yourself as it is, right? You remember the self because we get unraveled. I often have the feeling of getting unraveled in life where, you know, this calls you and this calls you and this calls you and that calls you. And it's just pulling you away from some center here. And again, this is not about self-absorption, but if I'm not in connection with something abiding here,
+
+45:29.218 --> 45:58.494
+my behaviors or choices there are not gonna be very helpful in the long run, you see. They're gonna be merely responsive to the demands of the environmental circumstances. One thing I enjoy doing from time to time is drawing. I like doing anatomical drawings and things of that sort. And I find that if I engage in an activity that absorbs all of my attention, even though I have zero minus one aspirations of becoming a commercial artist or something of that sort,
+
+45:58.754 --> 46:25.982
+that two things happen. One, I exit the stimulus response world. And at the same time, it's inevitable that some insight comes later. That's right. What is that? Well, see, I think that's a good example though, as you said, of exiting the stimulus response cycle, because in that moment, something in your psyche rises to express itself through you. And, and
+
+46:26.146 --> 46:47.582
+You know, it's your drawing. We could perhaps read that drawing and perhaps interpret something of it. You know, like the famous Rorschach, for example. I mean, Rorschach's an inkblot. When's an inkblot not an inkblot? Well, when I confabulate a response to it, you see, and that response is indicative of what is going on inside of me.
+
+46:48.002 --> 47:15.870
+So that's a good example. I mean, for some people, you know, they have those moments when they're out jogging, for example, or riding a bicycle or whatever it does, listening to music. There's no right path for everyone. It's like find the place where you're able to be alone with yourself. And if you can tolerate being with yourself and you pay attention, something will start coming up, you see?
+
+47:16.738 --> 47:41.470
+And ultimately, ironically, that's the cure to the great disease of our time, which is loneliness. It's interesting that the UK and Japan now have cabinet-level posts for ministers of loneliness, so great as the loneliness. We've never been more connected in human history through our electronic media. And yet people are now isolated in their rooms talking to each other.
+
+47:41.730 --> 48:00.734
+And I saw a cartoon, probably New York or somewhere, where a couple was getting married and the minister says to the couple, text each other, I do. It was ultimately a joke about how we are so media dependent now that we're disconnected from each other. And so...
+
+48:00.866 --> 48:30.366
+Whatever it is that helps you link to something in here. Jung asked this question, which I'm also haunted by in a constructive way. He said, we all need to find what supports us when nothing supports us. And that's ultimately the cure for loneliness, that there's something inside of me that knows me better than me, is working hard to bring about a healthy response to whatever life brings,
+
+48:30.658 --> 48:57.822
+And it has a purposefulness to it, an intentionality, an expression. And when I'm in touch with that, I feel that sense of wholeness and purposefulness. When I'm out of it, it's when I start unraveling, so to speak. And I'm just, that's how we get exhausted and burned out and so forth. So again, I use that word recollecting, remembering. It's like pulling the pieces back together again in some way.
+
+48:58.530 --> 49:27.326
+It's what Shakespeare said, knitting the raveled sleeve of care, you see. He was using the same metaphor of being unraveled in some way. I love this notion of spending time alone and accessing one's deepest resource for self-care as a way to deal with loneliness. Because ultimately, I also completely agree that stimulus response is the hallmark of
+
+49:28.290 --> 49:56.318
+Text messaging, there can be useful aspects to text messaging, of course, coordinating plans, et cetera, and communicating. But certainly social media, we have a stimulus response device. Some people think of it more like a slot machine, but it never actually returns the jackpot is the issue. And I also think that social media can be terrific for educating and learning as well. Certainly much of what I do or strive to do. I think time alone is...
+
+49:56.738 --> 50:24.798
+incredibly beneficial. So thank you for highlighting that. And also that it doesn't take much, maybe even a half hour walk or something of that sort. If I may, what do you think happens when we exit that stimulus response mode? Do you think the unconscious mind is revealed a bit more to us? And I think of the unconscious mind, a former guest on this podcast, a psychiatrist described the unconscious as kind of like the
+
+50:25.346 --> 50:51.326
+iceberg that's beneath the surface, all the stuff going on that we're entirely unaware of. Do you think that the water recedes a little bit? Oh, absolutely. Because there's no room for the expression of whatever's wanting to be acknowledged within us when we're constantly responding to our environmental demands. One of the things I try to do is walk a mile every day. I've gone through some health issues in recent years and
+
+50:51.490 --> 51:17.886
+So I'm sort of in a physical recovery stage of life and I walk a mile a day, even though it's physically difficult. And I find that revelatory because I'm focused on being present here rather than all of the distractions there. And that's one of the things that I have found a form of meditation, if you will. And what comes up for me is often surprising.
+
+51:19.874 --> 51:49.246
+I've talked before on the podcast about meditation, clinical hypnosis, something called yoga nidra, which is a self-directed relaxation. I sometimes call it non-sleep, deep rest, et cetera. And without taking us on a tangent, I raise this because we keep talking about meditation. And I think to a lot of people, meditation sounds like something esoteric. To me, as a neuroscientist, meditation is a perceptual exercise. It can be done to enhance focus by focusing on a specific location behind the forehead or looking at a
+
+51:49.346 --> 52:14.846
+light. It can be, um, an, uh, open monitoring meditation where you're intentionally not trying to focus on any one thing, but it, at the end of the day, it's a perceptual X, it's a deliberate perceptual shift. Um, much in the same way that if I decide to, you know, listen to an opera with my eyes closed, that's a, in some sense, it's a meditation. It's a deliberate perceptual shift. Um, so a,
+
+52:15.202 --> 52:40.446
+deliberate perceptual shift that we're calling a meditation, which I think is a great label for it, that is directly aimed at better understanding one's own unconscious processing so that one can then lean into the stimulus response parts of life with more intentionality, with less opportunity to hit the rumble strips or go into the gutter. With a more authentic response to it.
+
+52:41.026 --> 53:08.574
+you see, because it's more likely to be coming out of me rather than simply being reactive. I think that's the important thing. What's so important about what you're saying is that for years now, we've heard about, you know, meditation being important as a way to intervene in the stimulus response process. And people say, be responsive, not reactive. And it all sounds so wonderful, just as sounding, being gritty and resilient sounds wonderful. But one of the things that's been important
+
+53:08.738 --> 53:32.702
+really important here that you're raising is that there are methods to do this they almost always involve going inward or someone who can see what we can't see pointing out blind spots in us that's right well i i think again the issue is to still the traffic inside and be present to the moment in whatever way that is that's why i said a person can meditate by work of the hands
+
+53:33.730 --> 53:59.262
+or by walking or something that pulls one out of the cycles that are running their little script over and over and over. So there are many forms of meditating and ancient traditions have revealed that too. There was walking meditation and so forth. And you mentioned music. I think that's another example to listen to music. I think takes one out of, Nietzsche said once, without music, life's a mistake.
+
+54:00.162 --> 54:30.046
+And I think what he was getting at was there is a sense in which music has no purpose except being itself. So when we're really present to the music, we were in the midst of being. We're at spring right now as you and I are talking and it's beautiful in the neighborhood. And so I've been watching the flowers emerge and so forth. And simply being present to that means some of that other traffic is stilled.
+
+54:30.466 --> 54:57.790
+And then I return and the traffic resumes. But maybe I have a little more of a sense of who I am and from whence I'm responding, you see, as a result of that re-centering process. The Zen folks talk about being no-minded. I think it was their way of talking about being present to this moment, but not consumed by the demands of this moment. And that's a difficult thing to manage, but it's essential.
+
+54:58.850 --> 55:09.278
+I'd like to take a brief break and acknowledge one of our sponsors, Waking Up. Waking Up is a meditation app that offers hundreds of guided meditations, mindfulness trainings, yoga nidra sessions, and more.
+
+55:09.538 --> 55:39.504
+I started meditating over three decades ago. And what I found in the ensuing years is that sometimes it was very easy for me to do my daily meditation practice. I was just really diligent. But then as things would get more stressful, which of course is exactly when I should have been meditating more, my meditation practice would fall off. With waking up, they make it very easy to find and consistently use a given meditation practice. It has very convenient reminders and they come in different durations. So even if you just have one minute or five minutes to meditate, you can still get your meditation in,
+
+55:39.504 --> 56:04.222
+is still highly beneficial. In addition to the many different meditations on the waking up app, they also have yoga nidra sessions, which are a form of non-sleep deep rest that I personally find is extremely valuable for restoring mental and physical vigor. I tend to do a yoga nidra lasting anywhere from 10 to 20 minutes, at least once a day. And if I ever wake up in the middle of the night and I need to fall back asleep, I also find yoga nidra to be extremely useful.
+
+56:04.450 --> 56:34.398
+If you'd like to try the waking up app, you can go to wakingup.com slash Huberman to try a free 30 day trial. Again, that's wakingup.com slash Huberman. Perhaps we can talk about the shadow, this notion of the shadow. It sounds very ominous. What is the shadow and are people aware of their shadows? And if they're not, how can they become aware of them and how can they work with them?
+
+56:35.362 --> 57:03.070
+Well, a shadow was Jung's metaphor for those parts of our own psyche and or our affiliation with groups, for example, whether it's a religious group, educational group, a national identity, that when brought to consciousness, we find troubling, perhaps contradictory to our values or inimical to our sense of self-worth or something like that. For example,
+
+57:03.266 --> 57:28.126
+Typical shadow issues include our capacity for jealousy and for envy, for aggression, for greed, et cetera, et cetera. We don't want to acknowledge those things, but since when are we exempt from the human condition? The wisest thing ever said about the shadow came from Latin playwright Terence two millennia ago who said, nothing human is alien to me.
+
+57:29.058 --> 57:47.486
+Now, I think that's important to recognize. In me, I carry the entire capacity of human nature to express itself. Some of those forms of expressions will be acceptable to the society or to my psychological culture, and some will not be. And that's the shadow material.
+
+57:48.194 --> 58:12.734
+And, you know, there's the personal shadow and there are group shadows because nations can be possessed by bloodlust, for example, or a fashion is a shadow issue where everybody has to look the same way and dress the same way and so forth. You know, the more insecure I am as a person, the more likely I'm going to try to look around me for what are the clues so I can fit in, be like others, and therefore I'll be acceptable, you see.
+
+58:12.898 --> 58:37.886
+That's not a federal crime. That's a very deep complex that is left over from childhood. I'm not here to fit in. I'm here to be who I am, which at times will fit in and other times it won't. But that's okay because I'm at least in good relationships to myself at that point. So typically the shadow manifests as being unconscious. Therefore, it just spills into the world through us.
+
+58:38.466 --> 59:03.742
+A perfect example of shadow issues, as I mentioned before, is parents expecting their children to grow up and have, you know, the same kind of values that I have, for example, same religious views, marry somebody that I find acceptable, et cetera, et cetera. Well, that's not really loving the otherness of the other, is it? It's not really loving a child for their own journey. That's them carrying some piece of their own unfinished business. Secondly,
+
+59:04.290 --> 59:26.206
+We disown the shadow by projecting on some, you know, those people across the border there, you know, they're the carrier. They're what's wrong with this world, you see. I disown the shadow in myself by seeing it in everybody else around me. Jung actually said, what often we find troubling in another person is because they're expressing something within our own unconscious.
+
+59:26.562 --> 59:56.414
+You know, as a certain itinerary rabbi said two millennia ago, I can see the speck in your eye but missed the log in my own. That's a perfect illustration of what the shadow is. Thirdly, one can get caught up in it. That's at times what rock concerts are, mass events, people are caught up in a mob mentality where you lose your sense of individual ego identity and become subsumed into a collective mood.
+
+59:56.578 --> 01:00:24.446
+And that could be a hanging mob, for example, as has happened in history too many times. And it could be a force for good or a force for evil. But again, the larger the group, the lower the level of consciousness of the individuals in that group. And then fourthly, we recognize it in ourselves. In a speech at Yale University in 1937, Jung said, a person who could look at their own shadow and own it
+
+01:00:25.186 --> 01:00:53.502
+He said, now has a large problem because they're no longer to blame others for what goes wrong in their life. They have to acknowledge that within themselves. And he said further, it's the single best thing you can do for your society. This is not navel gazing. This is how you lift your unfinished business off of your partner, your children. Take it back yourself, which is a loving thing to do and a civic-minded thing to do if you look at it collectively here. So...
+
+01:00:54.466 --> 01:01:20.574
+How does one learn what their shadow or shadows? Well, again, if you're married, ask your partner. Sure. Who will tell you immediately what your unfinished business may be. Or your children or your close friend, perhaps. It shows up in dreams. Freud talked about a young man who disowned the content of his dream. He says, well, I don't...
+
+01:01:20.866 --> 01:01:47.326
+I said, well, whose dream do you think that was? It was your dream. You have to acknowledge that that was embodying something within you. So there are many ways to recognize the shadow. Often consequences pile up and then one begins to realize, well, the only consistent person in all the scenes of this drama I call my life is moi. So I have to acknowledge that that's my stuff and
+
+01:01:47.426 --> 01:02:11.486
+That's a very humbling thing. That's why I say this work is humbling, not inflating in some way, it's humbling. So again, shadow work is never going to be popular because it means I'm taking responsibility. And yet what else would being a human being who's responsible and adult-like do except accept responsibility, you see?
+
+01:02:11.714 --> 01:02:38.750
+That's one of the definitions I would say of an adult person is I know I'm accountable for what spills in the world through me. Yes, I'm responding to various things that happen around me, but sooner or later, I'm the one bringing my stories, my conditioned responses, and something of my shadow to the mix and responding out of that. Now that's a witch's brew at times, as you could imagine.
+
+01:02:38.946 --> 01:03:04.030
+At the same time, you recognize, all right, but that's my business to address because if I don't, it just continues. What I observe in the world and what I've experienced before is that certainly we all have shadow sides, me, everybody. I mean, I think that's like, I think anyone that doesn't believe that is perhaps not of Homo sapiens.
+
+01:03:04.290 --> 01:03:34.174
+Maybe other animals have shadows too, who knows? But that when shadows clash, it becomes very confusing because given what you're saying, very few people address their shadows. And these days, especially, there's no need to make this political. This is just social. We see mobs forming, as you said, the larger the group, the lower the level of consciousness. And then it becomes,
+
+01:03:34.946 --> 01:04:02.846
+even more challenging to address one shadow when A, there's the perception of an attack. B, that attack oftentimes is the reflection of the other group shadow. And C, people find refuge with people who have similar shadow processes. So not to be pessimistic here, but-
+
+01:04:04.130 --> 01:04:33.310
+Perhaps the answer is what you referred to before is to go inward to the self, work with somebody or somebody close to you that has your best interest in mind, truly best interest in mind, and then try to resolve that. Well, yes. And very few people are willing to do that. That's what polarizes societies, polarizes groups, and so forth. It's comforting to find like-minded people, but then they're both caught in the same complex is another way of putting that.
+
+01:04:33.538 --> 01:04:57.054
+So ultimately, whatever reality is, it's going to wear through that and reveal something that's going to be pretty disconcerting to individuals who are caught in a collective identification that way. You know, the shadow comes because our human nature is thrust into various social situations. We can't help but have a shadow.
+
+01:04:57.250 --> 01:05:22.238
+You know, we have to socialize a child. We learn to use a knife and a fork and not take our siblings food and that sort of thing. You learn to look both ways for you across the street. There's socialization that's important. And yet, the greater the socialization, the more likely there's going to be an interruption. I mean, think about those cultures where people are forced to dress alike for some form of unity or conformity.
+
+01:05:22.434 --> 01:05:44.862
+Think about where a person might have a special gift or talent, but it's not appreciated in family X or Y. Well, where does that natural form of expression go? It pathologizes as depression or it comes out in compensatory dreams or projections onto someone else or it makes the person ill.
+
+01:05:45.538 --> 01:06:10.750
+the unlived life can make a person ill there's a sickness under death as kirkagard talked about it you know it's it's uh it's that sickness where where the human spirit is being repetitively violated and much in our culture violates our spirits and and spirit is not something you will it's something that that is the quickening of life's energy and service to something and if
+
+01:06:10.850 --> 01:06:36.766
+your family or your situation imposed itself upon that. To give a quick example, my own family of origin was one in which they were, by the circumstances of decades ago, unable to attain an education. My father worked in a factory, my mother was a secretary. And for them, life was a series of shaming events.
+
+01:06:37.250 --> 01:07:07.102
+and overwhelming events. And the message to me, both overt and covert, is don't go out there. It's too big, it's too much. Stay here and we'll take care of each other. So one of the first things I did when I was 18 was left. I went to college and came back for vacations, but I left psychologically at that point. Something in me knew that I had to have a larger life than that. And I say that with love and respect and compassion for my parents.
+
+01:07:07.586 --> 01:07:36.318
+The last conversation I had with my mother before she died of cancer, her ancestor, the father she'd never known was from Sweden. And I'd had a book translated into Swedish. And I told her I thought that would be something that would be nice for her. And she was horrified. It's like, why have you written it? What are they saying? And I thought she meant reviewers at first. And I realized that's the voice I heard in childhood.
+
+01:07:36.514 --> 01:08:01.502
+She was saying, you shouldn't be out there. Now people are going to attack you. This will draw attention to you, you see. And her intention was protective. In her last days, actually, before she died, she was more afraid of what people thought than whether her son was living his journey or not. And I say this with grief for her.
+
+01:08:02.434 --> 01:08:31.454
+And that was the message of childhood. You know, it's too much out there. And yet something inside quickened and said, well, you need to go where those airplanes are going. You need to go see the ocean for yourself. You need to try to live in a foreign country and see what that's like. Was I, was that easy? No, it was doubly hard because of the messages I had, but it was just necessary. Sooner or later, again,
+
+01:08:31.746 --> 01:09:01.022
+the appointment with your life, do you keep it or do you not keep the appointment? So that was the first meeting of the appointment was to leave home and start the journey. You know, in terms of the archetype of the journey, first is the departure. And then you have the initiatory experiences, which can knock you down. And then the question is, do you get up and go to the next one? And sooner or later, something begins to change inside and you begin to feel that
+
+01:09:01.410 --> 01:09:30.271
+This is the journey that's right for me. It's very moving to hear because we hear that we become our parents. And yet I've never believed that. I believe that for whatever reason inside us that we either adopt their traits unconsciously or consciously or we resist them 180 degrees in the other direction. Mm-hmm.
+
+01:09:30.466 --> 01:09:58.110
+there doesn't seem to be a 90 degree response as your example beautifully illustrates. That there's something in the brain and in the human psyche that either says, yeah, okay. Like that's just the way life is for better or worse or says no. And I feel I'm 48 years old, so I'm still learning to be a full adult.
+
+01:09:58.274 --> 01:10:25.854
+I like to think there's some neuroplasticity left. Science tells us there's neuroplasticity throughout the lifespan. So I do believe that. But I feel like so much of being an adult, perhaps just being a human being is about learning to stand one's ground and say, no, no, no, no, that's me. And this is what's right for me. And you're wrong, crazy, or just different. And we agree to disagree.
+
+01:10:26.690 --> 01:10:55.166
+And then there's the other half of being an adult, which is saying, oh goodness, you might be right. Maybe you are right. Okay, you're right. I screwed up or I need to think, at least think about this differently. And the hard work of being a human, I think, is knowing when you are dealing with incoming messages that are real,
+
+01:10:56.450 --> 01:11:24.350
+They could be from a healthy source or an unhealthy source. It's complicated. And this is why I mentioned this thing about the internet and social media in particular earlier. I do believe it's borderline. I think if you were to remove the names and the faces and you would just put that into a script, you'd say this is a dialogue coming from a borderline person weaving back and forth across the line literally of healthy and psychotic.
+
+01:11:25.122 --> 01:11:53.310
+And so as a human, especially nowadays, it's complicated. We don't just live in little villages where we go, okay, well, that person tends to kind of spin off and that person seems very grounded, but occasionally makes mistakes too. And so I feel like so much of the work of being, I said an adult, but I'm gonna replace that with just a human is trying to know thyself, right? As the Oracle said, and own thyself and report that into the world.
+
+01:11:53.634 --> 01:12:21.278
+but also to be semi-permeable in a way that's functional is such hard work. Because in both cases, the adoption of what we were told and what was ingrained in us and is unconscious so that we just live out the script of our parents, or where we say, no, I'm gonna leave this little town, or I'm not gonna live life or relationships that way at all. I'm gonna do it this other completely different way, maybe unconventional way.
+
+01:12:21.634 --> 01:12:48.894
+Both have an element of reactivity in them, and certainly both have an element of kind of... There's a vigor behind it. Sure. No, your point is very well taken and appropriate because it is a paradox. First of all, in the Eden Project, a book I wrote on relationship and subtitled The Search for the Magical Leather...
+
+01:12:49.090 --> 01:13:13.790
+There is inside of us this infantile and understandable desire to find the right person who's going to make our life work for us, who's going to take care of us, meet our needs, read our minds, etc., etc., you see. And the other person has that going on in them, so they project that onto us. You wonder why relationships get so complexed, you see. But the great gift of relationship.
+
+01:13:14.050 --> 01:13:42.782
+if you can tolerate it, is the otherness of the other produces the dialectic, produces the enlargement that comes from encountering the other. I've learned so much from my wife, and I believe she's learned a few things from me. Our ongoing dialogue, because we're both similar and very different at the same time, is one that has at times been conflictual, naturally, but most of the time is a pattern of growth because we...
+
+01:13:42.914 --> 01:14:02.334
+are allowed to bring in that other perspective and see the same reality. My wife has taught me to see some things that I wouldn't have seen before because she has an artist's eye. On the other hand, there are places where you have to come up, as you said, against what is central and critical to your own well-being or your own integrity and
+
+01:14:02.466 --> 01:14:31.262
+And then you have to stand for that. And the wisdom to know which is which at any given time is not inbred. It's one of those times where we have to find that balancing point between legitimate dialogue and compromise and sacrifice in a relationship. There's a place for sacrifice. But at the same time, there's a place where you have to say, all right, but I also have to separate myself here and stand for this on the other side of that. And
+
+01:14:31.394 --> 01:14:56.830
+It takes a Solomonic wisdom to know always what's right, but over time, I think one can get a sense of what that's about. So again, that's why we have to individuate as individuals by definition, but also in relationship, because it's the otherness of the others that pulls us out of that self-referential system. Otherwise, we get caught in a circular situation.
+
+01:14:56.994 --> 01:15:22.046
+dialogue among our complexes, for example. As Jung said, it's important to go to the mountaintop to meditate, but if you stay up there too long, you'll be talking to ghosts. Your complexes will be caught in this looping cycle, and you need the other to pull you out of that into the presence of the other. And it's out of that that the third comes. Joseph Campbell made an important distinction once. He said about
+
+01:15:22.658 --> 01:15:51.294
+committed relationship, he said, if you're constantly sacrificing to the other, you'll grow resentful. But if you're sacrificing to the project, the two of you've launched together as a friendship or a marriage or whatever form it takes, you can do that in a very constructive way. You're fed by that because you're mutually committed to the project that this relationship represents. And that's an important distinction, I think.
+
+01:15:52.578 --> 01:16:16.734
+Yeah, given that 50% or more of marriages seem to end in divorce these days, I think that statistic still holds. Do you think that can be largely attributed to people not arriving to those relationships with the mindset you just described, people not arriving to those relationships having a deep enough understanding of themselves prior to that? Or...
+
+01:16:17.250 --> 01:16:39.518
+I think all of the above. First of all, young people tend to marry and make babies, understandably. And then 20 years later, in some way, they're a different person. And it's very hard for the premises that brought them together to still obtain in a developmental and honest way, you know, many years later.
+
+01:16:40.546 --> 01:17:09.342
+When you reach that point, then there's a time for renegotiation or if need be, unfortunately, the dissolution of that relationship. Because I had a colleague in New Jersey years ago who worked exclusively with the couples and she talked about starter marriages. And she said, I've never said that publicly because that sounded too pessimistic. But she said, if you're lucky, your starter marriage will be a good one that will evolve and so forth. But for most people...
+
+01:17:09.666 --> 01:17:37.918
+That which brought them together was running from their parents or replicating their parents' relationships or their insecurity about themselves. Therefore, they bonded with someone else who was going to take care of that for them. Whatever it was, it's been outlived. Their own natural development, their life circumstances have changed. And then it brings about the necessity of some very difficult decisions. So...
+
+01:17:38.082 --> 01:18:06.590
+You know, marriage is an institution with the best of intentions that is sorely tested over time. And, you know, sometimes it'll survive the test. I would not automatically applaud if somebody's been married 50 or 60 years. I would ask what has happened to the soul of that person in that relationship? Has it grown? Has it developed? Did they mutually support each other's growth and development?
+
+01:18:06.690 --> 01:18:24.254
+Or did something get stuck at that point? And are early family of origin dynamics still dominating that relationship? And from the outside, we usually don't know the answer to that question. But inside, you'd have to say, what has happened to this person?
+
+01:18:25.314 --> 01:18:54.334
+And the same is true with parenting. You know, parenting is very, very difficult because we'd like to think we know what's right for our own child, but then they have to spend a good part of their life trying to get away from us in some way, as we did ourselves, you see. And then if you remember that, then you're a little more likely to say, you know, I really don't know what's going on here, but I have to pay more attention to what I think is wanting expression through my child and support that rather than...
+
+01:18:54.530 --> 01:19:20.190
+assuming that they're going to grow up and replicate our lives and our values, as I've said before. Given the number of people who do deep introspective work, either by themselves or with a trained professional, it perhaps should surprise us that 50% of marriages do survive. Yeah, in a way, yes. And those that survive are not necessarily good marriages in the sense in which
+
+01:19:20.290 --> 01:19:49.918
+the person is growing and developing. They may be stuck, they may be afraid of the alternatives, they may be bound by economics, for example, or cultural forms. So again, from outside, you don't know what's happening inside the soul of that individual. And it's very important for us to not judge them for that reason. Earlier, you described the painful work, sometimes painful work of really addressing what one wants and really getting in touch with one's soul, psyche.
+
+01:19:50.210 --> 01:20:15.902
+and how society, or we think society might not approve of that. And yet, when I think about popular culture, oftentimes it's the people that seem to be living in their own truth that are most celebrated. Like there's something about the crowd, I've shifted from mob to crowd here to make it sound more benevolent,
+
+01:20:16.002 --> 01:20:43.774
+but it's still a mob that cheers on the person who really seems to be in their, we say full expression or living in their truth, but who just comes out and says like, yeah, I don't really care what they're saying about me or what people think. I know me, I know my own goodness, my own intention, my own mission and the people close to me do. Hopefully they have people close to them. And we say, yeah,
+
+01:20:44.674 --> 01:21:12.286
+No, it's inspiring. Yes. That's why I said earlier, many of the people in history that we would admire had difficult lives. But we admire them because they stuck to some value that was central to who they were. And they lived that maybe at great cost, but they lived that through whatever suffering they had to experience. Again, from outside, we don't know, do we, when we see some cultural figure out there.
+
+01:21:12.418 --> 01:21:38.686
+Maybe they're manipulative. Maybe they're caught in a complex of some kind. We don't know from outside. You have to say, I mean, one of the shadow issues is how often people will live through a celebrity or live through a pop figure in some way, maybe imitate that person. Again, for a child, that's natural and normal. On the other hand, sooner or later, you have to say, but my journey is a different journey.
+
+01:21:39.778 --> 01:22:06.366
+Maybe they're living theirs, but am I living mine? And I don't mean this in any grandiose way. I don't mean that they have to go out and become something that's noted in the society, but to live in accord with something that is wishing its expression through us. That's why I said the final question in life is what is wanting to live in this world through me rather than what do I want or what do my complexes want? Because they're
+
+01:22:06.466 --> 01:22:35.518
+noisy chatterers in there. I had a dear friend from another state write to me just yesterday. And he's in semi-retirement now and has been dealing with some health issues. And he said, now that I'm not distracted, I have time to work on all the goblins of the past that I left behind. And he's an analyst. So it's not like we get rid of these things. They're lifelong. This is why Jung said, we can't solve these things, but we can outgrow them. There's a big difference.
+
+01:22:36.162 --> 01:23:00.734
+You become larger than what happened to you, for example. You become larger than that voice inside of you that says, you can do this, but you can't do that. And over time, something inside of you is wishing that growth and pushing that and again, pathologizes when that's blocked. So people can be doing all the right things as defined by their values and their environment.
+
+01:23:01.442 --> 01:23:31.326
+and it violates something inside. That's why we can be, quote, successful and achieve things, and it still feels empty. There's no there there. You know, you get to the top of the ladder and you realize there's no there there. And that happens so often in our culture. I remember one of the fiscal figures in the late 20th century who had a personal fortune of $400 million, and he was asked what was his philosophy of life, and he said,
+
+01:23:31.490 --> 01:23:56.830
+Well, at the end of life, the person with the biggest pile wins. And I remember thinking, how infantile is that? This was a smart man, an elder statesman in his field, ultimately went to prison because of some things. But that's the philosophy of the sandbox. I have the biggest pile of sand. I've won. No, you haven't won your debt. And it's a pile of sand. What are you talking about?
+
+01:23:57.410 --> 01:24:24.094
+And yet this is what drove the man's life and obviously drove him across enough lines that it got him into legal troubles sooner or later. And again, I say that without judgment. I'm just saying here's an example of a very achieved person who's been living an infantile philosophy. And as such, something else causes him to pay greatly for that. Yeah, well, I certainly can say that...
+
+01:24:25.538 --> 01:24:52.350
+despite having pursued work with a lot of vigor and career that without question, friendships and relationships are the most important thing. There's just no question, right? Especially when things get hard. That's right. You know, I actually have a list in this very book. I won't flip to it now of the people that I'm just really blessed to call close friends, like real friends.
+
+01:24:52.482 --> 01:25:21.086
+you can count on. And to me, it seems, and I've always, my sister, I have an older sister and she always said, you've always been a pack animal. I've always had big groups of, big-ish groups of friends. And it's something I've invested in heavily, sometimes to the expense of other things, including work and other relationships. But the notion that, yeah, the material things or that the opinions of strangers would somehow fill us, that to me is like,
+
+01:25:21.858 --> 01:25:50.142
+the most foreign concept. Like that's the most foreign concept. But clearly some people operate on those metrics. That's like, and my guess is that they have a reward horizon that is tacked to whatever it is the algorithms are that get them that thing. And so it must feed some reward mechanism that hasn't distracted enough, like locked into this one mode of time perception. You know, just hit the mile mark, hit the mile mark, hit the mile mark so that they're not
+
+01:25:50.274 --> 01:26:13.086
+But when you take somebody like that, who's been doing that for a lifetime and you say, wait, you're on this track going around and around and accruing trophies, but actually that track doesn't go anywhere. It doesn't lead you into the world. My guess is that they've been doing it so long that they're like an animal that's just been digging a trench in its zoo confined cage.
+
+01:26:13.250 --> 01:26:38.366
+Which is something I'm finding with a lot of the men that I see. I happen to see right now in my practice several men between 60 and 80, and one's 82. And of course, they've been conditioned to work. And then suddenly, on Monday morning, you don't have to stop and think who you are. You get up and you go to work and you do what you've done all these years.
+
+01:26:38.722 --> 01:27:08.414
+And then suddenly you don't do that. What are you going to do? Well, you say, well, I'm going to go play golf every day. Well, OK, go do that. But typically, within three or four months, the depression comes. And they'll think about, well, I need to get back into doing this or get doing that, you see. So often, we find people defined by exactly that kind of mentality. I've finished the first lap, so what do I do? Run another lap and run another lap. And you realize you keep coming back to the same starting point.
+
+01:27:08.514 --> 01:27:37.950
+That's why I say it's not what you do, it's what it's in service to inside that makes a difference. So is that person being successful by external standards? Yes, whatever that means. Does that mean that their psyche is going to cooperate and give them that genuine sense of satisfaction in something? No, it won't. It's autonomous. It's not going to get co-opted into that. And sooner or later, you know, chickens come home to roost and then you have a depression, as I experienced.
+
+01:27:38.114 --> 01:28:04.222
+And or you find your relationships are in tatters all around you. So sooner or later, I mean, no revelation on my part, nature will express itself. And if we live long enough, then everything that we've pushed underground is going to be coming up. You mentioned men in particular. So now would probably be a good time to...
+
+01:28:04.450 --> 01:28:33.854
+ask about men in particular. You wrote Under Saturn's Shadow, which is how I initially learned about your work. And then I listened to some of your lectures online. I'm still in the process of reading your other books. But let's talk about archetypes, stereotypes of men and women with the intention, of course, of better understanding what's real as opposed to what stereotype. So in the...
+
+01:28:33.986 --> 01:29:03.678
+let's call it the 1930s, 40s, 50s, 60s view of men in the United States and elsewhere. There was this notion of kind of like the stoic and work and duty and to some extent, a fair amount of mystique, right? Like it wasn't really, because with fewer words, we have less awareness at least of what people are saying, who knows what they're thinking,
+
+01:29:03.970 --> 01:29:29.694
+they talk a lot or not. But there was this idea of the male as somebody who did stuff, maybe thought about it, but didn't really talk about it much. Nowadays, things have changed. This is borne out in the statistics on college campuses about how many people seek therapy if they have an issue. It's gone from like
+
+01:29:30.114 --> 01:29:57.246
+15% to 85 plus percent, at least roughly in the statistics I've seen. But in terms of males and their sense of duty and how they're supposed to be in the world, I would think just the way I just laid out the little, by all admittance, like just very antiquated now view of maleness, that they would be thinking a lot.
+
+01:29:57.538 --> 01:30:27.358
+about what's going on. It would meet some of the daily practices that you talked about earlier, that there would be reflection, that there would be consciousness, there would be an understanding of one shadow, or if one were to add in the other stereotype that went with it, that they drink a lot, right? That was very much, I'll remember my first, I went to graduate school first at Berkeley before I shifted to a different place. And I was told when I got there that
+
+01:30:27.554 --> 01:30:57.502
+It used to be that the faculty and graduate students, of which at that time in the 1970s and 60s was mostly male, mostly, now that's changed, fortunately, right? That they would meet every day after work to drink and then stagger home to their partners every day. And I was shocked. I'm like, are you kidding me? I was like, no, every single day. So the idea here is that that was the old view. Now things are very different. But what about the work of,
+
+01:30:58.850 --> 01:31:25.118
+men and boys to try and understand their own psyche better? What are the things that are specific to them that you've talked about? And then we'll turn to women and then we'll do our best to bridge the divide in a conversation. Well, just to go back to our earlier conversation for a moment, why would those men have to drink every day?
+
+01:31:25.474 --> 01:31:45.246
+And the answer is because there was some deep pain that they had to anesthetize, of which they were by and large unaware, or presumably they would have the opportunity to address whatever that was. And I'll come back to that in a moment. I've been asked often to speak about men by women's groups.
+
+01:31:45.410 --> 01:32:14.590
+Men's groups have never asked me to talk about women, right? Is that right? That's right. You know, individuals such as yourself. But it's mostly women's groups have asked me to talk about those strange creatures called men. And I say, imagine these three things. First of all, that you cut away all your close friends. The women that you share your worries about your marriage with, about your children, about your body, your love life or lack thereof. You know, those people are gone forever. There's no one you can share that with.
+
+01:32:15.106 --> 01:32:44.702
+Secondly, you have to sever your link to whatever your guiding source may be. Call it your instinct or your intuition, whatever it is. That's cut off. It's not acceptable. And thirdly, your value as a human being will be defined by your meeting abstract standards of productivity as defined by total strangers in your culture. And sooner or later, no matter how much you win today, you'll wind up a loser. And the thing is you hold that off as long as you can. So keep running.
+
+01:32:44.994 --> 01:33:11.582
+Right? And women hear that and they think, well, that's horrible. That's horrible. How lonely that would be. How isolating that would be. And of course it is. It's self-estranging. You know, my poor father was pulled out of the eighth grade, sent to work in the factory, worked all of his life in that factory. And by the standards of his day, he was a good man. He supported his family. He didn't run away. He accepted the responsibility.
+
+01:33:11.906 --> 01:33:38.942
+But I also know he didn't live with his own soul. I know that. And I had clues here and there. And I even saw that as a child. And so when I started to reflect on men, I realized I had my own inhibitions about that. And I was fortunately enough as a therapist, I would say, all right, what would you say to someone who expressed these inhibitions? I would say, all right, there's some...
+
+01:33:39.074 --> 01:33:58.654
+fears here that you're defending yourself against. What's that about? So I thought, and then I had a voice in me that said, but these are secret. You don't talk about it. And then I thought, well, that's my duty, isn't it? I have to bring some of those things up. And so that's what led to the writing of the book, Under Saturn Shadow. And
+
+01:33:59.522 --> 01:34:24.414
+I suggested a number of those secrets. One is men's lives are as much governed by role expectations as women's lives are, less so today, but in the past they were ironclad, right? And the net effect of those roles was self-estranging. You are your function, you are your duties. Men's lives are governed by fear-based responses.
+
+01:34:24.578 --> 01:34:52.862
+And there's a certain level of competitiveness that is central to men's culture. Women learn through the years, probably out of necessity, to cooperate and support each other. And they can get through difficult things by doing that. For men, you're always having to demonstrate your competency in one area or another. And the one thing you don't want to do is be a loser. It's a zero-sum game, winners and losers.
+
+01:34:53.218 --> 01:35:22.846
+And ultimately, there's a deep, deep longing for, well, there's a fear of the feminine, so-called, that can include the feminine within, hence men's estranging themselves from themselves. I had a client many years ago who was sent into therapy by his wife saying, you know, either you go to therapy or I'm out of here. So he was there very reluctantly. And he walked in and he saw a box of tissue there, a Kleenex box. And he just kind of sniffed at that.
+
+01:35:22.978 --> 01:35:47.486
+without saying anything. And I knew exactly what he was saying, but I acted like I didn't. And he thought I'd missed the clue. And so he pointed the box and sniffed again. And I said, what's this about? And he said, well, you had a woman in here before, don't you? I'm not going to be needing that. And I said, you know, every man has a lake of tears inside of himself and a mountain of anger in there. And I said, sooner or later,
+
+01:35:47.586 --> 01:36:13.630
+And he said, no, no, we have other better ways of dealing with that. And I thought, well, our prognosis is not very good here. He left after about five sessions because it was just going to ask more than he was capable of. So there's a fear of the feminists. Like I have to be so much in my masculine mode of combativeness or competitiveness or expression of competency. I can't afford anything that one would undo. Yeah.
+
+01:36:14.274 --> 01:36:36.062
+My shaky hold on that. Wheresoever you see macho behavior, you see fear-based overcompensation is what it amounts to, right? You know, saber rattling is always a fear-based response. And underneath there is a very deep longing, you know, for the wise father, for the...
+
+01:36:36.226 --> 01:37:05.150
+person you could see some modeling from who would teach you something, who would share with you wisdom he's learned along the way. And so, you know, the condition of modern men and things have changed a great deal. And I think partly stirred by the revolution in the history of women, you know, and their courage in addressing these stereotypes about what a woman is and what she's supposed to do with her life.
+
+01:37:05.506 --> 01:37:32.670
+required men to start looking at themselves as well. So women have done us a great favor, not always recognized by men. But, you know, in both cases, you have to say, all right, the message you have from family of origin and culture may or may not work for you, but you're here to, in a certain way, deconstruct, you know, those expectations and find your own path, you see?
+
+01:37:33.154 --> 01:38:01.982
+The Spanish analyst Irene de Castillejo, long deceased now, talked about the difference between focused awareness and diffuse awareness. And I think rather than talk about gender, which is a social construct coming out of this culture or this culture or this culture, talk about those are two different modes of orientation to the world. And we need both. We need focused awareness that's goal-directed behavior that is historically associated with the masculine.
+
+01:38:02.690 --> 01:38:30.206
+And we also need this awareness of context and of relationship. So this focused awareness without relatedness leads to sterility and isolation. And on the other hand, too diffuse without a sense of directed and purposeful behavior, you know, means that one is just sort of fumbling one's way through life too. I've always said to women in therapy, you know, to be a man is in a sense your requirement is to know what you want and to do it.
+
+01:38:30.914 --> 01:38:59.518
+But you have to do that too in what Jung called the animus, that is to say the so-called inner masculine or the inner focused awareness. And that goal-directed behavior is what moves your life forward in a purposeful way. But for men, it's about becoming aware of, again, context and relatedness. What happens if I have the biggest pile of sand at the end of my life? Well, you know, obviously you can't take it with you, but in the end it's only sand.
+
+01:38:59.778 --> 01:39:27.038
+Money is only money. What was your life about? That's the question. Women have to ask that. Men have to ask that. And sometimes the culture is supportive in that process. Sometimes it's opposed to that. And then that's when you have to engage in a fight. Men and women have a common summons here. And they can be very supportive of each other as well as celebrate their differences and
+
+01:39:27.778 --> 01:39:52.638
+And recognize, you know, as men are beginning to recognize, if you don't address what's going on inside of you, you're going to be simply a creature of adaptation. And you're going to lose your way sooner or later. When I came back from my training in Zurich in the 70s, I would say my practice was 90% women and 10% men.
+
+01:39:53.250 --> 01:40:12.542
+Today it's the reverse, 90% men. I don't put out a shingle and say I see men or women, I see both. But I think again, the change is in men now. They recognize they're lost in some way. The old masculine definitions are no longer applicable.
+
+01:40:12.962 --> 01:40:39.038
+know, a lot of this happened with the Industrial Revolution, where fathers and sons worked together in the same trade. If you were a tanner, you tanned. You know, if you were a carpenter, you built houses. If you were a shepherd, you, you know, worked with the sheep and so forth. And you sort of learn who you are from your rubbing shoulders with the father. Well, today, men go away to the factory or go away to the office and
+
+01:40:39.202 --> 01:40:59.070
+Sons are at home with their mothers, you know, and their female school teachers and so forth. And so there's, again, this deep hunger for the initiatory father, the supportive father. In traditional cultures where there were rites of passage, they recognized the importance of
+
+01:40:59.362 --> 01:41:21.598
+separating the boy at puberty in a simpler culture, yes, but at puberty, it wasn't initiated by the personal father or relatives. It was by the elders in the tribe, often wearing masks or painted faces because they were archetypal forces. They were not the neighbor down the street. It was like, you're in the hands of the gods now. And
+
+01:41:21.826 --> 01:41:48.734
+require you to leave home and we're going to teach you things but we're also going to bring about some forms of isolation and suffering for you so begin to realize that you have within you the resources to undertake this journey what we have now is a whole culture of uninitiated males who haven't left home psychologically speaking you know in the past they were simply governed by masculine roles and now as those have dissolved for many men
+
+01:41:49.378 --> 01:42:13.950
+there's very little sense of, well, what does it mean to be a man? What am I supposed to do as a man? And the answer basically is go live your life. Find your path. Find the courage and resolve and resources to sustain that over time. But, you know, how to do that is there's no model for that. You have to sort of find that yourself, you see. Yeah.
+
+01:42:14.434 --> 01:42:39.870
+And that's what brings people into therapy at times. And it's interesting that I have right now this collection, and it's consonant with my own stage of life journey too, of I only have one man under 50. And all of the others are interested in how you deal with aging and mortality for good reason. And they're also dealing with how do I define myself other than my work? And that's where the
+
+01:42:40.290 --> 01:43:05.502
+lived life often is coming back in a very useful way, all right? Although there are some things that have left and not coming back in terms of the changes in the body and that sort of thing. But basically, now is the time to address this emotional, developmental, spiritual life. That is to say, do you have any concept of a story that's larger than the stories of your complexes?
+
+01:43:06.082 --> 01:43:29.278
+see doesn't mean one has to be part of a religious group it means that you have to question what quickens the spirit in me what stirs me inside what touches me where do i encounter the numinous and the word numinous means there's something there that that causes this reaction within me so if you and i walk into an art museum let's say
+
+01:43:29.378 --> 01:43:58.686
+And you're touched by a particular painting and frightened by it or moved to tears by it or whatever. And the other person walks by and is indifferent, which is a right. Well, it's not right or wrong. It's this here. It correlates with something in here. That's what caused that resonance. And that resonance is your engagement with something numinous for you. You don't have to know it or explain it or whatever, but you have to value it and ask, what is it that was touched in me?
+
+01:43:59.266 --> 01:44:26.046
+And if it doesn't speak to me, duty or convention or expectations are insufficient to make it happen. We can't will these things to be numinous. Numinosity is something that's defined by one's soul and not by the collective, that's for sure. And women and men in time, I think, will find that they have very similar goals in their life, and that's how to balance
+
+01:44:26.242 --> 01:44:52.286
+my journey with the legitimate commitments of relationship on the other side. And that's why we have that wonderful word sacrifice, you know, not surrender. Sacrifices, sacred, sacrifice, to make sacred. If you're sacrificing on behalf of a value that is right for you and for your project together, then you're both served by that.
+
+01:44:52.482 --> 01:45:19.550
+On the other hand, you don't sacrifice the journey of the individual spirit too. And again, it's about balancing that as best one can. And there's very little in our culture that rewards that. But then the price is again, the symptomatology that comes to the surface. And from a psychodynamic standpoint, we don't say, well, how quickly you'll get rid of the symptoms? We say, why if they come? What are they asking of me?
+
+01:45:20.258 --> 01:45:41.502
+That's why, as I said, my first question in therapy was how quickly did I get rid of this depression, get back on the road, you know, the careerism road, right? And I came in time to realize it was my psyche saying, you're on the wrong path, fella. You don't know. It's not so much that it's wrong. It's just not right for you. There is a big difference here.
+
+01:45:42.178 --> 01:46:05.822
+You're going to have to find a different kind of conversation in your life and so forth. And during my training, I was obliged to do my clinical experience. I was working in a psychiatric hospital in New Jersey. And sometimes I was shuttling back and forth the same day between the psychiatric hospital, a locked ward, and the university campus.
+
+01:46:06.018 --> 01:46:32.574
+I came to realize the conversation in the hospital was more real somehow. It was more about things that mattered. And that's what began to further my resolve to move from academia to being a therapist, a working therapist and so forth. The point is, I need to add this. My way of responding to
+
+01:46:33.442 --> 01:47:00.030
+the family of origin and social context stuff was to retreat into the life of the mind. I didn't realize that's what I was doing at the time. That's why the psyche had to reach up and pull me under. And then I came to realize that the fears that I had in childhood were the ones I had to face at midlife. The difference being I was bringing the adult's capacity
+
+01:47:00.738 --> 01:47:22.398
+the table that was not present to the child. So quick example, in my first week working in the psychiatric hospital, I was assigned to a kind of grizzled old ex-military guy who was my mentor. And without asking me, he took me into an autopsy. It was his, you know, let's initiate the new kid kind of thing, you know.
+
+01:47:22.498 --> 01:47:43.966
+Well I realized it was a test so I stayed cool and so forth. All the while I'm seeing this human body cut up and so forth in a radical way. I realize all that I had fled in childhood was right there on the table before me. It continued to perseverate in my dreams and so forth.
+
+01:47:44.322 --> 01:48:12.254
+I was back in Zurich in my own analysis and I talked about this and my analyst said quite rightly, he said, when you've dealt with your fears, the fears of others will not be so threatening to you. Because the closed ward I was in was at times violent and so forth and was not a pleasant situation. But I could feel my own sense of purpose and gravitas in that situation after that. So it's like you can run, but you can't hide. Sooner or later...
+
+01:48:12.450 --> 01:48:41.726
+What you've avoided will show up in your behaviors or your blockage in your behaviors. So it doesn't go away, it goes somewhere. I'd like to just hover a bit on this idea that, you know, on the one hand, our work is to understand ourselves and what really feeds our soul and to try and live that forward as much as possible in a benevolent way, one would hope. And on the other hand, anytime we,
+
+01:48:42.786 --> 01:49:11.742
+are in the relational aspects of life, in particular, romantic relationship as we sort of framed it here. Because I think with friendships and work relationships, oftentimes it can align with the self in a different way. And it's our work to try and, as you said, sacrifice, to sacrifice one for the other, one for the other in a way that over time allows both to not just persist, but grow.
+
+01:49:12.418 --> 01:49:41.022
+And I'm also thinking about what you said earlier, which was, we should be cautious about immediately applauding the 50-year marriage because oftentimes there's a soul death in one or both people and that we don't want to celebrate that. And yet there's something pretty impressive about a 50-year marriage as a, if for no other reason, as an endurance event, but we have to be cautious about rewarding endurance events like that because as much as they,
+
+01:49:41.250 --> 01:50:08.734
+to be about love. I mean, there's also the endurance event of the person that was a stockbroker for 50 years and got to the end and then walked out of the stock exchange or stepped out from behind the computer monitor and went, oh, wow, I missed a lot. So there's no handbook for this. You know, you spend 15 minutes here and 30 minutes there, ratio of two to one, children absorb energy and
+
+01:50:09.378 --> 01:50:37.246
+when their health or other issues in a relationship, then energy goes as well. So how does one guide the rudder? I mean, does it require third party support? I mean, I've often thought this, that because we evolved presumably in small villages where there was support at closer proximity than perhaps we have now.
+
+01:50:37.698 --> 01:51:03.070
+people that know both individuals and have the best in mind for both and for the collective. I mean, is there the idea that like every romantic couple should have a third party trained counselor to guide them? Seems like not a bad idea, although I think people are pretty resistant to that. And of course it takes resources, which is always an issue.
+
+01:51:03.202 --> 01:51:29.758
+Well, there's nothing wrong with having the third party conversation from time to time, that's for sure. We have to remember that what we call therapy is a relatively modern invention. How was that addressed before? You're right, at the village level. When people were living in vitalized mythological systems, they had a sense of relatedness to the cosmos, first of all. Who are the gods?
+
+01:51:30.082 --> 01:51:53.694
+Whither do we go when we die? What's this life about? In other words, every tribe had its story. Secondly, what is our relationship to nature and to live in harmony with that nature as opposed to violating it repeatedly for our own purposes? Thirdly, to whom do I belong? Who is my tribe? Who are my people?
+
+01:51:53.858 --> 01:52:17.022
+And is that a life serving or life suppressing experience? And fourthly is the mystery of individual journey. By what lights do I conduct my journey and so forth? And of course, those mythological systems were not particularly interested in the development of the individual, but they're certainly about the individual being subsumed into the tribal experience. At least you have a sense of belonging.
+
+01:52:18.562 --> 01:52:43.806
+erode that and people fall out of that into the abyss of the self as it were. Jung put it this way, he said, people walked off the medieval cathedral into the abyss of the self in one of his letters, you see. And it became a cultural contrivance with the best of intention to help people find their path
+
+01:52:44.322 --> 01:53:11.262
+And deal with whatever their psyche's reaction to. You know, again, typically, not always, but typically what brings people to therapy is that their belief system or their conventional practices are no longer working for them. I had a client from Houston once who said in his AA group, their slogan was, this isn't working for me, but I do it very well. That pretty much summarizes the first step of therapy.
+
+01:53:11.362 --> 01:53:38.782
+going into 12-step is that recognition. That's right. And then 12-step, of course, provides so much more. But applicable to all of us. Our practices sooner or later will often, because they're driven by these stories that we carry intra-psychically, they don't work for us, but we've learned to do them with a certain facility and so forth. And that's when the discrepancy becomes so difficult. Then one has to face the fire, so to speak.
+
+01:53:38.946 --> 01:54:03.294
+Then what matters is how am I to conduct my life in the face of these circumstances, which I'm not able to solve in the old way. And that's the adventure. And that's the challenge. And at the same time, it's intimidating to many people, understandably. So sooner or later, again, one has to say, is this your life or is it someone else's?
+
+01:54:04.194 --> 01:54:34.046
+Most people are not living their life, sadly. They're living reactively. They're living whatever the stories were. And I put stories not in the sense that they're so conscious as such as they are representing whatever message we internalized and produced a splinter narrative. Again, when triggered, it has the power to govern our behaviors. That's why, again, you start with your own patterns and say, where did this come from? I wasn't born with it.
+
+01:54:35.042 --> 01:55:02.078
+is something that is replicating itself as a result of this story spilling into the world. So, you know, what I learned in my own life was I had put so much of my emotional distress up in the world of the life of the mind, which was rich and valuable. I don't repudiate that, but it was too one-sided. And what I had to do was come back and face what was on the operating table in that psychiatric hospital.
+
+01:55:02.818 --> 01:55:31.102
+world of repressed emotion, fears, et cetera, et cetera. It's like both are true. Now, see if you can honor both of them. And when you do, something grows and develops within you to respond to that in a new way. So we've been covering a lot of human universals and things that everybody should think about and address. We talked a bit about things more or less specific to men. What about women?
+
+01:55:31.298 --> 01:56:01.086
+What are some of the unique psychic challenges that they face and need to address in specific ways? Sure. Well, first of all, each woman has to examine what was the message given her by her family, by her mother, her family, extended family expectations and role models, and cultural setting and so forth, and say, is this something that supports...
+
+01:56:01.314 --> 01:56:28.190
+my personal growth and development or not? I mean, that's the kind of inventory. Men have to ask that same question as well. We have to acknowledge that biological differences suggest if you're a woman, you're the one who's going to be carrying that baby. And still in our culture, the major responsibility for it, while shared by father and mother, hopefully, still is something you have to attend.
+
+01:56:28.418 --> 01:56:55.646
+And many women are trying to have it both ways, as we know, the career development and being a parent at the same time. I saw a survey some years ago that a large number of women executives, all at MBAs and it all achieved, you know, like vice president status or something in their corporation. When asked around age 50, would you do this all again?
+
+01:56:56.770 --> 01:57:15.070
+Almost 100% said no. It cost too much for me. It cost me too much. They felt something else was missing. They felt friendship was missing. They felt intimacy was missing. In many cases, they felt parenting was missing or it had gotten short shrift, you see.
+
+01:57:15.970 --> 01:57:44.798
+But as men often face when they look at retirement, as the old saying, on your deathbed, you don't say, gee, I wish I spent more time at the office. It's like, I wish I'd done this or that. I know a few scientists who, to this day, say that they plan to die in their office. It's always a sad thing for me to hear this. I also know their children in many cases, and that's about four-fifths of the time is not a good picture. That's right. Yeah. That's right. And again, not all.
+
+01:57:44.898 --> 01:58:10.206
+like this four fifths, but because other colleagues are spectacular parents, but I grew up with the children of a lot of academics and a lot of times it ain't a pretty picture. That's right. So I think that another thing that men in our time really need to learn is if you're in a relationship, part of your role is supporting the growth and development of your partner.
+
+01:58:10.306 --> 01:58:38.014
+And the more insecure the man, the more threatened he will be by that because she might go off in some other direction, you see. And that means sharing household duties and sharing childcare and so forth, which you do to the best of your ability. Having a child and having two careers requires an enormous amount of juggling as we all know. But you can do it in good faith with the best of intentions. If not, resentment builds.
+
+01:58:38.562 --> 01:59:07.742
+one-sidedness built. So I think for women, they still need a partner that will buy into the notion of genuine reciprocity in our responsibility to each other and to our work together, which includes child rearing. Without which, women are unduly burdened, you see, unfairly burdened. And I don't think we've solved that one yet. I think that's still open-ended in the culture.
+
+01:59:07.842 --> 01:59:36.702
+at this point. On the other hand, it's stunning to see women grab hold of the opportunities available now. I'm living in a retirement community as of a year ago, and so many of the women that I've had dinner with, my wife and I have dinner with various people, have said, well, when I was at this stage, women were not allowed to do this. One woman was a scientist, and she said, I just wasn't recognized in the physics world until late in my life.
+
+01:59:37.442 --> 02:00:06.718
+And you forget how recently that was the case. I mean, that was a deep violation of the human spirit, but it was routine. And so many of the women that I see there who are going to be over 70, most of them are over 80, lived in a world that was not unlike a segregated world. Just as I grew up where segregation was practiced by half of this country. It's not so long ago. Somewhat hard to fathom.
+
+02:00:06.818 --> 02:00:33.150
+much things have changed and yet also how much things persist. That's right. That's right. Well, and, you know, the 60s happened and what happened to the 60s is a kind of resurgence from below in both men and women, some men and some women, to overthrow the sort of oppressive nature of role definitions and so forth. You know, I mean, you couldn't
+
+02:00:33.410 --> 02:01:02.462
+think of marrying a person in another religion, for example. You couldn't think of marrying someone of a different race. I mean, it was the price of that meant you had to go live anonymously in the city somewhere, or you couldn't be gay, for example. The love that dare not speak its name, as it was called. All of that's been radically challenged, and rightly so. And yet what that does is bring about a world of great freedom, greater freedom,
+
+02:01:03.202 --> 02:01:32.798
+but also ambiguity. You know, if this isn't right, well, but what's this and what's that? And people are troubled by ambiguity. And so therefore there's always a reactive nature in some individuals who are fighting that, you see. So again, it shows up in various issues of racism, whether we have abortion or not, or whatever the social issue may be. A lot of what's playing out there is the transformation
+
+02:01:32.930 --> 02:02:01.406
+traditional role definitions versus a sense of the autonomy of the individual to live his or her journey, you see. I'd like to shift a bit to discussions of pathology or asserted pathology. Nowadays, I think thanks again to social media or no thanks to social media, there's a lot of use of psychological terms, narcissism,
+
+02:02:02.914 --> 02:02:29.630
+injection, gaslighting, clinical diagnoses. I mean, I admittedly took the liberty of saying that I, as a non-clinician, view the landscape of a lot of social media as borderline, and I have no credential to be able to diagnose an individual, let alone the internet. So I'll be clear about my limitations whenever possible. But
+
+02:02:30.850 --> 02:03:00.606
+There are real pathologies of the psyche of the mind. I'd be curious about your view of the ones that tend to capture people's attention the most. I mean, I think we now understand some of the neurochemical basis of certain psychiatric challenges, schizophrenia, bipolar in particular, OCD particular, sometimes by way of which medications they respond to or don't, but that alone doesn't,
+
+02:03:00.706 --> 02:03:27.198
+allow us to understand their underlying mechanisms. I think a lot of that is still mysterious, but I'd love to get a different perspective on these things, which is the psychological perspective, which of course, embraces biology, but looks at it a little bit differently. So yeah, what are your thoughts about the way that these days, these words are slung and,
+
+02:03:28.994 --> 02:03:54.526
+what's your view about our actual treatment for these conditions, both for the people suffering from them and the people that suffer because others suffer from them? Yeah. Well, you're asking me to speak both as a therapist and as a citizen, I think, and I'll address the first one first. Part of the therapist's role is to differential diagnosis. In other words, if a person comes in and
+
+02:03:54.690 --> 02:04:18.366
+a depression, we have to try to define what kind of depression we're talking about. There are different kinds of depression. Is this a reactive depression? It's only pathological if it lasts too long or interferes with their normal functioning too much. And that's a judgment call. If a person's grieving the loss of something important in their life, the loss of a marriage, let's say, it's appropriate to feel
+
+02:04:18.466 --> 02:04:36.126
+depressed for a certain length of time until life's challenges move on forward and so forth. There is biologically driven depression, which can be approached with medication, although many of the antidepressants are very limited in their success.
+
+02:04:36.226 --> 02:05:03.486
+Long-term therapy tends to be more effective as various studies have recognized, albeit there's an economic cost to that. And then thirdly, there's what you can call an intrapsychic depression, which is what I experienced, was that there were certain parts of my life that had been walled off. And that was crying out. Pathology comes from the Greek word pathos, which means suffering.
+
+02:05:04.194 --> 02:05:30.366
+logos, which means expression of. So pathology means the expression of the suffering. Psychopathology is the expression of the suffering of the soul. So what is it in terms of this person's natural desire to live in a meaningful way that's interfering with her life? Is it biologically driven? Is it a function of the social context in which they live? Or is it some personal task that they have to address? And that kind of
+
+02:05:30.530 --> 02:05:57.726
+Differential diagnosis is essential. And as you said, there are certain conditions that are predominantly biologically driven, such as schizophrenia, bipolar, et cetera. So secondly, then speaking as a citizen, you know, the internet, and I don't want to get lost in the internet again, but it's like it's a vast open stage in which whatever is unaddressed in people can be put out there.
+
+02:05:58.466 --> 02:06:26.238
+without censorship, without reflection, without the other being represented. And it allows people to reveal whatever is going on within them without genuine dialogue. And of course, you can have opposition, but what has to happen typically is, again, associating with like-minded people. I must be right because these other people agree with me, you see.
+
+02:06:26.530 --> 02:06:55.390
+So any of these terms can be misappropriated and will be sooner or later. So what one has to say is we can only make diagnoses with observation over time. It's very hard initially to know what's really going on. As I mentioned, what we do or what someone does is logical. What we don't know is what it's in service to inside of them. And you will not get much sense of that by...
+
+02:06:55.490 --> 02:07:22.142
+the internet because it's too superficial. That's why it takes repeated observation and conversation for that to emerge. The reason I keep coming back to the internet is I think it's where most people get their information now. Unless they're listening to this as a podcast, that's where they're going to get this information. I think what you said about the lack of dialogue being really key,
+
+02:07:22.370 --> 02:07:48.862
+I think we see this now also at the level of media. We have a very polarized media. This is an independent media channel. We don't have a political stance, despite what some people might assert. We don't, right? It's about science and health information for everyone who is interested, zero cost. That's the mission. Understood. When we read and see things now,
+
+02:07:49.186 --> 02:08:17.726
+politics, but also about business, about sport, about celebrity, about kids, about culture. All too often, the labels of psychology are placed on those. Kids are depressed. They're not just lonely, they're depressed. And they may very well be experiencing high levels of clinical diagnosis of depression. That could be true. So my concern, it's a real concern, which is why I keep bringing this up, is that in doing that,
+
+02:08:17.890 --> 02:08:46.878
+that we both diminish the suffering of those who are really suffering from those pathologies. And we also perhaps create a little bit of catastrophizing about feeling low for an afternoon might be a great source of stimulus to go like, write or think or nap or insight. And I loathe to think that in,
+
+02:08:47.042 --> 02:09:12.030
+learning terms that somehow they're getting further away from what they need no I agree you know Louis Pasteur from which from whom we got pasteurization of course reportedly put over the entrance to his office tell me not your politics or your religion tell me only your suffering and I always think about that in the context of therapy because
+
+02:09:12.418 --> 02:09:42.334
+Everybody's a suffering soul because life is difficult and then you die, so have a nice day, right? Life is suffering, and that's not pessimistic. That's just descriptive. The question is, what does that suffering make you do? What does it keep you from doing? That's the central question. There is where the person is called into some accountability. If you're depressed, what's the task that that depression is asking of you?
+
+02:09:43.330 --> 02:10:13.054
+If you're anxious, where is that anxiety coming from? How much of that is archaic? How much of that is inherited from family? How much of that is unique to your life? And what is the task that is to be addressed there? I also wrote a book called Swamplands of the Soul that deals with anxiety, depression, loss, betrayal, et cetera, et cetera. And sooner or later, life is going to take us to swamplands where you find yourself really mired into something.
+
+02:10:13.250 --> 02:10:41.726
+And one will feel very much victimized in that way. But that's the passive experience. The summons is always, what is the task that this visitation to the swampland is asking of you? What do you need to address? If you feel that your partner betrayed you and left the marriage, for example, and took your self-esteem with that, all right, well, your task is the recovery of self-worth. Because without that, no other choice you make is going to be very good.
+
+02:10:42.114 --> 02:11:01.918
+And maybe that's a hard project, but that's nonetheless the work you have to do. So always the question, what does this make you do? What does it keep you from doing? And to bring responsibility back to the individual. And of course, some people are willing to accept that responsibility. Some are not.
+
+02:11:02.050 --> 02:11:28.542
+And that makes the difference. I had a colleague many moons ago who said she could tell in the first hour whether the person she was seeing was a big kid or a little kid because everybody's a recovering child. And the big kids could do the work. The little kids wanted someone to tell them what to do or tell them that there's an easy fix to this. And in the long run, those persons are going to stay stuck pretty much.
+
+02:11:29.058 --> 02:11:53.438
+until something else happens in their life, perhaps. Well, to me, it seems that the litmus test is the extent to which somebody is pointing fingers at others or directing the work towards themselves, regardless of who was wrong. Sure, sure. One individual, both individual, like regardless. Ultimately, I think what you're saying, and forgive me for interrupting, is that if one is asking what is the task,
+
+02:11:53.730 --> 02:12:17.886
+to control one's anxiety, to develop stronger sense of self, to better understand what one really wants and assert that, to set better boundaries so that people's projections are not as permeable to us, whatever it is. Ultimately, there's no business of
+
+02:12:18.626 --> 02:12:48.574
+looking at what others are doing wrong in that it's all introspective and self-directed thing. That's right. Well, and you gave good examples of the kind of tasks that rise out of a person's experience. Now, for example, if a person has been subject to serious abuse in childhood, physical or emotional or sexual or whatever, it's affected their entire life. Well, what is the task? It's to rest from that experience, a sense of self.
+
+02:12:49.410 --> 02:13:14.238
+that one is still here to live one's journey. That's why I said at the beginning of our conversation, I'm not what happened to me. I'm what is wanting to be expressed in my life through me. To get a person to that place takes some time and repetition, frankly. The two hardest things I ever learned as a therapist, and I still don't like either one of them, is patience. You have to sit with it over time.
+
+02:13:15.106 --> 02:13:38.654
+to sort and sift and sort and sift and hold this over time till something else emerges. And secondly, powerlessness. I can't fix anybody, right? But we can try to promote the attitudes and behaviors that will allow that person to find what is right from within them. Because something in each of us always knows what is right for us.
+
+02:13:39.554 --> 02:14:02.110
+If we pay attention and if we are willing to honor what emerges and have enough courage to address that, then we can live in a different way. And it's very tough in the face of substantial abuse, for example, because it was so intrusive and so devastating. It's cleared out a space in which the self seems to find no room.
+
+02:14:02.914 --> 02:14:32.766
+But that's the task then, is the recovery of a sense of self and purpose that's independent of what happened to oneself. It's almost as if one needs to really understand their own story, but then be able to depart from that story. Yeah, that's why I said one has to have a larger story than what happened to you, right? One has to have a larger story than the story that one's culture gives you or your family of origin gives you. What is that story?
+
+02:14:33.314 --> 02:15:01.022
+That's why I said my instructions and my models were to stay home and stay safe. Something in me hungered and I honor my teachers to this day. I enter a local librarian who showed me any book. She recognized this kid's a reader. So she said to me, you don't have to stay in the children's section. You can go anywhere you want in the library, which I thought was like having a lot of candy. I enjoyed that.
+
+02:15:01.538 --> 02:15:25.982
+And as a child, I devoured the biographies of famous people because I think I was looking for clues about how do you live a larger life. I couldn't have languaged that. It was just some deep urge within. How do you live this life in a way that's more satisfying? And I was privileged to have some people there, notably teachers and a librarian,
+
+02:15:26.370 --> 02:15:56.254
+who gave permission to that and supported that. And I'm, and I'm grateful to them. So, you know, I, I, I think it probably would have happened anyway, but much later in life. But I, I look back and I realized there was something there that wanted to go, as I said, to see where the airplanes went, what the ocean looked like, what it meant to live in a foreign country, what it meant to learn a foreign language. You know, all of those things were unimaginable,
+
+02:15:56.706 --> 02:16:24.894
+my family and I, you know, rest their souls because I grieve the life they were not allowed to live. You know, I never forget that. And it, you know, causes me to resolve again to stop and say, all right, now where are you being blocked today by convention or your old fears or your inhibitions or whatever? Because there's always a summons to show up.
+
+02:16:25.602 --> 02:16:53.822
+In fact, in one of the books, I said my motto, which I think about every morning, is very simple. Shut up, suit up, show up. Now, I'm speaking to myself when I say this. Shut up means stop whining. You know, there are people who don't have food today. There are people whose children are being killed today. There are people who don't have a roof. You have tons of things. Shut up. Don't whine. Speaking to myself. Suit up means pre-suit.
+
+02:16:53.922 --> 02:17:20.990
+Do your homework. Don't expect life just to present it to you. You have to go out and work hard at something. Show up meaning not show off, but just do the best you can. Step into life, you know. Sooner or later, life knocks us down. Death is the great democracy, but you're here to live it as best you can by lights that matter within instead of what people around you are saying, you know.
+
+02:17:21.538 --> 02:17:50.910
+And as simplistic as that slogan is, I know a lot of people have copied it and put it on their refrigerator because it's a reminder of this is your life. You're accountable. What are you going to do about that? I'm going to let that sink in for everybody. I think shut up, suit up, show up is essential. I love that. I love...
+
+02:17:51.458 --> 02:18:21.118
+Eric's stages of developmental maturation. For those not familiar, Eric's and I think another Dane, right? Is it Dane? Yeah. Psychologist, you know, set about to kind of explain neurobiology without knowing any neurobiology and asserted that there were specific core conflicts that infants and children, young adults and adults go through. And the age ranges are more variable now.
+
+02:18:21.538 --> 02:18:49.118
+based on life expectancy and other factors than they were originally. But one reason I like Erickson's stages of development so much is that as a developmental neurobiologist first, that's where I started out more or less, it makes perfect sense to me that the brain circuitry would be resolving certain things about interactions with physical objects and relational objects. And it just makes perfect sense and what genius it was to
+
+02:18:49.218 --> 02:19:18.879
+to superimpose on that some ideas about what infants are doing from zero to one and from three to five, et cetera. Rarely, if ever, do we hear about the maturational stages of adulthood and the core conflicts that we all have to go through. Perhaps not exactly from age 45 to 50 or 50 to 55 or 75 to 80 and so forth, but that life as it were
+
+02:19:19.330 --> 02:19:49.086
+might be a series of trying to make it through specific milestones. And when we don't make it through a milestone, problems arise. You described the first half of life as one in which we're kind of foraging more or less for most people unconscious of how our parental influences or family influences set about certain patterns that may or may not be healthy for us. And then at some point, some event comes
+
+02:19:49.474 --> 02:20:17.182
+oftentimes a painful event, but it could be a joyous event like the birth of a child or something like that. And all of a sudden we get hit square in the face with the work that we need to do. Would you say that the second half of life is one in which we, because of our life experience and because of some awareness and yet, because also our brain is yes, still plastic, but it takes more work than when we're kids.
+
+02:20:17.442 --> 02:20:47.390
+to modify our brain circuitry that we, you know, that we have to set about this juggling act of still trying to understand the self while still bringing the self that we have into the world, right? We don't really get to pause, go to the shop and come out a year later in most cases. So regardless of whether or not somebody is 10, 15, 20, 50, or 80 years old, how do we know what our work is
+
+02:20:47.938 --> 02:21:16.606
+Like how do we best know like what to focus on? Because it can be a bit overwhelming to think about like tackling all of this. Sure, sure. Well, let me say, first of all, many years ago, when I was still teaching at a university, I taught a course on life stages. And for one of the papers, I asked the students to imagine two stages ahead of them. So if they were typically 18 to 22, let's say,
+
+02:21:16.834 --> 02:21:38.238
+imagine themselves in their 40s and try to write about their life in their 40s. And the assignment completely failed, although it was made useful for the classroom discussion because all of them imagined in their 40s, they would have this perfect marriage. Their adolescent children would adore them.
+
+02:21:38.530 --> 02:21:57.598
+They would be in these satisfying careers despite everything we'd read, everything we talked about as a time of turbulence and disappointment and so forth. And it was a complete failure. So it's hard for us to imagine that we too will go through these similar kinds of things, but usually we do.
+
+02:21:58.146 --> 02:22:26.430
+And some of this is triggered by roles in one's life. A lot of it's determined by our own aging of the body and so forth. So for example, the last stage in Erickson's discussion in so-called old age is the conflict between despair and integrity. And I remember reading that when I was young and wondering, what did he really mean by that? Now I know that in a very personal way.
+
+02:22:26.530 --> 02:22:55.518
+Despair is one sees friends die. One sees avenues in your life closed that you can't possibly do that. You're confronted with the unlived life or the mistakes you made. You're dealing with loss of functions of the body. You're facing your mortality and so forth and so on. And how could you not despair in the face of that? Well, at the same time, there's, again, the summons to accountability. What now is life asking of you?
+
+02:22:55.938 --> 02:23:24.574
+are you to show up today in this changed environment, you see? So, you know, the stages of life, you know, and Shakespeare wrote about the seven stages of life. I think Erickson had eight stages. And again, underneath this, these things happen, right? And often one doesn't realize it. One reads about it somehow. It's sort of like when you're young. Yes, I understand I'm mortal, but
+
+02:23:24.802 --> 02:23:54.686
+That happens to people out there. It's not part of my DNA. Well, it is. And sooner or later, life is going to unfold, unless it's cut off in some way. And I remember reading when I was in graduate school a saying in ancient Greece that I saw in several different environments. And it said, best of all is not to have been born. Second best is to have died young. And I thought, gee, how awful that is, right?
+
+02:23:54.818 --> 02:24:20.286
+Well I think I've understood why they were saying that. If you're born into the veil of tears, so to speak, you're born into suffering, you're born into mortality, you're born into loss and so forth. If you're going to live, you're going to go through some of those. If you live long enough, you'll go through the loss of people you love and care about. You may outlive your children as I've had an experience.
+
+02:24:20.418 --> 02:24:25.022
+Sooner or later, you know, life will take you to these difficult places.
+
+02:24:25.314 --> 02:24:51.902
+And what are you going to do then? Who are you then? And how are you going to address that? And that's where the issue of integrity came in. And I think Erickson was right on that. To be a person of integrity means to integrate something, to pull back one's stuff and sense this is who I am and this is where I stand vis-a-vis this dilemma. That's why I said the practical question is how now am I to live my life in the face of this situation?
+
+02:24:52.226 --> 02:25:22.206
+That's a task that comes to each of us at some place in our life and that never goes away. Let's talk about death. Okay. I've often wondered whether or not the human brain's ability to adjust the aperture of our time perception is an adaptive thing because were we to not be able to do that,
+
+02:25:23.298 --> 02:25:52.926
+we would probably always focus on the fact that at some point we are going to die. This to me is analogous to a situation in space, not outer space, but let's just frame it this way. We can orient in time and in particular under conditions of stress, our time horizon tends to shrink. We have to solve for now. We get the troubling text message, somebody we care about is in trouble, we need to solve for now. So the time horizon has shrunk.
+
+02:25:53.282 --> 02:26:17.886
+on vacation, we're relaxed, everything's taken care of, we're fed, we're rested, our loved ones are safe, we're safe, and all of a sudden we can daydream. In the space domain, the brain can learn to navigate a small environment like this room. And in conversation, we're present to this room, but we can also imagine that we're just two people among the
+
+02:26:18.114 --> 02:26:46.910
+millions of other people floating on a planet in the galaxies and we can expand our notion of space. The space time dimensionality of perception of the human brain is vast and it can be consciously controlled or unconsciously controlled. So that's great. It allows us to be functional in a number of different space time dimensions. It also can allow us to avoid the reality, which is that at some point our time here is finite. Yes. And the
+
+02:26:47.010 --> 02:27:16.606
+The example you gave earlier of somebody who was just trying to pile up as much money to get to the end was an example, I think, of a shortened time horizon. Other compulsive behaviors, maybe even addictive behaviors, I would argue, have some component often of being a way to avoid the reality of death. It's a way of packing away the fear of death because if you can create these reward-based, which eventually become punishment-based in the case of addiction,
+
+02:27:17.154 --> 02:27:44.702
+milestones and algorithms that the brain is running, solve for this now, solve for this now, solve for this. You stave off the reality, which is death is coming. Are we as humans, meaning is it our work if we wish to be the most conscious, healthy version of ourselves to understand and acknowledge our sense of mortality? I think of what I consider the great
+
+02:27:44.802 --> 02:28:13.790
+commencement speech of Steve Jobs at Stanford in 2015, where he talks about the knowledge of one's mortality is actually in his words, more or less one of the most important features of our self-recognition as humans. So that's the question. And then the challenge becomes how often to think about it. You don't want to think about too much because it can be paralyzing. It can lead, I mean, if we just think that we're, if we acknowledge that we are indeed,
+
+02:28:14.018 --> 02:28:43.966
+fact, just two people among billions floating around on a planet in the middle, then nothing really matters, right? One can get the sense that our impact is zero. But if we overemphasize our impact, thinking that everything we do, like the movement of this book is going to impact molecules that then will impact, you'd go crazy. You become dysfunctional in a real way. So those are the two extremes. And I'll just kind of set that about and let for reflection. But in terms of our
+
+02:28:44.770 --> 02:29:13.694
+our sense of our own mortality and what that means about our sense of life. It seems like a pretty big topic. And I know you're writing a book about this and I'm very excited to read it when it comes out. Well, I've actually written about it before. The paradox here is it's mortality that makes this life meaningful. If we were immortal, we would simply do this for a century, then we'd get bored and then we'd do something else for a century and then get bored and then something else for a century.
+
+02:29:13.986 --> 02:29:38.046
+Life is short, as Jung said, that short pause between two great mysteries. From whence we come, we know not. Whither we go, we don't know. The problem is the identification of the ego. One of the things that's occurred is in many traditional cultures, that ego was subsumed, as I said, into a larger story. Take away that story and what's going to fill that space? The ego.
+
+02:29:38.274 --> 02:30:06.334
+You know, my own importance, my self-perpetuation, the fact that people have frozen their brains and wanting to be revived in some future, you know, era is a good example of denial, it seems to me. It's life means something because your choices are finite. You don't live here forever. Now, when the more you identify with the ego, the more threatened you're going to be by that.
+
+02:30:06.850 --> 02:30:34.974
+And then you begin to realize, all right, the center of my personality is not the ego. There are several things to say about this, none of which is proof of anything, simply observations. And Jung pointed this out in an essay once called The Soul in Death. Psyche doesn't seem to recognize its own termination. People who are overtly dying and they know they're dying. And one of my patients right now is a glioblastoma colonizer.
+
+02:30:35.106 --> 02:31:04.126
+who's not going to be here in a few months, who's acutely aware of mortality. But the dreams have to do with the journeys and crossings and things of that sort. In other words, as if the human psyche is not bound by time and space per se, but the ego is. So if there's another life, it's another life. If there's a life after this, it's another life. This is the only one we know about for sure.
+
+02:31:05.410 --> 02:31:33.118
+I would say in terms of the fear of death, which most people don't want to talk about, but sooner or later it comes up in therapy, no matter what stage of life one is involved in, is either there is another life of some kind which is larger than my imagination can conjure up, or there's an annihilation of this ego identity. Either case, my
+
+02:31:33.378 --> 02:32:02.878
+My worries about it and my anxieties about it are rendered moot. So again, the more I identify with the ego consciousness, the more I'm tied into its perpetuation. The less I'm identified with that, the less it matters. I would say to you at this moment, I'm trying to be as honest as I can about it. The chief thing I worry about as I approach my mortality is I don't want my wife to be alone. I care for her and I know there are areas where she needs my help.
+
+02:32:03.106 --> 02:32:24.158
+And I want to be here for her as long as I can. And my existence a little over a year ago was sort of problematic coming out of all those surgeries. So that's one reason we moved to a retirement community. So there'd be some structure there for her. Secondly, I don't want to suffer, obviously, but that's outside of my control.
+
+02:32:24.450 --> 02:32:53.790
+And thirdly, I'm still curious as a human being. There's so much to learn. And when we're talking about the Internet and its perils, it's also an enormous learning tool. I love to Google up things and find out about things that used to be so difficult to learn about. So I'm still heavily invested in the adventure of life, but I'm less and less attached to it in some peculiar way. It's the ego attachment, you know, and
+
+02:32:54.146 --> 02:33:20.830
+The German word gelassenheit is the word for serenity. It's the condition of having let go. And the only solution, so to speak, for our fear of mortality is accepting it paradoxically, of letting go of the fantasy of the sovereignty of the ego, that it's immune somehow to the natural order of things, the natural progression of things. Now, I'm not saying that makes me
+
+02:33:21.346 --> 02:33:49.726
+unafraid of death that would be delusional and it's in another way but I can say that I'm not defined by it in any way and I think you're right a lot of people what it usually produces is either depression and and torpor of some kind or frenetic activity so the inability of a person to relativize the ego in the context of the idea of the soul and does that soul perpetuate I don't know
+
+02:33:50.082 --> 02:34:19.870
+knew I would tell you I wouldn't want to keep that a secret I don't know it's a mystery maybe I'll be conscious enough to experience it maybe I'll just be annihilated either way as I said my present speculations are just that speculations and ultimately irrelevant and again the thing we have to recognize it's mortality that makes this life mean something because your choices matter you're here a short time what are you going to do with that
+
+02:34:20.066 --> 02:34:49.598
+precious gift you call your life, what are you gonna do with it? Well, I can't think of a more appropriate place to end. And yet I have still so many more questions. But I think because of today's conversation, I realized that those questions are questions to ask of self as I think everyone listening and watching this surely is stimulated to
+
+02:34:49.730 --> 02:35:15.678
+many important questions of self. I must say I'm both a bit awestruck, frankly, because I, you know, again, I'm familiar with your teachings and work in the form of books. And it was a great wish of mine in my life journey to sit down with you face to face and have a conversation. So that's why I'm
+
+02:35:15.842 --> 02:35:20.446
+Speaking more slowly today than I normally do, my audience perhaps will notice that.
+
+02:35:20.962 --> 02:35:49.758
+and they send some emotion, it's that I feel like there's just so much richness here to take in for myself and for everyone listening to take in. I'm certainly going to listen to this again and take careful notes. And we likely will put some notes and some highlights. We always timestamp everything so that people can navigate back. But I think there's just so many essential prompts of the self, of the soul that people are going to be motivated to take as a consequence of hearing your words today. So,
+
+02:35:49.954 --> 02:36:17.470
+I just really want to say thank you so much for the work that you've done and that you're doing and continuing to do and for taking the time to share this information with us because it really is the guts, like the core stuff of being a human being. So thank you so much. Thank you, Andrew. May I just add as a footnote here, there's a...
+
+02:36:17.858 --> 02:36:45.822
+There's a wonderful letter of the poet Rilke to a young man in which he said, you want the answers. The key is to find the right questions and live the questions. You're not yet ready to live the answers, but you ask the right questions in time. If you live them honestly with as much integrity as you can manage, someday you'll live your way into their answers for you. And that's what I would say.
+
+02:36:46.210 --> 02:37:13.374
+Ask large questions. As children, we did. What was this about? Why am I here? What's the story? What's going on here? We get so inured to those questions by our adaptive necessities. And we have to come back to those questions. I'm still asking those questions. I do it consciously now. Ask large questions. You'll live a large and interesting journey. Ask small questions and it gets diminished somehow. Another question.
+
+02:37:14.306 --> 02:37:42.462
+I say to a lot of patients, when you reach a decisive point in your life, we have to make a decision in one way or the other. Ask, does this path enlarge me, psychospiritually, or does it diminish me? And you usually know the answer to that. If you choose the larger path, you're going to grow and develop, but it's going to take something out of you, but it'll give something to you. If you don't, your life gets narrower and narrower and narrower, and something inside of you knows the difference. And
+
+02:37:42.690 --> 02:38:07.038
+Sooner or later, the psyche is going to show up with its point of view. And the more we fled from that kind of question, that kind of conversation, the more pathology is going to erupt when we've avoided the big question. So thank you for asking big questions. And thank you for inviting me to be part of this conversation today. It's been a privilege and a pleasure. Thank you so much.
+
+02:38:07.394 --> 02:38:35.070
+Thank you for joining me for today's discussion with Dr. James Hollis. I hope you found it to be as insightful and practical as I did. If you're learning from and are enjoying this podcast, please subscribe to our YouTube channel. That's a terrific zero cost way to support us. In addition, please subscribe to the podcast on both Spotify and Apple and on both Spotify and Apple, you can leave us up to a five-star review. Please also check out the sponsors at the beginning and throughout today's episode. That's the best way to support this podcast.
+
+02:38:35.330 --> 02:38:45.214
+If you have questions for me or comments about the podcast or topics or guests that you'd like me to consider for the Huberman Lab podcast, please put those in the comment section on YouTube. I do read all the comments.
+
+02:38:45.570 --> 02:39:06.942
+If you're not already following me on social media, I am Huberman Lab on all social media platforms. So that's Instagram, X, LinkedIn, Facebook, and threads. And on all of those platforms, I discuss science and science-related tools, some of which overlaps with the content of the Huberman Lab podcast, but much of which is distinct from the content covered on the Huberman Lab podcast. So again, it's Huberman Lab on all social media channels.
+
+02:39:07.074 --> 02:39:35.198
+If you haven't already subscribed to our Neural Network newsletter, our Neural Network newsletter is a zero cost monthly newsletter that includes podcast summaries, as well as protocols in the form of one to three page PDFs that cover everything from neuroplasticity and learning, or how to improve your sleep, as well as protocols on growth mindset and on and on. Again, all available, zero cost. You simply go to HubermanLab.com, go to the menu tab, scroll down to newsletter and enter your email. And I should mention that we do not share your email with anybody.
+
+02:39:35.458 --> 02:39:43.582
+Thank you once again for joining me for today's discussion with Dr. James Hollis. And last, but certainly not least, thank you for your interest in science.

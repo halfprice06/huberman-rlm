@@ -1,0 +1,280 @@
+WEBVTT
+
+00:00.226 --> 00:28.510
+Welcome to Huberman Lab Essentials, where we revisit past episodes for the most potent and actionable science-based tools for mental health, physical health, and performance. I'm Andrew Huberman, and I'm a professor of neurobiology and ophthalmology at Stanford School of Medicine. And now for my discussion with Dr. Rhonda Patrick. Rhonda, welcome. I am so excited to be here having a conversation with you. Thank you. I have so many questions, but I want to start off with
+
+00:28.674 --> 00:52.062
+a kind of a new but old theme that you're very familiar with. So temperature is a powerful stimulus, as we know for biology, and you've covered a lot of material related to the utility of cold, but also the utility of heat. And as I learn more and more from your content and from the various papers, it seems that cold is
+
+00:52.386 --> 01:16.638
+can stimulate a number of things like increases in metabolism, brown fat, et cetera, et cetera. But heat seems to be able to do a lot of the same things. And I wonder whether or not the discomfort of cold, deliberate cold exposure, and the discomfort of heat might be anchoring to the same pathway. So would you mind sharing with us a little bit about what happens when we get into a cold environment on purpose and what
+
+01:16.770 --> 01:45.662
+happens when we get into a hot environment on purpose. Let's take a step back. And I think you brought up a really important point here. You know, we evolved to intermittently challenge ourselves. And before we had Instacart, where you could basically just get your food delivered to you, we were out hunting, gathering, we were moving, and we had to be physically fit. You couldn't, you know, catch your prey if you were a sedentary slob, right? Physical activity was a part of everyday life. And I
+
+01:45.954 --> 02:09.822
+Caloric restriction or intermittent fasting was also a part of it. This is another type of challenge. You know, we didn't always, you know, have a prey that we caught or maybe temperatures were such that, you know, there was nothing for us to gather, right? So food scarcity was something common as well as eating plants. So getting these compounds that I mentioned. So this is, these are all types of stress, intermittent challenges that
+
+02:10.241 --> 02:35.518
+genetic pathways in our bodies. These are often referred to in science as stress response pathways because they respond to a little bit of stress. You know, physical activity is strenuous. Fasting is a little bit stressful. Heat, cold, these things are all types of little intermittent challenges. There is a lot of crosstalk between these stressors and the genetic pathways that they activate. And these genetic pathways that are activated are
+
+02:36.066 --> 02:59.390
+help you deal with stress. And they do it in a way that is not only beneficial to help you deal with that little stressor, exercise or heat, it stays active and it helps you deal with the stress of normal metabolism, normal immune function happening, just life, aging, right? So this concept is referred to as hormesis, right? This has a very profound antioxidant, anti-inflammatory response or
+
+02:59.618 --> 03:25.502
+you know, or whatever the response is. It could be the production of more stem cells or something like autophagy. These stress response pathways are activated like by a variety of stressors. So for example, one pathway is called heat shock proteins. And as their name would apply, one would go, oh, they're activated by heat. Well, correct. They are activated very robustly by heat, but you can eat a plant like broccoli sprouts, which is high in something called sulforaphane. And it
+
+03:25.698 --> 03:51.326
+It activates heat shock proteins among other things. It also activates a very powerful detoxification pathway called NRF2, which helps you detoxify things like carcinogens that you're exposed to. Cold also activates heat shock proteins. Now you're gonna more robustly activate heat shock proteins from heat versus cold, but there is some overlap. You mentioned plants as a route to creating intermittent challenge.
+
+03:52.418 --> 04:19.518
+There's a lot of debate, mostly online, about whether or not plants are our friends or plants are trying to kill us. The extreme version from the carnivore types, pure carnivore diet types, is that plants are trying to kill us. These generalizations are kind of, they're just not useful. And I think that a lot of people online in the blogosphere, they gravitate towards them because it's easier and it's a lot more sensational. But I do think with respect to plants, there's just evidence that
+
+04:19.649 --> 04:47.646
+that sulforaphane is a very powerful activator of the NRF2 pathway. And this is a pathway that regulates a lot of genes and a lot of genes that are related to like glutathione production, genes that are involved in detoxifying compounds that we're exposed to from our food, like heterocyclic amines. In fact, there have been GWAS studies. So these are genetically, these are studies that are genome-wide associated studies for people listening that aren't familiar. People have a variety of
+
+04:47.810 --> 05:09.502
+versions of genes. And we have a gene that's able to make heterocyclic amines to basically detoxify it so it's not as harmful. And people that don't have a certain version of that that's doing it well are very prone to like colon cancer and increased cancer risk. But if they eat a lot of broccoli,
+
+05:09.602 --> 05:34.078
+and cruciferous vegetables, it negates that risk because they're getting sulforaphane, which activates glutathione transferase and synthase genes. So glutathione is a major antioxidant in our brain and in our vascular system and our body, basically. There's evidence eating things like, you know, compounds that are like sulforaphane or broccoli or broccoli sprouts, which have like a hundred, up to a hundred times more sulforaphane than broccoli.
+
+05:34.466 --> 06:03.646
+are activating glutathione in the brain. There's human evidence of that. Can we cook the broccoli and still get these nutrients or do we have to eat it raw? I confess eating raw broccoli is really aversive to me. So you do somewhat lower the sulforaphane levels when you cook the broccoli. However, there was a study a few years back that showed adding one gram of mustard seed powder ground to your cooked broccoli increases the sulforaphane by fourfold. Are you eating this every day or most days of the week?
+
+06:03.778 --> 06:25.886
+Well, I had shifted to supplementation with sulforaphane. There's another compound, and it's actually called moringa. It's like a cousin, and it activates the NRF2 pathway similarly to sulforaphane. And so I've been buying this Kooli Kooli moringa powder, and I add it to my smoothies. I'd like to take a quick break and acknowledge one of our sponsors, Element.
+
+06:26.050 --> 06:56.016
+Element is an electrolyte drink that has everything you need and nothing you don't. That means the electrolytes, sodium, magnesium, and potassium in the correct amounts, but no sugar. Proper hydration is critical for optimal brain and body function. Even a slight degree of dehydration can diminish cognitive and physical performance. It's also important that you get adequate electrolytes. The electrolytes, sodium, magnesium, and potassium are vital for functioning of all the cells in your body, especially your neurons or your nerve cells. Drinking Element dissolved in water makes it very easy to ensure
+
+06:56.016 --> 07:18.430
+that you're getting adequate hydration and adequate electrolytes. To make sure that I'm getting proper amounts of hydration and electrolytes, I dissolve one packet of Element in about 16 to 32 ounces of water when I first wake up in the morning, and I drink that basically first thing in the morning. I'll also drink Element dissolved in water during any kind of physical exercise that I'm doing, especially on hot days when I'm sweating a lot and losing water and electrolytes.
+
+07:18.530 --> 07:48.496
+Element has a bunch of great tasting flavors. I love the raspberry, I love the citrus flavor. Right now, Element has a limited edition lemonade flavor that is absolutely delicious. I hate to say that I love one more than all the others, but this lemonade flavor is right up there with my favorite other one, which is raspberry or watermelon. Again, I can't pick just one flavor. I love them all. If you'd like to try Element, you can go to drinkelement.com slash Huberman, spelled drinkelement.com slash Huberman, to claim a free Element sample pack with a purchase of any Element
+
+07:48.496 --> 08:14.494
+drink mix. Again, that's drinkelement.com slash Huberman to claim a free sample pack. So if you had to do your kind of top three, your superstars of nutrients for the brain and body, sounds like we've got one set. What would you put in alongside them? Omega-3, the marine omega-3 fatty acids. So these are found in marine types of, you know, animals, fish, cold water fish, fatty fish.
+
+08:14.690 --> 08:43.903
+So there's three fatty acids. There's ALA, EPA, and DHA. If you get a high quality one, it's in a triglyceride form. So you've got like a glycerol backbone with three fatty acids and that's attached. And those are either DHA or the EPA. And, or if you have a lower quality fish oil supplement, then you have what's called ethyl ester form. And it's not that ethyl ester is bad. It just means take it with food. What's the dosage that you recommend people get?
+
+08:44.001 --> 09:11.518
+I think two grams is a good threshold. Now, the International Fish Oil Standards, IFSO, they have a website where they do third-party testing of a ton of different fish oil supplements from around the world. And they measure the concentration of the omega-3 fatty acids in the actual supplement because nothing is ever what it says on the bottle. And then they also measure...
+
+09:11.682 --> 09:40.126
+So mercury, PCBs, dioxins, things that you'd find potentially in fish that were harmful to humans. And they also measure mercury and then oxidized fatty acids. So these omega-3 fatty acids are polyunsaturated fatty acids, which are extremely prone to oxidation. So please keep your fish oil in the refrigerator. They give you a total oxidation number. It's called TOTOX. TOTOX is what we call it for short. And...
+
+09:40.354 --> 10:08.734
+I like it to be at the least under 10, ideally under six. It's really hard to find all the right mixtures of things, but people can go to this website and they can browse through the products. What are some things that getting two to four grams of EPA per day is going to help with in our brain and the rest of our body? I personally think it is one of the most powerful anti-inflammatory dietary lifestyle things that we can get easily that is going to
+
+10:09.154 --> 10:35.838
+powerfully modulate the way you think, the way you feel, and the way you age. So there's been lots of work by Dr. Bill Harris and his collaborators looking at what is called the omega-3 index. So this is actually the omega-3 level in red blood cells. So red blood cells turn over about every 120 days. So it's a long-term marker of omega-3 status. He's done a variety of studies, observational studies, measuring the omega-3 index in people
+
+10:36.194 --> 11:04.030
+and then looking at their mortality risk, for example, or their cardiovascular disease risk. And what he has found is that most, first of all, standard American diet has omega-3 index of 5%. Japan, by contrast, has an omega-3 index of around 10 to 11%. Big difference there. And they also have about a five-year increased life expectancy compared to people in the U.S. What he showed in his data was that
+
+11:04.130 --> 11:31.166
+people that had a omega-3 index of 4% or lower, so close to what the standard American is, but a little bit lower. They had a five-year decreased life expectancy compared to people that had an 8% omega-3 index. People that are in the 4% omega-3 index range, in order to get to the 8%, right, the five-year increased life expectancy, if we're comparing the two groups, was to supplement with at least two grams. It was about two grams a day.
+
+11:31.490 --> 11:59.646
+and I think it was a little bit less if it was triglyceride form, but I think two grams is a good, safe number. So most Americans that are not eating a lot of fish and they're not supplementing are probably around a 4% to 5% omega-3 index. Where and how can somebody measure their omega-3 index? The omega-3 index is actually in the red blood cells, and red blood cells take 120 days to turn over. So if you're going to do a baseline test, if you want to know before supplementing what your level is,
+
+11:59.938 --> 12:29.022
+You have to wait 120 days before doing the second test after supplementing to know how much you went up because that's how long it takes for your red blood cell to turn over. How is omega-3 and some of these other related lipids, how are they having these positive effects? What are some of the purported, reported, and known mechanisms? Some of the most well-known mechanisms do have to do with the omega-3 fatty acids being very powerful regulators of
+
+12:29.730 --> 12:57.566
+the inflammatory process in some way, shape, or form, whether that has to do with resolvins that are produced. So from the metabolites of like DHA, for example, resolvins play a role in resolving inflammation. Like you want your inflammatory response to be activated when it's supposed to be, but you want to resolve that inflammation and inflammatory response in a timely manner, right? And resolvins help do that. And so resolvins are one. And then there's these specialized processes
+
+12:57.762 --> 13:24.382
+promediating molecules, the SPMs that also help resolve the inflammation. Just so many different ways and inputs. And so when we talk about inflammation, honestly, that's a big general term. But you're talking about, when you're talking about serotonin release, you know, at the level of neurons, you know, we know that these inflammatory molecules cross the blood-brain barrier. It's known that omega-3, actually specifically EPA, is able to help
+
+13:24.514 --> 13:54.302
+inflammation inhibits the release of serotonin. And so EPA is actually able to blunt inflammatory responses along with DHA as well. DHA does that through resolvins and stuff. And this then helps more serotonin be released because you're not having so much inflammation getting into the brain and affecting serotonin release, right? That's one mechanism. And then another would be, well, DHA itself has been shown. It's a very important fatty acid that makes up cell membranes, many cell membranes, including in our neurons.
+
+13:54.626 --> 14:22.398
+And as you very well know, Andrew, the structure and function of receptors, of transporters, these membrane-bound proteins on the surface of our cells, including neurons, are affected by the membrane fluidity, you know, like how rigid and how fluid the cell membrane is. And DHA plays a role in that. And so, for example, in animal studies, if you make an animal deficient in DHA, their serotonin receptors, dopamine receptors, they're affected by
+
+14:22.722 --> 14:49.150
+because the structure of them is affected through the fluidity of the membrane. There's been some animal studies in piglets and rodents as well showing that consuming phospholipid DHA during fetal brain development gets 10 times more DHA in the brain. If you're supplementing with your 2 to 4 grams of fish oil, you're going to get phospholipid form anyway because your body's going to make it.
+
+14:50.402 --> 15:19.838
+We've known for a long time that there are things that we can do to improve our sleep. And that includes things that we can take, things like magnesium threonate, theanine, chamomile extract, and glycine, along with lesser known things like saffron and valerian root. These are all clinically supported ingredients that can help you fall asleep, stay asleep, and wake up feeling more refreshed. I'm excited to share that our longtime sponsor, AG1, just created a new product called AGZ, a nightly drink designed to help you get better sleep and have you wake up feeling super refreshed.
+
+15:20.002 --> 15:44.798
+Over the past few years, I've worked with the team at AG1 to help create this new AGZ formula. It has the best sleep supporting compounds in exactly the right ratios in one easy to drink mix. This removes all the complexity of trying to forge the vast landscape of supplements focused on sleep and figuring out the right dosages and which ones to take for you. AGZ is to my knowledge, the most comprehensive sleep supplement on the market. I take it 30 to 60 minutes before sleep,
+
+15:44.898 --> 15:59.134
+It's delicious by the way. And it dramatically increases both the quality and the depth of my sleep. I know that both from my subjective experience of my sleep and because I track my sleep. I'm excited for everyone to try this new AGZ formulation and to enjoy the benefits of better sleep.
+
+15:59.330 --> 16:24.094
+AGZ is available in chocolate, chocolate mint, and mixed berry flavors. And as I mentioned before, they're all extremely delicious. My favorite of the three has to be, I think, chocolate mint, but I really like them all. If you'd like to try AGZ, go to drinkagz.com slash Huberman to get a special offer. Again, that's drinkagz.com slash Huberman. So we have these plant-based compounds. We have the omega-3s, so E-P-A-D-H-A, N-N-N-N-N-N-N-N-N-N-N-N-N-N-N-N-N-N-N-N-N-N-N-N-N-N-N-N-N-N-N-N-N-N-N-N-N-N-N-N-N-N-N-N-N-N-N-N-N-N-N-N-N
+
+16:24.226 --> 16:51.422
+Then you mentioned there's a third category. What would you place in your third category of foods or supplement-based nutrients that brain and or body health can really benefit from? I mean, I think the most obvious would be vitamin D. 70% of the U.S. population has inadequate vitamin D levels. 70 of the whole U.S. So this is everyone. And so I think that insufficient levels defined as less than 30 nanograms per milliliter is
+
+16:51.842 --> 17:19.199
+and that's sort of defined by the Endocrine Society. There's been a lot of different meta-analyses of all cause mortality studies where vitamin D levels really seem to be ideal between 40 to 60 nanograms per milliliter. So basically, the point is that vitamin D is a steroid hormone, meaning it actually binds to a receptor, and another receptor dimerizes with it, the retinoid receptor, and that
+
+17:19.329 --> 17:46.014
+complex goes into the nucleus of a cell where your DNA is and it recognizes little sequences of DNA called vitamin D response elements, they're called VDREs. They're specific sequences of DNA that this complex vitamin D bound to the vitamin D receptor goes inside and recognizes and turns on a whole host of genes, turns off a whole host of genes. I mean, this is important stuff. What sorts of things is it stimulating?
+
+17:46.146 --> 18:14.494
+Okay, so first of all, it's regulating more than 5% of the protein-encoded human genome. One of the important things that you'll find interesting that I published on back in 2014 was that the VDREs and tryptophan hydroxylase 2, so for people listening, tryptophan hydroxylase is an enzyme that converts tryptophan into serotonin. So tryptophan is an amino acid that we get from our food. You convert tryptophan into serotonin in the gut,
+
+18:14.786 --> 18:40.126
+but you also do it in the brain. However, serotonin does not cross the blood-brain barrier. So tryptophan has to get into your brain, and then you have to convert it to serotonin in your brain. Well, the enzyme that does that in your brain is called tryptophan hydroxylase 2, and it's activated by vitamin D. But most people, I mean, this is regulating our immune cell, immune system. It's regulating our blood pressure, you know, all that stuff.
+
+18:40.290 --> 19:08.734
+That's water retention. I mean, bone, of course, homeostasis, 5%, more than 5%. I mean, I can't tell you like so much. Where and what is a good starting range for people to think about D3 supplementation? And again, foods that can increase D3. So vitamin D3 is a good way to supplement with it. Their vitamin D2 would be a plant source. You often find it as fortified in like foods like milk. Yeah, vitamin D is naturally...
+
+19:08.898 --> 19:25.502
+to some degree, in fatty fish, but you're not going to correct a deficiency with eating fish for your vitamin D. You're either going to correct it with sun exposure, being in the right area, having the right amount of sun, and being the right age, because as you get old, you become very inefficient at making vitamin D3 in your skin.
+
+19:25.602 --> 19:40.766
+There have been a lot of these Mendelian randomization studies. So these are studies where scientists will look at people that have these common variations of a gene that's a little more than 1% of the population. So it's not a random mutation. It's actually found in a...
+
+19:40.866 --> 20:01.982
+a sizable percent of the population. A lot of times they'll look at genes that are also involved in SNPs that basically make the conversion of either vitamin D precursor into D3 or in D3 into 25-hydroxyvitamin D or into the active steroid hormone, which is 125-hydroxyvitamin D. So you're not looking at vitamin D levels at all. You're looking at just the SNPs. And you know if they have it,
+
+20:02.242 --> 20:27.390
+they have low vitamin D. People randomly have these genes and it's not like there's no health status. So these Mendelian randomization studies have found that people that can't convert into the precursor, the 25-hydroxy vitamin D, which is usually what's measured, it's the most stable form of vitamin D in the body, they have a higher all-cause mortality if they can't do it. So people that don't have it have a lower all-cause mortality. They have a higher...
+
+20:27.586 --> 20:53.598
+respiratory related mortality. They have a higher cancer related mortality. They also are more likely to get multiple sclerosis. This has all been done with Mendelian randomization. And so it really does hammer home the importance of measuring your vitamin D levels and being very proactive about that. I mean, you can get it done anywhere. Your doctor will do it. You ask him to do it, you know. So supplementation wise, typically if you don't have one of those SNPs,
+
+20:54.114 --> 21:15.102
+For the most part, taking 1,000 IUs of vitamin D will raise blood levels by around 5 nanograms per milliliter. So let's say you're deficient, you're 20 nanograms per milliliter, and you want to get to 40. You're going to need at least 4,000 IUs. So for people who are going to be stubborn and not get their D levels tested and simply say, oh,
+
+21:15.202 --> 21:42.590
+I'll just take some D3. Is that reasonable? 1,000 to 5,000 IUs for most people will be reasonably safe. If we look at the literature, the scientific literature, it is extremely hard to get like hypercalcemia, which would be the major concern with really high levels of vitamin D3 supplementation. I mean, we're talking like hundreds of thousands of IU a day for a long time. And by the way, there have been studies looking at people that are deficient in vitamin D
+
+21:42.850 --> 22:12.478
+In this case, it was African-Americans that were given a 4,000 IU a day vitamin D supplement to bring them back to sufficient levels. And this was a smaller study than I would like, but it reversed their epigenetic aging by like three years because, again, it's a hormone. It's regulating more than 5% of your protein encoding human genome. So if I'm taking vitamin D3, I still need to get out into the sun.
+
+22:13.026 --> 22:39.838
+correct? Absolutely. Okay. Okay. So we've, we talked about these plant-based compounds, the omega threes and D3. Is there anything that fit to supplement based or food-based compounds that you, you know, you think are especially useful for brain and or body health? I do think magnesium is important in there as well. I mean, I think, you know, again, about 40% of the U S population doesn't get enough magnesium. It's an essential, uh,
+
+22:39.938 --> 23:09.758
+mineral we're supposed to be getting from our diet. Magnesium is also involved in making ATP, the energetic currency of our cells. Basically, all of our cells need ATP to do anything. It's also involved in utilizing ATP as well as DNA repair enzymes. These are enzymes that are involved in repairing damage to our DNA. I personally think that magnesium insufficiency causes an insidious type of damage daily that you can't look in the mirror and see. When you're deficient in
+
+23:09.922 --> 23:34.846
+vitamin C, you're like, my gums are falling apart. I have scurvy, right? But like, you can't see DNA damage. You can't see it, but it's happening. It's happening right now in my body and it's happening in your body. It's happening. Normal metabolism is happening, you know, every day. But we repair that damage. We have repair enzymes in our body called DNA repair enzymes. They require magnesium. Magnesium is a cofactor for them. Well, magnesium is at the center of a chlorophyll molecule.
+
+23:35.138 --> 23:41.726
+Chlorophyll is what gives plants their green color. So dark leafy greens are high in magnesium. Basically, what is the 40%
+
+23:42.274 --> 24:12.240
+insufficiency in the U.S. tell us people aren't eating their greens. They're eating their packaged food. They're eating their processed food. The standard American diet isn't really high in dark leafy greens. So kale, what are some other examples? Kale, spinach, chard, like Swiss chard, rainbow chard, romaine lettuce. So supplementation with magnesium, it can cause GI distress at like high doses. I personally like to take around 130 or 135 milligrams. That way it's not like a huge bolus to my gut. You can take like magnesium three in eight
+
+24:12.240 --> 24:32.190
+for example, and it doesn't affect the gut as much. I would say malate would be the best. That has to do with the short chain out fatty acids being good for the gut. I think malate's awesome. And I always try to eat green apples. They're really high in malic acid. Oh, good to know. And tart cherries. Tart cherries are really high in it as well. I'd like to take a quick break and acknowledge one of our sponsors, Function.
+
+24:32.322 --> 24:50.302
+Last year, I became a Function member after searching for the most comprehensive approach to lab testing. Function provides over 100 advanced lab tests that give you a key snapshot of your entire bodily health. This snapshot offers you with insights on your heart health, hormone health, immune functioning, nutrient levels, and much more.
+
+24:50.466 --> 25:20.432
+Function not only provides testing of over 100 biomarkers key to your physical and mental health, but it also analyzes these results and provides insights from top doctors who are expert in the relevant areas. For example, in one of my first tests with Function, I learned that I had elevated levels of mercury in my blood. Function not only helped me detect that, but offered insights into how best to reduce my mercury levels, which included limiting my tuna consumption. I've been eating a lot of tuna, while also making an effort to eat more leafy greens and supplementing with NAC and acetylcysteine,
+
+25:20.432 --> 25:42.750
+both of which can support glutathione production and detoxification. And I should say, by taking a second function test, that approach worked. Comprehensive blood testing is vitally important. There's so many things related to your mental and physical health that can only be detected in a blood test. The problem is blood testing has always been very expensive and complicated. In contrast, I've been super impressed by function simplicity and
+
+25:42.914 --> 26:09.406
+at the level of cost. It is very affordable. As a consequence, I decided to join their scientific advisory board and I'm thrilled that they're sponsoring the podcast. If you'd like to try Function, you can go to functionhealth.com slash Huberman. Function currently has a wait list of over 250,000 people, but they're offering early access to Huberman podcast listeners. Again, that's functionhealth.com slash Huberman to get early access to Function. You've talked a lot.
+
+26:09.698 --> 26:34.526
+about the use of deliberate cold exposure. What sort of activity or stimulus do you think is a reasonable and particularly potent one to use in terms of cold? So today I did three minutes at 49 degrees Fahrenheit. I have a cold tub. I definitely do cold when I'm going to do a podcast, when I'm going to give a talk, or when I'm anxious. I feel good. I feel more focused, which is why I usually do it before
+
+26:35.202 --> 27:04.830
+any type of public speaking. So the mood enhancing effects that you report, those are almost certainly a consequence of having slowly elevating, but significantly elevated dopamine that goes on for hours. That's almost a dreamlike profile for dopamine because most everything else, like an Adderall, a Ritalin, a cup of coffee and a workout drink or pre-workout drink or something is going to give you a big spike in adrenaline and dopamine and a big crash. But the advantage of not doing it too often is that you're not cold adapted.
+
+27:05.058 --> 27:31.070
+Now it's very hard for anyone to get truly cold adapted. Some people start to look forward to the cold. And what I think they're looking forward to is the feeling afterward, that dopamine rush. But if you get cold adapted, then it certainly blunts some of the effect. But I want to be cold adapted because that means I have more mitochondria in my adipose tissue and perhaps even muscle like that's been shown. Shivering is a very...
+
+27:31.298 --> 27:59.678
+inefficient way to produce heat, which is what your body's trying to do when it's exposed to cold. And your muscles are basically contracting and producing heat from that, but that's just not very efficient. So the more eloquent way to do it, or elegant, I guess, way to do it is, you know, to basically have your mitochondria produce tons and tons of heat. So mitochondria are these little organelles inside of your cells that are responsible for producing energy. Usually that's in the form of adenosine
+
+28:00.034 --> 28:28.798
+triphosphate, ATP, and that's what lets everything function inside your body from your neurotransmitter production to your heart beating, et cetera. Basically, your mitochondria, they're like a little battery. So they have, well, they have a double membrane, first of all, their structure, but they have a negative charge on the inside and they have a positive charge on the inner membrane. Basically, you can uncouple that charge. And so that positive charge, protons start leaking out of the mitochondria and your mitochondria freak out. So this is called uncoupling it.
+
+28:29.186 --> 28:52.734
+And they start to, it's maximum respiration, as we call it. They try to make as much energy. They're like, I got to get that proton back, that gradient, electrochemical gradient. And so they just go insane. And in this case, it's uncoupled energy. So the energy they're making is actually heat, not ATP. But heat is, but you're essentially burning substrate. So who cares? You're burning...
+
+28:52.898 --> 29:18.910
+you're burning glucose, you're burning lipids, you know, you're, you're basically burning things and making heat. And so, um, that's what uncoupling and does. And that is a much more efficient way of producing heat than shivering. And so as you become more adapted, um, maybe the, the, the longer duration that you've, you've stayed in the cold or the more times you've done it, you'll no longer shiver anymore. You will start to then just do this uncoupling type of thermogenesis as it's called. And, um,
+
+29:19.298 --> 29:49.150
+Another type of adaptation that occurs is you actually produce more mitochondria in your adipose tissue. And that actually happens also regulated by norepinephrine or noreadrenaline through a protein called PGC1-alpha. And what that protein does is it makes more mitochondria in your adipose cells. So per adipose cell, you're getting more mitochondria. It's a beautiful way to basically make more heat when you're, it's one of those things where it's like,
+
+29:49.442 --> 30:16.094
+your body's going, okay, I'm going to be exposed to this cold next time. How can I make sure I don't die? Oh, I can have more mitochondria and I'm going to make more heat. And so you're making more mitochondria in your adipose tissue. And this is often referred to as like the browning of fat. And the reason for that is because if you look under a microscope at a lipid drop, you know, basically a fat cell, not a lipid drop, it adipocyte, you'll find that
+
+30:16.354 --> 30:42.494
+It looks darker because there's more mitochondria in there. So it's referred to as browning fat. That's awesome. You want more mitochondria in your muscle. It's associated with improved muscle mass, improved endurance. I mean, mitochondria are essentially either the making energy in your cell. And we don't make more mitochondria normally. Like you have certain inputs, high intensity interval training, exercise can do it. Your cells are turning over, you make new cells, you replace old ones. Where your mitochondria...
+
+30:42.594 --> 31:12.190
+You don't really do that for the most part. You can. Mitochondrial biogenesis does happen, but you have to stimulate it to happen. And what happens with your mitochondria is they essentially are bobbing around inside of your cells and then they fuse with other mitochondria, exchange all their content in mitochondrial DNA, and then fizz back apart. And that's how they kind of stay young-ish. But as you age, you keep doing that with the same pool of mitochondria, and you're going to get a bunch of old mitochondria mixing old stuff together, right? So why wouldn't you want to...
+
+31:12.834 --> 31:39.710
+bring up new, healthy, young mitochondria into that pool, right? So in my mind, when I hear mitochondrial biogenesis, I'm like aging. Like that's the first thing I think of. So anyways, cold exposure does that. What sort of cardiovascular or other types of training do you do? Do you do HIIT? I imagine you are doing high intensity interval training. I do a lot of high intensity interval Tabatas on a stationary cycle three times a week. And I do a 10 minute, just 10,
+
+31:40.002 --> 32:08.926
+because it's efficient and I push my ass. I push myself really hard. That's the Tabata. It's 20 seconds on, 10 seconds off, and it's 10 minutes. And on means you're pedaling like your life depended on it. You're maxing it. And then I always have my sauna on preheating up. I get it to about 189 degrees Fahrenheit. I hop right in the sauna after my Peloton. I literally like down a bunch of water and then I get in and then I like either read a science paper, prepare for a presentation or a podcast,
+
+32:09.058 --> 32:28.926
+or I hash over things in my mind. And it's interesting because I would use the sauna to memorize things. I don't know if it has to do with the, like the stress response. Like when you have an emotional trigger, like you remember things better, right? Absolutely. The idea that being in this semi-stressful environment would,
+
+32:29.122 --> 32:58.494
+in the learning and retention of information is really well substantiated by this beautiful work by a guy named James McGaw. He was at UC Irvine for a while. And then I think at a University of Arizona as well. They have a great memory group at both places, very strong in learning and memory, both places. And he was the one that really defined this kind of inverted U shaped function for the relationship between adrenaline and memory. Basically, if you're too relaxed and not stressed enough,
+
+32:58.658 --> 33:24.638
+you're not going to remember any information. At peak levels of stress, you actually are a memory machine, at least within the context of whatever it is you're trying to learn. So very well, what you're describing is very well matches with that. And then of course it tapers off as you really increase adrenaline to the point where people are starting to lose autonomic function, where they're just, they're panicking basically. The other thing that I'd like to ask you about is in the sauna, of course there's vasodilation.
+
+33:24.770 --> 33:51.358
+and profusion of blood to the brain is a wonderful way to enhance cognition. The basal dilation does occur. So there's a lot of overlap between moderate intensity, aerobic exercise and heat stress. And as you can imagine, when you're exercising, you're elevating your core body temperature, you're sweating. And when you're actually in the sauna, blood does get redistributed to the skin to facilitate sweating. But much like exercise, blood flow in general is improved.
+
+33:51.618 --> 34:16.798
+to the brain, to the muscles, everywhere. So, you know, I think generally speaking that, and this, you know, there's studies showing that sauna use is associated with a much lower risk of dementia and Alzheimer's disease. Like people, you know, people that use it four to seven times a week have greater than 60% reduction in dementia risk and Alzheimer's disease risk compared to people that use it only one time a week. People that use it two to three times a week have
+
+34:16.962 --> 34:38.687
+something like a little greater than 20% reduction in risk. There's a dose-dependent effect on dementia risk and Alzheimer's disease risk. It also has a profound... There's a big link between the cardiovascular system and the brain. Obviously, blood flow, a big one, right? You need to get blood to your brain. But cardiovascular...
+
+34:38.850 --> 35:07.454
+mortality from cardiovascular disease, if people use, or actually this was men, if men use Asana four to seven times a week, it's a 50% reduction in cardiovascular-related mortality compared to one time a week. Again, dose-dependent manner two to three times a week is something like 24% lower death from cardiovascular disease. There's also lower, you know, sudden cardiac death. It's like a heart attack. That's like 60-something, greater than 60% lower if men use it
+
+35:07.554 --> 35:32.670
+four to seven times a week versus once again, a dose dependent thing. And this is all work from Dr. Yari Laukunen. He's in the university of Eastern Finland and just one of the, the, the world experts on sauna use. The more you do the sauna or any sort of heat stress, whether it's a hot tub or jacuzzi you, you become adapted. You're, you're basically start to sweat at a lower core body temperature to cool yourself down. All these sort of physiological changes start to happen earlier.
+
+35:32.834 --> 36:01.566
+And so I stay in for like 30 minutes. So I stay in a long time. That's a lot. You have to listen to your body. Most of the studies that I just talked about were from the duration, the time spent in the sauna. When I said 50% reduction in cardiovascular disease related death, what was shown was that men that were in the sauna for only 11 minutes, even if they used it four to seven times a week, that reduction was only like 8% instead of 50. It had to be greater than...
+
+36:02.178 --> 36:31.422
+So like 20 minutes is the sweet spot at about 174 degrees Fahrenheit. To me, that's a very strong data that this is more causal than some corollary thing because that's always the problem with observational studies, including these, which they corrected for a whole host of factors like cholesterol, exercise, just everything. Everything under the sun. I mean, they corrected for those. And on top of that, you have the dose-dependent nature of the duration, the time spent in the sauna, and the frequency.
+
+36:32.002 --> 36:56.734
+So to me, it's like something's going on here. Plus there's been studies, intervention studies where it's like, you know, comparing directly head to head, moderate intensity aerobic exercise on a stationary cycle to 20 minutes in a sauna. They're physiologically the same things happen. So heart rate elevates while you're doing the activity. Blood pressure increases while you're doing the activity. But then after heart rate increases,
+
+36:56.962 --> 37:20.094
+It decreases, resting heart rate decreases below baseline. Blood pressure is improved, so it decreases below baseline. This is happening the same in moderate intensity cycling versus sauna. So again, the sauna, like this heat stress, there's something about it that really mimics this moderate intensity aerobic exercise, which is really great for people that can't go for a run, that can't even get on a bike.
+
+37:20.578 --> 37:48.894
+So, you know, disabled people, granted, there are some safety concerns. They're pretty mild, but they do exist. You know, so people that had a recent heart attack or have some rare kind of heart disease or problem, drinking alcohol, never do that. Elderly people prone to low blood pressure, always talk to a physician before doing the sauna. It is stressful. Pregnant. Pregnant women. Oh, yeah, I definitely avoided saunas when I was pregnant. So for those healthy, fit people out there already exercising, there's a...
+
+37:49.346 --> 38:10.206
+synergistic effect by also adding a sauna into that routine. And to me, that's great. And there's so many beneficial things happening with the heat stress. In addition to mimicking aerobic exercise, there's the heat shock proteins that we talked about earlier. Many animal studies have been done looking at Alzheimer's disease, like insulin,
+
+38:10.626 --> 38:39.614
+a human-like Alzheimer's disease in a rodent and heat shock proteins protecting from it. So heat shock proteins are robustly activated in humans. This has been shown to even 50% higher over baseline levels after just 30 minutes at 163 degrees Fahrenheit in the sauna. And they stay activated at least in rodents for 48 hours at least. So having these heat shock proteins around
+
+38:40.162 --> 39:08.702
+making sure they're properly taking care of our protein so they're not aggregating in our brains and in our plaques could be another potential way that sauna is protecting from Alzheimer's disease and other cardiovascular health, as well as longevity. I know people are probably desperate to know, what if they don't have a sauna? I could imagine that a hot bath would work almost as well. Yeah, so there's been some studies looking at, for example, activation of heat shock proteins, also brain-derived neurotrophic factor increases with heat stress.
+
+39:08.962 --> 39:34.686
+And so the hot bath at around 104 degrees Fahrenheit, which is typically what studies will use for temperature, and it's 20 minutes from the shoulders down. And that is like a very robust activation in heat shock proteins and in brain-driven neurotrophic factor. And then heat shock proteins are also protecting against muscle atrophy. So that's also having to do with the protein structure in the muscle tissue as well. And this has been studies in animal data,
+
+39:34.914 --> 40:01.918
+as well as some recent human data as well. It was local hyperthermia or local heat treatment, but essentially it showed that it protected. I mean, it was like, there was a study where they were looking at muscle disuse and it was, it was something like the local heat treatment prevented like almost 40% of the muscle atrophy from disuse. We covered a lot of, of territory, but I just want to thank you again. It was extremely thorough and extremely informative on behalf of the listeners and, uh,
+
+40:02.082 --> 40:13.918
+just directly from me. Thank you so much for your time. I learned a ton. My pleasure. Thanks for having me on. It was really awesome conversation. So I enjoyed it a lot. Let's do it again. Totally. Great.

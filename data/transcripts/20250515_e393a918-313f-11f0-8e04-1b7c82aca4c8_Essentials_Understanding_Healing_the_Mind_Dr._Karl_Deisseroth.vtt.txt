@@ -1,0 +1,301 @@
+WEBVTT
+
+00:00.226 --> 00:30.142
+Welcome to Huberman Lab Essentials, where we revisit past episodes for the most potent and actionable science-based tools for mental health, physical health, and performance. And now, my conversation with Dr. Carl Dyseroth. Well, thanks for being here. Thanks for having me. So for people that might not be so familiar with the fields of neuroscience, et cetera, what is the difference between neurology and psychiatry? Psychiatry focuses on disorders where we can't
+
+00:30.466 --> 00:50.334
+see something that's physically wrong, where we don't have a measurable, where there's no blood test that makes the diagnosis, there's no brain scan that tells us this is schizophrenia, this is depression for an individual patient. And so psychiatry is much more mysterious. And the only tools we have are words.
+
+00:50.466 --> 01:19.934
+Neurologists are fantastic physicians. They see the stroke on brain scans. They see the seizure and the pre-seizure activity with an EEG. And they can measure and treat based on those measurables. In psychiatry, we have a harder job. We use words. We have rating scales for symptoms. We can measure depression and autism with rating scales. But those are words still. And ultimately, that's
+
+01:20.066 --> 01:48.734
+what psychiatry is built around. It's an odd situation because we've got the most complex, beautiful, mysterious, incredibly engineered object in the universe, and yet all we have are words to find our way in. So do you find that if a patient is very verbal or hyperverbal, that you have an easier time diagnosing them as opposed to somebody who's more quiet and reserved or is
+
+01:48.930 --> 02:17.662
+I can imagine the opposite might be true as well. Well, because we only have words, you've put your finger on a key point. If they don't speak that much in principle, it's harder. The lack of speech can be a symptom. We can see that in depression. We can see that in the negative symptoms of schizophrenia. We can see that in autism. Sometimes by itself, that is a symptom of reduced speech. But ultimately you do need something. You need some words to help guide you. And that, in fact, there's challenges that I can tell you about where
+
+02:17.954 --> 02:39.838
+patients with depression who are so depressed they can't speak, that makes it a bit of a challenge to distinguish depression from some of the other reasons they might not be speaking. And this is sort of the art and the science of psychiatry. Do you think we will ever have a blood test for depression or schizophrenia or autism? And would that be a good or a bad thing?
+
+02:41.538 --> 03:11.166
+I think ultimately there will be quantitative tests. Already efforts are being made to look at certain rhythms in the brain using external EEGs to look at brain waves effectively. But ultimately what's going on in the brain in psychiatric disease is physical and it's due to the circuits and the connections and the projections in the brain that are not working as they would in a typical situation. And I do think we'll have those measurables at some point.
+
+03:11.458 --> 03:41.086
+Could it be abused or misused? Certainly, but that's, I think, true for all of medicine. I want to know, and I'm sure there are several, but what do you see as the biggest challenge facing psychiatry and the treatment of mental illness today? I think we have, we're making progress on what the biggest challenge is, which I think there's still such a strong stigma for psychiatric disease that patients often don't come to us and, you know,
+
+03:41.346 --> 04:08.414
+they feel that they should be able to handle this on their own. And that can slow treatment. It can lead to worsening symptoms. We know, for example, patients who have untreated anxiety issues. If you go for a year or more with a serious untreated anxiety issue, that can convert to depression. You can add another problem on top of the anxiety. And so it would be...
+
+04:09.026 --> 04:38.142
+why do people not come for treatment they they feel like this is something they should be able to master on their own uh which which can be true but uh usually uh some help is is is a good thing that raises a question related to something i heard you say many years ago at a lecture which was that um this was a scientific lecture and you said you know we don't know how other people feel most of the time we don't even really know how we feel maybe you could elaborate on that a little bit and the
+
+04:38.402 --> 05:04.606
+the dearth of ways that we have to talk about feelings. I mean, there's so many words, I don't know how many, but I'm guessing there are more than a dozen words to describe the state that I call sadness. But as far as I understand, we don't have any way of comparing that in a real objective sense. So how, as a psychiatrist, when your job is to use words to diagnose, words of the patient to diagnose,
+
+05:04.738 --> 05:33.566
+do you maneuver around that? And what is this landscape that we call feelings or emotions? This is really interesting. People, here we have, there's a tension between the words that we've built up in the clinic that mean something to the physicians. And then there's the colloquial use of words that may not be the same. And so that's the first level we have to sort out when someone says, you know, I'm depressed, what exactly do they mean by that?
+
+05:33.890 --> 06:01.630
+That may be different from what we're talking about in terms of depression. So part of psychiatry is to get beyond that word and to get into how they're actually feeling, get rid of the jargon and get to real world examples of how they're feeling. So, you know, how do you, how much do you look forward into the future? How much hope do you have? How much planning are you doing for the future? So these, here now you're getting into actual,
+
+06:01.794 --> 06:31.134
+things you can talk about that are unambiguous. If someone says, yeah, I can't even, I can't even think about tomorrow. I'm not, I don't see how I'm going to get to tomorrow. That, that's a nice precise thing that, you know, it's, it's sad, it's tragic, but, but it's also, that means something. And we know what that means. That's the hopelessness symptom of depression. And, and that is what I try to do when I do a psychiatric interview. I try to get past the jargon and get to what's actually happening in the patient's life and in their mind.
+
+06:31.234 --> 06:57.310
+But as you say, ultimately, you know, this shows up across, I address this issue every day in my life, whether it's in the lab where we're looking at animals, whether fish or mice or rats and studying their behavior, or when I'm in a conversation with just a friend or a colleague, or when I'm talking to a patient, I never really know what's going on inside the mind of the other person.
+
+06:58.530 --> 07:28.030
+I get some feedback, I get words, I get behaviors, I get actions, but I never really know. Are there any very good treatments for psychiatric disease? Meaning, are there currently any pills, potions, forms of communication that reliably work every time or work in most patients? And could you give a couple of examples of great successes of psychiatry if they exist? Yes, and psychiatry, despite the depths of the mystery we struggle with,
+
+07:28.290 --> 07:56.734
+Many of our treatments are actually, you know, we may be doing better than some other specialties in terms of actually causing, you know, therapeutic benefit for patients. We do help patients, you know, the patients who suffer from, by the way, both medications and talk therapy have been shown to be extremely effective in many cases. For example, people with panic disorder, cognitive behavioral therapy, just working with words, helping people identify the early signs of when they're starting to move toward a panic attack. What are the...
+
+07:56.866 --> 08:25.374
+cognitions that are happening, you can train people to derail that and you can very potently treat panic disorder that way. There are many psychiatric medications that are very effective for the conditions that they're treating. Anti-psychotic medications, they have side effects, but boy do they work. They really can clear up auditory hallucinations, the paranoia. And then, you know, this is a frustrating and yet heartening aspect of psychiatry. There are
+
+08:25.506 --> 08:53.534
+treatments like electroconvulsive therapy, which is extremely effective for depression. We have patients who nothing else works for them, where they can't tolerate medications. And you can administer under a very safe, controlled condition where the patient's body is not moving. They're put into a very safe situation where the body doesn't move or sees. It's just an internal process that's triggered in the brain.
+
+08:53.666 --> 09:17.054
+This is an extraordinarily effective treatment for treatment-resistant depression. At the same time, I find it as heartening as it is to see patients respond to this who have severe depression. I'm also frustrated by it. Why can't we do something more precise than this for these very severe cases? In all of these cases, though, in psychiatry, the frustrating thing is that we don't have...
+
+09:17.922 --> 09:46.174
+the level of understanding that a cardiologist has in thinking about the heart. You know, the heart is, we now know, it's a pump. It's pumping blood. And so you can look at everything about how it's working or not working in terms of that frame. It's clearly a pump. We don't really have that level of what is the circuit really there for in psychiatry. I'd like to take a quick break and acknowledge one of our sponsors, David. David makes a protein bar unlike any other.
+
+09:46.274 --> 10:13.694
+It has 28 grams of protein, only 150 calories and zero grams of sugar. That's right, 28 grams of protein and 75% of its calories come from protein. This is 50% higher than the next closest protein bar. David protein bars also tastes amazing. Even the texture is amazing. My favorite bar is the chocolate chip cookie dough, but then again, I also like the new chocolate peanut butter flavor and the chocolate brownie flavored. Basically, I like all the flavors a lot. They're all incredibly delicious.
+
+10:13.794 --> 10:43.760
+The toughest challenge is knowing which ones to eat on which days and how many times per day. I limit myself to two per day, but I absolutely love them. With David, I'm able to get 28 grams of protein in the calories of a snack, which makes it easy to hit my protein goals of one gram of protein per pound of body weight per day, and it allows me to do so without ingesting too many calories. I'll eat a David protein bar most afternoons as a snack, and I always keep one with me when I'm out of the house or traveling. They're incredibly delicious, and given that they have 28 grams of protein,
+
+10:43.760 --> 11:11.326
+really satisfying for having just 150 calories. If you'd like to try David, you can go to davidprotein.com slash Huberman. Again, that's davidprotein.com slash Huberman. What are the pieces that are going to be required to cure autism, cure Parkinson's, cure schizophrenia? I would imagine there are several elements and bins here. Understanding that the natural biology, understanding
+
+11:11.842 --> 11:39.838
+what the activity patterns are, how to modify those. Maybe you could just tell us what you think, what is the bento box of the perfect cure? Yeah. I think the first thing we need is understanding. What is the element in the brain that's analogous to the pumping heart? When we think about the symptoms of depression, that's maybe, you know, we think about motivation and dopamine neurons. And so then that turns our attention as neuroscientists. We think, okay,
+
+11:40.226 --> 12:07.838
+Let's think about the parts of the brain that are involved in dealing with merging complex data streams that are very high in bitrate that need to be fused together into a unitary concept. And that starts to guide us and maybe we can, and we know other animals are social in their own way and we can study those animals. And so that there's, that's how I think about it. There's hope for the future, thinking about the symptoms as an engineer might and
+
+12:08.002 --> 12:35.806
+trying to identify the circuits that are likely working to make this typical behavior happen, and that will help us understand how it becomes atypical. We need to know the circuits. We need to know the cells in the various brain regions and portions of the body and how they connect to one another and what the patterns of activity are under a normal, quote-unquote, healthy interaction. If we understand that, then it seems that
+
+12:36.834 --> 13:06.462
+the next step, which of course could be carried out in parallel, right? That work can be done alongside work where various elements within those circuits are tweaked just right. Like the tuning of a piano in the subtle way, or maybe even like the replacement of a whole set of keys if the piano is lacking keys, so to speak. In 2015, there was this, what I thought was a very nice article published in the New Yorker describing your work and the current state of your work in the laboratory and the clinic.
+
+13:06.594 --> 13:34.878
+and an interaction with a patient. So this was, as I recall, a woman who was severely depressed. And you reported in that article, some of the discussion with this patient, and then in real time, increase the activation of the so-called vagus nerve, this 10th cranial nerve that extends out of the skull and innervates many of the viscera and body. What is the potential for channel rhodopsins or related types of algae engineering
+
+13:35.170 --> 14:04.254
+to be used to manipulate the vagus, because I believe in that instance, it wasn't channel ops and stimulation, it was electrical stimulation, right? Or to manipulate, for instance, a very small localized region of the brain. Let me frame it a little bit differently in light of what we were talking about a couple of minutes ago. My understanding is that if somebody has severe depression and they take any number of the available pharmaceutical agents that are out there, SSRI, serotonin, or chickpea,
+
+14:04.418 --> 14:32.062
+the agents increase dopamine increase whatever that sometimes they experience relief, but they're often serious side effects. Sometimes they don't experience relief, but as I understand it, channel options and their related technology in principle would allow you to turn on or off the specific regions of the brain that lead to the depressive symptoms, or maybe you turn up a happiness circuit or an, or a, a positive anticipation circuit.
+
+14:32.546 --> 15:02.430
+where are we at now in terms of bringing this technology to the nervous system? And let's start with the body and then move into the skull. Yeah. So starting with the body is a good example because it highlights the opportunity and how far we have to go. So let's take this example of vagus nerve stimulation. So the vagus nerve, it's the 10th cranial nerve. It comes from the brain. It goes down. It innervates the heart, innervates the gut. And by innervate, I mean it sends little connections down to help
+
+15:02.562 --> 15:27.614
+guide what happens in these organs in the abdomen and chest. It also collects information back. And there's information coming back from all those organs that also go through this vagus nerve, the 10th cranial nerve, back to the brain. And so this is somewhat of a superhighway to the brain then, was the idea. And maybe the idea is maybe we could put a little cuff, a little electrical...
+
+15:27.746 --> 15:54.462
+a device around the vagus nerve itself. So a way of getting into the brain without putting something physical into the brain. And why the vagus? I mean, it's there, but, and it's accessible. That's the reason. That's the reason? That's the reason, yes. Really? Yeah. You're not kidding. I'm not kidding. So stimulating the vagus to treat depression simply because it's accessible. It started as actually as an epilepsy treatment and it can help with epilepsy, but the vagus nerve,
+
+15:54.786 --> 16:22.334
+lands on a particular spot on the brain called the solitary tract nucleus, which is just one synapse away from the serotonin and dopamine and the norepinephrine. So there's a link to chemical systems in the brain that make it a rational choice. Yes, it's not irrational, but I can tell you that even if that were not true, the same thing would have been tried. You know? You guys would have done it anyway. Because it's accessible. I see. How do you think it's working when it does work? Is it triggering the activation of neurons that release more serotonin or dopamine?
+
+16:22.498 --> 16:50.910
+It could be, but I would say we don't have evidence for that. And so I just don't know. But what is clear is that it's dose limited in how high and strongly we can stimulate. And why? It's because it's an electrode and it's stimulating everything nearby. And when you turn on the vagus nerve stimulator, the patient's voice becomes strangulated and hoarse. They can have trouble swallowing. They can have trouble speaking for sure, even some trouble breathing.
+
+16:51.042 --> 17:18.174
+Because everything in the neck, every electrically responsive cell and projection in the neck is being affected by this electrode. And so you can go up just so far with the intensity and then you have to stop. So, you know, to your initial question, could a more precise stimulation method like optogenetics help in this setting? In principle, it could because if you would target the light sensitivity to just the right kind of cell,
+
+17:19.266 --> 17:45.374
+let's say cell X that goes from point A to point B that you know causes symptom relief of a particular kind, then you're in business. You can have that be the only cell that's light sensitive. You're not going to affect any of the other cells, the larynx and the pharynx and the projections passing through. So that's the hope. That's the opportunity. The problem is that we don't yet have that level of specific knowledge. We don't know, okay, it's the cell starting in point A going to point B.
+
+17:45.538 --> 18:14.526
+that really use this particular system. We want to fix this key on the piano. I'm imagining a little tiny blue light emitting thing, object that's a little bigger than a clump of cells, or maybe about the size of a clump of cells. So we're talking about a little tiny stamp, each edge, half a millimeter in size. I could imagine that being put under my skin. And then I would, what I'd hit an app on my phone and I'd say, I'd say Dr. Diceroth,
+
+18:14.850 --> 18:39.678
+I'm not feeling great today. Can I increase the stimulation? And you say, go for it. And then I ramp it up. Is that how it would go? I mean, that's effectively what we already do with the vagus nerve stimulation, the doctor in this case. And I have this in some of my patients in the clinic. I do vagus nerve stimulation. I talk to them. I say how I go through the symptoms. I use the psychiatric interview to elicit their internal states. And then I have a radio frequency controller that I can dial in.
+
+18:39.906 --> 19:06.558
+Right there in real time. You're holding the remote control essentially to their brain, although it's remote, remote control. Through a couple steps. Yeah. And I can turn up the frequency, I can turn up the intensity, all with the radio frequency and control, and then it's reprogrammed or redosed, and then the patient can then leave at this altered dose. In most patients, I don't expect an immediate mood change,
+
+19:06.754 --> 19:33.502
+What I do is I increase the dose until a next level up while asking the patient for side effects. Can you still breathe okay? Can you still swallow okay? And I can hear their voice as well. And I can get a sense- And you're looking at their face. And I'm looking at their face. And so I can get a sense, is there a, am I still in a safe side effect regime? And then I stop at a particular point that looks safe and then patient goes home
+
+19:33.762 --> 19:46.878
+comes back a month later and I get the report on how things were over that month. That's very exciting. What are your thoughts about brain machine interface as something that's been happening for a long time now? Devices,
+
+19:47.074 --> 20:17.022
+little probes that are going to stimulate different patterns of activity in ensembles of neurons. First of all, it's an amazing scientific discovery approach. As you mentioned, we and others here at Stanford are using electrodes, collecting information from tens of thousands of neurons, even separate from the neural link work. As you point out, many people have been doing this in humans as well as in non-human primates. And this is pretty powerful. It's important. This will let us understand what's going on in the brain in
+
+20:17.250 --> 20:41.598
+uh, in psychiatric disease and neurological disease, and will give us ideas for, for treatment. I see that as something that will be part of psychiatry, uh, in, in, in the long run already with deep brain stimulation, uh, approaches, we can help, uh, people with psychiatric disorders. And that's putting just a single electrode, not even a complex, you know, uh,
+
+20:41.794 --> 21:01.278
+closed loop system where you're both playing in and getting information back. Even just a single stimulation electrode in the brain can help people with OCD, for example, quite powerfully. I'd like to take a quick break and acknowledge our sponsor, Eight Sleep. Eight Sleep makes smart mattress covers with cooling, heating, and sleep tracking capacity.
+
+21:01.506 --> 21:25.278
+One of the best ways to ensure a great night's sleep is to make sure that the temperature of your sleeping environment is correct. And that's because in order to fall and stay deeply asleep, your body temperature actually has to drop by about one to three degrees. And in order to wake up feeling refreshed and energized, your body temperature actually has to increase by about one to three degrees. Eight Sleep automatically regulates the temperature of your bed throughout the night according to your unique needs.
+
+21:25.378 --> 21:55.344
+I've been sleeping on an Eight Sleep mattress cover for over four years now, and it has completely transformed and improved the quality of my sleep. Eight Sleep has just launched their latest model, the Pod 5, and the Pod 5 has several new important features. One of these new features is called Autopilot. Autopilot is an AI engine that learns your sleep patterns to adjust the temperature of your sleeping environment across different sleep stages. It also elevates your head if you're snoring, and it makes other shifts to optimize your sleep. The base on the Pod 5 also has an integrated speaker that syncs to the Eight Sleep app
+
+21:55.344 --> 21:58.526
+and can play audio to support relaxation and recovery.
+
+21:58.626 --> 22:28.592
+The audio catalog includes several NSDR, non-sleep deep rest scripts that I worked on with Eight Sleep to record. If you're not familiar, NSDR involves listening to an audio script that walks you through a deep body relaxation combined with some very simple breathing exercises. And that combination has been shown in peer-reviewed studies to restore your mental and physical vigor. And this is great because while we would all like to get to bed on time and get up after a perfect night's sleep, oftentimes we get to bed a little late or later. Sometimes we have to get up early and charge into the day
+
+22:28.592 --> 22:43.486
+because we have our obligations. NSDR can help offset some of the negative effects of slight sleep deprivation. And NSDR gets you better at falling back asleep should you wake up in the middle of the night. It's an extremely powerful tool that anyone can benefit from the first time and every time.
+
+22:43.586 --> 23:12.862
+If you'd like to try Eight Sleep, go to eightsleep.com slash Huberman to get up to $350 off the new Pod 5. Eight Sleep ships to many countries worldwide, including Mexico and the UAE. Again, that's eightsleep.com slash Huberman to save up to $350. One of the questions I get asked a lot is about ADHD and attention deficit of various kinds. I have the hunch that one reason I get asked so often is that people are feeling
+
+23:13.122 --> 23:38.718
+really distracted and challenged in funneling their attention and their behavior. But, and there are a number of reasons for that, of course, but what is true ADHD and what does it look like? What can be done for it? And what, if any role for channel options or these downstream technologies that you're developing, what do they, what do they offer?
+
+23:38.850 --> 23:59.934
+for people that suffer from ADHD or have a family member that suffers from ADHD. Yeah. This is a pretty interesting branch of psychiatry. There's no question that people have been helped by the treatments. There's active debate over what fraction of people who have these symptoms
+
+24:00.034 --> 24:19.102
+can or should be treated. This is typically Adderall or stimulants of some kind. Yeah, for example, stimulants, that's right. So ADHD, as its name suggests, it has symptoms of, it can have either a hyperactive state or an inattentive state. And those can be
+
+24:19.522 --> 24:49.502
+completely separate from each other. You could have a patient who effectively is not hyperactive at all, but can't remain focused on what's going on around them. So their body can be still, but their mind is darting around. That's right. Or they can be very hyperactive with their body. Yeah, it happens both ways. Probably rarely is somebody hyperactive with their body, but their mind is still. I notice I have to think complex, abstract thoughts. I notice I have to be very still. So my body has to be almost completely unmoving for me to think very abstractly.
+
+24:49.826 --> 25:10.686
+and deeply. Other people are different. Some people, when they're running, they get their best thoughts. I can't even imagine that. My brain does not work that way at all. I have to be totally motionless, which is kind of interesting. How do you go about that? I sit much like this. You know, I try to have time in each day where I am literally sitting, uh, uh,
+
+25:11.138 --> 25:28.478
+almost in this position, but without distraction and thinking. And so it's kind of a, it's almost meditative in some ways, except it's not true meditation, but I am thinking while not moving. You're trying to structure your thoughts in that time. Interesting. Yeah.
+
+25:28.706 --> 25:48.798
+So, but everybody, as you say, is very different. And so with ADHD, you have, the key thing is we want to make sure that this is present across different domains of life, school and home, to show that it really is a pervasive pattern and not something specific to the teacher or the home situation or something.
+
+25:49.218 --> 26:19.070
+And then you can help patients. It's interesting that ADHD is one of those disorders where people are trying to work on quantitative EEG-based diagnoses. And so there's some progress toward making a diagnosis with looking at particular externally detectable brainwave rhythms. So skullcap with some electrodes that don't penetrate the skull. That's right. And this can be done in an hour or two-hour session. That's right. Has to be done in a clinic, right? Yeah, in the clinic, right. You have to have the right recording apparatus and so on.
+
+26:19.842 --> 26:48.894
+But that's, in principle, as increasing confidence comes in exactly which measurements one could even imagine moving toward home tests, but we're not there yet. Amazing. I think one of the reasons I get asked about it so much is a lot of people wonder if they have ADHD. Do you think that some of the lifestyle factors that inhabit us all these days could induce a subclinical or a clinical-like
+
+26:49.026 --> 27:17.950
+ADHD, meaning if I look at people's phone use, including my own, and I don't think of it like addiction. It looks to me and feels to me more like OCD. And I'll come clean here by saying when I was younger, when I was a kid, I had a grunting tick. I used to hide it. I actually used to hide in the closet because my dad would make me stop. And I used to, I couldn't feel any relief of my mind until I would do this. And actually now if I get very tired, if I've been pushing long hours, it'll come back. I was not treated for it.
+
+27:18.050 --> 27:47.966
+But I will confess that I've had the experience of, I always liked sports where I involve a lot of impact, fortunately not football, because I went to a high school where the football team was terrible. Maybe that would have avoided more impact, but things like skateboarding, boxing, they bring relief. I feel clarity after a head hit, which I avoid, but I used to say that's the only time I feel truly clear for a long, and then eventually it dissipated by about age 16, 17, it just disappeared.
+
+27:48.066 --> 28:17.086
+So I have great empathy for those that feel like there's something contained in them that won't allow them to focus on what they want to focus on. And these days with the phone and all these email, et cetera, I wonder, and I empathize a bit when I hear people saying like, I think I might have ADHD or ADD. Do you think it's possible that our behaviors and our interaction with the sensory world, which is really what phones and email really are, could induce anxiety?
+
+28:17.282 --> 28:41.630
+ADD or reactivate it? Yeah, this is a great question. I think about it a lot. And you mentioned this tick-like behavior in yourself. It's very common that people who have ticks have this building up of something that can only be relieved by executing the tick, which can be a motor movement or vocalization or even a thought. And it's a good thing.
+
+28:41.826 --> 29:10.590
+People do, I think these days, do have this, if they haven't checked their phone in a while, they do have a build-up, a build-up, a build-up until they can check it and relieve it. And there's some similarities, you know, there is a little reward that comes with the checking. But the key question in all of psychiatry, what we do is we don't diagnose something unless it's disrupting what we call social or occupational functioning. Like, you could have any number of symptoms, but
+
+29:10.754 --> 29:39.422
+Literally every psychiatric diagnosis requires that it has to be disrupting someone's social or occupational functioning. And these days, checking your phone is pretty adaptive. That pretty much helps your social and occupational functioning. And so we can't make it a psychiatric diagnosis, at least in the world of today. I'd love your thoughts on psychedelic medicine, putting them into patients and seeing
+
+29:39.522 --> 29:56.286
+tremendous positive effects, but also tremendous examples of induced psychiatric illness. In other words, many people lost their minds as a consequence of overuse of psychedelics. I'll probably lose a few people out there, but I do want to,
+
+29:56.418 --> 30:16.958
+talk about what is the state of these compounds? And I realize it's a huge category of compounds, but LSD and psilocybin, as I understand, trigger activation of particular serotonin receptor mechanisms may or may not lead to more widespread activation of the brain more that one wouldn't see otherwise. But when you look at the clinical and experimental literature,
+
+30:17.154 --> 30:40.958
+What is your sort of top contour sense of how effective these tools are going to be for treating depression? Well, you're right to highlight both the opportunity and the peril that is there. And of course we want to help patients. And of course we want to explore anything that might be helpful, but we want to do it in a safe and rigorous way.
+
+30:41.346 --> 31:05.886
+But I do think we should explore these avenues. These are agents that alter reality and alter the experience of reality, I should say, in relatively precise ways. They do have problems. They can be addictive. They can cause lasting change that is not desirable. Now, that said, even as these medications exist now,
+
+31:06.178 --> 31:35.934
+as you know, there's an impulse to use them in very small doses and to use them as adjunctive treatments for the therapy of various kinds. And I'm also supportive of that if done carefully and rigorously. Of course there's risk, but there's risk with many other kinds of treatment. And I'm not sure that the risks for these medications vastly outweigh the risks that we normally tolerate in other branches of medicine. Why would they work? I mean, the...
+
+31:36.354 --> 31:59.358
+you know, let's say that indeed their main effect is to create more connectivity, at least in the moment between brain areas. So psychedelics seem to be a trajectory not too far off from the dream state where space and time are essentially not as rigid.
+
+32:00.194 --> 32:24.926
+And there is this element of synesthesia, of blending of the senses, feeling colors and hearing light and things of that sort. You hear these reports anyway. Why would having that dreamlike experience somehow relieve depression long-term? Do we have any idea why that might be?
+
+32:25.570 --> 32:54.654
+we have some ideas and no deep understanding. One way I think about the psychedelics is they increase our willingness to, they increase the willingness of our brain to accept unlikely ways of constructing the world, unlikely hypotheses, as it were, as to what's going on. The brain, in particular, our cortex, I think, is a hypothesis generation and testing machine. It's coming up with models about everything. It's got a
+
+32:54.914 --> 33:24.798
+a lot of bits of data coming in and it's making models and updating the models and changing them theories hypotheses for what's going on and some of those never reach our conscious mind and this is something i talk about in projections in the in the book uh quite a bit is many of these are filtered out before they get to our conscious mind and that's good we we think how distracted we'd be if we were constantly having to evaluate all these you know hypotheses about you know what kinds of shapes or objects or processes were out there
+
+33:25.090 --> 33:50.334
+And so a lot of this is handled before it gets to consciousness. What the psychedelics seem to do is they change the threshold for us to become aware of these incomplete hypotheses or wrong hypotheses or concepts that might be noise, but are just wrong and so are never allowed to get into our conscious mind. Now, you know, that's possible.
+
+33:50.626 --> 34:18.718
+pretty interesting and it goes wrong in psychiatric disorders i think uh in in schizophrenia sometimes the paranoid uh delusions that people have are examples of these poor models that escape into the conscious mind and become accepted as reality and they never should have gotten out there now how could something like this in the right way help with something like depression patients with depression often are uh
+
+34:19.266 --> 34:48.127
+They can't look into the future world of possibilities as effectively. Everything seems hopeless. And what does that really mean? They discount the value of their own action. They discount the value of the world at giving rise to a future that matters. Everything seems to run out like a river just running out into a desert and drying up.
+
+34:48.578 --> 35:08.446
+And what these agents may do that increase the flow through circuitry, if you will, the percolation of activity through circuitry may end up doing for depression is increasing the escape of some tendrils of process of forward progression through the world.
+
+35:08.834 --> 35:37.790
+That's a concept. It's how I think about it. There are ways we can make that rigorous. We can indeed identify in the brain by recording. We can see cells that represent steps along a path and look into the future. And we can rigorously define these cells and we can see if these are altered on psychedelics. And so that's one of the reasons that we're working with these agents in the laboratory to say, is this really the case? Are these opening up
+
+35:37.986 --> 35:58.462
+new paths or representations of paths into the future. As many of you know, I've been taking AG1 daily for more than 13 years. However, I've now found an even better vitamin mineral probiotic drink. That new and better drink is the new and improved AG1, which just launched this month.
+
+35:58.562 --> 36:25.726
+This next-gen formula from AG1 is a more advanced, clinically-backed version of the product that I've been taking daily for years. It includes new bioavailable nutrients and enhanced probiotics. The next-gen formula is based on exciting new research on the effects of probiotics on the gut microbiome, and it now includes several specific clinically-studied probiotic strains that have been shown to support both digestive health and immune system health, as well as to improve bowel regularity and to reduce bloating.
+
+36:25.826 --> 36:55.792
+As someone who's been involved in research science for more than three decades and in health and fitness for equally as long, I'm constantly looking for the best tools to improve my mental health, physical health, and performance. I discovered and started taking AG1 way back in 2012, long before I ever had a podcast and I've been taking it every day since. I find that it greatly improves all aspects of my health. I just feel so much better when I take it, but with each passing year, and by the way, I'm turning 50 this September, I continue to feel better and better and I attribute a lot
+
+36:55.792 --> 36:57.182
+out of that to AG1.
+
+36:57.346 --> 37:27.312
+AG1 uses the highest quality ingredients in the right combinations, and they're constantly improving their formulas without increasing the cost. So I'm honored to have them as a sponsor of this podcast. If you'd like to try AG1, you can go to drinkag1.com slash Huberman to claim a special offer. Right now, AG1 is giving away an AG1 welcome kit with five free travel packs and a free bottle of vitamin D3 K2. Again, go to drinkag1.com slash Huberman to claim the special welcome kit with five free travel packs and a free bottle
+
+37:27.312 --> 37:53.566
+of vitamin D3, K2. MDMA, ecstasy is a unique compound in that it leads to big increases in brain levels of dopamine and serotonin simultaneously. And I realized that the neuromodulators like dopamine and serotonin often work in concert, not alone the way they're commonly described in the more general popular discussions. However, the neuromodulators
+
+37:53.794 --> 38:22.814
+it is a unique compound and it's different than the serotonergic compounds like LSD and psilocybin. And there are now data still emerging that it might be, and in some cases can be useful for the treatment of trauma, PTSD and similar things. Why would that work? And a larger question, perhaps the more important question is psychedelics, MDMA, LSD,
+
+38:23.170 --> 38:45.150
+all those compounds, in my mind, there are two components. There's the experience you have while you're on them, and then there's the effect they have after. People are generating variations of these compounds that are non-hallucinatory variations, but how crucial do you think it is to have, let's stay with MDMA, the experience of
+
+38:46.370 --> 39:16.030
+huge levels of dopamine, huge levels of serotonin, atypical levels of dopamine and serotonin released, having this highly abnormal experience in order to be normal again. Yeah. I think the brain learns from those experiences. That's the way I see it. And so, for example, people who've taken MDMA, they will, as you say, they'll be the acute phase of being on the drug and experiencing this extreme connectedness with other people, for example.
+
+39:16.162 --> 39:43.998
+And then the drug wears off, but the brain learned from that experience. And so what people will report is, yeah, I'm not in that state, but I saw what was possible. I saw, yeah, you can, there don't need to be barriers, or at least not as many barriers as I thought. I can connect with more people in a way that is helpful. And so I think it's the learning that happens in that state
+
+39:44.098 --> 40:12.734
+that actually matters. And as you described that, that sounds a lot like what I understand to be the hallmark feature of really good psychoanalysis, that the relationship between patient and therapist hopefully evolves to the point where these kinds of tests can be run within the context of that relationship and then exported to other relations. Is that? Exactly right, yeah. And that probably, I'm assuming, is still the goal of really good psychiatry also. It's a part of- Intimacy, really.
+
+40:12.834 --> 40:42.302
+It should be when we have time, I think all good psychiatrists try to achieve that level of connection and learning. Try to help patients create a new model that is stable, that is learned, and that can help instruct future behavior. One of the things that I took from reading your book, in addition to learning so much science and the future of psychiatry and brain science, was...
+
+40:43.202 --> 41:07.422
+you know, amidst these very many, in many cases, very tragic cases and, and sadness, and a lot of the, the, the weight that that puts on the clinician on you also, that there's a, that there's a central cord of, of optimism that where we're headed is not just possible, but very likely and, and better. And, you know, it,
+
+41:08.098 --> 41:34.718
+Are you an optimist? I am. And this is, by the way, this was a really interesting experience in writing projections because I had a dual goal. I wanted it to be for everybody, literally everybody in the world who wants to read it. And yet at the same time, I wanted to stay absolutely rigorously close to the science, what was actually known,
+
+41:34.882 --> 42:02.302
+when I was speaking about science, when I was speaking about the neurobiology of the brain or psychiatry, I wanted to not have any of my scientific colleagues think, oh, he's going too far, he's saying too much. And so I had these two goals, which I kept in my mind the entire time. And a lot of this trying to find exactly the right word we talked about was on this path of staying excruciatingly rigorous in the science. And yet,
+
+42:02.690 --> 42:32.286
+letting people see the hope, where things were, have everybody see that we've come a long way, we have a long way to go, but the trajectory and the path is beautiful. And so that was the goal. I think, you know, of course that sounds almost impossible to jointly satisfy those two goals, but I kept that in my mind the whole way through. And yes, I am optimistic and I hope that came through in the book.
+
+42:32.578 --> 43:01.310
+but it certainly did. And at least from this colleague, you did achieve both. And it's a wonderful, it's a masterful book really. And one that as a scientist and somebody who is a fellow brain explorer hits all the marks of rigor and is incredibly interesting. And there's a ton of storytelling. Definitely check out the book. There are other people in our community that of course are going to
+
+43:01.474 --> 43:27.134
+be reaching out on your behalf, but it's, it's incredible that you juggle this enormous number of things. Um, perhaps even more important, however, is that it's all in service to this larger thing of relieving suffering. So thank you so much for your time today for the book and the work that went into the book. I can't even imagine for the laboratory work and the development channel options, clarity, and all the related technologies and for the clinical work you're doing in.
+
+43:27.330 --> 43:40.126
+and for sharing with us. Well, thank you for, for all you're doing and reaching out. I, I, I'm very impressed by it. It's important and, and it's, it's so valuable. And thank you for taking the time and for all your gracious words about the book. Thank you.

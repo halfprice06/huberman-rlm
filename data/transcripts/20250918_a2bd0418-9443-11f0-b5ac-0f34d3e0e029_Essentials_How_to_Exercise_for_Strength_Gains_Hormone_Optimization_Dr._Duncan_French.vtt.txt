@@ -1,0 +1,298 @@
+WEBVTT
+
+00:00.226 --> 00:21.758
+Welcome to Huberman Lab Essentials, where we revisit past episodes for the most potent and actionable science-based tools for mental health, physical health, and performance. I'm Andrew Huberman, and I'm a professor of neurobiology and ophthalmology at Stanford School of Medicine. And now my conversation with Dr. Duncan French. Duncan French.
+
+00:22.050 --> 00:51.422
+Great to see you again. Likewise, likewise. Thank you. I don't often have many Stanford professors in the Performance Institute, so I'm really excited. Oh, well, this place is amazing, and you have a huge role in making it what it is. I found dozens of papers on how weight training impacts hormones, and your name's on all of them. What is it about engaging motor neurons under heavy loads sends a signal to the endocrine system, hey, release testosterone?
+
+00:51.522 --> 01:07.486
+I've never actually been able to find that in a textbook. Yeah, I mean, I think it's a stress response, right? It's mechanical stress and it's metabolic stress. And these are, you know, the downstream regulation of testosterone release at the gonads comes from many different areas. You know, there,
+
+01:07.746 --> 01:37.726
+My work primarily looked at, you know, catecholamines and sympathetic arousal. So things like epinephrine, adrenaline. Correct, yeah, epinephrine, adrenaline, you know, noradrenaline, how they were signaling, that signaling cascade using, you know, the HPA axis, releasing cortisol, and then, you know, looking at how that also influenced the adrenal medulla to release, you know, androgens, and then signaling that at the gonads. That raises an interesting question. So in, you know,
+
+01:38.018 --> 01:41.054
+presumably weight training in women,
+
+01:41.218 --> 02:11.198
+who don't have testes, also it increases testosterone. And is that purely through the adrenals? When women lift weights, their adrenal glands release testosterone? Absolutely. I mean, that is the only area of testosterone release for females. And yes, it's the same downstream cascade. Obviously, the extent to which it happens is significantly less in females, but that's how you, there's good data out there that shows, you know, females can increase their anabolic environment, their internal anabolic milieu, using resistance training as a stressor. And then they get the consequent muscle
+
+02:11.426 --> 02:36.862
+tissue growth, whether it's tendon, ligament, adaptations, the beneficial consequences of resistance training, which is driven by anabolic stimuli. Yeah, I have two questions about that. The first one is something that you mentioned, which is that the androgens, the testosterone comes from the adrenals under resistance loads in women. Is the same true in men? I mean, we hear that the testes produce testosterone when we weight train, but the
+
+02:36.994 --> 02:57.854
+Do we know whether or not it's the adrenals or the testes in men that are increasing testosterone? More or both, a little bit from each? The field is divided presently. And as much as understanding the acute adrenergic response in terms of anabolic response to exercise in an acute phase and the exposure to...
+
+02:57.986 --> 03:25.598
+you know, a stimulus that is stress driven, which might be partly from the adrenal glands, partly from the gonads versus a longitudinal exposure to anabolic environments, which is primarily driven by obviously the gonads and the release, the endocrine environment from testosterone release at the gonads. So the field is split in terms of how exercise is promoting hypertrophy, you know, muscle tissue growth, and whether that is very much an adrenals,
+
+03:25.730 --> 03:51.486
+or if that's significant enough in these acute responses versus the longitudinal exposure, just elevated basal levels of anabolic testosterone habitual levels. And then you mentioned that testosterone can have enhancing effects, growth effects on tendon and ligament also. You don't often hear about that. People always think, you know, testosterone muscle, but testosterone has a lot of effects on other
+
+03:51.586 --> 04:21.553
+tissues that are important for performance, it sounds like. Yeah, absolutely. I mean, the testosterone hormone is, I mean, listen, there's androgen receptors on neural tissue, on neural axons. Pretty much everywhere. Exactly. So, you know, the binding capacity of testosterone and influencing different tissues within the body, I touched on, you know, muscle tissue, but, you know, the ligaments, the tendons, even bone to some extent, you know, testosterone is potential to influence that in terms of removing osteopenic kind of characteristics
+
+04:21.552 --> 04:46.270
+So, yeah, it's a magic hormone, let's say, with many end impacts in terms of adaptation. Could you say that there are some general principles of training that favor testosterone production in terms of that somebody who's not an elite athlete could use, who's trying to use weight training to build or maintain muscle? Yeah.
+
+04:46.498 --> 05:16.464
+lose body fat, so body recomposition, and or stay strong and healthy for sport of a different kind. Testosterone is really stimulated by an intensity factor and also a volume factor. Now, growth hormone is a little bit different. That's largely driven by an intensity factor alone. If you look at many of the exercise interventions that we use to try and investigate and interrogate testosterone, it was usually a six by 10 protocol. So six sets of 10 repetitions, which is,
+
+05:16.464 --> 05:46.416
+and that's quite a large, you know, 60 repetitions is quite a large volume for a single exercise. And that was usually pitched at about 80% of a one repetition max intensity. Okay, so 80% of the one rep max, six sets of 10 reps separated by rest of- Two minutes. Two minutes, which is actually pretty fast. Yes. At least to me. It is. Anytime you see these two to three minutes, when you're actually watching the clock, those two minute rest periods go by pretty fast. By the third, fourth set, you're dying for more, yeah. Yeah. We formulated that kind of exercise protocol
+
+05:46.416 --> 06:04.862
+to really target the release of testosterone and try and drive up these anabolic environments to study the endocrine consequences. But I think that's the type of protocol that is most advantageous for driving anabolic environments. And that was it for the workout?
+
+06:05.218 --> 06:32.222
+Yeah, we would do that in a back squat. So, multi-joint, challenging exercise, multi-muscle, multi-joint, 80% load of your one repetition max and then six by 10. We did play around with your classic German volume type 10 by 10 kind of protocols, but they were just unsustainable at that 80%. The key to what we also did was we always adjusted the loads to make sure that it was
+
+06:32.418 --> 06:57.278
+10 repetitions that were sustained. So if the load was too high and an athlete or participant had to drop the weight on the sixth repetition, we would unload the bar and make sure they completed the 10 repetitions. Bringing me back to the point of it's an intensity and a volume derivative that is going to be most advantageous for testosterone release. So that sort of hints at the possibility that the thresholds for going from
+
+06:57.602 --> 07:27.568
+A workout that increases testosterone to a workout that diminishes testosterone is actually a pretty narrow margin. Yeah. And I think it comes back to that intensity factor then. You know, what we saw with that 10 by 10 protocol really sees pretty significant drop-offs in the load. And again, we're trying to stimulate with intensity, with mechanical strain through intensity, as well as metabolic strain through volume. And I think that's the paradigm that you've got to look at is that the mechanical load has to come from, you know, the actual
+
+07:27.568 --> 07:39.198
+it'll wait on the bar and the volume is the metabolic stimulus. How much are we driving lactate? How much are we driving, you know, glycogenolysis in terms of that type of energy system for, you know,
+
+07:39.650 --> 08:09.616
+executing a 10 by 10 protocol. And what we often saw was just a significant reduction in the intensity capabilities of an athlete to sustain that. So we shortened the volume to try and maintain the intensity. Is there any evidence that training slowly can offset some of the negative effects of doing a lot of volume? The rest is often the consideration that's overlooked out there in general population and in many sporting environments. You know, that the rest is as important a programming variable as the lower
+
+08:09.616 --> 08:39.518
+and the intensity, the load, the volume, et cetera. If you extend the duration of your rest periods, what you're ultimately doing is influencing that metabolic stimulus again. You're allowing the flushing of the body, the removal of waste products, lactate to be removed from the body, and then the metabolic environment is reduced. So if I understand correctly, you want to create a metabolic stress. So I could, in theory, do a 45 or 60-minute session where I
+
+08:39.682 --> 08:43.230
+pack in more work per unit time. I'm not going to be able to,
+
+08:43.330 --> 09:13.296
+quote unquote, perform as well, I won't be able to lift as much. I'm going to have to unweight the bar between sets or maybe even during sets if I have someone who could do that. But it sounds like that's the way to go. So it's got to be, so this, the old adage of high intensity, short duration is probably the way to go. Correct. And, you know, in layman's terms, if the same objective, the same training goal is just muscle tissue growth, and we're not talking about maximal strength or any of those type of parameters, we're just talking about growing muscle. If there's an athlete A and they
+
+09:13.296 --> 09:31.198
+does six sets of 10 with two minutes rest, and there's athlete B that does six sets of 10 with three minutes rest, athlete A will likely see the highest muscle gains because of the metabolic stimulus that they're driving with the shorter rest periods. I'd like to take a quick break and acknowledge one of our sponsors, Function.
+
+09:31.298 --> 09:49.310
+Last year, I became a Function member after searching for the most comprehensive approach to lab testing. Function provides over 100 advanced lab tests that give you a key snapshot of your entire bodily health. This snapshot offers you with insights on your heart health, hormone health, immune functioning, nutrient levels, and much more.
+
+09:49.474 --> 10:19.454
+Function not only provides testing of over 100 biomarkers key to your physical and mental health, but it also analyzes these results and provides insights from top doctors who are expert in the relevant areas. For example, in one of my first tests with Function, I learned that I had elevated levels of mercury in my blood. Function not only helped me detect that, but offered insights into how best to reduce my mercury levels, which included limiting my tuna consumption. I'd been eating a lot of tuna, while also making an effort to eat more leafy greens and supplementing with NAC and acetylcysteine,
+
+10:19.522 --> 10:41.758
+both of which can support glutathione production and detoxification. And I should say, by taking a second function test, that approach worked. Comprehensive blood testing is vitally important. There's so many things related to your mental and physical health that can only be detected in a blood test. The problem is blood testing has always been very expensive and complicated. In contrast, I've been super impressed by function simplicity and consistency.
+
+10:41.890 --> 11:06.366
+at the level of cost. It is very affordable. As a consequence, I decided to join their scientific advisory board and I'm thrilled that they're sponsoring the podcast. If you'd like to try Function, you can go to functionhealth.com slash Huberman. Function currently has a wait list of over 250,000 people, but they're offering early access to Huberman podcast listeners. Again, that's functionhealth.com slash Huberman to get early access to Function.
+
+11:07.010 --> 11:33.598
+What about day-to-day recovery? I mean, the workout that you described is intense but short. How many days a week can the typical person do that and sustain progress? Yeah, I mean, I think that comes back to your training age and your training history. Obviously, there's a resilience and a robustness with an incremental training age. So a protocol like that, we would look at two times a week, something that's pretty intensive like that. Because again, it comes back to the point you make is that you really need to be
+
+11:33.698 --> 11:56.606
+for want of better terms, suffering a little bit through that type of protocol, both in terms of the challenge of the load, but also being able to tolerate the metabolic stress that you're exposed to. It's a bit of a sicko feeling, right? Because of the lactate that you're driving up. So I wouldn't promote an athlete doing that type of modality multiple, multiple times unless
+
+11:56.738 --> 12:26.704
+you're from the realms of bodybuilding. And then you really, that's the sole purpose of what you're trying to achieve. If it's just somebody, you know, a weekend warrior that wants to keep in shape and look good, I would say, you know, two times a week for a really challenging workout like that. And then flex the other types of workouts within the week to have more of a volume emphasis where you reduce the intensity and you might just look at, you know, larger rep ranges from 12 to 15 to 20. Another workout where you're looking at, you know, reducing the volume, but increasing the intensity
+
+12:26.704 --> 12:54.622
+and really trying to drive different stimulus to give you more end points of success. Last time I was here at the UFC Performance Institute, we had a brief conversation and I want to make sure I got the details right, that in the short term, a big increase in stress hormone can lead to an increase in testosterone, like a parachute jump. Correct. So stress can promote the release of testosterone.
+
+12:54.754 --> 13:22.238
+That was news to me. We always hear about stress suppressing testosterone, stress suppressing the immune system, all these terrible things, but in the short term, you're saying it can actually increase the release of testosterone. So I have that right? Correct, yeah. Okay. And so then the second question is, does my cognitive interpretation of the stressor make a difference? In other words, if I voluntarily jump out of a plane with a parachute,
+
+13:23.362 --> 13:41.566
+does it have a different effect on my testosterone than if you shoved me out of the plane against my will? Well, presumably with a parachute too. I mean, so this was what all my PhD work was looking at was the, you know, the pre, the exposure to a stressor,
+
+13:41.762 --> 14:11.728
+and the pre-arousal of how your body essentially prepares for that stressor and then how it manages it throughout the exposure to the stress. We use the resistance training protocol that these athletes knew was going to be very, very challenging. It's going to be, there's going to have some anxiety to doing it. They knew there were going to be some physical distress from doing it. And therefore, you know, their mindset of how they were going to approach that was already set. So what we saw prior, 15 minutes prior to the start of an exposure to the workout
+
+14:11.728 --> 14:41.680
+the epinephrine, the neurodrenaline, the adrenaline was already starting to prepare the body sympathetically to go into what it knew was going to be a very, very challenging workout. So what was the takeaway there? Is the stress good for performance or is it harmful? That's a great question. From my data, certainly the greater the arousal, the higher the performance was from a physical exertion perspective. There's definitely an individual biokinetics to some of these hormonal kind of releases. And as much as
+
+14:41.680 --> 15:10.814
+as those guys that had the highest adreneric response in terms of epinephrine release, norepinephrine release, also sustained force output for a longer period of the workout than those that didn't. So the individuals that had a lower stimulus of the sympathetic arousal, let's say, certainly didn't perform as well throughout the workout. There's another side to this that I want to ask about, which is the use of cold.
+
+15:10.946 --> 15:19.070
+in particular things like ice baths, cold showers, in theory that's stress also, it's epinephrine. And so,
+
+15:19.458 --> 15:42.398
+how should one think about the use of cold for recovery? Throwing your body into a cold tub, an ice bath or whatever it may be, certainly is gonna have a physiological stress response. Now, people are using that for different end goals. And again, I think that's where the narrative has to be explained. If you are using the stress specifically to
+
+15:42.498 --> 16:11.806
+manage the mindset, to use it as a specific stress stimulus. That's the same as me doing six by 10, 80%. You know, you're just trying to find something to disrupt the system, to do something that's very, if you want a better term, painful, discomfort, whatever. You're just finding a stressor and then being able to manage the mindset. But if you're using cold, specifically from a physiological perspective to promote, you know,
+
+16:12.034 --> 16:25.246
+redistribution of blood flow to different vascular areas of muscle that you feel have gone through a workout that are damaged or whatever it may be. I think we've got to understand what that stress mechanism is.
+
+16:25.378 --> 16:55.344
+And the data, the literature is certainly still out there with respect to cryotherapy and cold baths and some of these cold exposures in terms of what they do at the level of the muscle tissue. If that's the target, if you're trying to promote a flushing mechanism or you're trying to promote redistribution of the blood flow, what you've got to understand is that cold is gonna clamp down every part of the vascular system. And we've really got to understand
+
+16:55.344 --> 17:25.086
+how the muscle would be redistributed to areas of interest. So, you know, I think the stress response is a real thing with respect to, you know, cold exposure. But I think the narrative around what are you using the cold for has to precede the conversation. And cold I've heard can actually prevent some of the beneficial effects of training, that it can actually get in the way of muscle growth, et cetera.
+
+17:25.250 --> 17:43.102
+Yeah, there's some pretty robust data out there now showing that it definitely has an influence on performance variables like strength and power in particular, but absolutely in terms of muscle hypertrophy. And there's a big kind of theme in the world of athletic performance right now in terms of periodization of muscle.
+
+17:43.362 --> 18:13.328
+cold exposure as a recovery modality. When do you use cold? Should you be using cold for recovery in periods of high training load when you're actually pursuing, it might be general preparatory work, we're actually trying to pursue muscle growth. Well, that's usually where you get the most sore. It's usually where you feel the most fatigued, but it's probably not the most beneficial approach to use an ice bath in that scenario because you're dampening, you're dulling the mTOR pathway
+
+18:13.328 --> 18:26.686
+and the hypertrophic signaling pathway. Whereas in a competition phase where actually quality of exercise and quality of execution of skill and technical work has to be maintained,
+
+18:26.818 --> 18:51.838
+you want to throw the kitchen sink of recovery capabilities and recovery interventions in that scenario because you now, you know, the muscle building activity should be in the bank. That should have been done in the general preparatory work. And now you're focusing on technical execution. So you're absolutely right. That's interesting. So if I understand correctly, if I want to maximize muscle growth or power,
+
+18:51.938 --> 19:21.022
+or improvements and adaptations, then the inflammation response, the delayed onset muscle soreness, all the stuff that's uncomfortable and that we hear is so terrible is actually the stimulus for adaptation. And so using cold in that situation might short circuit my progress. But if I'm, I don't know that I'll ever do this, but if I were to do an Ironman or something or run a marathon under those conditions, I'm basically coming to the race, so to speak with,
+
+19:21.122 --> 19:50.238
+all the power and strength I'm going to have. And so they're reducing inflammation is good because it's gonna allow me to perform more work essentially. Absolutely. Yeah, you have to be strategic about when you use some of these interventions. And the time when you're preparing for a competition is the appropriate time when you want to drive recovery and make sure that your body is optimized. When you're far away from a competition date or out of season or whatever it may be, and you're really trying to just
+
+19:50.466 --> 20:15.742
+tear up the body a little bit to allow it to its natural, you know, healing and adaptation processes to take place. Well, you don't want to negate that. You know, you want the body to optimize its internal recovery, and that's how muscle growth is going to happen. So interesting. There's a time kind of consideration that you need to make with these interventions for sure. At the UFC Performance Center, are the fighters periodizing their cold exposure, or are they just doing cold exposure?
+
+20:15.906 --> 20:44.158
+cold at will. Well, it's not just the UFC. And again, I talk about my personal experiences with different sports. I think just education around where science is at and our understanding of concepts like the use of cold exposure for recovery, ice bath. Everyone wants to jump in an ice bath. But I think as we've stepped back and scientists have started to figure out and look at some of the data, we're now more intuitive about
+
+20:44.258 --> 20:58.590
+well, actually that might not be the best or the most optimal approach. And I think that's any given sport. So yes, certainly here at the UFC, we're trying to educate our athletes around appropriate timing. And it's the same with nutrition, it's the same with an ice,
+
+20:58.722 --> 21:25.086
+bath intervention. It's the same with lifting weights. It's the same with going for a run or working out on the bike. There's tactics to when you do things and when you don't do things. And I think stress and cold exposure, we have to have a consideration around that as well. But it's not just MMA fighters, that's any athlete. And I think it's the best professionals, the most successful professionals do that really well.
+
+21:25.250 --> 21:36.062
+They listen, number one, they educate themselves and then they build structure. And I think, you know, at the most elite level, we always talk about it here at the UFC, but the most elite level,
+
+21:36.162 --> 22:04.094
+you're not necessarily training harder than anybody else. Everybody in the UFC trains hard. Like everyone is training super hard. But the best athletes, the true elite levels are the ones that can do it again and again and again on a daily basis and sustain a technical output for skill development. Therefore their skills can improve or physical development, their physical attributes can improve. So that ability to reproduce on a day-to-day basis falls into a recovery conversation.
+
+22:04.546 --> 22:19.902
+Now, when is the right time to use something like an ice bath and when isn't is part of the high performance conversation for sure. I'd like to take a quick break and acknowledge our sponsor, Eight Sleep. Eight Sleep makes smart mattress covers with cooling, heating and sleep tracking capacity.
+
+22:20.098 --> 22:50.064
+One of the best ways to ensure a great night's sleep is to make sure that the temperature of your sleeping environment is correct. And that's because in order to fall and stay deeply asleep, your body temperature actually has to drop by about one to three degrees. And in order to wake up feeling refreshed and energized, your body temperature actually has to increase by about one to three degrees. Eight Sleep automatically regulates the temperature of your bed throughout the night according to your unique needs. I've been sleeping on an Eight Sleep mattress cover for over four years now, and it has completely transformed and improved the quality
+
+22:50.064 --> 23:17.118
+of my sleep. Eight Sleep has just launched their latest model, the Pod 5, and the Pod 5 has several new important features. One of these new features is called Autopilot. Autopilot is an AI engine that learns your sleep patterns to adjust the temperature of your sleeping environment across different sleep stages. It also elevates your head if you're snoring, and it makes other shifts to optimize your sleep. The base on the Pod 5 also has an integrated speaker that syncs to the Eight Sleep app and can play audio to support relaxation and recovery.
+
+23:17.250 --> 23:47.216
+The audio catalog includes several NSDR, non-sleep deep rest scripts that I worked on with Eight Sleep to record. NSDR can help offset some of the negative effects of slight sleep deprivation and NSDR gets you better at falling back asleep should you wake up in the middle of the night. It's an extremely powerful tool that anyone can benefit from the first time and every time. If you'd like to try Eight Sleep, go to eightsleep.com slash Huberman to get up to $350 off the new Pod 5. Eight Sleep ships to many countries worldwide including Mexico and
+
+23:47.216 --> 24:12.894
+uae again that's eightsleep.com slash huberman to save up to 350 for somebody that wants to get better at sport do you recommend a particularly long or short training session it does intensity matter or is it just reps no it's it's not a volume driven exercise it's a quality driven exercise it is about rehearsal of accurate
+
+24:12.994 --> 24:42.960
+movement, accurate movement mechanics. And as soon as that becomes impacted by fatigue or inaccurate movement, you're now losing the motor learning. You're losing the accuracy of the skill that, you know, people can call it muscle memory or whatever they want, right? But essentially you're grooving neural axons to create movement patterns and they're situational throughout sport, right? You know, whether it's a Cruyff turn in soccer or a jump shot in basketball or a forehand down the line, you can kind
+
+24:42.960 --> 25:07.966
+carve out that particular posture and position and skill and you can isolate it and you can drill it again and again and again. Now, as soon as fatigue is influencing that repetition, it's time to stop. And the best coaches understand that. It's shorter sessions that are very high quality. And I think the best athletes in my experience are the ones that consciously and cognitively
+
+25:08.546 --> 25:31.006
+are aware of it at every moment of the training session. A three hour session versus a 90 minute session, we'll take the 90 minute session any day when it comes to skill acquisition, because that's gonna be driven by quality over quantity. Training and skill learning is incredibly mentally fatiguing. You hit a really hard workout or run early in the day.
+
+25:31.170 --> 25:53.918
+What leads to the mental fatigue after physical performance? If you have an amazing coach who is setting up training in a particular way, it's challenging. There's a strain related to it. And I'm not talking physical strain. I'm talking figuring things out, you know, figuring out the skill. And I think that can be stressful. Like, you know, if they hit the right technique, you know, that reward center in the brain, that dopamine shot is going to,
+
+25:54.082 --> 26:20.478
+fly up there and there's only so many times that we can get that before that becomes dampened and i think there's an energetic piece to it you know there's the fueling of of the brain there's the there's the the the carbohydrate fueling exercise that actually the strategy around how you fuel for learning and fuel for physical training is actually pretty similar glucose yeah it's it's glucose it's sugar at the end of the day right do you think that um
+
+26:21.250 --> 26:39.070
+nutrition that doesn't include a lot of glucose, doesn't include a lot of carbohydrates, is a problem? Yeah, again, disclaimer, I'm not a dietician. But I think it comes down to metabolic efficiency. You know, we rarely advocate a high-performance athlete in a –
+
+26:39.298 --> 26:59.294
+high intensity intermittent sport like MMA being totally ketogenic. Because at the end of the day, some of those high intensity efforts usually require carbohydrate fueling for the energy produced at those high intensities. Can I interrupt you real quick? What about ketones?
+
+26:59.490 --> 27:22.014
+for people that are ingesting carbohydrates. This is an interesting area because people always hear ketones and they think, oh, I have to be ketogenic to benefit from taking ketones. But there are a number of athletes and recreational athletes now as well taking liquid or powder-based ketones even though they do eat rice and oatmeal and bread and other things.
+
+27:22.306 --> 27:52.272
+Are there any known benefits of ketones even if one is not in a state of ketosis? The use of ketones that I'm primarily aware of is in our sport is after the event, you know, in terms of the brain health with athletes that take, you know, potentially taking trauma to the brain, et cetera, and looking to maintain the fueling and the energy supply to the brain. But yes, it's probably a little bit out of my remit. So I don't want to talk on that because I'm not fully familiar with that. To come back to the original question, if it's a general population
+
+27:52.272 --> 28:22.224
+then yes, I think there's a place to argue that actually being on a ketogenic diet at times, and maybe it's a cycling exercise, maybe not, I don't mean cycling a bike, I mean cycling ketosis is beneficial because I think it's gonna lead to better metabolic management and metabolic efficiency. Those lower intensities where we should be fueling our metabolism with lipids and fats. Clearly the Western diet and the modern day diets is heavily driven
+
+28:22.224 --> 28:30.366
+driven by processed foods and carbohydrates that people become predisposed to utilization of that fuel source above
+
+28:30.562 --> 29:00.528
+lipids use, fat use, intensities that are very low. So, you know, some of our data with the fighters shows that as well. But I think the challenge for us is that we're working with a clientele that require high intensity bouts of effort. So, you know, fueling appropriately is very important for that. Now we use tactics here where we essentially have athletes on what you would say kind of is a largely a ketogenic diet, but then we will fuel carbohydrates around
+
+29:00.528 --> 29:27.358
+training sessions. So we'll do very timed exposure to carbohydrates. So it's not post-training. Post-training, immediately pre, during, and then immediately post. And then the rest of their diets, you know, breakfast, lunch, and dinner are what would look like ketogenic type approaches. So we're trying to be very tactical in the exposure to maximize the intensity for the training and then return to a metabolically efficient diet, which is
+
+29:27.458 --> 29:51.902
+heavily reduced in carbohydrate because we've fueled the sessions that need it. The way I understand metabolic efficiency is that you teach the body to use fats by maybe doing long bouts of cardio, maybe lowering carbohydrates a bit. So teaching the body to tap into its fat stores for certain periods of training. And then you also teach the body to utilize carbohydrates by
+
+29:52.098 --> 30:02.686
+supplying carbohydrates immediately after training and before training. You teach the body to use ketones and then you use them at the appropriate time as opposed to just deciding that one of these fuel sources is good and all the others are
+
+30:02.914 --> 30:26.878
+at or dispensable. Do I have that correct? Yes, you're absolutely right. I mean, at low intensities of exercise or just day-to-day living, we shouldn't be tapping into our carbohydrate fuel sources extensively. That's for higher intensity work or, you know, the fight or flight needs of stress, you know. If, you know, athletes or any individual has a
+
+30:27.042 --> 30:40.542
+a high carbohydrate diet, they're going to start to become predisposed to utilizing that fuel source preferentially. Now, at low intensity, that can be problematic, certainly for an athlete, because if they preferentially use
+
+30:40.738 --> 31:08.446
+carbohydrate at lower intensities, when the exercise demand goes to a higher intensity, they've already exhausted their fuel stores. They can't draw upon fat because the oxidization of that fat is just too slow. So they're essentially now become fatigued because they've already utilized the carbohydrate stores. So what we try to do, yes, through diet manipulation and a little bit of exercise manipulation is, as you say, teach the body or train the body to preferentially use a specific fuel source
+
+31:08.642 --> 31:30.558
+fat obviously at lower intensities and carbohydrate at high intensities. And we look at specifically the crossover point between the two tells a lot in terms of how an athlete is ultimately, how their metabolism is working. I think most people are looking for that one pattern of eating, that one pattern of exercising that's gonna be best for them or sustain them. And they often...
+
+31:30.914 --> 32:00.350
+look back to the time when they felt so much better switching from one thing to the next but the adaptation process itself is also key right teaching the body and i um so if we were to um just riff on this just a little bit further if somebody is eating in a particular way and they want to try this kind of periodization of nutrition um could one say okay for a few weeks i'm going to do more high intensity interval training and weight training and i'm going to eat a bit more carbohydrate because i'm depleting more glycogen then if i switch to a
+
+32:00.578 --> 32:30.302
+a phase of my training where I'm doing some longer runs. Maybe I'm not, maybe I'm training less. Maybe I'm just working at my desk a little bit more. Then I might switch to a lower carbohydrate diet. Do I have that right? And then if I'm going to enter a competition of some sort, certainly not UFC or MMA of any kind to be clear, not because it isn't a wonderful sport, but because that wouldn't be good for my other profession. But if I were going to do that, then I would think about stacking carbohydrates, ketones,
+
+32:30.754 --> 32:58.686
+and fats, do I have that more or less right? I think, yeah, you said it eloquently. At the end of the day, you're consciously understanding what the exposure to physical exertion is, and you're flexing your diet accordingly. We've known for a long time that there are things that we can do to improve our sleep. And that includes things that we can take, things like magnesium threonate, theanine, chamomile extract, and glycine, along with lesser known things like saffron and valerian root.
+
+32:58.850 --> 33:14.878
+These are all clinically supported ingredients that can help you fall asleep, stay asleep, and wake up feeling more refreshed. I'm excited to share that our longtime sponsor, AG1, just created a new product called AGZ, a nightly drink designed to help you get better sleep and have you wake up feeling super refreshed.
+
+33:15.042 --> 33:44.894
+Over the past few years, I've worked with the team at AG1 to help create this new AGZ formula. It has the best sleep supporting compounds in exactly the right ratios in one easy to drink mix. This removes all the complexity of trying to forge the vast landscape of supplements focused on sleep and figuring out the right dosages and which ones to take for you. AGZ is to my knowledge, the most comprehensive sleep supplement on the market. I take it 30 to 60 minutes before sleep. It's delicious by the way. And it dramatically increases both the quality and the depth of my sleep.
+
+33:45.026 --> 34:13.854
+I know that both from my subjective experience of my sleep and because I track my sleep. I'm excited for everyone to try this new AGZ formulation and to enjoy the benefits of better sleep. AGZ is available in chocolate, chocolate mint, and mixed berry flavors. And as I mentioned before, they're all extremely delicious. My favorite of the three has to be, I think, chocolate mint, but I really like them all. If you'd like to try AGZ, go to drinkagz.com slash Huberman to get a special offer. Again, that's drinkagz.com slash Huberman.
+
+34:14.146 --> 34:42.270
+A couple more questions, I can't help myself. I know we talked about temperature earlier. I have to ask you about heat. One of the reasons to deliberately expose oneself to heat is for things like growth hormone release, et cetera. We can talk about this, but how does one get better at heat adaptation? Or at least what are you doing with the fighters to get them better at dealing with heat, barring like hyperthermia and death? Like, I mean, obviously you heat up the brain too much, people will have seizures and die, but you lose neurons.
+
+34:42.370 --> 34:53.054
+what's the right way to acclimate heat? Yeah, so we normally start with about 15 minutes of exposure. Now, if someone's really lacking acclimation to heat, you know, you can do that in
+
+34:53.282 --> 35:20.606
+three, five minute efforts. Do you know what I mean? And actually take time. This is a hot sauna. Yeah, hot sauna. Take time to step out. 200 degrees or something. Correct. Yeah, 200 Fahrenheit. Yes. And we try to work up to 30 to 40 minutes to 45 minutes in the sauna continuous. Now we have to understand, you know, what's the advantage of heat acclimation for our athletes? Ultimately, their ability to sweat and to lose, you know, body fluids is going to be
+
+35:20.706 --> 35:48.606
+advantageous to their weight cut process, their ability to make weight. It is a technique that some of these guys adopt. So if you don't have high sweat rates, it means you're going to have to sit in the sauna for longer and longer and longer to get the same delta in sweat release. So the more acclimated you are, the more your body is thermogenically adapted, the more sweat glands you have. So we start with 15 minutes and then we just try to add on and add on across
+
+35:48.706 --> 36:14.814
+time and now now for us we kind of found about 14 um sauna exposures starts to really then drive the adaptations that we're looking for so it's not a quick fix you know a heat acclimation strategy has to happen long before fight week or long before the fight you know this is a this is a process that has to begin you know eight to ten weeks before the fight so that we can actually get that adaptation and that tolerance to the stressor to the exposure of heat
+
+36:14.946 --> 36:43.966
+This is interesting. Until today, when we talked about this earlier and again now, I didn't realize that, but it makes perfect sense now that I hear it, that heat adaptation is possible, that you basically can train the body to become better at cooling itself, which is what sweating is. The body is, you know, as an organism, as an organic system, it's hugely adaptable. It's hugely plastic. But I think the skill is understanding the whens, the whys, and the whereofs in terms of
+
+36:44.226 --> 36:57.374
+changing the overload, changing the stimulus to drive specific adaptation. And philosophically, that's how we go about our work here. We talk about adaptation-led programming. Now, adaptation-led programming
+
+36:57.602 --> 37:24.542
+fits into every single category, not just lifting weights or running track. It fits into nutrition. It fits into sitting in the sauna. It fits into being in a cold bath or not. It fits into so many different things because we're driven by scientific insights. And that's how we really want to go about our business. If someone wanted to experiment with heat adaptation or experiment with cold adaptation or change up their training regimen or diet and look at metabolic efficiency, do you think,
+
+37:24.994 --> 37:29.502
+12 weeks is a good period of time to really give something a thorough go and get,
+
+37:29.666 --> 37:59.632
+gain an understanding of how well or how poorly something works for oneself? Or would you say eight is enough for three? For 99% of things that change within the body that physiologically adapt to a training stimulus or an overload stimulus, you're going to start to see either regression or progression, you know, beneficial or detrimental effects within three months. Absolutely, I would say. And I think, you know, the individual interpretation is always has to be considered. And I think that's where it comes back to be a thinking man's athlete or be
+
+37:59.632 --> 38:25.982
+you're thinking man's trainer, like someone that's going through exercise, you have to consciously understand where your body's at any moment in time. You've gotta be real with yourself. You can create a journal, create a log of your training, create a log of your feelings, your subjective feedback of how you felt, your mood, your sleep. Do your athletes do that? Yeah, we try to promote that because again, that's part of this process.
+
+38:26.434 --> 38:45.662
+Maybe 12 weeks for you, but I might get the same responses in eight weeks. We could put 15 guys on the mat and give them the same workout. And there's gonna be 15 different responses to that same workout because the human organism is so complex and in nature that it's gonna adapt differently.
+
+38:45.986 --> 39:15.952
+Some people will tolerate it. Some people are going to be challenged by it. Some people have got a metabolic makeup that's going to promote it. Some people are metabolically challenged by it. There's just so many different things that we have to consider. And that's what we try to do here. It's the cross we bear is that we try to understand on an individual level how to optimize athletic performance. Duncan, when you speak, I learn so much. I'm going to take the protocols that I've heard about today. I'm going to think about how I'm training and how I could train differently and better
+
+39:15.952 --> 39:43.646
+how I'm eating, how I could eat differently and better for sake of performance and just in general. Thank you so much for your time, your scientific expertise, the stuff you're doing in the practical realm. It's immense. So hopefully we can do it again. Yes. Thank you. This has been a blast. I appreciate it. And yeah, keep doing what you're doing because I know there's a lot of people out there that love the platform. So thanks for the invite. It's been awesome. Thank you. Thanks so much. All right.

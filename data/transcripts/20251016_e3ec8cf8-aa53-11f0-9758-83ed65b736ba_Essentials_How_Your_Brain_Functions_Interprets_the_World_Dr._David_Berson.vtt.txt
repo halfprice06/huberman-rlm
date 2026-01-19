@@ -1,0 +1,268 @@
+WEBVTT
+
+00:00.226 --> 00:29.950
+Welcome to Huberman Lab Essentials, where we revisit past episodes for the most potent and actionable science-based tools for mental health, physical health, and performance. I'm Andrew Huberman, and I'm a professor of neurobiology and ophthalmology at Stanford School of Medicine. And now for my discussion with Dr. David Burson. For more than 20 years, you've been my go-to source for all things nervous system, how it works, how it's structured. So today I want to ask you some questions about that.
+
+00:30.210 --> 00:58.750
+I think people would gain a lot of insight into this machine that makes them think and feel and see, et cetera. If you would, could you tell us how we see? You know, a photon of light enters the eye, what happens? Right. I mean, how is it that I look outside, I see a truck drive by, or I look on the wall, I see a photo of my dog. How does that work? Right. So this is an old question, obviously.
+
+00:59.202 --> 01:26.430
+And clearly in the end, the reason you have a visual experience is that your brain has got some pattern of activity that associates with the input from the periphery. But you can have a visual experience with no input from the periphery as well. When you're dreaming, you're seeing things that aren't coming through your eyes. Are those memories? I would say in a sense, they may reflect your visual experience. They're not necessarily specific visual memories, but of course they can be.
+
+01:26.818 --> 01:52.766
+But the point is that the experience of seeing is actually a brain phenomenon. But of course, under normal circumstances, we see the world because we're looking at it and we're using our eyes to look at it. And fundamentally, when we're looking at the exterior world, it's what the retina is telling the brain that matters. So there are cells called ganglion cells. These are neurons that are the key cells for communicating between eye and brain.
+
+01:53.186 --> 02:21.982
+The eye is like the camera, it's detecting the initial image, doing some initial processing, and then that signal gets sent back to the brain proper. And of course, it's there at the level of the cortex that we have this conscious visual experience. There are many other places in the brain that get visual input as well, doing other things with that kind of information. So I get a lot of questions about color vision. If you would, could you explain how is it that we can perceive reds and greens and blues
+
+02:22.370 --> 02:50.686
+and things of that sort. Right. So the first thing to understand about light is that it's just a form of electromagnetic radiation. It's vibrating. It's oscillating. But when you say it's vibrating, it's oscillating, you mean that photons are actually moving? Well, in a sense, photons are, they're certainly moving through space. We think about photons as particles, and that's one way of thinking about light, but we can also think of it as a wave, like a radio wave. Either way is acceptable.
+
+02:50.946 --> 03:16.638
+And the radio waves have frequencies, like the frequencies on your radio dial. And certain frequencies in the electromagnetic spectrum can be detected by neurons in the retina. Those are the things we see. But there are still different wavelengths within the light that can be seen by the eye. And those different wavelengths are unpacked, in a sense, or decoded by the nervous system to lead to our experience of color.
+
+03:16.866 --> 03:38.270
+essentially different wavelengths give us the sensation of different colors through the auspices of different neurons that are tuned to different wavelengths of light. So when a photon, so when a little bit of light hits my eye, goes in, the photoreceptors convert that into electrical signal. Right. How is it that
+
+03:39.266 --> 04:06.782
+a given photon of light gives me the perception, eventually leads to the perception of red versus green versus blue. Right. So if you imagine that in the first layer of the retina where this transformation occurs from electromagnetic radiation into neural signals, that you have different kinds of sensitive cells that are expressing, they're making different molecules within themselves for this express purpose of
+
+04:06.978 --> 04:30.654
+absorbing photons, which is the first step in the process of seeing. Now it turns out that altogether there are about five proteins like this that we need to think about in the typical retina. But for seeing color, really it's three of them. So there are three different proteins, each absorbs light with a different, you know, preferred frequency. And then the nervous system keeps track of those signals
+
+04:32.226 --> 05:00.126
+compares and contrasts them to extract some understanding of the wavelength composition of light. So you can see just by looking at a landscape, oh, it must be late in the day because things are looking golden. That's all, you know, a function of our absorbing the light that's coming from the world and interpreting that with our brain because of the different composition of the light that's reaching our eyes. Is it fair to assume that my perception of red is the same as your perception of red?
+
+05:00.258 --> 05:27.198
+Well, that's a great question. And that mine is better. I'm just kidding. It's a great question. It's a deep philosophical question. It's a question that really probably can't even ultimately be answered by the usual empirical scientific processes, because it's really about an individual's experience. What we can say is that the biological mechanisms that we think are important for seeing color, for example, are
+
+05:27.490 --> 05:55.678
+seem to be very highly similar from one individual to the next, whether it be human beings or other animals. And so we think that the physiological process looks very similar on the front end. But once you're at the level of perception or understanding or experience, that's something that's a little bit tougher to nail down with the sorts of scientific approaches that we approach biological vision with, let's say.
+
+05:56.450 --> 06:25.854
+We've known for a long time that there are things that we can do to improve our sleep. And that includes things that we can take, things like magnesium threonate, theanine, chamomile extract, and glycine, along with lesser known things like saffron and valerian root. These are all clinically supported ingredients that can help you fall asleep, stay asleep, and wake up feeling more refreshed. I'm excited to share that our longtime sponsor, AG1, just created a new product called AGZ, a nightly drink designed to help you get better sleep and have you wake up feeling super refreshed.
+
+06:26.050 --> 06:55.902
+Over the past few years, I've worked with the team at AG1 to help create this new AGZ formula. It has the best sleep supporting compounds in exactly the right ratios in one easy to drink mix. This removes all the complexity of trying to forge the vast landscape of supplements focused on sleep and figuring out the right dosages and which ones to take for you. AGZ is to my knowledge, the most comprehensive sleep supplement on the market. I take it 30 to 60 minutes before sleep. It's delicious by the way. And it dramatically increases both the quality and the depth of my sleep.
+
+06:56.034 --> 07:24.862
+I know that both from my subjective experience of my sleep and because I track my sleep. I'm excited for everyone to try this new AGZ formulation and to enjoy the benefits of better sleep. AGZ is available in chocolate, chocolate mint, and mixed berry flavors. And as I mentioned before, they're all extremely delicious. My favorite of the three has to be, I think, chocolate mint, but I really like them all. If you'd like to try AGZ, go to drinkagz.com slash Huberman to get a special offer. Again, that's drinkagz.com slash Huberman.
+
+07:25.026 --> 07:53.822
+You mentioned that there are five different cone types, essentially, the cones being the cells that absorb light of different wavelengths. It's not really five types of cones. There are really three types of cones. And if you look at the way that color vision is thought to work, you can sort of see that it has to be three different signals. There are a couple of other types of pigments. One is really mostly for dim light vision. When you're walking around in a moonless night and you're seeing things with very low light, that's the rod's
+
+07:53.954 --> 08:22.590
+and that uses its own pigment. And then there's another class of pigments we'll probably talk about a little bit later, this melanopsin pigment. I thought you were referring to like ultraviolet and infrared and things of that sort. Right, right. So in the case of a typical, well, let's put it this way, in human beings, most of us have three cone types and we can see colors that stem from that. In most mammals, including your dog or your cat,
+
+08:22.978 --> 08:43.582
+there really are only two cone types and that limits the kind of vision that they can have in the domain of wavelength or color, as you would say. Let's talk about that odd photopigment. Yeah. So this last pigment is a really peculiar one. It
+
+08:43.905 --> 09:10.206
+One can think about it as really the initial sensitive element in a system that's designed to tell your brain about how bright things are in your world. And the thing that's really peculiar about this pigment is that it's in the wrong place, in a sense. When you think about the structure of the retina, you think about a layer cake, essentially. You've got this thin membrane at the back of your eye, but it's actually a stack of thin layers that
+
+09:10.466 --> 09:36.734
+And the outermost of those layers is where these photoreceptors you were talking about earlier are sitting. That's where the film of your camera is essentially. That's where the photons do their magic with the photopigments and turn it into a neural signal. I like that. I've never really thought of the photoreceptors as the film of the camera, but that makes sense. It's the surface on which the light pattern is imaged by the optics of the eye. And now you've got an array of sensors that's capturing that information and creating a bitmap essentially.
+
+09:37.090 --> 10:06.942
+But now it's in neural signals distributed across the surface of the retina. But it turns out that this last photopigment is in the other end of the retina, the innermost part of the retina. That's where the so-called ganglion cells are. Those are the cells that talk to the brain, the ones that actually can communicate directly what information comes to them from the photoreceptors. And here you've got a case where actually some of the output neurons that we didn't think had any business being directly sensitive to light were actually...
+
+10:07.074 --> 10:36.606
+making this photopigment, absorbing light and converting that to neural signals and sending it to the brain. That's your circadian system. It's keeping time and it's all built into our biology. And this is actually one of the things that blind patients often complain about if they've got retinal blindness is insomnia and- Because their brain's awake in the middle of the night. Exactly. They're not synchronized. Their clock is there, but they're drifting out of phase because their clock's only good to
+
+10:37.154 --> 11:04.574
+you know, 24.2 hours or 23.8 hours. Little by little, they're drifting. So you need a synchronization signal because otherwise you have nothing to actually confirm when the rising and the setting of the sun is. That's what you're trying to synchronize yourself to. I'm fascinated by the circadian clock and the fact that all the cells of our body have essentially a 24 hour-ish clock in them. Right.
+
+11:04.674 --> 11:32.062
+I've never really heard it described how the clock itself works and how the clock signals to all the rest of the body when the liver should be doing one thing and when the stomach should be doing another. If you would just maybe briefly describe where the clock is, what it does, and some of the top contour of how it tells the cells of the body what to do. Right. So the first thing to say is that, as you said, the clock is all over the place.
+
+11:32.194 --> 12:02.014
+Most of the tissues in your body have clocks. The role of the central pacemaker for the circadian system is to coordinate all of these. There's a little nucleus, a little collection of nerve cells in your brain. It's called the suprachiasmatic nucleus, the SCN. And it is sitting in a funny place for the rest of the structures in the nervous system that get direct retinal input. It's sitting in the hypothalamus, which you can think about as sort of the great coordinator of
+
+12:02.786 --> 12:29.886
+Drives and... The source of all our pleasures and all our problems. Right. Or most our problems. Yes, it really is. But it's sort of, you know, deep in your brain, things that drive you to do things. If you're freezing cold, you put on a coat, you shiver, all these things are coordinated by the hypothalamus. So this pathway that we're talking about from the retina and from these peculiar cells that are encoding light intensity are sending signals directly into...
+
+12:30.722 --> 12:58.654
+a center that's surrounded by all of these centers that control autonomic nervous system and your hormonal systems. The hypothalamus uses everything to control the rest of the bodies. And that's true of the suprachiasmatic nucleus, this circadian center as well. It can get its fingers into the autonomic nervous system, the humoral system, and of course, up to the centers of the brain that organize coordinated
+
+12:59.394 --> 13:25.086
+rational behavior. So if I understand correctly, we have this group of cells, the suprachiasmatic nucleus, it's got a 24 hour rhythm. That rhythm is more or less matched to what's going on in our external world by the specialized set of neurons in our eye. But then the master clock itself, the SCN releases things in the blood, humoral signals that go out
+
+13:25.378 --> 13:54.046
+various places in the body. And then you said to the autonomic system, which is regulating more or less how alert or calm we are, as well as our thinking and our cognition. Sure. Then the SCN, the supercosmetic nucleus can impact the melatonin system. Right. Via the pineal. Right. The way this is seen is that if you were to measure your melatonin level over the course of the day, if you could do this, you know, hour by hour, you'd see that it's really low during the day, very high at night.
+
+13:54.818 --> 14:18.078
+But if you get up in the middle of the night and go to the bathroom and turn on the bright fluorescent light, your melatonin level is slammed to the floor. Light is directly impacting your hormonal levels through this mechanism that we just described. So this is one of the routes by which light can act on your hormonal status through pathways that are completely different.
+
+14:18.370 --> 14:47.518
+beyond what you normally would think about, right? You're thinking about the things in the bathroom. Oh, there's the toothbrush. There's the tube of toothpaste. But meanwhile, this other system is just counting photons and saying, oh, wow, there's a lot of photons right now. Let's shut down the melatonin release. I want to ask you about a different aspect of the visual system now, which is the one that relates to our sense of balance. Maybe just walk in at the simplest layers of
+
+14:47.810 --> 15:16.542
+vision, vestibular, so-called balance system. And then maybe we can piece the system together for people so that they can understand. And then also we should give them some tools for adjusting their nausea when their vestibular system is out of whack. Cool. So, I mean, the first thing to think about is that the vestibular system is designed to allow you to sense how you're moving in the world, through the world.
+
+15:16.706 --> 15:40.126
+Basically, the idea is that if we're just sitting in a car in the passenger seat and the driver hits the accelerator and you start moving forward, you sense that. If your eyes were closed, you'd sense it. If your ears were plugged and your eyes were closed, you'd still know it. Anything that jostles you out of the current position you're in right now will be detected by
+
+15:40.450 --> 16:09.598
+the vestibular system pretty much. It's basically in your inner ear, hairy cells, they got little cilia sticking up off the surfaces. And depending on which way you bend those, the cells will either be inhibited or excited, but then they talk to neurons with a neuron-like process and off you go. Now you've got an auditory signal if you're sensing things bouncing around in your cochlea, which is- Sound waves. Sympathetically, the bouncing of your eardrum, which is sympathetically the sound waves in the world.
+
+16:09.890 --> 16:28.478
+But in the case of the vestibular apparatus, evolution has built a system that detects the motion of say fluid going by those hairs. And if you put a sensor like that in a tube that's fluid filled, now you've got a sensor that will be activated when you rotate that tube
+
+16:29.026 --> 16:56.510
+around the axis that passes through the middle of it. I always think of it as three hula hoops. Right, three hula hoops. One standing up, one lying down on the ground. Right, one the other way. Three, three directions. So three axes of encoding, just like in the cones of the retina. The yes, the no, and then I always say it's, and then the puppy head tilt. Yeah, the puppy head tilt. That's the other one. So the point is that your brain is eventually going to be able to unpack what these,
+
+16:56.706 --> 17:24.671
+Sensors are telling you about how you just rotated your head. Now you can tell if you're rotating your head left or right, up or down. That's the sensory signal coming back into your brain, confirming that you've just made a movement that you will. A lot of this is happening under the surface of what you're thinking. These are reflexes. Maybe the best way to think about how these two systems work together is to think about what happens when you suddenly rotate your head to the left.
+
+17:25.986 --> 17:55.902
+When you suddenly rotate your head to the left, your eyes are actually rotating to the right. Automatically, you do this in complete darkness. If you had an infrared camera and watched yourself in complete darkness, you can't see anything. Rotating your head to the left, your eyes would rotate to the right. That's your vestibular system saying, I'm gonna try to compensate for the head rotation so my eyes are still looking in the same place. So the brain works really hard
+
+17:56.354 --> 18:25.310
+to mostly stabilize the image of the world on your retina. Now, of course, you're moving through the world, so you can't stabilize everything. But the more you can stabilize most of the time, the better you can see. And that's why when we're scanning a scene, looking around at things, we're making very rapid eye movements for very short periods of time, and then we just rest. But we're not the only ones that do that. If you ever watch a pigeon walking on the sidewalk, it does this funny head bobbing thing. But what it's really doing is racking its head
+
+18:25.410 --> 18:54.238
+head back on its neck while its body goes forward so that the image of the visual world stays static. Really? And you've seen the funny chicken videos on YouTube, right? You take a chicken, move it up and down, the head stays in one place. It's all the same thing. All of these animals are trying hard to keep the image of the world stable on their retina as much of the time as they possibly can. And then when they've got to move, make it fast, make it quick, and then stabilize again. That's why the pigeons have their head back? It is, yeah. Wow.
+
+18:55.490 --> 19:21.982
+I mean, if you can- I just need to pause there for a second and digest that. Amazing. I'd like to take a quick break and acknowledge one of our sponsors, Function. Last year, I became a Function member after searching for the most comprehensive approach to lab testing. Function provides over 100 advanced lab tests that give you a key snapshot of your entire bodily health. This snapshot offers you with insights on your heart health, hormone health, immune functioning, nutrient levels, and much more.
+
+19:22.146 --> 19:38.430
+Function not only provides testing of over 100 biomarkers key to your physical and mental health, but it also analyzes these results and provides insights from top doctors who are expert in the relevant areas. For example, in one of my first tests with Function, I learned that I had elevated levels of mercury in my blood.
+
+19:38.530 --> 19:59.038
+Function not only helped me detect that, but offered insights into how best to reduce my mercury levels, which included limiting my tuna consumption, I'd been eating a lot of tuna, while also making an effort to eat more leafy greens and supplementing with NAC and acetylcysteine, both of which can support glutathione production and detoxification. And I should say, by taking a second Function test, that approach worked.
+
+19:59.234 --> 20:14.430
+Comprehensive blood testing is vitally important. There's so many things related to your mental and physical health that can only be detected in a blood test. The problem is blood testing has always been very expensive and complicated. In contrast, I've been super impressed by function simplicity and
+
+20:14.562 --> 20:43.358
+at the level of cost. It is very affordable. As a consequence, I decided to join their scientific advisory board and I'm thrilled that they're sponsoring the podcast. If you'd like to try Function, you can go to functionhealth.com slash Huberman. Function currently has a wait list of over 250,000 people, but they're offering early access to Huberman podcast listeners. Again, that's functionhealth.com slash Huberman to get early access to Function. What's going on with the vision and the
+
+20:43.458 --> 21:10.974
+balance system that causes a kind of a nausea. I mean, I think the fundamental problem typically when you get motion sick is what they call visual vestibular conflict. That is, you have two sensory systems that are talking to your brain about how you're moving through the world. And as long as they agree, you're fine. So if you're driving, you know, your body senses that you're moving forward, your vestibular systems, you know,
+
+21:11.074 --> 21:34.046
+is picking up this acceleration of the car and your visual system is seeing the consequences of forward motion in the sweeping of the scene past you, everything is honky dory, right? No problem. But when you are headed forward, but you're looking at your cell phone, what is your retina seeing? Your retina is seeing the stable image of the screen. There's absolutely no motion
+
+21:35.330 --> 22:03.102
+in that screen. Or some other motion, like a movie. Or if you're playing a game or you're watching a video, a football game, you know, the motion is uncoupled with what's actually happening to your body. Your brain doesn't like that. Your brain likes everything to be, you know, aligned. And if it's not, it's going to complain to you. By making me feel nauseous. By making you feel nauseous and maybe you'll change your behavior. So you're getting- I'm getting punished. Yeah. For setting it up so your signals can flick. Right. By the vestibular-
+
+22:03.426 --> 22:30.270
+You'll learn. Well, maybe marching a little bit further along this pathway, visual input is combined with balance input. Where does that occur? And maybe you could tell us a little bit about this kind of mysterious little mini brain that they call the cerebellum. Cerebellum, yeah. So, you know, the way I tried to describe the cerebellum to my students is
+
+22:31.650 --> 23:01.566
+is that it serves sort of like the air traffic control system functions in air travel. It's a system that's very complicated and it's really dependent on great information. So it's taking in the information about everything that's happening everywhere, not only through your sensory systems, but it's listening in to all the little centers elsewhere in your brain that are computing what you're going to be doing next and so forth. And it really has an important role in coordinating and shaping movements.
+
+23:02.114 --> 23:29.182
+But it's not that you would be paralyzed if your cerebellum was gone because you still have motor neurons, you still have ways to talk to your muscles, you still have reflex centers, but you wouldn't be coordinating things so well anymore. The timing between input and output might be off. Or if you were trying to practice a new athletic move, like an overhead serve in tennis, you'd be just terrible at learning.
+
+23:29.474 --> 23:56.606
+All of the sequences of muscle movements and the feedback from your sensory apparatus that would let you really hit that ball exactly where you wanted to after the nth rep, right now, the thousandth rep or something, you get much better at it. So the cerebellum is all involved in things like motor learning and refining the precisions of movements so that they get you where you want to go. If you reach for a glass of champagne, then you don't knock it over or stop short.
+
+23:57.026 --> 24:26.878
+You know, that's what he's good at. People who have selective damage to the cerebellum. Absolutely. The typical thing would be a patient who has a cerebral stroke or a tumor, for example, might be not that steady on their feet. You know, if the, you know, dynamics of the situation, you're standing on a streetcar with no pole to hold onto, they might not be as good at adjusting all of the little movements of the car.
+
+24:27.170 --> 24:56.830
+You know, there's a kind of tremor that can occur as they're reaching for things because they reach a little too far and then they over-correct and come back, things like that. So it's very common neurological phenomenon, actually. Cerebellar ataxia is what the neurologists call it. And it can happen not just with cerebellar damage, but damage to the tracts that feed the information into the cerebellum. Right, it just deprive the structure. Exactly, or output from the cerebellum.
+
+24:56.962 --> 25:25.918
+And so the cerebellum is where a lot of visual and balance information is combined. In a very key place in the cerebellum, which is, it's really one of the oldest parts in terms of evolution. Talking about the flocculus. The flocculus, right. This is a, it's a critical place in the cerebellum where visual and vestibular information comes together for recording just the kinds of movements we were talking about, this image stabilizing network. It's all happening there. And there's learning happening there as well. So that if,
+
+25:26.114 --> 25:55.134
+your vestibular apparatus is a little bit damaged somehow. Your visual system is actually talking to your cerebellum saying there's a problem here. There's an error. And your cerebellum is learning to do better by increasing the output of the vestibular system to compensate for whatever that loss was. So it's a little error correction system. That's sort of typical of cerebellar function. And it can happen in many, many different domains. This is just one of the domains of sensory motor integration that
+
+25:55.554 --> 26:24.894
+Oh, that takes place there. I want to talk about an area of the brain that is rarely discussed, which is the midbrain. Yeah. And for those that don't know, the midbrain is an area beneath the cortex. I guess we never really defined cortex. It was just kind of the outer layers or are the outer layers of the, at least mammalian brain or human brain. But the midbrain is super interesting because it controls a lot of unconscious stuff.
+
+26:25.474 --> 26:53.950
+reflexes, et cetera. So could you please tell us about the midbrain, about what it does? Yeah, so there's a lot of pieces there. I think the first thing to say is if you imagine the nervous system in your mind's eye, you see this big honking brain, and then there's this little wand that dangles down into your vertebral column, the spinal cord, and that's kind of your visual impression.
+
+26:54.178 --> 27:24.126
+what you have to imagine is starting in the spinal cord and working your way up into this big, magnificent brain. And what you would do as you enter the skull is get into a little place where the spinal cord kind of thickens out. It still has that sort of long, skinny, trunk-like feeling. Sort of like a paddle or a spoon shape. Right, it starts to spread out a little bit. And that's because your evolution has packed more interesting goodies in there for processing information and generating movement. So this midbrain you're talking about
+
+27:24.386 --> 27:48.734
+is the last bit of this enlarged sort of spinal cordy thing in your skull, which is really the brainstem is what we call it. The last bit of that before you get to this relay up to the cortex is the midbrain. And there's a really important visual center there. It's called the superior colliculus. But this is where most of the action is in terms of interpreting visual input and organizing behavior around that.
+
+27:50.402 --> 28:18.334
+You can sort of think about this region of the brainstem as a reflex center that can reorient the animal's gaze or body or maybe even attention to particular regions of space out there around the animal. And that could be for all kinds of reasons. I mean, it might be a predator just showed up in one corner of the forest and you pick that up and you're trying to avoid it. Or just any movement.
+
+28:18.466 --> 28:47.902
+right? It might be, you know, that suddenly, you know, something splats on the page when you're reading a novel and your eye reflexly looks at it. You don't have to think about that. That's a reflex. But these are centers that emerged early in the evolution of brains like ours to handle complicated visual events that have significance for the animal in terms of space. Where is it in space? And in fact, this same center actually gets input from all kinds of other sensory systems that
+
+28:48.194 --> 29:17.086
+take information from the external world, from particular locations, and where you might want to either avoid or approach things according to their significance to you. So you get input from the touch system. You get input from the auditory system. I worked for a while in rattlesnakes. They get input from a part of their warm sensors on their face. They're in these little pits. They have a version of an extra receptive sensory system. That is, they're looking out into the world,
+
+29:17.506 --> 29:47.486
+using a completely different set of sensors. They're using the same sensors that would feel the warmth on your face if you stood in front of a bonfire, except evolution has given them this very nice specialized system that lets them image where the heat's coming from. You can sort of do that anyway, right? If you walk around the fire, you can feel where the fire is from the heat hitting your face. Is that the primary way in which they detect prey? It's one of the major ways. And in fact, they use vision as well.
+
+29:47.618 --> 30:14.782
+And they bring these two systems together in the same place, in this tectal region, this brainstem. I want to pause here just for one second. I think what's so interesting about taste receptors, heat sensors, and vision and all this integration is that it really speaks to the fact that all these sensory neurons are trying to gather information and stuff it into a system that can make meaningful decisions and actions.
+
+30:14.978 --> 30:36.478
+and that it really doesn't matter whether or not it's coming from eyes or ears or nose or bottoms of feet, because in the end, it's just electricity flowing in. And so it's placed in different locations on different animals, depending on the particular needs of that animal. So maybe I'm feeling some heat on one side of my face and I also smell
+
+30:36.802 --> 31:04.670
+something baking in the oven. So now there's, neither is particularly strong, but as you said, there's some corroboration. And that corroboration is occurring in the midbrain. Right. And then if you throw things into conflict, now the brain is confused and that may be where your motion sickness comes from. So it's great to have, you know, as a brain, it's great to have as many sources of information as you can have. Just like if you're a, you know, you're a spy or a journalist, you don't want as much information as you can get about what's out there.
+
+31:05.570 --> 31:26.142
+But if things conflict, that's problematic, right? Your sources are giving you different information about what's going on. Now you've got a problem on your hands. What do you publish?
+
+31:26.338 --> 31:56.304
+Proper hydration is critical for optimal brain and body function. Even a slight degree of dehydration can diminish cognitive and physical performance. It's also important that you get adequate electrolytes. The electrolytes, sodium, magnesium, and potassium are vital for functioning of all the cells in your body, especially your neurons or your nerve cells. Drinking element dissolved in water makes it very easy to ensure that you're getting adequate hydration and adequate electrolytes. To make sure that I'm getting proper amounts of hydration and electrolytes, I dissolve one packet of element in about 16 minutes
+
+31:56.304 --> 32:26.256
+to 32 ounces of water when I first wake up in the morning. And I drink that basically first thing in the morning. I'll also drink Element dissolved in water during any kind of physical exercise that I'm doing, especially on hot days when I'm sweating a lot and losing water and electrolytes. Element has a bunch of great tasting flavors. I love the raspberry, I love the citrus flavor. Right now, Element has a limited edition lemonade flavor that is absolutely delicious. I hate to say that I love one more than all the others, but this lemonade flavor is right up there with my favorite other one, which is raspberry or watermelon.
+
+32:26.256 --> 32:54.878
+Again, I can't pick just one flavor. I love them all. If you'd like to try Element, you can go to drinkelement.com slash Huberman, spelled drink L-M-N-T dot com slash Huberman to claim a free Element sample pack with a purchase of any Element drink mix. Again, that's drinkelement.com slash Huberman to claim a free sample pack. This is important and a great segue for what I'd like to discuss next, which is the basal ganglia. This really interesting of the,
+
+32:55.042 --> 33:19.422
+area of the brain that's involved in instructing us to do things and preventing us from doing things. Right. What are the basal ganglia and what are their primary roles in controlling go-type behavior and no-go-type behavior? Yeah. So, I mean, the basal ganglia are sitting deep in what you would call the forebrain, so the highest levels of the brain. And it's deeply intertwined with cortical function.
+
+33:19.970 --> 33:46.814
+The cortex can't really do what it needs to do without the help of the basal ganglia and vice versa. And in a way, you can think about this logically as saying, you know, if you have the ability to withhold behavior or to execute it, how do you decide which to do? Well, the cortex is going to have to do that thinking for you. You have to be looking at all the contingencies of your situation to decide, is this a crazy move or is this a really smart investment right now or, you know, what?
+
+33:47.202 --> 34:14.687
+I don't want to go out for a run in the morning, but I'm going to make myself go out for a run. Or I'm having a great time out on a run and I know I need to get back, but I kind of want to go another mile. I mean, another great example is that, you know, the marshmallow test for the little kids, you know, they can get two marshmallows if they hold off, you know, just 30 seconds initially, you know, they can have one right away, but if they can wait 30 seconds, they got two, you know, so that's the no-go because their cortex is saying, you know, I would really like to have two more than having one.
+
+34:15.777 --> 34:40.127
+but they're not gonna get the two unless they can not reach for the one. So they've got to hold off the action. And that has to result from a cognitive process. So the cortex is involved in this in a major way. Why do you think that some people have a harder time running these go, no-go circuits and other people seem to have very,
+
+34:40.482 --> 35:05.854
+low activation energy, we would say. They can just, you know, they have a task, they just lean into the task. Whereas some people getting into task completion or things of that sort is very challenging for them. I mean, I think it's really just another, it's a special case of a very general phenomenon, which is brains are complicated and brains, you know, the brains we have are the result of genetics and experience.
+
+35:06.050 --> 35:31.230
+And my genes are different from your genes and my experiences are different from your experiences. So the things that will be easy or hard for us won't necessarily be aligned. They might just happen to be just because they are. But the point is that, you know, you're dealt a certain set of cards. You have a certain set of genes. You are handed, you know, a brain. You don't choose your brain. It's handed to you. But then there's all this stuff you can do with it. You know, you can learn.
+
+35:31.458 --> 35:59.390
+to have new skills or to act differently or to show more restraint, which is kind of relevant to what we're talking about here. Right, of course. Yeah, all the structures that we're discussing are working in parallel. Right. And there's a lot of changing crosstalk. So let's talk about the cortex. We've worked our way up the so-called neuro axis as the aficionados will know. So we're in the cortex. This is the seat of our higher consciousness, self-image, planning and action.
+
+35:59.650 --> 36:29.630
+But as you mentioned, the cortex isn't just about that. It's got other regions that are involved in other things. So maybe we should, staying with vision, let's talk a little bit about visual cortex. You told me a story, an amazing story about visual cortex. And it was somewhat of a sad story, unfortunately, about someone who had a stroke to visual cortex. Maybe if you would share that story, because I think it illustrates many important principles about what the cortex does. Sure. So the point is that you all...
+
+36:29.762 --> 36:54.430
+those of us who see have representations of the visual world in our visual cortex. What happens to somebody when they become blind because of problems in the eye, the retina, perhaps? You have a big chunk of the cortex, this really valuable real estate for neural processing that has been
+
+36:54.626 --> 37:19.454
+to expect input from the visual system and there isn't any anymore. So you might think about that as fallow land, right? It's just, it's unused by the nervous system and that would be a pity, but it turns out that it is in fact used. And the case that you're talking about is of a woman who was blind from very early in her life and
+
+37:19.682 --> 37:49.214
+and who had risen through the ranks to a very high level executive secretarial position in a major corporation. And she was extremely good at braille reading and she had a braille typewriter and that's how everything was done. And apparently she had a stroke and was discovered at work, collapsed and they brought her to the hospital. And apparently the neurologist who saw her when she finally came to said, you know, I've got good news and bad news. Bad news is you've had a stroke.
+
+37:49.538 --> 38:15.102
+The good news is that it was in an area of your brain you're not even using. It's your visual cortex, and I know you're blind from birth, so there shouldn't be any issue here. The problem was she lost her ability to read braille. So what appears to have been the case, and this has been confirmed in other ways by imaging experiments in humans, is that in people who are blind from very early in birth, the visual cortex is
+
+38:15.426 --> 38:41.694
+gets repurposed as a center for processing tactile information. And especially if you train to be a good braille reader, you're actually reallocating somehow that real estate to your fingertips, you know, a part of the cortex that should be listening to the eyes. So that's an extreme level of plasticity. But what it shows is the visual cortex is kind of a general purpose processing machine. It's good at spatial processing.
+
+38:42.402 --> 39:10.014
+information in the skin of your fingers is just another spatial sense and deprived of any other input. The brain seems smart enough, if you want to put it that way, to rewire itself, to use that real estate for something useful, in this case, reading Braille. Incredible. Somewhat tragic, but incredible. At least in that case, tragic. Very informative. Very informative. And of course it can go the other way too, where people can gain function
+
+39:10.530 --> 39:37.822
+in particular modalities like improved hearing or tactile function in the absence of vision. Listen, David, this has been wonderful. It's been a blast. We really appreciate you taking the time to do this as people probably realize by now, you're an incredible wealth of knowledge about the entire nervous system. Today, we just hit this top contour of a number of different areas to give a flavor of the different ways that the nervous system works and is organized and how that's put together.
+
+39:38.018 --> 40:07.294
+how these areas are talking to one another. What I love about you is that you're such an incredible educator and I've taught so many students over the years, but also for me personally as friends, but also anytime that I want to touch into the beauty of the nervous system and start thinking about new problems and ways that the nervous system is doing things that I hadn't thought about, I call you. So please forgive me for the calls, past, present, and future, unless you change your number. And even if you do, I'll be calling. Yeah.
+
+40:07.522 --> 40:20.670
+It's been such a blast, Andy. This has been a great session, and it's always fun talking to you. It always gets my brain racing. So thank you. Thank you.

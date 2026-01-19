@@ -1,0 +1,916 @@
+WEBVTT
+
+00:00.354 --> 00:20.990
+Welcome to the Huberman Lab guest series, where I and an expert guest discuss science and science-based tools for everyday life. I'm Andrew Huberman, and I'm a professor of neurobiology and ophthalmology at Stanford School of Medicine. Today marks the fifth episode in our six-episode series all about sleep with expert guest Dr. Matthew Walker.
+
+00:21.282 --> 00:42.302
+Today's episode focuses on the inextricable link between sleep and our mental health. For instance, a specific stage of sleep called rapid eye movement, or REM sleep, is critical for removing the emotional content of our previous day's memories, and in doing so provides a sort of therapy within sleep that allows us to feel emotionally restored when we wake the next morning.
+
+00:42.690 --> 01:09.022
+We discuss what happens when you are deprived of REM sleep to a small or greater degree, and we discuss how to improve the quality and quantity of your REM sleep in order to ensure mental health. We also discuss science-based protocols for reducing rumination and negative thoughts before sleep. The information shared by Dr. Walker in today's episode is sure to be critical for anyone that is either struggling with mental health issues or who simply wants to bolster their overall mental health.
+
+01:09.506 --> 01:32.254
+Before we begin, I'd like to emphasize that this podcast is separate from my teaching and research roles at Stanford. It is, however, part of my desire and effort to bring zero cost to consumer information about science and science-related tools to the general public. In keeping with that theme, I'd like to thank the sponsors of today's podcast. Our first sponsor is Eight Sleep. Eight Sleep makes smart mattress covers with cooling, heating, and sleep tracking capacity.
+
+01:32.386 --> 01:54.078
+Many times on this podcast, we discuss how in order to fall and stay deeply asleep, your body temperature actually needs to drop by about one to three degrees. And in order to wake up feeling maximally refreshed and energized, your body temperature needs to heat up by about one to three degrees. Eight Sleep makes it very easy to control the temperature of your sleeping environment so that it's easy to fall and stay asleep and wake up feeling refreshed.
+
+01:54.338 --> 02:24.304
+I started sleeping on an Eight Sleep mattress cover several years ago, and it has completely and positively transformed my sleep. So much so that when I travel to hotels or Airbnbs, I really miss my Eight Sleep. I've even shipped my Eight Sleep out to hotels that I've been staying in because it improves my sleep that much. If you'd like to try Eight Sleep, you can go to eightsleep.com slash Huberman to save $150 off their Pod 3 cover. Eight Sleep currently ships to the USA, Canada, UK, select countries in the EU, and Australia. Again, that's eightsleep.com slash
+
+02:24.304 --> 02:49.598
+Huberman. Today's episode is also brought to us by Element. Element is an electrolyte drink that has everything you need and nothing you don't. That means plenty of the electrolytes, magnesium, potassium, and sodium, and no sugar. As I mentioned before on this podcast, I'm a big fan of salt. Now, I want to be clear. People who already consume a lot of salt or who have high blood pressure or who happen to consume a lot of processed foods that typically contain salt need to control their salt intake.
+
+02:49.762 --> 03:19.728
+However, if you're somebody who eats pretty clean and you're somebody who exercises and you're drinking a lot of water, there's a decent chance that you could benefit from ingesting more electrolytes with your liquids. The reason for that is that all the cells in our body, including the nerve cells, the neurons, require the electrolytes in order to function properly. So we don't just want to be hydrated. We want to be hydrated with proper electrolyte levels. With Element, that's very easy to do. What I do is when I wake up in the morning, I consume about 16 to 32 ounces of water and I'll dissolve a packet of Element in that water. I'll also do the same
+
+03:19.728 --> 03:46.782
+Today's episode is also brought to us by BetterHelp.
+
+03:47.170 --> 04:16.030
+BetterHelp offers professional therapy with a licensed therapist carried out entirely online. I've been doing therapy for over 30 years. Initially, it was a requirement for being let back in school, but I decided to keep up with that therapy because provided the therapy has three essential components, which are excellent rapport with the therapist, support from the therapist, and valuable insights from the therapist that we wouldn't otherwise be able to arrive at, well then it's a terrific way to improve our mental landscape, both our emotional state and our behaviors.
+
+04:16.130 --> 04:46.096
+BetterHelp allows you to find a therapist with whom you have those three key components, and it also makes it very easy to schedule. Again, the sessions are carried out entirely online, and even if you're extremely busy or traveling a lot or have a lot of family and business obligations, BetterHelp allows you to access those therapy sessions regularly so that you can constantly improve. There's just oh so much data supporting that quality therapy can improve our mental health and the overall landscape of our lives. In fact, I view quality therapy as important as physical exercise, and I know many others do as well.
+
+04:46.096 --> 05:13.726
+There certainly aren't a replacement for one another, but if you're doing physical exercise, meaning resistance training and cardiovascular training, and you're doing regular quality therapy of the sort that BetterHelp can provide, well, then you're essentially doing as much as anyone possibly can to improve your mental health and physical health. If you'd like to try BetterHelp, go to betterhelp.com slash Huberman to get 10% off your first month. Again, that's betterhelp.com slash Huberman. And now for my conversation with Dr. Matthew Walker.
+
+05:14.146 --> 05:42.654
+Dr. Matthew Walker, welcome back. Dr. Andrew Huberman, delight to be back. During the course of this series, we've of course been talking about sleep and you've talked about the biology of sleep, ways to improve, maybe even optimize one's sleep. You defined what optimizing one's sleep actually is. Talked about learning and memory, creativity, caffeine, naps, food, exercise, and so much more.
+
+05:43.650 --> 06:11.294
+I'm excited that you're gonna teach us about the relationship between sleep and emotion regulation, but also mental health, mental health challenges. But I sometimes like to remind people that mental health includes the word health. It's not all about mental illness. It's also about how to improve one's health, as well as ways to combat certain forms of mental illness or challenges. So to start things off, maybe you could just give us the basics
+
+06:11.458 --> 06:36.766
+the relationship between sleep and emotional states or one's ability to regulate their own emotions. This is an area of work that we've been interested in and doing a lot of research on for about 20 or so years now. And I would say that probably the most striking statement I can offer up front is the following. In that 20 years of research,
+
+06:37.346 --> 07:06.110
+we have not been able to discover a single psychiatric condition in which sleep is normal. And to me, it has taught me everything that I need to know about this very intimate bi-directional relationship between your sleep health and your mental health. And you're right to emphasize that notion of mental health because we're not just going to speak about some of the sort of challenging aspects of sleep and psychiatric disorders
+
+07:06.274 --> 07:33.022
+but we'll speak about some of the benefits that sleep can provide when you get it to turn the tables and we move in the direction, not of mental illness, but we move in the direction of mental wellness. So I'm excited to sort of make sure that I don't fall prey to that. Stepping back still though, what about this relationship between just sleep and our basic emotional regulation and our emotional stability?
+
+07:33.474 --> 07:56.830
+I'm sure everyone has seen the example or had the example as a parent of that parent holding a child and the child is crying and they look at you and they say, well, they just didn't sleep well last night. As if there's some miraculous parental knowledge that bad sleep the night before equals bad mood and emotional reactivity and regulation the next day.
+
+07:57.826 --> 08:24.414
+And some years ago now, we were fascinated by this, but we couldn't really unearth basic science that would help us explain what was going on and why that was so clearly the case. So we did an initial study where we took a group of healthy people, no signs of psychiatric illness or emotional instability, and we gave them a full night of sleep or we sleep deprived them. And then the next day we put them inside of a brain scanner.
+
+08:24.546 --> 08:52.894
+And we showed them a whole range of emotional visual images ranging from very neutral all the way up to quite unpleasant and negative. And we were looking at how the brain was reacting to those emotional experiences with versus without sleep. And the structure that we'd initially focused on was a structure that you've spoken about before called the amygdala. And you actually have one on the left and the right side of your brain.
+
+08:52.994 --> 09:22.622
+And the amygdala is the centerpiece region for the generation of emotional reactions, both positive and negative. But here we're focusing on that aversive, that negative aspect. And when we looked at that structure in people who are sleep deprived, what we saw relative to the people who'd had a full night of sleep was a 60%, six zero, 60% increase in amygdala responsivity under conditions of sleep deprivation.
+
+09:23.586 --> 09:52.958
+That is quite a striking amplification. In fact, we, to that date with all of us studies on sleep and sleep loss, had not quite seen an effect size within the brain that was that big. Sorry to interrupt, but just to make sure that everyone's on the same page. So people are being shown images with varying degrees of emotionality, including images that are known to evoke negative, averse emotions, as we call them in the laboratory. That's correct. Could be feelings of fear, anger, disgust.
+
+09:53.570 --> 10:22.078
+revulsion, whatever, negative valence. Was it the case that sleep deprivation increased the activity in the amygdala to such images by 60% only for the aversive images or for, let's say, a neutral image presented to somebody who has had plenty of quality sleep? Let's say it is, I'm making up the units here, it gives us two out of 10 units of amygdala activation. This isn't the way neuroscience is done, but for sake of discussion.
+
+10:22.722 --> 10:44.702
+Is it the case then that that neutral image would provide a 6 out of 10 level of activation? Or was it only for aversive images? So the way we did the analysis first was we used almost a correlation approach. So we sort of told the brain imaging analysis to say, look, here are the ratings of these
+
+10:44.802 --> 11:09.822
+pictures and they go from very neutral to increasingly negative and aversive and show me what in the brain is reacting to that curve, that gradient curve. And sure enough, you've got the magnitude overall was 60%, but it's a very interesting point that you make because where the amygdala started to respond and that responsivity started to hook up in
+
+11:09.922 --> 11:29.374
+in the activation and the sort of aggravation direction was much earlier in the curve of emotionality. In other words, things that previously when you've had a good night of sleep do not feel particularly emotional started to become rather emotional when you were not getting sufficient sleep.
+
+11:29.698 --> 11:58.366
+So it heightened the sensitivity of the initial triggering of the emotional response. And then the more emotional it became, the more separate those two sort of reactivity curves became from the amygdala when you had sleep versus when you had not sleep or had not slept, I should say. To us then the question became, well, why? Why is the amygdala so reactive
+
+11:58.850 --> 12:24.446
+and uncontrolled when you are absent sleep. And we did another analysis and what we found was that there was a structure in your frontal lobe and the frontal lobe just sits directly. So if you think about your eyes and you go directly up, you're in your frontal lobe. And it was a particular part of the frontal lobe, the middle part that sits right between your eyes, something that we call the medial prefrontal cortex.
+
+12:25.250 --> 12:51.870
+And what we found was that with a night of sleep, the medial prefrontal cortex was strongly connected to the amygdala. Why is that important? It's because that part of your frontal lobe is very good at acting like a control rational mechanism on your deep sort of, you know, it's not Neanderthal, but your deep emotional brain centers.
+
+12:51.970 --> 13:17.726
+But without sleep, we found that that connection had been severed. And so it was almost as though without sleep, you become all emotional gas pedal and too little regulatory control brake. And so you couldn't modulate those emotions anywhere near as effectively. Now, some people may say, well, hang on a second, that was a total night of sleep deprivation. And that's not really relevant for me because I
+
+13:18.114 --> 13:28.574
+I don't sleep enough. I know that from all of the previous episodes that I've gone through here, hopefully, if you've listened to them. But I'm usually maybe getting...
+
+13:28.834 --> 13:49.886
+five or six hours of sleep, is this really relevant? So we started doing that study. We wanted to say, let's do what we call an ecological study, a more of a real world sleep restriction rather than total deprivation. And we were about halfway through that study when a wonderful Japanese research group essentially published the study that we were doing.
+
+13:49.986 --> 14:16.926
+What was great is that they did it even in a more rigorous way. And essentially what they were able to do is replicate exactly what we'd found. But now by putting people on sort of less than six hours of sleep for five nights. And sure enough, you got the same response. So that was very clear to us that there was some sensitivity. There's a reason why you become so unbuckled.
+
+14:17.186 --> 14:44.030
+emotionally when you are not getting sufficient sleep. It's the reason that you have almost this sort of erratic pendulum like sort of responsivity when you're not getting sufficient sleep. That notion of I just snapped dot, dot, dot, or you apologize and you say, look, I am so sorry. I just bit your head off. I just haven't been getting enough sleep. And so we could start to understand what in the brain was happening when you didn't get sleep.
+
+14:44.834 --> 15:14.686
+It's such an important finding for a couple of reasons that maybe we can explore. Previously on the podcast, we had a guest doctor, he's a neurosurgeon, Matt McDougall. He's the lead neurosurgeon at Neuralink. He came up through Stanford, works on deep brain stimulation, et cetera. And I love his description of what the prefrontal cortex does. It jibes perfectly with the way you describe it, which is he said, the main function of the prefrontal cortex is to
+
+15:14.914 --> 15:41.662
+say, shh, to specific brain areas under specific contexts. So the shh, of course, is his way of describing neural inhibition, so quieting of neural activity in certain brain circuits under certain conditions, because there are conditions under which you want your amygdala activation to be very robust, fast, and there's time for protecting oneself, maybe even certain
+
+15:41.858 --> 16:11.134
+for swift violent action to protect your family, et cetera. But the prefrontal cortex seems to be able to hold it in mind, so to speak, what the context is under which that would be appropriate versus when it would be inappropriate. And a great example of that people can think of, if all of a sudden a gun is pointed in your face, you would want your amygdala to react if it's in the real world. But if you're at the movie theaters and you see a gun pointed in your face,
+
+16:11.714 --> 16:33.502
+your omeggd doesn't really react as much. Why? Because your prefrontal cortex understood the word that you described, which is context. But in some ways, it seems as though you become almost regressed to this more basic fundamental, elemental, you know, emotional brain. And
+
+16:33.634 --> 16:57.310
+the red mist descends and you really can't see much more because your prefrontal cortex seems to be absent. You become very reflex driven. And we don't want to go too far a tangent on prefrontal cortex, but one of the most beautiful descriptions of prefrontal cortex I ever heard was also from a colleague, Eric Knudsen at Stanford, who's now retired, does beautiful work,
+
+16:57.474 --> 17:21.182
+on neuroplasticity, and he described how when people or animals have lesions to certain regions of the prefrontal cortex, they become stimulus-driven machines such that if you go like this to a puppy or to maybe they'll look to the snapping finger, but at some point, we all learn that there must be a reason for us to follow the snapping of the fingers in different locations in space, but with prefrontal damage,
+
+17:21.569 --> 17:48.830
+People and animals just become like machines. Whatever stimulus is there, they orient to. And this has implications for ADHD, et cetera. One of the things that I want to ask about to take us back to the specific relationship between sleep, reduced medial prefrontal activity, and emotionality is this feeling when we're sleep deprived that certain things just grate on us a bit more. You know, I had this experience recently. Unfortunately, there was a night where I didn't get much sleep at all.
+
+17:49.122 --> 18:17.246
+And then the next day I was on a phone call and the person I was talking to, I'm quite fond of, but they had a lot of energy and they were talking, they were kind of coming at me with a bunch of stuff that they wanted to, and it just felt like, you know, it was grating on my system. And I knew because I was sleep deprived that, you know, they were entirely well-meaning and so you just kind of resist, but it's incredible how cold water, loud noises, requests of our time, things like that become very irritating and
+
+18:17.410 --> 18:44.766
+they grate on us when we're sleep deprived. Whereas when we're rested, it's like, oh yeah, okay. They're, you know, talking kind of faster, kind of loud. Okay. Somebody is requesting something else. I'll put it in my list or maybe I'll defer to later. Or, you know, the, the cold shower that, you know, feels like, oh, I got to get over this threshold to get into. Like when you're rested, you're like, all right, let's do this. Right. You know, maybe even let's go. I'm excited for it. But when you're tired, it is as if the, um,
+
+18:45.410 --> 19:14.750
+The brain is fighting for any sense of peace it can possibly get. And that peace is interrupted by almost anything and everything. It is a grim situation. And we've certainly heard that from, you know, patients and individuals. It's almost as though the world that they are experiencing, they look at and they say, you know what? You're in an 11 and I need you at a seven right now. It is just too much.
+
+19:14.978 --> 19:38.462
+And this comes back to that result that we described that when the amygdala crosses the threshold and says, okay, things are getting emotional, things are getting unpleasant, I'm going to be responding negatively in an angry way or a fearful way, that starts much earlier. So the threshold for triggering your emotional aversive reaction is
+
+19:39.074 --> 20:06.814
+is much lower and that's why the person's voice when you hear it. First, normally if you had a great night of sleep, you'd say, gosh, you know what today, I really love your energy. It's really so infectious versus a day when you're not sleeping, you just think, I just, I'm lifting my earbuds out of my ears because I don't know if I can take this much longer. And so that was where we were able to manipulate sleep one way
+
+20:07.074 --> 20:35.422
+which is to say I dial sleep down and then I look at the emotional brain and you can see this ramping up of the emotional reactivity in these basic kind of guttural centers. But then we wanted to do the inverse. We wanted to instead see if we could insert sleep back in, in other words, manipulate sleep and dial it back up. Could you get a dissipation in the emotional reaction? And here we decided to throw a second ingredient in
+
+20:35.586 --> 20:59.198
+into the equation, not just simply looking at your emotional reactivity, but we wanted to look at emotional memory. Now, in a previous episode, we've spoken a lot about sleep and memory, but there we were speaking about really quite neutral memory, textbook-like memory, fact-based memory. Emotional memory is very different. And if I were to ask you
+
+20:59.298 --> 21:27.998
+And Drew, cast your mind back to some of your earliest childhood memories or your teen memories. And if anyone listening were to do that, my guess is that almost all of the memories that you recall are memories of an emotional nature, positive or negative. Why is that? It's because one of the functions of emotions when it comes to memory is to red flag and prioritize that experience, that memory as being salient
+
+21:28.258 --> 21:52.862
+because it's emotional. And that instructs the brain that this information in particular is very relevant to us as an organism. Why? Because the rest of the brain is shouting at me, this is emotional. So there is something very privileged and very special about an emotional memory, like a red flag that tags it for priority in the brain. But what
+
+21:53.186 --> 22:18.014
+Something I started to notice when I would read the data, both the neural data and the subjective data on emotional memory, led me to get very interested in what happens with emotional memories over time. Because what you will hear is that if I were to ask you, you know, recall an emotional memory, just try to remember it. My guess is that now at the time of recollection,
+
+22:18.466 --> 22:44.094
+much later on, you are not having the same regurgitation of the same visceral emotional reaction that you had at the time of the experience. What that sort of turned a light bulb moment on for me was that somewhere between the initial experience and the later recollection of that emotional memory, the brain has done a very clever trick.
+
+22:44.322 --> 23:12.094
+It has divorced the emotion from the memory. So now when you come to recollect that emotional memory, let's say days later or even months later, in some ways it is a memory of an emotional event, but it is no longer as powerfully emotional itself as it was at the time of the experience. Right. And I started to wonder, is that time possible?
+
+23:12.546 --> 23:38.814
+or is that time of sleep? So we did a study and we had people experience these emotional memories, sort of essentially make emotional memories and they were doing it inside of a scanner. And then we gave them a night of sleep or even a nap and then we brought them back or we just had them learn those emotional memories in the morning and then bring them back after an identical amount of time
+
+23:39.394 --> 24:08.318
+to try to soften those emotional memories, but without sleep. And we put them back in the scanner and we were able to look to see when you come back later in that second session, is your emotional and you recollect those experiences and you relive them, is the emotional reactivity at that second session any different to the first session? And is that different if that time elapse has contained a full night of sleep versus you've just been awake?
+
+24:08.994 --> 24:35.678
+And what we found is that in those people who remained awake across the day, having had those emotional memories essentially implanted, implanted sounds a little bit sort of big brother, I don't mean it that way, but they'd learned them. The amygdala was just still as responsive as they were recalling and reliving and re-experiencing those emotional memories. But in those people who had the same amount of time to process the memories, but had had a full night of sleep, we saw this
+
+24:35.810 --> 25:01.246
+incredible emotional amygdala depotentiation. And what that taught me was that the sleeping brain was able to almost detox the emotional memory. It is, think about it like an informational orange, that the emotional memory has this bitter emotional rind around it. And then you've got the informational orange in the middle.
+
+25:01.378 --> 25:31.038
+And what sleep was doing was stripping the bitter emotional rind off the informational orange so that then when you came back the next day, again, it is now a memory of an emotional event, but it's no longer triggering that strong visceral reaction. In other words, and we describe this theory as something called overnight forgetting, which is that when it comes to an emotional memory of
+
+25:31.362 --> 26:00.702
+You both sleep to forget and sleep to remember respectively, which is that you sleep to remember the information, the memory of the experience, but it is no longer emotional itself. And from there, we built a biological model of exactly how this works. Because when we looked at the sleep group who'd had that full eight-hour opportunity, we asked the question because we'd measured their sleep,
+
+26:01.250 --> 26:30.494
+What is it about that sleep that seems to provide this form of, it's almost overnight therapy. How is it doing that? What stage of sleep is doing that? And sure enough, what we found was that it was REM sleep, rapid eye movement sleep associated with dreaming. And the greater the amount of REM sleep, the greater the amount of emotional depotentiation, the greater the amount of sort of emotional detox that you got the next day.
+
+26:31.810 --> 26:51.742
+And one of the fascinating things that we didn't quite mention in the episode where we described what is sleep, and we described the different stages, including REM, and we spoke about the brain changes. Something utterly unique happens during REM sleep. Levels of a brain chemical
+
+26:51.938 --> 27:20.382
+called noradrenaline are completely shut off. It is the only time during the 24-hour period when you see the complete cessation of noradrenaline in the brain. And of course, noradrenaline is associated with many different functions. You've elegantly described them. One of the functions is that it's associated with emotional responsivity and the focus and that sort of strong sort of emotional energy. And people will
+
+27:20.610 --> 27:49.534
+No, we speak about, it has two names, noradrenaline or norepinephrine, same thing, US, UK. But people, of course, are familiar with the sister chemical in the body called adrenaline. Upstairs in the brain, we can think about noradrenaline. And during REM sleep, noradrenaline is completely shut off. This stress-associated neurochemical, it's not only associated with stress, but it's associated with lots of things, but stress included. Is noradrenaline shut off in the brain and body during REM sleep?
+
+27:49.698 --> 28:15.486
+rapid eye movement sleep? No, it's not. It seems to be specifically within the brain that there is this blockade of noradrenaline and serotonin goes down too. Whereas another chemical called acetylcholine, which is another neurotransmitter that ramps up in the brain. So if there is a brain chemical that seems to be underlying REM sleep or dream sleep, it seems to be acetylcholine. And in fact, in some parts of the brain,
+
+28:15.586 --> 28:43.134
+you can see almost a 30% greater amount of acetylcholine in some brain regions than when we're awake. Yet, on the other hand, when we think about noradrenaline and serotonin, they are both shut off. So the stress-related chemical within the brain is switched off during REM sleep. However, if you look at other parts of the brain, the memory-related centers of the brain, such as the hippocampus that we've spoken about before, and the amygdala,
+
+28:43.234 --> 29:12.190
+that I just mentioned too, those are very active during REM sleep. So we laid out this biological model that is almost beautiful, that REM sleep is this perfect condition for emotional overnight therapy, where you can reactivate and sort of experience and reprocess those emotional memories, but you're doing it in a neurochemically quote unquote safe environment that allows you to strip away the emotion itself.
+
+29:12.706 --> 29:31.070
+I'd like to take a brief break and acknowledge our sponsor, AG1. AG1 is a vitamin mineral probiotic drink that also contains adaptogens and is designed to meet all of your foundational nutritional needs. By now, I'm sure you've all heard me say that I've been taking AG1 since 2012. And indeed, that is true.
+
+29:31.234 --> 29:57.150
+Now, of course, I do consume regular whole foods every day. I strive to get those foods mostly from unprocessed or minimally processed sources. However, I do find it hard to get enough servings of fruits and vegetables each day. So with AG1, I ensure that I get enough of the vitamins, minerals, prebiotic fiber, and other things typically found in fruits or vegetables. And of course, I still make sure to eat fruits and vegetables. And in that way, provide a sort of insurance that I'm getting enough of what I need.
+
+29:57.250 --> 30:26.558
+In addition, the adaptogens and other micronutrients in AG1 really help buffer against stress and ensure that the cells and organs and tissues of my body are getting the things they need. People often ask me that if they were going to take just one supplement, what that supplement should be, and I always answer AG1. If you'd like to try AG1, you can go to drinkag1.com slash Huberman to claim a special offer. You'll get five free travel packs plus a year's supply of vitamin D3K2. Again, that's drinkag1.com slash Huberman.
+
+30:27.106 --> 30:57.054
+In some ways, it does resemble behavioral desensitization therapy whereby under the care of a qualified psychiatrist or psychologist, somebody will be encouraged to recall in a great degree of detail, some very difficult, maybe even traumatic event. And through repetition, and of course, through the knowledge that there's support in the immediate environment that will allow them
+
+30:57.154 --> 31:26.686
+to safely move through that experience. Should their heart rate go up, they're sweating profusely, having trouble getting the words out. There's very unfortunately common features of trauma and negative memories. But the idea, as I understand, is to repeat the recall many times often in that safe environment, such that eventually what was initially a really terrible event
+
+31:27.490 --> 31:51.646
+remains a terrible event, but the emotional load of that event is removed from the person's sort of neural understanding of the event. The way I've heard it described is what starts as a tragic, traumatic story eventually becomes a kind of a sad, boring story, boring to the person who's saying it, meaning it doesn't evoke as much autonomic arousal.
+
+31:52.418 --> 32:07.070
+Exactly, and in some ways that's the perfect description of this overnight therapy process that it becomes a memory that is no longer triggering an emotional reaction. And in some ways,
+
+32:07.234 --> 32:34.878
+That's what you want. If you go back to my description from an evolutionary perspective, I told you that one of the functions of emotions is to red flag and prioritize the memory at the time of learning to say that it's important. That's a very adaptive process. It helps us prioritize which things we really should be focusing on and remembering. But it's not adaptive for you to hold on to that emotion long-term once you've stored it. And
+
+32:35.170 --> 33:04.542
+There has been some suggestion in the literature before we were doing this work that maybe one thing you can do with trauma and trauma memories is sleep deprive individuals the very first night after the trauma, because we knew at the time sleep is important for memory and what you would like to do. And it's very similar to that movie, Sunshine Spotless Mind. I always forget the- Eternal Sunshine of the Spotless Mind. Thank you. I didn't see the movie, but I hear it's good. Yeah.
+
+33:04.834 --> 33:27.134
+they try to do is target in the brain these, you know, difficult, painful experiences and just excise them from the brain. And that was the suggestion. Could you pop those memories out of the biography of that individual and save them the trauma? I would argue that's not really what you want to do. Because let's say that
+
+33:27.394 --> 33:56.798
+I have a trauma experience where I was walking home at night from the sleep laboratory late at night and I was coming down kind of an alley to take a shortcut and someone sticks me up with a gun, maybe some violence. I don't want to remove that memory. I would like to remove the trauma response associated with that memory. But I would argue for me as an organism, it's still very important for me to remember that that alley is
+
+33:56.962 --> 34:25.150
+was associated with a bad experience and I should forego going down that very same route again. I want to hold onto the memory, the information. I want to let go of the emotion. I want to sleep to remember and I want to sleep to forget. And I'll come on to why I think that's relevant to PTSD when we perhaps speak about that condition and it's very, very relevant. But coming back to REM sleep,
+
+34:26.146 --> 34:50.270
+We looked back in the literature to see if we could find signs that REM sleep had this relationship with even just your basic emotional reactivity. And there was some wonderful work by a gentleman that you will know from Stanford, probably one of the founding fathers of modern day sleep research, a gentleman called William Dement. Yeah, who passed away a few years ago. He did. Might have been...
+
+34:50.402 --> 35:16.702
+One of the people who coined the term rapid eye movement sleep, but I don't think he was the one who discovered it, correct? He was not, but he was well up there in terms of understanding both sort of what its term was and also what its function was. He, legend as he was, very early on, this was probably in the 60s, he would take individuals because we didn't really have the first published report of
+
+35:16.802 --> 35:44.350
+these two types of sleep of REM and non-REM until they collected the data or found the data in 1953, it was published in 1954. So in other words, we discovered that even up to then, prior to then, we just thought sleep was sleep. We didn't have any knowledge that these different stages. So in the same year that Francis Crick unveiled this incredible helical structure that was created
+
+35:44.578 --> 36:05.566
+called the DNA strand, we also discovered the different stages of sleep. But in the 60s then, William de Ment, knowing that there were these two types of sleep and knowing that there was something that was going on with REM sleep where people were dreaming and he would be waking people up from these different stages and found that it's far more likely for people to report a dream.
+
+36:06.210 --> 36:29.950
+He wondered what the consequence would be if you selectively deprive people of this stage of sleep, of dream sleep. So he brought individuals into his laboratory. And every time they would go into REM sleep, they would go into the room, they would wake them up, have them do some mathematical problems for two or three minutes, and then put them back asleep. And they go back into non-REM. And then as soon as they went back into REM,
+
+36:30.082 --> 36:59.614
+they would wake them up again. And the first night they would have to go into the room maybe six or seven times. Still brutal for the person in the experiment. Not too much fun. But by the end of the five days or six days, I think they were going back into the room something like 17, 18 times. Why? Because the people were building up this growing REM sleep debt and the brain had such a hunger for it that by night five of no REM sleep, all it wanted to do
+
+37:00.034 --> 37:29.886
+was rocket into this thing called REM sleep and start devouring it with high volume. But that wasn't the interesting part. The interesting part was the consequence to these subjects. They were all well adjusted, perfectly normal individuals. By about day three of selective REM sleep deprivation, they started to show signs of paranoia. They started to believe people were out after them. They started to have hallucinations and delusions.
+
+37:29.986 --> 37:58.238
+And by day five, they were bordering on having, you know, aspects of quite severe psychosis. And so what all of this research has taught us in some ways is that it's almost as though REM sleep, and again, it's hyperbolic, is the difference between sanity versus insanity. It's the thing that separates those two. And there's a wonderful quote from an American Indian
+
+37:58.466 --> 38:25.950
+entrepreneur called E. Joseph Kosman. And for all of the years of work that we've been doing in this field, and I've spilled so much ink over this, including in the book, he summarized it in a single sentence. The best bridge between despair and hope is a good night of sleep. And that's exactly what the data is demonstrating in terms of basic emotional brain function.
+
+38:27.330 --> 38:50.302
+Such a powerful link there. And I think it's appropriate, therefore, if we explore a little bit about what the link actually consists of in a way that will provide people a kind of a compass for when they're feeling a little bit less emotionally regulated or if they would like to improve their levels of emotion regulation.
+
+38:50.658 --> 39:18.846
+This is going to be a little bit of an exploration, but you may recall this is an exploration that you and I had some years ago when we were talking about the relationship between rapid eye movement, sleep, and emotionality. And here you've described that the medial prefrontal cortex normally plays this kind of shh role, this suppressive role over the amygdala under conditions where there is something to consider. Is it averse? Is it not averse? How averse is it, right?
+
+39:19.810 --> 39:48.510
+But in terms of what we know about stress and emotion, the autonomic nervous system, this incredible system that balances sympathetic, meaning alertness arousal, sometimes called the fight or flight system, and parasympathetic activation, sometimes called the rest and digest system. It's the balance of the two that dictates one's emotional state and alertness level of stress, et cetera. And I've always imagined the autonomic nervous system, the sympathetic and parasympathetic nervous system as sort of a seesaw.
+
+39:48.674 --> 40:15.390
+But on this seesaw sits us, right? And we can move back and forth across this seesaw. But there's a component of the seesaw that in my mental model, which is the hinge, how tight the seesaw is, meaning how easily or how challenging it is to tilt the seesaw to one or the other side. And I don't know if the mechanism has been
+
+40:16.162 --> 40:45.310
+discovered, but I feel like what happens under conditions of REM deprivation or sleep deprivation, that is sleep deprivation, but you've beautifully described how it's REM deprivation in particular that can do this, that the hinge becomes loose, but the hinge doesn't become loose toward us becoming more parasympathetic and relaxed. There's an asymmetry there. It's as if the seesaw now wants to flop to sympathetic activation until we're so exhausted that we just disappear into sleep.
+
+40:45.410 --> 41:10.334
+So the question is this, and maybe all we have here is opportunity for speculation, but is there any understanding of what the hinge might be and how sleep would adjust the tightness of that hinge? And if people are following this, what we're really trying to get to is, you know, you described a neural circuit mechanism within the brain, but is this, for instance, the gating of the release of
+
+41:10.722 --> 41:39.070
+epinephrine, adrenaline, and cortisol. I mean, is that, I could imagine that's regulated by the brain, but when we're deprived of REM sleep, that process becomes less poorly gated. And then we just will punch out a bunch of adrenaline in response to, you know, a phone call from a close friend that you adore, but is their voice is just a little bit loud and like, oh, this is rough, et cetera. Do we understand the nature of the hinge? We do a little bit. And it's something that we started off
+
+41:39.234 --> 41:54.270
+to test with one specific belief and then we were beautifully course corrected by the data. We thought that the hinge was going to be once you were sleep deprived and you started to slide down into that fight or flight branch, the more packed
+
+41:54.370 --> 42:19.422
+sympathetic and away from the parasympathetic, that the hinge would get ever tighter the further into that sympathetic stress-related fight or flight dip that you had, and there you would stay. It wasn't quite that simple. What we found was that when I challenge you or put you either under a very simple cardiovascular challenge, let's say I'm just having you grip a bar,
+
+42:19.586 --> 42:47.966
+for a long period of time, or we have you under some other, maybe even if it's an exercise regiment, when you are in a sleep deprived state and you are largely inert and not interacting with the world, you actually are in a more strong parasympathetic state. It's almost as though you do not want to interact with the world per se. And this comes on to motivation.
+
+42:48.866 --> 43:13.342
+we and others have found that one of the earliest and strongest effects of a lack of sleep is just absence of motivation. I don't want to interact with the world. I don't want to be social. I don't want to learn. I don't want to exert effort. I don't want to exercise. I just don't want to do much of anything. However, when you provoke me,
+
+43:13.666 --> 43:43.646
+and you force me to interact, or there is a very strong emotional event that I experience, I go all the way over into the strongly sympathetic. So it's almost as though we had the prediction that there was going to be a very tight hinge and the screw was tightening the more sympathetic you became. It was much more that you were in this sort of parasympathetic state, this sort of non-motivational state. And the
+
+43:43.810 --> 44:09.790
+The hinge was so loose, however, that even just the tiniest flick of a challenge, whoosh, you went straight over to the sympathetic. There was no sweet spot of a tightening where you were nicely balancing between those two states. And this comes back to something else that we found. That's you switching, flip-flopping back and forth between parasympathetic and sympathetic. Okay.
+
+44:11.074 --> 44:38.942
+I spoke about the emotional reactivity to negative aversive events, but that's only one half of what we call the affective valence domain. It's not just that you can have negative emotional reactions, of course you can have positive emotional reactions. So we did a sister study to that amygdala study, and we asked, rather than showing you increasingly negative images
+
+44:39.458 --> 45:07.870
+and how your amygdala would respond much more strongly to those as we provoked it, we then start to show you much more positive rewarding images. And because one hypothesis would be that you just simply slide down the scale and you move towards more negative and away from more reward-based reactivity. Or you could imagine that it's both, that when you are sleep deprived, you are
+
+45:08.002 --> 45:23.902
+equally excessively reactive to both of those domains. And what we found was that it was the latter, that you were very abnormally reactive, overreactive to negative events, but you were equally hypersensitive to
+
+45:24.098 --> 45:52.542
+It's a very reward-based stimuli, and this fits beautifully with what we know from sleep deprivation. You are much more impulsive. You are much more reward-seeking. You are much greater in terms of your sensation-seeking, and your addiction potential when you are not getting sufficient sleep is significantly higher. And sure enough, when we looked in the brain, many of these dopamine-related circuits that you've described before were overactive,
+
+45:52.866 --> 46:22.526
+when you were under-slapped. And so I bring this back because it relates to your seesaw sort of analogy. Yes, you can think about the seesaw with sleep deprivation from a sympathetic parasympathetic. You can also think about it from a positive versus negative valence. And once again, our hypothesis was that you're just going to slide down into the negative and you're just going to be less responsive to the rewarding positive. It was the opposite. You were
+
+46:23.394 --> 46:53.342
+abnormally and excessively sensitive to both of those domains, which you could argue is perhaps the very worst of all adaptive responses. Absolutely. As an organism, you don't want to be non-reactive. Emotions are powerful. And we've spoken about the benefits. You need to have emotions to be a functioning human being or organism in the world. They are designed to adaptively help us survive, but you can't go to the extremes. That's maladaptive rather than
+
+46:53.474 --> 47:23.102
+adaptive, but that's where you go when you are sleep deprived. It's this loose hinge and you become very, very erratically and extremely reactive from a neural perspective. Yeah. My understanding is that, you know, sleep deprivation definitely increases impulsivity and addictive potential. It's, yeah, so best, worst of both worlds in this case. And given that,
+
+47:23.266 --> 47:45.438
+now would probably be an appropriate time to just cue people to some of the things that they can do to improve or maximize their rapid eye movement sleep. This was covered in detail in episodes one and two, and to some extent in episodes three and four as well, but they're in reference to other things, learning, memory, creativity.
+
+47:46.050 --> 48:14.526
+the role of naps, et cetera. And I'll refer people back to this beautiful formula, QQRT, that it's not just about getting enough sleep, it's about the quantity indeed, but also the quality, QQ, regularity and timing of sleep and knowing one's chronotype, that is the best time to go to bed and the best time to wake up in the morning for them is going to be critical here. And I can raise my hand, I'll raise both hands in fact,
+
+48:14.626 --> 48:43.902
+metaphorically and say that when I've gone to sleep early and woken up early, so for me, 8.30, 9.00 PM and then waking up at 4.35 AM, which for me matches my chronotype, it has served as a powerful antidepressant effect. And when I've gotten an equal amount of sleep, but going to bed too late for me, that is, you know, midnight, 1 AM and sleeping in until eight or 9 AM, I always carry a low level depression.
+
+48:44.034 --> 49:12.510
+fortunately not something that needed to be medicated, but it's a striking effect in the positive direction when obeying QQRT and in the negative direction when not. So maybe just for, because we can provide some links to those segments in the show note captions, but maybe just for people that are here now, we were going to list out two or three things that one can do to try and maximize the quality and
+
+49:12.642 --> 49:41.022
+quantity of REM sleep without going on too much of a tangent. But at the same time, we do want to highlight that addressing that QQRT formula for ourselves is going to be critical. So maybe so for REM sleep, you know, in the domain of exercise, temperature, et cetera, are there any kind of quick, quick bullet points that we can refer people to? I would say just to keep it high level and brief,
+
+49:41.154 --> 50:10.494
+The single best way, cheapest non-pharmacological way that you can enhance your REM sleep is just sleep an extra 15 or 20 minutes later into the morning. Don't try to put, if I tell you this is about, by the way, this is about the quantity that your sleep opportunity, don't try to add to that 30 minutes or 20 minutes if your goal is to increase REM sleep at the start of the night at the front end, instead,
+
+50:10.626 --> 50:30.590
+Take that desire that I've offered you of adding just 20 minutes or 25 minutes of extra sleep now to the last part of your night, wake up that sort of much later, 20, 25 minutes later. That's the REM sleep rich phase. So if people...
+
+50:30.754 --> 50:55.102
+going back and listen to episode one, we'll describe to you exactly how the different stages of sleep unfold across the night. And they're not evenly distributed. It's not as though you get just as much REM sleep as well as deep non-REM sleep in the first half of the night as you do in the second. You get most of your deep sleep in the first half and you get most of your REM sleep in the second half and particularly in the last quarter of the night. And the
+
+50:55.362 --> 51:20.030
+This leads us to understand that the later into the morning hours that we go, the greater the hunger preference and the taste desire that is of your brain to start sampling from the finger buffet of all of those different stages, this thing called REM sleep. And the later that you sleep into the morning, the more of that REM sleep that you will have. And many people will have experienced this at the weekend.
+
+51:20.130 --> 51:45.566
+where they have this pattern that we don't recommend based on the QQRT. QQR regularity, go to bed at the same time, wake up at the same time. What we see often in society is something that we call social jet lag, where you're short sleeping during the week. And then at the weekend, you're out with friends or you're out sort of on the town. You go to bed late and you wake up late
+
+51:46.274 --> 52:12.158
+And maybe you're doing that by two hours. Maybe you're normally in bed by 10 p.m. during the week. But now at the weekends, you're going to sleep maybe 12, 12.30, and you're waking up two, three hours later on a Saturday and Sunday. And then the problem with that, parenthetically, is on Sunday evening, you've now got to go back to work the next day. So you have to push yourself back to 10.30 or 10 o'clock.
+
+52:12.418 --> 52:40.894
+whereas you were going to bed, let's say at 1am on Friday and Saturday night, that's a three hour time shift. And people are doing that very frequently. That's the equivalent of you and I flying back and forth from Los Angeles to New York every single weekend in terms of our circadian rhythm. And it's brutal on it. But this is separate from this notion of your timing, the final part of the QQRT. And by...
+
+52:40.994 --> 53:04.158
+Pushing your timing a little bit later into the morning when you wake up, you will experience more REM sleep. And as I said, when people sleep later, they go to bed later at night and they wake up much later in the morning at the weekend. I strongly suspect that if they paid attention, they would say, at weekends, I always dream more. I always can remember my dreams and they're more intense.
+
+53:04.834 --> 53:31.614
+not because there's something magical about how your memory recollection of dreams operates on Saturdays and Sundays. It's because you've slept in later. You've gone into that REM sleep rich preferential phase in the morning, and therefore you've increased your REM sleep. So I would say that that's probably the easiest way that you can start to modulate REM sleep. So that's a terrific do. And I think we can probably summarize the top don't as don't drink alcohol.
+
+53:31.778 --> 54:00.222
+Because it abolishes REM sleep. Alcohol and THC are both very potent ways that will remove or obliterate your REM sleep. And we spoke about this in the episode on THC when we discussed this. I think just yesterday I got a very long email and I'm sure you get lots of emails from delightful people in the public and a gentleman just saying, you know, I was...
+
+54:00.354 --> 54:27.166
+using cannabis for probably about seven years. And then I watched or listened to some of your content and I stopped and I just had this explosion of dreams. And I was never recollecting any of my dreams before, but now they came back and goodness, were they vivid, they were rich, they were, and I could not believe it. And that's REM sleep. And that's because during the cannabis use,
+
+54:27.426 --> 54:53.854
+by way of the THC, not the CBD, you've been blocking that REM sleep. You've built up that pressure just as we described in the dementia studies. And then when you finally do take away the agent that is blocking the generation of REM sleep, the THC, all of a sudden your brain doesn't just go back to having its standard amount of REM sleep and dreaming. It has that, plus it tries to get back as much of it as it possibly can by
+
+54:54.178 --> 55:23.934
+having what we call a REM sleep rebound. And that's why people, when they, they stop using, they end up having this intense REM sleep. By the way, to your point about reward and addiction sensitivity with sleep deprivation, one of the things that we, we did in a collaboration, gosh, this was years ago when I was at Harvard with Carl Hart, who I think you, I don't know if you, yeah, Columbia, you know him, yeah, he's fantastic researcher, very interesting man too. And,
+
+55:24.162 --> 55:51.454
+what we found was that a lack of sleep was not only predictive of your addiction potential, but when you went into a clinic to abstain and trying to come off some of those in here, we were looking at cocaine addiction, a lack of sleep was a strong predictor of your abstinence and you falling off the wagon and going back to you. So sleep is so critical, not just for,
+
+55:51.586 --> 56:17.758
+maintaining or pushing you away from that addiction potential. But once you are addicted and you're trying to abstain, it gives you that lift of altitude to try to resist falling off the wagon. And when sleep gets short, that's when you become vulnerable again, probably because your reward circuitry becomes enhanced. And all of a sudden, you just cannot resist the temptation anymore.
+
+56:18.498 --> 56:47.518
+I want to take a brief break and acknowledge our sponsor InsideTracker. InsideTracker is a personalized nutrition platform that analyzes data from your blood and DNA to help you better understand your body and help you reach your health goals. Now, I've long been a believer in getting regular blood work done for the simple reason that many of the factors that impact your immediate and long-term health can only be analyzed from a quality blood test. The problem with a lot of blood tests out there, however, is that you get information back about metabolic factors, hormones, et cetera, but you don't know what to do with that information.
+
+56:47.874 --> 57:12.126
+With InsideTracker, they make it very easy to understand your results, and they also point you to specific directives that you can follow in the realm of nutrition, exercise, supplementation, even prescription drugs that can help bring the levels back into the ranges that are optimal for you. InsideTracker also offers InsideTracker Pro, which enables coaches and health professionals to provide premium and personalized services by leveraging InsideTracker's analysis and recommendations with their clients.
+
+57:12.322 --> 57:42.238
+If you'd like to try InsideTracker, you can go to insidetracker.com slash Huberman to get 20% off any of InsideTracker's plans. Again, that's insidetracker.com slash Huberman. I think the takeaway is very clear. In order to be your best emotional self, that is, in order to be able to access positive emotions to their full amplitude, motivation, learning, as we also covered in a previous episode, but also to stay out of those irritable emotional traps of life,
+
+57:42.370 --> 58:10.654
+And to be a regulated person, calm and joyful person, it stands to reason to minimize alcohol and cannabis use unless there's some medical reason why someone should do otherwise. But the real take-home message here is get as much rapid eye movement sleep as possible and don't do anything to inhibit it. Yeah, get as much sleep. So focus on all of those four macros of sleep, quantity, quality, regularity, and timing, and
+
+58:10.754 --> 58:36.958
+notice that if you want to try to optimize some of those, that emotional reactivity imbalance, you may want to slightly over index on your REM sleep in that regard. And one easy, cheap way of doing that, if you can lifestyle permitting. And again, of course, I understand everyone has a life to live and pressures, but that's the way that if you were to ask me, can you do it and do it simply? Yes, you probably can.
+
+58:37.410 --> 59:04.606
+Great. You touched on trauma a little bit already, but now would be the appropriate time, I think, to talk about PTSD, post-traumatic stress disorder, which I think we can use the definition of PTSD and trauma that the great Paul Conti, a former guest on this podcast, who also did an expert series. What a wonderful, epic man. Yeah, an incredible man. What a mind on him and what a generosity of sharing information in clear ways about mental health as he did in the...
+
+59:04.738 --> 59:31.614
+four episode series on mental health here, and he's been on other podcasts as well. Wrote a marvelous book on trauma. Paul defined trauma as some event that is aversive, that changes the way that our nervous system works such that we function less well in the future. It's not that every negative event, every negative emotion associated memory is trauma.
+
+59:31.970 --> 01:00:01.246
+I think that's a misconception. But there are things that happen to people or that they observe happening to other people. So there's first person trauma, third person observational trauma, et cetera. And these can be single events, multiple events. Sadly, this stuff happens. It can be neglect. So sometimes it's the absence of an event, right? Which becomes the traumatic event that fundamentally rewire some component of neural circuitry such that we don't function as well.
+
+01:00:01.442 --> 01:00:31.230
+in terms of relationship to anything, work, food, sex, sleep, relationships, baseline levels of emotionality and on and on. So what is the relationship between sleep and post-traumatic stress disorder specifically? I think some of what we've covered already certainly touches on this, but PTSD seems to me that it might be its own unique case. It is because if you look at the diagnostic criteria for
+
+01:00:31.362 --> 01:00:58.014
+Firstly, you see sleep disturbance. And as I said right at the top of this episode, there is no major psychiatric disorder where there isn't some mention of sleep problems in its diagnostic criteria. But something else was intriguing about PTSD that compelled me to think about it and then create a theory around it. It's not just sleep problems, it's also nightmares.
+
+01:00:58.818 --> 01:01:28.574
+and specifically repetitive nightmares. In fact, repetitive nightmares form part of the diagnostic criteria for you to receive a diagnosis of PTSD. That's how reliable they are. And as I thought more about this model of overnight therapy, this notion that sleep and particularly REM sleep provides a form of emotional first aid, PTSD stood out to me as something that I had to return to to explain.
+
+01:01:28.706 --> 01:01:54.398
+Why? Because if you think about PTSD and a veteran, it is the perfect example of the process that I described of emotional depotentiation failing. Because what I started to realize is that in PTSD, there is this trauma experience. And then perhaps what's happening is that sleep is
+
+01:01:55.106 --> 01:02:22.974
+the brain goes back to sleep that night and says, okay, please do your elegant trick of stripping away the emotion from the memory and it fails. So then what happens the next night? The brain comes back and says, I'm sorry, but I still got this very emotionally charged memory. Please do your elegant dissipation, depotentiation of the emotion from memory. And it fails again, almost like this broken record that was so indicative of these repetitive nightmares.
+
+01:02:23.874 --> 01:02:53.598
+And then when you looked at PTSD, I told you that REM sleep is a time of this remarkable decrease in noradrenaline. But if you look at PTSD patients, they actually have heightened levels of noradrenaline and also in the body adrenaline as well. In sleep? In sleep and also when you look just as a basal state as well. So there's something not quite right with the noradrenaline story
+
+01:02:53.794 --> 01:03:17.886
+in REM sleep in PTSD patients. So I had just published this paper and I was up at a conference in, I think it was Portland. And I presented the theory that, well, the data that we had on healthy people. And I put forward this theory of PTSD. And then later that afternoon, a psychiatrist came on
+
+01:03:18.082 --> 01:03:47.614
+the stage called Murray Raskin. And he was working a lot with PTSD vets. And he described data, which I couldn't believe. It's one of those moments, Andrew, where you're at a scientific conference. And I think it happens maybe once in a career if you're lucky. All of the hers on the back of my neck stood on sharp end because he was saying, we've got this data and we don't quite understand it. We've been treating our
+
+01:03:48.034 --> 01:04:17.822
+for blood pressure, for hypertension, using a generic drug called prazosin. And prazosin blocks the adrenergic response in the body because you're trying to sort of tamp down that sympathetic activation in the body. So it's a beta blocker? So it's an alpha adrenergic antagonist. So it's not a beta blocker, but it's blocking the adrenergic system. And so, and it's a,
+
+01:04:17.954 --> 01:04:47.326
+You know, it's a generic, pretty cheap drug, but it turns out that it crosses the blood-brain barrier. So it doesn't just stay within the body, it goes up into the brain. And he said, we don't really understand it because I've been giving patients this medication and it works to a degree, but something else happens. They come into the clinic and they say, doc, I'm not having those nightmares anymore. They seem to have gone away. And these patients seem to start to show signs of resolution.
+
+01:04:48.802 --> 01:05:02.974
+So all of a sudden I had had a model, a clinical model that was in search of data and he had data that was in search of a theoretical model. I couldn't believe it because it's exactly what I...
+
+01:05:03.202 --> 01:05:33.054
+which is that if noradrenaline is too high in PTSD, you're not processing and stripping the emotion from the memory. So it keeps coming back over and over like this repetitive nightmare. But then if you block and help bring back down that level of noradrenaline to that, which would be seen in a normal healthy person, in other words, completely blocking it, all of a sudden the emotional memory gets the chance to be processed and you finally start to get symptom resolution. So,
+
+01:05:33.154 --> 01:05:40.830
+We couldn't believe it. He flew down to Berkeley. We spent several days together. We went out to dinner. We just could not stop talking.
+
+01:05:40.930 --> 01:06:10.896
+He subsequently did some incredible work in this area and Prezacin went on to become an FDA approved medication for PTSD and repetitive nightmares that was approved by the Veterans Administration. Bravo. And so, no, it's not me. It's all of his work. No, no, no, no, no, no. You can't. No, this to me is the scientific collaborative conceptual equivalent of the old Reese's Peanut Butter Cup commercials. For those of us old enough to remember, it's two people running
+
+01:06:10.896 --> 01:06:36.670
+toward one another on the beach, one with a jar of peanut butter, one with a bar of chocolate, and then they crash into one another, and then they both share in the delight of the chocolate-peanut butter combination, which is an amazing combination. But here, a far more important example, because it's led to clinical relief in patients with PTSD. So I'm not making light of that at all.
+
+01:06:36.802 --> 01:07:05.534
+this is one of the reasons to go to scientific meetings. Seriously, this is one of the reasons why scientists need to talk. This is one of the reasons to do podcasts is it fosters hybridization of ideas, which is central to new discoveries. And in this case, a clinical discovery. I have a question about this notion of blocking norepinephrine in the brain and body. On the one hand, it seems that during rapid eye movement sleep,
+
+01:07:06.498 --> 01:07:35.262
+We know we're paralyzed or we are paralyzed. That's a fact of rapid eye movement sleep. The brain is recalling memories often in great detail, sometimes through symbolic representation. Space time is disrupted. It's either faster or slower because you're dreaming. And it seems that there's something powerful about being able to replay the memories and yet divorce them from certain neurochemical elements.
+
+01:07:35.746 --> 01:07:59.902
+release in the brain and body to essentially uncouple them. And then to me, it makes perfect sense why taking a drug that would reduce the amount of sympathetic arousal in sleep would help, especially PTSD, because you said with PTSD, sort of an invasion of the noradrenaline response into rapid eye movement sleep that is inappropriate. So does that mean that rapid eye movement sleep in people with PTSD is not
+
+01:08:00.290 --> 01:08:19.102
+truly rapid eye movement sleep. It's as if it's been abolished and replaced with something that's kind of pseudo waking stress invaded, you know, it's like a zombie REM and it's not good. Is that correct? It seems to be an, and you can look at this in terms of the electrical activity of REM sleep.
+
+01:08:19.298 --> 01:08:47.934
+the electrical brain waves of REM sleep in these patients. And you're right, it doesn't seem to be of the same electrical quality. But what was interesting in Murray Raskin's studies, when he started to treat patients with the prazosin and tamp down that noradrenaline, one of the other things that returned back to normality was not just that the symptoms dissipated, their REM sleep started to return with a greater amount. And so...
+
+01:08:48.194 --> 01:09:13.598
+I think it fits very well with this notion that whatever REM sleep that was going on may not necessarily have been electrically or neurochemically identical to normative REM sleep. But when you assisted the system with a chemical to bring it back into normality, REM sleep was gifted back to the brain and emotional resolution started to unfold. Now, I should note that there have been
+
+01:09:13.698 --> 01:09:40.126
+a number of studies that have replicated the finding. Some studies have not though. And so we still need to understand exactly why this is the case. And there are other therapies that we'll probably discuss in a later episode on dreaming that are as if not more effective than that drug therapy for repetitive nightmares. That is a psychological intervention rather than a pharmacological intervention. And that seems to be very effective too.
+
+01:09:41.282 --> 01:10:05.310
+In 2017, as my laboratory was starting to explore some studies on humans on fear and trauma, I visited a trauma addiction center on the East Coast. The guy who runs it will be a guest on this podcast in the future. An amazingly talented trauma and addiction therapist by the name of Ryan Suave. And there it was that I learned about Yoga Nidra.
+
+01:10:05.506 --> 01:10:24.734
+non-sleep deep rest. And here's why. They were taking heroin addicts, gambling addicts, sex addicts, alcoholics, people with what they call behavioral process addictions and substance abuse addictions. And every morning after they woke up, the first thing that they would do was one hour of
+
+01:10:25.154 --> 01:10:52.766
+of non-sleep deep rest, placing people into this liminal state. And I asked why, and Ryan said, this is especially important to do with addicts when they arrive in inpatient recovery in the first week, and even more so in the first three days, because typically they are badly sleep deprived. And in addition to that, many of them are just not good at getting and staying asleep at night without the use of pharmacology, or in some cases,
+
+01:10:53.058 --> 01:11:21.054
+behavioral addictions depending on what it was. And so it was a kind of a self-directed relaxation training of sorts first thing in the morning that in addition perhaps could compensate partially for some of the sleep deprivation that they no doubt were experiencing when they arrived. It's also a novel environment and sleeping in novel environments can be challenging. So there is, as far as I know, no randomized controlled trials of this practice
+
+01:11:21.218 --> 01:11:46.174
+but there are a good number of clinics and treatment centers that are now employing non-sleep depressed, AKA yoga nidra for 30 minutes to an hour, first thing upon waking as one of the core components of treatment for helping people get and stay sober. I think it's absolutely fascinating because that morning time period as well,
+
+01:11:46.402 --> 01:12:12.830
+can be for those who are struggling with sleep, especially difficult. And you and I have spoken on this podcast series about sort of awakening at night or later in the morning when you really want to be asleep and it's just a struggle to get back. And as you noted there, he was saying, they often come in under slept. And my suspicion is that they're probably getting sleep at the front end in part because they're heavily medicated,
+
+01:12:13.250 --> 01:12:40.958
+self-medicating in terms of helping their sleep. But then of course, because they are asleep, they can't continue to medicate. So which part of sleep is fragile? It's those morning hours. And therefore, if you have something that is a compensatory tool that is not going to be the trigger of saying, just get back into bed, get under those sheets and sleep. Sleep doesn't work like that. Sleep is not something that we do. Sleep is something that arrives to us with us.
+
+01:12:41.282 --> 01:13:10.398
+And if it's not, you can't force it. And it's not, it's a bit like someone's name, in fact, quite the opposite, that the harder you try to remember, the further you push sleep away. And when you stop, it all of a sudden comes back. But I love this idea of inserting something like that as a compensatory tool. And that's why I think you and I have discussed openly here, in fact, on this series, at some point, we're going to collaborate and we're going to look to see exactly what is happening
+
+01:13:10.722 --> 01:13:40.222
+electrically at high fidelity mapping inside of the brain when we are going through these liminal states? And what is the benefit of that? Is it a very similar benefit for sleep? And it's fascinating because it's possible that what we find at the level of the brain is that it's not sleep-like, it's something else-like. Maybe it's just a liminal state-like. And what's also interesting is that it provides seemingly many of the benefits of sleep.
+
+01:13:40.546 --> 01:14:09.246
+but it's not sleep. In other words, you can arrive at the same destination of mental and physical health through two different routes. One thing called sleep, one thing called these liminal states, or they both operate on the same highway in terms of mechanistic transaction benefits. So much that we need. We could stay here all night and all day, hopefully not all night. Well, we will absolutely do those studies. And...
+
+01:14:09.410 --> 01:14:32.670
+Because I think that people are in desperate need of zero cost tools to try and access the replenishment and recovery that comes from sleep. And when sleep is available to us, when we can access it, that's going to be the best option. There's no question. But then some of these tools in theory and in practice provide a portal to get better at sleeping as well.
+
+01:14:32.770 --> 01:14:53.342
+Yeah, I was going to say one of the other things I'd be fascinated for us to do is not just look at that model of what happens in the morning, but can we use that for people who have the opposite insomnia problem, which is that I can't fall asleep. And we spoke about this in a previous episode of tools and techniques and methods to help you fall asleep. Could this be one of them?
+
+01:14:53.474 --> 01:15:22.750
+where you just start to help move yourself into this liminal state. You take the stress off. One of the things I hear so much at the center when people come in and they say, I've just, I always struggled to sleep and you go into depth and it's because their mind starts to Rolodex through that anxiety of what I need to do and what I should do. But also then the later it gets and the absent their sleep becomes, the more stress they get, not just about the next day,
+
+01:15:23.138 --> 01:15:47.774
+the more stress that they get about this thing called not being able to fall asleep. And if there's something, a practice that you've taught someone that says, that's okay. I know this place and I know this situation and there's a tool I have and it's called a liminal state. And if you were to train people on that sort of,
+
+01:15:48.738 --> 01:16:13.342
+that method, is it a way that they finally can then cast themselves off? And it's the bridge, not necessarily just between despair and hope, but the bridge between wakefulness and sleep. So put it at the back end, at the end of the day, rather than the front end. A lot for us to discover there and at risk of being hyperbolic, I mean,
+
+01:16:13.442 --> 01:16:34.334
+what would be more useful than a zero cost non-pharmacologic tool for people to get the rest and restoration they need and to get better at getting the ultimate form of restoration, which is sleep. Yeah. And it, you know, I love the paradox of it, that non-sleep deep rest allows you to go into sleep
+
+01:16:34.434 --> 01:17:00.894
+deep rest. It is after all a transition or liminal state. Maybe this will become the stage before stage one of sleep. Who knows? Who knows? Redefine our staging criteria. That's right. Okay. So speaking of challenges, sleeping because of one's concern, AKA anxiety about the importance of sleep. What about the relationship between sleep and anxiety? Meaning many people in the world,
+
+01:17:01.026 --> 01:17:30.270
+experience low level anxiety or have a low threshold to what could be a full blown anxiety or panic attack, but more often than not is this feeling of being tired and wired or having a quick, you know, pre-pulse startle as we call it in our business, nerd speak for, you know, kind of a reactive to input anxiety. And I don't think there's any clean definition between anxiety, stress,
+
+01:17:30.370 --> 01:17:59.582
+and PTSD, these run along a continuum and they braid together. PTSD is an anxiety disorder. It's one of many. Right, these things braid together in a way that it would be a waste of our time to try and disentangle those. But many people have anxiety that is anywhere from minor to debilitating, but that is separate from PTSD, although people with PTSD can have anxiety. So what do we know about the relationship between sleep and anxiety? And perhaps we could frame this
+
+01:17:59.810 --> 01:18:28.990
+In the context of the QQRT, you know, I'll just toss out a question that perhaps highlights what I mean. Is it possible that somebody is getting eight hours of sleep a night, which for them meets their quantity requirement in the, the quality is relatively high, but it's not as high as it could be because the regularity and timing of their sleep isn't great. Is that person going to be more prone to anxiety than somebody who's really matched to their chronotype and is still getting enough sleep?
+
+01:18:29.698 --> 01:18:58.078
+No one's done the head-to-head comparison where you kind of do the Coke, Pepsi, Dr. Pepper, Sprite, QQRT challenge between all of those. What we do know is that if you look at each one independently, QQRT, quantity, quality, regularity, timing, if any one of those is off, it's very difficult not to see a coexisting anxiety disorder or increase in anxiety or a mood disorder.
+
+01:18:58.530 --> 01:19:26.430
+And I think to me, anxiety is part of that class of a broader class that I would call mood disorders. It's relevant that we make that distinction, at least in my eyes. And I know some people may disagree because mood and anxiety are different than emotions. And many of us clump them together. The way I think about the difference is the following. Timescale, emotions are short,
+
+01:19:26.530 --> 01:19:50.622
+punctate events that usually last anywhere from seconds to many minutes. Mood states, however, like anxiety or depression, those operate on a slightly different timescale from minutes to hours to months to years. And so it's very unlikely that we can experience an emotional reaction that
+
+01:19:51.362 --> 01:20:19.902
+from a sort of a chronometry point of view, lasts for two years. But you can certainly see someone who has a mood state abnormality of depression that lasts for several years or who has been chronically anxious for several years. And I'll come back to why I think that distinction is relevant for a second. To your point, though, about the relationship with sleep, here again, it's a very strong bidirectional relationship. And I would say that
+
+01:20:20.610 --> 01:20:50.046
+probably in the last eight or nine years, we've been doing a considerable amount of work in sleep and anxiety rather than just sleep and basic emotional reactivity. What we found is it's very strongly bi-directional, that if you have anxiety, it's very difficult to sleep. And if you are having difficulty sleeping, it's very likely that you will increase your anxiety. But before we really unpacked that, we started with a
+
+01:20:50.338 --> 01:21:15.230
+very basic study similar to those we've described, we took a group of people and we were very careful to make sure that they had completely normative levels of anxiety. They showed no signs of an anxiety related disorder. And by the way, anxiety disorders are, it seems one of, if not the most common of all psychiatric conditions, just to put it in context for people listening. And these individuals,
+
+01:21:15.330 --> 01:21:35.934
+No signs of anxiety disorders whatsoever. They were normative. And then we had them go through a full night of sleep or we then sleep deprived them. And the next day we were measuring their anxiety. And in those people who were sleep deprived, we were actually measuring the level of anxiety every hour.
+
+01:21:36.098 --> 01:22:04.990
+So we could almost get this time-lapse photography of what happened to their anxiety state as it unfolded across the sleep deprivation period. It wasn't a linear response. That the more and more hours that you were awake beyond 16, the more exponential that rise in anxiety became. So it wasn't simply a linear dose response curve. It was exponential, meaning that there was this hockey-shaped swing up.
+
+01:22:05.730 --> 01:22:32.734
+And in fact, by the next morning, compared to when you'd had a full night of sleep, those individuals were so anxious that almost 50% of the participants in that group who had no signs of anxiety before had a level of anxiety that was so strong that they would reach the diagnostic threshold for having an anxiety disorder. And that was simply by way of the absence of sleep.
+
+01:22:34.082 --> 01:22:54.334
+But again, that brought me back to this notion of this is a good experimental tool for us scientists to understand what is the benefit of sleep when it's present and the absence of sleep when it's not by taking sleep completely out of the equation by way of total deprivation. But of course, that's not real life. So we did a slightly different study.
+
+01:22:55.746 --> 01:23:24.894
+Here, what we did was we tracked individuals essentially in the wild, as it were, just going about their daily lives. And we had different sleep tracking monitor, monitoring equipment on them. So we were tracking their sleep from one night to the next, to the next, to the next. And from one day to the next, to the next, we were tracking their level of anxiety. And what we found here was that even small perturbations in their sleep from one night to the next, to the next,
+
+01:23:24.994 --> 01:23:52.414
+accurately predicted the increase or decrease in their anxiety from one day to the next to the next. What was the critical ingredient here? Well, in the first experiment, I'd essentially manipulated both quantity and quality, the two QQs of the QQRT. I'd removed the quantity of sleep. And also they had no quality of sleep. Why? Because they had no quantity of sleep. But when we looked at that
+
+01:23:52.738 --> 01:24:20.446
+day to day to day, night to night to night study, it wasn't quantity that was the best predictor. It wasn't shortening of quantity that determined next day increases in anxiety. It was quality. The worse the quality was night to night to night, the worse their anxiety became. So that started to lead us to think a lot more about what is it regarding the quality of sleep that seemed to...
+
+01:24:20.802 --> 01:24:48.894
+offer when it was present what I would describe as an anxiolytic benefit. In other words, it's lessening anxiety. A lack of sleep is an anxiogenic. It's going to produce anxiety. What in sleep is anxiolytic? We started off with a hypothesis that was profoundly incorrect. We thought, well, for emotions, which are these short bursts of affective state, it was REM sleep that seemed to be the
+
+01:24:49.058 --> 01:25:17.246
+Well, wouldn't that be the case for mood states? Well, here with anxiety, it wasn't. It was deep non-REM sleep and we couldn't get away from it. And so what we found was that when we looked at the sleep in the laboratory and asked what was predictive from the night before, so you measure your anxiety the night before and then we measure it the next morning and basically we calculate a change score. Has your anxiety the next morning increased, stayed the same or decreased?
+
+01:25:17.410 --> 01:25:34.718
+And then we correlate that with the different stages. And what we found was that the electrical quality of your deep non REM sleep was very much predictive of your dissipation of anxiety overnight.
+
+01:25:35.650 --> 01:26:05.246
+And this helped me realize, gosh, it's much more complex. These are beautiful surprises you get from research when you have this hypothesis and you look at, you see REM sleep, no signal of predictive relationship with anxiety. And I say, of course, because I'm idiotic, rerun the analysis. Just go back to raw data. And the REM sleep signal was so strong. Rerun the analysis and you get exactly the same result. It's deep non-REM sleep. Great. Okay.
+
+01:26:06.018 --> 01:26:32.606
+then what is that deep non-REM sleep doing to help dissipate the anxiety? But here again was a commonality with emotion. What we found is that the greater the amount of deep non-REM sleep, the greater the re-engagement of your frontal lobe was the next day. And that was predicting the dissipation of your anxiety the next morning. So we really started to understand this sort of
+
+01:26:32.898 --> 01:27:01.534
+bi-directional relationship, but it was a very complex one. That yes, anxiety can disrupt your sleep. And yes, a disrupted sleep can predict your next day anxiety. But it wasn't the same stage of sleep that we thought before. It was the opposite. It was deep non-REM sleep. What we've come to realize is that deep non-REM sleep in part seems to be almost shifting you from that sympathetic state
+
+01:27:01.666 --> 01:27:28.510
+over to the parasympathetic state. It seems to engage that nice rest and digest. It seems to reduce your heart rate. It seems to drop levels of cortisol. And we think that perhaps is a resetting brain body, literally an embodied mechanism by way of deep non-REM sleep, helping you just relieve that anxiety pressure. So,
+
+01:27:28.930 --> 01:27:57.502
+It does come back to your question, which is yes, quantity, if I manipulated quality, if I manipulated regularity or timing, manipulate any one of those, I can change your anxiety. But the story coming through here, if anything, was that it wasn't quantity, it was quality. I told you that from one night to the next to the next, the quality of your sleep that we were measuring was predictive of your anxiety. And then when we bring you into the laboratory and we look at the electrical activity of
+
+01:27:57.634 --> 01:28:25.214
+your brain. I also mentioned in that episode on the first episode, another way we measure quality is not just subjectively what's going on or objectively, what is the efficiency of your sleep? Is it filled with lots of awakenings, which was the measure that we used in the day-to-day study and night-to-night study. But we looked at the electrical quality of your sleep. Once again, it was quality that was predicting it. It's something about getting good continuous sleep that is
+
+01:28:25.314 --> 01:28:51.198
+replete with this deep non-REM electrical brain activity that provides an anxiolytic benefit to your brain the next day. And I think it's strategic because so many of us deal with anxiety and some of us would prefer not to necessarily be on medication or even look to that. Well, here again is a strategic tool. Think about your sleep. It really does seem to be a buffer for anxiety.
+
+01:28:52.034 --> 01:29:16.158
+along those lines, maybe you can just recap a few of the things covered in previous episodes that are known to improve the quality and quantity of deep non-REM sleep. I can think of a couple, but you're the expert here. Let's not rush to judgment on that one. Well, I think it's an established fact, which is why you're here. So let's...
+
+01:29:17.122 --> 01:29:43.454
+perhaps list a few of those off in the domains of exercise temperature, et cetera. What would you place in that? Is there a top three, like three greatest hits for improving deep non-REM sleep because of its important relationship to anxiety management or reducing anxiety? I think there are. The first thing I would tell you is that regularity is going to be key here.
+
+01:29:43.586 --> 01:30:01.854
+when you are giving your brain the signals of regularity, it understands exactly how to instigate that deep sleep. And that's one of the two qualitative measures of sleep that I spoke about. So QQ, the quality, the second Q I spoke about,
+
+01:30:02.050 --> 01:30:28.350
+the continuity of your sleep and the electrical quality of your sleep. Regularity is probably best for the continuity of your sleep. If you're very irregular with the timing of your sleep, your brain almost doesn't know, are we on and we off, we are on and we off. And your sleep can become quite fragmented because it's confused based on regularity. When you give it regularity, sleep starts to become more stable
+
+01:30:28.482 --> 01:30:55.454
+more stable means that it's less likely to be littered with awakenings, meaning that it's better quality of sleep. In terms of electrical quality of sleep, we did mention this in a prior episode when we spoke about sort of food and exercise. Exercise seems to be one of those things that's very good at improving the quality of your deep sleep. And here I'm talking about the electrical quality of your deep sleep.
+
+01:30:55.938 --> 01:31:25.470
+try to make sure that you're physically active to a degree. And I think this is a protocol and I think it's a meaningful protocol, but to go so to the extreme where I would say you need to do at least 32 and a half minutes on a spin bike at this wattage, or we can't prescribe quite at that point, scientific prescription, not medical. And so I would say exercise is one. Then we spoke about another, which was temperature. And we said that getting your bedroom cool
+
+01:31:25.666 --> 01:31:55.230
+seems to be a way to promote the increase in deep sleep. So these are two do's, which is get regular, get cool. The don'ts, we've already spoken a little bit about too. One of the things that I probably didn't mention enough with alcohol, not only does it seem to compromise your rapid eye movement sleep, but it will fragment your sleep. It will make your sleep more unstable. And an indirect consequence of that is
+
+01:31:55.426 --> 01:32:16.894
+Alcohol is going to be in highest concentrations in your system after drinking in the evening with sleep in the first four to five hours. Now, that depends on how quickly you metabolize it and how much you've had, but let's assume some degree of standardization. In other words, I said that alcohol will not just block your REM sleep, it will fragment your sleep. It makes your sleep more vulnerable to you waking up.
+
+01:32:17.186 --> 01:32:46.846
+Well, you're especially vulnerable in the first four or so hours because that's when alcohol concentration is highest in your system. And therefore the first four hours can also fall prey to the greatest culling of your sleep quality. And if you're removing or restricting some of that quality in the first four hours, what type of sleep are you principally restricting? You're restricting deep sleep because we've said deep sleep comes in the first half, dream sleep, REM sleep in the second half. So deep sleep,
+
+01:32:47.106 --> 01:33:12.958
+would be try to stay away from excessive alcohol in the evening. We also know that alcohol is associated with longer term chronic anxiety. And the tragedy is that it's often used as a way to blunt the anxiety because alcohol is a sedative and it can help just alleviate, take the edge off. But it's a short term anxiety.
+
+01:33:13.538 --> 01:33:42.174
+unquote, win for a long-term loss because overall it will increase anxiety levels. So I would say those are some do's and perhaps a don't if you want to try to optimize your sleep quality, including the integrity of your sleep and also the electrical quality of your sleep. Terrific. I think because so many people struggle with anxiety ranging from mild to severe anxiety, the tips you just provided are going to be immensely beneficial. And in addition to that, the
+
+01:33:42.626 --> 01:34:08.606
+four episodes that we've recorded for this series, each and all include tools, that is protocols for improving the QRT aspects of sleep. So all the more reason for people to dig into those and to glean the gems that you've laid out for people because they really are very actionable. And most all, perhaps even all of the tools that we've discussed,
+
+01:34:08.770 --> 01:34:29.150
+Those episodes are zero cost. They require a little bit of time investment, some thought and consideration, but they're not really that difficult to implement. They just require a little bit of being one's own scientist of self. And be in your own corner when it comes to sleep. And I love the low cost method that we mentioned was testing.
+
+01:34:29.538 --> 01:34:59.198
+not just temperature in terms of keeping your room cool, but warm bath or shower before bed. I mentioned improved sleep, but one of the things that improves most is deep non-REM sleep. So there's another technique, get your room cool to go into, but warm up to cool down to fall asleep, which then keeps you cool so that you stay asleep and you'll get more deep sleep. Fantastic. Although it's a terribly...
+
+01:35:00.162 --> 01:35:23.102
+happy topic. Suicide is an important topic for us to cover here. I can think of a few things more tragic than suicide. And yet sadly, it accompanies certain psychiatric conditions. I think people with manic bipolar have a 20 to 30 times greater
+
+01:35:23.458 --> 01:35:51.934
+of suicide than others, but suicide accompanies major depression, anxiety, PTSD. Again, it's a tough topic to get into, but an important one to get into. What is the relationship between suicidality and sleep? And then I suppose we could look at this from the perspective of to what degree does sleep deprivation correlate with suicide or attempted suicides?
+
+01:35:52.066 --> 01:36:20.894
+and what sort of inoculatory effects does sleep provide towards suicide? Unfortunately, we don't know much about the second part of the question, which is how can sleep be used as a risk mitigating tool when you know that there is the risk of suicide in place? There's been a number of people who are doing this work, including my colleague, Alison Harvey, again, at the University of California, Berkeley, and Sherry Johnson, who's also there too,
+
+01:36:21.378 --> 01:36:48.446
+I would say though that the first question is quite answerable, which is what do we know firstly about how a lack of sleep can impact suicide? Some of the earliest data that we found were associational relationships. What we found is that short sleep or poor quality of sleep predicted three things. It predicted suicidal ideation, meaning that you had thoughts of suicide.
+
+01:36:48.898 --> 01:37:18.302
+bad sleep seemed to predict suicide attempts. And then tragically more recent data, a lack of sleep predicts suicide completion. And what makes me think more causally about it, and we've been trying to get some grants and we failed to do so, so far to do more of this work because I'm just so compelled by it. And you're right. It's one of the most tragic situations. Those sleep relationships aren't simply
+
+01:37:18.786 --> 01:37:47.614
+happening at the same moment in time. What I mean is that the sleep disturbance that we see precedes the onset of having suicidal thoughts. It precedes the onset of suicide attempt and it precedes the suicide completion. So what this has been teaching me as I've been looking at the data and we've looked at a little bit of our own data, sleep disruption when it comes to suicide is almost the canary in the coal mine.
+
+01:37:48.610 --> 01:38:11.294
+almost like a tragic crystal ball that when you see that sleep starting to dismantle, it is a foreshadowing sign of a very dark series of events that will unfold. In other words, could we now start to think, and this is one of the things that we want to do, is sleep a biomarker
+
+01:38:11.778 --> 01:38:41.342
+a sleep disruption, I should say, a biomarker for upcoming suicide risk before it begins. The idea of finding a biomarker or collection of biomarkers for suicide, I think is one of the more important missions of neuroscience, AI, and mental health. Generally, there's a brilliant young researcher up at the University of Washington named Sam Golden. He's spent a lot of his career studying animal models of aggression
+
+01:38:41.442 --> 01:39:07.070
+and rage. And of course, some forms of suicide are thought to be forms of self-directed aggression and rage. It makes sense. Some forms of suicide perhaps are different. I don't think we quite understand what suicide represents in the brain just yet. And I think having spoken to Paul Conti and others about suicide, it's clear that there are
+
+01:39:07.618 --> 01:39:33.598
+unfortunately many paths to suicide and there isn't one brain state. Nonetheless, Sam's laboratory has been developing tools that help people with suicidal tendencies or people who have had suicidal ideation or plans in the past with these AI based tools where it detects changes in their voice, in their sleep patterns,
+
+01:39:33.730 --> 01:39:59.902
+and in a few other metrics that I don't recall that together become very good predictors of later suicidal ideation. So the idea here is that people who are prone to suicide often don't realize that they're drifting that way until it can sadly be too late. So the point here is A, biomarkers are key. B, these biomarkers are being developed.
+
+01:40:00.130 --> 01:40:29.406
+see ai is critical but that according to sam changes in sleep patterns is absolutely central to these algorithms for allowing people to detect their own um potential for suicide i think it's it's critical and we thought about this when we started to see these sleep signals that were preemptive that were almost pre-cognitive in the sense of of prediction occurred to me that we're at the stage of technological evolution
+
+01:40:30.466 --> 01:40:58.910
+that if we get consent to many individuals who become suicidal, they are interested in some degree of support. And we often, but of course, some people will just recoil and go into themselves and that's when things can get very problematic as well. But it would require some degree of consenting that if you have a history of suicide ideation in the past,
+
+01:40:59.010 --> 01:41:22.238
+What if you were to be able to consent and say, I would like to risk mitigate and you have a wearable like a watch and that watch is connected to your phone and there is a signal that can come from your watch that dials a series of phone numbers in order of preference. And when your watch starts to detect that your sleep has this
+
+01:41:23.170 --> 01:41:52.542
+one of the things we really wanted to understand is what is the specific signature of sleep abnormalities? It's not just that your sleep gets short, but is it that your sleep gets long and then short and then long and then short, but it constantly has poor quality of sleep and the regularity is all over the place, but the chronotype timing is still in place. What sort of specific pattern of those things is the hallmark that is most predictive of suicide?
+
+01:41:52.706 --> 01:42:19.550
+let's say that I can come up with that algorithm finally, and then we can implement it into a watch or a tracking device of some sort. And when it starts to see that pattern, it's constantly pattern matching, and it starts to see that across whatever number of days we say, if you see this across six nights or across 13 nights, this is serious. It then triggers that phone
+
+01:42:20.098 --> 01:42:50.014
+to send a message to those individuals who are the designated support carers. And those people then reach out and start to say, how are you doing? Would you like to have a phone call? Can I come over? Can I make you some food? And I'd love to have a chat with you. Can you find a way to bootstrap a condition where you constantly then otherwise become asocial or antisocial and lose all support network? So that would be the
+
+01:42:50.114 --> 01:43:19.390
+sort of the grandiose idea. The other thing that's very interesting is that we could measure the activity and their wakefulness at night. And the reason I bring this up is some great work by Michael Perlis and Michael Grandner, who've looked at suicide, both attempts and suicide completion across the 24 hour period. It's not constant. It's not that you see suicide ideation and suicide attempts
+
+01:43:19.522 --> 01:43:48.254
+and completion in a distributed manner equally across the 24 hour period. When do they principally occur? They occur in the late middle of the night. And there's this almost a four to five hour period, somewhere on average, and again, it's just an average, somewhere between let's say 1 AM and 4 AM, which turns out to be right at the lowest dip of your circadian rhythm. And it could be circadian rhythm. But I also think that
+
+01:43:48.418 --> 01:44:17.566
+There is something about, of course, the night timeness when no one else is around and it is just you, bad point number one. Second, as we've spoken about before on this episode, negative thoughts are 10 times worse in the darkness of night than they are in the light of day. And third, at that point, if you're awake, you're not asleep.
+
+01:44:17.922 --> 01:44:45.534
+we know sleep is providing this ballast to your mental health. So on all three of those counts, you see this very strong spike in suicide ideation, suicide attempt, and also suicide completion in this bewitching hour in the middle of the night. There's a final piece in the suicide story though that is only just emerging. If you are not getting sufficient sleep, you are somewhere between
+
+01:44:45.698 --> 01:45:05.278
+two to three times more likely to go into that suicidal state, which is a very significant number. However, when people started to measure another factor of sleep and particularly dream sleep, which was the dream content itself,
+
+01:45:05.794 --> 01:45:33.630
+it became even more predictive and we've not really seen this very much in psychiatric conditions. But what they found was that instead of using your sleep disruption or your lack of sleep as a predictor of your suicide risk, we use nightmares as a predictor of your suicide risk. That predictive value, that risk went from about two to three times more likely to somewhere between five to eight times more likely.
+
+01:45:33.922 --> 01:46:01.342
+There is something special going on with bad dreams and specifically nightmares that is even more predictive than this physiological thing that we call sleep itself. And we'll probably come on to maybe some of the reasons why dreaming and particularly nightmares in the next episode on dreaming could explain exactly why that is. But it's a new finding. I don't think we can say much more about it now,
+
+01:46:01.442 --> 01:46:31.166
+But it is one of the most, I think, novel findings in the psychiatric sleep story that now dreams have come above and beyond simply sleep itself as a predictor of mental illness and specifically a form that will take your life tragically very quickly. When I think about depression, I immediately associate that with excessive amounts of sleep. After all, it's called depression.
+
+01:46:31.746 --> 01:46:57.502
+what is the real link between major depression, which is, you know, the classical, you know, signs of, you know, malaise, one of the hallmark features also being a lack of optimism about the future and or ability to sense into the future. That's what, it's not the only criteria. When Dr. Carl Deisseroth, the
+
+01:46:57.602 --> 01:47:26.238
+neuroscientist that he is was on this podcast. And of course, he's also a practicing clinical psychiatrist. When we were talking about depression, he mentioned that another hallmark of major depression is people waking up at two or 3 a.m. and not being able to fall back asleep. This just seems like a recipe for disaster all around, that the very condition that you're trying to perhaps ameliorate with additional sleep is preventing you from sleeping.
+
+01:47:26.338 --> 01:47:52.798
+I couldn't imagine a whole lot of things more diabolical in terms of the sleep science. So what's the relationship between sleep and depression and how should one untangle that like seemingly Gordian knot? It is like the other conditions, bidirectional, that depression can disrupt sleep very much and disrupted sleep can...
+
+01:47:52.962 --> 01:48:09.086
+depression. Depression is interesting by the way, some people have conceptualized it as being different to anxiety based in some ways on memory, which is that when you think about anxiety, people consider anxiety a disorder of the future.
+
+01:48:09.186 --> 01:48:33.854
+that you are constantly worried about what's coming up in the future. I didn't do this today, so I need to do that tomorrow. And then I've got that other thing next week, or I'm fearful of going out to see them tomorrow. I just, I'm fearful of taking that flight tomorrow. It seems to be so much about prospective future. Whereas other people have suggested depression is the opposite.
+
+01:48:34.018 --> 01:49:01.054
+It's about rumination of the past. I went through this event. I had this bereavement. I had this painful divorce. I just can't get over my past. Now, I don't necessarily know if that's entirely true, but it is interesting in the sense that both of those abnormal prospection, worry of the future, and abnormal retrospection,
+
+01:49:02.082 --> 01:49:31.806
+ruminating on the past seem to disrupt sleep. Before you continue, I just wanted to drill into that idea just a little bit because I think it's a really interesting one worth exploring. Again, I'm no psychiatrist, but I have heard and I've experienced that I've had a depression. I think it's my understanding is it's normal for people to experience a major depressive episode at some point in their lives. It could be situationally triggered or not, but that it
+
+01:49:32.194 --> 01:49:58.558
+For others, unfortunately, they have repeating major depressive episodes. And hopefully some people go through life never having had a depressive episode. But as I recall, one of the more salient thought patterns was that I used to have something that somehow was lost and I couldn't quite figure out what it was. It was this recurring feeling of things were on track and then they got off track, but not being able to
+
+01:49:58.722 --> 01:50:15.550
+to tack the progression from on track to off track to one particular event. It was this sense that I had something that then was lost. Now, fortunately for me, it eventually lifted and it didn't get dangerously bad, but I've had some close friends who've gone through
+
+01:50:16.418 --> 01:50:45.214
+individual or several major depressions. And I hear this, like this idea that they had it or they think something was there that then they lost. So I think I agree with your assessment. It fits very well if you think about the word that you just used, had is about, it's the past. It's past tense. Right, and then if we apply the criteria that is indeed part of the criteria for determining if somebody has major depression, which is a lack of optimistic outlook on the future,
+
+01:50:45.346 --> 01:51:11.518
+One can see how one could be very much stuck in the present and focused on the past and just stuck in that spin cycle. Anyway, we were not here to decide what depression is or isn't in every case, but I- I'm not a psychiatrist either. But I think this distinction between anxiety being about the future in a way that disrupts one's present and depression being about often the past in a way that disrupts one's sense of
+
+01:51:11.714 --> 01:51:28.318
+present and the future makes a lot of sense. It's just a nice, not nice, it's unfortunate, but it's a useful contextualization. It's a useful contextualization. Yeah. Thank you. And I, to your question though about sleep, it's
+
+01:51:29.538 --> 01:51:56.798
+a little bit interesting with depression. Firstly, what we know is that depression will disrupt your sleep and make your sleep shorter. And it comes back to your comment from Carl Diceroff. We often see that patients will have problems staying asleep. They wake up in the middle of the night, they can't get back to sleep. It's problematic. And therefore their sleep duration and their sleep quality decrease.
+
+01:51:56.962 --> 01:52:24.094
+However, on the other hand, there is an interesting question, by the way, of can you get too much sleep, which I should probably come back as there's a whole episode to do on that probably. But one of the places where we see quote unquote too much sleep is in the depression literature. And it's a condition that we call hypersomnia. In other words, increased or excessive degrees of sleep, hypersomnia. But hypersomnia,
+
+01:52:24.770 --> 01:52:53.502
+A great PhD student at Berkeley looked at the data, Kate Kaplan is a fantastic cognitive behavioral therapist now and a clinical psychologist, looked a little bit at the data and others have looked at this too. When you examine what people were asking those patients, where there is this conclusion that patients with depression can sleep too long, really what they were asking in those studies was what time do you go to bed
+
+01:52:53.858 --> 01:53:17.278
+what time do you wake up? And there, what you clearly find is that people with depression will be in bed for significantly longer periods of time. And the inference there, and you could argue almost the conflation, is that if you're in bed for longer, then you're sleeping for longer, and therefore depression is a condition of hypersomnia.
+
+01:53:17.410 --> 01:53:45.982
+But when people looked at this a little bit more in a nuanced way and asked a different question, what time did you go to sleep and what time did you wake up? That hypersomnia phenomenon is nowhere near as strong as you would have been led to believe otherwise from the, what time did you go to bed and what time did you wake up? And I think part of the reason comes back to depression as a condition. When you think about depression, one of the aspects, one of the features is that
+
+01:53:46.274 --> 01:54:14.078
+You're depressed to the point where you just don't want to interact with the world. And what better place to spend if that's your mentality than this thing called bed. I just don't want to get out of bed. I'm just going to stay here and lie in bed. I'm awake. I'm not asleep. And so we don't quite know yet if depression is a condition that is associated with long sleep. We certainly know it's associated with short sleep and disrupted sleep or that depression
+
+01:54:14.626 --> 01:54:39.902
+masquerading as this thing called hypersomnia, but when you really look at the data, it's not quite so clear. That was the first peculiarity in depression that there could be this paradox of yes, long sleep, but also not enough sleep, too short sleep. One of the earliest findings in depression and sleep, and has been quite well replicated, is a change in REM sleep.
+
+01:54:40.674 --> 01:55:06.366
+But now it wasn't necessarily that individuals who had depression slept or had excessive amounts of REM sleep. They had a little bit more. What was interesting is that when that REM sleep emerged during the night was much earlier. And in the first episode, I was telling you that when your head hits the pillow, you go down to the light stages of non-REM, then into the deeper stages.
+
+01:55:06.466 --> 01:55:27.326
+and then maybe after about 50, 60, 70, 80 minutes, you'll pop up and you'll have your short REM sleep period. But that first REM sleep period in people with depression seemed to have been called up by the brain abnormally or not much earlier. So it's what we call REM sleep latency.
+
+01:55:27.522 --> 01:55:52.670
+the moment that you fell asleep, what is the time? What is the latency of the first arrival of REM sleep? And that REM sleep latency was significantly shorter in those people with depression. REM sleep was arriving earlier. Now it's hard because you can argue, and these are the most dangerous hypotheses. You can argue both sides of it. You can say, well, perhaps that's because
+
+01:55:52.770 --> 01:56:21.918
+Matt, you also spoke to me that REM sleep may be important for some aspects of the emotional brain. And when you are depressed, the brain knows that REM sleep is required and it calls it up on the menu of the series of dishes that you're going to be served earlier on in the night because it's needed more significantly. The other, and that's the adaptive theory, the other is the maladaptive theory, which is that arriving at
+
+01:56:22.626 --> 01:56:38.046
+with your REM sleep too early does not do your brain good things. And therefore it's some abnormality of emotional processing. The data that's interesting there is that if you look at some antidepressants
+
+01:56:38.146 --> 01:57:07.902
+many of them will either delay the onset of REM sleep or they will reduce it significantly. Now, there's a huge debate about the efficacy and the utility of antidepressants. And I don't have a horse in that race and I don't know enough about that literature to comment. I would simply say though that it's at least intriguing to me that some medications that are commonly prescribed as antidepressants will alter specifically REM sleep and push it later on.
+
+01:57:08.162 --> 01:57:36.350
+or try to reduce it down. And that would fit with the maladaptive hypothesis that this arrival of REM sleep so early in depression and perhaps having a little too much REM sleep isn't optimal. And when you push back against that with pharmacology, i.e. antidepressants, you seem to get some degree of resolution or reduction in the depression symptomatology. Again, I don't think we clearly understand that.
+
+01:57:37.474 --> 01:58:06.910
+And another strange thing that has been often cited to me many times about sleep and depression is a literature that suggests that if you deprive people of sleep, which time and again in this episode we've said leads to bad outcomes for mental health, it does exactly the opposite in depression. That if you sleep deprive a depressed patient, you get a resolution of the depression
+
+01:58:07.426 --> 01:58:35.966
+And that is the claim that's often made to me. Now, it is a very clear set of data in the literature, but there are two potential concerns with it. The first concern is that not all patients respond to sleep deprivation. In fact, if you look at the data, it's somewhere between 30 to 55% of patients will be responders to sleep deprivation. The other proportion of those patients don't respond or if anything, get worse.
+
+01:58:36.354 --> 01:59:06.142
+you sleep deprive them? And then the question is, well, how would you know? And right now, and there have been some brain imaging studies, some PET studies done way back at UC Irvine and other locations where they were trying to say, is there something about the metabolic activity of your brain that can predict if you're a responder or not to sleep deprivation? Because at least then we would know who should we push through this quote unquote treatment and who should we not because it's going to be bad for them. That's the first issue.
+
+01:59:06.466 --> 01:59:35.006
+we don't have a clear understanding. The second issue is that as soon as those patients with depression sleep after the deprivation, the antidepressant benefit goes away and they go right back to being depressed again. So yes, it's a mechanistically interesting process. What is it about sleep deprivation that could alleviate depression? And I'll explain why I think it can. But it's not a sustainable one. It's not a clinically viable one.
+
+01:59:36.770 --> 02:00:05.630
+Why would it have that effect if it does? Well, you and I discussed earlier in this episode that when you are sleep deprived, not only does your emotional brain become much more responsive to negative things, it also becomes much more responsive to rewarding positive things. And one of the interesting things that I think people mistake about depression, they just think that when I'm depressed, I have sad mood, I have negative mood. That's not entirely true.
+
+02:00:05.730 --> 02:00:31.870
+One of the principal features of depression is something that we call anhedonia, which is an absence of having the ability to have hedonic responses. In other words, you can't get pleasure from normally pleasurable things. It's not an issue about sliding down to the negative. It's the absence of being able to experience the positive that puts you on a track towards depression.
+
+02:00:32.226 --> 02:00:58.462
+And what you and I discussed earlier in this episode is some of the work that we've been doing, where when you sleep deprive individuals, but you show them very rewarding based stimuli, they become much more reward sensitive. And perhaps this is why patients will respond to sleep deprivation with depression, because they're too far away from that positive end of the spectrum. They're not reward sensitive enough. They don't get a positive good feeling.
+
+02:00:58.978 --> 02:01:27.198
+Now, if you're someone who is healthy and you're sleep deprived, you go too far in the reward direction and you become vulnerable to reward and sensation seeking. But if you're depressed and you're shifted to sort of away from that and sleep deprivation brings you back closer to a normative reward-based reactivity, maybe that's the reason why you get this antidepressant benefit and why when you start sleeping again, you take away that
+
+02:01:27.810 --> 02:01:57.150
+enhanced reward sensitivity, and you lose the antidepressant benefit. So I think we still don't know enough about depression and sleep yet. If you were to ask me of the four, quantity, quality, regularity, and timing, which would be ideal, I would say all four are definitely players, but timing may have some of the best evidence because it's not just about sleep,
+
+02:01:57.346 --> 02:02:27.102
+it comes to depression, it's also about your circadian rhythm. That if you are not aligned with your natural chronotype, your natural 24-hour rhythm, circadian misalignment when you fall out of synchrony with your natural chronotype is a strong predictor of depression. So if there is an actionable item, first it would be to say from a big picture perspective, understand that sleep is one of the
+
+02:02:29.090 --> 02:02:57.758
+least painful available options for you as a no cost to try to stabilize your mental health. Now, I'm not suggesting that all psychiatric conditions are sleep disorders. That's not true. And I'm not suggesting that you should stop simply at the place of getting your sleep straight to help with your mental conditions. Not at all. I am saying, however, that if you do get your sleep straight,
+
+02:02:57.954 --> 02:03:25.790
+It's only going to help and may help quite a significant amount based on the data. But when it comes to depression, I would say of those four QQRT, there's a very strong emerging data that circadian misalignment, not matching your chronotype to the time when you are sleeping and the time you are awake, is one of the strongest factors. So if you want to say, I can't do all of them, Matt, I can't do all of this QQRT nonsense, just take
+
+02:03:25.954 --> 02:03:55.422
+if you tell me one of them to start with, I would say, don't worry, we'll get to the three others. Let's just start with getting your timing right. Let's understand what type you are. Go online and you can take one of these tests, the MEQ, the morningness, eveningness questionnaire. You can just Google it and it's free. You can do it. We'll write a link to it in the show note caption. That's great. Understand what type you are and then try to understand based on what time I'm currently awake and asleep, is it matched? Is it mismatched? And if it's mismatched,
+
+02:03:55.618 --> 02:04:24.734
+to see what you can do with your lifestyle, accommodating, of course, to match that. Things will more than likely start there getting better. Along those lines, and if I may, I'd like to just mention a recent study that I think dovetails with what you just said beautifully and seems highly actionable to me. This was a study published in Nature Mental Health, which is a relatively new journal, but it
+
+02:04:25.186 --> 02:04:49.790
+involved exploring the light exposure and dark exposure patterns of, I believe it was more than 80,000 individuals. I'll have to go back and check that. But what was interesting is that when they looked at light exposure, in particular sunlight exposure, and they looked at darkness exposure across the 24-hour schedule, what they concluded was that
+
+02:04:50.434 --> 02:05:19.998
+There was a near linear relationship between the amount of light that one gets in the morning and throughout the day and reduction in mental health challenges in terms of depression, PTSD, there were a few others. Some of the effects were less robust for certain psychiatric conditions than they were for say depression. What was equally interesting is that darkness, the absence of light, turned out to be as important a variable as light during the day.
+
+02:05:20.610 --> 02:05:50.142
+made simple, if people tended to be in dim or dark light at night, they experienced reductions in their suicidal, depressive, anxiety, and PTSD symptoms, independent of how much light they were getting during the day. So what this says is get as much light as one can possibly and safely get in their eyes, by the way, in the morning and throughout the day, and then do one's very best to be in very dim or dark environments at night.
+
+02:05:50.306 --> 02:06:09.118
+It even goes so far as to say that if you didn't get sunlight during the day, then you would be especially well off being in a very dark environment at night. And it's independent. So don't worry. Yes, it's always good to get that daylight. But what that paper also teaches us is that...
+
+02:06:09.378 --> 02:06:37.630
+Because those things can be independent, you can still get some benefit, even if though you've not made it good on your daylight during the day, getting that darkness at night is still going to be beneficial. And I should probably resolve what some people may think of as confusing. We spoke about, for example, suicide risk and it being highest in the depths of the darkness at night. I think what's clear from that paper comes on to one of the fundamental key
+
+02:06:37.826 --> 02:06:57.054
+conventional tips that we spoke about in how to optimize your sleep, not just an unconventional, but the conventional, which was, I told you, we are a dark deprived society and we need darkness at night to help keep our sleep regular. So the sort of the R in the QQRT.
+
+02:06:57.506 --> 02:07:26.462
+And I think there in that paper, the inference of course, is that if you're getting dark at night, it's going to give you a nice sleep onset signal so that you are asleep at night in the darkness and that sleep at night in the darkness provides this beneficial, you know, sort of not immunization, but at least palliative help to certain psychiatric conditions. We're not suggesting that darkness at night
+
+02:07:26.594 --> 02:07:53.470
+If you're awake at night, however, is beneficial. That seems to be not beneficial. But it was such a great paper and very elegant in how it dissected the independent nature of these things, which fits very well with, I think, your mission in part in life, both as a scientist and as an educator, which is how can I curate information, gather it together and give you some type of actionable,
+
+02:07:53.634 --> 02:08:23.454
+on the ground, feet in the trenches, advice as to what to do. It was a great paper. So thank you for bringing it up. Yeah, I only wish I'd done that study, but I'm so glad that others did. One thing that's been helpful to me to encourage more darkness and dim light at night for myself and my home environment is to think about artificial photons coming from artificial sources as sort of empty calories at night and how sunlight...
+
+02:08:23.554 --> 02:08:51.518
+one isn't getting a burn and people debate how best to do that. Physical barrier everyone agrees on. Certain sunscreens are safer than others. Some are very safe. Some are perhaps less safe. In any event, the point is that trying to make one's home environment dark at night is in my mind now akin to trying to avoid eating sugary, non-nutritious calories at night as well. It just lends itself to a
+
+02:08:51.618 --> 02:09:12.958
+Just overall feelings of well-being, improve sleep, and of course, improve daytime wakefulness. And then getting sunlight even through cloud cover in one's eyes early in the day and as much as is safely possible throughout the day. And if one can't get sunlight, getting light from bright artificial sources seems to be the best alternative.
+
+02:09:13.122 --> 02:09:29.726
+But I think there's this asymmetry of light-dark requirement in the same way that I think most everyone agrees that eating during one's active hours of the day is going to be the best way to go as opposed to eating during the less active hours of the late night and certainly prior to sleep.
+
+02:09:29.858 --> 02:09:49.374
+such a good point. And since it's only you and I here and no one else watching and witnessing this, I am thoroughly going to steal that phrase of junk light and help educate people because that's a perfect description. It's like empty photons. Yeah, you've all heard of junk food. Well, there's something called junk light. And if you get...
+
+02:09:49.730 --> 02:10:15.486
+know, your whole foods during the day, just like you get your whole kind of encompassed light during the day, that's great. But then if you start binging on junk light at night, it's profoundly deleterious to your sleep and everything that sleep depends on. It's lovely. So when people hear me in future public spheres talking about junk light, it's
+
+02:10:15.618 --> 02:10:29.822
+you know where it came from. I will give you full credit. It's a delightful statement. No, no need. Because I may have lifted it from somebody else inadvertently. We all stand on the shoulders of other giants. That's right. Or other Twitter accounts or something like that. Well, I place myself firmly
+
+02:10:30.082 --> 02:10:59.838
+underneath a pedestal. But yes, we all try to stand on the shoulders of giants. Well, wherever you place yourself, the information that emerges from you and that emerged today is absolutely spectacular. I can't think of topics more interesting and important than emotion regulation, anxiety, PTSD, suicide, sadly, depression. All of these things are tragic challenges, but they are a real part of life. Some argue
+
+02:11:00.098 --> 02:11:28.254
+and more so nowadays, perhaps even because of the advent of so much artificial light and smartphone use in the middle of the night, who knows? I think it's reasonable to assume it's at least one variable. Today, you've provided a ton of depth of understanding about why sleep and these mental health and emotional states are linked. Just a really clear logical framework for both the non-REM sleep and REM sleep.
+
+02:11:28.354 --> 02:11:53.150
+how it impacts mood and reactivity during the daytime, and also some really actionable tools to improve one's mental health and emotionality, excuse me. And in addition to that, we'll refer people back to episodes one, two, three, and four, all of which include tools to improve every aspect of sleep and to really nail down the QQRT, that quality of
+
+02:11:53.538 --> 02:12:23.518
+but put quality first or quantity? Quantity. Quantity, I'm just making sure. That QQRT to really nail down the quantity, quality, regularity, and timing of sleep. We can no longer consider sleep just six to eight hours or get your nine hours or get your seven hours. Clearly there are other variables involved and you've made those variables very clear to us and you've given us the roadmap to plug in the best variables for ourselves. So thank you, Matt, ever so much. Thank you for allowing me to both
+
+02:12:23.874 --> 02:12:49.854
+and narrate the important story of sleep and mental health. It's something I'm immensely passionate about, both from a personal perspective, but also from a professional research perspective. Thank you for this opportunity. Well, again, thank you, Matt. And I'm very much looking forward to the sixth installment in this series on sleep, which is about a topic that everybody is fascinated with, which is
+
+02:12:49.986 --> 02:13:15.742
+dreaming. I know you're going to tell us about dreams and what they mean, perhaps what they don't mean. We'll get into dream interpretation of all things, lucid dreaming, and much, much more. So I really look forward to that discussion in episode six. Thank you for joining me for today's episode with Dr. Matthew Walker. To learn more about Dr. Walker's research and to learn more about his book and his social media handles, please see the links in our show note captions.
+
+02:13:15.970 --> 02:13:45.246
+you're learning from and or enjoying this podcast, please subscribe to our YouTube channel. That's a terrific zero-cost way to support us. In addition, please subscribe to the podcast on both Spotify and Apple. And on both Spotify and Apple, you can leave us up to a five-star review. Please also check out the sponsors at the beginning and throughout today's episode. That's the best way to support this podcast. If you have any questions for me or comments about the podcast or topics or guests that you'd like me to feature on the Huberman Lab podcast, please put those in the comments section on YouTube.
+
+02:13:45.378 --> 02:14:06.302
+do read all the comments. On many episodes of the Huberman Lab podcast, we discuss supplements. While supplements aren't necessary for everybody, many people derive tremendous benefit from them for things like improving sleep, for hormone support, and for focus. To learn more about the supplements discussed on the Huberman Lab podcast, go to Live Momentus, spelled O-U-S. That's livemomentus.com slash Huberman.
+
+02:14:06.530 --> 02:14:28.222
+you're not already following me on social media, I'm Huberman Lab on all social media platforms. So that's Instagram, X, LinkedIn, Facebook, and Threads. And on all those platforms, I discuss science and science-related tools, some of which overlaps with the content of the Huberman Lab podcast, but much of which is distinct from the content covered on the Huberman Lab podcast. So again, it's Huberman Lab on all social media platforms.
+
+02:14:28.386 --> 02:14:58.352
+We haven't already subscribed to our Neural Network newsletter. Our Neural Network newsletter is a zero-cost newsletter that provides podcast summaries as well as protocols in the form of brief one- to three-page PDFs that cover everything from neuroplasticity and learning to sleep to deliberate cold exposure and deliberate heat exposure. We have a foundational fitness protocol and much more, all of which, again, is completely zero-cost. You simply go to HubermanLab.com, go to the menu tab, scroll down to newsletter, and by supplying your email, you can subscribe. I want to point out that we do not
+
+02:14:58.352 --> 02:15:09.374
+not share your email with anybody. Thank you once again for joining me for today's discussion all about sleep with Dr. Matthew Walker. And last but certainly not least, thank you for your interest in science.

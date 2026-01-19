@@ -1,0 +1,931 @@
+WEBVTT
+
+00:00.098 --> 00:21.470
+What goes on in our brains when we think might be that we're running simulations related to the thought using that sensory motor infrastructure of the brain. Could you elaborate? So the theory is that, like, maybe when you think about a cat, for example, or you think the concept of a cat, that the mental instantiation of that or the
+
+00:21.602 --> 00:50.910
+the brain mechanism instantiation of having that thought is to run a little simulation in visual cortex that kind of includes what a cat looks like. A simulation in auditory cortex that what does a cat sound like? And as I'm telling you this, I'm, you know, I've used the word cat. What color cat are you thinking? I'm thinking of a gray cat, but I keep smelling kitty litter. Okay. Because my sister had cats and it drove me, the smell of kitty litter is just so aversive to me. Right. And so...
+
+00:51.330 --> 01:20.190
+So you had no hesitation in telling me the color and adding an additional sensory quality. It provides an explanation for why you might, you know, be driving on the freeway and having to merge into difficult traffic and telling your passenger, okay, be quiet. I've got to pay attention now. Like why would speech impair you from visual motor if it wasn't all part of a kind of cognitive system?
+
+01:20.450 --> 01:50.014
+that's in operation and maybe you need to shift some resources away from processing the conversation and towards some, you know, actually dealing with the here and now sensory motor task. Welcome to the Huberman Lab podcast, where we discuss science and science-based tools for everyday life. I'm Andrew Huberman, and I'm a professor of neurobiology and ophthalmology at Stanford School of Medicine. My guest today is Dr. Jennifer Groh.
+
+01:50.178 --> 02:11.678
+Dr. Jennifer Groh is a professor of psychology and neuroscience at Duke University. Her laboratory studies how our brain represents the world around us. In particular, how our different senses are merged in the brain so that we can focus and learn more effectively, including how our eye movements fundamentally shape not just what we pay attention to, but how they dynamically control what our brain is capable of.
+
+02:11.810 --> 02:40.254
+What she shares is fundamental to understanding how your brain works and also how best to focus on and learn different types of information. Not just information that you might read on a page, although including that, but also what you hear, what you remember, and the very thoughts you have about your life experiences. We also discuss thinking itself. In fact, we discuss what thoughts really are. And there, Dr. Groh shares with us what is perhaps the clearest and most useful definition of what thoughts are and how you can control them.
+
+02:40.418 --> 03:02.750
+As someone who has been in the field of neuroscience for nearly three decades, I must say that her explanation of what thinking is at the neural level, at the psychological level, and at the experiential level is the most compelling and useful one I've ever come across. Today, Dr. Groh explains how to use your experiences, the information you encounter, and knowledge of how thoughts are built up in the brain to become a better thinker and indeed smarter.
+
+03:02.882 --> 03:21.726
+I'm certain that the information you'll learn from Dr. Groh today is not like any other discussion you've heard about the brain or psychology. I'm also certain that it will be extremely useful for anyone wishing to better understand how the brain works, how their thoughts and emotions arise, and anyone who wants to get better at learning, thinking more deeply, or simply experiencing life with more richness.
+
+03:21.890 --> 03:50.398
+Before we begin, I'd like to emphasize that this podcast is separate from my teaching and research roles at Stanford. It is, however, part of my desire and effort to bring zero cost to consumer information about science and science-related tools to the general public. In keeping with that theme, today's episode does include sponsors. And now for my discussion with Dr. Jennifer Groh. Dr. Jennifer Groh, welcome. Thank you. It's great to be here. We've never had a proper conversation on this podcast about sensory integration.
+
+03:51.330 --> 04:19.870
+talked about vision, talked a little bit about hearing, a little bit about touch, smell, taste, but we've never talked about how the senses come together. And that's critical to everyday life, critical to perception. Absolutely. I know you focused perhaps mainly on the auditory system, but you really are a auditory visual integration person. I know this because I've followed your work for a number of years. So where in the brain do our eyes and our
+
+04:20.098 --> 04:46.750
+our ears first come together to impact our perception of life? Like we, you know, the tea kettle is whistling or, you know, we hear a knock on the door. We know where the door is. We know where the tea kettle ought to be. But where do these things first collide? The story that is triggered by that question is a little bit long. So maybe I can start at the beginning of when I first got interested in this question. And so I was a college student.
+
+04:46.882 --> 05:05.534
+I was interested in neuroscience, but we didn't have a neuroscience major. So a couple of us talked a professor into offering a seminar in neuroethology and kind of like what he thought were sort of the coolest findings in neuroscience. And in that class,
+
+05:06.498 --> 05:31.230
+I learned about a study showing that, and I'm going to begin with the neuroscience nerdy lingo and then we'll unpack it, that there is a brain structure called the superior colliculus that's responsive to both visual and auditory stimuli and that the responses to auditory stimuli depended on where the eyes were looking.
+
+05:32.482 --> 05:50.718
+If you move the eyes, the neurons receptive field, the region in space where they were responsive to would shift as the eyes moved. And that blew my mind. I could not get that out of my head. And it kind of set me on the track that that I've been on ever since then.
+
+05:51.778 --> 06:20.638
+One of the things that was really interesting to me about it is that figuring out where a sound is with respect to where the eyes are looking is something that would be easy for us to do with a pencil and paper. You know, it's very simple math. If you know that the sound is located, say, you know, 10 degrees to the right and your eyes are looking 10 degrees to the left, then that tells you that the sound is 20 degrees to the right of where your eyes are. Really not that hard to do.
+
+06:20.770 --> 06:49.342
+But from what I knew at that point about how the brain represents this kind of spatial information, it seemed a big puzzle for how the brain might actually create these kind of moving representations of where the sound is located. Yeah, because what you're talking about are dynamic maps. I think most people probably appreciate that we have a map of our body's surface, the so-called homunculus. And so if one were to stimulate in a
+
+06:49.442 --> 07:07.870
+given a region of the brain, you'd have the illusion of being touched at that location on the body. People perhaps have seen the more sensitive an area of the body, like the fingertips or lips or face or feet, the larger the representation in the brain. But what you're talking about is,
+
+07:08.354 --> 07:27.070
+shifting maps depending on where the eyes move. And the eyes move quite a lot. They move quite a lot. Exactly. And mostly we're not aware of this, right? But if you think about it, every time your eyes move, the visual scene is shifting massively on the retina. But we don't even notice this.
+
+07:27.298 --> 07:55.038
+And this is an indication that the brain is doing a ton of computation under the hood to give us that perceptual experience. Because if we were just representing reality, the reality would be these massively shifting, smeared visual scenes. One thing that's so intriguing to me about the auditory system is, and the visual system, is the extent to which they can contract and dilate so fast. So, for instance, if I'm like...
+
+07:55.298 --> 08:24.926
+walking to get on public transportation of some sort, like a light rail or a subway. I'm walking, you know, there's sound going by me, may or may not be relevant, but at some point I sit down, chances are I open up a book or a computer, or these days people go into their phone. And we say into the phone because there's a lot of sensory information there, but our visual world and our auditory world just goes into, you know, a small box.
+
+08:25.474 --> 08:52.478
+And we expect whatever we're looking at to relate to the sounds that we're hearing in that small box. Right. But if somebody says, excuse me, do you have a ticket? You know to look up. Right. We take this for granted. Like most people might think, of course you look up. Like the sound is coming from over there. It's now a person. But we all of a sudden we can remap our visual auditory world and all the context in like milliseconds. Right. Right.
+
+08:52.578 --> 09:19.870
+Is that all happening? We've been talking about superior colliculus in this structure, the superior colliculus below our neocortex, meaning is it below our kind of conscious awareness? You know, gosh, I wish we knew where conscious awareness was. I think that's an open question. And, you know, the superior colliculus is important in this story because that's where the research began. It's not that that's where the...
+
+09:19.970 --> 09:42.430
+binding a visual and auditory space, you know, is necessarily fully contained there and only there. I think it's a much bigger problem. And I think what you're describing is kind of, you know, another version of this kind of capturing of or integrating or connecting things
+
+09:42.530 --> 10:10.142
+the information from one sensory system to another, that kind of shifting your resources around is something that happens in a few different contexts, like what you're describing. And I think one of the things that's really interesting about the phone or really any screen where you're watching a video is that the sound was never coming directly from the screen where you're looking at the visual image. It's coming from somewhere else. Maybe you've got earbuds in and it's coming
+
+10:10.370 --> 10:39.262
+from the earbuds, maybe the earbud signal is simulating what the location should be if it was really coming from the screen, but it's a simulation. It's not actually reality. That's so interesting. So, yeah, let's unpack this a bit. So we merge what we see with what we hear if it makes sense to merge them. Like lips are moving. Lips are moving. And that's in our hand about a foot in front of us, but the sounds are coming in
+
+10:39.618 --> 11:05.694
+elsewhere. Right. This is very different than say like if somebody's mouth were moving and the sounds coming out of it were offset by even the tiniest bit of time, it looks weird. It looks totally weird. It looks totally weird. Yeah. Like this video. It's uncomfortable. Yeah, somebody grabbed this, like ripped this video from the internet and there's a time delay. Right. But we easily...
+
+11:05.794 --> 11:32.990
+merge what we see with sounds. That's right. Maybe talk about this because now I'm realizing like if I sit and watch a movie, movie theater or on a big screen or my computer, the sound is not coming from the screen. It's coming from a speaker, which is like projecting vertically. Yes. How does that work? Well, not only that, but like the sound is jumping around in your perception as different people on the screen from different locations on the screen are speaking.
+
+11:33.442 --> 12:03.006
+Right, and they're both coming in through your ears or through the speaker. Whatever means the sound is being delivered to you is not changing as the different people are speaking. Right, so let's say a dialogue on a screen between two characters and then maybe there's an explosion in the background or another character walks in the room. The source of the sound for us, whether it's computers, speakers in the room, or movie theater, or earbuds, is always constant, but we can quickly...
+
+12:03.202 --> 12:32.830
+move the sound with our eyes or our eyes moving the sound with our ears? Yeah. Let me amend a little bit here because, you know, it depends a lot on like how the sound is mixed. They can put in some spatial cues, but if they haven't done that, then what we just said applies. And I think one of some of my favorite videos for, you know, for really appreciating this is our videos of actual ventriloquists working with their puppets. Because there they are, you know, the
+
+12:32.930 --> 13:00.542
+The puppeteer is speaking and they're making it seem like the puppet is speaking. And they're making our perceptions switch back and forth from their own face to the puppet face, back and forth, depending on what they're actually saying. So this is a ventriloquist that says like, hey, Cornelius, how are you? And then Cornelius says, but the same person says, I'm doing great. And they probably move their lips a little less when they do that.
+
+13:00.674 --> 13:22.334
+Yeah, they try to speak like this without moving their lips too much. And they sometimes will do a trick of like there are certain sounds that you just cannot make without closing your lips in front. And that's really hard to fool people about. So, for example, if it's a word that begins with a B or has a B in it, they might subtly just cover their mouth a little bit.
+
+13:22.594 --> 13:52.062
+while they're making that B sound so that it's a kind of misdirection like a magician would do to sort of keep you from attending too much to the ventriloquist and throw your attention over to the puppet. So our perception can switch back and forth between where our brains are telling us this is the most likely candidate for the source of this sound. So I'm going to override what my ears are telling me to perceive the sound is coming from here versus here.
+
+13:52.482 --> 14:19.838
+Is this something we learn during development? Partly, yes. Like do kids come into the world understanding how to merge sight and sound or is that a learned phenomenon? It has to be learned and it has to be continuously updated during the course of development until you reach your adult body size. So let me back up a little bit and talk about how do we localize sound, especially when we're not talking about, you know, screens and video and movies and whatnot, but just like out there in the real world.
+
+14:21.186 --> 14:48.126
+The way we tell where sound is coming from is by the physics of the world causing differential delays for the sound to arrive at one ear versus the other. So sound takes a certain amount of time. You know, sound coming from over here will get to this ear before it gets to this ear. And it'll be slightly louder in this ear than in this one. Because it's just closer to that ear. It's closer, but also there's a kind of acoustic shadow cast by the head.
+
+14:48.258 --> 15:13.950
+So the sound wave has to kind of come and then go around and there's a little, you know, there's a little sort of dip in the sound intensity cast by the shadow of the head. I like to think about the timing cues because they're really easy to calculate. So if you know how far apart your ears are and you know what the speed of sound is, then you can figure out what's the delay for the sound, for sound to get to reach this ear after this ear.
+
+15:15.170 --> 15:38.302
+I often take off my glasses to measure the distance between my two ears that way. And it's something like about a half a millisecond is the largest delay you can experience. Half a millisecond. Half a millisecond. So this is tiny. And that is for the difference between a sound here versus a sound here. So something from your right versus from your left. Exactly.
+
+15:38.402 --> 16:05.022
+we can obviously detect much smaller sound separations than just totally left versus totally right. So there's, you know, it's an incredible feat of computational power by the brain. I think maybe we should tell the audience why, you know, your brow is furrowed and I'm excited about this because half a millisecond is less than the duration of a single action potential.
+
+16:05.474 --> 16:35.102
+Right, and we should just remind people action potentials are the electrical signals that neurons use to communicate with one another. These are the fundamental way in which our brain works. Without these, we're dead. It's the fundamental medium of communication in the nervous system, as you say. So it would seem totally weird for us to be able to process sensory information that is faster than the duration of that minimum increment of firing.
+
+16:35.650 --> 16:51.710
+You know, there's some research about how exactly this can be done, and it involves things like lots of neurons firing together and really precise synapses that cause minimal delay and very high temporal precision as the signals are going from one neuron to the next.
+
+16:53.218 --> 17:10.782
+Glucose is a key player in how our body functions, not just in the long term, but in every moment of our lives. That's because it is the major fuel for our cells, especially our brain cells. Glucose directly impacts our brain function, mood, and energy levels, and it may even affect our levels of tenacity and willpower.
+
+17:10.945 --> 17:34.046
+This is why I use the continuous glucose monitor from Lingo. I absolutely love it and I'm thrilled to have them as a sponsor of the podcast. Lingo helps me track my glucose in real time to see how the foods I eat and the actions I take impact my glucose. When glucose in your body spikes or crashes, your cognitive and physical performance do too. In fact, large glucose peaks and valleys lead to brain fog, fatigue, irritability, and hunger.
+
+17:34.146 --> 17:59.774
+What you eat, of course, plays a major role in your glucose. Some foods cause sharp spikes and big crashes, and others do not, but not everyone is the same in terms of how they respond to particular foods. Seeing your glucose in real time helps you build eating and other habits that support metabolic health, mental clarity, and sustained energy. Lingo has helped me to better understand what foods to eat, when to eat, and how things like a brief walk after a meal can help keep my glucose stable and much more.
+
+17:59.906 --> 18:29.374
+If you'd like to try Lingo, Lingo is offering Huberman podcast listeners in the US 10% off a four week Lingo plan. Terms and conditions apply. Visit hellolingo.com slash Huberman for more information. Today's episode is also brought to us by Wealthfront. In today's financial landscape of constant market shifts and chaotic news, it's easy to feel uncertain about where to keep your money. However, saving and investing does not have to be complicated. There's a solution that can help you take control of your finances while still managing risk.
+
+18:29.506 --> 18:52.126
+and that's Wealthfront. I've trusted Wealthfront with my finances for nearly a decade. With the Wealthfront cash account, I can earn 3.5% annual percentage yield, or APY, on my cash from program banks, and I know my money is growing until I'm ready to spend it or invest it. One of the features I love about Wealthfront is that I have access to instant no-fee withdrawals to eligible accounts 24-7.
+
+18:52.354 --> 19:21.790
+That means I can move my money where I need it without waiting. And when I'm ready to transition from saving to investing, Wealthfront lets me seamlessly transfer my funds into one of their expert-built portfolios. For a limited time, Wealthfront is offering new clients an additional 0.65% boost over the base rate for three months, meaning you can get up to 4.15% variable APY on up to $150,000 in deposits. More than 1 million people already trust Wealthfront to save more, earn more, and build long-term wealth with confidence.
+
+19:21.922 --> 19:51.326
+If you'd like to try Wealthfront, go to wealthfront.com slash Huberman to receive the boosted APY offer and start earning 4.15% variable APY today. That's wealthfront.com slash Huberman to get started. This is a paid testimonial of Wealthfront. Client experiences will vary. Wealthfront brokerage is not a bank. The Bayes APY is as of November 7th, 2025 and is subject to change. For more information, please see the episode description. So...
+
+19:52.098 --> 20:16.798
+You know, if my finger snaps up with my right hand, which is what I just did, you know, intuitively I know that it's my right hand because I did it. But my brain expects that sound to arrive more quickly to my right ear than my left ear. Right. And yet for things directly in front of me, right at my nose, the idea that it's right in front of me, let's say with my eyes closed,
+
+20:17.282 --> 20:40.222
+I know to look in front of me. I know to expect it in front of me once I open my eyes. Right. Are there conditions where we think we hear something from one location, but it's actually arising from another location that's outside an experimental context? Absolutely. So if you have hearing loss in one ear and one ear only, then it's very difficult to localize sound. It's not completely impossible.
+
+20:40.354 --> 21:07.998
+You would imagine that it would be completely impossible if the hearing loss was complete and if this timing difference and level difference were the only cues that we use. But actually, the ear has these little folds in them, and the folds filter the sound as it comes in. And in particular, it alters the frequency content of the sound. Really? So these little dimples inside my ears are useful for something? They're useful, and your ears are different than my ears?
+
+21:08.130 --> 21:30.622
+And so you are gonna be expecting a slightly different kind of fingerprint of what the sound sounds like as a function of location than I would be. Do people with damage to their ears have issues hearing? Have issues with that? I mean, it sounds like sort of a, they must, but like the people I know that roll jujitsu,
+
+21:30.786 --> 21:59.102
+Yeah. The wrestlers, their ears are always beat up. Oh, they're meshed. Okay. They basically don't have these folds. It's just kind of- Flattened? Yeah. Interesting. I don't know of any studies, but I think we can predict from first principles that they would have an initial deficit and that very likely they would learn to adapt and they would kind of learn their new set of ears and what particular frequency pattern to expect from that. If the auditory system is so sensitive,
+
+22:00.066 --> 22:28.990
+Why is it that I don't really hear my own voice? Or if I talk out one side of my mouth, I sort of know what I'm doing, but it doesn't throw me off. Doesn't sound quite right. Doesn't throw me off. And yet, most people have the experience of watching themselves or hearing themselves speak, and it feels awkward. Yeah. We don't really like, I suppose there are some people on the planet that like to hear themselves speak, but most people don't. Yeah. Most people are not. Right. It sounds, say we cancel ourselves out while we speak. Yeah.
+
+22:29.122 --> 22:40.222
+But then when it's coming at us from the front, it's like, it's odd. Do you like listening to this podcast or do you? Well, I listened to all the podcasts to see ways that I can improve. Yeah. Um,
+
+22:40.546 --> 23:08.734
+and I like the content that my guests bring on and I like the topics. But it's an awkward feeling, isn't it? To listen to yourself is very awkward. Yeah, it's uncomfortable. It's uncomfortable. Before I answer that question, which is a really interesting question, I wanna loop back to the, do we have to learn this? The other thing to say about learning, learning how to interpret the timing difference cues and the level difference cues is that a baby's head is about half the width of an adult's head.
+
+23:08.834 --> 23:36.734
+So that means that that half millisecond for me is a quarter of a millisecond for a baby, and it's going to change as they grow. So that's why you have to do all this learning. With respect to the question you just asked about why our voices sound weird, I can say more about why they sound weird and less about why we experience it as kind of unpleasant. Maybe that the weird and unpleasant connection is because...
+
+23:37.186 --> 24:04.862
+We're just so used to the way it actually, the way we experience it, that to hear it recorded is gonna be unfamiliar and strange. I think there's gonna be three things. Number one, the recording is not gonna capture the full spectrum of frequency content of your voice. Number two, your brain has an active mechanism for manipulating the transduction of sound in your ears.
+
+24:04.962 --> 24:27.006
+that is to say the conversion of sound into a neural signal that's going to go into the brain. So your brain actually controls that process. And there's some thinking that it's, you know, turning down the volume just before you speak so that you don't get blasted by the sound of your own voice. If you think about it, like if I were speaking at this volume,
+
+24:27.394 --> 24:54.270
+with my mouth this far away from my ear. Like if I was speaking at this volume from here or somebody else was speaking at this volume from here, it'd be too loud. Got it. So for those just listening, so Jenny's referring to, so the distance between your mouth and your ear is a very short one. And if someone were to speak into your ear at that distance, I suppose unless they were telling you something you really wanted to hear, you'd probably...
+
+24:54.914 --> 25:12.766
+You'll like, hey, get out of my personal space. You want somebody to speak a little more softly. Yeah, and yet we're doing it all the time. All the time. It's just that we're projecting it outward. Well, we're projecting it outward and our brain is turning down the volume in anticipation of what we're saying. Got it.
+
+25:13.250 --> 25:40.670
+You know, potentially it could be a very precisely timed volume knob that is going with each little word that I say. So when the psychologists say that we can't speak and hear at the same time, they're 100% accurate. Probably. We can't speak and hear correctly. We cannot. And then the third thing is that this maybe goes back to the first point about the recording doesn't capture all of it, is that some of what we are picking up is actually through bone conduction.
+
+25:40.834 --> 25:58.078
+You may have bone conduction headphones. I certainly do. These are headphones that they don't go over the ears. They don't go in the ears. They're usually positioned right in front of the ears, delivering the vibration signals to the bone right in front of your ear.
+
+25:58.498 --> 26:23.966
+and that can get transmitted into your ears as well. You have these headphones? I have these. Why do you use these instead of in-ear? In-ear? Yeah. Because it leaves my ears open so I can hear something else. So it's safer if you're out exercising somewhere where there might be traffic or something like that. I get a lot of questions about headphones and safety. And one thing that we resolved recently on the podcast, we had a
+
+26:24.706 --> 26:51.710
+who's our chair of auto-languology at Stanford. And she said that if your headphones are loud enough that somebody besides you can hear that there is a sound, not even the specific sounds, you are inflicting hearing damage. Right. Probably permanent hearing loss at some level. She sets a pretty low threshold for kind of like be careful, but it seems important given that
+
+26:51.874 --> 27:16.094
+We now know hearing loss is correlated with dementia. Right. It makes sense. Less sensory information comes in. The brain probably says, well, there's less stuff coming in and starts turning off circuits. And then memory goes and attention goes. And there are other things, obviously, that can impact dementia. So it's interesting. The other question I get a lot is about the Bluetooth system.
+
+27:16.450 --> 27:45.854
+People want to know, are they safe? Is it safe to have this like Bluetooth arc, you know, in your ears? In your ear. And we had a guest on here, Matt McDougall, who's the neurosurgeon at Neuralink. They're big on Bluetooth, they're at Neuralink. But he said that the amount of radiation coming from those Bluetooth headphones is considerably lower than the sort of radiation that you're exposed to all day, every day. So he wasn't concerned. Are you aware of any impact of heat?
+
+27:46.402 --> 28:15.070
+I'm not looking to go after EMF here if there isn't anything there, but of heat or of just having EMF around your ears, given the sensitivity of the bone. I mean, I'm just amazed that you can pick up sound from the bone vibrations. I mean, this is a very sensitive neural sensory space is what I'm realizing. Right. I do think that there's concerns about just how much sound exposure people are accumulating.
+
+28:15.170 --> 28:39.070
+If we live long enough, 80% of us will get hearing loss at some point in our lives. Bummer. So it's a big problem. There's certainly concerns that young people are farther along on that trajectory to hearing loss than people from older generations were at a comparable age. Just because there's, you know...
+
+28:39.394 --> 29:05.470
+the earbuds are in from morning to night and volume turned up loud enough to block out surrounding sound, you know, if you're in a loud environment. I would encourage people to give some consideration to noise-canceling headphones and to not having the volume be turned up too loud. I'd like to talk about the experience of listening to something, music, let's say, through headphones versus in the room. Mm-hmm.
+
+29:06.082 --> 29:35.454
+We don't think about it too often, but it's a totally different experience. In one case, you're hearing the sound in your head. Yeah, right. Or even, you know, like your phone on speaker versus wearing your earphones. Right. The person's voice or the music is in your head as opposed to in the room. Right. And once you think about this difference, I simply can't go back. It's like a— You like the full actual speakers? Well, now I try to listen to music in the room. Yeah.
+
+29:35.746 --> 29:59.902
+I find that to be a better experience for me. But when I hear things with headphones, I now feel like, oh, like the sound is coming from inside my head and it's a little weird. I don't like it so much. Yeah, right. It is possible to make sound that is coming from headphones sound like it is coming from outside. But to do that, you have to use all three of these sound localization cues.
+
+30:00.034 --> 30:28.830
+Things have to be, you know, to have an appropriate timing difference, an appropriate level difference across the two ears, and to use the frequency filtering properties of the ear. And since everybody's ears are a little bit different, that last step is really hard. But there is 3D sound, right? Yeah. Like we think about like three-dimensional vision is simple for people to think about. As long as they're sighted, you understand that, you know, you expect things that are...
+
+30:29.090 --> 30:55.390
+Closer to you to be larger than if they were far away. We learn this without thinking about it. You've got so many wonderful cues to distance in vision, right? Yeah, things in the distance are harder to resolve as opposed to things up close, which you can see all the detail. There are all these cues, right, that we could talk about. But since we're talking about hearing, the sounds that we hear at a given level, we know are close to
+
+30:55.522 --> 31:14.558
+are coming from objects that are actually close or far away, usually based on what we see. Yeah. Right? So what is 3D sound? How do I know the difference between a sound that's right in front of my face versus far away with my eyes closed? How do I know? This is a computational process in the brain that we don't fully understand. And it's worth thinking about
+
+31:14.722 --> 31:43.646
+What are the available pieces of information that you can use? Sound is much more bendy than light is. Bendy. Bendy, like it bends, right? Goes around things. Goes around things, whereas light is just kind of like a straight shot, you know. You don't have the opportunity to use the same kind of information for sound depth that you do for vision. Even though you have two ears, you can't form an image and check to see whether or not the images line up, which is what stereo vision is.
+
+31:43.810 --> 32:12.702
+You don't have occlusion cues, that is to say one thing being in front of the other blocks your ability to see the thing that's behind. So the sound can go around objects. So there's a few different cues that we can use. One is simply how loud is the sound. Things that are farther away are going to sound quieter. But you have to know what the sound volume was out there in the world.
+
+32:12.866 --> 32:41.470
+in order to interpret whether or not that is quiet or loud. Let's use thunder as an example because thunder sounding very loud predicts lightning that might hit you. Thunder that sounds way off in the distance, if you have an understanding of thunder and lightning, predicts a lower probability of you getting hit by lightning. I had this experience recently. I got caught in a sudden lightning storm, thunder lightning storm in Austin, Texas, and it was coming down in sheets and then, you know,
+
+32:41.826 --> 33:06.078
+the thunder gets louder and louder and you're like, wow. And then the lightning gets brighter and brighter and you think I could get electrocuted. And it seems like a low probability event. Right. Depending on where you grew up, you might have learned as a child, like some basics of how to tell, like when it's good idea to, you know, get to shelter. So, you know, for example, I was taught growing up, you know, you count
+
+33:06.242 --> 33:34.206
+One, 1,000, two, 1,000, whatever. As long as you can count to like five seconds, you're probably okay. But once you're getting to that level, you should, you know, maybe go inside. There, take that one in, folks, from somebody who grew up with them. You see the flash of lightning. One, 1,000, two, 1,000, three, 1,000, four, 1,000, five, 1,000. And if it takes longer than that before you hear the thunder, you're okay. But at that point, I would go inside. You may have saved some lives.
+
+33:34.306 --> 34:02.206
+Growing up in California, we didn't learn anything about it. You didn't get that. And people who grew up in cities wouldn't have gotten this. I think in cities, it's actually very hard to see the connection between the light, lightning and the thunder. But I grew up in rural Vermont and it was like very obvious. I grew up in the San Francisco Bay Area and I've been through so many earthquakes. And one of the things that people don't realize if they've never been in a major earthquake is that
+
+34:02.850 --> 34:26.142
+it's extremely loud. It starts with sound, not shaking. You don't, you don't. So this is people always saying California earthquakes and, you know, with 89 quake and the freeway pancaked and the Bay Bridge actually a segment fell out. People forget this during the World Series. That happened now, there would be so many casualties, but it was a lot less busy in the Bay Area back then. The first thing
+
+34:27.106 --> 34:50.750
+that happens in an earthquake is it sounds like a train is about to come through the room. Yeah, sure. And then the shaking starts shortly thereafter. But the sound always comes first. I always tell people this when they're afraid of earthquakes. You'll hear it before you'll feel it. Before you see it. So if it sounds like a train is going to come through the room, you're probably about to have an earthquake. Right.
+
+34:51.362 --> 35:15.390
+I think elephants use sound to communicate over long distances. That's cool. They stomp? Yeah, I think so. Or they can hear things. I think they have sensors in their feet that can pick up these vibrations that we might call sound. Oh, that's cool. Yeah. That's like that scene in Stand By Me where they're crossing the train tracks on a bridge. Yeah. And all the...
+
+35:15.970 --> 35:45.854
+They're just kind of moving along. And then Gordy, who's arguably one of the smarter in the bunch, he's like, he's reaching down and holding the tracks and he feels the track shakes before he hears the horn. And then, of course, the smoke rounds the corner, train rounds the corner. Interesting. Interesting. And with the elephants, I'm not sure. I think maybe it's not sensors in the feet, but bone conduction from the feet to the ear. And that's where it's being picked up.
+
+35:46.722 --> 36:01.086
+So, okay, so your question was, if I can go back to your question, it was about distance and how do we know how far away a sound is coming from? So the loudness cue requires you to know something about how loud the original sound is.
+
+36:01.218 --> 36:27.710
+stimulus at the source is. And so thunder is a wonderful example of this because we do have quite a bit of experience with thunder. So we can kind of use how loud it is as a good cue. And it also works great because we're talking about really long distances, right? There's another pretty cool cue that you and I are probably using right now. And that is that the sound in this room is bouncing off of all the different surfaces.
+
+36:27.938 --> 36:57.022
+So the shortest path copy of the sound is coming straight from your mouth to my ears. But in addition, there's a copy that's bouncing off of the table that's between us that has a longer path length, so it'll be slightly delayed. There'll be another copy that's, you know, hitting the ceiling and coming down to my ears. Oh, this is weird. And that is going to have an even longer delay. I'm completely unaware of this, but my brain is probably using the slight differences and the kind of
+
+36:57.122 --> 37:24.606
+pattern of slight differences to figure out, you know, that you're about seven feet away from me. If we were closer to each other, the difference between that straight path copy and the copy bouncing off of the table would be greater than it is right now. Because at this angle with this, you know, geometry, there's really not that much difference. So the bounced off copy and the straight path copy are pretty similar. I never thought about this.
+
+37:25.314 --> 37:53.854
+It's incredible, right? This is a way that vision is so different. Yeah. I came up through vision science mostly. Yeah, so did I. And right. I mean, there are certain wavelengths of light that can pass through our body, like long wavelength light. That's relatively new findings. I think it's really interesting and it's very healthy for us, it turns out. Yeah. Mitochondrial health, et cetera. But in general, we're not used to thinking about light and wavelengths of light going through things unless they're translucent or transparent like a window.
+
+37:54.818 --> 38:23.710
+Sound is constantly bouncing off everything. We're in a hall of mirrors for sound all the time. But you experience me and I experience you during this conversation as one coherent sound. Even though we are biologically poised to detect half a millisecond differences in the arrival time of the two ears, there are much greater differences in the arrival time of my voice bouncing off the table versus the walls versus the ceiling versus direct path. But you integrate them.
+
+38:24.098 --> 38:51.614
+And I don't hear you as saying the same thing, you know, five different times, right? You know, it's one integrated whole. And closing one's eyes doesn't change that. If I close my eyes and you speak, I can register to the direct path. I infer that you're right in front of me. Of course, I know that because my eyes were open a second ago. But all the versions of your voice arriving, bouncing off the different surfaces are arriving at my ears. And I don't, it doesn't, it's not confusing and it's not jarring. Right. Right.
+
+38:51.778 --> 39:21.598
+Like if somebody came over and touched my arm and I felt it on my arm, but also a little bit on the back of my neck and a little bit on my knee, that would be weird. That would be odd, you know? And we can get these sensations. There are certain places on the back, for instance, that you can feel a subtle kind of phantom touch in your foot because of the way the neural circuits are organized. And with pain, we talk about this as like referenced pain. You know, for internal organs, there are branches of nerves such that, you know, and this shows up in...
+
+39:21.730 --> 39:48.638
+you know, Eastern medicine, but also Western medicine, like someone with like liver pain will register that in their shoulder, you know, and we think, oh, this is crazy. No, it's not crazy. There's actually branches that support that referenced pain. But we don't do this with hearing. Yeah. We shut it all down and we just collect the, we make, we draw a conclusion. Right. Wild. It's wild, isn't it? It's totally wild.
+
+39:49.026 --> 40:06.078
+Are you about to tell me that our voices are also causing vibrations in the objects around us and that we just can't detect them? Why are we not like the elephants? How come we- Maybe we are like the elephants. I don't know. Is it the case that low frequency sounds can travel further
+
+40:06.914 --> 40:35.070
+with respect to our ability to detect them. So I, you know, I don't want to get into a conversation about frequency of sound and intensity and high versus low frequency, because that's really about the physics of sound. Right, right. But ultimately we filter the physics of sound through our nervous system. So if I want to signal to somebody far away, I would probably want like a big bass drum or a gong.
+
+40:35.938 --> 41:03.774
+I would not try to whistle to them far away. Or if I could pick a horn that was a deep like versus like I'd want bass. So there's a few things wrapped up here. One is that the lower frequencies bend more, bend more easily so they can go around these objects better. So if you're talking really long distances, you know, the odds that there's something in the path that you want to
+
+41:03.938 --> 41:25.694
+The sound go around or go up. Another thing that's wrapped up here is that we tend to lose high frequency hearing before we lose low frequency hearing. And so the lower frequencies are audible to more people and are louder to people than the higher frequencies.
+
+41:25.922 --> 41:55.198
+So you're saying it's because it can bend around objects. Well, I don't really know what the choices that are being made are by the people whose job it is to figure these kinds of things out. But I'm sure that there's some thought being given to the receiver, you know, the people and what they can perceive. So let's take a couple other examples of warning systems that humans use. The gas in a gas stove doesn't have an intrinsic odor to it.
+
+41:55.458 --> 42:24.926
+There's an odorant that's been added. That rotten egg sulfur smell. That rotten egg, yeah, exactly. And so, you know, that was chosen a long time ago to be added. And, you know, it turns out to be a good thing because it doesn't really smell like anything else. It's not pleasant, but everybody can detect it. I don't know of any cases of people that can't smell that unless they have a generalized anosmia where they can't smell anything. Traffic lights are maybe a little bit less of a win.
+
+42:25.026 --> 42:53.278
+because you've got red versus green. And 6% of the population is red, green, colorblind, which operationally means not that you can't see a red stimulus or a green stimulus, but that you can't tell the difference, you know, whether or not something is red or green. Yeah, I should just say that most red, green, colorblind people tend to be males just because of where the gene mutation is in the genome. And...
+
+42:53.698 --> 43:16.542
+They don't see, people always want to know what does red look like to them. Red and green look kind of more orangish, burnt brown, orange color. And dogs see the world that way all the time. Right. So if you do a color matching experiment, my understanding is something along the lines of people with red, green color blindness will map both red and green onto yellow. Mm-hmm.
+
+43:16.642 --> 43:45.950
+And not be able to tell the difference. It's not the kind of cartoon view of like it looks black and white. There are people who are completely monochromatic, but it's very rare. Very rare. Very, very rare. And there are other forms of colorblindness that are more subtle. And colorblindness, people should, we'll put a link to this. Jane Maureen Knights up at the University of Washington. Terrific. They run a color vision lab. She's a molecular biologist. He's more of a psychophysicist. And they have some really great color vision tests there that people can take.
+
+43:46.306 --> 44:05.054
+And many people find that they have subtle color vision deficits. Yeah, yeah, exactly. But they don't consider themselves fully colorblind. But every once in a while, monochromats usually know that they're seeing the world of black and white. And a lot of what, you know, is under this heading is really more an anomaly than a complete...
+
+44:05.282 --> 44:24.702
+absence of an ability to distinguish red from green. But back to our traffic lights. So you got your red versus green signaling something very different. And most places have those lights oriented vertically, which gives you a second cue to what needs to be conveyed here. Not the same light switching.
+
+44:24.898 --> 44:49.662
+Right. It's not the same light switching, and one is on top and the other is on the bottom. It's more of a problem when in some intersections the set of three lights is oriented horizontally. We've known for a long time that there are things that we can do to improve our sleep. And that includes things that we can take, things like magnesium threonate, theanine, chamomile extract, and glycine, along with lesser-known things like saffron and valerian root.
+
+44:49.826 --> 45:10.654
+These are all clinically supported ingredients that can help you fall asleep, stay asleep, and wake up feeling more refreshed. I'm excited to share that our longtime sponsor, AG1, just created a new product called AGZ, a nightly drink designed to help you get better sleep and have you wake up feeling super refreshed. Over the past few years, I've worked with the team at AG1 to help create this new AGZ formula.
+
+45:10.754 --> 45:31.550
+It has the best sleep supporting compounds in exactly the right ratios in one easy to drink mix. AGZ is to my knowledge, the most comprehensive sleep supplement on the market. I take it 30 to 60 minutes before sleep. It's delicious by the way. And it dramatically increases both the quality and the depth of my sleep. I know that both from my subjective experience of my sleep and because I track my sleep.
+
+45:31.778 --> 45:45.406
+I'm excited for everyone to try this new AGZ formulation and to enjoy the benefits of better sleep. If you'd like to try AGZ, go to drinkagz.com slash Huberman to get a special offer. Again, that's drinkagz.com slash Huberman.
+
+45:45.730 --> 46:15.696
+Today's episode is also brought to us by Our Place. Our Place makes my favorite pots, pans, and other cookware. Surprisingly, toxic compounds such as PFASs or forever chemicals are still found in 80% of nonstick pans, as well as utensils, appliances, and countless other kitchen products. As I've discussed before on this podcast, these PFASs or forever chemicals like Teflon have been linked to major health issues such as hormone disruption, gut microbiome disruption, fertility issues, and many other health
+
+46:15.696 --> 46:42.366
+problems, so it's very important to avoid them. This is why I'm a huge fan of Our Place. Our Place products are made with the highest quality materials and are all PFAS and toxin-free. I particularly love their Titanium Always Pan Pro. It's the first nonstick pan made with zero chemicals and zero coating. Instead, it uses pure titanium. This means it has no harmful forever chemicals and does not degrade or lose its nonstick effect over time. It's also beautiful to look at.
+
+46:42.562 --> 47:07.006
+I cook eggs in my Titanium Always Pan Pro almost every morning. The design allows for the eggs to cook perfectly without sticking to the pan. I also cook burgers and steaks in it, and it always puts a really nice sear on the meat. But again, nothing sticks to it, so it's really easy to clean, and it's even dishwasher safe. I love it, and I use it constantly. Our place now has a full line of Titanium Pro cookware that uses the first-of-its-kind titanium nonstick technology.
+
+47:07.266 --> 47:37.232
+So if you're looking for non-toxic, long-lasting pots and pans, go to fromourplace.com slash Huberman and use the code Huberman. Right now, Our Place is having their biggest sale of the year. You can get up to 35% off all products now through January 12th, 2026. With a 100-day risk-free trial, free shipping, and free returns, you can try Our Place with zero risk, and you can see why more than one million people have made the switch to Our Place Kitchenware. Again, that's fromourplace.com slash Huberman to get up
+
+47:37.232 --> 48:06.398
+to 35% off. So really what we're talking about that I'd like to drill into even deeper across senses, but primarily with sound is, you know, how space, how the physical environment shapes our perception of things. Yeah. Yeah. And I'm also very interested in the relationship between vibration and sound, given that our ears contain the apparatus to detect sound frequency, but also
+
+48:07.202 --> 48:36.414
+have to do with balance and vibration. Most of us have had the experience of someone pulling up next to us in a car, blasting bass really loud, and our windows start shaking and their windows start shaking. Can we talk just about how objects have a resonant frequency? I think this is pretty interesting, and then people will inevitably wanna know about how humans have a resonant frequency, and we do. I believe that certain frequencies of sound can shape our emotional state. Oh, sure. I mean, that's music, right?
+
+48:37.186 --> 49:02.270
+For example. For example. It just, for some reason, when we break it down to one frequency and it's not packaged in music, people somehow think it's like woo or mysticism. And it's, it's not. I mean, the, I'm fascinated by this, like the gongs as an ancient tool for trying to orient people's emotional state or signal. Like if we hear gong, gong, gong, it sounds ominous.
+
+49:03.522 --> 49:22.430
+Right. If we hear chirping of birds. Yeah. We know they're birds. But if we hear light, you know, in the Disney movies that, you know, it's been a long time since I've seen a Disney movie. But the kind of the stuff of fluttering is high frequency. High frequency movement tends to be high frequency sound. So.
+
+49:23.394 --> 49:50.846
+how do you think about the relationship between frequency and emotion and resonant frequency? I mean, it's a vast landscape, but I'd love your thoughts on this. So can we go into the music realm to talk about this? Please. I think that's intuitive for many people. Okay, good. So one of the things that I think is fascinating about music is that it's universal and nobody really knows what it's for. Like, it's pretty clear that language...
+
+49:51.522 --> 50:20.830
+is useful to us, right? It helps us exchange information. So pretty obvious that language is a benefit, a survival benefit for individuals and for the species as a whole. We don't really have as clear a view of why music, what role did music play in our success in evolution, natural selection?
+
+50:21.058 --> 50:48.094
+You know, music is, it really is universal. Every human culture has it. There is some variation as to whether or not a culture embraces melody, embraces harmony, but every culture has rhythm. You can't have melody or harmony without rhythm. It doesn't make any sense, right? Like imagine a familiar tune like Happy Birthday, but the duration of the notes was completely arbitrary and
+
+50:48.930 --> 51:17.566
+It would sound crazy. It would sound crazy. It would not be recognizable to us as happy birthday, but you can play it fast, you can play it slow, you can play it pitch shifted up or pitch shifted down, musical terms in a different key, and we would recognize that as like a particular song. So that's what I mean about rhythm being really critical. And the criticality of rhythm...
+
+51:17.762 --> 51:45.470
+offers up the following kind of wild theory. This is not my theory. I wish I could quote whose ever theory it is, but it is that perhaps what rhythm, what music and rhythm is for is to help us act in concert with one another and be louder than any of us could be by ourselves and to scare off predators and competitors.
+
+51:45.794 --> 52:15.614
+So, for example, imagine a pack of hyenas are surrounding a kill from, you know, a lion. The lion has long since sated and has gone away. But now a bunch of scrawny humans want to scare off the hyenas. If they go after the hyenas all stomping their feet together and shouting together, it's going to be a lot louder than any one person could do by themselves. Well, I like this theory.
+
+52:15.874 --> 52:40.958
+It's kind of nice, right? I'll tell you why in a moment, but please continue. And then that kind of concerted working together as a group, and you could sort of see that like once you had the basics of like, and here I'm talking when I say once you have, I'm really imagining on an evolutionary scale that for anything to come about and endure requires that it increase our fitness and
+
+52:41.058 --> 53:10.590
+at every stage of the way. So initially you might get that rhythm thing going on, but then that would be satisfying to people. Like if you had a mutation that made acting together feel good for some reason, and then it would come along with this benefit of competing with the hyenas for the lion kill. And then it would kind of potentially feed on itself of like, well, even more,
+
+53:10.914 --> 53:33.790
+cooperative action, feeling good together allows us to then do other things together that we can't do individually. Have you ever seen the, it's a song and I don't exactly know what to call it, the chanting and the song of Maori people?
+
+53:33.890 --> 54:02.398
+in New Zealand. Yeah. They'll do this before rugby games. Oh, right. Because the All Blacks are one of the best rugby teams in the world. There's an incredible video that a friend of mine, she always sends this to me when I'll say something like, you know, what do you think of something that was on the news or something? And she'll send, there's an incredible case of in the government in New Zealand. I think it's, I don't know if they use parliament or what, there's an example of...
+
+54:02.978 --> 54:29.566
+Okay, I'll just say how it is. Some white politician reads out some, you know, proclamation, maybe that's up for a vote. And then all of a sudden it will start in one corner of this very majestic government building. Looks sort of like our Congress, but it's different. And she'll start chanting. And then it's like wide eyes. There's no blinking. It's very interesting. And there's stomping and there's clapping. And then all of a sudden it starts...
+
+54:29.730 --> 54:57.054
+Other people start joining in with her. Right. And it gets really loud when they're together. A, you know a number of things immediately. A, they're pissed. Two, they're not going to stand for this. Three, there are a lot of them. And four, like, they're not to be messed with. They're united. They're united. Yeah. Admittedly, I had to have someone look this up. It's called Haka. And it's incredible because you immediately understand how these people feel.
+
+54:57.666 --> 55:23.422
+And it's a, no, we're not gonna take that kind of stance, at least in the context of this government example. In terms of pre-rugby match, it's really a display of vigor. And we are primates after all. We are old world primates. And vigor displays run through all the old world primate species, including us. Yeah.
+
+55:23.522 --> 55:49.662
+I think it's definitely a bigger display. Like stomping, making one's body big. And the lack of blinking is something that, you know, as a vision scientist, I caught on to. Like no one's doing this and blinking a lot. They're showing that they will not break their attention until this is complete. And somebody not blinking while staring directly at you is a command for your attention as well. And it's even in our language, isn't it? So-and-so didn't blink.
+
+55:49.858 --> 56:17.950
+That's right. They don't blink. They're not afraid. They're, you know, these days because of the craziness of the political socio landscape, assassinations and very strong personalities and government and online. And because I'm, you know, I have media now to at least some extent, different form of media, not politics. But, you know, I'm so intrigued by the idea that some people are capturing people's attention and loyalty.
+
+56:18.626 --> 56:46.206
+not just by virtue of what they say, but the certainty with which they say it. Now, that's not a new theme, but also the timbre of their voice, the refusal to entertain dissenting voices, but also how a lot of voices are just not the right timbre and frequency and delivered in the way that these people have obviously mastered their ability to command other people's attention. Like it's a, it's a,
+
+56:46.882 --> 57:15.230
+Because this stuff hits at a primitive level, right? People aren't necessarily just voting on issues. Yeah, yeah. They're voting on feeling. We've known this. Right. So in any case, the haka is a beautiful example of what you're describing. Well, and the other thing is that music plays a role in, say, the military and in war. I read somewhere that the military is the largest employer of musicians in this country. Interesting. Yeah. Makes sense.
+
+57:15.490 --> 57:39.422
+Well, you know, I thought it was a surprise to me when I first heard it. Yeah, surprising to me, but it makes, I mean, somebody's got to play taps. Usually that's one horn, though. Right. So, and I think the other, you know, possible angle for all of this is, you know, there are things in many species that are not obviously beneficial. Take the peacock, for example, that enormous investment in
+
+57:39.586 --> 57:59.134
+plumage in very colorful tail feathers is not something that is directly adding to the survival skills of the male peacock, but rather it's something the female peacocks like. And so that tends to feed on itself, too. So that's another way that music could get into our, you know,
+
+57:59.842 --> 58:26.494
+of human characteristics without necessarily directly leading to something like being able to get more food. Like the rhythm thing gives us more food. People who are good at music might end up with more offspring than people who weren't good at music. That would be the sort of general idea behind that part of the theory. In many now older movies,
+
+58:26.850 --> 58:55.934
+typically it was a man singing to a woman or in the movie, say anything, John Cusack simply used a boom box, right? Or poetry, creative works, but expressed out loud were the way that courtship took place. Eric Jarvis was on this podcast. I don't know if you know Eric at the Rockefeller. And he's a very...
+
+58:56.322 --> 59:25.502
+accomplished dancer. I don't know if you know this, but he was supposed to be in the Alvin Ailey Dance Company. He decided to become a neuroscientist instead, but as I understand, he's still a good dancer. And he was saying that he thought that perhaps primitive vocalizations evolved first. So vocalizations of disgust or pleasure or fear or excitement. Then he thought perhaps came song and dance. So song and body movement to signal what one was feeling and what their intention was.
+
+59:26.178 --> 59:52.990
+And then perhaps spoken language came after that. Makes sense. I just think we don't know. Yeah, we don't know. And I think it's kind of interesting. There are maybe sort of two, like I think with the songbird, they are signaling things like vigor and fitness and territoriality and things like that. They're not conveying something symbolic, whereas the people,
+
+59:53.218 --> 01:00:21.150
+You know, vocalizations in the primate tend to mean something specific. You know, sometimes I wish I, you know, could have a time machine and I could go back and, you know, look at what happened in earlier stages of evolution and just kind of see, well, what is the lineage that, what is the sequence of events that led us to have language, that led us to have music? Did it come from the same process as birds, you know, songbirds, or did it come from a completely...
+
+01:00:21.346 --> 01:00:51.006
+parallel process. I mean, I think we do see that evolution can arrive at similar characteristics through different means in different places in different times. So, you know, it could be, you know, kind of convergent parallel process, or it could be something different. I feel like music conveys intention. Music can tell a story. And music, because of the way that it
+
+01:00:51.394 --> 01:01:18.846
+that organizes language provided there's lyrics into like riffs and motifs and melodies and choruses that it makes it very easy to remember things. I'd like to talk a little bit about the possible neural underpinnings of this. Two things come to mind. First of all, you mentioned the ABCs, you know, ABC, almost everybody knows that melody. And,
+
+01:01:19.298 --> 01:01:40.734
+It's probably easier to remember all those letters in that form as opposed to A, B, C, D, E, F, G, H, I, you know, because you break it up. And I'm almost certain this is true because I have a good friend and he's a very accomplished musician and he's an incredible songwriter and lyricist. He's written lyrics for a number of other artists, not just himself.
+
+01:01:40.866 --> 01:02:04.190
+And he has like several bands. He writes a song a day. It's crazy. He writes a song. He released a song a day during the pandemic. Whoa. Great songs. And occasionally, because I'm such a fan of his music, I'll say, there's that one song. Like, what's that? What's the lyric? You know? And he'll say, oh, yeah, no, I don't remember. And then he'll start and then he'll remember it. And...
+
+01:02:04.322 --> 01:02:33.950
+He's got thousands of songs in his library of songs he's written and sings. I said, so when you're on stage, how does it work? He said, as long as I can remember the first two words or three words of a verse, the rest just kind of spills out of me. I think that's how song organizes language because it's very hard to memorize like a speech, but you can memorize a song, no problem. Yeah, and that's my experience too, that if I know the first couple of words of a verse,
+
+01:02:34.498 --> 01:03:03.518
+got the rest of the verse. Yeah. It's so interesting. So in the brain, we haven't talked too much about brain structures yet, but maybe we do that. Yeah, right. Yeah. And not to fill people's minds with names of things, because I always say, like, it doesn't matter if it's called the superior colliculus or the superior schmulliculus. It doesn't matter. It doesn't matter. But what's interesting are the properties of these different brain structures. So I think about the ears as, you know, separating different frequencies of sound and then
+
+01:03:03.618 --> 01:03:32.638
+a bunch of other important stuff, no disrespect to the auditory neuroscientists. But as you said, in the superior colliculus is where hearing and vision and the other senses come together. They're mapped onto one another. It turns out that the story is more complicated and more interesting than that. I got hooked on that particular study that I mentioned at the beginning. So this was auditory signals in the superior colliculus being affected by the position of the eyes at the time the sound was presented.
+
+01:03:33.314 --> 01:04:00.638
+And now our audience knows about how sound is localized. We haven't talked that much about how visual information is localized. I think because mostly that's fairly obvious that your eye is kind of a little camera and light hits a particular location on the retina. And that retina location tells us what the location of the visual stimulus is. But it tells us the location of the visual stimulus with respect to the direction the eyes are pointing.
+
+01:04:00.930 --> 01:04:27.646
+But our sound localization cues are with respect to where's the sound with respect to the head. So this finding that neurons were responsive to sound but cared very much about the position of the eyes was really, you know, a startling finding when it first came about. When I set up my own lab, I basically set out to find out, well, where does this computation happen? Where is the brain moving?
+
+01:04:27.778 --> 01:04:46.078
+incorporating information about eye movements into the processing of sound. You know, we knew from the literature was, okay, the superior colliculus is one of the places, but, you know, does it happen in the superior colliculus or does it happen in a different brain area? And so we kind of marched along the,
+
+01:04:46.178 --> 01:05:15.102
+the auditory pathway in brain areas that I call them part of the auditory pathway because they're much more closely connected to the ear than to anything else. And because at the time, nobody thought there were visual signals in these areas. We thought it was just auditory. That too turned out not to be true, but they're definitely much more auditory than visual. And what we found was that in each of these areas, eye movements affect the auditory signals there too, even though they weren't
+
+01:05:15.234 --> 01:05:45.086
+in this convergent structure of the superior colliculus. So we decided that it would take a long time to march through every brain area and that it might be worth sort of jumping over a few brain areas and looking in the ear itself. So I need to give the audience a little bit more information about what, you know, what is possible in the ear and why that seemed like a reasonable thing to do. It has some little muscles in it.
+
+01:05:45.410 --> 01:06:09.310
+There are two muscles that control the bones of the middle ear. And then inside the cochlea, there are cells called outer hair cells that can actually expand and contract just the way a little muscle could. We should explain the cochlea is a snail-shaped structure that has the, essentially the, we call them neurons, but these sensory cells that vibrate according to the frequency of the sound. And this is
+
+01:06:10.050 --> 01:06:35.678
+critical for our perception of sound. Exactly. And you have one on each side. You have one on each side. It's snail-shaped and it's connected. The vestibular, your balance structures are also connected to this as well. And to just describe the flow of information, you've got your outer ear, you've got your ear canal, you have your eardrum, you've got these little bones that connect the eardrum to the cochlea. And so there's muscles that...
+
+01:06:35.778 --> 01:07:03.998
+that affect the motion of those little bones, and then there are cells inside the cochlea that can also act like muscles. These structures get input from the brain. So we thought, well, if they're getting top-down input from the brain, are they getting a top-down input from the brain that carries information about the position of the eyes? You know, it seemed kind of like a wild possibility, but not completely...
+
+01:07:04.194 --> 01:07:31.678
+out of left field, like there was a possible mechanism here that we could imagine. And the neat thing about this is that we didn't have to do something like stick an electrode into these muscles because they're attached to the bones and attached to the eardrum. And so if they were being manipulated by a top-down signal from the brain, they would tug these bones and that would tug the eardrum
+
+01:07:32.450 --> 01:07:50.526
+And when the eardrum moves, normally it moves in response to sound, but if it moves in the absence of sound, it's going to make a sound. So you could put a microphone in the ear canal to see whether or not anything was happening in connection with eye movements. And this too wasn't
+
+01:07:50.626 --> 01:08:20.592
+out in left field to do this because there's already kind of known signals generated by these kinds of structures that are measured by clinicians, by audiologists and otolaryngologists. You can put a microphone in the ear and you can measure things called otoacoustic emissions. Basically, your ears are making sounds, folks. Your ears are making sounds, folks. I know. It's weird. It's kind of wild. Some people make more of them than others. Some people make more of them than others. Exactly. So we wanted to know if any of these little sounds were being generated
+
+01:08:20.591 --> 01:08:47.007
+with eye movements. And I wouldn't be here telling you this story if it didn't turn out that, yes, they do. So we were able to measure that the eardrum is basically moving in connection with every eye movement, every saccadic eye movement. These are the fast, jerky eye movements. There's other kinds of eye movements, and we haven't yet tested them. The signal is very precisely time-locked to the onset of the eye movement. And it
+
+01:08:47.586 --> 01:09:16.446
+The effect is different in the two ears so that if your eyes are moving to the left, the eardrum on the right is going to kind of bulge inward, then outward, then inward. I might have this backwards. But whatever the right ear is doing, the left ear is doing the opposite so that the eardrums are going to be moving in the same direction. One is going to be inward when the other is going outward. Like a wave. Like a wave, exactly. Like a wave, not like a...
+
+01:09:16.898 --> 01:09:38.750
+Not like flapping. Not like flapping. Exactly. You know, we're still actually at pretty early days in understanding this process and what it's for, but it's a very precise signal. It turns out to carry information about how far the eyes are moving to the left or to the right, as well as a bit less, but some information about vertical movements as well.
+
+01:09:39.618 --> 01:10:08.510
+And we think that this may be kind of the first step in that integration of visual and auditory information. Which would be the critical first step if the major goal of this integration of visual and auditory is for localization of sounds. Right. Because, you know, as a neuroscientist, you know, there's so many different areas of neuroscience. Like I used to marvel at you. You go to a meeting, you've got people...
+
+01:10:08.866 --> 01:10:38.782
+saying consciousness and working on consciousness. You have people trying to figure out how a single photoreceptor works or a single hair cell works. And so when I think about a sensory system, I think about layers of sophistication and how they likely evolved. Like very briefly, I mean, the visual system first evolved to detect light and dark on the order of 24 hours. So you know the difference between nighttime and daytime, which means even with the total inability to see,
+
+01:10:38.882 --> 01:10:51.038
+objects, you are safer if you know when to stay in and when to go out. And then at some point we evolved the ability to, probably motion detection came before the ability to
+
+01:10:51.266 --> 01:11:19.902
+to see detail, because it's way more important to know if something's big and coming at you, big and moving away. Right, or help you stay oriented, like with respect to, like knowing what's up and what's down and staying upright. That's right. And just like the falling reflex is probably the most important reflex in the vestibular system to brace yourself so you don't, you have a lesser chance of dying if you fall, right? If your visual world suddenly goes up very quick, you know you're falling. Right.
+
+01:11:20.002 --> 01:11:49.182
+And then comes, you know, additional layers of sophistication, like fine detail, color vision. Color vision probably evolved last. At least trichromatic color vision. And then so in the auditory system, I think like the same thing. You need to be able to know probably which direction a sound is coming from. Is it low or high frequency? And then, and on and on. Right. You know, and so I think about that, like in the motor system that,
+
+01:11:49.762 --> 01:12:19.710
+Oldest, we know the evolutionary history of the genes that are expressed in like the motor neurons that move the trunk are the same ones that undulating fish use. And actually, this will get us back to sound, I promise. And then there's these additional layers of motor neurons that have been added through evolution, the ones that flap the fins. And then the final addition are the motor neurons that control fine movement of the fingers. So I have this kind of obsession with this because it's
+
+01:12:20.034 --> 01:12:43.390
+If you look at music that's very primitive, right? Like you just look historically speaking. I'm not casting judgment on music, just historically. It's rich in bass tones relative to high frequency tones. And dance that we assign as primitive tends to involve a lot of movement of the trunk.
+
+01:12:43.842 --> 01:13:12.318
+You're not, people aren't just like flapping their fingers and toes out there, right? Yeah, yeah, yeah. Now, so as you go from low to high frequency, there's a body map of low to high frequency. And actually, if, when people are making a very detailed point, they'll often like, like point with their fingers, they'll move their fingers. But when we want to emphasize a big point, we use our whole body, we put our whole body into it. So I actually believe that all the sensory systems are mapped to one another in a way that goes from low frequency to high frequency. Yeah.
+
+01:13:12.418 --> 01:13:41.598
+intensity is important. Right. And direction is important. Right. Me pointing at you, which I even feels funny to do because we're on good terms as far as I'm concerned. I didn't blink. You know, is very different than me standing back. And if I come at you with my whole body, it's very different than if I point a finger, for instance. Right. So I feel like these things probably evolved from this in parallel. And as you pointed out before, they serve an adaptive role. Right. So
+
+01:13:41.986 --> 01:14:06.014
+The fact that position of the eyes can change the way I hear seems wild, and that's a wild thing. Is the inverse also true? Is where I listen affecting how my eye... Yeah, where I hear something typically directs my head movement and my eye movement. So this is just the same thing in reverse. I think it's all part of an integrated system. Yeah.
+
+01:14:06.818 --> 01:14:34.238
+You know, we talked about the top-down control over the ear, but there's a lot of top-down control over vision too. And some of it is a little easier to understand than what I just described because blinking is top-down control over vision. Eye movements, top-down control over vision. Focusing the lens of your eye, right, that's also top-down control. There are descending connections from the brain to the retina itself that nobody understands properly.
+
+01:14:34.402 --> 01:14:57.406
+Apologies to the people working on this. I really want you to keep working on this. But I feel like there isn't a clear theory yet about what exactly these descending connections might be doing. From what I know about it, they are pretty diffuse connections, pretty broad branching of neurons throughout the retina or not throughout the whole retina, but but.
+
+01:14:57.794 --> 01:15:20.478
+Probably not well suited to manipulating fine spatial detail, but could very well be suited to incorporating some kind of circadian influence to the retina itself or something else that you want the same signal to be broadly available throughout the retina. I'd like to take a quick break and acknowledge our sponsor, Helix Sleep.
+
+01:15:21.026 --> 01:15:44.286
+Helix Sleep makes mattresses and pillows that are customized to your unique sleep needs. Now, I've spoken many times before on this podcast about the fact that getting a great night's sleep is the foundation of mental health, physical health, and performance. When we aren't doing that on a consistent basis, everything suffers. And when we are sleeping well and enough, our mental health, our physical health, and our performance in all endeavors improves markedly.
+
+01:15:44.450 --> 01:16:14.416
+Now the mattress you sleep on makes a huge difference in terms of the quality of sleep that you get each night. How soft that mattress is, how firm it is, how breathable it is, all play into how well you'll sleep, how much deep sleep you get, how much rapid eye movement sleep, and it needs to be tailored to your unique sleep needs. So if you go to the Helix website, you can take a brief two minute quiz and it will ask you questions such as, do you sleep on your back, your side, or your stomach? Do you tend to run hot or cold during the night? Things of that sort. Maybe you know the answers to those questions, maybe you don't. Either way, Helix will match you to
+
+01:16:14.416 --> 01:16:44.382
+Thank you.
+
+01:16:44.482 --> 01:17:12.510
+Huberman. I want to talk a little bit about physical spaces. Yeah. Recently, I was in New York and someone took me to Grand Central where there are these incredible arches in one of the hallways there. People should check this out. It's really, really cool. It is beautiful. It's beautiful. You have this high ceiling main kind of chamber room of Grand Central. And
+
+01:17:13.154 --> 01:17:42.782
+There's also a hallway off to one side where you can go into a corner. Do you know about this? And you can face into the corner like you were going to, you know, like you're facing the corner in shame, but you're not. And whoever you're with can go to the opposite diagonal corner. The ceiling is shaped like somewhat of a dome. It's contoured, but it's more or less a small dome. But you are...
+
+01:17:42.946 --> 01:18:09.982
+Easily 25 feet away from this person that you're there with. Again, diagonal corner. And if you speak at a very, very low volume, they can hear you on the opposite side. Yeah, yeah. And if they speak, you can hear them. And what's wild is there's a lot of noise in the environment. This is Grand Central Station. Yeah, yeah.
+
+01:18:10.146 --> 01:18:38.430
+And we played with this a little bit, like high-frequency sounds do seem to travel a little bit better in this environment. In that particular setting, yeah. Because if one person laughs, you can hear it very clearly. But you can whisper, and they'll hear you. And they're 25 feet away in a major city with a ton of city noise. Right. And so obviously the sound waves are traveling along the ceiling. On that parabola, yeah. And it's just, it's a...
+
+01:18:38.850 --> 01:19:05.662
+Yeah, no pun intended. It's a mind bend to experience sound coming from a distance far away, not through a device that is clearly being spoken at a low level, like a whisper, but you can hear it. In the same way that it always weirds me out when I'm in San Diego in the winter and the days are short, but it's like 80 degrees. Yeah.
+
+01:19:05.954 --> 01:19:28.894
+Like when days are short, it's supposed to be colder. Yes. Love San Diego. Yes. Great tacos, great people. But they're always talking about tacos down there. But it's so strange to be in a short day where it's hot. Yes. Because even if I go visit my relatives in Argentina who experience Christmas in the summer, the days are long and it's hot.
+
+01:19:29.346 --> 01:19:57.534
+And it's Christmas and Santa Claus is supposed to be in a sleigh in the snow, but that's a whole different thing. Okay, yeah. But there's something about the way our nervous system is mapped where we expect soft sounds to not travel very far. Sure, sure. The opposite would be like shouting and your voice just disappears, even though the person's right in front of you. It is so weird. And I feel like people should experience this naturally occurring experiment. Yeah, yeah. Because you walk away from that understanding sound,
+
+01:19:57.954 --> 01:20:26.974
+intensity and frequency and localization completely differently. It changed the way I think about this and it has nothing to do with being a neuroscientist. Like, that's crazy. I can hear a whisper from 25 feet away and I wondered, is this what it's like to be a wolf? That would be really cool. It would also be really irritating because you don't want to hear all the things that people are saying all the time. Right, right. I mean, this is one of the problems with hearing aids to amplify everything. It's not replacing what your brain does. It's not replacing what your ear normally does.
+
+01:20:27.266 --> 01:20:51.262
+Yeah, it's such a mind bend and it's so cool. And if you provide you're in New York, it costs nothing to do it. You just have to wait your turn. People are catching on to this or it's been known for a while. I'd like to get your thoughts on the opposite example where if you go into like a high ceiling cathedral church, what do high ceilings do for our perception of sound?
+
+01:20:51.522 --> 01:21:21.278
+given that there's a lot of space for the sound to travel. I'm not sure that I can add something that's really specific to that particular circumstance, but to say more generally that, you know, the sounds that we experience in a particular setting are really the combination of all of the reflective surfaces that are in that setting. And so, like, if you have a carpeted room, that's going to absorb sound on the floor. And so you're going to, it's going to take out one part of what
+
+01:21:21.634 --> 01:21:49.374
+what you would be hearing in a room that is not carpeted. And the high ceilings, I would imagine that would kind of depends on what the surfaces are on the ceiling. One thing that'll happen in that kind of setting is that the sounds that go up that way, if it's a hard surface, they'll probably bounce off and come back down, but with a long delay. And once the delays get pretty long,
+
+01:21:49.474 --> 01:22:17.566
+then you do start to hear it as a whole separate sound. Almost like an echo. Not even almost like an echo, but actually an echo. Do you think this is used to amplify aspects of the music? Yeah, maybe that's why some of the older genres of music can be a little slower. Like Maglorian chants? Yeah, longer sustained notes because you don't want to have too many transitions.
+
+01:22:17.762 --> 01:22:41.502
+from one note to the next. Gregorian chant is a wonderful example, really kind of long, slow, sustained, many different voices blending together versus a much faster like Mozart minuet or something like that. Like those notes would just jumble together with the kind of delay that we're talking about. Yeah. I mean, I think that the ability to...
+
+01:22:42.114 --> 01:23:09.182
+Localized sound we talked about, we talked about quality of sound based on high and low frequency. And I confess I'm a little fixated on this idea that when people join together in sound, that you're communicating something very important. That's the most effective way to communicate a feeling. And people will say, well, of course you go to a concert and you feel something, but in the concert,
+
+01:23:09.410 --> 01:23:38.142
+Right, you have the performers, but the audience is often singing with them. Right, I know, which is one of the most wonderful things. I recently wondered if, I was trying to think back to like the 90s and what created effective movements, and I thought maybe what we need in America right now is we need like music that actually brings people together. Yeah. Sounds really corny, but I really believe this. No, I do think that would be helpful. Maybe there's just too many different musical tastes now. Yeah.
+
+01:23:38.850 --> 01:24:06.750
+So we should start by telling people, you can't have that taste. Well, or there should be a new one, right? Yeah. And maybe it should be very, very, very primitive. I mean, the haka thing that we talked about earlier is a kind of, it's an angry intention, right? But, and this is, I guess, where people will think, like, my East Coast relatives will be like, oh, so you want us all to kumbaya? I have relatives from Jersey. So they're like, I know out there in California, you're all kumbaya. But I think that we're sort of half-joking here. So...
+
+01:24:07.362 --> 01:24:32.222
+Given the links between the emotion system and sound and joining in sound, I mean, maybe this isn't too crazy an idea. Maybe it's crazy, but who cares? We have some advantages in science that we have a comfort with argumentation, you know, with disagreeing about things, but agreeing fundamentally that we're going to
+
+01:24:32.578 --> 01:25:02.270
+where the facts lead us. Do you know what I mean? So the disagreement is about what the facts are, but we agree that if we can come to agreement about facts, then we can proceed from there. But there's a feeling that I have come to appreciate maybe isn't present in other domains, other kind of, you know, academic domains or areas of the occupations that people have that, you know, may be a little different from what we have in science.
+
+01:25:03.138 --> 01:25:32.190
+You know, and I don't want to make science seem all perfect in all regards, but I think there's a sense of like, well, you may not want to hear that I think you're wrong, but we know that, you know, those kinds of things have to be said, that you're going to have to defend your work in a peer review. When you try to get your work published, you're going to have to deal with, you know, peer review comments that you may not, you know,
+
+01:25:32.834 --> 01:26:00.958
+I certainly have had my moments where I've been like, I cannot believe somebody thought that when I wrote this. You know what I mean? But you go through that emotional period of time and you're like, oh, well, actually, it's kind of, I can see how it's actually my fault for how I wrote it. You know, that it didn't actually say what I wanted or it didn't say, didn't set up the reader to understand the point I was making. So I need to fix this. And yes, you're right that there is a hole in the,
+
+01:26:01.122 --> 01:26:29.374
+in the data here that it doesn't fully support the hypothesis the way I thought it did. And that's okay. Like it's okay not to have the story complete. It's okay not to have every detail of it right. Just acknowledge that you don't, you know, acknowledge what you think the weaknesses are. And I kind of don't see people acknowledging weakness in, let's say the political domain.
+
+01:26:29.474 --> 01:26:53.310
+Like to acknowledge, well, you know, I'd like such and such a thing, but I can see that there's a counter argument to that. How can I address that? Or should I change my mind? Yeah, I think in science we have agreements on how to evaluate strength of evidence. And like we can't just have one data point and draw a conclusion from that.
+
+01:26:53.794 --> 01:27:22.398
+We won't convince anyone, even if we're convinced. And if we are, we should check ourselves. I do have a question about the auditory system again, which is a number of people, including myself, are obsessed with trying to find what is the optimal thing to listen to. Perhaps it's nothing in order to be able to focus. And the data as I see them are basically pointing to silence.
+
+01:27:23.426 --> 01:27:51.998
+his best. And so I have a question about silence and the voice in our head. I have a question about that. But also it's very clear based on what we've discussed up until now that certain frequencies of sound actually play a role in our emotion and cognition. I will sometimes listen to white noise. There are a number of companies now that put out free content of, it's not necessarily binaural beats, but different frequencies that oscillate could be totally placebo.
+
+01:27:52.546 --> 01:28:21.406
+but I don't think so because they reference a number of studies. It looks like you can get some cognitive enhancement or focus enhancement. And I use these. There's some great, you know, study with me channels online where you sit there and you work while they work. What are your thoughts on the use of sound as a way to change brain state? Okay, so I wanna back up on this question because I think you're asking a pretty deep question. One might wonder why would that matter? Like what is actually going on in our brain
+
+01:28:21.538 --> 01:28:50.846
+that that kind of pairing would have an effect, regardless of what might turn out to be sort of the best option. And so one theory that I like to think about a lot is a theory of thought and what is actually going on in our brains when we think. And this theory is that what goes on in our brains when we think might be that we're running simulations related to the thought using that sensory motor infrastructure of the brain.
+
+01:28:51.170 --> 01:29:20.190
+you elaborate? So the theory is that like maybe when you think about a cat, for example, or you think the concept of a cat, that the mental instantiation of that or the brain mechanism instantiation of having that thought is to run a little simulation in visual cortex that kind of includes what a cat looks like. A simulation in auditory cortex that what does a cat sound like? And as I'm telling you this, I'm, you know, I've used the word cat. What color cat
+
+01:29:20.482 --> 01:29:49.630
+you thinking? I'm thinking of a gray cat, but I keep smelling kitty litter. Okay. Because my sister had cats and it drove me, the smell of kitty litter is just so aversive to me. Right. And so you had no hesitation in telling me the color and adding an additional sensory quality. So that's a, you know, it's a bit of a just so story, but I think that it's a plausible possibility that that's in fact what's happening when we think. And, you know, some of what kind of
+
+01:29:50.082 --> 01:30:14.686
+tangentially supports this is that we have many more sensory areas of the brain than monkeys do, than, you know, more distant mammalian relatives do, as if what might have happened to allow us to become so smart is to, you know, make extra copies of some of these sensory areas of the brain. And then when you have an extra copy of
+
+01:30:14.818 --> 01:30:44.510
+no longer so constrained, right? We don't really see or hear any better than monkeys do. So what's this extra tissue doing for us? The possibility is that we're using it to generate these simulations and that running these simulations is kind of what thought is. Interesting. Is it helpful? Is it adaptive? Well, it might just be the only game in town. It provides an explanation for why you might, you know, be...
+
+01:30:45.218 --> 01:31:14.078
+driving on the freeway and having to merge into difficult traffic and telling your passenger, okay, be quiet. I've got to pay attention now. Like why would speech impair you from visual motor if it wasn't all part of a kind of cognitive system that's in operation? And maybe you need to shift some resources away from processing the conversation and towards some, you know, actually dealing with the here and now situation.
+
+01:31:14.434 --> 01:31:39.006
+sensory motor task. I like this a lot and I want to continue down this thread because we've never talked about what thought is on this podcast. And I've wondered like why is it that so many of our thoughts are incomplete sentences? They're so fractured. And if you really just track your thoughts for a moment, you realize they jump around. Even if they're around some coherent
+
+01:31:40.738 --> 01:31:59.614
+framework or subject. It's predictable. Like you can see the train of thought sometimes. Like they rarely jump completely in some totally new. Sorry, I'm laughing. For some people, they really do. Do they really? They do. They do sort of like the liminal state between awake and sleep. I like to lie there right as I'm waking up.
+
+01:31:59.810 --> 01:32:28.958
+And try and stay on a thought thread. And then I'll just chuckle to myself like 30 seconds later. It's someplace completely. Gone somewhere. Because in that liminal state, you're still in a pseudo dream state. One time in my class, one of my undergraduate classes, I asked people to try to, without thinking too much, come up with a word that was totally and completely unrelated to anything that we had just been talking about. I'm going to give you a moment.
+
+01:32:29.314 --> 01:32:43.198
+Not too long. Okay. It's really tough. Isn't it hard? The first word that leapt to mind was cacophony. And it's like, no, that's directly in the framework of what we're talking about. It is, right?
+
+01:32:43.362 --> 01:33:11.262
+Damn it. And I looked at the paneling on the wall and I thought maybe it's something about, and like now I could do it. Like I'd say like lacquer or something like that. But again, it's going to be related. Yeah. It's really, really tough. And, you know, these are kids that probably have a 30,000 word vocabulary, right? That's a typical side vocabulary. And young brains. Young brains. And I had like 15 students in the class. Interesting. I think two of them came up with the word elephant. Yeah.
+
+01:33:12.098 --> 01:33:36.894
+And three of them came up with the word banana, you know, like they were clearly not random words. So I think we're talking about something extremely important now that I like your thoughts on because this is really about how the brain works. Yeah. Right. And I love the auditory system and we'll get back to it. But it's part of this larger question of how our brains work. Yeah. I'm asking about binaural beats or white noise or pink noise or brown noise.
+
+01:33:37.410 --> 01:33:58.270
+order to enhance focus. There's a lot of interest in that. But what we're really talking about is what our thoughts, how we think, and how to anchor our thinking and align it with action. And so I'm obsessed with this notion of attractor states. And the way I think about this, tell me if I have this wrong, is I think about
+
+01:33:58.562 --> 01:34:28.478
+brain states as very context dependent, especially nowadays with the amount of information we're being bombarded with through our phones. And because a walk from the car to your desk or a walk from the car to your first meeting is a very different experience with a phone than it was like 20 years ago. Oh, totally. And people who are younger than me won't know what we're talking about. They're going to be like, what are you talking about? You were always in community. No, that's not how it was. But the way I think about the brain is that
+
+01:34:29.410 --> 01:34:58.718
+My thinking is more or less like a ball bearing on a flat surface. And the more fatigued I am, the more unbalanced that surface is. But assuming I've slept well and I'm hydrating, caffeinated and satisfied, I don't have some like basic need, like having to go to the bathroom or gnawing hunger or need for a coffee. I'm like a ball bearing on a flat surface. And that flat surface is relatively stable. Now, as I move into something like a discussion of this podcast or I'm
+
+01:34:58.882 --> 01:35:27.454
+reading something, the dimples start to form on that surface. And so that ball bearing can rest, but you can still nudge it out pretty easily. But that as I go further and further into an activity, it becomes a trench and that ball bearing sinks to the bottom of that trench. And Christophe Koch, who was here recently, said, you know, the flow state that we all want so badly is where we actually forget about ourselves because we're so deeply in that state of doing. I think he's right. And I think that
+
+01:35:27.586 --> 01:35:55.198
+Many people think that they have ADHD. Many people think that they can't concentrate. I actually believe there are some people with clinically diagnosable ADHD, but that most people are just not allowing themselves a narrow enough set of sensory inputs and context to drop into that trench. And yet it's the thing that feels so good. It does. When we're in it and when we emerge from it, we're like, oh.
+
+01:35:55.426 --> 01:36:23.102
+Like, that's what we're supposed to do. And so what you described in the classroom where your students can't even come up with a word unrelated to the conversation is one of these attractor states. Yeah. Is that – I mean, where does that sit with you? Yeah, I think that sounds good to me. And I think I, too, share an interest in, like, how to get myself into that flow state and what to do when I have sort of bottomed out in, like, one particular – like, I get –
+
+01:36:23.298 --> 01:36:50.078
+I might be in flow and making good progress on something and then I get stuck and I stop. And I find that changing my immediate environment is a good way to get out of that little rut. So for example, if I'm working on a difficult piece of writing, I might get to the end of what I can achieve in one particular cafe. But if I go to another cafe...
+
+01:36:50.786 --> 01:37:17.246
+This is a very smart strategy. Actually, a neuroscientist whose work I really admire and I also really enjoy as a person is Marla Feller at UC Berkeley. And I think she was the one that told me that at scientific conferences, which can go on for two or three days, and sometimes the sessions are very long. You have morning, afternoon, evening sessions. It's a lot. It's a lot. Lots to pay attention to, a lot of sitting. She would move seats around the- I do that too.
+
+01:37:17.538 --> 01:37:45.054
+around the auditorium because she swore that it, I think it was Marla. Marla, if it wasn't you, forgive me. But I think it was Marla. She would move seats so that she could always anchor her attention for each talk or set of talks. Not necessarily, you know, moving every moment, but every hour or so. I think this is absolutely right. And so I wonder whether or not some of these effects of binaural beats or other frequencies improving focus has to do with
+
+01:37:45.442 --> 01:38:13.726
+Just needing to fill the auditory sensory space. That could be. Like if I go, I have this, I work in my basement now. I've set up my basement as like the ideal work environment. No phones, no internet. Don't allow it. When I go down there, it's just me and my thoughts. I do allow some music. But when I get down there, the first 10, 15 minutes are excruciating. Like you can hear every distracting thought. I can think of a million things that I would...
+
+01:38:14.370 --> 01:38:36.542
+just pop to mind. But after about 10, 15 minutes, that all fades away. And I can work down there for hours. Like no one can find me down there. I love it. I've had to create this physical space because nowadays there's just so much infiltration through devices. So I wonder, you know, for some people, they think they can't focus, but that
+
+01:38:36.674 --> 01:39:02.718
+There's a sensory space that needs filling. Yeah, they maybe haven't figured out how they need to hack themselves. And I think that one reason why I haven't specifically answered your question yet is because I think the answer may be specific to the individual. So for me, for music, I like to listen to music while I work, but I do it sometimes, but not other times. But as a musician myself...
+
+01:39:02.818 --> 01:39:31.870
+the music can't be too interesting to me. Like it has to be either stuff I know really well already so that it's not like grabbing my attention to actually listen to the song or it should be classical music or something that doesn't have lyrics so I don't have that language intrusion to my thoughts. Sometimes I find it useful to make a playlist for a particular project so that those songs start to become a cue. Mm-hmm.
+
+01:39:32.354 --> 01:40:01.246
+working on that project. So I don't think there's going to be one answer that fits all circumstances, but to maybe have an understanding of what works for the particular person, the particular project. There's some very interesting data coming out of Mark Desposito's lab. We've had him on the podcast before about dementia and ways to improve working memory, which seems to be more of a dopamine thing. But if you can augment...
+
+01:40:01.346 --> 01:40:28.990
+you can improve attention. It's just so clear, like that these forebrain structures like nucleus basalis that are releasing acetylcholine, they're necessary but not sufficient to establish an attentional spotlight. The reason I was gonna mention this context is that the cortex is rich with the nerve endings of these acetylcholine releasing neurons. The colliculus has,
+
+01:40:29.090 --> 01:40:56.382
+acetylcholine input. And it seems like any multi-sensory area of the brain where you need to integrate vision and sound and context and thinking and all this stuff and intention and action, you have norepinephrine to raise overall alertness in the brain and body. That seems to be its general function. Dopamine does many different things in different areas, as you know, but it seems like acetylcholine is the thing that really creates this ability for attentional spotlighting. That...
+
+01:40:56.898 --> 01:41:18.910
+Being able to anchor one's thoughts and actions towards a specific set of sensory combinations. And so when we talk about listening to music or not listening to music or one particular space or another space that one works in, I think so much of it is trying to, you know, we're trying to create these spheres of attention that are very compact.
+
+01:41:19.522 --> 01:41:49.278
+And I don't think that people really appreciate just how hard that problem becomes when you take a device. I'm not anti-phones. And you're bringing in another sphere of, what, 25,000 different spheres of attention that you can scroll through. It makes perfect sense why we wouldn't be able to focus. Because acetylcholine is like a resource that we spend out and it can be replenished in sleep. You said you'll hit a flow state or a focus state and then it's a switch.
+
+01:41:49.698 --> 01:42:12.766
+Or you hit a wall. Yeah. And I feel like it's a currency. Yeah. It's not something that we should be able to just use infinitum. So I think a theme of some of your podcast episodes involves physical exercise and workouts and what's the best routine for this, that or the other aspect of the workout.
+
+01:42:12.898 --> 01:42:41.982
+And generally interval training, I think, comes up as a pretty effective strategy. I sometimes think about that in the context of more mental work because I have not had good luck screening out all the distractions to get going on deep writing. For me, it's more like I can push out a sentence and that's so effortful that then I need to take a break.
+
+01:42:42.242 --> 01:43:09.758
+Oh, well, I feel much better now because, well, I think this is where you're going. You may find comfort in the fact that we've had some just phenomenal physical coaches on here. I mean, people are degreed in physiology and teach super high level athletes. And more than one of them has said that the attention span of the athlete in terms of ability to
+
+01:43:10.818 --> 01:43:19.774
+focus on cognitive information, tutorial and learning, even conversation directly maps onto the duration of their event.
+
+01:43:21.090 --> 01:43:48.350
+like the sprinters can pay attention for about the duration of their sprint. About 10 seconds? Okay. Well, for the 100 meter, right? You know, but they can repeat that because the sprinter will sprint and then walk and then repeat. Exactly. So it's entrainment. It's like I'll write a sentence, then I'll check one news site, then I'll write another sentence, and I'll check another news site. Love it. And if I try to just write one sentence and then another sentence and then another sentence, I get frustrated with myself. It seems like it's, I don't know. I can't
+
+01:43:48.706 --> 01:44:15.902
+I can't necessarily do it. Sometimes I can, but I've let go of working efficiently as a goal in and of itself. Was it always the case or do you think the advent of phones has made it such that you have this sort of step function? No, I've always had a problem with the internet. The phone is just the way in. But the phone actually can be helpful to me because I can...
+
+01:44:16.450 --> 01:44:40.606
+I can close all the tabs on my laptop and just have my phone be the way that I access the Internet, for example. And that allows for like a kind of a mental and physical separation where I can kind of be like, OK, now I'm doing this. OK, now I'm doing that and keep them keep them kind of separated. I'd like to take a quick break and acknowledge one of our sponsors.
+
+01:44:40.770 --> 01:44:51.102
+Element is an electrolyte drink that has everything you need and nothing you don't. That means the electrolytes, sodium, magnesium, and potassium, all in the correct ratios, but no sugar.
+
+01:44:51.234 --> 01:45:21.200
+Proper hydration is critical for brain and body function. Even a slight degree of dehydration can diminish your cognitive and physical performance. It's also important that you get adequate electrolytes. The electrolytes, sodium, magnesium, and potassium are vital for the functioning of all cells in your body, especially your neurons or your nerve cells. Drinking Element makes it very easy to ensure that you're getting adequate hydration and adequate electrolytes. My days tend to start really fast, meaning I have to jump right into work or right into exercise.
+
+01:45:21.200 --> 01:45:51.152
+To make sure that I'm hydrated and I have sufficient electrolytes, when I first wake up in the morning, I drink 16 to 32 ounces of water with an element packet dissolved in it. I also drink element dissolved in water during any kind of physical exercise that I'm doing, especially on hot days when I'm sweating a lot and losing water and electrolytes. Element has a bunch of great tasting flavors. In fact, I love them all. I love the watermelon, the raspberry, the citrus, and I really love the lemonade flavor. So if you'd like to try element, you can go to drinkelement.com slash Huberman to claim a free element
+
+01:45:51.152 --> 01:46:13.406
+sample pack with any purchase. Again, that's drink element.com slash Huberman to claim a free sample pack. I love that you're sharing this. Many people will find comfort in hearing that, you know, my podcast producer, Rob Moore, he's done multiple triathlons and he's an endurance guy. At one point in his past, he was like, really, he had
+
+01:46:13.634 --> 01:46:40.350
+a lot more muscle. He's still very like fit and strong, but he shifted over to endurance events. And this guy can work like nobody's business. He can work for hours and hours and hours and hours. And I feel like that's how I was in graduate school and as a postdoc. And I suppose I'm more of an endurance athlete with my mental work. I think maybe we should start thinking about cognition in these terms. Because after all, we're not just two people talking about work habits. Um,
+
+01:46:40.546 --> 01:47:03.518
+a neuroscientist and you study sensory integration and brain states. And I still consider myself a neuroscientist, even though I haven't gotten my hands dirty in the lab in a while. I think this is very important because I think people flagellate themselves over the fact that they couldn't pay attention to write one paragraph. And they think that
+
+01:47:03.746 --> 01:47:33.022
+therefore that means they shouldn't write or that they can't write more than one paragraph, but they may need to, it sounds like they need to create a system. I come out of the little, the little mini internet break knowing what the next sentence needs to say. Interesting. So you're really an, like an interval athlete when it comes to mental work. With the hard stuff, with the easy stuff, I can just, you know, do it. Right. But it's the, it's the sense of effortful cognition that, that,
+
+01:47:33.122 --> 01:48:02.462
+takes its own time and it just takes its time. And I don't control that. I do try to set myself up to allow the mental work to happen when I'm in the shower or in the car or whatever. So for example, if I'm going to work on a grant application with somebody and we're sharing, you know, the writing and I know I can't start until I've had a conversation with a collaborator about who's doing what and what we think this grant is going to be about, you know, I might
+
+01:48:03.426 --> 01:48:32.318
+Let that, you know, set up that meeting when there's going to be downtime afterwards. I did this just yesterday. I had a meeting yesterday morning knowing that then I was going to be on an airplane for quite a while. Knowing that without my having to do anything about it, the ideas are going to marinate. They're going to, stuff is going to be happening that I'm not aware of. And that when I come out of that, I'll probably know what I want at least the first couple of sentences to say.
+
+01:48:32.674 --> 01:49:02.206
+You trust the sort of the process of a brain state shifting back and forth. You don't fight it. You trust it. Yeah, I have to. I mean, I don't see any other way to do it, but I think it's a little like, you know, you need rest and recovery for physical exercise. And honestly, it's not like the brain and muscles are all that different from each other, right? Well, I always think of all nerve action as motor...
+
+01:49:02.658 --> 01:49:31.518
+And we could talk about that. I mean, Sherrington said, right, the final common path, the Nobel Prize winner, Sherrington, the final common path is movement. I mean, that's what we evolved to do first. And thinking is a form of movement. It is hard for people to grasp sometimes. And people perhaps can grasp it more easily in the context of songs. Certain songs sound like they're moving forward. Like it feels like a physical progression. They make you want to move. They actually inspire movement. Actually, there are very few sounds that inspire stillness.
+
+01:49:31.906 --> 01:50:00.638
+They tend to be the, you know, slow oscillatory sounds, ocean waves, things that don't have a structure. Right. They're very fractal. But to the point where you don't see that fractal structure, it just kind of breaks up and then your mind just goes into drift. The only other person I've ever met who has described embracing their mental process the same way that you have is my good friend and the, you know, he's this like world-renowned producer, Rick Rubin, who he just trusts that
+
+01:50:00.738 --> 01:50:29.854
+There are certain times of day when things are going to come to him that certain things aren't ready and they just need to marinate in sleep or in dreams. And he doesn't even really try and assign it to sleep in dreams. He just understands the process that eventually is going to emerge. He's not like, why can't I get this thing out? And so he's very, very much in flow with his own, you know, peaks and valleys and attention. Being blocked can mean you don't know yet what needs to come next. Yeah, so important for people to hear because I think,
+
+01:50:29.986 --> 01:50:59.646
+Almost everyone is trying to drop into that deep trench attractor state as quickly as possible. Right. And yet there are ways that we can do that. Maybe we talk about that for a few moments. I'd be remiss if I didn't ask about your experience as a musician. What instrument do you play? Well, I started off with fluth, you know, starting at fifth grade. Now I play the banjo and I sing. Nice. When you're doing that, do you find that your attention is anchored for the duration of the...
+
+01:51:00.898 --> 01:51:26.142
+performance or practice? Yes, especially when performing. There's a certain, like, I feel that the singing in particular can come out better in performance than it does in practice. Not always, unfortunately. The more technically challenging, you know, playing the banjo is a little hard, you know, that the adrenaline helps with the singing and hurts with the banjo, let's put it that way. Interesting. Yeah. Because adrenaline...
+
+01:51:26.434 --> 01:51:56.126
+what this like inverted U-shape thing. Like at very low levels, we can't focus. At higher levels, we can focus. And if it gets too high, we're discombobulated. Right, right, right. Yeah. Right. I mean, it's just the shaking of the fingers that can be problematic. But the other problem is, you know, from an attention music performance standpoint, I would much prefer to sing a given song only once in a rehearsal than to go over it more than once because I can't remember the words the second time through. Interesting.
+
+01:51:56.258 --> 01:52:20.542
+And I think it's this mental checklist of I already did I already sing that? I remember saying I remember singing that. But no, wait a sec. But now I have to sing it again, you know, and just kind of keeping track of where I'm at gets harder the second time through. Pressure is an interesting thing to explore in this context of brain states, because it sounds like you've embraced pressure.
+
+01:52:21.026 --> 01:52:50.878
+kind of oscillatory flow of your attention, like in one context it works this way, and you're not pressuring yourself to do something. There was a really interesting paper recently about the neural basis of choking, and not physically choking, but when something really critical is on the line, what happens? Did you see that paper? I thought it was... I have not, but like, yeah. It's really cool. They record from motor cortex and a bunch of other areas, but the basic finding is that if...
+
+01:52:51.394 --> 01:53:19.102
+there's the potential for a low payoff if you get something right. Let's just say it's like throwing darts, which the analogous experiment would be like throwing darts. You say, well, let's say you get on the dartboard, you get a dollar. If you get close within a certain distance of the bullseye, you get, I don't know, a thousand dollars. Pretty good. If you bullseye, you get $10 million. What ends up happening is that the performance on the high stakes condition
+
+01:53:19.778 --> 01:53:47.390
+is always worse, but just in terms of even the basic mechanics. Yeah. And so choking turns out to be a recruitment of too many motor units. You basically, you overinvest motor effort as opposed to staying chill and staying in the zone. Try too hard. You still might not bullseye. This wasn't the exact experiment, but again, it's analogous to what they really did. But you stand a much greater chance if you stay within the, your ability, you already know how to do this thing.
+
+01:53:47.842 --> 01:54:17.822
+And subjects choke when the stakes go way up because they just overinvest too much motor activity. Perfectionism. It's a trap. You have to almost mentally convince yourself that the stakes are lower, but you can't really lie to yourself. Anyway, it's pretty interesting. It's pretty interesting. I love that we're talking about brain states and sensory inputs. In this case, it's knowledge about outcomes, potential outcomes. I want to talk about chickens. Yes. Yes.
+
+01:54:18.210 --> 01:54:39.102
+You have chickens. I do. And so first I'll ask you about chickens and what you find so interesting about them. And then I want your thoughts about a really wild, wild finding about chickens and vision and attention. Okay. That anyone who's ever raised chickens on a farm probably knows.
+
+01:54:39.778 --> 01:55:07.070
+only a couple of neuroscientists know. You'll probably know it, but anyway. What kind of chickens do you have? I have Bantam Mehlfleurs. So Bantam means little guys? They're little guys, yep. Mehlfleurs. Mehlfleur. How big are the eggs? They're half the size of a standard grade A large egg from the supermarket. Are they tasty? Very tasty. Okay. How many does it take to make a decent-sized omelet? Well, double the number that you would normally put in. Okay, so for me it would be like eight.
+
+01:55:07.202 --> 01:55:35.230
+Yeah. Okay. So when did you start raising chickens? So I had Bantams when I was a kid. I live in Chapel Hill and around 2012 or so, maybe 2011, the town changed its zoning laws to allow chickens in the kind of neighborhood that I live in. So I'm like, okay, this is what we're going to do. My husband's allergic to dogs and cats and anything with fur. So, you know, chickens were kind of
+
+01:55:35.490 --> 01:56:01.310
+option. I suppose we could have gotten rabbits and kept them outside. Or a hairless cat. You know, I won't say that we didn't have that discussion, but it didn't go anywhere. You know, you're committing. I got a friend. They're sweet. They're like little monkeys. They're always crawling up people. Well, they really, I do know, have met a hairless cat. And I do think that they have lovely personalities, you know, extrapolating from this end of one, you know, because they don't look so great. So they can't get by on their looks. Yeah.
+
+01:56:01.474 --> 01:56:30.878
+Oh, my goodness. This is funny. Oh, dear. No, no, no. I totally, I buy it. Yeah. Yeah. So they're very, you know, very pleasant personality, I think. And the warmth of them, because you really feel the warmth of their skin. But anyway, so chickens it was and is. And I like the bantams because they really have a lot of personality. You know, they haven't been bred to be egg layers. They've been bred to be pets. And so they have a certain, you know,
+
+01:56:31.618 --> 01:57:01.086
+using personality and interest in interacting with people that I think might be different from standard kind of farm chickens. Well, I have a non-invasive experiment for you to try. Okay. Some years ago, I got very interested in the relationship between vision and brain states. And there's some interesting literature about the fact that when we view horizons, especially from a vista, that it...
+
+01:57:01.218 --> 01:57:30.174
+relaxes our autonomic nervous system. We go into a more parasympathetic mode. And it turns out when we view horizons, our eyes naturally go into panoramic vision. We're not foveating to one. That's nerd speak, by the way, neuroscience nerd speak to, we're not focusing on one particular point. If you track one particular point, you obviously do a smooth pursuit of that point with your eyes. But then you just go to a vista, you look at a horizon, your eyes naturally just dilate.
+
+01:57:30.274 --> 01:57:56.766
+as we say, right? But it's panoramic vision. Whereas when we do a virgin's eye movement, bring our eyes together at a particular point, there's this really interesting increase in the output of areas like locus coeruleus that are involved in attention or epinephrine. I thought this is really wild. And, you know, I was interested in respiration and brain states and like, oh, cool. Like maybe we're just staring into little boxes too much. And that's why we feel like so attentionally exhausted, depleted.
+
+01:57:57.186 --> 01:58:27.166
+Makes sense. Attention's a resource. Okay. I think there's some evidence now to support every one of those statements, although we need more brain recordings from humans to really get to the nitty gritty. But then my graduate advisor, who unfortunately has passed away, had told me some time ago, she said, you know, you can hypnotize chickens. And I said, really? Because that's a lyric in an Iggy Pop song, hypnotizing chickens. And I thought, you know,
+
+01:58:27.810 --> 01:58:56.798
+wait, what? And she said, yeah, you can hypnotize chickens, but they're not really hypnotized. They're just hyper-focused. And I was like, isn't that what hypnosis is? And she's like, yeah, I guess I thought hypnosis was like a dream. Hypnosis is a state of hyper-focus. I have a colleague who does clinical hypnosis, David Spiegel. It's approved by the American Psychiatric Association. Hyper-focus. Here's what you do. And you can find this. People who grew up on farms do this. And there are videos of this on YouTube. They take a chicken,
+
+01:58:57.026 --> 01:59:23.550
+they'll hold the chicken and they'll draw a line in the dirt and they'll place the chicken's beak on the line and the chicken will just stay there for many, many, many minutes. You actually have to pick them up and kind of get them to orient to the rest of their visual field. It turns out that any birds that eat off the ground have a very complex like sensory motor challenge that my colleague the late
+
+01:59:23.874 --> 01:59:50.654
+He died of old age. So Harvey Carton told me about, which is, you know, they got this tiny beak and the seed is small. And they, you know, you and I could pick up things off a table and pretty quickly. But they're doing this with this tiny beak, but their eyes are on the side of their head. Yeah, yeah, yeah. So in order to do that, as their head descends really fast, in order to not smash their beak into the surface and make an accurate pickup of the seed or whatever it is, or bug, they...
+
+01:59:50.818 --> 02:00:14.462
+Their eyes undergo a virgin's eye movement. They shift their eyes inward and they get a little cone of attention. So when you draw a line and you focus them down, they're literally, they're stuck in that cone of attention. And then I started looking at the literature on behavioral treatments for ADHD and, or just for attention and not in this country, but in China, many schoolroom classrooms begin, begin,
+
+02:00:14.562 --> 02:00:43.678
+for the lesson with the kids literally focusing on a single spot, which seems a little bit like kind of military. But they have embraced this relationship between visual attention and overall kind of ability to cognitively focus. And chickens do it. Kids in China are doing it. And it actually has been shown to work pretty well for improving attention in, you know, the subsequent, you know, 40 minutes to an hour.
+
+02:00:43.778 --> 02:01:07.582
+That's really interesting. So our attention tends to follow our vision, not necessarily the other way around. So I've seen some of these chicken YouTube videos, but I haven't dug into it yet to try it with my own chickens, but now you're motivating me to try it. Yeah, let me know what you find. As far as you know, is the drawing of the line an important part of this?
+
+02:01:07.746 --> 02:01:33.214
+Yeah, it is. You can't just put a line down and then bring the chicken over. Yeah. So I have to look at these videos again. It's been a little while, but what they do is they, they place the chicken, the kind of beak facing down, but they're not like pushing the bird down. And then they, they, they draw the line. Starting from the beak? No, starting. I can't remember if it's starting from the beak outward or outward toward the beak. Okay. What it does is it,
+
+02:01:33.378 --> 02:02:02.814
+Harvey was the one. Okay. Harvey, the late great Harvey Cardin, I should just mention. He's, I'll put a link to an obit. He was great. He was one of the history and histories and the world's most incredible comparative neuroscientists. He also was a fire hose of information. He used to walk into my lab and just start talking about diving birds and talk. Yeah, he was one of those. But he made me seem quiet. And he explained that when they,
+
+02:02:03.010 --> 02:02:17.214
+birds which have eyes on the side of their head do this virgins eye movement. Yeah. They get locked there. So maybe it has to be away from the beak towards the beak? Probably, yeah. And it's funny because I mentioned this a few times.
+
+02:02:17.794 --> 02:02:47.422
+places before I had a podcast and people who grew up on farms were like, oh yeah, we would do that. You can actually then take the bird and flip it over. Aggressive roosters become very calm. You can work with the manageable. And so the vision drives our brain states. And I think about this a lot in the context of the phone where our vision is brought into this little box, but the number of different contexts within that box is infinite. I mean, do you find...
+
+02:02:48.450 --> 02:03:05.726
+I mean, diving into the phone thing, definitely going to try the chicken thing. Yeah, let me know. Yeah, maybe I'll make a video. I mean, blinders, like they put on horses. Yeah, yeah. Or they put on... To keep them focused. Yeah, I mean, our own falconers use these, right? The idea is you're trying...
+
+02:03:05.826 --> 02:03:31.550
+To physically make you focus on one thing. That's right. Yeah. And there's some funny pictures that you can find on X every once in a while of focusing tools from the 1930s where they would literally put kids in these helmets with just two little eye portals. And it was supposed to keep the kids that couldn't pay attention focused on their work so they wouldn't see any other kids. We think about it. It seems so silly and so barbaric. Well, I think, too, it could be helpful to...
+
+02:03:32.098 --> 02:04:00.094
+I wonder why one's attention is being drawn to other things. Because I think that, like, the most relaxed I can get these days is if I know someone else is monitoring the state of the world and will let me know if there's some major disaster. I've had to do some of that outsourcing, too. Right? But having that outsourced is super helpful because it satisfies the need to have a warning system that's
+
+02:04:00.194 --> 02:04:28.542
+going on at all times. And it allows me to kind of, you know, then focus in on, you know, what's in front of me right at the moment. I'll give you an example that's not really about attention, but it's about like, what's the best way for me to achieve a state of relaxation? So I went on a lovely rafting trip in Idaho this past summer. I have a Zolio satellite communicator. This is basically a thing that interacts with your phone and interacts with a satellite device.
+
+02:04:28.642 --> 02:04:56.446
+You can't make phone calls, but you can send and receive text messages. And I brought that along because I felt that I would probably be more relaxed knowing that if something really bad happened, people could reach me than being completely out of touch. So for me, that sort of middle space of like some contact, otherwise I'm going to be, you know,
+
+02:04:56.866 --> 02:05:26.014
+in the state of arousal when I come back out from the remote wilderness. I think about people like my niece's generation. She's late teens, about to hit her 20s, and to completely remove oneself from smartphone technology in that age bracket sets up a kind of a return to communication with others that probably involves a lot of stress. Yeah.
+
+02:05:26.114 --> 02:05:53.150
+Like, what are you going to get? It's like opening your email after a two-month vacation. Exactly. You just can't do that when you're running a lab. And then the reentry is so painful of that sort of onslaught of things and, you know, even emotional messages from people that if you read them in order, you know, and it's five or six days ago and you're like, then you see follow-up messages and things got resolved without you usually.
+
+02:05:53.346 --> 02:06:22.046
+Usually that's what happens. It so rapidly wipes out that state of calm that you can get from being out in the wilderness. Yeah, I will periodically go into the wilderness. I did this recently, and I didn't notify enough people. But I notified the critical ones, and people don't like it. No. Well, I wish we could set up an auto-reply for text messaging. That would make me feel more calm. What I'm hearing from you is that you embrace...
+
+02:06:22.210 --> 02:06:51.518
+the natural, you know, peaks and valleys in your attention, you figured out what works for you in different contexts. It's not like it's always one sentence, a break, one sentence, it really depends. And I think, you know, we hear a lot about how phones are the problem. We had Jonathan Haidt on this podcast. He's the most vocal out there. And I really support his message. So I want to be clear about that. But for many people, it's just not feasible. People with kids, people with jobs, people with, you know.
+
+02:06:51.810 --> 02:07:17.310
+outside the elementary and high school classroom. People need to be accessible if something critical comes through. And I think that's really the thing is it's just very unfiltered. And that's what is leading to so many challenges with getting real work done. I think the movement to get them out of schools is good. I felt like we as parents, we had no choice, that our children were being...
+
+02:07:17.410 --> 02:07:39.774
+was a required part of what they had to do in the classroom was to have access to the internet on something. At least recognizing that problem and being a little more thoughtful about it. And the cases where schools have decided to keep the phones all the way out of the classroom, I think, certainly that's worth trying. And let's see how it goes.
+
+02:07:39.970 --> 02:08:08.446
+I try to be aware of what am I getting from the phone at any particular moment in time or for any particular purpose. So I feel pretty good about texting with my friends and family. I feel great about using it to have access to public transit in a city that I'm not familiar with. Love that. Love it as a travel tool. Love it for, you know, booking plane flights and things like that. So convenient that I can do that.
+
+02:08:08.578 --> 02:08:32.958
+freeze up time that I would otherwise be at my computer doing some deeper work, you know, okay, now I can do that on my phone somewhere when I just have a free moment. So I love that. I think it's useful for me to try to be aware of what do I want to get out of my phone right now? And am I just bored? You know, if I'm using it because I'm just bored, that's the thing that...
+
+02:08:33.410 --> 02:08:59.966
+okay, let me see if I can swap it out for something that might be a little healthier, like listening to a podcast or listening to an audio book or reading a book on my phone or reading a book, actually a book. That can be good. I've tried to set myself up with some exit paths from being on my phone. Like, okay, yes, I will admit it's one of the first things I do in the morning. I know I should go outside and
+
+02:09:00.066 --> 02:09:28.990
+Touch grass and get some sunlight. I know, I know. Set that circadian rhythm. Well, I often wake up before it's light out, so I have to wait for that anyway. So, for example, I'll do my one or two hits on Duolingo and one or two other language apps. I'll do a couple of my favorite games on the New York Times games site. But those are usually things that, like, there's a sense of satiety. There's a sense of being finished. Like...
+
+02:09:29.506 --> 02:09:57.982
+It's not an endless scroll. I have completed one lesson. So there's a moment to get off the phone. I'd love to have an app that limited the endless scroll on social media, like an interface to social media that sort of served me maybe some designated number of posts. And then I would have to take some explicit action to get more. And that might help me get off.
+
+02:09:58.274 --> 02:10:27.326
+Yeah, based on the dopamine literature and everything I know about the brain, I decided that any activity that has a seamless on-ramp to full attention and that has no end point, you mentioned end point, is the thing to be really careful of. Yeah, yeah. So the seamless on-ramp to grabbing at full attention is
+
+02:10:27.426 --> 02:10:44.350
+It's like ball bearing from flat surface into the trench. There's no work involved. Right. And then you're there and you can stay there as long as you want. Yeah. It doesn't kick you out. You have to kick yourself out. Or life kicks you out because you didn't go do something or something happens. So that's key.
+
+02:10:44.866 --> 02:11:11.230
+So that's the slot machine analogy. Very easy to play a slot machine. And it's very easy to spend out all your money on a slot machine. And so they created this thing like where you can go get more money out of a machine, right? So you can continue playing on the other machine. And that's the same thing, but it's how seamless it is. Like you don't even need to learn the card game to gamble. You just have to know how to pull a lever, press a button. Social media is a bit the same. My solution to the social media thing is I took an old phone. I put...
+
+02:11:11.362 --> 02:11:31.678
+and Instagram on that phone. Those are the only two social media platforms I use. And if somebody sends me something on my phone, like it's social media, I can't go to it. So I have to segregate social media. I have a social media phone. And I only get a certain amount of time with it. You can't get into your social media from a browser? No.
+
+02:11:31.938 --> 02:12:01.022
+No, so like if someone sends me an Instagram post, I click on, I can't see it. I get that error signal, sign in, and I'm not signed in. You're not signed in. I don't even know my password. Okay. It's written someplace. Yeah. But I have a password generator, updates all the time anyway. Yeah, yeah, yeah. Okay, okay, I see how you would do that. So the solution was to create. To log out and then have a phone that just had those. I don't even have the apps on that phone. I would have to install the apps. I'd have to sign in. I'd have to find my password, which my team knows I'm never going to happen. Right. I'd have to.
+
+02:12:01.410 --> 02:12:28.126
+log in. So I just don't. Too many keystrokes. I just don't have access to it unless I'm on that phone. So that's great. I think that's perfect. That, I mean, it works for me. Works for you. Yeah. Works for me. But I think having systems like this is like going to be required for most people because I, I don't, I don't think anyone's going to create the app that you're looking for. I hope they do, but I don't think they're going to. Yeah. So your lab is still super productive. So when you're in the lab, presumably in
+
+02:12:28.962 --> 02:12:51.198
+interacting with students and writing grants and stuff, all this stuff falls away, right? Because inside the lab context, it's like your workshop. I'm guessing that makes it much easier. That's true. Yeah. When I'm interacting with people at work or I'm in the actual lab, it does, it all falls away. Yeah. Yeah. The cues to stay focused are very strong. I knew we were going to talk about the auditory system. Mm-hmm.
+
+02:12:51.394 --> 02:13:20.958
+we did. I knew we were going to talk about the visual system and we did, and I knew we were going to talk about their integration. What I did not expect, but I'm so delighted it happened is that you brought us into the realm of, of true multisensory integration and the extent to which our physical environment shapes the way that our brain works. And our brain is also creating its own internal environment and that we have a lot more control over that than perhaps we think, unless we just leave it to circumstances, which is really the
+
+02:13:21.890 --> 02:13:47.358
+takeaway that at least I pulled from this last portion of our conversation. So thank you so much for coming here and explaining this. We've not talked about multisensory integration before. I started off by saying that, and now we have. And I'm so glad that you were the one to introduce it to us because it's a fascinating aspect of how we work. And it's really like the core mechanics of how we work. When we talk about thinking or working or focus, we're not just talking about vision or
+
+02:13:47.522 --> 02:14:10.814
+hearing, we talked about their merge. Exactly. Thank you. That's really wonderful. And let me know how the experiment with the chickens go. Thank you so much. This has been great. Oh, I really enjoyed it. Thank you. Thank you. Thank you for joining me for today's discussion with Dr. Jennifer Groh. To learn more about her laboratory's work and to find a link to her excellent book entitled Making Space, How the Brain Knows Where Things Are, please see the show note captions.
+
+02:14:11.042 --> 02:14:41.008
+If you're learning from and or enjoying this podcast, please subscribe to our YouTube channel. That's a terrific zero cost way to support us. In addition, please follow the podcast by clicking the follow button on both Spotify and Apple. And on both Spotify and Apple, you can leave us up to a five-star review. And you can now leave us comments at both Spotify and Apple. Please also check out the sponsors mentioned at the beginning and throughout today's episode. That's the best way to support this podcast. If you have questions for me or comments about the podcast or guests or topics that you'd like me to consider for the Huberman
+
+02:14:41.008 --> 02:15:05.214
+Please put those in the comments section on YouTube. I do read all the comments. For those of you that haven't heard, I have a new book coming out. It's my very first book. It's entitled, Protocols, an Operating Manual for the Human Body. This is a book that I've been working on for more than five years, and that's based on more than 30 years of research and experience. And it covers protocols for everything from sleep to exercise, to stress control,
+
+02:15:05.410 --> 02:15:25.374
+protocols related to focus and motivation. And of course, I provide the scientific substantiation for the protocols that are included. The book is now available by presale at protocolsbook.com. There you can find links to various vendors. You can pick the one that you like best. Again, the book is called Protocols, an Operating Manual for the Human Body.
+
+02:15:25.730 --> 02:15:55.696
+And if you're not already following me on social media, I am Huberman Lab on all social media platforms. So that's Instagram, X, Threads, Facebook, and LinkedIn. And on all those platforms, I discuss science and science-related tools, some of which overlaps with the content of the Huberman Lab podcast, but much of which is distinct from the information on the Huberman Lab podcast. Again, it's Huberman Lab on all social media platforms. And if you haven't already subscribed to our Neural Network newsletter, the Neural Network newsletter is a zero-cost monthly newsletter that includes podcast summaries as well
+
+02:15:55.696 --> 02:16:21.406
+as what we call protocols in the form of one to three page PDFs that cover everything from how to optimize your sleep, how to optimize dopamine, deliberate cold exposure. We have a foundational fitness protocol that covers cardiovascular training and resistance training. All of that is available completely zero cost. You simply go to HubermanLab.com, go to the menu tab in the top right corner, scroll down to newsletter and enter your email. And I should emphasize that we do not share your email with anybody.
+
+02:16:21.634 --> 02:16:29.822
+Thank you once again for joining me for today's discussion with Dr. Jennifer Groh. And last, but certainly not least, thank you for your interest in science.

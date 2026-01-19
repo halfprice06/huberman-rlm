@@ -1,0 +1,277 @@
+WEBVTT
+
+00:00.226 --> 00:27.550
+Welcome to Huberman Lab Essentials, where we revisit past episodes for the most potent and actionable science-based tools for mental health, physical health, and performance. I'm Andrew Huberman, and I'm a professor of neurobiology and ophthalmology at Stanford School of Medicine. And now for my discussion with Dr. David Spiegel. David, thank you so much for being here. Andrew, my pleasure. Can you tell us what is hypnosis?
+
+00:27.842 --> 00:55.998
+Hypnosis is a state of highly focused attention. It's something like looking through the telephoto lens of a camera in consciousness. What you see, you see with great detail, but devoid of context. If you've had the experience of getting so caught up in a good movie that you forget you're watching a movie and enter the imagined world, you're part of the movie, not part of the audience, you're experiencing it, you're not evaluating it, that's a hypnotic-like experience that many people have in their everyday lives. If I'm watching a sports game,
+
+00:56.386 --> 01:24.638
+and I'm really wrapped up in the game, but I'm also in touch with how it makes me feel in my body, kind of registering the excitement or the anticipation. Is that a state of hypnosis also? To the extent that your somatic, your body experience is a part of the sport event that you're engaged with, I'd say that is a self-altering hypnotic experience. If your physical reactions are distracting you or make you think about something else,
+
+01:25.058 --> 01:54.174
+that's when it's less hypnotic-like and more just one of a series of experiences. I think for most people, when they hear hypnosis or they think about hypnosis, they think of stage hypnosis. Right. I think of somebody with a pendant going back and forth. Could you contrast the sort of hypnosis that you do in the clinical setting with the sort of hypnosis that a stage hypnotist does? I don't like stage hypnosis. You're making fools out of people and you're using the fact, and that's what scares people about hypnosis. They think you're losing control.
+
+01:54.466 --> 02:12.414
+you're gaining control. Self-hypnosis is a way of enhancing your control over your mind and your body. It can work very well, but because it gives you a kind of cognitive flexibility, you're able to shift sets very easily, to give up judging and evaluating the way you usually do.
+
+02:12.546 --> 02:39.166
+and see something from a different point of view. That's a great therapeutic opportunity, but if misused, it could be a danger too. And that's what scares people about it. It is that very ability to suspend critical judgment and just have an experience and see what happens. It's an ability that if people learn to recognize and understand it, can be a tremendous therapeutic tool. Do we know what sorts of brain areas are active during the induction, the
+
+02:39.682 --> 03:05.822
+let's call it the deep hypnosis, and then what's shutting off or changing as people exit hypnosis? The first is turning down activity in the dorsal anterior cingulate cortex. So the DACC is in the central front middle part of the brain, as you well know. And it's part of what we call the salience network. It's a conflict detector. So if you're engaged in work and you hear a loud noise that you think might be a gunshot,
+
+03:05.922 --> 03:34.334
+that's your anterior cingulate cortex saying, hey, wait a minute, there's a potential danger over there, you better pay attention to it. So it compares what you're doing with what else is going on and helps you decide what to do. And as you can imagine, turning down activity in that region make it less likely that you'll be distracted and pulled out of whatever you're in. So two other things happen when people are hypnotized. One is that that DLPFC has higher functional connectivity with the insula.
+
+03:34.722 --> 03:53.566
+Another part of the salience network, it's a part of the mind-body control system, sensitive to what's happening in the body, it's part of the pain network as well. But it's also a region of the brain where you can control things in your body that you wouldn't think you could. For example, we did a study years ago where we took people
+
+03:53.698 --> 04:21.726
+who were highly hypnotizable, hypnotized them and told them to imagine, we went on an imaginary culinary tour. So they would eat their favorite foods. And we found that they increased their gastric acid secretion like by 87%. So their stomach was acting as though it was about to get, I mean, there was one woman, it was so vivid for her that halfway through she said, let's stop, I'm full. You know, eating these imaginary- Having never eaten any actual food. No. Incredible.
+
+04:21.826 --> 04:39.710
+And then we got them to relax and think of anything but food or drink. And we got like a 40% decrease in gastric acid secretion. So they could, and that was DLPFC through the insula telling the stomach you're getting food or you're not getting food. And even we injected them with pentagastrin.
+
+04:40.002 --> 05:08.030
+which triggers gastric acid release. And even then in the hypnosis condition, they had a 19% reduction in gastric acid. So the brain has this amazing ability to control what's going on in the body in ways that we don't think we have ability to control. That's just one example. So that's the DLPFC insulate connection. The third thing that happens is you have inverse functional connectivity between the DLPFC and the posterior cingulate cortex. The posterior cingulate
+
+05:08.194 --> 05:33.470
+is part of the default mode network. It's in the back of the brain. And it's an area whose activity goes down, for example, in meditators. And in meditation, you're supposed to be selfless. The self is an illusion. You're supposed to let it dissolve and just experience things. And when you're doing that, the posterior thing that is decreasing in activity, the inverse connection is I'm doing something, but I'm not thinking about what it means for me.
+
+05:33.890 --> 06:00.414
+I may not even remember much of it. If I do, I don't care that much about it. And so that is part of the dissociation that occurs with hypnosis. So it's how you put things outside of conscious awareness and don't worry about what it means. It also adds to cognitive flexibility. You know, if you're thinking, well, people like me don't usually do this, that may inhibit you from enacting a new form of psychotherapy, for example, that you've never done before.
+
+06:00.514 --> 06:18.366
+But if you're having this decreased activity in the part of your brain that reflects on what it means, you're more likely to be cognitively flexible and willing to give it a try. And that's one of the therapeutic advantages of hypnosis as well. I'd like to take a quick break and acknowledge one of our sponsors, Function.
+
+06:18.498 --> 06:36.478
+Last year, I became a Function member after searching for the most comprehensive approach to lab testing. Function provides over 100 advanced lab tests that give you a key snapshot of your entire bodily health. This snapshot offers you with insights on your heart health, hormone health, immune functioning, nutrient levels, and much more.
+
+06:36.642 --> 07:06.608
+Function not only provides testing of over 100 biomarkers key to your physical and mental health, but it also analyzes these results and provides insights from top doctors who are expert in the relevant areas. For example, in one of my first tests with Function, I learned that I had elevated levels of mercury in my blood. Function not only helped me detect that, but offered insights into how best to reduce my mercury levels, which included limiting my tuna consumption. I'd been eating a lot of tuna, while also making an effort to eat more leafy greens and supplementing with NAC and acetylcysteine,
+
+07:06.608 --> 07:28.926
+both of which can support glutathione production and detoxification. And I should say, by taking a second function test, that approach worked. Comprehensive blood testing is vitally important. There's so many things related to your mental and physical health that can only be detected in a blood test. The problem is blood testing has always been very expensive and complicated. In contrast, I've been super impressed by function simplicity and
+
+07:29.058 --> 07:57.054
+at the level of cost. It is very affordable. As a consequence, I decided to join their scientific advisory board and I'm thrilled that they're sponsoring the podcast. If you'd like to try Function, you can go to functionhealth.com slash Huberman. Function currently has a wait list of over 250,000 people, but they're offering early access to Huberman podcast listeners. Again, that's functionhealth.com slash Huberman to get early access to Function. Do people with ADHD,
+
+07:57.186 --> 08:18.270
+display disruptions in elements of these networks? And has hypnosis ever been used to enhance people's ability to focus and hold attention? Because that's such a built-in component of the hypnotic state. There's sort of two ways to think about it. In terms of enhancing focus, yes, it has been very helpful in teaching people to just,
+
+08:18.402 --> 08:45.694
+prepare your mind to narrow in and focus on something. And when you're really engaged in reading something or you're writing a page, I mean, I'll have that. Sometimes I'm thinking, oh God, I have to do this for another hour. Other times, an hour will go by and I'll think, hey, great. Because when you're in it, it feels game-like to you. You're just assembling the parts of the puzzle and putting them together. It's fun. You just get absorbed. For me, that's a hypnotic-like experience. When I'm having trouble, when I'm struggling, sometimes,
+
+08:45.922 --> 09:12.542
+doing things like self-hypnosis can help. It's possible that for some people with that disorder, training and self-hypnosis might help, but we'd have to see how hypnotizable they were and take it from there. What sorts of things have you used hypnosis successfully for or have others used clinical hypnosis for? And are there any particular areas of psychiatric challenges or challenges
+
+09:12.802 --> 09:36.894
+illnesses, I guess they're called, that are particularly amenable to hypnotic treatment. Yes, there are. We found it very helpful for stress reduction. That mind-body connection is very helpful because part of the problem with stress is your perception. You mentioned it earlier in a sort of good sense. You're at a football game or something and you feel the physical reaction.
+
+09:37.154 --> 10:03.166
+that can be a reinforcing thing. Wow, this is exciting. Let's do it. It can also be very distracting. You notice it in your body. Your body tenses up. You start to sweat. The sympathetic nervous system goes. Your heart rate goes up. When you notice that, you think, oh, God, this is really bad. And then you feel worse. So it's like a snowball rolling downhill. Hypnosis can be very helpful in dissociating somatic reaction from psychological reactions. So we teach people
+
+10:03.266 --> 10:30.142
+to imagine their body floating somewhere safe and comfortable, like a bath, a lake, a hot tub, or floating in space. And then picture the problem that they're, that's stressing them on an imaginary screen with the rule that no matter what you see on the screen, you keep your body comfortable. So at this point, you can't, you still can't control the stress, but you can control your physical reaction to it. And that starts you feeling more in control. At least there's one thing I can manage. And then you can use it to think through or visualize through
+
+10:30.242 --> 10:52.926
+one thing you might do about that stressor. So hypnosis is very helpful in controlling mind-body interaction in relation to stress. It's very helpful for people to get to sleep. I'm getting emails from people who said, you know, I haven't slept right in 15 years, and now for the first time, you know, I'm listening to your app and I can sleep at night. I've been using the...
+
+10:53.090 --> 11:18.174
+self-hypnosis for sleep for a long time. And now the Reverie app, and we'll talk about our relationship to the Reverie app and its uses. I find it incredibly useful. It's a kind of a training up of these networks, right? So with repeated use of self-hypnosis, one could imagine that these networks are getting stronger. I would think so. We don't have evidence of that yet, but you know,
+
+11:18.434 --> 11:47.358
+Long-term potentiation provides a pathway, and you've described them on your program a number of times, that allow for repeated activation of a network to actually build new connections that work. And at the least, even from a learning and memory point of view, if you start to acquire memories about a problem, so one thing we use hypnosis for is treating phobias, for example. And the problem with people who have phobias, like airplane phobias or, you know, crossing a bridge or being up high,
+
+11:47.874 --> 12:17.310
+is that the more they avoid it, the more the only source of associations and memories is their fear. They don't have any good experiences with it because they avoid it. You know, it's like get back on the horse after you fall off kind of thing. And with hypnosis, if you can start people able to manage their anxiety enough that they can have more of wider array of experiences, they start to have a network of associations that isn't so negative and may even be positive. In therapy,
+
+12:17.762 --> 12:46.142
+narrative is a huge component. And in hypnosis, narrative is a huge component. So it must be that the brain state is what is really different because, you know, I think people who have trauma or phobias certainly could have a conversation about it. Some of them might freeze up, some of them might lose their articulation and so forth. But what is different about that state that combines with narrative, you think to allow,
+
+12:46.274 --> 13:04.894
+these underlying neural networks to engage or to change. I think of this as unsystematic desensitization because you're changing mental states. And I think there's more and more evidence that mental state change itself has therapeutic potential. We're seeing that with ketamine, treating depression, a dissociogenic drug,
+
+13:05.058 --> 13:32.510
+We know it every morning when we wake up, that problem, you know, you made the mistake of reading a nasty email at 11 p.m., you don't know what to do. You wake up in the morning, you think, oh, that idiot, yeah, here's what I'm going to do. So just changing mental state itself has therapeutic potential. And I think we underestimate our ability to regulate and change responses, to be cognitively, emotionally, and somatically flexible. And so...
+
+13:32.642 --> 13:56.030
+We do things, you're right, that follow similar principles of facing a problem, seeing it from a different point of view, and then find some way to reconnect to it, to substitute something that can make you feel good rather than bad, so that you activate other centers of the brain like mesolimbic reward system. And so I do that with hypnosis and you can do it much faster.
+
+13:56.482 --> 14:14.878
+People don't think they can, but they can. If you're having right now that physical experience, I'm thinking about this, but I'm not feeling as bad as I used to, that can be a powerful thing, and you can do it with hypnosis. So I had a woman came to see me who had suffered an attempted rape. It was getting dark.
+
+14:14.978 --> 14:44.798
+She was coming back from the grocery store and this guy grabs her and wants to get her up into her apartment. It's outside her apartment. And she starts fighting with him. And she winds up with a basilar skull fracture. He runs away. The cops come. Since she hadn't been raped, they left. They weren't interested. And she wanted to use hypnosis to get a better image of what this guy looked like, which is a painful, upsetting thing. So she was quite hypnotizable. I got her floating. I say, you're safe and comfortable now. Nothing can happen that will harm your body.
+
+14:44.930 --> 15:09.886
+But on the left side of the screen, I want you to picture this guy and his approaching and what's happening. And she said, I really, the light, it was getting dark. I really can't see much of his facial features. But I do recognize something I hadn't allowed myself to remember. If he gets me upstairs, he doesn't just want to rape me. He's going to kill me. And so in some ways, what you were seeing was even worse. So, you know, you're thinking...
+
+15:09.986 --> 15:38.910
+Good, Spiegel. You made her even more frightened than she was before. But as you had pointed out in your PTSD stress lecture, you've got to confront the trauma to restructure your understanding of it. So on the other side of the screen, I had her picture, what are you doing to protect yourself? And everybody in a trauma situation engages in some strategy of self-protection. You know, that's the salience network kicking in. And she said, you know what?
+
+15:39.074 --> 16:02.526
+he's surprised that I'm fighting that hard. He didn't think I would. And so she realized on the one hand that it was even worse than she thought it was, but on the other hand that she actually probably saved her life. And so it was a way of helping her restructure her experience of the trauma and make it more tolerable. So that helped with her. She didn't recognize, she couldn't identify the guy, but it helped her
+
+16:03.202 --> 16:28.670
+restructure and understand her experience. And that's something that you can do in just talking straight out psychotherapy, but sometimes you can do it a hell of a lot faster and more efficiently using hypnosis. And there is one randomized trial out of Israel that shows that adding hypnosis to PTSD treatment actually improves outcome. So it's a way of accomplishing things that we understand
+
+16:28.770 --> 16:49.598
+in the broader psychotherapy world, but much more quickly and sometimes effectively. There's one thing I might add, Andrew, and that is, you know, there's a notion, the late Gordon Bower, brilliant cognitive psychologist, one of the founders of cognitive psychology at Stanford. Gordon helped establish the concept of state-dependent memory, that when you're in a certain mental state,
+
+16:49.698 --> 17:19.199
+you enhance your ability to remember things about it. And the sort of the bad example of that is the drunk who hides the bottle and can't remember where he put it until he gets drunk again, that he's in that same mental state. People go into dissociative states when they're traumatized. So in a way, hypnosis is helping them remember and deal with the memories better because they're more in the mental state that is more like what happened. And most rape victims will tell you, I was floating above my body feeling sorry for the woman being assaulted.
+
+17:19.298 --> 17:46.846
+below. People in traumatic episodes, they just say, you know, I blank out. I don't know what's happening. I'm on autopilot. And that's a kind of self-hypnotic state. So when you use hypnosis to help them deal with the traumatic memory, you're making the state they're in right there in your office with you more congruent to the state they were likely in when the trauma happened. And I think that is part of what helps facilitate treatment of trauma-related disorders.
+
+17:47.042 --> 18:16.990
+In a way, the principle, Andrew, is like you need to reconfront a traumatic situation before you can modulate your associations to it and then figure out how you can approach that problem or how you did approach that problem from a different point of view. And I think what happens is that people are sometimes too good at being able to separate themselves from the recollection. So it's in there somewhere. It's out of sight, but it's not out of mind. It's having effects on you, but you can't deal with it. You can't reprocess it. The issue is control and hypnosis, which
+
+18:17.218 --> 18:45.726
+has this terrible reputation of taking away control is actually a superb way of enhancing your control over mind and body. We've known for a long time that there are things that we can do to improve our sleep. And that includes things that we can take, things like magnesium threonate, theanine, chamomile extract, and glycine, along with lesser known things like saffron and valerian root. These are all clinically supported ingredients that can help you fall asleep, stay asleep, and wake up feeling more refreshed.
+
+18:45.922 --> 18:55.966
+I'm excited to share that our longtime sponsor, AG1, just created a new product called AGZ, a nightly drink designed to help you get better sleep and have you wake up feeling super refreshed.
+
+18:56.130 --> 19:26.110
+Over the past few years, I've worked with the team at AG1 to help create this new AGZ formula. It has the best sleep supporting compounds in exactly the right ratios in one easy to drink mix. This removes all the complexity of trying to forge the vast landscape of supplements focused on sleep and figuring out the right dosages and which ones to take for you. AGZ is to my knowledge, the most comprehensive sleep supplement on the market. I take it 30 to 60 minutes before sleep. It's delicious by the way. And it dramatically increases both the quality and the depth of my sleep.
+
+19:26.114 --> 19:54.942
+I know that both from my subjective experience of my sleep and because I track my sleep. I'm excited for everyone to try this new AGZ formulation and to enjoy the benefits of better sleep. AGZ is available in chocolate, chocolate mint, and mixed berry flavors. And as I mentioned before, they're all extremely delicious. My favorite of the three has to be, I think, chocolate mint, but I really like them all. If you'd like to try AGZ, go to drinkagz.com slash Huberman to get a special offer. Again, that's drinkagz.com slash Huberman.
+
+19:55.874 --> 20:18.942
+it reminds me that naming is so important. You almost wonder if self-hypnosis and clinical hypnosis had been called something else that it would have been separated out from stage hypnosis in a way that would make it less scary, weird, complicated for people to embrace. But part of the reason for having this discussion is I would
+
+20:19.458 --> 20:46.878
+I've had great experiences with hypnosis. I've seen the data, you know, we're talking about a lot of clinical examples. It's incredibly powerful and it boils right down to neural brain states. And, you know, I think in the years to come, it's going to become more widespread. You've described some examples of people getting relief very quickly. How permanent are those changes? Is there a need for follow-up and then
+
+20:46.978 --> 21:08.862
+Is it necessary to work with a clinical hypnotist and is it better to do that than self-hypnosis and so on and so forth? Most people start by coming to see a clinician like me. It's better to see someone who's like has licensing and training in their professional discipline. Somebody who can really assess what your problem is and make sure that you're not talking someone into reducing their chest pain rather than getting their
+
+21:09.282 --> 21:39.038
+coronary artery problem. Because they could have a real issue there. They could, right. That hypnosis might adjust, but wouldn't deal with the deeper underlying issue. That's right. And typically when I use it with people, I often only see them once or twice or periodically, but not every week. And certainly not every day if they have a pain problem. And hypnosis is very helpful for pain. And so what I'm doing is identifying how hypnotizable they are. I give them a standard brief test of their ability to experience hypnosis.
+
+21:39.234 --> 22:06.974
+And then going through a self-hypnosis exercise with them to deal with the problem, seeing how they respond to it, and then teaching them how to do it for themselves. Now we've developed an app, Reverie, that can teach people and step them through dealing with pain, stress, focus, insomnia, and help people eat better and stop smoking. And we have elements that take about
+
+22:07.138 --> 22:34.142
+15 minutes and elements that just take one or two minutes that people can refresh and reinforce. So the- Two minute hypnosis for even one minute. Yes, yes. And we're finding that two thirds of the people find that even just the one minute refresher helps them feel better. They're reporting they feel better. So the nice thing is you will know very quickly whether it's likely to help you or not. And if it is, you can learn to do it for yourself. Is there any evidence that hypnosis or self-hypnosis can be used for dealing with obsessive thoughts?
+
+22:34.274 --> 22:59.998
+Sometimes there are some very obsessional people who just turn out not to be that hypnotizable for, and it's not random. They, you know, they tend to be so over controlling of thought. They're all busy evaluating rather than experiencing. It's kind of a balance we have to hit. And some, you know, we, sometimes we get too emotional and too absorbed and you don't, you're not with it enough to sort of see other possibilities. That can be a problem. But on the other hand, sometimes,
+
+23:00.130 --> 23:30.046
+you're too rigid and controlled and you don't let your emotions guide you to what you need to do to protect yourself or protect others. So I would say in general that people with OCD are on the less hypnotizable side of the spectrum. They're less likely to allow themselves to engage in anything. And you know, the typical example is the checking with OCD, for example. They don't remember, you know, whether they, you know, locked the door or turned off the gas in the oven and they keep going back and they keep checking. So,
+
+23:30.210 --> 23:58.270
+There, the evaluative component of the brain kind of overrides the experiential one. And sometimes people can get some benefit, but they're not a group that I would select for being the most likely to respond to self-hypnotic approaches. Could you please tell us what hypnotizability is, how it's evaluated, and what the Spiegel eye roll test is? Hypnotizability is just a capacity
+
+23:58.722 --> 24:25.886
+to have hypnotic experiences. And we have a test called the hypnotic induction profile where we give a highly structured hypnotic experience. About a third of adults are just not hypnotizable. Two thirds are about 15% are extremely hypnotizable. And we can measure that and give it a number from zero to 10. And that's very useful. People who are low to moderate hypnotizable like explanations about what you're doing, but then they can still get the benefit. So it helps me
+
+24:26.178 --> 24:55.582
+guide the nature of my treatment with these people. Now the eye roll is my father used to use an eye fixation induction. He used to say, look up at the ceiling. So that people who are listening and watching on video. So the Spico eye roll test involves looking up at the ceiling. So it's tilting the head back. I'm tilting my chin back and looking up at the ceiling now, but I'm also directing my eyes upward and my eyes are open. And then the,
+
+24:55.810 --> 25:20.062
+the eye roll test involves then closing the eyelids while the eyes are open. And whether or not the eyes roll back. And as you said, then you see sclera, the white part. That means you're very hypnotizable or moderately hypnotizable. Whereas if the eyes move down and you see iris, the colored part of the eye, as the eyes close, less hypnotizable. You're asking the brain to do something difficult,
+
+25:20.162 --> 25:49.534
+to keep the eyes up while closing the eyelid. And eye movements have a lot to do with levels of consciousness. You know, the periaqueductal gray surrounds these cranial nerve nuclei. And when we, you know, we close our eyes when we sleep, we have rapid eye movement when we dream. Most drugs that affect level of consciousness can affect eyes and eye movements, either the dilation or contraction of the pupils, depending on whether it's a stimulant or an opioid. And there's an old Zen practice called looking at the third eye.
+
+25:49.666 --> 26:18.686
+where you're looking up inside. It's like there's a third eye between the other two in your forehead. And I think it's because we're visual creatures. We're pretty pathetic from a physical point of view. Many animals can outrun us or outsmell us. Eagles could read the newsprint at 100 yards and we can't. So our major defensive sensory input is vision.
+
+26:18.914 --> 26:46.174
+But the key issue is this, that normally when we close our eyes also, we're going to sleep. You're not worried about what's going on in the world anymore. Here, you're maintaining resting alertness. So you're focusing, but you're turning inward. That's an unusual state. Normally, we close our eyes periodically. We have to. But when you close your eyes for some period of time, it's normally to go to sleep. And you're not worried about detecting risk or threat.
+
+26:46.466 --> 27:01.662
+So it's an interesting state because you're turning inward, basically. You're looking up, you're shutting your eyes, and you're allowing whatever happens outside you to happen and focusing on what's going on inward. So I think it's a signal to your brain to turn inward.
+
+27:02.242 --> 27:30.270
+Perhaps one of the most underestimated but powerful tools to improve your mental health, your physical performance, and your cognitive performance is ensuring you get enough hydration every day. The unfortunate reality, however, is that tap water often contains contaminants that negatively impact our health. So while we're trying to get great hydration, that can cause serious problems. In fact, a 2020 study by the Environmental Working Group estimated that more than 200 million Americans are exposed to PFAS chemicals, also known as forever chemicals, through drinking tap water.
+
+27:30.402 --> 27:48.990
+These forever chemicals are linked to serious health issues, such as hormone disruption, gut microbiome disruption, fertility issues, and many other health problems, some of which are just now coming to light. For all these reasons, I was thrilled when I came across Rora water filters, and now they're a sponsor of this podcast. Rora makes what I believe are the best water filters on the market.
+
+27:49.090 --> 28:10.654
+I've been using the Rora countertop system for almost a year now. Rora's filtration technology removes harmful substances, including endocrine disruptors and disinfection byproducts, while preserving beneficial minerals like magnesium and calcium. It requires no installation or plumbing, so it's extremely convenient. It's built for medical grade stainless steel, and it fits beautifully on your countertop. It's something that you would want to have in your kitchen.
+
+28:10.754 --> 28:35.102
+What's additionally impressive to me is Rora's transparency. You can find all of their independent third-party test results right on their website, and they report reduction data over the full life of the filter. If you'd like to try Rora, you can go to rora.com slash Huberman and get an exclusive discount. Again, that's Rora, R-O-R-R-A.com slash Huberman. Something that's come up a lot is this idea of getting close to the
+
+28:35.426 --> 29:05.086
+getting close to the trauma, re-experiencing it as a portal to then adjusting the response to it and rewiring something. So the troubling thing or the horrible thing is no longer as horrible to us. I've heard you say before that in terms of therapeutic approaches, it's not just about the state you get into, but whether or not you brought yourself there voluntarily. That's exactly right. So this element of deliberate self-exposure, deciding I'm going to confront the trauma,
+
+29:05.346 --> 29:25.406
+I'm going to confront the pain. I'm going to confront the insomnia. I'm going to confront the, you know, and fill in the blank and then readjusting one's emotional response right up next to that troubling thing. That seems to be the hallmark of this treatment and pretty much all treatments for getting over stuff.
+
+29:25.890 --> 29:54.686
+how does one start to think about actually dealing with something like this and avoiding the hazards of just kind of reactivating a lot of painful experiences? Because a lot of being a functional human being is also going to work each day, interacting with people and not bringing one's trauma, you know, and dumping it out all on the table or being able to just function is so crucial. So how do you think about this as a clinician? You want to find a way to feel in control of the access and to define what happened on your own terms.
+
+29:54.914 --> 30:11.550
+It's not a matter of are you exposed to something that's upsetting, but how do you handle it? What do you make of it? It's a matter of thinking about a problem in a way that leaves you feeling you understand it better, you're in more control, you can turn it off when you...
+
+30:11.714 --> 30:33.054
+when you want, you can turn it on when you want. And so we have to, in life, deal with stressful things. Mere exposure to trauma or stress, it's a part of living anyway. We can't avoid it even if we'd like to. And it's not pleasant, it's not great, but it's sometimes things you need to learn about life. And if you can find an algorithm for facing it
+
+30:33.154 --> 31:03.006
+putting it into perspective, dealing with it, you become a stronger person, not a weaker person. I can see examples in hypnosis from your descriptions of hypnosis, where you want to unify the mind-body connection, feel what you're thinking, think what you're feeling, et cetera. But I could also point to elements within the hypnotic process in which you are actively trying to uncouple those. What do you think is the adaptive way to conceptualize the mind-body?
+
+31:03.234 --> 31:30.686
+that it's a matter not of absolute control, but more control. That we need to think of our brain as a tool and our body signals as tools as well to help us understand what's going on in the world, what matters, what's important, what isn't. But also something that can be managed, not simply absorbed. And so...
+
+31:30.818 --> 31:59.774
+Hypnosis, I think, is a kind of limiting case where you can push it about as far as we can push it in terms of regulating pain. Pain is a good example of that. Obviously, you need to pay attention. If you just broke your ankle, you better pay attention to it and get help. Or you're having crushing substernal chest pain, you better do something about it. But our brain is sort of programmed to treat all pain signals as if they were novel pain signals, if it's a sudden new problem that needs to be attended to.
+
+32:00.066 --> 32:29.950
+I teach people to think of the pain and categorize it. Does the pain mean that if you put weight on this, you're going to re-injure your ankle, for example, or does it simply mean that your body is healing and the pain is a sign that gradually things are getting back to normal? And so you can modify the way you process pain based on what your brain tells you the pain means. And that's true for emotional pain as well, and particularly where I think
+
+32:30.370 --> 32:58.046
+a strategy that really helps is if you think of an interpersonal problem or a threat of something coming as an opportunity to do something to ameliorate the situation. So it's not just it's happening to you, but something that you can influence and do something about. So it's blending the receptive with the active response that I think can make a difference. So you try and process it in a way that
+
+32:58.146 --> 33:26.654
+gives you a deeper understanding of what's happening, you face it, but you also say, this is an opportunity for me to do something about it. And the minute you realistically enhance, and this doesn't mean imagine away a heart attack, it means figure out how to rehabilitate from a heart attack or a broken leg or something like that in a way that you get as much control into the situation as you can. Can children be safely hypnotized or do self-hypnosis?
+
+33:26.786 --> 33:42.334
+It's sometimes harder for them to do self-hypnosis. They need more structure to do it. You've got to share your dorsolateral prefrontal cortex with them a little bit. But yes, absolutely. Children can be very hypnotizable. And I know pediatricians who
+
+33:42.434 --> 34:06.302
+use it wonderfully all the time. They get them to focus on something else. Good dentists can use it to help kids with fear and pain. So yes, it can be very effective for children. We did a randomized trial. I have a publication in pediatrics and the paper was children having to undergo avoiding cystourethrograms. So I would meet with them and the mother the week before. We find out from the kids where they like to be.
+
+34:06.434 --> 34:36.415
+And I'd say, you're going to play a trick on your doctors. Your body's there. You're somewhere else. Go visit your friend. Go to Disneyland. Do something else. And the mother would work on this with me at the head of the table. And we found that these children were much easier to image. 17 minutes shorter procedures. And that's a long 17 minutes for a little kid. So it can be very effective with children. They're less anxious. They have less pain. And get through these difficult procedures very well. Has hypnosis ever been done for kids?
+
+34:36.514 --> 35:04.094
+like couples therapy. Are you aware of any coordinated hypnosis? I've done plenty of it in groups, not with couples. You can hypnotize large groups at once. The metastatic breast cancer, there was a group of like 10 women who would meet once a week and we would all go into hypnosis together. I didn't realize that you were hypnotizing them collectively. Yes, yes, right. Fascinating. And that, you know, if anything, I think it brings out the best in people's abilities because it's a shared social experience.
+
+35:04.322 --> 35:34.270
+and they would talk about it afterwards. And so, yes, that's absolutely doable. Yeah. Breathing itself is, you've described, is a bridge between conscious and unconscious states. Right. What is the role of respiration in shifting the brain's state during a hypnotic protocol? There are breathing patterns that may increase sympathetic arousal or may decrease. It may have been, you know, cyclic sighing seems to actually, where you have more time spent exhaling than inhaling
+
+35:34.882 --> 36:00.062
+And there's reason to believe that it induces parasympathetic activity because you're increasing pressure in the chest and therefore allowing the heart to slow down because blood is being returned to the atrium more easily. I do use it. I ask people to take a deep breath as part of the induction and then slowly exhale. And partly as a result of our research together, I'm emphasizing the slow exhale more
+
+36:00.514 --> 36:28.734
+as part of an, to enhance the idea in the induction that this is a period of relaxation, because I think they are inducing that and perhaps perceiving it as well. So there's no, you're absolutely right that breathing is very interesting because it's right at the edge of conscious and unconscious control, that it will go on automatically, but we can control it. And so it's a kind of way for us to demonstrate to ourselves,
+
+36:28.962 --> 36:58.110
+greater ways of modulating our internal state. So you can either do it thinking about it the way we do with pain control and hypnosis, or you can do it to some extent by taking charge of your breathing and doing things that will produce a change that you want to see happen in your body. Great. I'm really excited to see where all of this goes. Yes. Breathing, vision, bodily states, am I missing any other ingredients? Typically, you're in a physically relaxed state.
+
+36:58.690 --> 37:27.966
+But frankly, there are people at the peak of performance, including physical, athletic performance or musical performance, when they're in hypnotic states too. I've talked to classical pianists who say, if I start thinking about what my fingers are doing now, I screw up. I'm floating above the piano thinking about the tone that I want to feel exuding from the instrument. So that's a hypnotic-like state too. And many athletes who are in peak performance are just
+
+37:28.290 --> 37:57.054
+flowing with it. They're not thinking step by step, what am I doing? And that's when you're doing your best. Or, you know, when we're working or giving a talk and doing it well, we're in a hypnotic-like state. So it doesn't, it usually requires, but doesn't necessarily require physical comfort or quietness. It can sometimes be intense activity. Where can people learn
+
+37:57.186 --> 38:17.086
+more about how they can get hypnotized. We mentioned Reverie, we will put a link to it. It's R-E-V-E-R-I.com is the way to access that. Or it's the Reverie app from the app store is the other way. Download the Reverie app from the app store. Great. Is there a centralized resource that people can go to to find really
+
+38:17.570 --> 38:46.174
+well-trained hypnotists? There are two good professional organizations that will help you with that. One is the Society for Clinical and Experimental Hypnosis. And I think that's S-C-E-H dot U-S. And the American Society for Clinical Hypnosis. And they both provide referral services for professionals. In general, look for someone who is licensed and trained in their primary professional discipline, psychiatry, psychology, medicine, dentistry,
+
+38:46.274 --> 39:14.046
+and who has training and interest in using hypnosis is a way to do it. Great. First of all, thank you so much for being here today, for sharing your knowledge. I hope we can do it again and again. I hope so. It's an incredible thing that in this world where we are discovering so much about how the body works, you know, the mind is still rather mysterious and people are struggling with a lot of things, but also I think people are really excited about applying tools like hypnosis to
+
+39:14.370 --> 39:33.406
+perform better, feel better mentally and physically. And so you've pointed us to a tremendous amount of resources and how these tools work and where they've already been demonstrated to work. So just thank you. I know this is your life's professional commitment in life and we all benefit. Thank you very much, David.

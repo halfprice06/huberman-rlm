@@ -1,0 +1,283 @@
+WEBVTT
+
+00:00.226 --> 00:25.790
+Welcome to Huberman Lab Essentials, where we revisit past episodes for the most potent and actionable science-based tools for mental health, physical health, and performance. I'm Andrew Huberman, and I'm a professor of neurobiology and ophthalmology at Stanford School of Medicine. This podcast is separate from my teaching and research roles at Stanford. Today, we're going to talk about chemical sensing. We're going to talk about the sense of smell
+
+00:26.114 --> 00:49.022
+our ability to detect odors in our environment. We're also going to talk about taste, our ability to detect chemicals and make sense of chemicals that are put in our mouth and into our digestive tract. And we are going to talk about chemicals that are made by other human beings that powerfully modulate the way that we feel, our hormones, and our health.
+
+00:49.218 --> 01:14.206
+Now that last category are sometimes called pheromones. However, whether or not pheromones exist in humans is rather controversial. There actually hasn't been a clear example of a true human pheromonal effect, but what is absolutely clear, what is undeniable is that there are chemicals that human beings make and release in things like tears onto our skin,
+
+01:14.306 --> 01:26.142
+and sweat and even breath that powerfully modulate or control the biology of other individuals. There are things floating around in the environment, which we call volatile
+
+01:26.466 --> 01:55.454
+So when you actually smell something, like let's say you smell a wonderfully smelling rose or cake, yes, you are inhaling the particles into your nose. They're literally little particles of those chemicals are going up into your nose and being detected by your brain. Other ways of getting chemicals into our system is by putting them in our mouth, by literally taking foods and chewing them
+
+01:55.554 --> 02:17.502
+or sucking on them and breaking them down into their component parts. And that's one way that we sense chemicals with this thing, our tongue. So these chemicals, we sometimes bring into our body, into our biology through deliberate action. We select a food, we chew that food and we do it intentionally. Sometimes they're coming into our body
+
+02:17.634 --> 02:45.374
+through non-deliberate action. We enter an environment and there's smoke and we smell the smoke and as a consequence, we take action. Sometimes, however, other people are actively making chemicals with their body. Typically, this would be with their breath, with their tears, or possibly, I want to underscore possibly, by making what are called pheromones, molecules that they release into the environment, typically through the breath, that
+
+02:45.474 --> 03:15.134
+enter our system through our nose, our eyes, or our mouth that fundamentally change our biology. I'll just give an example, which is a very salient and interesting one that was published about 10 years ago in the journal Science, showing that humans, men in particular in this study, have a strong biological response and hormonal response to the tears of women. What they did is they had women, and in this case, it was only women,
+
+03:15.426 --> 03:40.382
+for whatever reason, cry and they collected their tears. Then those tears were smelled by male subjects or male subjects got what was essentially the control, which was the saline. Men that smelled these tears that were evoked by sadness had a reduction in their testosterone levels that was significant.
+
+03:41.026 --> 04:10.398
+They also had a reduction in brain areas that were associated with sexual arousal. They actually recruited subjects that had a high propensity for crying at sad movies, which was not all women. What they were really trying to do is just get tears that were authentically cried in response to sadness, as opposed to putting some irritant in the eye and collecting tears that were evoked by something else, like just having the eyes irritated. Nonetheless, what this study
+
+04:11.074 --> 04:41.054
+illustrates is that there are chemicals in tears that are evoking or changing the biology of other individuals. Now, I didn't select this study as an example because I want to focus on the effects of tears on hormones per se, although I do find the results really interesting. I chose it because I wanted to just emphasize or underscore the fact that chemicals that are made by other individuals are powerfully modulating our internal state.
+
+04:41.186 --> 04:59.006
+And that's something that most of us don't appreciate. I think most of us can appreciate the fact that if we smell something putrid, we tend to retract, or if we smell something delicious, we tend to lean into it. But there are all these ways in which chemicals are affecting our biology and interpersonal
+
+04:59.298 --> 05:26.686
+communication using chemicals is not something that we hear that often about, but it's super interesting. So let's talk about smell and what smell is and how it works. I'm going to make this very basic, but I am going to touch on some of the core elements of the neurobiology. So here's how smell works. As many of you know, I've been taking AG1 daily for more than 13 years. However, I've now found an even better vitamin mineral probiotic drink. That new and better drink is
+
+05:27.138 --> 05:37.982
+the new and improved AG1, which just launched this month. This next gen formula from AG1 is a more advanced clinically backed version of the product that I've been taking daily for years.
+
+05:38.082 --> 05:58.078
+It includes new bioavailable nutrients and enhanced probiotics. The NextGen formula is based on exciting new research on the effects of probiotics on the gut microbiome. And it now includes several specific clinically studied probiotic strains that have been shown to support both digestive health and immune system health, as well as to improve bowel regularity and to reduce bloating.
+
+05:58.178 --> 06:28.144
+As someone who's been involved in research science for more than three decades and in health and fitness for equally as long, I'm constantly looking for the best tools to improve my mental health, physical health, and performance. I discovered and started taking AG1 way back in 2012, long before I ever had a podcast, and I've been taking it every day since. I find that it greatly improves all aspects of my health. I just feel so much better when I take it, and I attribute my ability to consistently work long hours over all these years while also maintaining a full life, having tons of
+
+06:28.144 --> 06:43.646
+energy, sleeping well, not getting sick, et cetera, in large part to AG1. And of course I do a lot of things. I exercise, I eat right, et cetera. But with each passing year, and by the way, I'm turning 50 this September, I continue to feel better and better. And I attribute a lot of that to AG1.
+
+06:43.778 --> 07:13.744
+AG1 uses the highest quality ingredients in the right combinations, and they're constantly improving their formulas without increasing the cost. So I'm honored to have them as a sponsor of this podcast. If you'd like to try AG1, you can go to drinkag1.com slash Huberman to claim a special offer. Right now, AG1 is giving away an AG1 welcome kit with five free travel packs and a free bottle of vitamin D3 K2. Again, go to drinkag1.com slash Huberman to claim the special welcome kit with five free travel packs and a free bottle
+
+07:13.744 --> 07:43.166
+of vitamin D3 K2. Smell starts with sniffing. Now that may come as no surprise, but no volatile chemicals can enter our nose unless we inhale them. If our nose is occluded or if we're actively exhaling, it's much more difficult for smells to enter our nose, which is why people cover their nose when something smells bad. Now, the way that these volatile odors come into the nose is interesting. The nose,
+
+07:43.394 --> 08:09.790
+has a mucosal lining, mucus, that is designed to trap things, to actually bring things in and get stuck there. At the base of your brain, so you could actually imagine this, or if you wanted, you could touch the roof of your mouth, right above the mouth, about two centimeters is your olfactory bulb. The olfactory bulb is a collection of neurons, and those neurons actually extend out of the skull, out of your skull.
+
+08:09.922 --> 08:38.302
+into your nose, into the mucosal lining. So what this means in kind of a literal sense is that you have neurons that extend their little dendrites and axillary-like things, their little processes as we call them, out into the mucus, and they respond to different odorant compounds. Now the olfactory neurons also send a branch deeper into the brain, and they split off into three different paths.
+
+08:39.042 --> 08:59.742
+So one path is for what we call innate odor responses. So you have some hardwired aspects to the way that you smell the world that were there from the day you were born and that will be there until the day you die. These are the pathways and the neurons that respond to things like smoke,
+
+09:00.290 --> 09:18.174
+which as you can imagine, there's a highly adaptive function to being able to detect burning things because burning things generally means lack of safety or impending threat of some kind. It calls for action. And indeed these neurons project to a central area of the brain called the amygdala,
+
+09:18.306 --> 09:45.022
+which is often discussed in terms of fear, but it's really fear and threat detection. You also have neurons in your nose that respond to odorants or combinations of odorants that evoke a sense of desire and what we call appetitive behaviors, approach behaviors that make you want to move toward something. So when you smell a delicious cookie or some dish that's really savory that you really like,
+
+09:45.122 --> 10:13.406
+That's because of these innate pathways, these pathways that require no learning whatsoever. Now, some of the pathways from the nose, these olfactory neurons into the brain are involved in learned associations with odors. Many people have this experience that they can remember the smell of their grandmother's home or the smell of particular items baking or on the stove,
+
+10:13.794 --> 10:32.990
+in a particular environment. Typically these memories tend to be of a kind of nurturing sort of feeling safe and protected. But one of the reasons why olfaction, smell is so closely tied to memory is because olfaction is the most ancient sense that we have. So we have pathway for innate,
+
+10:33.634 --> 11:01.118
+responses and a pathway for learned responses. And then we have this other pathway and in humans, it's a little bit controversial as to whether or not it sits truly separate from the standard olfactory system or whether or not it's its own system embedded in there, but that they call the accessory olfactory pathway. Accessory olfactory pathway is what in other animals is responsible for true pheromone effects. For example,
+
+11:01.218 --> 11:28.990
+in rodents and in some primates, including mandrills. If you've ever seen a mandrill, they have these like big beak noses things. You may have seen them at the zoo. Look them up if you haven't seen them already. M-A-N-D-R-I-L-S, mandrills. There are strong pheromone effects. Some of those include things like if you take a pregnant female rodent or mandrill, you take away the father that created those
+
+11:29.858 --> 11:57.822
+fetuses or fetus, and you introduce the scent of the urine or the fur of a novel male, she will spontaneously abort or miscarry those fetuses. It's a very powerful effect. Another example of a pheromone effect is called the Vandenberg effect, named after the person who discovered this effect, where you take a female of a given species that has not entered puberty,
+
+11:57.986 --> 12:24.798
+you expose her to the scent or the urine from a sexually competent, meaning post pubertal male, and she spontaneously goes into puberty earlier. So something about the scent triggers something through this accessory olfactory system. This is a true pheromonal effect and creates ovulation, right? And menstruation or in rodents, it's an estrus cycle, not a menstrual cycle.
+
+12:26.018 --> 12:48.446
+This is not to say that the exact same things happen in humans. In humans, as I mentioned earlier, there's chemical sensing between individuals that may be independent of the nose, but those are basically the three paths by which smells, odors impact us. So I want to talk about the act of smelling. And if you are not somebody who's very interested in smell,
+
+12:49.090 --> 13:18.910
+but you are somebody who's interested in making your brain work better, learning faster, remembering more things, this next little segment is for you because it turns out that how you smell, meaning the act of smelling, not how good or bad you smell, but the act of smelling, sniffing and inhalation powerfully impacts how your brain functions and what you can learn and what you can't learn. Noam Sobel's group, originally at UC Berkeley and then at the Weitzman Institute has
+
+13:19.234 --> 13:48.542
+published a number of papers that I'd like to discuss today. One of them, human non-olfactory cognition, phase locked with inhalation. This was published in Nature Human Behavior, an excellent journal. As we inhale, what this paper shows is that the level of alertness goes up in the brain. And this makes sense because as the most primitive and primordial sense by which we interact with our environment and bring chemicals into our
+
+13:48.642 --> 14:16.958
+our system and detect our environment, inhaling is a cue for the rest of the brain to essentially to pay attention to what's happening, not just to the odors. As the name of this paper suggests, human non-olfactory cognition, phase locked with inhalation. What that means is that the act of inhaling itself wakes up the brain. It's not about what you're perceiving or what you're smelling.
+
+14:17.986 --> 14:44.638
+And indeed sniffing as an action, inhaling as an action has a powerful effect on your ability to be alert, your ability to attend, to focus, and your ability to remember information. When we exhale, the brain goes through a subtle, but nonetheless significant dip in level of arousal and ability to learn. How should you use this knowledge? Well, you could,
+
+14:44.994 --> 15:11.198
+and I think this would be beneficial for most people to focus on nasal breathing while doing any kind of focused work that doesn't require that you speak or eat or ingest something. There is a separate paper published in the Journal of Neuroscience that showed that indeed if subjects, human subjects are restricted to breathing through their nose, they learn better than if they have the option of breathing through their mouth
+
+15:11.362 --> 15:37.406
+or a combination of their nose and mouth. Now there are other ways to wake up your brain more as well. For instance, the use of smelling salts. I'm not recommending that you do this necessarily, but there are excellent peer reviewed data showing that indeed, if you use smelling salts, which are mostly of the sort that include ammonia, ammonia is a very toxic scent, but it's toxic in a way that triggers this
+
+15:37.602 --> 16:07.454
+innate pathway, the pathway from the nose to the amygdala and wakes up the brain and body in a major way. This is why they use smelling salts when people pass out. They work because they trigger the fear and kind of overall arousal systems of the brain. This is why I think most people probably shouldn't use ammonia or smelling salts to try and wake up, but they really do work. Now inhaling through your nose and doing nasal breathing, it's going to be a more subtle version of waking up your system, of alerting your brain overall. And
+
+16:07.714 --> 16:34.270
+For those of you that are interested in having a richer, a more deep connection to the things that you smell and taste, practicing or enhancing your sense of sniffing, your ability to sniff might sound like a kind of ridiculous protocol, but it's actually a kind of fun and cool experiment that you can do. You just do the simple experiment of taking, for instance, an orange, you smell it, do 10 or 15 inhales, followed by exhales, of course, or just through the nose.
+
+16:34.786 --> 17:03.678
+not going to do all 10 or 15, and then smell it again. And you'll notice that your perception of that smell, the kind of richness of that smell will be significantly increased. So you can actually have a heightened experience of something. And that of course will also be true for the taste system. I'd like to take a quick break and thank one of our sponsors, Element. Element is an electrolyte drink that has everything you need and nothing you don't. That means the electrolytes, sodium, magnesium, and potassium in the correct ratios, but no sugar.
+
+17:03.810 --> 17:13.694
+We should all know that proper hydration is critical for optimal brain and body function. In fact, even a slight degree of dehydration can diminish your cognitive and physical performance to a considerable degree.
+
+17:13.794 --> 17:43.760
+It's also important that you're not just hydrated, but that you get adequate amounts of electrolytes in the right ratios. Drinking a packet of Element dissolved in water makes it very easy to ensure that you're getting adequate amounts of hydration and electrolytes. To make sure that I'm getting proper amounts of both, I dissolve one packet of Element in about 16 to 32 ounces of water when I wake up in the morning, and I drink that basically first thing in the morning. I'll also drink a packet of Element dissolved in water during any kind of physical exercise that I'm doing, especially on hot days when I'm sweating a lot and losing water,
+
+17:43.760 --> 18:06.558
+and electrolytes. There are a bunch of different great tasting flavors of Element. I like the watermelon, I like the raspberry, I like the citrus, basically I like all of them. If you'd like to try Element, you can go to drinkelement.com slash Huberman to claim an Element sample pack with the purchase of any Element drink mix. Again, that's drinkelement, spelled L-M-N-T, so it's drinkelement.com slash Huberman to claim a free sample pack.
+
+18:06.818 --> 18:34.782
+You also can really train your sense of smell to get much, much better. No other system that I'm aware of in our body is as amenable to these kinds of behavioral training shifts and allow them to happen so quickly. In fact, how well we can smell and taste things is actually a very strong indication of our brain health. So our olfactory neurons, these neurons in our nose that detect odors are really unique
+
+18:35.042 --> 19:01.118
+among other brain neurons because they get replenished throughout life. They don't just regenerate, but they get replenished. So regeneration is when something is damaged and it regrows. These neurons are constantly turning over throughout our lifespan. They're constantly being replenished. They're dying off and they're being replaced by new ones. This is really interesting because other neurons in your
+
+19:01.282 --> 19:30.942
+cortex, in your retina, in your cerebellum, they do not do this. They are not continually replenished throughout life, but these neurons, these olfactory neurons are, they are special. And there are a number of things that seem to increase the amount of olfactory neuron neurogenesis. There is evidence that exercise, blood flow can increase olfactory neuron neurogenesis. Although those data are fewer in comparison to things like social interactions,
+
+19:31.042 --> 19:59.678
+or actually interacting with odorants of different kinds. But what I'd like to do is empower you with tools that will allow you to keep these systems tuned up. Last time we talked about tuning up and keeping your visual system tuned up and healthy, regardless of age. Here we're talking about really enhancing your olfactory abilities, your taste abilities, as well by interacting a lot with odors, preferably positive odors, and sniffing more.
+
+19:59.810 --> 20:22.558
+inhaling more, which almost sounds crazy, but now you understand why, even though it might sound crazy, it's grounded in real mechanistic biology of how the brain wakes up and responds to these chemicals. Now, speaking of brain injury, olfactory dysfunction is a common theme in traumatic brain injury for the following reason. These olfactory neurons, as I mentioned, extend wires into the mucosa
+
+20:22.658 --> 20:52.190
+of the nose, but they also extend a wire up into the skull and they extend up into the skull through what's called the cribriform plate. It's like a Swiss cheese type plate where they're going through. And if you get a head hit that bone, the cribriform plate shears those little wires off and those neurons die. Now, eventually they'll be replaced, but there's a phenomenon by which concussion and the severity of concussion and the recovery from a head injury can actually be gauged in part
+
+20:52.290 --> 21:15.070
+in part, not in whole, but in part by how well or fully one recovers their sense of smell. So if you're somebody that unfortunately has suffered a concussion, your sense of smell is one readout by which you might evaluate whether or not you're regaining some of your sensory performance. Of course, there will be others like balance and cognition and sleep, et cetera. But I'd like to refer you to a really nice paper
+
+21:15.522 --> 21:35.358
+which is entitled olfactory dysfunction in traumatic brain injury, the role of neurogenesis. The first author is Marin, M-A-R-I-N. The paper was published in current allergy and asthma report. This is 2020. I spent some time with this paper. It's quite good. It's a review article. I like reviews if they're peer reviewed reviews. What they,
+
+21:35.458 --> 22:02.782
+and I'll just read here briefly, because they said it better than I could. Olfactory functioning disturbances are common following traumatic brain injury, TBI, and can have a significant impact on the quality of life. Although there's no standard treatment for patients with the loss of smell. Now I'm paraphrasing, post-injury. Olfactory training has shown promise for beneficial effects. But what does this mean? This means that if you've had a head injury,
+
+22:03.394 --> 22:33.246
+or repeated head injuries, that enhancing your sense of smell is one way by which you can create new neurons. And now you know how to enhance your sense of smell by interacting with things that have an odor very closely and by essentially inhaling more, focusing on the inhale to wake up the brain and to really focus on some of the nuance of those smells. As a last point about specific odors and compounds that can increase arousal and alertness, and this was simply through sniffing them, not through ingesting them.
+
+22:33.346 --> 22:56.254
+There are data, believe it or not, there are good data on peppermint and the smell of peppermint. Minty type scents, whether you like them or not, will increase attention and they can create the same sort of arousal response, although not as intensely or as dramatically as ammonia salts can, for instance. By the way, please don't go sniff
+
+22:56.354 --> 23:21.438
+real ammonia, you could actually damage your olfactory epithelium if you do that too close to the ammonia. If you're going to use smelling salts, be sure you work with someone or you know what you're getting and how you're using this. You can damage your olfactory pathway in ways that are pretty severe. You can also damage your vision. If you've ever teared up because you inhaled something that was really noxious, that is not a good thing, but it means that you have irritated the mucosal lining
+
+23:21.538 --> 23:50.526
+and possibly even the surfaces of your eyes. So please be very, very careful. Scents like peppermint, like these ammonia smelling salts, the reason they wake you up is because they trigger specific olfactory neurons that communicate with the specific centers of the brain, namely the amygdala and associated neural circuitry and pathways that trigger alertness of the same sort that a cold shower or an ice bath or a sudden surprise or a stressful text message would evoke.
+
+23:51.426 --> 24:19.870
+The systems of your body that produce arousal and alertness and attention and that cue you for optimal learning, AKA focus, those are very general mechanisms. They involve very basic molecules like adrenaline and epinephrine. Same thing actually, adrenaline, epinephrine. The number of stimuli, whether it's peppermint or ammonia or a loud blast, the number of stimuli that can evoke that adrenaline response and that wake up response are near infinite.
+
+24:20.098 --> 24:49.566
+And that's the beauty of your nervous system. It was designed to take any variety of different stimuli, place them into categories, and then evoke different categories of very general responses. Now you know a lot about olfaction and how the sense of smell works. Let's talk about taste, meaning how we sense chemicals in food and in drink. There are essentially five, but scientists now believe there may be six things that we taste alone or in combination.
+
+24:50.274 --> 25:19.742
+They are sweet tastes, salty tastes, bitter tastes, sour tastes, and umami tastes. Most of you have probably heard of umami by now. It's U-M-A-M-I. Umami is actually the name for a particular receptor that you express on your tongue that detects savory tastes. Each one has a particular group of neurons in your mouth
+
+25:20.578 --> 25:47.102
+in your tongue, believe it or not, that responds to particular chemicals and particular chemical structures. It is a total myth, complete fiction, that different parts of your tongue harbor different taste receptors. You know, that high school textbook diagram that, you know, sweet is in one part of the tongue and sour is in another and bitters in another, they are completely intermixed along your tongue. So all these receptors in your tongue make up what,
+
+25:47.522 --> 26:11.742
+are called the neurons that give rise to a nerve, a collection of wires, nerve bundles of what's called the gustatory nerve. The gustatory nerve from the tongue goes to the nucleus of the solitary tract and then to the thalamus and to insular cortex. And it is an insular cortex, this region of our cortex that we sort out and make sense of and perceive the various tastes. Now it's amazing because just
+
+26:12.290 --> 26:38.718
+taking a little bit of sugar or something sour, like a little bit of lemon juice and touching it to the tongue within 100 milliseconds, right? Just 100 milliseconds, far less than one second, you can immediately distinguish, ah, that's sour, that's sweet, that's bitter, that's umami. And that's an assessment that's made by the cortex. Now, what do these different five receptors
+
+26:38.818 --> 27:07.070
+In code for, well, sweet, salty, bitter, umami, sour, but what are they really looking for? What are they sensing? Well, sweet stuff signals the presence of energy, of sugars. And while we're all trying, or we're told that we should eat less sugar for a variety of reasons, the ability to sense whether or not a food has rapid energy source or could give rise to glucose is essential. So we have sweet receptors. The salty receptors,
+
+27:07.170 --> 27:34.046
+These neurons are trying to sense whether or not there are electrolytes in a given food or drink. Electrolytes are vitally important for the function of our nervous system and for our entire body. Bitter receptors are there to make sure we don't ingest things that are poisonous. The bitter receptors create a, what we call labeled line, a unique trajectory to the neurons of the brainstem that control the gag reflex.
+
+27:35.074 --> 28:02.718
+If we taste something very bitter, it automatically triggers the gag reflex. Putrid smells will also evoke the same neurons. The umami receptor isn't sensing savory because the body loves savory. It's because savory is a signal for the presence of amino acids. The presence of amino acids in our gut and in our digestive system and the presence of fatty acids is essential
+
+28:02.882 --> 28:32.862
+The sour receptor, why would we have a sour receptor? It's there and we know it's there to detect the presence of spoiled or fermented food. Fermented fruit can be poisonous, right? Alcohols are poisonous in many forms to our system. And the sour receptor bearing neurons communicate to an area of the brainstem that evokes the pucker response, closing of the eyes and essentially shutting of the mouth and cringing away.
+
+28:32.994 --> 28:55.518
+Now what's the sixth sense within the taste system? Not sixth sense generally, but within the taste system. What's this putative possible sixth receptor? There are now data to support the idea, although there's still more work that needs to be done, that we also have receptors on our tongue that sense fat. And that because fat is so vital for,
+
+28:55.746 --> 29:20.286
+the function of our nervous system and the other organs of our body, that we are sensing the fat content in food. I want to talk about the tongue and the mouth as an extension of your digestive tract. We are essentially a series of tubes and that tube starts with your mouth and heads down into your stomach. And so that you would sense so much of the chemical constituents of the stuff that you might,
+
+29:20.866 --> 29:45.886
+that you might want to expel and not swallow or not interact with by being able to smell it. Is it putrid? Does it smell good? Does it taste good? Is this safe? Is it salty? Is it so sour that it's fermented and is going to poison me? Is it so bitter that it could poison me? Is it so savory that, yes, I want more and more of this. Well, then you'd want to trigger dopamine. That's all starting in the mouth. So,
+
+29:47.266 --> 30:16.126
+You have to understand that you were equipped with this amazing chemical sensing apparatus we call your mouth and your tongue. And those little bumps on your tongue that they call the papillae, those are not your taste buds. Surrounding those little papillae, like little rivers, are these little dents and indentations. And what dents and indentations do in a tissue is they allow more surface area. They allow you to pack more receptors. So down in those grooves are where all these little neurons and their
+
+30:16.290 --> 30:46.078
+and their little processes are with these little receptors for sweet, salty, bitter, umami, sour, and maybe fat as well. Remember, even though we can enjoy food and we can evolve our sense of what's tasty or not tasty, depending on life decisions, environmental changes, et cetera, the taste system, just like the olfactory system and the visual system was laid down for the purpose of moving towards things that are good for us and moving away from things that are bad for us. That's the kind of core function of the nervous system.
+
+30:47.106 --> 31:04.158
+I'd like to take a quick break and acknowledge our sponsor, Our Place. Our Place makes my favorite pots, pans, and other cookware. Surprisingly, toxic compounds such as PFASs or forever chemicals are still found in 80% of nonstick pans, as well as utensils, appliances, and countless other kitchen products.
+
+31:04.386 --> 31:26.558
+As I've discussed before in this podcast, these PFASs or forever chemicals like Teflon have been linked to major health issues such as hormone disruption, gut microbiome disruption, fertility issues, and many other health problems. So it's really important to try and avoid them. This is why I'm a huge fan of Our Place. Our Place products are made with the highest quality materials and are all completely PFAS and toxin-free.
+
+31:26.754 --> 31:42.910
+I especially love their titanium always pan pro. It's the first nonstick pan made with zero chemicals and zero coating. Instead, it uses pure titanium. This means it has no harmful forever chemicals and does not degrade or lose its nonstick effect over time. It's also beautiful to look at.
+
+31:43.042 --> 31:59.166
+I cook eggs in my Titanium Always Pan Pro almost every morning. The design allows for the eggs to cook perfectly without sticking to the pan. I also cook burgers and steaks in it, and it puts a really nice sear on the meat. But again, nothing sticks to it, so it's really easy to clean, and it's even dishwasher safe. I love it.
+
+31:59.330 --> 32:15.774
+and I basically use it constantly. Our Place now has a full line of Titanium Pro cookware that uses its first-of-its-kind titanium nonstick technology. So if you're looking for non-toxic, long-lasting pots and pans, go to fromourplace.com slash Huberman and use the code Huberman at checkout.
+
+32:15.906 --> 32:43.198
+Right now, Our Place is having their biggest sale of the season. You can get up to 30% off all products now through May 12th, 2025. With a 100-day risk-free trial, free shipping, and free returns, you can try Our Place with zero risk and see why more than 1 million people have made the switch to Our Place Kitchenware. Again, that's fromourplace.com slash Huberman to get up to 30% off. Now I'd like to return to pheromones. As I mentioned earlier,
+
+32:43.426 --> 33:06.430
+True pheromonal effects are well-established in animals. And one of the most remarkable pheromone effects that's ever been described is one that actually I've mentioned before on this podcast, but I'll mention again just briefly, which is the Coolidge effect. The Coolidge effect is the effect of a male of a given species. In most cases, it tended to be a rodent or a rooster mating.
+
+33:07.266 --> 33:36.286
+and at some point reaching exhaustion or the inability to mate again because they just simply couldn't for whatever reason. The Coolidge effect establishes that if you swap out the hen with a new hen or the female rat or mouse with a new one, then the rat or the rooster spontaneously regains their ability to mate. Somehow their vigor is returned, the refractory period after mating that normally occurs
+
+33:36.418 --> 34:05.470
+is abolished and they can mate again. But it turns out that females also will, female rodents will mate to exhaustion. And at some point, excuse me, they will refuse to mate any longer unless you swap in a new male. And then because mating in rodents involves the female being receptive, there are a certain number of behaviors that mean that she, that tell you that she's willing and wanting to mate, so-called lordosis reflects, then
+
+34:05.922 --> 34:28.734
+If there's a new male, she will spontaneously regain the lordosis reflex and the desire to mate. How do we know it's a pheromonal effect? Well, this recovery of the desire and ability to mate both in males and in females can be evoked completely by the odor of a new male or female. It doesn't even have to be the presentation of the actual animal.
+
+34:28.866 --> 34:52.062
+And that's how you know that it's not some visual interaction or some other interaction, it's a pheromonal interaction. Now, as I mentioned earlier, pheromonal effects, humans have been debated for a long period of time. We are thought to have a vestigial, meaning a kind of shrunken down miniature accessory olfactory bulb called Jacobson's organ or the vomeronasal organ.
+
+34:52.226 --> 35:16.734
+Some people don't believe that Jacobson's organ exists. Some people do. So there's a little dents as you go up through your nasal passages. And there is evidence of something that's vomeronasal-like. Vomeronasal is the pheromonal organ. They call it Jacobson's organ if it's present in humans, kind of tucked into some of the divots in the nasal passage. Even if that organ, Jacobson's organ isn't there,
+
+35:17.090 --> 35:43.486
+or is not responsible for the chemical signaling between individuals. There is chemical signaling between human beings. As I mentioned earlier, the effect of tears in suppressing the areas of the brain that are involved in sexual desire and testosterone of males. That's a concrete result. It's a very good result published by an excellent group. There is also evidence both for and against
+
+35:44.034 --> 36:12.830
+chemical signaling between females in terms of synchronization of menstrual cycles. Now, the original paper on this was published in the 1970s by McClintock. And it essentially said that when women live together in group housing, dormitories and similar, that their menstrual cycles were synchronized and that was due to what was hypothesized to be pheromonal effects. Over the years, that study has been challenged many, many times. The more recent data,
+
+36:13.058 --> 36:34.174
+point to the idea that there is chemical, chemical signaling between women in ways that impact the timing of the menstrual cycle. Is that a pheromonal effect? Well, by the strict definition of a pheromone, a molecule that's released from one individual that impacts the biology of another individual, yes. It's not clear what the chemical compound is. None of this surprises me. None of this should surprise you.
+
+36:34.274 --> 37:00.286
+It's very clear that hormones have a profound effect on a large number of systems in our biology and that smell and taste and the ability to sense the chemical states of others, either consciously or subconsciously have a profound influence on whether or not we might want to spend time with them, whether or not this is somebody that we're pair bonded with, whether or not this is somebody that we just met and don't trust yet, things of this sort. And given what's at stake in terms of reproductive biology,
+
+37:01.730 --> 37:27.262
+It makes so much sense that much of our biology is wired toward detecting and sensing whether or not things and people are things that we should approach or avoid. You and every other human from the time you're born until the time you die are actively seeking out and sensing and evaluating the chemicals that come from other individuals. It's a really nice study that was done
+
+37:27.842 --> 37:55.166
+by the Weizmann Institute, a group there, I think it was also Noam Sobel's group, but another group as well, as I recall, looking at human-human interactions when they meet for the first time. It's a remarkable study because what they found was people would reach out and shake hands. And what they observed was almost every time within just a few seconds of having shaken hands with this new individual, people will touch their eyes.
+
+37:55.362 --> 38:23.614
+They are taking chemicals from the skin contact and they are placing it on a mucosal membrane of some sort, typically not up their nose or in their mouth, typically on their eyes. Believe it or not, you're marking other people when you shake their hand and they are then taking your mark and rubbing it on themselves subconsciously. So we all do these kinds of behaviors. And now that you're aware of it, you can watch for it in your environment. You can pay attention to people. We are evaluating the molecules on people's breath
+
+38:23.714 --> 38:43.230
+We are evaluating the molecules on people's skin by actively rubbing it on ourselves. And we are actively involved in sensing the chemicals that they are emitting, their hormone status, how they smell. We're detecting the pheromones possibly, but certainly the odors in their breath.
+
+38:43.490 --> 39:01.310
+So today we talked a lot about olfaction, taste, and chemical sensing between individuals. I like to think that you now know a lot about how your smell system works and why inhaling is a really good thing to do in general for waking up your brain and for cognitive function and for enhancing your sense of smell.
+
+39:01.474 --> 39:29.950
+And we talked about chemical signaling between individuals as a way of communicating some important aspects about biology. People are shaping each other's biology all the time by way of these chemicals that are being traded from one body to the next through air and skin to skin contact and tears. Last but not least, I want to thank you for your time and attention and your willingness to embrace new concepts and terms and to learn about science and biology and protocols that hopefully can benefit you and the people that you know.
+
+39:30.050 --> 39:32.830
+Of course, thank you for your interest in science.

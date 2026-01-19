@@ -10,9 +10,6 @@ venv/
 # Environment
 .env
 
-# Data (add your own transcripts)
-data/
-
 # IDE
 .idea/
 .vscode/

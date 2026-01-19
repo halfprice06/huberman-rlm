@@ -1,0 +1,841 @@
+WEBVTT
+
+00:00.322 --> 00:29.214
+My doctor explained to me that we were out of options. He said, David, we've tried everything. We tried these chemotherapies. We tried this one experimental drug. There's nothing more that we can do. There was a few minute period where my dad and my sisters and my girlfriend around me, and we were just bawling our eyes out. This is the world's expert. And I kept probing him, like, is there any cell type or signaling pathway? Is there something we can target? Like anything. He said, David, there's nothing. Is there anything in the early stage developed? David, there is nothing.
+
+00:29.634 --> 00:46.462
+I heard what he was saying, but then I thought to myself, you just gave me seven chemotherapies that were made for lymphoma and my multimieloma. And they've saved my life now three times. It's not long term. Like I know I keep relapsing, but like if these seven chemotherapies are working,
+
+00:46.850 --> 01:13.214
+how do we know there's not an eighth chemotherapy or a ninth drug for something else? Like you can't tell, we haven't tried all 4,000 drugs. We've just tried the drugs that maybe we've thought to try. And so I just locked in right then and I turned to my family and just sort of wiped away my tears and said, I'm gonna dedicate the rest of my life, however long that's gonna be. It might be a couple of days, maybe it'll be a couple months, but however long I've got to trying to find out, is there a drug out there that could help me and other patients with my disease that's made for another condition?
+
+01:13.314 --> 01:41.054
+I just believe that the 4,000 drugs we have today should help all the patients who can benefit from them. Period. Like, no one should suffer if there's a drug at your CVS that could help you. Welcome to the Huberman Lab podcast, where we discuss science and science-based tools for everyday life. I'm Andrew Huberman, and I'm a professor of neurobiology and ophthalmology at Stanford School of Medicine. My guest today is Dr. David Fagenbaum.
+
+01:41.218 --> 02:09.694
+Dr. David Fagenbaum is a professor of translational medicine and human genetics at the University of Pennsylvania. His work focuses on finding novel cures to both rare and common human diseases by using drugs and other treatments that already exist and that are approved for use in humans for other purposes. As it turns out, most approved drugs impact at least 40 different pathways and mechanisms across the human brain and body, but these drugs are generally approved for use in just one or two of those pathways.
+
+02:09.858 --> 02:33.694
+David shares with us the many commonly unknown yet powerful benefits of drugs that are already approved for things like heart health, combating cancer, neurodegeneration, and more. From his own near-death experience with Castleman's disease, David discovered that the medical profession already has in hand excellent treatments and perhaps even cures for many of the childhood and adult diseases that the medical profession deems uncurable or untreatable.
+
+02:33.858 --> 03:03.824
+In addition to running his laboratory where they search for novel treatments and cures using already approved drugs, David has started a not-for-profit called Every Cure, which helps people find treatments and cures to diseases that the medical field has essentially deemed untreatable. And that work has already saved countless lives. Our discussion today is about how to navigate your health journey and how to approach the treatment of any illness that you or a relative may face. It's also about the fact that while the fields of medicine and science are truly incredible and well-intentioned, they do
+
+03:03.824 --> 03:24.030
+have a giant blind spot built into them, which is that many effective treatments, and in some cases cures, exist to diseases that we are told are hopeless to treat, and that even the best trained and well-meaning MDs are often unaware of those treatments, not because they are lazy or that they have some other agenda, but simply because of how medications are studied, patented, and categorized.
+
+03:24.226 --> 03:47.006
+As you'll soon learn, Dr. Fagenbaum is on a mission to educate doctors, scientists, and most importantly, you, the general public, about these facts. He has lived them directly. He's an MD who got very sick with what he was told was a terminal disease. And when the existing system left him at a cliff, he went about curing that disease using old medications in new ways. And he is now helping others who need to do the same.
+
+03:47.266 --> 04:14.366
+Before we begin, I'd like to emphasize that this podcast is separate from my teaching and research roles at Stanford. It is however, part of my desire and effort to bring zero cost to consumer information about science and science related tools to the general public. In keeping with that theme, today's episode does include sponsors. And now for my discussion with Dr. David Fagenbaum. Dr. David Fagenbaum, welcome. Thanks so much for having me. These days, people are very concerned about their health, even if they're healthy.
+
+04:14.914 --> 04:43.454
+And I think the reason for that is ever since 2020, I think people have started to realize that they need to do more self-advocacy in terms of their health, whether or not it's behaviors to take care of their health, learning how to explore medical and health information online more effectively. No one knows who to trust. And yet people are realizing that they are a critical element in their health.
+
+04:43.618 --> 05:13.054
+And should they encounter challenges to their health, they realize they can no longer be passive participants and just go to their doctor, that doctors are human too. So you have a very unique health story and we'll get into that. But maybe we just start off by educating people a little bit about some of the common misperceptions in order to give them more sense of agency about what they can do. One of the things that you've been very vocal about
+
+05:13.186 --> 05:37.854
+is that you believe through experience and observation that many of the treatments or even potential cures for the things that challenge people may already exist in the form of medicines that are prescribed or available, maybe even over the counter, but that people, including doctors, are not aware of that. Could you just elaborate on that? What we're basically saying is the answers may already be here.
+
+05:38.210 --> 06:05.022
+Sure. Well, first of all, I love that you're talking about agency in health and in medicine. Because I think oftentimes we talk about agency, you know, I can get a good night's sleep or I can exercise and eat well in the sense of wellness. But oftentimes when people get really sick with a horrible disease, whether it's cancer or Castleman's, feel like, well, we're just going to do whatever our local doctor tells us to do. But you're right. I think that there's so much more that we can do and there's so much agency that we can take. And part of it, to your point, is that
+
+06:05.122 --> 06:20.734
+There are drugs that we have. There's 4,000 FDA approved drugs that are approved for about 4,000 diseases, but we know from laboratory work and also from clinical trials that many of those drugs can be used in more diseases. But unfortunately, the system really isn't set up to find new uses for old medicines.
+
+06:21.314 --> 06:50.526
+That's the work that I do, but I also think it gives all of us really a sense of responsibility that if we're diagnosed with a bad disease, that we find out what's the disease organization advocacy group. Maybe they're aware of a drug being used in one part of the world, but others aren't. Who's the leading expert? Can you go drive to see the leading expert? And can you make sure that once the expert tells you what to take, you ask questions like, is there potentially something else? I think of aspirin, for instance. Most people think of aspirin as a pain reliever. Yeah.
+
+06:50.690 --> 07:19.646
+Aspirin is now used as a way to offset heart attacks for its blood thinning effects, among other effects. Just off the top of your head, I'm not trying to test you here. You're the MD. I'm the PhD, as we were talking about before. I'm not going to test you on medicine. I'm not equipped to. But are there other uses for aspirin that we perhaps haven't heard of or similar drugs that might surprise people? Yeah, aspirin also has been shown to reduce risk of recurrence of colon cancer.
+
+07:19.746 --> 07:43.550
+particularly individuals with colon cancer have a mutation actually in the mTOR pathway, but because it's aspirin, because it's sort of widely available and it's not, doesn't have maybe the same sort of system behind its use, it's really not actually utilized by all the patients that have colon cancer to reduce the risk of recurrence of colon cancer. And like that's sort of mind blowing in itself. And there are other great examples, many,
+
+07:43.842 --> 08:10.238
+Folks have probably heard about how Viagra is repurposed from heart disease to its well-known use. Most people are aware of erectile dysfunction, but most people don't realize that it's also been repurposed for a rare pediatric lung disease. Kids were dying because they weren't getting enough blood flow to their lungs. And if they take Viagra, they can actually get blood flow to their lungs and live full lives on Viagra. And that fortunately was discovered early on in the patent life of Viagra. So there was really a way to push it forward. But a lot of times these happen after drugs are generic.
+
+08:10.562 --> 08:17.054
+Isn't it that the cousin of Viagra, Cialis, was initially Tadalafil used to encourage prostate health?
+
+08:17.314 --> 08:43.071
+circulation to the prostate and then only later was it discovered to have these other effects related to sexual function. That's right. Yeah. And, you know, we talked about the side effect of a drug. It can be bad or can be good. We were chatting earlier, you know, the average small molecule, so drug that's approved for a condition, can bind between 20 and 30 different proteins in the body. So we call a drug, you know, we say it does one thing, but actually it's doing a lot of other things in the body. And unless
+
+08:43.330 --> 09:06.910
+that drug company began working on it early on for that condition, oftentimes those insights and those other roles for the medicine just fall through the cracks. So the idea that a drug is useful for other things aside from what it's best known for is seldom discussed, whereas side effects are being discussed more and more nowadays. Tell us about lidocaine. Sure. This is fascinating.
+
+09:07.842 --> 09:30.814
+Sure. So, yeah, I couldn't believe it when we came across this. So I run a nonprofit called Every Cure. We scan the world's knowledge of every drug and every disease to find new uses for the medicines we have. And when we came across lidocaine, we were just sort of blown away. So lidocaine, of course, the numbing medicine you get if you go to the dentist and, you know, it's used all over the body for numbing all kinds of things.
+
+09:31.042 --> 09:53.598
+There's interesting data, actually a large trial that was done in India of 1,600 patients where women who had localized breast cancer, if they had lidocaine injected around the tumor before surgery, eight to 10 minutes before surgery, there was a 29% reduction in mortality at five years versus those who did not have lidocaine injected. Now, lidocaine is already gonna be used during the surgery. It's used at the site of the incision.
+
+09:53.730 --> 10:23.696
+It's widely used in so many cases. And what's so interesting, it was published in a great journal, the Journal of Clinical Oncology, yet there's still been barely any uptake all around the world. And so this is just sort of another example for us for why you've got to have an entity that's looking for these great opportunities and then actually doing the work to make sure that they get into patients. Because there's close to no downside of something like lidocaine. And if the upside is as high as a 30% reduction in mortality, I don't know how it's not being used all over the place. Is lidocaine inexpensive?
+
+10:23.696 --> 10:39.934
+drug? It's a very inexpensive drug. It's, you know, pennies and injection. And that doesn't mean anyone's hiding lidocaine. I'm of the belief that drug companies do such important work to develop brand new drugs. And they're so good at it. They do a great job getting those drugs to be used for the uses that they're intended for.
+
+10:40.034 --> 11:10.000
+And it's no one's fault. But once that drug becomes generic, like lidocaine has been generic for decades, that means that there's a number of other companies that make the exact same drug. And the profit for each of those doses becomes close to pennies in injection. And so, again, it's not that anyone's hiding it, but it's just that no entity is incentivized to actually go call on doctors and say, hey, did you do the lidocaine before your surgery? Or to really push to get them into guidelines. And I will say, this was a really major study, this study that was published or that was done in India. It was published in a great
+
+11:10.000 --> 11:35.678
+journal. There's interesting laboratory data, but we at EveryCure actually feel responsible to better understand the potential mechanism for how it might work and also to review the evidence wholly before we actually go out and start encouraging everyone to do it. So there's still steps that have to be taken, but our belief is that when you come across something that looks promising like this, we need to have some group that's actually pushing and pushing to make sure that it actually gets to patients once you feel comfortable with the data.
+
+11:36.962 --> 11:44.638
+I'd like to take a quick break and acknowledge our sponsor, Eight Sleep. Eight Sleep makes smart mattress covers with cooling, heating, and sleep tracking capacity.
+
+11:44.834 --> 12:08.606
+One of the best ways to ensure a great night's sleep is to make sure that the temperature of your sleeping environment is correct. And that's because in order to fall and stay deeply asleep, your body temperature actually has to drop by about one to three degrees. And in order to wake up feeling refreshed and energized, your body temperature actually has to increase by about one to three degrees. Eight Sleep automatically regulates the temperature of your bed throughout the night according to your unique needs.
+
+12:08.706 --> 12:34.910
+Eight Sleep has just launched their latest model, the Pod 5, and the Pod 5 has several new important features. One of these new features is called Autopilot. Autopilot is an AI engine that learns your sleep patterns to adjust the temperature of your sleeping environment across different sleep stages. It also elevates your head if you're snoring, and it makes other shifts to optimize your sleep. The base on the Pod 5 also has an integrated speaker that syncs to the Eight Sleep app and can play audio to support relaxation and recovery.
+
+12:35.042 --> 13:03.550
+I've been sleeping on an Eight Sleep mattress cover for over four years now, and it has completely transformed and improved the quality of my sleep. If you'd like to try Eight Sleep, go to eightsleep.com slash Huberman to get up to $350 off the new Pod 5. Eight Sleep ships to many countries worldwide, including Mexico and the UAE. Again, that's eightsleep.com slash Huberman to save up to $350. Today's episode is also brought to us by Rora. Rora makes what I believe are the best water filters on the market.
+
+13:03.714 --> 13:20.638
+It's an unfortunate reality, but tap water often contains contaminants that negatively impact our health. In fact, a 2020 study by the Environmental Working Group estimated that more than 200 million Americans are exposed to PFAS chemicals, also known as forever chemicals, through drinking of tap water.
+
+13:20.770 --> 13:37.854
+These forever chemicals are linked to serious health issues, such as hormone disruption, gut microbiome disruption, fertility issues, and many other health problems. The Environmental Working Group has also shown that over 122 million Americans drink tap water with high levels of chemicals known to cause cancer.
+
+13:38.082 --> 14:08.048
+It's for all these reasons that I'm thrilled to have Rora as a sponsor of this podcast. I've been using the Rora countertop system for almost a year now. Rora's filtration technology removes harmful substances, including endocrine disruptors and disinfection byproducts while preserving beneficial minerals like magnesium and calcium. It requires no installation or plumbing. It's built from medical grade stainless steel and its sleek design fits beautifully on your countertop. In fact, I consider it a welcome addition to my kitchen. It looks great and the water is delicious. If you'd like to try Rora,
+
+14:08.048 --> 14:37.918
+You can go to rora.com slash Huberman and get an exclusive discount. Again, that's rora, r-o-r-r-a.com slash Huberman. There are a couple of avenues that we could explore given what you've said so far, but the one I'd like to drill into a bit is this thing related to drug companies and patents. I don't want to set up the idea that everything is conspiratorial. And yet years ago, when my laboratory was working on eye diseases, glaucoma in particular, I spent a lot of time around
+
+14:38.274 --> 15:08.094
+people working at companies that develop drug treatments for eye diseases. They've developed great drugs for the treatment of over vascularization of the eye, for instance, that can cause blindness or it's related to some blinding diseases. And I learned that many of these drugs go to market. They are quote unquote blockbuster drugs. People, symptoms improve. These drug companies make a lot of money. And then the patent is headed toward expiration. And at that point, the cost of the drug
+
+15:08.258 --> 15:37.534
+drops markedly. So the drug companies are heavily incentivized, I learned, to find new uses for that drug, to renew the patent under this new application, to basically keep the generics away. And on the one hand, it makes sense because the research and development for a drug is exceedingly expensive. And so if they can repurpose a drug and maintain the patent for two diseases,
+
+15:37.634 --> 16:02.878
+Essentially, one drug, two diseases. This is kind of the bread and butter of how drug companies get and remain very wealthy. It has two what I consider kind of darker sides to it. One is that the generic cheaper drugs don't arrive on market for a much longer period of time. The other side of the coin, however, is that, you know,
+
+16:03.266 --> 16:31.518
+people suffering from a different disease now can take this drug. But that second darker piece is that drug companies are not very incentivized to go look for new molecules to treat new conditions. They are heavily incentivized to use old molecules to treat new conditions and maintain control. There's a lot in this statement, but my understanding is this is how it works. And so how do you reconcile that? I mean, how is it that
+
+16:31.714 --> 16:52.702
+we should be exploring existing drugs for new conditions, but do it in a way that's really driven toward curing and disease as opposed to just kind of finding a new purpose so we can keep the generics out for a while. Yeah, it's such a great question. So you're absolutely right that as drugs begin to reach their pad and cliff, oftentimes the drug will be the
+
+16:52.898 --> 17:14.078
+dose might be changed slightly, the formulation might be changed slightly to create new intellectual property. So that way, this sort of new version can be used in that same initial disease, which to your point, there's, you know, I wouldn't say pros and cons. There's, you know, side effects of that sort of a system. But what is pretty clear is that companies will typically not
+
+17:14.530 --> 17:36.478
+as it's getting close to patent exclusivity, find a new disease to go after with that drug. It's usually the same disease, it's just a new formulation. So that way they can keep working that disease. And what that means is that though that drug might be able to be used for a different disease, that's rarely explored. And so especially to your point, once it's generic, I mean, all research and development discontinues. And even
+
+17:37.090 --> 18:04.734
+I mentioned earlier that there's 4,000 FDA-approved drugs. They work for 4,000 diseases. That's incredible. But there are still 14,000 diseases that don't have a single treatment right now. And of the 4,000 drugs we have, 80% of them are already generic, which means that there is no incentive to find a new use for those medicines. So like every time I walk past the CVS, all I think about is how many drugs are in there that are used for one condition but could actually help so many more kids or adults with other conditions.
+
+18:04.898 --> 18:09.854
+And we're hearing a lot these days about lithium as a potential...
+
+18:10.050 --> 18:40.016
+protectant for Alzheimer's or other forms of dementia. I don't know that the data are so solid that I'm ready to run out and take lithium. So I'm not suggesting that to anybody. But I know a few psychiatrists that tell me for years, they've been taking low dose lithium for a couple months out of the year based on their understanding of the data. So you've got doctors doing things. People don't often talk about this, but doctors often will do things that based on their read of the literature that they're not talking to their patients about because they're not in a position to do it ethically. There's too much liability there.
+
+18:40.016 --> 19:00.062
+Where and how should the typical person without any training in medicine or science or even a little background in science go to find information about existing drugs, generic or otherwise, that could help them treat their ailments, be it a skin condition or something as serious as cancer?
+
+19:00.226 --> 19:22.430
+What I'd recommend is the first is to make sure that you're connecting with whatever the disease group is for your condition. They oftentimes are so well connected with physicians all over the world, they hear about what things are being tried. So connect with whatever your condition, whatever that disease organization is. Could you explain disease organization? Sure. So like the Castleman Disease Collaborative Network is the group that's come together to support Castleman's patients and to physicians and researchers.
+
+19:22.562 --> 19:48.030
+There's an ALS association, for example. There's Michael J. Fox for Parkinson's disease. So find that group that has coalesced around your condition because they'll oftentimes have, to your point, understanding about, hey, I heard this one patient's using this one thing. So I'd go there first. The second is I would figure out where is the world's expert? Who is that person that really is the guru? They'll oftentimes have insights on these things. And then the third is
+
+19:48.162 --> 20:07.294
+is to really keep asking questions. So even when they say this is the first thing that's recommended, well, is there something else that's used somewhere else? And I'll share one example of this. It's a bit heartbreaking, but also really powerful and informative. And that's that there's a rare condition called data 2, basically
+
+20:07.490 --> 20:37.456
+Kids are born with a mutation in a gene that results in them having dozens and dozens of strokes from the time they're born until they usually pass away in their teenage years because of the accumulated effect of literally dozens of strokes. It's horrible. Well, about 20 years ago, a doctor apparently was treating a patient with data 2 and also treating a patient with a form of vasculitis and treated that patient with vasculitis with what's called a TNF inhibitor. It inhibits this one-sided kind called TNF. And he apparently had left TNF inhibitor in his vial. And he was like, you know what? We've got this kid over here having
+
+20:37.456 --> 21:02.974
+all these strokes why don't i just try what i've got in this vial in this kid well the kid stopped having strokes and that was amazing and so this doctor the next few patients he had with data too he treated them for their strokes but about 10 years went by meanwhile hundreds and thousands of kids around the world are dying from data too where the word wasn't being spread until this amazing doctor named chip chambers sadly had two children born with data too and he started
+
+21:03.074 --> 21:28.190
+looking around to figure out and learned about, oh my gosh, TNF inhibitors. I was honored to be able to help Chip and his team to basically bring data together on the effectiveness of TNF inhibitors, also even come up with treatment guidelines for how do you treat data too. It turns out that if you start kids on a TNF inhibitor, they stop having strokes. All over the world, literally it's a life changer. And so the reason I share this as an example is that the world knew
+
+21:28.386 --> 21:58.046
+Someone in the world knew that you could save kids' lives with a TNF inhibitor, but the world didn't know. And we hadn't gotten the word out about it. And to me, that's so heartbreaking. It's almost like a travesty. It's one thing if you have a horrible disease and everyone dies from it and there's nothing out there. But I think it's so much more heartbreaking when you think that, oh my gosh, there was something there. We as a system hadn't done the work to make sure people get the medicine. Yeah, I think it's a harsh reality that one's knowledge network has.
+
+21:58.338 --> 22:26.622
+really has a big impact on outcomes to disease. I mean, I sit surrounded by MDs and PhDs and people working on disease and treating disease. And I'll tell you, there's no question in my mind that because I've experienced it when a friend's spouse or kid is dealing with something, I'm just one example of somebody who knows who to call because I don't know the answer, but I know who might know the answer. And within two or three calls,
+
+22:26.786 --> 22:56.350
+that person is in touch with somebody who is in communication with the five or six people who are best at this around the world. But most people don't have access to that. I mean, it's one of the reasons I started this podcast, frankly, to get people like you on here, people like Eddie Chang, who's a lifetime friend and chair of neurosurgery at UCSF. Like I would say, may you never need his help. Right? You know, but these are the people that I call when friends have questions about things unrelated to neurosurgery, for instance.
+
+22:57.250 --> 23:24.478
+It seems to me there's a pretty straightforward solution that in addition to these groups that are centered around certain diseases, there should be databases. There should be ways that people can not just go online and ask a question, but go to a database and say, I was just diagnosed with, or I'm having symptoms that are the following, and what are the existing prescription and non-prescription meds
+
+23:24.866 --> 23:46.078
+known to treat this, what are the side effects, but also what are the potential pathways that overlap with other approved drugs that are prescription or over the counter. And then it should feed into a pipeline of how to get ahold of the people that could help treat that. It should be that straightforward. I mean, this is 2025. I mean, there's no reason why people should have to know somebody
+
+23:46.402 --> 23:59.678
+in the medical or scientific field at a major institution in order to be able to navigate this. I totally agree, and I think that the more I've gotten into this, the more surprised I've been that there hasn't been something like that. This nonprofit I mentioned, every cure, so we use this,
+
+23:59.810 --> 24:29.726
+they're called biomedical knowledge graphs, basically mapping out what the world knows about human biology. We use an AI platform and machine learning models to quantify how likely every drug is to treat every disease. And then we start at the top to go, you know, what match looks promising. We've got nine active programs, and from those, we're moving them forward to reach patients. And the idea is that, you know, let's hope all nine of them end up being effective in helping patients. That's sort of the start of this, hopefully, master a list of additional uses for medicines that we already have. But to your point, it's not just...
+
+24:30.146 --> 24:59.102
+that they are speculative, but really that the work's been done to really prove that they actually work. I can't help but ask of some other examples of drugs that have been shown to treat things other than what most people associate that drug with. Sure. A few come to mind. So the first one's thalidomide. You probably have heard about the horrible birth defects that thalidomide caused 50 plus years ago. Originally designed as an anti-miscarriage drug. Well, it was originally designed as anti-nausea for pregnant women.
+
+24:59.234 --> 25:25.278
+So the thought was that it could help them with their nausea, but it ended up causing horrible birth defects. Children were born without limbs, and so it was taken off the market. But then about 20 years later, researchers figured out that it could be effective for leprosy. So it's FDA-approved for leprosy. And then what's crazy is that shortly thereafter, it got FDA approval for multiple myeloma, a somewhat rare hematologic blood cancer. And the reason that it can work for...
+
+25:25.378 --> 25:51.838
+leprosy and multibyloma. And also the reason that it causes birth defects is it has a major anti-angiogenic effect. So it reduces blood vessel growth. So in the same way that you need blood vessel growth to grow limbs, you also need blood vessels or you need overproduction or increased blood flow for multibyloma cells to survive and also in leprosy. And so the same compound that causes birth defects,
+
+25:52.130 --> 26:18.782
+helps treat leprosy, also treats multiple myeloma. It saved thousands and thousands of lives in multiple myeloma patients. Again, the reason that that in particular has been utilized in multiple ways was that it had a full patent life when the work was first begun for leprosy, and then myeloma was discovered shortly thereafter. But if a drug like thalidomide was discovered for leprosy, and then 20 years later someone figured out it could be useful for multiple myeloma, patent is gone.
+
+26:18.914 --> 26:46.942
+And so there wouldn't have been an incentive to then figure out that, oh, thalidomide could also be useful for multiple myeloma. The list sort of sadly goes on and on. I mean, one of my favorite examples is a drug called pembrolizumab that is now used for dozens of cancers. But initially it was first developed for melanoma and for lung cancer. And actually the work that we did in my lab, I guess this is 2016,
+
+26:47.138 --> 27:11.102
+And it was actually simple work. A patient came to us in 2016 with metastatic angiosarcoma, which is a horrible form of cancer. And his doctors told him that he was out of options. And we did something really simple. We went on PubMed and looked for like angiosarcoma treatment. I mean, it was that simple. And we came across a paper from 2013 where a researcher had looked at five
+
+27:11.234 --> 27:29.534
+tumors from five different patients with angiosarcoma, and four out of the five tumors had increased expression of PD-L1, which is a marker that you might respond to a PD-1 inhibitor. And so even though the paper was published in 2013, and this gentleman came to us in 2016, and of course hundreds of people had died in the previous three years,
+
+27:29.634 --> 27:49.438
+No one had ever actually tested whether a PD-1 inhibitor could be useful for angiosarcoma. Again, it was a laboratory study published three years earlier, but no one had ever translated that insight into using it in a patient. So we treated Michael as the first patient ever that we're aware of with a PD-1 inhibitor, and he responded so incredibly well.
+
+27:49.730 --> 28:06.526
+a couple of things happened. One is that his doctor started prescribing it to all patients with angiosarcoma. It turns out it works in about 18% of patients. So it was a uniformly fatal cancer within one year. Now about 20% of people will live beyond a year and it can be really transformative. So it changed clinical practice for angiosarcoma.
+
+28:07.234 --> 28:37.200
+The other thing it did specifically for Michael is that it has put him into now a nine-year remission. Just last month, he walked his daughter down the aisle on her wedding day in Nashville, Tennessee, nine years after he was told that this is it. And so these drugs are out there. And sometimes there's even breadcrumbs. Like it didn't require any brilliance from my lab. We literally just had to find a study that was published three years earlier. And that, again, is really what drives us with this work now to say, can we find all these breadcrumbs? Can we put them
+
+28:37.200 --> 29:06.430
+together and can make sure people actually benefit from all the great science that's being done all over the world, let's actually translate them into patients. Yeah, it seems to me that PubMed and other sources of science knowledge are great for stacking papers. And they're pretty decent in terms of how they're organized by keyword search. I mean, they're not perfect, but you can find stuff. And you get suggestions about related articles. And somebody with a little bit of time and energy will give
+
+29:06.658 --> 29:34.014
+get some degree of information there. But it seems to me that no one has really organized the enormous database of information about science as it relates to disease. It occurred to me a moment ago, there should be a database where one can enter whatever knowledge they have about how old their grandparents were when they died and of what, how old their parents are or were, maybe they're alive, maybe they're deceased,
+
+29:34.498 --> 29:59.998
+any knowledge, any kind of family history. This is the first thing a doctor would ask you. If I come in and you're the MD and if I say, hey, listen, I've got like this swollen lymph node on the left-hand side. I don't think you're going to say, hey, like, go get it scanned. You'll say any history of blank and blank in your family. First thing, right? One should be able to do this from home and then enter any symptom profiles they might be having. And with the appropriate cautionary notes, get some ideas back about what might be
+
+30:00.354 --> 30:30.046
+going on. And that might sound like, oh, this is people playing their own doctor. But I'll tell you right now, if I put in left armpit lymph node pain or swelling into any online search engine, it's going to tell me some of the worst possible outcomes. So it's not like we need to shield people from potential outcomes. But it seems to me that this should be pushed through an AI read of PubMed, which already exists, right? Most of the large language models are trained on the entire internet, including PubMed. And that it should
+
+30:30.242 --> 30:57.502
+point somebody in some actionable directions, including which of these groups, I meant to ask this earlier, excuse me, which of the various groups for a given disease is the best one? Yeah, exactly. Like if somebody is a kid, you know, God forbid has a, has a blood cancer, which group do you go to? Is there a best one? Are these rated by anybody? I mean, I'm not trying to throw our arms around all of medicine here and all of the problems in the world, but it seems to me that all of this is tractable. Someone just needs to
+
+30:57.730 --> 31:25.310
+get organized about the databases. I completely agree. I think that there's such randomness to healthcare and to our biomedical research system. I think that's probably maybe the most heartbreaking part of this all is that because it's so random, you know, Michael gets a drug and he walks his daughter down the aisle nine years later and a bunch of other people don't get a drug and they aren't alive. And so I love the idea of that centralized database. I think that there's a company called Open Evidence, which is trying to basically create
+
+31:25.506 --> 31:41.374
+a GPT, but for healthcare. I don't know if it's as, I don't think it's to where you described it, where you can really put in your personal family information and get answers, but I'm hopeful that others will. You know, the role that I see our work and my work fitting into that
+
+31:42.018 --> 32:09.086
+is basically finding as many of these connections and proving them out in the lab and in clinical trials as possible. So that way when you type in your disease and your situation, that that drug that we worked on rises to the top because it wasn't just a connection in PubMed, but it was a connection in PubMed that we've added in the lab and that we did the trial to prove that it works. Yeah, it's kind of wild that on a completely different end of the spectrum, recently everyone's talking about creatine. Creatine, creatine, creatine, okay.
+
+32:09.442 --> 32:39.390
+taking creatine since my teens, because I heard back then that it would help make me stronger and it'll make you stronger. Now people are talking about creatine for women, for men, for older people, and under conditions of sleep deprivation, for cognitive support. Let's face it, the effects while documented are fairly mild for cognitive support, but they're there. And this is not being touted as a treatment for like dementia, although it might help offset some minor dementia or something like that, I don't know. But the point is that people are talking about it, it's in the news, it's covered all the time.
+
+32:39.778 --> 33:02.942
+But we really should be talking about, or also talking about drugs like aspirin that can be very useful potentially for colon cancer and for heart attack, not just for pain, and all the other examples that are out there. But I think there's this fear that if you talk about a drug, that people are just going to start taking it as an attempt at a prophylactic, right? And I think that...
+
+33:03.106 --> 33:32.894
+There's a lot of caution around that for understandable reasons, but I wanna know, I just turned 50, I wanna know all the things that I could be taking to potentially offset heart attack because I'm already exercising and trying to get my sleep and doing all that stuff. And then I can make a decision. So where's the database of information about as a 50 year old male who does the following things to support his health, no history of heart disease in my family that I'm aware of. Well, what drugs are on the counter
+
+33:33.026 --> 33:55.166
+or molecules that exist behind a script from a doctor that could potentially extend my life. I want to know that information. And what we're talking about, creatine. So for once, I'm kind of like, I'm not being disparaging of supplements, but I'm like, it doesn't make any sense. The conversation is skewed in the wrong direction. Yeah. I mean, I think that what we're trying to do with every cure and with our work is trying to
+
+33:55.330 --> 34:24.478
+start this conversation and keep the conversation going so that way you can go to your doctor with X drug. I mentioned that we have nine active programs. So on the one end of the spectrum, really common is our program with lidocaine and breast cancer where we're doing laboratory work. We're also evaluating clinical data. And I hope at some point in the future that the data is strong enough. And if it is, then we'll work to encourage every woman who's about to go in for breast cancer surgery to talk to their surgeon before and say, hey, I want to make sure you do this. And so really empowering them in that way.
+
+34:24.578 --> 34:42.046
+but all the way through even to the rarest of conditions, there's a condition called Bachman-Bopp syndrome where kids are born with a mutation that causes them to have elevated levels of an enzyme called OCE1. And basically, they're on feeding tubes, they are wheelchair-bed or bed-bound,
+
+34:42.626 --> 35:11.038
+And last, you give them a drug that was made for African sleeping sickness, which is a perfect covalent binder to OCE1. So that enzyme that's too high in these kids, African sleeping sickness medicine actually binds to OCE1. And if you start it early enough in life, these kids get their feeding tube taken out. They might be able to sit up. They can even play with their siblings. And so the reason I mention this is that there aren't that many people with Bakun Bup. In fact, it's only been described in 20 kids, which means there's probably hundreds of kids because the medical
+
+35:11.202 --> 35:28.382
+literature is typically behind reality. But let's say there's hundreds of kids. At some point, we're going to get the word out. So that way, you know, we can find every kid possible, you know, with Bakunab so they can get this medication, DFMO. And so these are microcosms of what you're talking about, which is that, like,
+
+35:28.610 --> 35:52.062
+No one should suffer from Bachman-Bach without being on DFMO. No one should have breast cancer without having had lidocaine. No one should be a healthy 50-year-old man who might be able to have their risk of heart attack reduced. It might be that colchicine is helpful for reducing your risk of heart disease. But to your point, how can we get this more proactively so we're not just sort of like hoping and waiting that all these random things line up?
+
+35:53.250 --> 36:18.462
+We used to use colchicine in the lab. So colchicine is an interesting one. So colchicine is typically utilized for gout. It's been around forever. Actually, I learned that it's like 3,000 years ago was when it started being used because gout often occurs in individuals who consume too much alcohol. And so apparently in Egypt 3,000 years ago, some of the wealthy people were drinking too much alcohol and somehow they figured out that this
+
+36:19.074 --> 36:43.774
+molecule colchicine, of course, I think it was a root at the time, could be helpful for reducing gout. And we should fact check that statement because I don't know the exact details, but it's been around a long time. If there were a database, you could just go to the database. You could tell where my mind's going. Yeah, exactly. So colchicine's been around forever. It's been used for gout for decades. People have gouty arthritis. They get these painful joints. To give them colchicine, it helps them out. Well,
+
+36:44.258 --> 37:02.366
+A researcher a couple decades ago had a hypothesis that because of its anti-inflammatory properties and a few other properties of colchicine, that it might be able to reduce the risk of heart attacks in people who have already had a heart attack. Or maybe in general, but in particular in people who have already had a heart attack. And because it's been around forever, they couldn't
+
+37:02.626 --> 37:30.942
+They really couldn't raise the funding needed to do all the trials to prove it because heart disease prevention trials are big, expensive trials. You've got to follow people for years to prove that they didn't get a heart attack versus people who got a placebo. So they ended up changing the dose of that medicine of colchicine. So it's a slightly different dose from the one that you use for gouty arthritis, but it has a very substantial reduction in heart disease risk if you had a prior heart attack, and in particular, if you had a prior heart attack and you have diabetes, a really
+
+37:31.042 --> 37:55.486
+really meaningful reduction. So it got FDA approval for that particular subpopulation. But I mention it because if they hadn't changed the dose, it would have been a paper that some academic would have published that I think colchicine could help and no one would have ever done the big trial. And again, that's sort of the tragedy here is that people are literally not having heart attacks right now because they're on colchicine. But if not for someone figuring out a way to make the system work, you know, they would have had their heart attack.
+
+37:56.898 --> 38:26.302
+We've known for a long time that there are things that we can do to improve our sleep. And that includes things that we can take, things like magnesium threonate, theanine, chamomile extract, and glycine, along with lesser known things like saffron and valerian root. These are all clinically supported ingredients that can help you fall asleep, stay asleep, and wake up feeling more refreshed. I'm excited to share that our longtime sponsor, AG1, just created a new product called AGZ, a nightly drink designed to help you get better sleep and have you wake up feeling super refreshed.
+
+38:26.498 --> 38:56.478
+Over the past few years, I've worked with the team at AG1 to help create this new AGZ formula. It has the best sleep supporting compounds in exactly the right ratios in one easy to drink mix. This removes all the complexity of trying to forge the vast landscape of supplements focused on sleep and figuring out the right dosages and which ones to take for you. AGZ is to my knowledge, the most comprehensive sleep supplement on the market. I take it 30 to 60 minutes before sleep. It's delicious by the way. And it dramatically increases both the quality and the depth of my sleep.
+
+38:56.482 --> 39:25.278
+I know that both from my subjective experience of my sleep and because I track my sleep. I'm excited for everyone to try this new AGZ formulation and to enjoy the benefits of better sleep. AGZ is available in chocolate, chocolate mint, and mixed berry flavors. And as I mentioned before, they're all extremely delicious. My favorite of the three has to be, I think, chocolate mint, but I really like them all. If you'd like to try AGZ, go to drinkagz.com slash Huberman to get a special offer. Again, that's drinkagz.com slash Huberman.
+
+39:25.602 --> 39:44.958
+Today's episode is also brought to us by David. David makes a protein bar unlike any other. It has 28 grams of protein, only 150 calories, and zero grams of sugar. That's right, 28 grams of protein, and 75% of its calories come from protein. That's 50% higher than the next closest protein bar.
+
+39:45.058 --> 40:00.638
+These bars from David also taste amazing. Right now, my favorite flavor is the new cinnamon roll flavor, but I also like the chocolate chip cookie dough flavor, and I also like the salted peanut butter flavor. Basically, I like all the flavors. They're all delicious. Also, big news, David bars are now back in stock.
+
+40:00.738 --> 40:30.704
+They were sold out for several months because they are that popular, but they are now back in stock. By eating a David Bar, I'm able to get 28 grams of protein in the calories of a snack, which makes it very easy for me to meet my protein goals of one gram of protein per pound of body weight per day and to do so without eating excess calories. I generally eat a David Bar most afternoons, and I always keep them with me when I'm away from home or traveling because they're incredibly convenient to get enough protein. As I mentioned, they're incredibly delicious, and given that 28 grams of protein, they're pretty filling for
+
+40:30.704 --> 40:45.214
+just 150 calories. So they're great between meals as well. If you'd like to try David, you can go to davidprotein.com slash Huberman. Again, that's davidprotein.com slash Huberman. Well, I feel like we could spend hours going through the catalog of drugs for which
+
+40:45.314 --> 41:12.734
+These examples exist. And we may return to a few more, but I'm putting in a strong vote for this database. I know you're working hard on this. I'd like to talk about your journey into this because you are not a typical doctor. I think that's apparent to people already. You care very much about human health and treating human disease, but you have a very unusual and interesting trajectory into medicine. And I do believe it's
+
+41:13.378 --> 41:21.502
+helped lead you to this very unique orientation within the field of medicine and science. So tell us that story and tell us
+
+41:22.018 --> 41:51.984
+teach us about Castleman's disease. Sure. Well, my story, I think, really starts back when I was 18 years old and I was a freshman at Georgetown. We were talking earlier about, I played football at Georgetown. For me growing up, that was my dream, to be a Division I college quarterback. That's all I could think about. I was not quite as jacked as you, but somewhere in that realm. I saw a photo. You were larger than I was. We'll put up a link to a photo. David was 230. You're taller than I am. I'm 6'1", so you're probably about 6'3". I think you might be 6'3".
+
+41:51.984 --> 42:20.062
+Either that or I'm shrinking. And super large, fit, low body fat. I mean, you look – clearly you're a quarterback, but you're large even for a quarterback. I was, yeah. Yeah. Okay. So, you know, that was my dream. I was, you know, I want to play college football, and I got there. And I had been on campus at Georgetown for a couple weeks. And I got a call that changed my life. My dad called and told me that my mom had brain cancer. And, Andrew, I went from, like –
+
+42:20.162 --> 42:47.614
+All I could think about was football and like, you know, I'm finally at this goal that I'd always set to, oh my gosh, this has just changed everything. My mom and I were so close and I was heartbroken for it. Glioblastoma brain tumors are uniformly fatal. They're horrible. I was only 18, so I don't think I knew just how bad it was, but I knew it was really bad. And watching her battle with cancer over the next 15 months,
+
+42:47.778 --> 43:01.726
+just changed everything in me. It completely locked me in. And I told her just before she passed away that I would dedicate my life to trying to find treatments for patients like her. And she couldn't say many words at the end, but she said,
+
+43:01.826 --> 43:30.558
+unconditional love, those were the two words that she said when I told her I would do that. And I was like, all right, I gotta do this. She wants me to do it. And for me, I sort of haven't been able to stop thinking about helping people like her from the moment that I started seeing this horrible cancer take her life in front of me. And of course, the promise that I made to her. I also learned so much from her in watching her battle against brain cancer. I mean, I'll just tell one quick story.
+
+43:31.234 --> 44:00.702
+So I got that call from my dad. I immediately came home to North Carolina. And within a few days, she was having brain surgery to get the tumor resected. And they did a surgery where they put you to sleep to open up your skull. And then they actually wake you up while your skull is open. And the reason for that, which you're very familiar with, is that as they're cutting out, particularly on the left side of the brain, cutting out parts of the brain tumor, you want to be able to see how far you want to go. You ask people to speak. And sort of when they start slurring their speech, you stop cutting.
+
+44:00.802 --> 44:26.014
+They went through the whole surgery, it was like a four and a half hour surgery, cut out most of the tumor but not everything. And they, you know, woke her back up after the surgery and she was in the waiting area and we went back to see her. And I remember my dad, I've got two amazing older sisters, my dad and I, we went back to see her and we were, you know, so nervous, like, is it going to be our mom who's going to come out? It took out a lot of her brain as part of the surgery. And...
+
+44:26.146 --> 44:53.502
+so nervous, and we walked back, Andrew, and pulled the curtain back. I'll never forget, I saw my mom sitting there just about as far away as you are, and she had a wrap around her head, bandages, and she had this bulb coming out that was collecting fluid, and she looked at us, and she pointed up to her head, and she said, Chiquita Banana Lady, and we just burst into laughter. She was saying she looked like the Chiquita Banana Lady, and that for me was this incredible moment of just like,
+
+44:53.634 --> 45:14.814
+taking agency back from this horrible cancer. You just went through surgery, but you're going to find something to laugh about and something to get your family to laugh at and to show that you're still there. And so that was sort of the first of many lessons that I learned from my mom, obviously in her health, but also in her illness. And so that set me on this journey, which is, okay, I'm going to
+
+45:14.946 --> 45:44.126
+dedicate my life to trying to find treatments for patients like my mom. I'm going to try to live in the way that she did. And I was sort of well on my way. I finished undergrad at Georgetown. I did a graduate degree at Oxford. And then I was a couple years into med school at Penn when you mentioned Castleman disease, when I went from being totally healthy. I shared earlier I won a bench pressing contest right around that time I was so healthy to being in the ICU with all my organs shutting down.
+
+45:45.250 --> 46:12.446
+story about your mom is a remarkable one uh my first thought when uh you mentioned the chiquita banana lady reference is that uh even though she was the patient it seemed like she was uh successfully taking care of all of you she was she was trying to take care of us yeah i know very little about her only what you've shared but she sounds like a very impressive woman she was amazing i so appreciate you saying that yeah um that comes through so castleman's i've never heard of it who's castleman
+
+46:12.610 --> 46:41.598
+And these physicians like to name diseases after themselves. But my guess is that they're not the ones with the diseases. They're the ones that discover the diseases, correct? That's right. Yep. So Benjamin Castleman was a doctor in Boston at Harvard. He'd been getting these cases of patients that were thought to have lymphoma. And they appeared like they had lymphoma, getting very, very sick very quickly. But when he looked under the microscope at them, they didn't look like a typical lymphoma patient. And so maybe as I share sort of what my progression looked like, I mean, I was...
+
+46:41.826 --> 46:47.134
+third year med student, I just finished an OBGYN rotation. I just delivered babies into the world, which is sort of a
+
+46:47.554 --> 47:11.966
+peak moment in medical school. And then within a couple of weeks, I noticed that I had enlarged lymph nodes in my neck. I felt more tired than I'd ever felt. And you're tired in med school and grad school, you know well, but I was more tired than ever. I had horrible abdominal pain. And I noticed fluid pooling around my ankles. And I was like, this is so weird. What's going on? But the fatigue got worse and worse and worse. And over the course of, it really was just a couple of weeks,
+
+47:12.098 --> 47:35.710
+I got so bad that I took a med school exam and then I went down the hall to the emergency department. I basically stumbled down to the ER and just told them my symptoms and they ran blood work. And I remember my doctor coming back and looking at me and saying, David, your liver, your kidneys, and your bone marrow are all shutting down. We have to hospitalize you right away. And I'm like, what do you mean? I delivered a baby a couple of weeks ago.
+
+47:35.970 --> 48:00.606
+all my organs are shutting down and so they hospitalized me and i deteriorated really rapidly i had a retinal hemorrhage that made me temporarily blind in my left eye i gained a total of about 100 pounds of fluid because my liver and my kidney stopped working you saw that picture where i just flew it everywhere um because of the multi-organ failure and um i needed daily transfusions of red blood cells and platelets just to keep me alive i was on dialysis at the time as well
+
+48:00.738 --> 48:25.118
+So basically everything was shutting down and we had no diagnosis. So we didn't know what it was. Some doctors thought it was lymphoma. Others thought maybe it was an autoimmune disease. Others had no idea what it was. But over the course of about 11 weeks, I got worse and worse and worse. And at one point I was so sick that I said goodbye to my dad and my sisters and my girlfriend at the time, Caitlin. And a priest came in my room and read me my last rites when I was 25 years old.
+
+48:25.314 --> 48:49.950
+Fortunately, right around the time of having my last rites read to me, which was really the end, I mean, I didn't have more than a couple days left, that's when the diagnosis came in of Castleman disease. So basically a pathologist looked at my lymph node and they thought I had lymphoma. They figured it was a really aggressive lymphoma, which is a form of cancer. But they looked at it and just like Benjamin Castleman did, looked at it and said, this doesn't look like lymphoma. This actually looks different. It looks like this thing called Castleman disease, which is basically...
+
+48:50.562 --> 49:16.350
+what we call it, atypical lymphoproliferous disorder. So it's kind of like lymphoma, but it's got features that are more like an autoimmune disease. And so basically your immune system becomes highly activated and starts attacking all your vital organs. So the reason that all my organs were shutting down is because my immune system was producing cytokines and other factors that were basically shutting it down. Do you think that the long hours of medical school, plus being athletic, very driven,
+
+49:16.546 --> 49:44.254
+contributed to the autoimmune flare-up. And we don't often discuss this, but anyone that's dealt with an autoimmune issue, even if it's like psoriasis or something, which can be very severe, but in most cases it's kind of minor to, you know, they're over-the-counter things you can use, but it's associated with people who are pushing very, very hard and tend to pull long hours. And as a consequence, the immune system understandably ramps up its activity and then goes past a tipping point
+
+49:44.354 --> 50:13.758
+where it starts attacking one's native tissue. Yeah, it's funny. No one ever asked that, but it's the right question to ask. And I think people are always sort of afraid to get into the whys of these things happening to you. I'm glad you asked because actually there was a paper that was published a couple of years ago. I think it was in Cell where mice that were sleep deprived, like significantly, multi-day sleep deprived, what actually killed them was a cytokine storm due to their immune system producing all these cytokines. Because we know that sleep deprivation is deadly, right? You don't sleep enough, you know this very well.
+
+50:13.954 --> 50:35.838
+But again, in these mouse studies, the actual thing that killed them was their immune system producing cytokines, including interleukin-6, which is an important cytokine in Castleman's. And by just trying a couple of medicines that basically block the production of some cytokines, you could keep the mice alive longer. Really pointed to this idea that it's sleep causing some disruption in immune balance, causing
+
+50:36.130 --> 51:04.894
+excess production of cytokines causing death. And so I don't know if you, had you seen, I can share the paper with you. It's pretty fascinating. I'm not familiar with that one. I've just. But it connects to your point, right? Yeah. I mean, again, this is all anecdotal coming from my side anyway, is that, you know, but growing up in Silicon Valley and I've known a lot of people who have cancers and who seem to be dealing with autoimmune things. And I know a lot of very ambitious, hard driving people. It's baked into the culture I grew up in, you know, and
+
+51:04.994 --> 51:32.798
+And sometimes I've just wondered about these naturalistic observations. Again, these are not controlled studies where some of the most hardworking, long hour, athletic, academic, hybrid founder people are the ones that oftentimes are dealing with severe health issues. And you're like, how could that be? Well, maybe there's a relationship. And the more I learn about the kind of general backdrop of supporting health, sleep being fundamental,
+
+51:33.122 --> 51:57.086
+and all the rest and natural light exposure, but not too much UV and this kind of thing. You gotta kind of wonder. I'm not saying people shouldn't work hard. Otherwise I'm headed for a quick death because I've always worked very long hours, mostly from a place of enthusiasm, sometimes fear. But I guess the immune system is a highly conditional system.
+
+51:57.282 --> 52:25.246
+I'm not saying mellow, laid-back people don't get cancers, but has that ever been looked at, whether or not temperament and propensity for autoimmune-induced diseases correlate? I haven't seen it. There may be. I mean, what I have seen, and to your point, I think there's really strong data that among people who have autoimmune diseases, stress results in flares of their autoimmune diseases. And so if you have it, stress, lack of sleep, all this stuff can result in flares. I haven't seen data on whether it's sort of like
+
+52:25.346 --> 52:54.622
+at the etiological level of actually causing it. But I think that this mouse study of these mice was sort of eye-opening for me. And I was working crazy hours. And as you heard, I was on a mission. I'm still on a mission, which is to find drugs for patients like my mom. And that meant that I worked crazy, crazy hours. I teach medical students and they work crazy hours. It's really impressive and striking and at times a little concerning. So you get this diagnosis.
+
+52:54.754 --> 53:22.302
+Thank goodness they figured out it wasn't lymphoma and it was Castleman's because that at least gave you a kind of a thin end of the wedge to start exploring various treatments. At the time, was there any treatment for Castleman's disease, known treatment? At the time, there were no approved treatments, but sort of as we were talking about earlier about like sort of information asymmetry, there was a drug that was originally developed in Japan for Castleman's, but
+
+53:22.690 --> 53:50.270
+My doctors didn't know to try it. They gave a form of chemotherapy to me, which fortunately chemo sort of saved my life just in time. But there was this drug in Japan that like has pretty strong data that works for Castleman's, but that just like information hadn't... And the drug is available in the US for another condition. That information exchange just hadn't happened. And actually, I'll share a quick story about that drug. It's called tocilizumab. And it was made by a doctor named Kazuyoszaki or discovered by a doctor named Kazuyoszaki. And...
+
+53:51.490 --> 54:21.456
+I had heard from a colleague that Kazu had given it to himself before it was given to any other humans to prove that it was safe. Old school medicine. Right? This is the 90s. And monoclonal antibodies were a new technology. And so apparently he was afraid to give it to patients because he didn't know what it was going to do. So he's like, I'll give it to myself. So I heard that. And I said, Kazu, I heard you gave yourself teslizumab. He said, no, no, I didn't give it to myself. The nurse. The nurse gave it to me. I was like, all right, Kazu. I love the specificity. Exactly. And so he gave it himself. And he didn't die.
+
+54:21.456 --> 54:50.558
+when he got it, but it was safe enough for him. So he studied it in Castleman's patients, it got approval for Castleman's in Japan, and then it got repurposed for rheumatoid arthritis here in the US and a number of other autoimmune diseases. So it's approved in the US for autoimmune diseases. But like I said, it was made for Castleman's in Japan, approved and available, but my doctors didn't even think to try it. Chemo saved my life, but then I relapsed a few weeks later. We tried that drug from Kazoo from Japan, it didn't work for me. It works in about a third of patients.
+
+54:50.754 --> 55:01.438
+I ended up needing a combination of seven different chemotherapies, adromycin cytotoxin, etoposide, velcade, dexalidomide, rituxin, like the worst chemos out there, was what I ended up needing to get my disease into chemo.
+
+55:01.570 --> 55:31.550
+remission. And just to give you a sense for how sick I was, this is now the third time that I almost died in a six-month period. I was so sick that once they started giving me that combo of seven chemos, I started feeling better with every dose. And these are like the worst chemos in the world, but because they were killing my immune system, which was producing cytokines, which was killing me, I actually felt better on chemotherapy. And eventually, I got well enough to where I could be discharged from the hospital. And there's that picture I showed you from the book, which is me a couple weeks after I got out of the hospital. And I was just so thankful to be alive.
+
+55:31.778 --> 56:01.726
+Yeah, we'll post a link to that photo as well and to your book, of course. Yeah, that photo, if you show that photo to the typical person, they're not going to say that's a healthy looking person, but you said you were so grateful to be alive because relative to where you were before, I mean, 100 pounds of fluid accumulating in your legs and body prior to that. You were in a very unique position because you have this inquisitive mind. It's very...
+
+56:01.954 --> 56:28.926
+whether you were motivated, not just from your illness, but motivated generally based on the story about your mom. And people would listen to you, is my guess. They would at least listen to your questions. I'm reading into this a bit, but I think many patients don't know what questions to ask. They don't know whether the person they're asking has access to the best answers or even the answers.
+
+56:29.122 --> 56:56.062
+I like to think most doctors are benevolent, so let's just assume that, but they're also busy and they get as confused as anybody. I'm not trying to knock on medicine here, but this is just the reality. So simple question, when a physician finishes their training all the way through residency and they start practicing, let's say an oncologist or a general practitioner in the United States, but perhaps elsewhere,
+
+56:56.258 --> 57:21.374
+is the typical physician accessing the literature often? I know they're required to do some continuing medical education, but it could be the case that their education around a disease is just locked in at the time they finish their residency, plus any major updates that come through. How does this work? Because I want to know when my physician finished training, and I want to know how often they read papers, and I want to know who else is on their committee of...
+
+57:21.474 --> 57:50.622
+people that they share ideas with. I want the most connected physician in the world to be treating me. Yeah, and I do too. And I think that the problem is that given all the constraints and requirements of a typical physician, they just don't really have that much time to do all the things that we want them to be doing. So you're right. Physicians are reading the literature, but typically it's because they have a patient with something that maybe led them to it or maybe someone sent that paper to them. It's very random and sort of piecemeal. No doctor...
+
+57:50.754 --> 58:20.062
+can look at millions of papers, for example, and they can't even look at the hundreds that maybe would be relevant for the diseases that they treat. And so they get sort of some watered down summaries. They go to a conference and they hear sort of what's being told, but it's very piecemeal. And I think the big takeaway from this whole conversation is that so much of this is piecemeal and it's not systematic and it is random. And it's, did your doctor happen to come across this one paper? As opposed to the world that we should be in, which is where
+
+58:20.162 --> 58:49.054
+where it shouldn't matter what doctor you go to see because the data is the data. I mean, this whole idea of like, you know, we talked about getting second opinions from doctors. It's like, for some reason, we call it a second opinion, yet we believe that what's being told is like exactly what should be done. And it's like, well, it's an opinion, right? And oftentimes second opinions, you know, aren't consistent with the first opinion because they're opinions. I mean, they're educated, they're driven in science and driven in, or oftentimes grounded in evidence, but it's still,
+
+58:49.218 --> 59:17.150
+you just don't know if your doctor is going to have the information that's needed for you, which is sort of scary, right? Like we sort of, we want to go to our doctor and believe that like, you know, full trust, like, you know, you've got all the answers. And actually I sort of have this concept that I talk about in my book, which maybe will resonate with you and what we're talking about now. I called it the Santa Claus Theory of Civilization, which is before I got sick with Castleman's and when I was a medical student, I had this sort of idea that there were like,
+
+59:17.314 --> 59:31.966
+rooms of scientists and doctors collaborating, working together to come up with solutions, kind of like Santa's workshop and the elves are working together. And as soon as humanly possible that a drug could be discovered, it's at your doorstep. Like as soon as they can figure out
+
+59:32.066 --> 01:00:01.118
+But then I've sort of realized that actually, like there isn't, you know, there aren't workshops, there aren't groups of scientists and doctors, you know, sitting together to figure out solutions. And if they are, it's just not necessarily at the pace that you would hope that it would be at. And so I think that that's just, you know, one of the many things that's been a bit depressing. Yeah, I mean, I'm going to resist the temptation to editorialize too much on that point, because I want to get more information from you. But I can't resist saying that one of the things I've really wished for for a long time is that the
+
+01:00:01.250 --> 01:00:31.070
+the model of how biomedical research is done in the United States would shift from what we call the independent investigator model, where we each have a lab. Huberman Lab is not just a podcast, it was and to some extent still is a laboratory space, although I've certainly have pared down the size of my lab in recent years for the podcast reasons and other reasons. But the point is that in this country, you get a PhD if you decide to do a postdoc and start a laboratory. You have a laboratory that's named after you
+
+01:00:31.362 --> 01:00:56.830
+You get funding to do things that are really associated with your name. It's like a small startup that can grow into a medium-sized startup or a large startup, but you stay independent. The whole notion of the independent investigator is that it's a very romantic model of science, but I think we've reached the point nowadays where the sharing of information and collaboration around a particular goal is far more powerful. And I don't have a magic wand and...
+
+01:00:57.026 --> 01:01:26.270
+the level of influence I will have over the NIH is questionable. But what I'm really pushing for is laboratories named after a puzzle or a disease or a challenge and people coming together to try and solve those issues. Because it's not just a matter of naming and branding. It has everything to do with how willing people are to share ideas as opposed to feeling like they have to fight for their piece of the pie. That's exactly right. So this is perhaps a conversation for another time.
+
+01:01:26.594 --> 01:01:48.702
+You've done a marvelous job of not just trying to educate people about Castleman's, but your story, and we'll continue down that path in a moment, of trying to solve a problem that was life or death for you. And then taking that knowledge and instead of just saying, hey, I'm going to help other people with Castleman's, which you have, to really say, hey, let's do this for all of disease.
+
+01:01:48.962 --> 01:02:16.766
+all of the medicine and it's so admirable. I have to ask, are there other physicians doing what you are doing or are you the lone wolf out there? I think I'm probably the lone wolf in the scope of what we're doing. It's all FDA approved drugs, all 4,000 and all 18,000 human diseases. I'm not aware of anyone else who's taking this sort of all versus all systematic, like let's find the lowest hanging fruit. But there are amazing colleagues of mine who work within hematology who,
+
+01:02:16.866 --> 01:02:43.262
+a doctor named Luke Chen who calls me up when he's got patients on death's doorstep to figure out what can we do, what can we try, we're brainstorming, let's try this or try that. And oftentimes they work and this patient's alive because we tried a combination of five different chemotherapies that weren't made for that cancer. And so there are certainly really incredible and there are so many incredible doctors all over the country. And there are some who are really pushing the boundaries of what's possible.
+
+01:02:43.362 --> 01:03:10.782
+but I'm not aware of any other effort that's being made that's really at the system level of like, I don't care in particular the name of the disease or the name of the drug. I just believe that the 4,000 drugs we have today should help all the patients who can benefit from them, period. Like no one should suffer if there's a drug at your CVS that could help you. And so the problem is that that's not the world we're in. The problem is that we got to create that world. And so that's what we're doing.
+
+01:03:11.138 --> 01:03:38.622
+Yeah, and most scientists are incentivized to find new things. And most physicians are not scientists. That's right. I'm not saying scientists are better, but the two need each other. That's right. So anyway, I will now pull back on my desire to editorialize about how the system could be better. My hope is that some of this will be implemented going forward. But if you would, you're sitting here now very much alive. How did this story progress?
+
+01:03:38.786 --> 01:04:07.934
+Sure. So, you know, I mentioned I got that chemotherapy, got out of the hospital, went back to med school at Penn as a third-year med student. How much time did you get? Spent six months in the hospital and then about six months in medical leave, just sort of building myself back up. Amazingly, I had this girlfriend, Caitlin, by my side through it all. Caitlin never left my side. It was just amazing. And got back to med school, so it was now a total of a year because six months in the hospital, six months recovering.
+
+01:04:08.674 --> 01:04:31.038
+And I was so excited to be back and to really get back on that path that I had before, which is that I'm going to go into oncology, I'm going to help patients like my mom. And I was on an experimental drug. It's actually a drug that's very similar to the drug that my friend Kazoo made. And unfortunately, about a year after I got out of the hospital, I was back in the hospital again with a relapse. And...
+
+01:04:31.234 --> 01:04:58.654
+That relapse is really tough for a few reasons. One, I almost died again for the fourth time and I was in the ICU for a month with all of my organs shutting down. But maybe what was even harder than that was that I was on that experimental drug that we had hoped would keep me in remission and it was helping other patients. And my doctor explained to me that we were out of options. He said, David, we've tried everything. We tried these chemotherapies. We tried this one experimental drug.
+
+01:04:58.786 --> 01:05:27.134
+There's nothing more that we can do. And there was a few minute period where my dad and my sisters and my girlfriend around me and we were just bawling our eyes out. This is the world's expert, to use the Santa Claus theory. This is Santa Claus telling you there's nothing more. And I kept probing him like, is there any cell type or signaling pathway? Is there something we can target? And he said, David, there's nothing. Is there anything in the early stage about, David, there is nothing.
+
+01:05:27.778 --> 01:05:55.518
+And so we just, you know, we just bawled. And then I had a really sort of moment of clarity where it was basically I heard what he was saying, but then I thought to myself, you just gave me seven chemotherapies that were made for lymphoma and my multimieloma. And they've saved my life now three times. It's not long term. Like I know I keep relapsing, but like if these seven chemotherapies are working –
+
+01:05:55.906 --> 01:06:23.166
+do we know there's not an eighth chemotherapy or a ninth drug for something else? Like you can't tell, we haven't tried all 4,000 drugs. We've just tried the drugs that maybe we've thought to try. And so I just locked in right then and I turned to my family and just sort of wiped away my tears and said, I'm going to dedicate the rest of my life, however long that's going to be. It might be a couple of days, maybe it'll be a couple of months, but however long I've got to trying to find out, is there a drug out there that could help me and other patients with my disease that's made for another condition? And, um,
+
+01:06:23.682 --> 01:06:47.198
+became just totally locked in on this. And part of it too, for why it had to be a repurposed drug is that I didn't have a billion dollars in 15 years to make a new drug from scratch. I mean, I wouldn't even known where to start. Right. But I had examples where my life was saved by drugs that weren't made for me. And so I just said, well, we should do everything we can to find something else. And so I started storing blood samples on myself every couple of weeks, um,
+
+01:06:47.298 --> 01:07:14.782
+Shortly thereafter, started doing some work in the lab. I was literally an MD who had a master's in public health who knew nothing about the lab, but started working. We call that dangerous. Yeah, exactly. Very dangerous. And with a clock ticking, right? So you've got a lack of skills, but the clock's ticking down. Very dangerous. And so I started doing laboratory experiments, did a lot of flow cytometry to characterize immune activity.
+
+01:07:14.914 --> 01:07:38.878
+immune cells that were activated, did something called serum proteomics where I measured 1,000 proteins in my blood. Who's letting you do all... I mean, whose lab space are you using? Are you breaking in at night? No, I wasn't breaking in at night. A colleague was very generous. People have done it. A very kind colleague gave me some space in her lab. And so I was doing this work in the lab and also trying to look at other drugs that were being used for related conditions to see what could work for me.
+
+01:07:39.042 --> 01:08:08.222
+And we were making progress. I started a foundation called the Castle Disease Collaborative Network. We really were pushing things forward. And I was optimistic that we would find something. And then I relapsed. Fifth time. Back in the ICU. Organ shutting down. Doctor explaining to my family that this is it. In fact, it was so bad at one point that for some reason over these years, I think it was maybe a bit of denial. I'd never put together a will. But this time, the fifth time, my doctor told family, you need to put down. And so...
+
+01:08:08.482 --> 01:08:35.998
+I had a piece of printer paper that the nurse gave me and I sort of wrote down who I wanted my things to go to and I didn't have much but cried, hugged my girlfriend. She was my fiancee at that time, Caitlin. Just so disappointed that I hadn't figured something out because what I didn't mention is that from that lab work I thought two drugs might be able to work and we tried both of them. We tried cyclosporine, we tried IVIG and it didn't work. And I got worse and I ended up
+
+01:08:36.130 --> 01:09:04.574
+back in the hospital. And so the two drugs we tried, I thought I got my shot and I missed. And I felt so disappointed. And I remember saying goodbye to everyone and starting to sort of have life fade away. And I thought that was it. And they gave me all the chemo. They gave me the highest dose of Topaz. I had this horrible chemo that you could imagine. And two days later, I started to wake up. And Andrew...
+
+01:09:04.993 --> 01:09:32.543
+there's this sense, I call it overtime, and it's basically like, it's like extra time in a game where like every second counts. And I can't tell you the joy that comes from like getting extra, like when you start to wake up after you've said goodbye to the people you love and you're looking at them and like, my sister Jean is here and Caitlin's here and my dad's there. I'm like, oh my gosh. Like when you start getting life back that you thought you lost, and this is now the fifth time
+
+01:09:33.314 --> 01:09:57.214
+I can't put into words what it was like, but I remember like as soon as I started waking up, I saw them and I was like, Gina, I need you to get the lymph node that's in North Carolina to Philadelphia. Caitlin, I need you to get my serum samples that are downstairs in Little Rock, Arkansas to Philly. Like I got another shot at this. Like, and I remember like starting to wake up and being like, oh my gosh, I'm going to get another shot. And so, um, about, um,
+
+01:09:57.346 --> 01:10:24.030
+Three weeks later, I was out of the hospital. I was back in Philadelphia. And that started about a month-long period where I thought all those samples. I did more flow cytometry. I did more serum proteomics. I did immunohistochemistry on my lymph node. And when you put all the data together, what I discovered was that a communication line in your immune system or in all of our immune systems called mTOR was turned into overdrive. And I had a lymph node that I had resected during my last relapse
+
+01:10:24.130 --> 01:10:53.310
+where I actually looked at it and I stained it for mTOR activation and it came back blazingly positive. And so I took the data to my doctor and said, what do you think about trying an mTOR inhibitor on me? Sirolimus had never been used before. Rapamycin is the other name for this drug. It had never been used before for Castleman's, but it's approved for organ transplant rejection. And I sort of had nothing else to try. And so my doctor prescribed it to me. And it's weird. RAPA.
+
+01:10:53.602 --> 01:11:23.422
+at the dose of a transplant dose. So I take rapamycin at the same dose that a kidney transplant patient would take. It's a lot higher than the typical longevity dosing that people do. My dose of RAPA for longevity is zero. Yeah, what do you do, zero? Yeah, I'm not a fan. Okay. We could talk about that a little later. Yeah, we definitely should. A lot of people that were taking RAPA for longevity purposes, I don't want to, because I'll get it wrong, like I don't know what Peter Atiyah is doing right now. He's a friend, we could call him. But my understanding is that a number of people who were very bullish on RAPA for longevity,
+
+01:11:23.682 --> 01:11:48.222
+are no longer bullish on rapa for longevity. Yeah, I've definitely seen that shift. And I'm not sure if it's based on human data, because I don't think anyone's ever done the study in humans. But the reason that people were bullish on it is that every organism that you give rapamycin to, the earlier you give it to them, the longer they live. Now, these are organisms that are in cage settings that are not getting exposed to viruses and pathogens. So that's probably part of it. I mean, I think that whatever
+
+01:11:48.354 --> 01:12:15.870
+maybe longevity benefit you get from the metabolic aspect of rapamycin, I think that's counteracted by the fact that we don't live in cages and we actually get exposed to pathogens. And so there's probably a negative effect in terms of survival because rapamycin is a very potent immunosuppressant. The doses that I take, I take such a high dose that if I were to get your kidney transplanted into me, my immune system wouldn't notice your kidney in my body. I mean, that's the level of dose I take. And so... So...
+
+01:12:16.450 --> 01:12:45.150
+Sirolimus is approved for organ transplant rejection. As you mentioned, it's used sometimes in the setting of longevity. And it had never been used before for Castleman's. In the three and a half years before I started taking it, I almost died five times from my disease. I said goodbye to my family on five different occasions. And my doctors were sure I wasn't going to survive. Since starting rapamycin, it's now been 11 and three-quarter years that I've been in remission on this drug. And it's just sort of like, it feels like such a dream.
+
+01:12:46.242 --> 01:13:07.102
+awesome, I mean, just no other word for it. Your description of overtime is, I think, a very apt one. And I find it equally apt that when you're emerging from near death, you're
+
+01:13:07.490 --> 01:13:35.390
+calling plays like a quarterback. You're telling your sister what she's gonna do with the lymph node. She's gonna run the lymph node downfield, right? You're calling plays. And like, to me, like, you know, you're the quarterback, playing quarterback again. And I can't help but ask, you know, the past that you had as an athlete, do you think it served you? I mean, the level of drive and determination to say like, oh, these eight drugs helped me for a while. They're no longer helping. There's gotta be a ninth. Try the ninth. Doesn't work. Okay, let's try something else.
+
+01:13:35.490 --> 01:13:49.214
+almost dead, come out of near death. All right, you run the lymph node this way. I mean, it's almost impossible to not wonder whether or not you learned some of that resilience playing sport. A lot from playing sports. I mean, I think that, uh,
+
+01:13:49.314 --> 01:14:18.238
+Your listeners may not know Georgetown even has a football team, but we do have a football team. Is that any good? It depends on who you ask. I'm sure it's very good. Good enough to be in some league. We play Ivy League schools, so it's like Patriot League Ivy League schools. But the reason I mention that is that we lost a lot of football games. So, you know, certainly there's a bunch of things I learned from football. I mean, first off, I decided when I was eight years old that I wanted to be a Division I college quarterback. I decided as an eight-year-old,
+
+01:14:18.466 --> 01:14:44.670
+And, Andrew, I literally had poster boards all over my walls with how far I could throw a football, how accurate I was, how fast my 40-yard dash time was, how fast my mile dash – for the next 10 years. And that's literally – that's all I could think about. I was just locked in. And that sort of like 10 years of like working towards a mission is sort of the same sort of approach you need to take to solve a massive problem in healthcare. To discover a drug, it's that same sort of –
+
+01:14:44.834 --> 01:15:13.118
+you know, just constant drive. So I think one part was that it was the first of what's now been a few of these like sprints that I've gone on. So I think that was part of it. Another is mentioned sort of loss and resilience. You know, we lost a lot of football games. You get back up and you just sort of keep fighting. But also physical pain and challenges, you know, broken both my collarbones, broken both my hands at different times. I mean, I remember...
+
+01:15:13.250 --> 01:15:39.390
+There were times when for punishment for the team, we did something called rolling where like literally like you just start rolling on your side on the football field until everyone like gets sick. And then like and then you stop rolling. And like but that's like you're rolling for like many like for a long time until everyone gets sick. That's the kind of like physical like I don't know. I wouldn't say use the word abuse, but it's the sort of physical like demands that get put on your body.
+
+01:15:39.554 --> 01:16:06.398
+that enable you to then gain 100 pounds of fluid in the hospital and be in the worst pain you could ever imagine. I mean, it was way worse pain than breaking my collarbones, but like I'd felt bad pain before. And so like I can feel some bad pain now. And I think that a lot of that came from football. I also think that when I was in the ICU for that first six-month period, I learned a lot about myself and I learned a lot about how do you overcome challenging situations. And, um,
+
+01:16:06.626 --> 01:16:35.326
+I think there were three things that really helped me. So the first was that the whole time I was in the ICU for that six month period, I had this clear vision for the future, which was a family with Caitlin who I was dating at the time and a career discovering drugs for patients in memory of my mom. So that like clear vision for the future helped to deal with what was just horrible excruciating pain because of the fluid that you gain around your organs. It felt like I was getting basically simultaneously stabbed for months at a time. So one is vision for the future.
+
+01:16:35.458 --> 01:17:02.974
+Two was that I got so much strength from my family around me. Like my dad, my sisters, Caitlin, like they were holding my hands and I could feel their strength in my hands. And like I could, they were like literally helping me to keep going. And I remember there was a moment during the, when I very first gotten sick, so the first time I almost died from my disease and doctors came in, said I wasn't gonna make it. We had no diagnosis at this time, said goodbye to my family.
+
+01:17:03.234 --> 01:17:31.838
+you know, just heartbroken. And I remember with every breath I took, just the horrible pain. And so when you have that much pain with every breath, you start slowing your breathing. And I was starting to let go. I was just, I was, you know, letting go. And I thought that I was maybe going to miss out on a couple of days of life. But, you know, I'm in a lot of pain. I'm just going to slow down and let go. And I remember hearing my sister, Gina, who's on my left side. She was holding my hand. I remember her looking at me and everyone else was crying and sort of like, I think it was maybe, you
+
+01:17:34.306 --> 01:18:00.062
+had an idea for what was going to happen but gina was holding my hand and she said just breathe dave just breathe and i remember when i heard that i was like all right i'm gonna do one more breath and it's gonna be really painful but i got this and i did one more and i did another one and fortunately the medicines that i'd received helped me to to make it a little bit longer and so the key takeaway for me was that like you can do anything for like one minute or one hour or one day and
+
+01:18:00.354 --> 01:18:25.438
+But you can't do – like if you told me at the beginning, David, you're going to be in the worst pain of your life for six months. It's going to be horrible. You're going to suffer. Your organs will be failing. No way I would have the strength to survive that. But I could survive for one minute and one hour and one day. And I think that – I think a lot of that you learn. I think I learned some of that from playing football. And I think that just this sort of like putting your body through a lot of challenges I think helped me a lot. Mm-hmm.
+
+01:18:26.306 --> 01:18:50.558
+Older sister or younger sister? Two older sisters, yeah. Lisa and Jean are seven and five years older than me. Awesome, man. As the younger brother of a older sister. They're the best. They're the best. They're the best. The best. Yeah, big, big shout out for the sisters, older and younger. Yes. The best. I'd like to take a quick break and acknowledge one of our sponsors, Function. Last year, I became a Function member after searching for the most comprehensive approach to lab testing.
+
+01:18:50.850 --> 01:19:20.816
+Function provides over 100 advanced lab tests that give you a key snapshot of your entire bodily health. This snapshot offers you with insights on your heart health, hormone health, immune functioning, nutrient levels, and much more. They've also recently added tests for toxins, such as BPA exposure from harmful plastics, and tests for PFASs, or forever chemicals. Function not only provides testing of over 100 biomarkers key to your physical and mental health, but it also analyzes these results and provides insights from top doctors who are
+
+01:19:20.816 --> 01:19:48.798
+expert in the relevant areas. For example, in one of my first tests with Function, I learned that I had elevated levels of mercury in my blood. Function not only helped me detect that, but offered insights into how best to reduce my mercury levels, which included limiting my tuna consumption. I'd been eating a lot of tuna while also making an effort to eat more leafy greens and supplementing with NAC and acetylcysteine, both of which can support glutathione production and detoxification. And I should say, by taking a second Function test, that approach worked.
+
+01:19:48.930 --> 01:20:18.896
+Comprehensive blood testing is vitally important. There's so many things related to your mental and physical health that can only be detected in a blood test. The problem is blood testing has always been very expensive and complicated. In contrast, I've been super impressed by Function's simplicity and at the level of cost. It is very affordable. As a consequence, I decided to join their scientific advisory board and I'm thrilled that they're sponsoring the podcast. If you'd like to try Function, you can go to functionhealth.com slash Huberman. Function currently has a wait list of over 250,000
+
+01:20:18.896 --> 01:20:39.390
+but they're offering early access to Huberman podcast listeners. Again, that's functionhealth.com slash Huberman to get early access to function. You had an amazing team. So another parallel to football and another signal that for people combating disease or
+
+01:20:39.810 --> 01:21:08.382
+just general health issues, that that social support piece is so key. I mean, there's so much data on this. And I mean, we've done podcasts about this and we could probably do a hundred more. And the message is always the same, which is to the best that you can surround yourself with at least one person you can rely on and be the best way to do that is to be that person to people. Should you stay healthy, you have that person. Should you not be healthy, you have that person. So yeah.
+
+01:21:08.578 --> 01:21:38.110
+and over and over. It's really, um, an incredible story because you, you emerge from it with 11 years of overtime. Do you still think about it as overtime? Fifth overtime. Yeah. Do you, although I will admit, I think to your question, I don't have the same sort of, cause there's this in overtime, there's a, there's both fear and clarity and, and the, the fear I think drives some clarity. I think you'd be able to talk to the science of a lot more than I would. Um, I will say as, as 11 and
+
+01:21:38.402 --> 01:22:03.678
+years and three, three quarters of a year go by. There isn't maybe the same heightened sense of like, I'm in overtime. But you know, every once in a while, I have a port where I get my infusion every few months on my chest. I've got scars on my neck from where lymph nodes got taken out. And every once in a while, I just sort of put my hand here and here and it reminds me, okay, like I'm in overtime, like I got to be really thankful. Because, you know, we don't know how much time we have.
+
+01:22:04.130 --> 01:22:31.038
+The brand's wild in this way. We had a guest on this podcast, Michael Easter. He wrote the book, The Comfort Crisis. It's an incredible book really about how to navigate life generally and doing really hard things voluntarily. And he go do really hard expeditions and then come back from them with a renewed sense of gratitude for like the smallest things, the smallest things. And I asked him, how long does that gratitude last? And I think he said about,
+
+01:22:31.138 --> 01:22:59.038
+two months, and then it resets. And of course those weren't life or death circumstances of the sort that you're describing. So he just goes on more of these things, right? And it's a wonderful book and an important, dare I say, an important book for people healthy and certainly healthy or sick. I think this notion that you're on borrowed time or overtime, it's hard to hold onto because you also have to just live your life. But clearly you're making the most of that. And as I mentioned earlier,
+
+01:22:59.330 --> 01:23:27.646
+you know, in service to others. So your background as an athlete helped you navigate this health challenge. Then the health challenge dovetails with your work as a physician, and you're really a physician scientist because you hold both titles and formally and as a practitioner. So nowadays, do you get contacted by people all the time whose kid or themselves are dealing with a challenging disease?
+
+01:23:27.842 --> 01:23:50.398
+with the question, is there a drug that's approved that can help me or a combination of drugs? We do. We get contacted a lot. And to share sort of what these last 11 and a half years have looked like. So after medical school, I actually enrolled in business school in part because I realized that the greatest barriers to progress did not appear to be scientific or medical. They had
+
+01:23:50.530 --> 01:24:05.342
+to do with things like getting people to collaborate with one another, efficient use of resources, coming up with a strategy to solve a disease. So it was actually in business school that I discovered Sierra Limas had saved my life. And after business school, I joined the faculty at Penn and set up a lab.
+
+01:24:06.178 --> 01:24:30.590
+We got started out first focused on Castleman's and first it was better understanding how does mTOR play a role in Castleman's disease. We started treating other patients with the drug that I'm on, Sirolimus. And so I'll never forget, we treated a patient in Brazil and then treated a patient in New Zealand. But I just heard about them. I wasn't physically with them. But then the fourth patient we treated was a patient named Joey who was a child, a 13-year-old boy at Children's Hospital of Philadelphia.
+
+01:24:30.946 --> 01:24:40.030
+It completely turned his disease around. He was literally dying in the children's hospital. We used Sirolimus and I would come in every day to see him and I'll never forget
+
+01:24:40.194 --> 01:25:05.630
+seeing the blood work seeing him the couple days after we started sirolimus and it was just andrew it was so incredible to like see this boy who was on death's doorstep started to turn around because of the drug that saved me and now we're saving other people and again we'd use it in brazil use in new zealand but i hadn't seen them i hadn't like felt like what his family was feeling i actually just saw joey a couple days ago and his parents a couple days ago as well um he's a he's a college student at temple university now but
+
+01:25:06.274 --> 01:25:26.718
+So that for me was this huge moment. It's like, oh my gosh, like the drug I'm on is helping other people. It's not just this sort of one-off thing. And then we found a drug that's used for a bone marrow condition called myelofibrosis that we thought could also treat Caslin's patients. So there was a young girl named Kyla in a hospital in Chicago, wasn't responding to anything. And she didn't respond to my drug either, serolimus.
+
+01:25:26.818 --> 01:25:56.638
+We recommended her doctor try ruxolitin, first time ever for Castleman disease. And she responded incredibly well. She's in college now at Marquette University. She's going to be a nurse. And that was amazing. I was like, OK, not only did we find this drug for me and give it to other people, but now we find another drug for Castleman. It's like, wow, maybe there's even more we can do. So our lab kept working and working. And that's when Michael, the patient with angiosarcoma, came to us back in 2016. And we found out that this drug for melanoma could actually treat his angiosarcoma cancer.
+
+01:25:56.802 --> 01:26:17.214
+And then it's, oh my gosh, we can find for another disease. And this over the course of the last 11 years has totaled 14 drugs for diseases they weren't intended for. And with every one of them, we get so excited. And then we also think to ourselves, how many more drugs are there out there that are made for one disease that could actually treat more diseases?
+
+01:26:17.954 --> 01:26:47.518
+That meant that three years ago, as artificial intelligence was really continuing to move forward at an incredible pace, my co-founders, Grant Mitchell and Tracy Zecora Grant, was utilizing artificial intelligence to support drug companies with finding new uses for their medicines, to find subpopulations that might benefit from their medicines. But we thought, what if instead of using AI, one drug company at a time to find one new use for medicine, what if we could utilize artificial intelligence to scan across all drugs and all diseases to find the best opportunities?
+
+01:26:47.714 --> 01:27:04.318
+So we started EveryCure three years ago, and since starting EveryCure, you're absolutely right, we get contacted by lots of patients and families, and we try to help them any way that we can. And I'll share a couple really exciting examples. And at the same time that we're having all these incomings about people that are on death's door,
+
+01:27:04.706 --> 01:27:34.558
+What we keep focusing on is can we find these matches like lidocaine for breast cancer or DFMO for Bachman-Bopp, that syndrome I mentioned, can we find these matches and do the work so that way people don't get to death's doorstep, do the work to do the clinical studies, get the word out so doctors are prescribing them so they're not coming to us for a Hail Mary, but we're actually getting the work done ahead of time so that way the drug is just being used. Can we match every drug to every disease that they can treat and do the work to get it to people? Because that's really...
+
+01:27:34.722 --> 01:28:01.854
+I think the way that we really solve problems at scale as opposed to this sort of that one-off Hail Mary approach. But I'll share a couple one-off approaches that I'm really, really proud of. One of them is a patient named Al in Vancouver who wasn't responding to any medicines. He also has Castleman's and the subtype that I have, the really deadly one. And the number one ranked drug in our machine learning algorithm for Castleman disease when we ran it for the first time two years ago,
+
+01:28:02.050 --> 01:28:25.694
+was a TNF inhibitor, actually. I mentioned TNF earlier. And based on some other work in our lab, we thought that maybe we could try it for him. He received the drug. He responded really well. For Castleman's? For Castleman's, yeah. TNF inhibitor. Tumor necrosis factor? Yeah, TNF inhibitor. Yeah, so sorry, not TNF directly, the inhibitor of TNF, exactly. So we gave him adalimumab. And he responded incredibly well. He's been doing great now for...
+
+01:28:25.794 --> 01:28:55.582
+published in the New England Journal of Medicine earlier this year. Can I ask you, forgive me for interrupting. Sure. Okay, so an inhibitor of tumor necrosis factor alpha. TNF alpha is involved in inflammatory response. Earlier you said that this inhibitor can help treat this condition of multiple strokes in childhood. Okay, strokes are basically bleeding out in brain areas essentially, right? Okay, I'm sure there's a mechanistic pathway that can be, you know- Connected, yeah. Connected to that, right?
+
+01:28:56.066 --> 01:29:24.222
+involving any number of things. And I'm sure there's a mechanistic pathway that can be linked to this other observation. Does it matter to you? Like, does it matter that, like, I think I actually have seen papers where, you know, TNF alpha is involved in the kind of like endothelial neural interface, and then you have inflammation, and then you have some shearing, and then you have bleeding. And okay, so like I can, it's a just so story in my mind that works, right?
+
+01:29:24.354 --> 01:29:52.638
+Does it matter or is the goal to screen drugs in patients as these Hail Mary passes and figure out things that work and then worry about mechanism later? I mean, this is typically not the way science and medicine is done, especially in this country. People don't like the notion of eating a plant or eating a seed and then seeing benefits and not knowing what the molecules are. I mean, we like reduction of science in this country. This is changing somewhat, but that's been the pattern. To you, for a patient that's suffering,
+
+01:29:53.154 --> 01:30:02.878
+is all that matters that they get better. I could understand why that might be the case. Yes, 100%. Ever since I saw my mom die from brain cancer,
+
+01:30:03.106 --> 01:30:28.638
+All I've wanted to do is think about how can we help people with these horrible conditions. And then when I went through my own experience, I realized that, oh my gosh, helping people with these horrible conditions may not be spending my whole career to develop one drug. It might actually be spending my whole career finding out all the uses for all these other drugs. And to use a football analogy, it's like we've got all these drugs that are on the one yard line that could be useful for a new condition, but there's no incentive to do that. So can we just push them in? So yes, it's
+
+01:30:28.930 --> 01:30:52.254
+It's all about can we help patients and I think it goes bi-directionally. So when a drug helps a patient like that TNF inhibitor helped Al, we believe it's because T cells in Caslin's patients, CD4 positive T cells, are producing too much TNF when they become activated and we've shown that in the lab. So you can actually start working backwards. So like when a TNF inhibitor helps a patient, let's look at their blood and let's figure out why. And then maybe we can learn something for the next patient.
+
+01:30:52.802 --> 01:31:21.694
+So I think it should be bi-directional, clinical observations and in the lab, and let's go in both directions. And then I also wanted to share about another patient named Joseph who has a rare cancer called Poem Syndrome. And so his girlfriend, Tara, reached out to us in one of these sort of Hail Mary attempts because his doctors were getting ready to take him off life support because he was dying from his Poem Syndrome. And we recommended three drugs that are typically used for multiple myeloma. We mentioned myeloma earlier. Myeloma and Poems are really, really similar.
+
+01:31:21.826 --> 01:31:47.774
+So again, it wasn't rocket science to recommend three drugs that are used for a really similar form of cancer for his condition. But he was dying. His doctors were afraid to try chemotherapy. They were worried that it would kill him, the drugs himself, but they were going to take him off life support. So they tried it and he responded incredibly well. He's been doing great. It's been over a year and a half of remission. And I mentioned all of these examples because like each one of them sort of
+
+01:31:47.938 --> 01:32:17.470
+teaches us something else about this. And that's that like, there's similar conditions yet they weren't being, you know, but we weren't thinking creatively. Yes, there were no treatments for Poeum syndrome, but there were treatments for myeloma. And so, you know, and there's shared mechanisms between the two. So I think that some doctors are doing this, but we have to create a system where we uncover these and then we can get it out to the masses so they use them. The fear is that you try one of these novel drug applications. Drugs aren't, sorry, existing drug
+
+01:32:18.114 --> 01:32:45.566
+used in a novel way, to be very specific with the language here, and a patient gets sick or dies. It wasn't but, gosh, maybe a decade and a half ago that this kid was given gene therapy and died. And that delayed setback, however you want to view it, the whole field of gene therapy by a very long time. All it takes is one patient death. And then in the supplement realm, I don't know if you remember this, but
+
+01:32:45.666 --> 01:33:04.798
+because we're about 10 years apart, you're younger than I am, is tryptophan, the amino acid to induce sleep because it's in the serotonin synthesis pathway. But the binders used in a particular batch of tryptophan that I think was sold out of Japan, although,
+
+01:33:04.898 --> 01:33:33.566
+ended up being contaminated and somebody got very ill and died. You couldn't buy tryptophan for a long time. Now, tryptophan, not as critical as life-saving drugs, in my opinion, except the naturally occurring tryptophan. But all it takes is one bad situation and the whole thing gets vaulted for a very long time. So how do you mitigate that risk? Is it by only focusing on patients that are really kind of at the end of their rope in terms of possibilities?
+
+01:33:33.794 --> 01:34:00.094
+And it seems to me that the medical community has been pretty open to what you're doing. But I have a little bit of a kind of like traditionalist fear voice in the back of my head. Like what if you start giving aspirin to kids with this other condition and kids start getting really, really sick and you can't pull those symptoms back? Because it's one thing to halt a drug and symptoms stop. It's another to halt a drug and...
+
+01:34:00.450 --> 01:34:23.454
+those side effects, symptoms, whatever you want to call them, persist. And God forbid a kid dies. So what you're doing is extremely exciting, but it's also risky. Yeah. You're asking all the right questions. I mean, I think that there's a couple of ways that we think about this. And one is that we really do try to avoid the Hail Marys, as you mentioned, and as you thought.
+
+01:34:23.586 --> 01:34:52.958
+lots of people are reaching out to us. And unless we have solid evidence about a drug for that disease, we don't want to just speculate. Because to your point, speculation can actually lead to harm. And there's a fine line between speculation that could save a life and harm. And of course, we are only doing what we're doing to help people. It's a nonprofit organization. We literally just exist just to help people. There's nothing else here to it. So we definitely don't want to cause harm. So one part is that we focus on
+
+01:34:53.250 --> 01:35:19.262
+We look across everything versus everything, every drug versus every disease to find the best opportunities, and then we move them forward in a really rigorous way. We do laboratory studies, we do clinical trials, we evaluate the results of those trials, we look in observational data, so we can be really rigorous about the things that we do at the end of the day, say we are advocating for this use. That's one way to do it. The other thing to consider is that there's always a physician that's prescribing the medicine to the patient.
+
+01:35:19.362 --> 01:35:47.262
+And so the best thing we can do is to educate those physicians and those patients on what it is that maybe we found in a clinical trial or in the lab works, but it's still gotta be decision between the patient and their physician. And what about outside the domain of disease in the domain of health? Very brief anecdote, colleagues of mine, some don't like when I tell this story, but I'm gonna tell it anyway. Love it. Because many years ago, I went to visit Columbia University
+
+01:35:47.842 --> 01:36:16.510
+University School of Medicine, right? So like Columbia Med's a fantastic place. And there's a Nobel Prize winning neuroscientist there. Met with him to discuss his work. He happens to be an MD, but he's a researcher. And I noticed he chewed six pieces of Nicorette inside of the 45 minutes we met. So I asked him like, what are you doing? Guy was in his late 60s then, now he's in his late 70s. Very, very sharp. Nobel Prize wasn't an accident. He looked at me like this and he said, nicotine is protective against Alzheimer's.
+
+01:36:16.610 --> 01:36:44.606
+and Parkinson's. He said smoking and there wasn't really vaping then, but smoking will kill you, but nicotine isn't carcinogenic. Nicotine, despite raising blood pressure, protects dopaminergic neurons and cholinergic neurons. So that's why I do it. And he said that he used to smoke and he was much sharper, now he uses Nicorette. And I thought, well, should I use Nicorette? So I said, should I be doing this? He said, you're young, you probably wanna wait until you're in your 60s or 70s. He said, but it's protective against Parkinson's and Alzheimer's.
+
+01:36:44.738 --> 01:37:13.982
+And he also said, don't get your head hit, don't play football, you know, this kind of thing. Okay, so I took that and I decided, all right, someday I'll chew Nicorette. Now nicotine is all the rage. I actually don't suggest that most people take nicotine because of the blood pressure effects. He's a constrictor, there could be other things. It's very, very popular, but very, very habit forming slash addictive. So I wanna be very clear about that. But I realized there are really smart people inside of my profession who have medical degrees, who are doing things to promote their health.
+
+01:37:14.210 --> 01:37:41.758
+like take lithium, not continuously, but for one or two months per year. I know a colleague doing that, a colleague taking nicotine is now in his late 70s and still very, very sharp. Now you can't run the other, you can't be the control experiment for yourself. But what I want to know is, do you think that there are things that are of value that people can and should explore to maintain or promote their health, to avoid disease?
+
+01:37:42.274 --> 01:38:12.190
+in the same kind of framework that you're approaching the treatment of disease. Absolutely. And I think we need to be as rigorous in this realm as in the world of treating disease. I think that the challenge is that there's such limited data, right? Like you said, your one friend is doing really well, but it's hard to know, was it because of the Nicorette or is it that he was going to be fine either way? I just think we got to figure out ways. And I think you've done such a great job of spotlighting these opportunities so that way people will think about it more and actually will do further investigation.
+
+01:38:12.770 --> 01:38:36.382
+I was thinking in terms of this prevention side of things, of course, about GLP-1s. And so, of course, there's interesting evidence emerging, and you'll know better than I will, but around improvement in Parkinson's symptoms in patients that are on GLP-1s and have Parkinson's disease, improvements or reduction in risk of Alzheimer's and also breast cancer, people who are on GLP-1s. And so there's likely a very complex interplay between
+
+01:38:36.578 --> 01:38:53.310
+weight loss, and maybe it's the GLP ones that are reducing risk of these things because of metabolic effects. Maybe there's direct effects. Maybe it's anti-inflammatory. So these are preventative concepts with pharmaceutical products that I think we need to be thinking about. And to your point,
+
+01:38:53.570 --> 01:39:22.750
+There really isn't an actual line between natural and pharmaceutical. I mean, think about the drug I'm on, Cirolimus. It's called rapamycin because it was found on the island of Rapa Nui in the soil of – I don't know if you know that story. It was found in – so rapamycin or Cirolimus, the other name for it, was found in the soil of the island of Rapa Nui. And there was a researcher at Wyeth Pharmaceuticals who was going all around the Pacific Ocean to a bunch of different islands and picking up soil samples. And he thought that maybe I could find some drugs in the soil.
+
+01:39:22.850 --> 01:39:50.238
+And he eventually found this molecule now called rapamycin where they synthesized a bunch of it. It's completely naturally occurring from... And the other name for Rapa Nui is Easter Island. It's from the island, from Easter Island. So synthesized it and they initially thought that it might be a good drug for... As an antifungal, but it's a lousy antifungal. And so they're trying to figure out like what else could it do? And they found out that it's a really potent immunosuppressant. And in fact, the research into the immunosuppressant role ended up
+
+01:39:50.402 --> 01:40:13.758
+know, really accelerating understanding of how the mTOR pathway works in the first place. And it actually is an amazing story that was done on Radiolab about how it eventually, or at one point it was shelved, Wyeth and Pfizer decided not to study it. And then it sort of got taken off the shelf and it got approved for organ transplant rejection. But I just think about something like that. I mean, if that scientist hadn't
+
+01:40:13.954 --> 01:40:36.830
+up the soil sample in Rapa Nui, I'm not sitting here with you talking to you, right? And of course, there's thousands of people all over the world who aren't sitting here talking to anyone because that drug wouldn't have been discovered. And it was in the soil. And it's not some pharmaceutical synthetic thing. This is a totally naturally occurring compound. So I think the line that we put between creatine and sirolimus
+
+01:40:36.930 --> 01:41:04.766
+and GLP-1s, there's a lot of overlap here. And yes, some of these molecules are very much synthesized. And you think about the chemos that I've gotten are like horrible compounds that you probably don't want to put in your body. But it's a lot grayer than I think we like to think it is. I think the term is bioprospecting. When people from pharmaceutical companies go out and look for things in nature and then develop drugs from them. We had a guy on here, very impressive guy, Chris McCurdy, who's down in Florida. He studies kratom.
+
+01:41:04.930 --> 01:41:34.174
+and kratom leaf products. Kratom is a, it's being sold as a kind of natural opioid replacement. I just should, anytime it comes up, I have to be very careful because you all cut clips and you take them out of context. So I'm going to just, I've learned how to guard that against that, forgive me. But kratom products and the kratom leaf have been used by some former prescription opioid addicts to get off the
+
+01:41:34.690 --> 01:41:58.686
+prescription drugs. However, it's very clear that a lot of these products which are sold over the counter in convenience stores, corner stores, 7-Eleven, etc., CVS, can also be highly addictive alone. And they're sold to kids. It's a serious, serious issue. But the kratom leaf, kratom I think is the way it's the traditional pronunciation,
+
+01:41:58.978 --> 01:42:24.414
+contains a bunch of different plant alkaloids. And the synthesized purified kratom is the one that has this pain relief aspect that also can be very addictive. And we discussed the coca plant and cocaine, but also other elements within the coca plant that he runs a laboratory that are being isolated and being tested for different pain relief and psychoactive properties that can be very beneficial to people. So bioprospecting is something that
+
+01:42:24.642 --> 01:42:53.598
+drug companies don't really discuss a lot, but the way they're doing this is going into nature, looking at the kratom leaf, the coca plant. Micunapurines is this velvety bean that is 99% L-DOPA. Oh, really? Wow. Yeah. You can buy this over the counter. So the line between supplementation and prescription drug is very, very fine. It is. It's just that there's no control over the over-the-counter stuff. Exactly. And so this is where it runs into...
+
+01:42:53.698 --> 01:43:21.886
+and gets a bad reputation and understandably so. We don't want people harming themselves with this. I'm beginning to think that what's really needed and people in the current administration do listen to the podcast. I don't know what they do with the information, but I think we need more thoughtful, safe bioprospecting to develop drugs that can be tested in preclinical models, animals. Preclinical means animals, folks. And then
+
+01:43:22.786 --> 01:43:49.534
+and eventually clinical trials, but I don't know that we have the time for clinical trials on all these bioprospected molecules or even the molecules that you're talking about, which are already FDA approved. It sounds like a lot of it just has to be run in real time in people. Like the experiment in some sense has to be done in humans. I just don't see, otherwise it's gonna be, you know, another 50 years before we have a cure for Alzheimer's or we solve some of the most serious,
+
+01:43:49.666 --> 01:44:16.510
+psychiatric illnesses. I agree. The answer comes from actually testing these things in humans. There are so many things that cure mice and they don't ever translate to humans and vice versa. So I think that I'm really bullish on the idea of leveraging the world's biomedical knowledge and using artificial intelligence to help to prioritize among all of these different things. And so at the end of the day, you know, we talk about the 4,000 drugs, the 18,000 diseases.
+
+01:44:16.642 --> 01:44:46.014
+The reason we do the scoring on everything versus everything is so that we can just know where to start. Because, you know, I mean, we rank everything versus everything. And maybe the fifth highest scoring thing is the thing to go after. Maybe the 10,000th highest scoring thing. The point being is that AI can at least help us to focus in on where do you start. Because to your point, there's so many opportunities of the existing drugs that we have, of the molecules that are already available in nature. But you need somewhere to start. And I think AI is really well positioned to direct us humans to where to start.
+
+01:44:47.170 --> 01:45:10.462
+Amen to that, because in theory with AI, you could develop, I guess they call it in silico, you could say, let's run 10,000 cell cultures in parallel. The graduate student costs nothing. They don't need to sleep. It's AI after all. And with all the properties of this immune cell type, different concentrations of drug,
+
+01:45:10.690 --> 01:45:21.118
+And while it's not a real world experiment, you can get an indication of what the outcome might be and what might be worth taking a better look at. Is that what you're imagining? That's right, and also,
+
+01:45:21.250 --> 01:45:51.216
+That's a true simulation where the work hasn't been done. What also is the case is that, as you know, there are labs all over the world running experiments all the time on various cell lines and animal models and humans. All of that's happening. And so what I really am bullish on using AI for is not to simulate something that hasn't been done yet, but it's actually to find connections between what has been done. So we know, the example earlier, that one lab found increased PD-L1 expression in this one form of
+
+01:45:51.216 --> 01:46:21.022
+cancer and this drug inhibits PD-1. So therefore, let's make a connection that no one had made yet. So there are two truths that hadn't been connected. A and B are connected, B and C are connected. Let's connect A to C. And I think that AI is particularly well suited to find these patterns of things that we know. So it's not a simulation. It's actually just connecting really like breadcrumbs into one story. You're a parent. I am.
+
+01:46:21.250 --> 01:46:50.526
+do you navigate healthcare for a kid knowing what you know about medicine and knowing what you know about what medicine doesn't know? I'm a very rigorous parent of two kids when it comes to healthcare. Yeah, I've got a seven-year-old and a three-year-old, which it feels like a dream to be here talking to you 15 years after I went through all that I've gone through. It definitely feels like a dream that I'm able to tell you I've got a seven-year-old and a three-year-old. I'm so lucky. But like you said, I'm
+
+01:46:51.234 --> 01:47:19.198
+I'm really rigorous. One of my doctors suggests, try this for my daughter. I ask a lot of questions. I try to really stay on top of things. And it sort of gets me thinking about something I was hoping to ask you about. And it's that over the course of my challenges and sort of the ups and downs that I've had in my health and the work that I've done to find treatments, I've found that I think there's this circuit that, again, I'd love to get your thoughts on. So I find that
+
+01:47:20.290 --> 01:47:45.790
+starts with hope. So I'm hoping for some future. So maybe it's that my child's health condition will be improved or my health condition will be improved. But, you know, you start with some sort of hope that you hope something will happen. And then that drives some amount of action. So like maybe in my case, you know, I run experiments on my own blood samples. And then that results in some impact that, you know, maybe I learn something, maybe that drug is going to work for me. And that impact gives me more hope. And then it creates this circuit. So it's hope
+
+01:47:46.114 --> 01:48:13.374
+action impact, which gives you more hope, action, impact. And I haven't figured out exactly like if there's some neuroscience behind this, but I found that for me, and just thinking about your question around whether that's helping your child with a medical issue that they're facing or again, my own, that that circuit has just been a game changer for me. I don't know if there's some neuroscience behind that that you can help me to understand this hope, action, impact. There absolutely is.
+
+01:48:13.474 --> 01:48:40.670
+And the person who deserves credit for revealing this circuit is my colleague, Joe Parvizzi at Stanford, who's a neurosurgeon. Wow. Who was in the brain of awake patients, stimulating different brain areas in anticipation of a neurosurgery, like you described earlier, and had electrodes in a structure called the mid-cingulate cortex. It's part of a larger network, of course, as is every brain structure. And he noticed when he stimulated
+
+01:48:40.834 --> 01:49:08.670
+sub-region called the anterior mid-cingulate cortex that patients would report in real time that they felt like there was some challenge kind of bearing down on them like going into a storm each one described it differently but that the stimulation also made them feel as if they wanted to lean into that challenge now here's where it gets really interesting if he marches the electrode back a millimeter or less completely different set of effects laterally
+
+01:49:08.866 --> 01:49:32.062
+completely different set of effects. So the anterior mid-singulate cortex seems to be the seat of some sort of sense of tenacity to lean into challenge. It gets really interesting when you start looking at the data of kind of volumetric imaging of this structure in people that, for instance, successfully overcome obesity through exercise and diet, or people who decide to undertake some other challenge.
+
+01:49:32.162 --> 01:50:01.246
+a cognitive challenge, or learning how to dance, something that's challenging. And then you look at the literature on longevity, and you look at this group of so-called super-agers, which is a misnomer because they actually age very slowly, right? And what you find is that psychologically, they report a very strong will to live. And their anterior mid-singulate cortex is one of just several areas that seems to maintain volume as they age. Wow.
+
+01:50:01.410 --> 01:50:27.358
+relative to these age match cohorts. Now, none of these are perfect experiments on their own, but when you start to put these together as a collection of things, you realize that all the things that are the reverse of depression, so what's major depression? A lack of positive anticipation of the future, lack of understanding or belief rather, lack of belief that changing one's behavior could change circumstances, like get a job or new relationship or overcome something.
+
+01:50:27.618 --> 01:50:56.286
+And you see the exact inverse of that in people with a kind of naturally large or perhaps self-fertilized anterior mid-cingulate cortex. These people report a lot of positive anticipation about some hopeful future event. And it's not always a big monumental thing. Sometimes these are closer milestones. Sometimes it's a bigger thing. And they live longer and they have this incredible will to live.
+
+01:50:56.514 --> 01:51:24.414
+you know, taking this to its kind of extreme conclusion that the will to live sits somewhere in the network of this structure. It's not just this structure and it's intimately related to dopamine networks. So reward reinforcement and learning networks and all the rest. But, you know, it's hard to pinpoint one structure, but if I had to, you know, put a pin in one structure, it would be Joe Parvizzi's discovery of the anterior mid-cingulate cortex. And it has all the elements of, you described hope, plan,
+
+01:51:24.578 --> 01:51:53.630
+And action. Exactly. Repeat. Yes. And so for people who are not ill or who are ill, having that sequence, a good friend who was in tier one special operations in the SEAL teams, he described this as when there's a challenge, you have to shorten the horizon, get a forward center of mass, but think duration, path, and outcome. What path, how long, outcome, iterate.
+
+01:51:53.826 --> 01:52:23.774
+And it's the same way you work down a football field is the way you kind of lay through these challenges. So again, I'm creating a tapestry from a bunch of disparate things here, but none of it is outside the realm of a peer reviewed science. It all sits there. So we haven't scanned your brain. I don't think we need to, to know that your anterior mid-cingulate cortex is clearly very robust. And I would wager the hypothesis that it was probably built and reinforced
+
+01:52:23.938 --> 01:52:53.918
+your postering up of athletic goals on the wall of your childhood bedroom. I think you're right. I think you're right. Yeah. The more you work, you know, the better your times get, the better those numbers get. And then, you know, as you said, it becomes a true circuit. You know, the thing you're hoping for when you get closer to that thing you're hoping for, it drives you to take more action. And then you can keep going in that circuit. Well, clearly you are living in that circuit and it lives in you. Could you tell us about ways that people can get involved with
+
+01:52:54.402 --> 01:52:59.678
+every cure. I have to imagine more information is better than less.
+
+01:52:59.938 --> 01:53:29.904
+So what can people do? Sure. So anyone can go to everycare.org slash ideas and tell us about maybe there's a drug that you were prescribed off-label by your doctor. Maybe you're a researcher and you think that a drug could be used in a new way. So you can go to everycare.org slash ideas, tell us about that medicine, and we'll look into it. We'll compare it next to our AI predictions, and we'll determine whether maybe it can be moved forward. If you're an expert, say, in neuroscience or you name the area, you can go to everycare.org slash experts, and you can sign up so that if we find a drug that might be useful
+
+01:53:29.904 --> 01:53:35.390
+for a condition that you're an expert in, you might be able to give us advice and guidance on maybe what the right development path is.
+
+01:53:35.490 --> 01:54:05.438
+And anyone who's watching can help us to raise awareness about the work that we're doing. So you can follow us on social media at everycare.org and beyond. I did a TED Talk recently. You can help spread the word and check that out. And finally, of course, people can support our work financially. We're a nonprofit organization. Clinical trials are expensive. You can go online at everycare.org slash donate and donate to our work. And we're just so excited for this opportunity we have to help people with the drugs that we have. But we realize that we can't do it alone. We actually really need the whole community to get behind us. Where is funding currently
+
+01:54:05.634 --> 01:54:34.462
+from? Is it just public support? So right now, about half of our funding actually comes from the US government from an agency called ARPA-H. They're one of our earliest supporters. And the other half comes from individuals who've decided that this is important. It may be that they have a loved one that has a condition that they would love for us to work on. Or maybe it's that they just want to see us be able to help patients with the drugs that we already have. And we are just so excited of that opportunity to match the drugs we have to the patients who need them.
+
+01:54:34.690 --> 01:54:47.998
+Fantastic. And I should ask, if a drug application is discovered, is there a feedback mechanism for you guys to derive income from it, or this is a completely nonprofit? It's completely nonprofit.
+
+01:54:48.802 --> 01:55:18.768
+By the end of, let's say, the next few years, I will guess that nearly all of the opportunities that we advance forward are the same dose, the same formula. No one makes any money off of them whatsoever. I think there'll be rare cases where, let's say, the drug looks like it'll be effective, but it needs to get into the brain, where a tweak will have to be made, where a different dose or a formulation will be needed. And I think there'll probably be rare cases where probably a company will be needed to be spun out to do it. But for the vast majority, we're a nonprofit. We just want to take the drugs we already have to use them for the diseases that
+
+01:55:18.768 --> 01:55:45.886
+benefit from them. Terrific. We'll put a link to it in the show. That'd be awesome. David, thank you so much for coming here today to share your story with us and just a ton of actionable knowledge for people that are healthy. Continue to explore options safely. Think about what's possible. Understand there are things that are known. There are a lot of unknowns. And again, explore safely for people that are ill. Find a disease-related group that really has
+
+01:55:46.082 --> 01:56:08.414
+an eye on what's new, what's existing, who the best people are. Search for a few of those is kind of what I took away from that. And thank you for doing the work you do. It's amazing. We need more people like you. You're truly one of a kind. So we're immensely grateful that you've taken the hardship and transmuted it into so much good and love to have you back sometime to talk about all the...
+
+01:56:08.546 --> 01:56:30.270
+Millions of other things we didn't have time to talk about, but this has been incredibly enriching for me and I'm certain it has for everyone else. Well, thanks so much for having me. Thanks for all that you do to advance the public health and also to get the word out about the work we're doing through Every Cure. Thank you for joining me for today's discussion with Dr. David Fagenbaum. To learn more about his laboratory's work and his nonprofit, Every Cure, please see the show note captions.
+
+01:56:30.434 --> 01:57:00.400
+If you're learning from and or enjoying this podcast, please subscribe to our YouTube channel. That's a terrific zero cost way to support us. In addition, please follow the podcast by clicking the follow button on both Spotify and Apple. And on both Spotify and Apple, you can leave us up to a five-star review. And you can now leave us comments at both Spotify and Apple. Please also check out the sponsors mentioned at the beginning and throughout today's episode. That's the best way to support this podcast. If you have questions for me or comments about the podcast or guests or topics that you'd like me to consider for the Huberman
+
+01:57:00.400 --> 01:57:24.638
+Please put those in the comments section on YouTube. I do read all the comments. For those of you that haven't heard, I have a new book coming out. It's my very first book. It's entitled Protocols, an Operating Manual for the Human Body. This is a book that I've been working on for more than five years, and that's based on more than 30 years of research and experience. And it covers protocols for everything from sleep to exercise, to stress control,
+
+01:57:24.770 --> 01:57:44.766
+protocols related to focus and motivation. And of course, I provide the scientific substantiation for the protocols that are included. The book is now available by presale at protocolsbook.com. There you can find links to various vendors. You can pick the one that you like best. Again, the book is called Protocols, an Operating Manual for the Human Body.
+
+01:57:45.122 --> 01:58:15.088
+And if you're not already following me on social media, I am Huberman Lab on all social media platforms. So that's Instagram, X, Threads, Facebook, and LinkedIn. And on all those platforms, I discuss science and science-related tools, some of which overlaps with the content of the Huberman Lab podcast, but much of which is distinct from the information on the Huberman Lab podcast. Again, it's Huberman Lab on all social media platforms. And if you haven't already subscribed to our Neural Network newsletter, the Neural Network newsletter is a zero-cost monthly newsletter that includes podcast summaries as well
+
+01:58:15.088 --> 01:58:40.766
+as what we call protocols in the form of one to three page PDFs that cover everything from how to optimize your sleep, how to optimize dopamine, deliberate cold exposure. We have a foundational fitness protocol that covers cardiovascular training and resistance training. All of that is available completely zero cost. You simply go to Hubermanlab.com, go to the menu tab in the top right corner, scroll down to newsletter and enter your email. And I should emphasize that we do not share your email with anybody.
+
+01:58:41.026 --> 01:58:49.278
+Thank you once again for joining me for today's discussion with Dr. David Fagenbaum. And last, but certainly not least, thank you for your interest in science.

@@ -1,0 +1,295 @@
+WEBVTT
+
+00:00.226 --> 00:29.342
+Welcome to Huberman Lab Essentials, where we revisit past episodes for the most potent and actionable science-based tools for mental health, physical health, and performance. I'm Andrew Huberman, and I'm a professor of neurobiology and ophthalmology at Stanford School of Medicine. Today, we are going to talk all about healthy and disordered eating. And indeed, we are going to talk about clinical eating disorders, such as anorexia, bulimia, and binge eating disorder.
+
+00:29.538 --> 00:57.566
+as well as some other related eating disorders. However, before we get into this material, I want to emphasize that today's discussion will include what it is to have a healthy relationship with food. We're going to talk about metabolism. We're going to talk about how eating frequency and what one eats influences things like appetite and satiety, as well as whether or not we have a healthy psychological relationship to food and
+
+00:57.762 --> 01:26.942
+our body weight and so-called body composition, the ratio of muscle to fat to bone, et cetera. So as we march into this conversation, I'd like to share with you some interesting and what I believe are important findings in the realm of nutrition and human behavior. I know these days, many people are excited about or curious about so-called intermittent fasting. Intermittent fasting is, as the name implies, simply restricting one's
+
+01:27.234 --> 01:53.534
+feeding behavior, eating to a particular phase of the 24 hour or so-called circadian cycle. Other forms of intermittent fasting involve not eating for extended periods of time, for entire days, or some people will extend to two days or three days, typically, and hopefully they will drink water during those times, sometimes referred to as water fasting, which means that they are ingesting fluids.
+
+01:53.634 --> 02:18.494
+and hopefully they are ingesting electrolytes such as salt, potassium, and magnesium as well, because while one can survive for some period of time without ingesting calories, it is extremely important to continue to ingest plenty of fluids and electrolytes. And the reason for that is that the neurons of your brain and body that control your movements, your thoughts, clarity of thinking in general, et cetera,
+
+02:19.362 --> 02:43.934
+is critically dependent on the presence of adequate levels of sodium, potassium, and magnesium, the electrolytes. And that's because neurons can only be electrically active by way of movement of particular ions, which include things like sodium, potassium, and magnesium. So without those, you can't think, you can't function, and it actually can be quite dangerous. So why all the excitement about intermittent fasting? Well,
+
+02:44.162 --> 03:09.118
+A lot of the excitement relates to work that was done by a former colleague of mine down at the Salk Institute for Biological Studies in San Diego named Sachin Panda. Sachin's lab identified some very important and impactful health benefits of restricting one's feeding window to particular times within the 24-hour cycle, or even to having extended fasts that go for a day or two days, or maybe even three days.
+
+03:09.442 --> 03:37.278
+What they saw was an improvement in liver enzymes, an improvement in insulin sensitivity, which is something that is good. It means that you can utilize the calories and the blood sugar that you happen to have. Being insulin insensitive is not good and is actually a form of diabetes. What Sachin's lab and subsequently other labs showed was that restricting one's feeding window to anywhere from four
+
+03:37.698 --> 04:03.006
+to eight or even 12 hours during each 24 hour cycle was beneficial in mice. And some studies in humans have also shown that it can be beneficial for various health parameters. However, the excitement about intermittent fasting seems to be related to the foundational truth about metabolism and weight loss and weight maintenance and weight gain, which is that
+
+04:03.202 --> 04:24.510
+regardless of whether or not you intermittent fast or whether or not you eat small meals all day long, or you eat one meal in the evening and snack up until then, it really doesn't matter in the sense that the calories that you ingest from whatever source are going to be filtered through the calories that you burn
+
+04:25.442 --> 04:50.334
+by way of exercise, basal metabolic rate, which is just the calories that you happen to burn, just being alive and thinking and breathing and your heart beating, et cetera. And the reason why many people prefer intermittent fasting to other forms of, let's just call it what it is, diet or nutritional framework is that many people find it easier to not eat than to limit their portion size.
+
+04:50.466 --> 05:20.158
+And here I'm not talking necessarily about eating disorders. I'm talking about the general population. So why are we talking about this? And in particular, why are we talking about this during an episode that includes a discussion about eating disorders? The reason is nobody, not the government, no nutritionists, no individual, no matter how knowledgeable they are about food and nutrition and food intake can define the best plan for eating for any one individual.
+
+05:21.218 --> 05:51.198
+I'm going to repeat that. Nobody knows what truly healthy eating is. We only know the measurements we can take. Liver enzymes, blood lipid profiles, body weight, athletic performance, mental performance, whether or not you're cranky all day, whether or not you're feeling relaxed. Nobody knows how to define these. And these have strong cultural and familial and socio societal influence. So if you hang out with people that intermittent fast all day, that will seem normal.
+
+05:51.330 --> 06:16.862
+If you spend time with people that have never heard of intermittent fasting, intermittent fasting is going to seem very abnormal. Now we are going to talk about eating disorders that really fall into the category of clinically diagnosable eating disorders for which there's actually serious health hazards and even the serious risk of death. There are clear criteria in the psychiatric and psychological communities to define things like anorexia,
+
+06:16.962 --> 06:46.718
+bulimia, binge eating disorder, all of which we will talk about. But as we have that discussion, I want to emphasize that self-diagnosis can be both a terrific, but also a very precarious thing. There's always a temptation as one learns about the symptomology of a given disorder, doesn't really matter what the disorder is, to ask the question, well, do I have that? Does so-and-so that I know have that? It's tempting to diagnose them and or ourselves as either having or not having a particular disorder. However,
+
+06:47.874 --> 07:16.702
+Diagnoses really need to be carried out by people who are trained in that particular field and that have deep expertise in recognizing the symptomology, including some of the more subtle symptomology of eating disorders. So if any of the symptoms resonate with you by way of you thinking that you have this particular disorder or someone that you know has a disorder, I would take that seriously, but I would take that information to a qualified healthcare professional that could
+
+07:16.802 --> 07:32.414
+diagnose or rule out any of these possible disorders.
+
+07:32.578 --> 08:02.544
+Proper hydration is critical for optimal brain and body function. Even a slight degree of dehydration can diminish cognitive and physical performance. It's also important that you get adequate electrolytes. The electrolytes, sodium, magnesium, and potassium are vital for functioning of all the cells in your body, especially your neurons or your nerve cells. Drinking element dissolved in water makes it very easy to ensure that you're getting adequate hydration and adequate electrolytes. To make sure that I'm getting proper amounts of hydration and electrolytes, I dissolve one packet of element in about 60
+
+08:02.544 --> 08:32.496
+to 32 ounces of water when I first wake up in the morning. And I drink that basically first thing in the morning. I'll also drink Element dissolved in water during any kind of physical exercise that I'm doing, especially on hot days when I'm sweating a lot and losing water and electrolytes. Element has a bunch of great tasting flavors. I love the raspberry. I love the citrus flavor. Right now, Element has a limited edition lemonade flavor that is absolutely delicious. I hate to say that I love one more than all the others, but this lemonade flavor is right up there with my favorite other one, which is raspberry or watermelon.
+
+08:32.496 --> 09:01.982
+Again, I can't pick just one flavor. I love them all. If you'd like to try Element, you can go to drinkelement.com slash Huberman, spelled drink L-M-N-T dot com slash Huberman to claim a free Element sample pack with a purchase of any Element drink mix. Again, that's drinkelement.com slash Huberman to claim a free sample pack. So what is an eating disorder? Well, we have to take a step back and confess to the fact that every society, every culture, every family
+
+09:02.114 --> 09:30.398
+and every individual has a different relationship to food. Eating disorders, however, have particular criteria that allow us to define them and to think about different modes of treatment as it relates to the particular symptoms, in particular, the psychological and biological symptoms of those disorders. What are the major eating disorders? Anorexia nervosa, most commonly referred to as anorexia, is
+
+09:30.530 --> 10:00.446
+perhaps the most prevalent and the most dangerous of all eating disorders. In fact, anorexia is the most dangerous psychiatric disorder of all, even more than depression. The probability of death for untreated anorexia is very high. And sadly, the prevalence of anorexia is very high. If you look it up online or you talk to a qualified professional, it's essentially a failure to eat enough to maintain a healthy weight.
+
+10:00.930 --> 10:29.630
+You can see all sorts of very troubling symptoms of somebody who's been anorexic for some period of time, a general loss of muscle mass because they're ingesting fewer calories than they burn. They will have a low heart rate. This is the body and brain's attempt to lower energy output. They will have low blood pressure. They will sometimes have symptoms like fainting, loss of bone density, osteoporosis, loss of periods,
+
+10:30.274 --> 10:59.614
+in girls and women and all sorts of disrupted gut and immune functions. So there are just tons of terrible symptoms of anorexia that really place the anorexic into a very risky state, which is why mortality from anorexia gone untreated is extremely high. Now, one of the misconceptions about anorexia is that it stems from an overemphasis on perfectionism.
+
+10:59.746 --> 11:24.254
+or that because of all the images in social media and in advertising of extremely thin and fit or muscular people, that individuals are looking at themselves and comparing themselves to those images and thinking that they don't match up and developing anorexia. That turns out to not be the case. If you look at the prevalence or the rates of anorexia
+
+11:24.866 --> 11:54.814
+in the last 10 years or 20 years, and you compare that to when anorexia was first identified, which was in the 1600s and perhaps even earlier, what you find is that rates of anorexia are not going up. Classically defined anorexia has existed at essentially the same prevalence for the last 100, 200, 300 and 400 years, which is incredible and really speaks to the likelihood that there's a strong biological contribution to what we call
+
+11:54.914 --> 12:21.246
+anorexia nervosa. Anorexia nervosa is extremely common. It's anywhere from one to 2% of women. And the typical onset is in adolescence, close to puberty, but it can show up later in life as well. In fact, the identification and diagnosis of anorexia tends to be in the early 20s. But if you look back at the history of those individuals, there were
+
+12:21.442 --> 12:50.558
+typically signs of anorexia that stem back into their early teens or maybe even before that. Now, of course, men can be anorexic as well, but anorexia nervosa does seem to occur at 10 times the rate in women and young girls than it does in men and young boys. So what is hunger and what is satiety? Satiety, of course, being sated or feeling like we've had enough food. I want to remind people of the basic mechanisms by which the brain and body communicate.
+
+12:50.818 --> 13:19.678
+The body is communicating two types of information to the brain on a regular basis, but in particular around feeding. And those two types of information are mechanical information and chemical information. When your stomach is full, it sends signals to your brain that are purely based on this mechanical fullness. That's nothing to do with nutrients that says I'm full. And therefore don't be as hungry. Don't motivate to find or ingest food.
+
+13:19.810 --> 13:47.678
+Whereas when our gut is empty, even if we have plenty of nutrients or plenty of body fat stores, we tend to focus on food a bit more. So volume and mechanical influences have a profound effect on how we think and what we consider doing or not doing. Likewise, chemical effects. When we ingest food, our blood glucose goes up. That information is signaled to the brain via neuronal pathways and hormonal pathways.
+
+13:47.874 --> 14:17.630
+And in particular, there are neurons within our gut that signal to areas of our brainstem that are involved in satiety in our sense of having enough that there's food in our system. So that's chemical information. So how are hunger and feeding and satiety regulated? By way of mechanical and chemical signaling. You have, I have, we all have neurons in our hypothalamus that trigger eating and neurons that trigger cessation or stopping of eating.
+
+14:17.954 --> 14:45.214
+Your hypothalamus at the base of your forebrain sits more or less above the roof of your mouth. The hypothalamus contains lots of different kinds of neurons, including neurons that stimulate sexual activity and desire, regulate your body temperature and control appetite and ceasing of eating an appetite. There are two types of neurons within a particular area of your hypothalamus that are relevant here. There are the so-called POMC neurons.
+
+14:45.890 --> 15:11.230
+okay, pro-opioid melanocortin neurons that tend to act as more of a break on appetite by way of another hormone called melanocyte stimulating hormone. And you have a class of neurons called the AGRP neurons. The AGRP neurons are the ones that stimulate feeding and they create a sort of anxiety or excitement about food. If you eliminate or kill these neurons, which,
+
+15:11.458 --> 15:39.678
+has been done in experimental mouse models in the laboratory, but also there are humans that have lesions or neurotoxic effects on these AGRP neurons. And what you find is that they don't want to eat. They have no appetite for food whatsoever. Whereas if you stimulate these AGRP neurons, or in humans that have, say a small tumor near these AGRP neurons, they become hyperphagic. They will eat to the point of bursting. Now there are signals coming back from the body to inform the brain about presence of
+
+15:39.906 --> 16:07.166
+different levels of nutrients. And that generally comes from three sources. First of all is body fat. The more body fat we have, the more we secrete a hormone called leptin, L-E-P-T-I-N, leptin from body fat. Leptin goes to the brain and suppresses appetite. Not incidentally, leptin signaling is disrupted in people that have bulimia and obesity and certain forms of binge eating disorder.
+
+16:07.266 --> 16:33.118
+The body fat is doing something else really interesting that relates to anorexia. When there's sufficient levels of body fat and leptin circulating in the blood, and that leptin signal gets to the brain, the hypothalamus and the pituitary gland register that signal, and in a completely subconscious way, trigger the deployment of eggs in females and the production of sperm in males.
+
+16:33.314 --> 16:59.454
+So when body fat stores are very low, the reason why periods shut off or sperm production is reduced or even shut off is because there's not enough leptin getting to the hypothalamus and to the pituitary, and they shut off the signals, the hormones, things like gonadotropin, releasing hormone, luteinizing hormone, follicle stimulating hormone that travel to the ovary or to the testes and cause the ovary and testes to ovulate or to produce more
+
+16:59.682 --> 17:27.679
+So you've got two categories of neurons, one that acts as an accelerator, the AGRP neuron saying eat, eat, and gets you excited to eat. And then you have a category of neurons, the PMOC neurons that are suppressing hunger. They're acting like a brake. And the body is informing the brain all the time about the status of the body and whether or not it needs more food. So you might ask, why is it that people who are overweight and have a lot of body fat, why they would continue to eat a lot? It seems like that just shouldn't happen.
+
+17:27.874 --> 17:56.382
+From an evolutionary standpoint, it makes sense that we should eat as often as we can, as much as we can, and as fast as we can. There are circuits in the brain to reward eating often, eating fast, and cramming as much food into you as possible. Because from a purely evolutionary standpoint, food was scarce and seeking food was dangerous, whether or not it was from animal sources or not. And it's always been competitive.
+
+17:56.802 --> 18:25.758
+Every animal, including humans, has a hardwired circuit that we were born with that pays attention to how much food is available, how much we are getting now, and how much we are likely to get in the future. And without going down the rabbit hole of arcuate nucleus biology, in two sentences, you have a hypothalamic area called the arcuate nucleus. It's actually the area that houses these PMOC neurons and these other types of neurons that regulate hunger.
+
+18:26.050 --> 18:53.886
+and satiety and these neurons in the arcuate nucleus start getting active when we see food and think about food and they drive hunger in a way that's responsive to what the food looks like, what it smells like, but also our prior history of interactions with that food. And it takes into account social context. What's the pathway? How does this work? Well, you can frame all of behavior
+
+18:54.178 --> 19:24.158
+good decision making and bad decision making in a pretty simple box diagram model. We have knowledge of what we should do in one box. Okay, we should eat that, we shouldn't eat that, we should wait for dinner, we shouldn't wait for dinner. And then we have what we actually do in another box. In between those two boxes are two intervening forces. And those intervening forces are critically important. Those intervening forces are homeostatic processes that regulate the balance
+
+19:24.290 --> 19:54.174
+of different systems in your body, hot and cold, awake or asleep, dopamine and the desire to pursue things, serotonin and the desire to just relax and chill. So homeostatic processes and reward systems. And as we now move into discussion about anorexia and bulimia specifically, what you'll see is that anorexia and bulimia are not a breaking of the mindset of what one should do or shouldn't do.
+
+19:54.530 --> 20:22.942
+It's a disruption of these homeostatic and reward processes such that decision-making is completely disrupted and in many cases is not available to the anorexic or bulimic. Now, I don't want to be abstract here. What I'm saying is that the person who starves themselves to the point where they might die, and in some cases, sadly do die, they can know perfectly well that their behavior is leading to bad outcomes and possibly even death.
+
+20:23.106 --> 20:46.654
+And yet they are not able to intervene unless they get particular clinical help because the homeostatic processes, the signals from the body and brain that say you need food, those aren't registering in the same way that they are for other individuals. And just as a little teaser of where we're headed, anorexics have a sort of switch that's been flipped
+
+20:46.818 --> 21:15.934
+such that their decision-making is actually pretty darn good. It might even be better than yours in terms of evaluating food nutritional content, but their habits are disrupted. So they're not even consciously aware of the fact that they're making terrible and in some cases, very dangerous food choices. It turns out habits and the way that we build and break and rebuild new habits is one of the most effective treatments for anorexia. I'd like to take a quick break and acknowledge our sponsor, AG1.
+
+21:16.546 --> 21:21.790
+AG1 is a vitamin mineral probiotic drink that also includes prebiotics and adaptogens.
+
+21:21.890 --> 21:51.856
+As somebody who's been involved in research science for almost three decades and in health and fitness for equally as long, I'm constantly looking for the best tools to improve my mental health, physical health, and performance. I discovered AG1 back in 2012, long before I ever had a podcast, and I've been taking it every day since. I find it improves all aspects of my health, my energy, my focus, and I simply feel much better when I take it. AG1 uses the highest quality ingredients in the right combinations, and they're constantly improving their formulas without increasing the cost.
+
+21:51.856 --> 22:10.334
+In fact, AG1 just launched their latest formula upgrade. This next-gen formula is based on exciting new research on the effects of probiotics on the gut microbiome, and it now includes several clinically studied probiotic strains shown to support both digestive health and immune system health, as well as to improve bowel regularity and to reduce bloating.
+
+22:10.466 --> 22:40.432
+Whenever I'm asked if I could take just one supplement, what that supplement would be, I always say AG1. If you'd like to try AG1, you can go to drinkag1.com slash Huberman. For a limited time, AG1 is giving away a free one month supply of omega-3 fish oil along with a bottle of vitamin D3 plus K2. As I've highlighted before on this podcast, omega-3 fish oil and vitamin D3 K2 have been shown to help with everything from mood and brain health to heart health to healthy hormone status and much more. Again, that's drinkag1.com.
+
+22:40.432 --> 23:01.214
+So now let's talk about anorexia, this failure to consume enough energy such that the individual is at risk of death. And if not death, then severe metabolic disorders, lack of bone density, et cetera.
+
+23:01.826 --> 23:25.150
+A careful analysis through medical epidemiology has shown that you find anorexia even in cultures and societies where food is scarce. So that really speaks to biological mechanism. Typically anorexia starts in adolescence right around puberty. Puberty at a very broad level is the most significant and dramatic developmental step anyone goes through in their lifespan.
+
+23:25.250 --> 23:55.216
+The body changes, the brain changes, perceptions change, one's own self-perception changes. And most of those changes are driven by changes in circuitry within the hypothalamus. So neurons that are controlling the production of the so-called sex steroid hormones, things like testosterone, estrogen, and related hormones, prolactin, et cetera, those are all changing at very rapid rates. Let's look under the hood. Let's look at what's known about the neural circuitry and the sorts of perceptions and behaviors of the neural circuitry is driving
+
+23:55.216 --> 24:18.270
+in order to understand what they are truly suffering from at the level of cause, not just symptoms. First of all, there's a challenge in studying anorexia because in anorexia, what you're essentially studying is the absence of a behavior. It's very hard to study the absence of a behavior as opposed to a behavior. So they did some experiments with anorexics giving them
+
+24:18.370 --> 24:45.822
+a gallery of pictures of different foods and allowing those anorexic patients to arrange those foods according to preference about what they would select, about food nutrient content, about caloric content. They essentially asked these anorexics to evaluate food. And in doing so, they were able to identify something that's very unique to anorexics at the level of their perception of food. Anorexics,
+
+24:46.434 --> 25:14.430
+rather than being anxious in the presence of food, have a hyper acuity, a hyper awareness of the fat content of foods, almost to the point of being sort of fat content savants. Now it's a well-known symptom of anorexia, especially young anorexics that they have kind of an obsession with food, caloric contents, macronutrient ratios, meaning fat protein and carbohydrate ratios. They are actively avoiding high fat,
+
+25:14.530 --> 25:42.334
+content foods, calorie rich foods, and defaulting towards very low calorie foods if they have to eat. And that's very important because what that means is that we need to look at the areas of the brain that drive habit formation and habit execution. In the case of the anorexic, those habits are exactly the place where things start to go awry and that drive this very dysfunctional under eating behavior that
+
+25:42.690 --> 26:12.190
+sadly often leads to death or certainly bad medical outcomes. And it turns out that the brain areas associated with habit formation and execution are the best point of intervention. So you have reflexes and you have neural processes that include what are called duration path and outcome type processes. A duration path outcome type process, we can shorten with DPO. DPO is for,
+
+26:12.802 --> 26:42.078
+all types of goal related behaviors. So for instance, if you want to go to the grocery store and pick some stuff up and then head home, you're going to think duration, how long do I have? Okay, do I have 45 minutes to get to the store? How long does it take to get to the store? Path, which way am I going to drive there? Which way am I going to navigate through the grocery store? Outcome, was I able to get in and get the items I need and get home in time? Okay, DPO, duration path outcome. It's a very conscious process that requires decision-making and it's reward-based.
+
+26:42.242 --> 27:09.566
+You use these DPO type processes in the short term to pick up groceries and pick a line at the grocery store and decide which trajectory to take home. And you use them for navigating long extended processes in life, trying to get a degree or raise children or get through a particularly challenging year, et cetera. So duration path outcome and that entire process relies on your forebrain, this prefrontal cortex.
+
+27:11.010 --> 27:39.966
+The prefrontal cortex is what allows you to take information from memory, combine it with information about what's happening in the present context, and then to direct your behavior, your speech, et cetera, toward particular outcomes. Reflexes, on the other hand, don't involve the prefrontal cortex in the same way. Habits and reflexes, like once you know how to walk, that doesn't rely on prefrontal cortex. It's subconscious as it's sometimes called, but basically you don't have to use the parts of the brain
+
+27:40.098 --> 28:08.222
+that are involved in duration path and outcome type analysis. But basically you have a brain area and anorexics have a brain area that's involved in evaluating and decision-making around food. And then another brain area that's involved in the reflexive consumption of particular foods and the reflexive avoidance of other foods. There are always homeostatic and reward systems influencing this kind of thing. Well, in the brain of the anorexic,
+
+28:08.546 --> 28:36.670
+it turns out that the reward systems have been attached to the execution of habits in a way that is unhealthy for body weight, but at least from a purely neural circuit perspective, the reward is now given, this chemical reward in the brain is given for avoiding particular foods and only approaching these very low calorie, low fat foods. So there really does seem to be a flip in the switch
+
+28:36.930 --> 29:02.462
+in the anorexic brain that rewards them internally. They feel good when they avoid certain foods and they approach others. So it's not a deprivation-based model where they are flagellating themselves or masochistic or actively avoiding food in order to punish themselves, which is interesting because a lot of psychological theories support that idea. Rather, once this transitions into
+
+29:02.594 --> 29:30.174
+a set of habits, they are actually getting a sense of reward. They feel good, presumably from the release of a different neuromodulator called dopamine by approaching foods that are low fat, low calorie content. And so their whole brain circuitry is skewed toward avoiding particular things. And they actually are rewarded for that. And they feel good. They feel better than if they were eating in a healthy weight supporting way. So how do you break a habit?
+
+29:30.274 --> 29:51.742
+how do you rewire the brain circuitry that's literally causing a reflex? And in this case, causing a reflex that is killing the individual, or at least leading to very bad health outcomes. The way that you do that is through a cognitive mechanism where you teach the individual what is leading up to the habit. So let's talk about what those
+
+29:51.842 --> 30:20.830
+things are that lead into a habit because those turn out to be the exact points of entry for changing and eliminating and rewiring habits toward more healthy behaviors. There are two main features of thinking that go into the sorts of habits that anorexics execute. The first is something called weak central coherence. Weak central coherence is essentially an inability to see the forest through the trees. It's a hyper acuity and focus on details
+
+30:20.994 --> 30:49.150
+within a given environment, you miss the big picture. The other is a challenge in set shifting that once you identify something that's a particular interest and that's driving some sort of reward for the anorexic that would be identifying the high fat foods or identifying the one food on the table that one could eat without anyone hopefully noticing that they're eating just the green beans and not touching any of the other food. If you ever had a meal with an anorexic, they become masterful actually
+
+30:49.250 --> 31:16.062
+at trying to keep people's awareness away from what they're doing, which is to home in on these low fat, low calorie foods. What's amazing and frankly also important are these findings that once you teach anorexics what's happening to them, that they're doing this, they are able to intervene. Now they need support, right? And another form of therapy that seems to work well for anorexics that ideally is combined with this
+
+31:16.290 --> 31:43.070
+habit rewiring is a family-based model. Family-based models are starting to surface a lot now in various therapy settings. Therapy-based models in short are basically where the entire family is made aware of the individual's challenges with a particular eating disorder or other disorder. And in understanding some of the biology and psychology around it, they stop condemning the individual. They start to support that individual through
+
+31:43.234 --> 32:11.710
+cueing them towards their own habits that they observe. They give them some autonomy. They realize that none of this changes overnight, but they're taught about things like neuroplasticity and the ability to change one's brain in response to experience. And so there's a whole internal support network. All of these things fall under the umbrella of cognitive behavioral therapy. And I should mention that cognitive behavioral therapies are often done in conjunction with pharmacologic therapies. Before we move on to talking about bulimia and some related disorders,
+
+32:11.906 --> 32:37.310
+I want to talk about an aspect of anorexia that's very interesting, quite troubling in fact, but that has received a lot of attention and that's the distorted self image. Now, in the episode on depression, we talked about a very powerful aspect of major depression, which is this anti-self confabulation that people who are depressed seem to genuinely believe
+
+32:37.634 --> 33:05.502
+and even confabulate about the fact that they are performing poorly in life and that they are no good or worthless, et cetera. It's literally a lie that they believe and their statements and their feelings and their behaviors start to reflect that lie. They're not conscious of it. That's why we call it a confabulation. Anorexics often will see themselves as overweight or imperfect in ways that are of an obsession for them. In the case of the anorexic,
+
+33:06.242 --> 33:35.550
+The problem seems to be that they have a genuine distortion of their self-image, so much so that they don't actually see themselves accurately, their visual perceptions are off. And the reason we know this is because of some really important and beautiful studies that were done in my colleague, Jeremy Balenson's lab at Stanford. What's really interesting about these studies is they give us a window into the perceptual defect that anorexics have. I've actually done one of these experiments.
+
+33:35.682 --> 34:00.126
+I'm fortunate to not be anorexic, but I've done some work with the VR lab over there. And what you get to do is you get to adjust this avatar of yourself to the point where you think it's as accurate as it could possibly be. And anorexics really distort this avatar. In other words, they create this serious mismatch between their perception of themselves and the reality. So indeed it does seem to be the case. Now, what's,
+
+34:00.514 --> 34:09.566
+or I should say what's encouraging about some of the therapies that we talked about before, the family-based model, the cognitive behavioral treatments,
+
+34:09.922 --> 34:33.022
+Yes, and the drug treatments as well, but this habit intervention model is that as one starts to shift those things, it does appear that the perception of self seems to follow, that the perception of self seems to shift along with the change in habits. So it doesn't seem that trying to tell someone, oh my gosh, you're so thin, you really need to eat, that doesn't seem to work.
+
+34:33.250 --> 35:01.982
+They just don't see themselves the same way that you see them. And so I offer that as a point of consideration if you know someone that's anorexic or if you look at an anorexic and you think, how is it that they are still critical of the small, even non-existent amount of body fat on their triceps or something? How is that? Well, it's literally that their brain, as it relates to perceptions, visual perceptions in particular, they're completely off. And fortunately by changing habits, you rewire those circuits as well.
+
+35:03.234 --> 35:24.894
+I'd like to take a quick break and acknowledge one of our sponsors, Function. Last year, I became a Function member after searching for the most comprehensive approach to lab testing. Function provides over 100 advanced lab tests that give you a key snapshot of your entire bodily health. This snapshot offers you with insights on your heart health, hormone health, immune functioning, nutrient levels, and much more.
+
+35:25.058 --> 35:55.024
+Function not only provides testing of over 100 biomarkers key to your physical and mental health, but it also analyzes these results and provides insights from top doctors who are expert in the relevant areas. For example, in one of my first tests with Function, I learned that I had elevated levels of mercury in my blood. Function not only helped me detect that, but offered insights into how best to reduce my mercury levels, which included limiting my tuna consumption. I'd been eating a lot of tuna, while also making an effort to eat more leafy greens and supplementing with NAC and acetylcysteine,
+
+35:55.024 --> 36:17.374
+both of which can support glutathione production and detoxification. And I should say, by taking a second function test, that approach worked. Comprehensive blood testing is vitally important. There's so many things related to your mental and physical health that can only be detected in a blood test. The problem is blood testing has always been very expensive and complicated. In contrast, I've been super impressed by function simplicity and
+
+36:17.506 --> 36:46.878
+at the level of cost. It is very affordable. As a consequence, I decided to join their scientific advisory board and I'm thrilled that they're sponsoring the podcast. If you'd like to try Function, you can go to functionhealth.com slash Huberman. Function currently has a wait list of over 250,000 people, but they're offering early access to Huberman podcast listeners. Again, that's functionhealth.com slash Huberman to get early access to Function. Okay, so let's talk about bulimia, which is overeating,
+
+36:47.458 --> 37:13.534
+and then purging typically by self-induced vomiting or by ingestion of laxatives. And then we'll also talk about binge eating disorder, which has a lot of the same features as bulimia, but typically no purging. The criteria that were described to me is that if somebody is doing this at least once a month over a period of anywhere from two to three months, then it likely would qualify. They're not making the decision to overeat,
+
+37:13.634 --> 37:43.006
+they are driven from the inside to ingest far more food than they need. And in some cases, then they would want to eat. So it's a lot like the habit that we described for anorexia. It's almost like it's turned into a reflex once they get going. All the homeostatic signals are being overridden. All the signals from the body, the leptin, the insulin, the glucose, all that stuff is cosmically sky high. And yet they're just what we, you know,
+
+37:43.202 --> 38:12.254
+the nerds call hyperphagic, they're just eating like crazy. There's a lot of shame associated with bulimia, oftentimes because people are vomiting and it's hard to hide that vomiting behavior. People are aware of it. The hallmark feature of bulimia that distinguishes it from anorexia, aside from the fact that it's overeating as opposed to under eating, is a lack of what they call inhibitory control. And that might come as no surprise, but first of all,
+
+38:12.514 --> 38:41.918
+the bulimic, unlike the anorexic, is hyper impulsive and oftentimes has other types of impulse behaviors. And for that reason, many of the treatments that you see for bulimia and binge eating disorder are the sorts of treatments that don't seem to work so well, or at least most of the time for anorexia. So the drugs that increase the neuromodulator serotonin, for instance, fluoxetine, also called Prozac,
+
+38:42.274 --> 39:07.294
+et cetera. Those things oftentimes can be effective in bulimia. Some of the drugs that are used to treat attention deficit hyperactivity disorder and ADD, some of those same drugs like Adderall, Vyvanse, and things of that sort can also be used to treat bulimia and binge eating disorder. Why would that work? Well, now you are familiar with the prefrontal cortex. Prefrontal cortex is involved in this
+
+39:07.586 --> 39:35.774
+analysis of duration, path, and outcome. Duration, path, and outcome is how we avoid impulsivity. It's how we think, okay, if this, then that, if that, then this. You can imagine how for the obsessive compulsive or for the anorexic, these are circuits that are overactive. For the bulimic, this is the circuit that's going to essentially be underactive. So really the polar opposite of what you see in anorexia. So this lack of impulsivity implies a lack of prefrontal
+
+39:35.906 --> 40:05.598
+control what we call top-down control, they become more impulsive. So bulimics have an issue with impulsivity and therefore drugs that can increase serotonin and sometimes these drugs that increase dopamine and norepinephrine levels in the brain allow for more top-down control. And that's also why they're used to treat ADHD and attention deficit disorder. These drugs tend to create a hyper-focus and tend to push the brain and general mode of processing into one in which you think if this, then that.
+
+40:05.698 --> 40:34.974
+If this, then that. So anticipating outcomes. Do behavioral interventions work for bulimia? In some cases, yes, provided that those interventions are done early enough. Regardless, behavioral interventions coupled with drug-based interventions are always more effective than either one alone. Fortunately, there is a decent-sized kit of drugs that can help with bulimia. We have on the one hand, anorexia, which seems to be a disruption in habit and a coupling of unhealthy habits
+
+40:35.138 --> 41:00.862
+in this case, food restriction to the reward pathway. And on the flip side, we have binge eating disorder and bulimia where a very unhealthy habit of gorging oneself with food, sometimes followed by purging is not necessarily coupled to reward. They feel terrible when they do that, right? The anorexic feels great about restricting their food intake. They feel like they're winning some sort of game. The circuitry is flipped somehow that way with,
+
+41:00.994 --> 41:30.366
+bulimia, they feel horrible about the fact that they're binging. There's immense shame. They can't control themselves. The reward is set up before the behavior. The reward is set up in drawing them to food and in making food look like something that's incredibly appetizing and there's no impulse break. There's no way for them to stop that kind of behavior. I think for those of us that know anorexics or have observed anorexia, it's so hard to see somebody starve themselves
+
+41:30.594 --> 42:00.126
+to near death or to death. Equally disturbing is somebody who has an abundance of food and is gorging themselves and then feels terrible about it. So these are heavy topics. These are topics that frankly, no one really wants to talk about unless they know someone who's suffering from them or they themselves suffer from them. What I've tried to do today is try and give you a window into what really underlies these things that we call eating disorders. I hope I've done that at the level of
+
+42:00.322 --> 42:26.494
+biology, neurocircuitry, mechanism, endocrinology, and some of the psychology. As with any episode of this podcast, but especially where we're talking about mental health issues and mental health disorders, behavioral disorders, there's no way that I can exhaustively cover all the different forms of treatment. The major takeaways today are, we should all be asking the question, what is healthy eating for us? How do we develop a relationship to food that we can enjoy food
+
+42:26.882 --> 42:53.822
+hopefully both socially and on our own, but that we are not neurotic and compulsive about it. Today, we focused on the extremes of food-related behaviors that really qualify as genuine disorders. They are in the psychiatric manuals and they are diagnosable and they are serious health concerns. They're not just mentally troubling and concerning for the people suffering from them and the people around them, but they are genuine health concerns.
+
+42:54.434 --> 43:23.102
+just want to reiterate that anorexia nervosa is the most deadly psychiatric disorder by a huge margin. And if you look statistically at the number of people with eating disorders and that die of eating disorders, it's not far off from the number of people that die from automobile accidents. I would love for you to take away this model that was handed off to me that I think is so powerful for thinking about all sorts of things, not just eating, but all kinds of behaviors and perceptions that you have.
+
+43:23.234 --> 43:53.214
+one box for what you think, one box for what you do, and what is intervening between those? Why is it that you can know better and not do better? Well, it's because you also have to cope with the subconscious homeostatic processes and reward processes. And those oftentimes can be disrupted in ways that we find ourselves doing things that are not good for us or not good for other people. But fortunately, there is this great gift, which is that knowledge of knowledge can allow you to do better
+
+43:54.050 --> 44:17.278
+without question, and that knowledge of knowledge, allowing you to do better over time leads to this incredible phenomenon called neuroplasticity, which essentially is translated into doing better over time, even if difficult, eventually makes doing better reflexive. And last but not least, I want to thank you for your time and attention, and thank you for your interest in science.
