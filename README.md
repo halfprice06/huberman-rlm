@@ -4,7 +4,7 @@ Q&A over Huberman Lab podcast transcripts using [DSPY + RLM](https://dspy.ai/).
 
 ## What's RLM?
 
-RLM (Recursive Language Model) lets the model write Python to explore documents instead of stuffing everything into context. You give it a big dict of transcripts, ask a question, and watch it write code to search, filter, and analyze until it finds what it needs.
+RLM (Recursive Language Model) lets the model write Python to explore input context in a python REPL instead of stuffing everything into one limited context. You give it a big dict of transcripts, ask a question, and watch it write code to search, filter, and analyze until it finds what it needs. The key is that it can use sub LMs to explore context without blowing up the main LM's context window. 
 
 The code runs in a sandboxed Deno/Pyodide interpreter. When the model needs to do semantic analysis on a chunk of text, it calls `llm_query()` which hits a smaller/faster sub-model.
 
