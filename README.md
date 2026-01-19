@@ -1,6 +1,6 @@
 # Huberman RLM
 
-Q&A over Huberman Lab podcast transcripts using [DSPy RLM](https://dspy.ai/).
+Q&A over Huberman Lab podcast transcripts using [DSPY + RLM](https://dspy.ai/).
 
 ## What's RLM?
 
